@@ -45,6 +45,7 @@ https://github.com/oscarperpinan/solar
 - [FZJ-IEK3-VSA/windtools: Small tools to assist wind energy simulations](https://github.com/FZJ-IEK3-VSA/windtools) 
 https://gitlab.windenergy.dtu.dk/TOPFARM/PyWake
 https://github.com/WISDEM/WISDEM
+https://github.com/WISDEM/LandBOSSE
 
 
 ### Hydro Energy
