@@ -24,6 +24,7 @@ Open Software for the Development of Free Technology Sustaining Future Life Qual
 - [BayesProcess](https://github.com/PV-Lab/BayesProcess) - is a python package for Physics informed Bayesian network inference using neural network surrogate model for matching process / variable / performance in solar cells
 https://zenodo.org/record/2613651#.XRtJRP7Rapo
 https://github.com/qpv-research-group/solcore5
+https://github.com/squishykid/solax
 
 
 ### Wind Energy
