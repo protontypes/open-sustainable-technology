@@ -1,8 +1,6 @@
 # Awesome Sustainable Technology
 Open Software for the Development of Free Technology Sustaining Future Life Quality
 
-Feel welcomed to participate. Please check out our contribution guide. 
-
 ## Renewable energy
 
 ### Solar Energy
