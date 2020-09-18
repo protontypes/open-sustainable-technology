@@ -59,6 +59,7 @@ https://gitlab.windenergy.dtu.dk/TOPFARM/PyWake
 - [oemof/tespy: Thermal Engineering Systems in Python (TESPy). This package provides a powerful simulation toolkit for thermal engineering plants such as power plants, district heating systems or heat pumps.](https://github.com/oemof/tespy) 
 - [MassimoCimmino/pygfunction: An open-source toolbox for the evaluation of thermal response factors (g-functions) of geothermal borehole fields.](https://github.com/MassimoCimmino/pygfunction) 
 - [Japhiolite/geothermics: Educational repository with Jupyter Notebooks all around the topic of geothermal energy](https://github.com/Japhiolite/geothermics) 
+http://energy.concord.org/energy2d/
 
 
 ### Biological Energy
