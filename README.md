@@ -49,6 +49,7 @@ You are welcomed to participate. Please check out contribution guide.
 - [SNL-WaterPower/CACTUS: CACTUS (Code for Axial and Cross-flow TUrbine Simulation) is a turbine performance simulation code, based on a free wake vortex method, to study wind turbines and marine hydrokinetic (MHK) devices.](https://github.com/SNL-WaterPower/CACTUS) 
 - [energy-modelling-toolkit/hydro-power-database: JRC Hydro-power plants database](https://github.com/energy-modelling-toolkit/hydro-power-database) 
 - [MHKiT-Software/MHKiT-Python: MHKiT-Python provides the marine renewable energy (MRE) community tools for data processing, visualization, quality control, resource assessment, and device performance.](https://github.com/MHKiT-Software/MHKiT-Python) 
+- https://github.com/MODFLOW-USGS/modflow6
 
 
 ### Geothermal Energy
@@ -111,6 +112,8 @@ You are welcomed to participate. Please check out contribution guide.
 - [FZJ-IEK3-VSA/FINE: The FINE python package provides a framework for modeling, optimizing and assessing energy systems](https://github.com/FZJ-IEK3-VSA/FINE) 
 - [awslabs/gluon-ts: Probabilistic time series modeling in Python](https://github.com/awslabs/gluon-ts) 
 - [facebook/prophet: Tool for producing high quality forecasts for time series data that has multiple seasonality with linear or non-linear growth.](https://github.com/facebook/prophet) 
+- [FZJ-IEK3-VSA/geokit: Geospatial toolkit for Python](https://github.com/FZJ-IEK3-VSA/geokit) 
+
 
 
 ## Smart Grid
@@ -234,6 +237,7 @@ https://github.com/bcgov/gwells
 
  
 
-- [FZJ-IEK3-VSA/geokit: Geospatial toolkit for Python](https://github.com/FZJ-IEK3-VSA/geokit) 
-
+https://github.com/NOAA-EMC/WW3
 https://github.com/pangeo-data/awesome-open-climate-science
+https://github.com/softwareunderground/awesome-open-geoscience#simulation-and-modelling
+https://github.com/chrisleaman/awesome-coastal
