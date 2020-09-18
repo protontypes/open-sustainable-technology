@@ -1,8 +1,8 @@
 # Renewable energy
 
-## Solar Enery
+## Solar Energy
 
-## Wind Enery
+## Wind Energy
 
 ## Hydro Energy
 
