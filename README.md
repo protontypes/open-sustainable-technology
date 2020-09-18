@@ -25,6 +25,8 @@ Open Software for the Development of Free Technology Sustaining Future Life Qual
 https://zenodo.org/record/2613651#.XRtJRP7Rapo
 https://github.com/qpv-research-group/solcore5
 https://github.com/squishykid/solax
+https://github.com/NREL/bifacialvf
+https://github.com/oscarperpinan/solar
 
 
 ### Wind Energy
