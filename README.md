@@ -1,57 +1,94 @@
-# Renewable energy
+# Awesome Sustainable Technology
+> Open Projects and Tools for the Development of Free Technology Sustaining Future Life Quality
 
-## Solar Energy
+You are welcomed to participate. Please check out contribution guide. 
 
-## Wind Energy
+## Renewable energy
 
-## Hydro Energy
-
-## Geothermal Energy
-
-## Biological Energy
-
-* [google/makani: Makani was a project to develop a commercial-scale airborne wind turbine, culminating in a flight test of the Makani M600 off the coast of Norway. All Makani software has now been open-sourced. This repository contains the working Makani flight simulator, controller (autopilot), visualizer, and command center flight monitoring tools. Additionally, almost all avionics firmware is also included, albeit potentially not in a buildable state, due to the removal of some third-party proprietary code. We hope that this code will be inspirational and useful to the kite-based windpower and wider communities.](https://github.com/google/makani) 
-
-- [foxBMS/foxbms](https://github.com/foxBMS/foxbms) 
-- [pvlib/pvlib-python: A set of documented functions for simulating the performance of photovoltaic energy systems.](https://github.com/pvlib/pvlib-python) 
-- [NREL/SAM: System Advisor Model (SAM)](https://github.com/NREL/SAM) 
-- [ECSIM/opem: OPEM (Open Source PEM Fuel Cell Simulation Tool)](https://github.com/ECSIM/opem) 
-- [pandapower - pandapower](http://www.pandapower.org/) 
+### Solar Energy
+- [pvlib/pvlib-python: A set of documented functions for simulating the performance of photovoltaic energy systems.](https://github.com/pvlib/pvlib-python)
 - [SunPower/pvfactors: Open-source view-factor model for diffuse shading and bifacial PV modeling. Documentation:](https://github.com/SunPower/pvfactors) 
-- [Vizzuality/gfw: Global Forest Watch: An online, global, near-real time forest monitoring tool](https://github.com/Vizzuality/gfw) 
-- [pedropro/TACO: 🌮 Trash Annotations in Context Dataset Toolkit](https://github.com/pedropro/TACO) 
-- [NewMotion/ocpp: Open Charge Point Protocol](https://github.com/NewMotion/ocpp) 
-- [OpenEnergyPlatform/oeplatform: Repository for the code of the Open Energy Platform (OEP) website. The OEP provides an interface to the Open Energy Family](https://github.com/OpenEnergyPlatform/oeplatform) 
-- [gschivley/PowerGenome: A tool to quickly and easily create inputs for power systems models](https://github.com/gschivley/PowerGenome) 
-- [catalyst-cooperative/pudl: The Public Utility Data Liberation Project](https://github.com/catalyst-cooperative/pudl) 
-- [ECSHackWeek/impedance.py: A Python package for working with electrochemical impedance data](https://github.com/ECSHackWeek/impedance.py) 
-- [coopcycle/coopcycle-web: Open source logistics platform. Only for worker-owned business.](https://github.com/coopcycle/coopcycle-web)
-- [CalebBell/thermo: Thermodynamics, phase equilibria, transport properties and chemical database component of Chemical Engineering Design Library (ChEDL)](https://github.com/CalebBell/thermo) 
 - [renewables-ninja/gsee: GSEE: Global Solar Energy Estimator](https://github.com/renewables-ninja/gsee) 
 - [SunPower/PVMismatch: An explicit Python PV system IV & PV curve trace calculator which can also calculate mismatch.](https://github.com/SunPower/PVMismatch) 
-- [EVNotify/EVNotify: EVNotify allows you to monitor your electric vehicle and let you notify when the specified preset state of charge has been achieved.](https://github.com/EVNotify/EVNotify) 
-- [PyPSA/PyPSA: PyPSA: Python for Power System Analysis](https://github.com/PyPSA/PyPSA) 
 - [NREL/rdtools: PV Analysis Tools in Python](https://github.com/NREL/rdtools) 
+
+
+### Wind Energy
+* [google/makani: Makani was a project to develop a commercial-scale airborne wind turbine, culminating in a flight test of the Makani M600 off the coast of Norway. All Makani software has now been open-sourced. This repository contains the working Makani flight simulator, controller (autopilot), visualizer, and command center flight monitoring tools. Additionally, almost all avionics firmware is also included, albeit potentially not in a buildable state, due to the removal of some third-party proprietary code. We hope that this code will be inspirational and useful to the kite-based windpower and wider communities.](https://github.com/google/makani) 
+- [wind-python/windpowerlib: The windpowerlib is a library to model the output of wind turbines and farms.](https://github.com/wind-python/windpowerlib) 
+
+### Hydro Energy
+
+
+### Geothermal Energy
+
+### Biological Energy
+
+## Energy Storage
+
+### Batterie
+- [foxBMS/foxbms](https://github.com/foxBMS/foxbms)
+- [ECSHackWeek/impedance.py: A Python package for working with electrochemical impedance data](https://github.com/ECSHackWeek/impedance.py) 
 - [pybamm-team/PyBaMM: Fast and flexible physics-based battery models in Python](https://github.com/pybamm-team/PyBaMM) 
-- [ropensci/clifro: Easily download and visualise climate data from CliFlo](https://github.com/ropensci/clifro) 
+
+
+### Hydrogen
+- [ECSIM/opem: OPEM (Open Source PEM Fuel Cell Simulation Tool)](https://github.com/ECSIM/opem) 
+- [CalebBell/thermo: Thermodynamics, phase equilibria, transport properties and chemical database component of Chemical Engineering Design Library (ChEDL)](https://github.com/CalebBell/thermo) 
+
+## Energy Supply Observation and Data
+- [catalyst-cooperative/pudl: The Public Utility Data Liberation Project](https://github.com/catalyst-cooperative/pudl) 
 - [wri/global-power-plant-database: A comprehensive, global, open source database of power plants](https://github.com/wri/global-power-plant-database) 
 - [tmrowco/electricitymap-contrib: A real-time visualisation of the CO2 emissions of electricity consumption](https://github.com/tmrowco/electricitymap-contrib) 
-- [Stargazers · tmrowco/northapp-contrib](https://github.com/tmrowco/northapp-contrib/stargazers) 
-- [Tanibox/tania-core: Tania is a farm management software to help farmers manage their farm operations.](https://github.com/Tanibox/tania-core) 
-- [climate-strike/license: Prevent oil and gas companies from co-opting your work and extracting more fossil fuels with this software license.](https://github.com/climate-strike/license) 
-- [JGCRI/hector: The Hector Simple Climate Model](https://github.com/JGCRI/hector) 
-- [OpenEMS/openems: OpenEMS - Open Source Energy Management System](https://github.com/OpenEMS/openems) 
-- [Ifsttar/NoiseModelling: A free and open-source model to compute noise maps.](https://github.com/Ifsttar/NoiseModelling) 
-- [amaurymartiny/shoot-i-smoke: See your city's air pollution measured in daily cigarettes. iOS/Android.](https://github.com/amaurymartiny/shoot-i-smoke) 
-- [wind-python/windpowerlib: The windpowerlib is a library to model the output of wind turbines and farms.](https://github.com/wind-python/windpowerlib) 
-- [farmOS/farmOS: farmOS: A web-based farm record keeping application.](https://github.com/farmOS/farmOS) 
+
+
+## Power System Modeling and Analysis
 - [NREL/reV: Renewable Energy Potential (reV) Model](https://github.com/NREL/reV) 
-- [KnowFlow/KnowFlow_AWM: KnowFlow Automatic Water Monitoring device is an open sourced tool enable everyone having access to first hand water quality data with low cost.](https://github.com/KnowFlow/KnowFlow_AWM) 
-- [philippkraft/cmf: Catchment Modelling Framework, a hydrologic modelling toolbox](https://github.com/philippkraft/cmf) 
-- [USGS-R/EGRET: An R-package for the analysis of long-term changes in water quality and streamflow, including the water-quality method Weighted Regressions on Time, Discharge, and Season (WRTDS). http://usgs-r.github.io/EGRET/](https://github.com/USGS-R/EGRET) 
+- [NREL/SAM: System Advisor Model (SAM)](https://github.com/NREL/SAM)  
+- [pandapower - pandapower](http://www.pandapower.org/) - An easy to use open source tool for power system modeling, analysis and optimization with a high degree of automation.
+- [gschivley/PowerGenome: A tool to quickly and easily create inputs for power systems models](https://github.com/gschivley/PowerGenome) 
+- [PyPSA/PyPSA: PyPSA: Python for Power System Analysis](https://github.com/PyPSA/PyPSA) 
+- [OpenEMS/openems: OpenEMS - Open Source Energy Management System](https://github.com/OpenEMS/openems) 
+
+
+## Mobility
+- [NewMotion/ocpp: Open Charge Point Protocol](https://github.com/NewMotion/ocpp) 
+- [coopcycle/coopcycle-web: Open source logistics platform. Only for worker-owned business.](https://github.com/coopcycle/coopcycle-web)
+- [EVNotify/EVNotify: EVNotify allows you to monitor your electric vehicle and let you notify when the specified preset state of charge has been achieved.](https://github.com/EVNotify/EVNotify) 
+
+## Observation and Conservation of ecosystems 
+- [Vizzuality/gfw: Global Forest Watch: An online, global, near-real time forest monitoring tool](https://github.com/Vizzuality/gfw) 
+- [pedropro/TACO: 🌮 Trash Annotations in Context Dataset Toolkit](https://github.com/pedropro/TACO) 
+- [OpenEnergyPlatform/oeplatform: Repository for the code of the Open Energy Platform (OEP) website. The OEP provides an interface to the Open Energy Family](https://github.com/OpenEnergyPlatform/oeplatform) 
 - [ropensci/taxize: A taxonomic toolbelt for R](https://github.com/ropensci/taxize) 
 - [ropensci/rgbif: Interface to the Global Biodiversity Information Facility API](https://github.com/ropensci/rgbif) 
 - [globalbioticinteractions/globalbioticinteractions: Global Biotic Interactions provides access to existing species interaction datasets](https://github.com/globalbioticinteractions/globalbioticinteractions) 
+
+
+
+## Climate Data and Models
+- [ropensci/clifro: Easily download and visualise climate data from CliFlo](https://github.com/ropensci/clifro) 
+- [JGCRI/hector: The Hector Simple Climate Model](https://github.com/JGCRI/hector) 
+
+
+## CO2 Footprint
+- [Bloom](https://github.com/tmrowco/northapp-contrib/) - Bloom is a SaaS that allow companies to become climate leaders, from calculating their climate impact to communicating about their climate efforts. It connects to as many data sources as possible to assess your carbon footprint and find mitigation opportunities.
+
+## Licenses and Law
+- [climate-strike/license: Prevent oil and gas companies from co-opting your work and extracting more fossil fuels with this software license.](https://github.com/climate-strike/license)
+
+## Agriculture
+- [Tanibox/tania-core: Tania is a farm management software to help farmers manage their farm operations.](https://github.com/Tanibox/tania-core) 
+- [farmOS/farmOS: farmOS: A web-based farm record keeping application.](https://github.com/farmOS/farmOS) 
+ 
+ 
+## Pollusion 
+- [Ifsttar/NoiseModelling: A free and open-source model to compute noise maps.](https://github.com/Ifsttar/NoiseModelling) 
+- [amaurymartiny/shoot-i-smoke: See your city's air pollution measured in daily cigarettes. iOS/Android.](https://github.com/amaurymartiny/shoot-i-smoke) 
+- [KnowFlow/KnowFlow_AWM: KnowFlow Automatic Water Monitoring device is an open sourced tool enable everyone having access to first hand water quality data with low cost.](https://github.com/KnowFlow/KnowFlow_AWM) 
+- [USGS-R/EGRET: An R-package for the analysis of long-term changes in water quality and streamflow, including the water-quality method Weighted Regressions on Time, Discharge, and Season (WRTDS). http://usgs-r.github.io/EGRET/](https://github.com/USGS-R/EGRET) 
+- [philippkraft/cmf: Catchment Modelling Framework, a hydrologic modelling toolbox](https://github.com/philippkraft/cmf) 
+
 - [deepchem/deepchem: Democratizing Deep-Learning for Drug Discovery, Quantum Chemistry, Materials Science and Biology](https://github.com/deepchem/deepchem) 
 - [Revolutionary-Games/Thrive: The main repository for the development of the evolution game Thrive.](https://github.com/Revolutionary-Games/Thrive) 
 - [ECSIM/gopem: GUI for OPEM library](https://github.com/ECSIM/gopem) 
@@ -177,3 +214,5 @@
 - [facebook/prophet: Tool for producing high quality forecasts for time series data that has multiple seasonality with linear or non-linear growth.](https://github.com/facebook/prophet) 
 - [FZJ-IEK3-VSA/HIM: Hydrogen Infrastructure Model for the analysis of spatially resolved hydrogen infrastructure pathways](https://github.com/FZJ-IEK3-VSA/HIM) 
 - [FZJ-IEK3-VSA/geokit: Geospatial toolkit for Python](https://github.com/FZJ-IEK3-VSA/geokit) 
+https://github.com/cran/photosynthesis
+https://github.com/danforthcenter/plantcv
