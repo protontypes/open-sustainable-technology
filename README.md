@@ -27,12 +27,19 @@ You are welcomed to participate. Please check out contribution guide.
 
 ### Wind Energy
 * [google/makani: Makani was a project to develop a commercial-scale airborne wind turbine, culminating in a flight test of the Makani M600 off the coast of Norway. All Makani software has now been open-sourced. This repository contains the working Makani flight simulator, controller (autopilot), visualizer, and command center flight monitoring tools. Additionally, almost all avionics firmware is also included, albeit potentially not in a buildable state, due to the removal of some third-party proprietary code. We hope that this code will be inspirational and useful to the kite-based windpower and wider communities.](https://github.com/google/makani) 
+- [IEAWindTask37/IEA-15-240-RWT: 15MW reference wind turbine repository developed in conjunction with IEA Wind](https://github.com/IEAWindTask37/IEA-15-240-RWT) 
 - [wind-python/windpowerlib: The windpowerlib is a library to model the output of wind turbines and farms.](https://github.com/wind-python/windpowerlib) 
 - [turbinesFoam/turbinesFoam: Actuator line modeling extension library for OpenFOAM.](https://github.com/turbinesFoam/turbinesFoam) 
 - [Exawind/nalu-wind: Solver for wind farm simulations targeting exascale computational platforms](https://github.com/Exawind/nalu-wind) 
 - [OpenFAST/openfast: Main repository for the NREL-supported OpenFAST whole-turbine simulation code. Further documentation is available at](https://github.com/OpenFAST/openfast) 
 - [mapbox/webgl-wind: Wind power visualization with WebGL particles](https://github.com/mapbox/webgl-wind/) 
 - [Exawind/amr-wind: AMReX-based structured wind solver](https://github.com/Exawind/amr-wind) 
+- [QBlade](http://www.q-blade.org/#welcome)
+- [NREL/OpenOA: This library provides a framework for working with large timeseries data from wind plants, such as SCADA. Its development has been motivated by the WP3 Benchmarking (PRUF) project, which aims to provide a reference implementation for plant-level performance assessment.](https://github.com/NREL/OpenOA) 
+- [NREL/ROSCO](https://github.com/NREL/ROSCO) 
+- [NREL/floris: A controls-oriented engineering wake model. Documentation at](https://github.com/NREL/floris) 
+- [FZJ-IEK3-VSA/windtools: Small tools to assist wind energy simulations](https://github.com/FZJ-IEK3-VSA/windtools) 
+
 
 
 
@@ -40,12 +47,17 @@ You are welcomed to participate. Please check out contribution guide.
 - [SNL-WaterPower/WecOptTool: WEC Design Optimization Toolbox](https://github.com/SNL-WaterPower/WecOptTool) 
 - [SNL-WaterPower/CACTUS: CACTUS (Code for Axial and Cross-flow TUrbine Simulation) is a turbine performance simulation code, based on a free wake vortex method, to study wind turbines and marine hydrokinetic (MHK) devices.](https://github.com/SNL-WaterPower/CACTUS) 
 - [energy-modelling-toolkit/hydro-power-database: JRC Hydro-power plants database](https://github.com/energy-modelling-toolkit/hydro-power-database) 
+- [MHKiT-Software/MHKiT-Python: MHKiT-Python provides the marine renewable energy (MRE) community tools for data processing, visualization, quality control, resource assessment, and device performance.](https://github.com/MHKiT-Software/MHKiT-Python) 
+
 
 ### Geothermal Energy
 - [oemof/tespy: Thermal Engineering Systems in Python (TESPy). This package provides a powerful simulation toolkit for thermal engineering plants such as power plants, district heating systems or heat pumps.](https://github.com/oemof/tespy) 
+- [MassimoCimmino/pygfunction: An open-source toolbox for the evaluation of thermal response factors (g-functions) of geothermal borehole fields.](https://github.com/MassimoCimmino/pygfunction) 
+- [Japhiolite/geothermics: Educational repository with Jupyter Notebooks all around the topic of geothermal energy](https://github.com/Japhiolite/geothermics) 
 
 
 ### Biological Energy
+- [sashahafner/biogas: Tools for biogas research in R: process biogas data and predict biogas production](https://github.com/sashahafner/biogas) 
 
 ## Energy Storage
 
@@ -62,6 +74,7 @@ You are welcomed to participate. Please check out contribution guide.
 - [CalebBell/thermo: Thermodynamics, phase equilibria, transport properties and chemical database component of Chemical Engineering Design Library (ChEDL)](https://github.com/CalebBell/thermo) 
 - [ECSIM/gopem: GUI for OPEM library](https://github.com/ECSIM/gopem) 
 - [ECSIM/pem-dataset1: Proton Exchange Membrane (PEM) Fuel Cell Dataset](https://github.com/ECSIM/pem-dataset1) 
+- [FZJ-IEK3-VSA/HIM: Hydrogen Infrastructure Model for the analysis of spatially resolved hydrogen infrastructure pathways](https://github.com/FZJ-IEK3-VSA/HIM) 
 
 
 ## Energy Supply Observation and Data
@@ -70,7 +83,7 @@ You are welcomed to participate. Please check out contribution guide.
 - [tmrowco/electricitymap-contrib: A real-time visualisation of the CO2 emissions of electricity consumption](https://github.com/tmrowco/electricitymap-contrib) 
 - [EnergieID/entsoe-py: Python client for the ENTSO-E API (european network of transmission system operators for electricity)](https://github.com/EnergieID/entsoe-py) 
 
-## Power System Modeling and Analysis
+## Power System Modeling Optimisation and Analysis
 - [NREL/reV: Renewable Energy Potential (reV) Model](https://github.com/NREL/reV) 
 - [NREL/SAM: System Advisor Model (SAM)](https://github.com/NREL/SAM)  
 - [pandapower - pandapower](http://www.pandapower.org/) - An easy to use open source tool for power system modeling, analysis and optimization with a high degree of automation.
@@ -87,6 +100,16 @@ You are welcomed to participate. Please check out contribution guide.
 - [NREL/REopt_Lite_API](https://github.com/NREL/REopt_Lite_API) 
 - [thomastu/pyEIA: An Energy Information Administration (EIA) API python client for researchers who just need data.](https://github.com/thomastu/pyEIA) 
 - [openCEMorg/openCEM: Capacity Expansion Model and Optimiser for the Australian National Energy Market](https://github.com/openCEMorg/openCEM) 
+- [tum-ens/urbs: A linear optimisation model for distributed energy systems](https://github.com/tum-ens/urbs) 
+- [ADGEfficiency/energy-py: Reinforcement learning for energy systems](https://github.com/ADGEfficiency/energy-py) 
+- [energy-modelling-toolkit/Dispa-SET: The Dispa-SET unit-commitment and optimal dispatch model, developed at the JRC](https://github.com/energy-modelling-toolkit/Dispa-SET) 
+- [calliope-project/calliope: A multi-scale energy systems modelling framework](https://github.com/calliope-project/calliope) 
+- [OSeMOSYS/OSeMOSYS: OSeMOSYS - the Open Source Energy Modelling System](https://github.com/OSeMOSYS/OSeMOSYS) 
+- [FZJ-IEK3-VSA/glaes: Geospatial Land Availability for Energy Systems](https://github.com/FZJ-IEK3-VSA/glaes) 
+- [FZJ-IEK3-VSA/RESKit: A toolkit to help generate renewable energy generation time-series for energy systems analysis](https://github.com/FZJ-IEK3-VSA/RESKit) 
+- [FZJ-IEK3-VSA/FINE: The FINE python package provides a framework for modeling, optimizing and assessing energy systems](https://github.com/FZJ-IEK3-VSA/FINE) 
+- [awslabs/gluon-ts: Probabilistic time series modeling in Python](https://github.com/awslabs/gluon-ts) 
+- [facebook/prophet: Tool for producing high quality forecasts for time series data that has multiple seasonality with linear or non-linear growth.](https://github.com/facebook/prophet) 
 
 
 ## Smart Grid
@@ -149,6 +172,9 @@ You are welcomed to participate. Please check out contribution guide.
 - [CliMA/Oceananigans.jl: 🌊 Fast and friendly fluid dynamics on CPUs and GPUs](https://github.com/CliMA/Oceananigans.jl) 
 - [CliMA/ClimateMachine.jl: Climate Machine: an Earth System Model that automatically learns from data](https://github.com/CliMA/ClimateMachine.jl) 
 - [ecmwf/atlas: A library for numerical weather prediction and climate modelling](https://github.com/ecmwf/atlas) 
+- [adventuroussrv/Climate-Change-Datasets: Here is a list of Climate Change Public Datasets 🌦🌪🌫🌀💧🌊](https://github.com/adventuroussrv/Climate-Change-Datasets) 
+- [openclimatedata/pyhector: Python interface for the simple global climate carbon-cycle model Hector](https://github.com/openclimatedata/pyhector) 
+
 
 
 ## CO2 Footprint
@@ -162,6 +188,9 @@ You are welcomed to participate. Please check out contribution guide.
 - [farmOS/farmOS: farmOS: A web-based farm record keeping application.](https://github.com/farmOS/farmOS) 
 - [Sen2Agri/Sen2Agri-System: Sentinel-2 for Agriculture (Sen2Agri) is a software system processing high resolution satellite images for agricultural purposes funded by ESA (European Space Agency). Please register on the Sen2Agri webpage for Sen2Agri system updates and information.](https://github.com/Sen2Agri/Sen2Agri-System) 
 - [Ecohackerfarm/powerplant: Optimize and assist planning your garden](https://github.com/Ecohackerfarm/powerplant) 
+- [openfarmcc/OpenFarm: A free and open database for farming and gardening knowledge. You can grow anything!](https://github.com/openfarmcc/OpenFarm) 
+- [ekylibre/ekylibre: Farm management Information System - Connecting farms to the world](https://github.com/ekylibre/ekylibre) 
+- [woodcrafty/PyETo: Python package for calculating reference/potential evapotranspiration (ETo).](https://github.com/woodcrafty/PyETo) 
 
  
  
@@ -184,11 +213,13 @@ You are welcomed to participate. Please check out contribution guide.
 - [ONEARMY/community-platform: A series of tools for the Precious Plastic community to collaborate around the world and tackle plastic waste.](https://github.com/ONEARMY/community-platform) 
 - [RAJohansen/waterquality: Package designed to detect and quantify water quality and cyanobacterial harmful algal bloom (CHABs) from remotely sensed imagery](https://github.com/RAJohansen/waterquality)
 - [openeemeter/eeweather: Fetch NCDC ISD, TMY3, or CZ2010 weather data that corresponds to ZIP Code Tabulation Areas or Latitude/Longitude.](https://github.com/openeemeter/eeweather) 
+- [Trash-ICRA19: A Bounding Box Labeled Dataset of Underwater Trash](https://conservancy.umn.edu/handle/11299/214366) 
 
 
 
 ## Resource Distribution
 - [lanl-ansi/WaterModels.jl: A Julia/JuMP Package for Water Distribution Network Optimization](https://github.com/lanl-ansi/WaterModels.jl) 
+- [openfoodfoundation/openfoodnetwork: Connect suppliers, distributors and consumers to trade local produce](https://github.com/openfoodfoundation/openfoodnetwork) 
 
 
 
@@ -197,44 +228,10 @@ You are welcomed to participate. Please check out contribution guide.
 - [VOLTTRON/volttron: VOLTTRON Distributed Control System Platform](https://github.com/VOLTTRON/volttron) 
 - [OpenEnergyMonitor](https://github.com/openenergymonitor) 
 - [NREL/EnergyPlus: EnergyPlus™ is a whole building energy simulation program that engineers, architects, and researchers use to model both energy consumption and water use in buildings.](https://github.com/NREL/EnergyPlus) 
-
-
- 
-
- 
-
-
-
-
 - [NREL/OpenStudio: OpenStudio is a cross-platform collection of software tools to support whole building energy modeling using EnergyPlus and advanced daylight analysis using Radiance.](https://github.com/NREL/OpenStudio) 
-- [QBlade](http://www.q-blade.org/#welcome) 
-- [IEAWindTask37/IEA-15-240-RWT: 15MW reference wind turbine repository developed in conjunction with IEA Wind](https://github.com/IEAWindTask37/IEA-15-240-RWT) 
-- [NREL/OpenOA: This library provides a framework for working with large timeseries data from wind plants, such as SCADA. Its development has been motivated by the WP3 Benchmarking (PRUF) project, which aims to provide a reference implementation for plant-level performance assessment.](https://github.com/NREL/OpenOA) 
-- [NREL/ROSCO](https://github.com/NREL/ROSCO) 
-- [NREL/floris: A controls-oriented engineering wake model. Documentation at](https://github.com/NREL/floris) 
-- [Trash-ICRA19: A Bounding Box Labeled Dataset of Underwater Trash](https://conservancy.umn.edu/handle/11299/214366) 
-- [tum-ens/urbs: A linear optimisation model for distributed energy systems](https://github.com/tum-ens/urbs) 
-- [adventuroussrv/Climate-Change-Datasets: Here is a list of Climate Change Public Datasets 🌦🌪🌫🌀💧🌊](https://github.com/adventuroussrv/Climate-Change-Datasets) 
-- [openclimatedata/pyhector: Python interface for the simple global climate carbon-cycle model Hector](https://github.com/openclimatedata/pyhector) 
-- [ADGEfficiency/energy-py: Reinforcement learning for energy systems](https://github.com/ADGEfficiency/energy-py) 
-- [sashahafner/biogas: Tools for biogas research in R: process biogas data and predict biogas production](https://github.com/sashahafner/biogas) 
-- [openfoodfoundation/openfoodnetwork: Connect suppliers, distributors and consumers to trade local produce](https://github.com/openfoodfoundation/openfoodnetwork) 
-- [openfarmcc/OpenFarm: A free and open database for farming and gardening knowledge. You can grow anything!](https://github.com/openfarmcc/OpenFarm) 
-- [ekylibre/ekylibre: Farm management Information System - Connecting farms to the world](https://github.com/ekylibre/ekylibre) 
-- [woodcrafty/PyETo: Python package for calculating reference/potential evapotranspiration (ETo).](https://github.com/woodcrafty/PyETo) 
-- [MassimoCimmino/pygfunction: An open-source toolbox for the evaluation of thermal response factors (g-functions) of geothermal borehole fields.](https://github.com/MassimoCimmino/pygfunction) 
-- [Japhiolite/geothermics: Educational repository with Jupyter Notebooks all around the topic of geothermal energy](https://github.com/Japhiolite/geothermics) 
-- [MHKiT-Software/MHKiT-Python: MHKiT-Python provides the marine renewable energy (MRE) community tools for data processing, visualization, quality control, resource assessment, and device performance.](https://github.com/MHKiT-Software/MHKiT-Python) 
-- [energy-modelling-toolkit/Dispa-SET: The Dispa-SET unit-commitment and optimal dispatch model, developed at the JRC](https://github.com/energy-modelling-toolkit/Dispa-SET) 
-- [calliope-project/calliope: A multi-scale energy systems modelling framework](https://github.com/calliope-project/calliope) 
-- [OSeMOSYS/OSeMOSYS: OSeMOSYS - the Open Source Energy Modelling System](https://github.com/OSeMOSYS/OSeMOSYS) 
-- [FZJ-IEK3-VSA/glaes: Geospatial Land Availability for Energy Systems](https://github.com/FZJ-IEK3-VSA/glaes) 
-- [FZJ-IEK3-VSA/RESKit: A toolkit to help generate renewable energy generation time-series for energy systems analysis](https://github.com/FZJ-IEK3-VSA/RESKit) 
-- [FZJ-IEK3-VSA/FINE: The FINE python package provides a framework for modeling, optimizing and assessing energy systems](https://github.com/FZJ-IEK3-VSA/FINE) 
-- [FZJ-IEK3-VSA/windtools: Small tools to assist wind energy simulations](https://github.com/FZJ-IEK3-VSA/windtools) 
-- [awslabs/gluon-ts: Probabilistic time series modeling in Python](https://github.com/awslabs/gluon-ts) 
-- [facebook/prophet: Tool for producing high quality forecasts for time series data that has multiple seasonality with linear or non-linear growth.](https://github.com/facebook/prophet) 
-- [FZJ-IEK3-VSA/HIM: Hydrogen Infrastructure Model for the analysis of spatially resolved hydrogen infrastructure pathways](https://github.com/FZJ-IEK3-VSA/HIM) 
+
+ 
+
 - [FZJ-IEK3-VSA/geokit: Geospatial toolkit for Python](https://github.com/FZJ-IEK3-VSA/geokit) 
 https://github.com/cran/photosynthesis
 https://github.com/danforthcenter/plantcv
