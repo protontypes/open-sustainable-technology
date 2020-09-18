@@ -74,7 +74,7 @@ http://energy.concord.org/energy2d/
 - [pybamm-team/PyBaMM: Fast and flexible physics-based battery models in Python](https://github.com/pybamm-team/PyBaMM) 
 - [EnnoidMe/ENNOID-BMS: Open-Source: Modular BMS based on LTC68XX & STM32 MCU for up to 400V EV battery pack](https://github.com/EnnoidMe/ENNOID-BMS) 
 - [jepegit/cellpy: extract and tweak data from electrochemical tests of cells](https://github.com/jepegit/cellpy) 
-
+https://github.com/rdbraatz/data-driven-prediction-of-battery-cycle-life-before-capacity-degradation
 
 ### Hydrogen
 - [ECSIM/opem: OPEM (Open Source PEM Fuel Cell Simulation Tool)](https://github.com/ECSIM/opem) 
@@ -211,6 +211,10 @@ https://github.com/mlco2/impact/
  
  
 ## Quality and Pollusion of Resources
+
+### Air
+### Water
+### Noise
 - [Ifsttar/NoiseModelling: A free and open-source model to compute noise maps.](https://github.com/Ifsttar/NoiseModelling) 
 - [amaurymartiny/shoot-i-smoke: See your city's air pollution measured in daily cigarettes. iOS/Android.](https://github.com/amaurymartiny/shoot-i-smoke) 
 - [KnowFlow/KnowFlow_AWM: KnowFlow Automatic Water Monitoring device is an open sourced tool enable everyone having access to first hand water quality data with low cost.](https://github.com/KnowFlow/KnowFlow_AWM) 
