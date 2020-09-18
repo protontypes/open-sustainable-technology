@@ -184,6 +184,7 @@ https://github.com/danforthcenter/plantcv
 - [Bloom](https://github.com/tmrowco/northapp-contrib/) - Bloom is a SaaS that allow companies to become climate leaders, from calculating their climate impact to communicating about their climate efforts. It connects to as many data sources as possible to assess your carbon footprint and find mitigation opportunities.
 https://github.com/NMF-earth/carbon-footprint
 https://github.com/protea-earth/carbon_footprint
+https://github.com/milankl/CarbonFootprintEGU
 
 ## Licenses and Law
 - [climate-strike/license: Prevent oil and gas companies from co-opting your work and extracting more fossil fuels with this software license.](https://github.com/climate-strike/license)
