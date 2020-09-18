@@ -75,6 +75,8 @@ http://energy.concord.org/energy2d/
 - [EnnoidMe/ENNOID-BMS: Open-Source: Modular BMS based on LTC68XX & STM32 MCU for up to 400V EV battery pack](https://github.com/EnnoidMe/ENNOID-BMS) 
 - [jepegit/cellpy: extract and tweak data from electrochemical tests of cells](https://github.com/jepegit/cellpy) 
 https://github.com/rdbraatz/data-driven-prediction-of-battery-cycle-life-before-capacity-degradation
+https://github.com/rlogiacco/BatterySense
+https://github.com/TRI-AMDD/beep
 
 ### Hydrogen
 - [ECSIM/opem: OPEM (Open Source PEM Fuel Cell Simulation Tool)](https://github.com/ECSIM/opem) 
@@ -82,7 +84,7 @@ https://github.com/rdbraatz/data-driven-prediction-of-battery-cycle-life-before-
 - [ECSIM/gopem: GUI for OPEM library](https://github.com/ECSIM/gopem) 
 - [ECSIM/pem-dataset1: Proton Exchange Membrane (PEM) Fuel Cell Dataset](https://github.com/ECSIM/pem-dataset1) 
 - [FZJ-IEK3-VSA/HIM: Hydrogen Infrastructure Model for the analysis of spatially resolved hydrogen infrastructure pathways](https://github.com/FZJ-IEK3-VSA/HIM) 
-
+https://github.com/e2nIEE/pandapipes
 
 ## Energy Supply Observation and Data
 - [catalyst-cooperative/pudl: The Public Utility Data Liberation Project](https://github.com/catalyst-cooperative/pudl) 
