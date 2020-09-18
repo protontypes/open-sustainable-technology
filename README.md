@@ -118,7 +118,7 @@ Open Software for the Development of Free Technology Sustaining Future Life Qual
 - [OSGP/open-smart-grid-platform: This repository combines the code from and supersedes the prior existing Shared, Platform, Protocol-Adapter-OSLP, Protocol-Adapter-IEC61850, Protocol-Adapter-DLMS, PublicLightingDemoApp and Integration-Tests repositories. The old repositories have been kept online for now in readonly mode to preserve the historical information.](https://github.com/OSGP/open-smart-grid-platform) 
 
 
-## Mobility
+## Mobility and Transportation
 - [NewMotion/ocpp: Open Charge Point Protocol](https://github.com/NewMotion/ocpp) 
 - [coopcycle/coopcycle-web: Open source logistics platform. Only for worker-owned business.](https://github.com/coopcycle/coopcycle-web)
 - [EVNotify/EVNotify: EVNotify allows you to monitor your electric vehicle and let you notify when the specified preset state of charge has been achieved.](https://github.com/EVNotify/EVNotify)
@@ -182,6 +182,8 @@ https://github.com/danforthcenter/plantcv
 
 ## CO2 Footprint
 - [Bloom](https://github.com/tmrowco/northapp-contrib/) - Bloom is a SaaS that allow companies to become climate leaders, from calculating their climate impact to communicating about their climate efforts. It connects to as many data sources as possible to assess your carbon footprint and find mitigation opportunities.
+https://github.com/NMF-earth/carbon-footprint
+https://github.com/protea-earth/carbon_footprint
 
 ## Licenses and Law
 - [climate-strike/license: Prevent oil and gas companies from co-opting your work and extracting more fossil fuels with this software license.](https://github.com/climate-strike/license)
