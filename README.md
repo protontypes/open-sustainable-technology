@@ -159,7 +159,8 @@ You are welcomed to participate. Please check out contribution guide.
 - [nansencenter/sea_ice_drift: Sea ice drift from Sentinel-1 SAR imagery using open source feature tracking](https://github.com/nansencenter/sea_ice_drift) 
 - [OpenTreeMap/otm-core: OpenTreeMap is a collaborative platform for crowdsourced tree inventory, ecosystem services calculations, urban forestry analysis, and community engagement.](https://github.com/OpenTreeMap/otm-core) 
 - [smrt-model/smrt: Snow Microwave Radiative Transfert model to compute thermal emission and backscatter from snowpack](https://github.com/smrt-model/smrt) 
-
+https://github.com/cran/photosynthesis
+https://github.com/danforthcenter/plantcv
 
 
 
@@ -215,7 +216,7 @@ You are welcomed to participate. Please check out contribution guide.
 - [RAJohansen/waterquality: Package designed to detect and quantify water quality and cyanobacterial harmful algal bloom (CHABs) from remotely sensed imagery](https://github.com/RAJohansen/waterquality)
 - [openeemeter/eeweather: Fetch NCDC ISD, TMY3, or CZ2010 weather data that corresponds to ZIP Code Tabulation Areas or Latitude/Longitude.](https://github.com/openeemeter/eeweather) 
 - [Trash-ICRA19: A Bounding Box Labeled Dataset of Underwater Trash](https://conservancy.umn.edu/handle/11299/214366) 
-
+https://github.com/bcgov/gwells
 
 
 ## Resource Distribution
@@ -234,6 +235,5 @@ You are welcomed to participate. Please check out contribution guide.
  
 
 - [FZJ-IEK3-VSA/geokit: Geospatial toolkit for Python](https://github.com/FZJ-IEK3-VSA/geokit) 
-https://github.com/cran/photosynthesis
-https://github.com/danforthcenter/plantcv
+
 https://github.com/pangeo-data/awesome-open-climate-science
