@@ -22,7 +22,7 @@ You are welcomed to participate. Please check out contribution guide.
 - [dazhiyang/SolarData: Download and manipulate some publicly available solar datasets](https://github.com/dazhiyang/SolarData)
 - [sibyjackgrove/SolarPV-DER-simulation-utility: Allows user to run dynamics simulations for solar photovoltaic distributed energy resource connected to a stiff voltage source or to an external program. It allows modifying DER parameters, introducing external disturbance events, and visualizing the simulation results. The PV-DER (inverter) is modeled using dynamic phasor concept.](https://github.com/sibyjackgrove/SolarPV-DER-simulation-utility) 
 - [NREL/bifacial_radiance: Toolkit for working with RADIANCE for the ray-trace modeling of Bifacial Photovoltaics](https://github.com/NREL/bifacial_radiance) 
-
+- [autoXRD](https://github.com/PV-Lab/autoXRD) - is a python package for automatic XRD pattern classification of thin-films, tweaked for small and class-imbalanced datasets.
 
 
 ### Wind Energy
