@@ -1,7 +1,7 @@
 # Awesome Sustainable Technology
-> Open Projects and Tools for the Development of Free Technology Sustaining Future Life Quality
+Open Software for the Development of Free Technology Sustaining Future Life Quality
 
-You are welcomed to participate. Please check out contribution guide. 
+Feel welcomed to participate. Please check out our contribution guide. 
 
 ## Renewable energy
 
