@@ -153,6 +153,7 @@ https://github.com/HIT2GAP-EU-PROJECT/bemserver
 - [CanalTP/navitia: The open source software to build cool stuff with locomotion](https://github.com/CanalTP/navitia) 
 - [vonfeng/DeepMove: Codes for WWW'18 Paper-DeepMove: Predicting Human Mobility with Attentional Recurrent Network](https://github.com/vonfeng/DeepMove) 
 - [openmobilityfoundation/mobility-data-specification: A data standard to enable communication between mobility companies and local governments.](https://github.com/openmobilityfoundation/mobility-data-specification) 
+https://github.com/openmobilityfoundation/mds-core
 - [eclipse/sumo: Eclipse SUMO is an open source, highly portable, microscopic and continuous traffic simulation package designed to handle large networks. It allows for intermodal simulation including pedestrians and comes with a large set of tools for scenario creation.](https://github.com/eclipse/sumo) 
 - [mdolab/openconcept: OpenConcept: A toolkit for conceptual MDAO of aircraft with unconventional propulsion architectures](https://github.com/mdolab/openconcept) 
 https://github.com/mobilityhouse/ocpp
