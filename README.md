@@ -122,6 +122,7 @@ https://github.com/e2nIEE/pandapipes
 - [facebook/prophet: Tool for producing high quality forecasts for time series data that has multiple seasonality with linear or non-linear growth.](https://github.com/facebook/prophet) 
 - [FZJ-IEK3-VSA/geokit: Geospatial toolkit for Python](https://github.com/FZJ-IEK3-VSA/geokit) 
 https://github.com/PyPSA/atlite
+https://github.com/OnSSET/onsset
 
 ## Smart Energy Grids
 - [OSGP/open-smart-grid-platform: This repository combines the code from and supersedes the prior existing Shared, Platform, Protocol-Adapter-OSLP, Protocol-Adapter-IEC61850, Protocol-Adapter-DLMS, PublicLightingDemoApp and Integration-Tests repositories. The old repositories have been kept online for now in readonly mode to preserve the historical information.](https://github.com/OSGP/open-smart-grid-platform) 
