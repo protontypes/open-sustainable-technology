@@ -63,7 +63,7 @@ https://github.com/WISDEM/LandBOSSE
 http://energy.concord.org/energy2d/
 
 
-### Biological Energy
+### Biogas
 - [sashahafner/biogas: Tools for biogas research in R: process biogas data and predict biogas production](https://github.com/sashahafner/biogas) 
 
 ## Energy Storage
