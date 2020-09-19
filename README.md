@@ -120,6 +120,7 @@ https://github.com/e2nIEE/pandapipes
 - [awslabs/gluon-ts: Probabilistic time series modeling in Python](https://github.com/awslabs/gluon-ts) 
 - [facebook/prophet: Tool for producing high quality forecasts for time series data that has multiple seasonality with linear or non-linear growth.](https://github.com/facebook/prophet) 
 - [FZJ-IEK3-VSA/geokit: Geospatial toolkit for Python](https://github.com/FZJ-IEK3-VSA/geokit) 
+https://github.com/PyPSA/atlite
 
 ## Smart Energy Grids
 - [OSGP/open-smart-grid-platform: This repository combines the code from and supersedes the prior existing Shared, Platform, Protocol-Adapter-OSLP, Protocol-Adapter-IEC61850, Protocol-Adapter-DLMS, PublicLightingDemoApp and Integration-Tests repositories. The old repositories have been kept online for now in readonly mode to preserve the historical information.](https://github.com/OSGP/open-smart-grid-platform) 
@@ -181,7 +182,7 @@ https://github.com/andig/evcc
 - [smrt-model/smrt: Snow Microwave Radiative Transfert model to compute thermal emission and backscatter from snowpack](https://github.com/smrt-model/smrt) 
 https://github.com/cran/photosynthesis
 https://github.com/danforthcenter/plantcv
-
+https://github.com/OGGM/oggm
 
 
 ## Climate Data and Models
@@ -197,7 +198,7 @@ https://github.com/danforthcenter/plantcv
 - [adventuroussrv/Climate-Change-Datasets: Here is a list of Climate Change Public Datasets 🌦🌪🌫🌀💧🌊](https://github.com/adventuroussrv/Climate-Change-Datasets) 
 - [openclimatedata/pyhector: Python interface for the simple global climate carbon-cycle model Hector](https://github.com/openclimatedata/pyhector) 
 https://github.com/ESMValGroup/ESMValTool
-
+https://www.nemo-ocean.eu/
 
 ## CO2 Footprint
 - [Bloom](https://github.com/tmrowco/northapp-contrib/) - Bloom is a SaaS that allow companies to become climate leaders, from calculating their climate impact to communicating about their climate efforts. It connects to as many data sources as possible to assess your carbon footprint and find mitigation opportunities.
