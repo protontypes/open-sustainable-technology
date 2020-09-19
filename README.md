@@ -1,4 +1,4 @@
-# Awesome Sustainable Technology
+# Awesome Sustainable Tooling
 Professional Software Tooling for Sustaining Future Life Quality
 
 ## Energy Generation
