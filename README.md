@@ -127,11 +127,12 @@ https://github.com/com-pas/compas-architecture - The CoMPAS project was formed t
 https://github.com/powsybl/powsybl-core
 https://github.com/powsybl/powsybl-open-loadflow
 https://github.com/opfab/operatorfabric-core
-https://github.com/RIAPS/riaps-core
 https://github.com/energy-market-methods/caltrack
 
 ## Smart Energy Grids
 - [OSGP/open-smart-grid-platform: This repository combines the code from and supersedes the prior existing Shared, Platform, Protocol-Adapter-OSLP, Protocol-Adapter-IEC61850, Protocol-Adapter-DLMS, PublicLightingDemoApp and Integration-Tests repositories. The old repositories have been kept online for now in readonly mode to preserve the historical information.](https://github.com/OSGP/open-smart-grid-platform) 
+https://github.com/RIAPS/riaps-core
+
 
 ## Energy Performance of Buildings
 - [buds-lab/the-building-data-genome-project: A collection of non-residential buildings for performance analysis and algorithm benchmarking](https://github.com/buds-lab/the-building-data-genome-project) 
