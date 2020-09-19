@@ -1,5 +1,5 @@
 # Awesome Sustainable Technology
-Free and Open Software for Sustaining Future Life Quality
+Professional Software Tooling for Sustaining Future Life Quality
 
 ## Renewable energy
 
