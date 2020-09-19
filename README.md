@@ -1,7 +1,7 @@
 # Awesome Sustainable Technology
 Professional Software Tooling for Sustaining Future Life Quality
 
-## Renewable energy
+## Energy Generation
 
 ### Solar Energy
 - [pvlib/pvlib-python: A set of documented functions for simulating the performance of photovoltaic energy systems.](https://github.com/pvlib/pvlib-python)
@@ -121,11 +121,16 @@ https://github.com/e2nIEE/pandapipes
 - [facebook/prophet: Tool for producing high quality forecasts for time series data that has multiple seasonality with linear or non-linear growth.](https://github.com/facebook/prophet) 
 - [FZJ-IEK3-VSA/geokit: Geospatial toolkit for Python](https://github.com/FZJ-IEK3-VSA/geokit) 
 
-
-
-## Smart Grid
+## Smart Energy Grids
 - [OSGP/open-smart-grid-platform: This repository combines the code from and supersedes the prior existing Shared, Platform, Protocol-Adapter-OSLP, Protocol-Adapter-IEC61850, Protocol-Adapter-DLMS, PublicLightingDemoApp and Integration-Tests repositories. The old repositories have been kept online for now in readonly mode to preserve the historical information.](https://github.com/OSGP/open-smart-grid-platform) 
 
+## Energy Performance of Buildings
+- [buds-lab/the-building-data-genome-project: A collection of non-residential buildings for performance analysis and algorithm benchmarking](https://github.com/buds-lab/the-building-data-genome-project) 
+- [VOLTTRON/volttron: VOLTTRON Distributed Control System Platform](https://github.com/VOLTTRON/volttron) 
+- [OpenEnergyMonitor](https://github.com/openenergymonitor) 
+- [NREL/EnergyPlus: EnergyPlus™ is a whole building energy simulation program that engineers, architects, and researchers use to model both energy consumption and water use in buildings.](https://github.com/NREL/EnergyPlus) 
+- [NREL/OpenStudio: OpenStudio is a cross-platform collection of software tools to support whole building energy modeling using EnergyPlus and advanced daylight analysis using Radiance.](https://github.com/NREL/OpenStudio) 
+https://github.com/HIT2GAP-EU-PROJECT/bemserver
 
 ## Mobility and Transportation
 - [NewMotion/ocpp: Open Charge Point Protocol](https://github.com/NewMotion/ocpp) 
@@ -147,6 +152,9 @@ https://github.com/andig/evcc
 
 
 ## Observation and Conservation of Ecosystems 
+
+### Forests and Vegetations
+### Ice and Poles
 - [Vizzuality/gfw: Global Forest Watch: An online, global, near-real time forest monitoring tool](https://github.com/Vizzuality/gfw) 
 - [pedropro/TACO: 🌮 Trash Annotations in Context Dataset Toolkit](https://github.com/pedropro/TACO) 
 - [OpenEnergyPlatform/oeplatform: Repository for the code of the Open Energy Platform (OEP) website. The OEP provides an interface to the Open Energy Family](https://github.com/OpenEnergyPlatform/oeplatform) 
@@ -188,7 +196,7 @@ https://github.com/danforthcenter/plantcv
 - [ecmwf/atlas: A library for numerical weather prediction and climate modelling](https://github.com/ecmwf/atlas) 
 - [adventuroussrv/Climate-Change-Datasets: Here is a list of Climate Change Public Datasets 🌦🌪🌫🌀💧🌊](https://github.com/adventuroussrv/Climate-Change-Datasets) 
 - [openclimatedata/pyhector: Python interface for the simple global climate carbon-cycle model Hector](https://github.com/openclimatedata/pyhector) 
-
+https://github.com/ESMValGroup/ESMValTool
 
 
 ## CO2 Footprint
@@ -245,12 +253,7 @@ https://github.com/bcgov/gwells
 
 
 
-## Energy performance of Buildings
-- [buds-lab/the-building-data-genome-project: A collection of non-residential buildings for performance analysis and algorithm benchmarking](https://github.com/buds-lab/the-building-data-genome-project) 
-- [VOLTTRON/volttron: VOLTTRON Distributed Control System Platform](https://github.com/VOLTTRON/volttron) 
-- [OpenEnergyMonitor](https://github.com/openenergymonitor) 
-- [NREL/EnergyPlus: EnergyPlus™ is a whole building energy simulation program that engineers, architects, and researchers use to model both energy consumption and water use in buildings.](https://github.com/NREL/EnergyPlus) 
-- [NREL/OpenStudio: OpenStudio is a cross-platform collection of software tools to support whole building energy modeling using EnergyPlus and advanced daylight analysis using Radiance.](https://github.com/NREL/OpenStudio) 
+
 
  
 
@@ -258,3 +261,4 @@ https://github.com/NOAA-EMC/WW3
 https://github.com/pangeo-data/awesome-open-climate-science
 https://github.com/softwareunderground/awesome-open-geoscience#simulation-and-modelling
 https://github.com/chrisleaman/awesome-coastal
+https://en.wikipedia.org/wiki/Open_energy_system_databases
