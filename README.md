@@ -77,6 +77,7 @@ http://energy.concord.org/energy2d/
 https://github.com/rdbraatz/data-driven-prediction-of-battery-cycle-life-before-capacity-degradation
 https://github.com/rlogiacco/BatterySense
 https://github.com/TRI-AMDD/beep
+https://github.com/snl-quest/snl-quest
 
 ### Hydrogen
 - [ECSIM/opem: OPEM (Open Source PEM Fuel Cell Simulation Tool)](https://github.com/ECSIM/opem) 
