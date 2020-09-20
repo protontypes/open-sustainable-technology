@@ -146,6 +146,7 @@ https://github.com/RIAPS/riaps-core
 - [NREL/OpenStudio: OpenStudio is a cross-platform collection of software tools to support whole building energy modeling using EnergyPlus and advanced daylight analysis using Radiance.](https://github.com/NREL/OpenStudio) 
 https://github.com/HIT2GAP-EU-PROJECT/bemserver
 https://github.com/SEED-platform/seed
+https://github.com/EcotopeResearch/HPWHsim
 
 ## Mobility and Transportation
 - [NewMotion/ocpp: Open Charge Point Protocol](https://github.com/NewMotion/ocpp) 
