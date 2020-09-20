@@ -50,6 +50,8 @@ https://github.com/OpenFAST
 https://github.com/NREL/OpenStudio-server
 https://openmdao.org/
 https://gitlab.windenergy.dtu.dk/TOPFARM/TopFarm2
+https://gitlab.windenergy.dtu.dk/OpenLAC/BasicDTUController
+https://gitlab.windenergy.dtu.dk/toolbox/WindEnergyToolbox
 
 
 ### Hydro Energy
