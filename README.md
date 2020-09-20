@@ -46,6 +46,7 @@ https://github.com/oscarperpinan/solar
 https://gitlab.windenergy.dtu.dk/TOPFARM/PyWake
 https://github.com/WISDEM/WISDEM
 https://github.com/WISDEM/LandBOSSE
+https://github.com/OpenFAST
 
 
 ### Hydro Energy
