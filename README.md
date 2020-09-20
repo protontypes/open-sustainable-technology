@@ -147,6 +147,7 @@ https://github.com/RIAPS/riaps-core
 https://github.com/HIT2GAP-EU-PROJECT/bemserver
 https://github.com/SEED-platform/seed
 https://github.com/EcotopeResearch/HPWHsim
+https://github.com/NREL/OpenStudio-ERI
 
 ## Mobility and Transportation
 - [NewMotion/ocpp: Open Charge Point Protocol](https://github.com/NewMotion/ocpp) 
