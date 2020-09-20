@@ -77,7 +77,9 @@ https://github.com/lanl/FEHM
 
 ## Energy Storage
 
+## Carbon Capture
 https://github.com/simccs/SimCCS
+https://github.com/CCSI-Toolset/FOQUS
 
 ### Batterie
 - [foxBMS/foxbms](https://github.com/foxBMS/foxbms)
