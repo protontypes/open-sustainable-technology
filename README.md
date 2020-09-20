@@ -144,6 +144,7 @@ https://github.com/RIAPS/riaps-core
 - [NREL/EnergyPlus: EnergyPlus™ is a whole building energy simulation program that engineers, architects, and researchers use to model both energy consumption and water use in buildings.](https://github.com/NREL/EnergyPlus) 
 - [NREL/OpenStudio: OpenStudio is a cross-platform collection of software tools to support whole building energy modeling using EnergyPlus and advanced daylight analysis using Radiance.](https://github.com/NREL/OpenStudio) 
 https://github.com/HIT2GAP-EU-PROJECT/bemserver
+https://github.com/SEED-platform/seed
 
 ## Mobility and Transportation
 - [NewMotion/ocpp: Open Charge Point Protocol](https://github.com/NewMotion/ocpp) 
