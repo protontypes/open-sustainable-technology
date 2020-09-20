@@ -66,6 +66,7 @@ https://gitlab.windenergy.dtu.dk/TOPFARM/TopFarm2
 - [Japhiolite/geothermics: Educational repository with Jupyter Notebooks all around the topic of geothermal energy](https://github.com/Japhiolite/geothermics) 
 http://energy.concord.org/energy2d/
 
+https://github.com/lanl/FEHM
 
 ### Biogas / Biomass
 - [sashahafner/biogas: Tools for biogas research in R: process biogas data and predict biogas production](https://github.com/sashahafner/biogas) 
