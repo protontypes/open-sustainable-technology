@@ -131,6 +131,7 @@ https://github.com/powsybl/powsybl-core
 https://github.com/powsybl/powsybl-open-loadflow
 https://github.com/opfab/operatorfabric-core
 https://github.com/energy-market-methods/caltrack
+https://github.com/GMLC-TDC/HELICS
 
 ## Smart Energy Grids
 - [OSGP/open-smart-grid-platform: This repository combines the code from and supersedes the prior existing Shared, Platform, Protocol-Adapter-OSLP, Protocol-Adapter-IEC61850, Protocol-Adapter-DLMS, PublicLightingDemoApp and Integration-Tests repositories. The old repositories have been kept online for now in readonly mode to preserve the historical information.](https://github.com/OSGP/open-smart-grid-platform) 
@@ -223,16 +224,6 @@ https://github.com/mlco2/impact/
 
 ## Licenses and Law
 - [climate-strike/license: Prevent oil and gas companies from co-opting your work and extracting more fossil fuels with this software license.](https://github.com/climate-strike/license)
-
-## Agriculture
-- [Tanibox/tania-core: Tania is a farm management software to help farmers manage their farm operations.](https://github.com/Tanibox/tania-core) 
-- [farmOS/farmOS: farmOS: A web-based farm record keeping application.](https://github.com/farmOS/farmOS) 
-- [Sen2Agri/Sen2Agri-System: Sentinel-2 for Agriculture (Sen2Agri) is a software system processing high resolution satellite images for agricultural purposes funded by ESA (European Space Agency). Please register on the Sen2Agri webpage for Sen2Agri system updates and information.](https://github.com/Sen2Agri/Sen2Agri-System) 
-- [Ecohackerfarm/powerplant: Optimize and assist planning your garden](https://github.com/Ecohackerfarm/powerplant) 
-- [openfarmcc/OpenFarm: A free and open database for farming and gardening knowledge. You can grow anything!](https://github.com/openfarmcc/OpenFarm) 
-- [ekylibre/ekylibre: Farm management Information System - Connecting farms to the world](https://github.com/ekylibre/ekylibre) 
-- [woodcrafty/PyETo: Python package for calculating reference/potential evapotranspiration (ETo).](https://github.com/woodcrafty/PyETo) 
-
  
  
 ## Quality and Pollusion of Resources
