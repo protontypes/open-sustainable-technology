@@ -27,6 +27,7 @@ https://github.com/qpv-research-group/solcore5
 https://github.com/squishykid/solax
 https://github.com/NREL/bifacialvf
 https://github.com/oscarperpinan/solar
+https://github.com/SolarTherm/SolarTherm
 
 
 ### Wind Energy
