@@ -1,5 +1,5 @@
 # Awesome Sustainable Tooling
-Professional Software Tooling for Sustaining Future Life Quality and Energy
+Professional Software Tooling for Sustaining Life and Energy
 
 ## Energy Generation
 
