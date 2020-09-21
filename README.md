@@ -251,11 +251,19 @@ https://github.com/bcgov/ghg-emissions-indicator
 
 ### Air
 https://github.com/oceanflux-ghg/FluxEngine
+https://github.com/USEPA/CMAQ
+https://github.com/USEPA/AMET
+https://github.com/USEPA/WNTR
+
+
 
 ### Water
 https://github.com/USEPA/Stormwater-Management-Model
 https://github.com/USGS-R/dataRetrieval
 https://github.com/USGS-R/EGRET
+- [lanl-ansi/WaterModels.jl: A Julia/JuMP Package for Water Distribution Network Optimization](https://github.com/lanl-ansi/WaterModels.jl) 
+
+
 ### Noise
 - [Ifsttar/NoiseModelling: A free and open-source model to compute noise maps.](https://github.com/Ifsttar/NoiseModelling) 
 - [amaurymartiny/shoot-i-smoke: See your city's air pollution measured in daily cigarettes. iOS/Android.](https://github.com/amaurymartiny/shoot-i-smoke) 
@@ -277,11 +285,6 @@ https://github.com/USGS-R/EGRET
 - [openeemeter/eeweather: Fetch NCDC ISD, TMY3, or CZ2010 weather data that corresponds to ZIP Code Tabulation Areas or Latitude/Longitude.](https://github.com/openeemeter/eeweather) 
 - [Trash-ICRA19: A Bounding Box Labeled Dataset of Underwater Trash](https://conservancy.umn.edu/handle/11299/214366) 
 https://github.com/bcgov/gwells
-
-
-## Resource Distribution
-- [lanl-ansi/WaterModels.jl: A Julia/JuMP Package for Water Distribution Network Optimization](https://github.com/lanl-ansi/WaterModels.jl) 
-- [openfoodfoundation/openfoodnetwork: Connect suppliers, distributors and consumers to trade local produce](https://github.com/openfoodfoundation/openfoodnetwork) 
 
 
 
