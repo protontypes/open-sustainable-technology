@@ -239,6 +239,7 @@ https://github.com/NMF-earth/carbon-footprint
 https://github.com/protea-earth/carbon_footprint
 https://github.com/milankl/CarbonFootprintEGU
 https://github.com/mlco2/impact/
+https://github.com/bcgov/ghg-emissions-indicator
 
 ## Licenses and Law
 - [climate-strike/license: Prevent oil and gas companies from co-opting your work and extracting more fossil fuels with this software license.](https://github.com/climate-strike/license)
