@@ -1,8 +1,7 @@
 # Awesome Sustainable Tooling
 Professional Software Tooling for Sustaining Global Life and Energy Resources
 
-## Energy Generation
-
+## Electricity Generation
 ### Solar Energy
 - [pvlib/pvlib-python: A set of documented functions for simulating the performance of photovoltaic energy systems.](https://github.com/pvlib/pvlib-python)
 - [SunPower/pvfactors: Open-source view-factor model for diffuse shading and bifacial PV modeling. Documentation:](https://github.com/SunPower/pvfactors) 
