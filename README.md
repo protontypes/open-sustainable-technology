@@ -144,6 +144,7 @@ https://github.com/energy-market-methods/caltrack
 https://github.com/GMLC-TDC/HELICS
 https://github.com/NREL-SIIP/PowerSimulations.jl
 https://github.com/NREL-SIIP/PowerSystems.jl
+https://github.com/balmorelcommunity/Balmorel
 
 
 ## Smart Energy Grids
