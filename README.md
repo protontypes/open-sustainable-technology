@@ -1,5 +1,5 @@
 # Awesome Sustainable Tooling
-Professional Software Tooling for Sustaining Life and Energy
+Professional Software Tooling for Sustaining Life and Energy Resources
 
 ## Energy Generation
 
@@ -68,6 +68,7 @@ https://gitlab.windenergy.dtu.dk/toolbox/WindEnergyToolbox
 - [MassimoCimmino/pygfunction: An open-source toolbox for the evaluation of thermal response factors (g-functions) of geothermal borehole fields.](https://github.com/MassimoCimmino/pygfunction) 
 - [Japhiolite/geothermics: Educational repository with Jupyter Notebooks all around the topic of geothermal energy](https://github.com/Japhiolite/geothermics) 
 http://energy.concord.org/energy2d/
+https://www.opengeosys.org/
 
 https://github.com/lanl/FEHM
 
