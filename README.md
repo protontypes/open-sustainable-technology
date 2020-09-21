@@ -252,6 +252,9 @@ https://github.com/bcgov/ghg-emissions-indicator
 https://github.com/oceanflux-ghg/FluxEngine
 
 ### Water
+
+https://github.com/USGS-R/dataRetrieval
+https://github.com/USGS-R/EGRET
 ### Noise
 - [Ifsttar/NoiseModelling: A free and open-source model to compute noise maps.](https://github.com/Ifsttar/NoiseModelling) 
 - [amaurymartiny/shoot-i-smoke: See your city's air pollution measured in daily cigarettes. iOS/Android.](https://github.com/amaurymartiny/shoot-i-smoke) 
