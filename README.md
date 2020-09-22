@@ -242,6 +242,7 @@ https://github.com/wrightni/OSSP
 - [openclimatedata/pyhector: Python interface for the simple global climate carbon-cycle model Hector](https://github.com/openclimatedata/pyhector) 
 https://github.com/ESMValGroup/ESMValTool
 https://www.nemo-ocean.eu/
+https://github.com/EarthSystemDiagnostics/sedproxy
 
 ## CO2 Footprint
 - [Bloom](https://github.com/tmrowco/northapp-contrib/) - Bloom is a SaaS that allow companies to become climate leaders, from calculating their climate impact to communicating about their climate efforts. It connects to as many data sources as possible to assess your carbon footprint and find mitigation opportunities.
