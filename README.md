@@ -146,7 +146,7 @@ https://github.com/GMLC-TDC/HELICS
 https://github.com/NREL-SIIP/PowerSimulations.jl
 https://github.com/NREL-SIIP/PowerSystems.jl
 https://github.com/balmorelcommunity/Balmorel
-
+https://git.rwth-aachen.de/acs/public/simulation/DistAIXFramework/distaix
 
 ## Smart Energy Grids
 - [OSGP/open-smart-grid-platform: This repository combines the code from and supersedes the prior existing Shared, Platform, Protocol-Adapter-OSLP, Protocol-Adapter-IEC61850, Protocol-Adapter-DLMS, PublicLightingDemoApp and Integration-Tests repositories. The old repositories have been kept online for now in readonly mode to preserve the historical information.](https://github.com/OSGP/open-smart-grid-platform) 
