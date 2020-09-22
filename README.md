@@ -149,6 +149,7 @@ https://github.com/balmorelcommunity/Balmorel
 https://git.rwth-aachen.de/acs/public/simulation/DistAIXFramework/distaix
 https://github.com/MATPOWER/matpower
 https://github.com/e2nIEE/simbench
+https://github.com/energyRt/energyRt
 
 
 ## Energy Networks
