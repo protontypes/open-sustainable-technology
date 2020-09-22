@@ -1,5 +1,5 @@
 # Awesome Sustainable Tooling
-Open and Professional Software for Sustaining Global Life and Energy Resources
+Professional Software for Sustaining Global Life and Energy Resources
 
 ## Electricity Generation
 ### Solar Energy
@@ -189,6 +189,10 @@ https://github.com/andig/evcc
 ### Forests and Vegetations
 https://github.com/wri/carbon-budget
 https://github.com/apburt/treeseg/
+https://github.com/forestgeo/fgeo
+https://github.com/forestgeo/fgeo.biomass
+https://github.com/umr-amap/BIOMASS
+
 ### Ice and Poles
 - [Vizzuality/gfw: Global Forest Watch: An online, global, near-real time forest monitoring tool](https://github.com/Vizzuality/gfw) 
 - [pedropro/TACO: 🌮 Trash Annotations in Context Dataset Toolkit](https://github.com/pedropro/TACO) 
