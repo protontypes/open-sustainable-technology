@@ -164,6 +164,7 @@ https://github.com/SEED-platform/seed
 https://github.com/EcotopeResearch/HPWHsim
 https://github.com/NREL/OpenStudio-ERI
 https://github.com/RWTH-EBC/AixLib
+https://github.com/RWTH-EBC/TEASER
 
 ## Mobility and Transportation
 - [NewMotion/ocpp: Open Charge Point Protocol](https://github.com/NewMotion/ocpp) 
