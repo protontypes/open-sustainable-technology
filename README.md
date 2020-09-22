@@ -1,5 +1,5 @@
 # Awesome Sustainable Tooling
-Professional Software for Sustaining Global Life and Energy Resources
+State-of-the-Art Open Source Projects for Sustaining Global Life and Energy Resources
 
 ## Electricity Generation
 ### Solar Energy
@@ -226,6 +226,7 @@ https://github.com/CICE-Consortium/CICE
 https://github.com/pism/pism
 https://github.com/icepack/icepack
 https://github.com/weiji14/deepbedmap
+https://github.com/wrightni/OSSP
 
 ## Climate Data and Models
 - [ropensci/clifro: Easily download and visualise climate data from CliFlo](https://github.com/ropensci/clifro) 
