@@ -1,5 +1,5 @@
 # Awesome Sustainable Tooling
-Professional Software Tooling for Sustaining Global Life and Energy Resources
+Open Professional Software for Sustaining Global Life and Energy Resources
 
 ## Electricity Generation
 ### Solar Energy
