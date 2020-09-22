@@ -282,7 +282,7 @@ https://github.com/USEPA/Stormwater-Management-Model
 https://github.com/USGS-R/dataRetrieval
 https://github.com/USGS-R/EGRET
 - [lanl-ansi/WaterModels.jl: A Julia/JuMP Package for Water Distribution Network Optimization](https://github.com/lanl-ansi/WaterModels.jl) 
-
+https://github.com/lanl-ansi/WaterModels.jl
 
 ### Noise
 - [Ifsttar/NoiseModelling: A free and open-source model to compute noise maps.](https://github.com/Ifsttar/NoiseModelling) 
