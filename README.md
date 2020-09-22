@@ -1,5 +1,5 @@
-# Awesome Sustainable technology
-State-of-the-Art Open Source Projects for Sustaining Global Life and Energy Resources
+# Awesome Sustainable Technology
+Gathering of state-of-the-art open source projects for the preservation of global living resources and energy supply 
 
 ## Electricity Generation
 ### Solar Energy
