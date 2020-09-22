@@ -1,4 +1,4 @@
-# Awesome Sustainable Tooling
+# Awesome Sustainable technology
 State-of-the-Art Open Source Projects for Sustaining Global Life and Energy Resources
 
 ## Electricity Generation
