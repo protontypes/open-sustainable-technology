@@ -224,6 +224,7 @@ https://github.com/OGGM/oggm
 https://github.com/CICE-Consortium/Icepack
 https://github.com/CICE-Consortium/CICE
 https://github.com/pism/pism
+https://github.com/icepack/icepack
 
 ## Climate Data and Models
 - [ropensci/clifro: Easily download and visualise climate data from CliFlo](https://github.com/ropensci/clifro) 
