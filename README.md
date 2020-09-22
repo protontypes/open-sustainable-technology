@@ -209,6 +209,8 @@ https://github.com/apburt/treeseg/
 https://github.com/forestgeo/fgeo
 https://github.com/forestgeo/fgeo.biomass
 https://github.com/umr-amap/BIOMASS
+https://github.com/MetOffice/forest
+https://github.com/openforis/sepal
 
 ### Ice and Poles
 - [Vizzuality/gfw: Global Forest Watch: An online, global, near-real time forest monitoring tool](https://github.com/Vizzuality/gfw) 
