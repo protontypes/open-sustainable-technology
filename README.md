@@ -108,6 +108,7 @@ https://github.com/e2nIEE/pandapipes
 - [EnergieID/entsoe-py: Python client for the ENTSO-E API (european network of transmission system operators for electricity)](https://github.com/EnergieID/entsoe-py) 
 
 ## Power System Modeling Optimisation and Analysis
+https://github.com/tum-ens/pyGRETA
 - [NREL/reV: Renewable Energy Potential (reV) Model](https://github.com/NREL/reV) 
 - [NREL/SAM: System Advisor Model (SAM)](https://github.com/NREL/SAM)  
 - [pandapower - pandapower](http://www.pandapower.org/) - An easy to use open source tool for power system modeling, analysis and optimization with a high degree of automation.
