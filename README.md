@@ -100,6 +100,7 @@ https://github.com/snl-quest/snl-quest
 - [ECSIM/pem-dataset1: Proton Exchange Membrane (PEM) Fuel Cell Dataset](https://github.com/ECSIM/pem-dataset1) 
 - [FZJ-IEK3-VSA/HIM: Hydrogen Infrastructure Model for the analysis of spatially resolved hydrogen infrastructure pathways](https://github.com/FZJ-IEK3-VSA/HIM) 
 https://github.com/e2nIEE/pandapipes
+https://github.com/sandialabs/hyram
 
 ## Energy Supply Observation and Data
 - [catalyst-cooperative/pudl: The Public Utility Data Liberation Project](https://github.com/catalyst-cooperative/pudl) 
