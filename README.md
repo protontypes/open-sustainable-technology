@@ -155,6 +155,7 @@ https://github.com/MATPOWER/matpower
 https://github.com/e2nIEE/simbench
 https://github.com/energyRt/energyRt
 https://github.com/PyPSA/whobs-server
+https://github.com/grid-parity-exchange/Egret
 
 
 ## Energy Networks
