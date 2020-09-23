@@ -200,6 +200,7 @@ https://github.com/mobilityhouse/ocpp
 https://github.com/openchargemap/ocm-system
 https://github.com/andig/evcc
 https://github.com/RWTH-i5-IDSG/steve
+https://github.com/V2GClarity/RISE-V2G
 
 
 ## Observation and Conservation of Ecosystems 
