@@ -73,6 +73,7 @@ https://github.com/lanl/FEHM
 
 ### Biogas / Biomass
 - [sashahafner/biogas: Tools for biogas research in R: process biogas data and predict biogas production](https://github.com/sashahafner/biogas) 
+https://github.com/BioSTEAMDevelopmentGroup/biosteam
 
 
 
@@ -248,6 +249,7 @@ https://github.com/pism/pism
 https://github.com/icepack/icepack
 https://github.com/weiji14/deepbedmap
 https://github.com/wrightni/OSSP
+https://github.com/ClimateClara/arc3o
 
 ## Climate Data and Models
 - [ropensci/clifro: Easily download and visualise climate data from CliFlo](https://github.com/ropensci/clifro) 
