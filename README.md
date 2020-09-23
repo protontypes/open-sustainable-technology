@@ -157,6 +157,7 @@ https://github.com/energyRt/energyRt
 https://github.com/PyPSA/whobs-server
 https://github.com/grid-parity-exchange/Egret
 https://github.com/PyPSA/pypsa-eur
+https://github.com/quintel/etengine
 
 
 ## Energy Networks
