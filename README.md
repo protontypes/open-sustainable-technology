@@ -175,7 +175,7 @@ https://github.com/lanl-ansi/PowerModelsAnnex.jl
 
 
 
-Energy Consumption
+# Energy Consumption
 
 ## Energy Performance of Buildings
 - [buds-lab/the-building-data-genome-project: A collection of non-residential buildings for performance analysis and algorithm benchmarking](https://github.com/buds-lab/the-building-data-genome-project) 
@@ -212,9 +212,15 @@ https://github.com/RWTH-i5-IDSG/steve
 https://github.com/V2GClarity/RISE-V2G
 https://github.com/sash-ko/simobility
 
+## Carbon Footprint
+- [Bloom](https://github.com/tmrowco/northapp-contrib/) - Bloom is a SaaS that allow companies to become climate leaders, from calculating their climate impact to communicating about their climate efforts. It connects to as many data sources as possible to assess your carbon footprint and find mitigation opportunities.
+https://github.com/NMF-earth/carbon-footprint
+https://github.com/protea-earth/carbon_footprint
+https://github.com/milankl/CarbonFootprintEGU
+https://github.com/mlco2/impact/
+https://github.com/bcgov/ghg-emissions-indicator
 
 ## Observation and Conservation of Ecosystems 
-
 ### Forests and Vegetations
 https://github.com/wri/carbon-budget
 https://github.com/apburt/treeseg/
@@ -286,17 +292,7 @@ https://github.com/NCAR/icar
 https://github.com/CliMA/LESbrary.jl
 https://github.com/Unidata/MetPy
 https://github.com/ExeClim/Isca
-
-## CO2 Footprint
-- [Bloom](https://github.com/tmrowco/northapp-contrib/) - Bloom is a SaaS that allow companies to become climate leaders, from calculating their climate impact to communicating about their climate efforts. It connects to as many data sources as possible to assess your carbon footprint and find mitigation opportunities.
-https://github.com/NMF-earth/carbon-footprint
-https://github.com/protea-earth/carbon_footprint
-https://github.com/milankl/CarbonFootprintEGU
-https://github.com/mlco2/impact/
-https://github.com/bcgov/ghg-emissions-indicator
-
-## Licenses and Law
-- [climate-strike/license: Prevent oil and gas companies from co-opting your work and extracting more fossil fuels with this software license.](https://github.com/climate-strike/license)
+https://github.com/NOAA-GFDL/MOM6
  
  
 ## Quality and Pollusion of Resources
@@ -306,7 +302,6 @@ https://github.com/oceanflux-ghg/FluxEngine
 https://github.com/USEPA/CMAQ
 https://github.com/USEPA/AMET
 https://github.com/USEPA/WNTR
-
 https://gitlab.version.fz-juelich.de/toar/mlair
 
 ### Water
@@ -339,7 +334,8 @@ https://github.com/lanl-ansi/WaterModels.jl
 https://github.com/bcgov/gwells
 
 
-
+## Licenses and Law
+- [climate-strike/license: Prevent oil and gas companies from co-opting your work and extracting more fossil fuels with this software license.](https://github.com/climate-strike/license)
 
 
  
