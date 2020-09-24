@@ -27,6 +27,7 @@ https://github.com/squishykid/solax
 https://github.com/NREL/bifacialvf
 https://github.com/oscarperpinan/solar
 https://github.com/SolarTherm/SolarTherm
+https://github.com/oemof/tespy
 
 
 ### Wind Energy
@@ -172,6 +173,7 @@ https://github.com/lanl-ansi/PowerModelsAnnex.jl
 
 
 
+Energy Consumption
 
 ## Energy Performance of Buildings
 - [buds-lab/the-building-data-genome-project: A collection of non-residential buildings for performance analysis and algorithm benchmarking](https://github.com/buds-lab/the-building-data-genome-project) 
@@ -185,6 +187,7 @@ https://github.com/EcotopeResearch/HPWHsim
 https://github.com/NREL/OpenStudio-ERI
 https://github.com/RWTH-EBC/AixLib
 https://github.com/RWTH-EBC/TEASER
+https://github.com/oemof/tespy
 
 ## Mobility and Transportation
 - [NewMotion/ocpp: Open Charge Point Protocol](https://github.com/NewMotion/ocpp) 
