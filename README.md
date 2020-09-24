@@ -261,6 +261,8 @@ https://github.com/icepack/icepack
 https://github.com/weiji14/deepbedmap
 https://github.com/wrightni/OSSP
 https://github.com/ClimateClara/arc3o
+https://github.com/sallamander/forest-fires
+https://github.com/wildfirepy/wildfirepy
 
 ## Climate Data and Models
 - [ropensci/clifro: Easily download and visualise climate data from CliFlo](https://github.com/ropensci/clifro) 
