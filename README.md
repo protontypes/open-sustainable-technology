@@ -266,6 +266,8 @@ https://github.com/wildfirepy/wildfirepy
 
 ## Ocean and Climate
 https://github.com/mom-ocean/MOM5
+https://github.com/NOAA-GFDL/FMS
+https://github.com/NorESMhub/BLOM
 - [ropensci/clifro: Easily download and visualise climate data from CliFlo](https://github.com/ropensci/clifro) 
 - [JGCRI/hector: The Hector Simple Climate Model](https://github.com/JGCRI/hector) 
 - [apache/climate: Mirror of Apache Open Climate Workbench](https://github.com/apache/climate) 
