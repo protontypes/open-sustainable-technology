@@ -111,6 +111,7 @@ https://github.com/sandialabs/hyram
 - [tmrowco/electricitymap-contrib: A real-time visualisation of the CO2 emissions of electricity consumption](https://github.com/tmrowco/electricitymap-contrib) 
 - [EnergieID/entsoe-py: Python client for the ENTSO-E API (european network of transmission system operators for electricity)](https://github.com/EnergieID/entsoe-py) 
 https://github.com/Open-Power-System-Data/time_series
+https://github.com/Open-Power-System-Data/renewable_power_plants
 
 ## Power System Modeling Optimisation and Analysis
 https://github.com/tum-ens/pyGRETA
