@@ -280,6 +280,8 @@ https://github.com/ESMValGroup/ESMValTool
 https://www.nemo-ocean.eu/
 https://github.com/EarthSystemDiagnostics/sedproxy
 https://github.com/NCAR/icar
+https://github.com/CliMA/LESbrary.jl
+https://github.com/Unidata/MetPy
 
 ## CO2 Footprint
 - [Bloom](https://github.com/tmrowco/northapp-contrib/) - Bloom is a SaaS that allow companies to become climate leaders, from calculating their climate impact to communicating about their climate efforts. It connects to as many data sources as possible to assess your carbon footprint and find mitigation opportunities.
