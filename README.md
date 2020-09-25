@@ -91,6 +91,7 @@ https://github.com/rlogiacco/BatterySense
 https://github.com/TRI-AMDD/beep
 https://github.com/snl-quest/snl-quest
 https://gitlab.lrz.de/open-ees-ses/simses
+https://vibe.ornl.gov/#introduction
 
 ### Hydrogen
 - [ECSIM/opem: OPEM (Open Source PEM Fuel Cell Simulation Tool)](https://github.com/ECSIM/opem) 
