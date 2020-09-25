@@ -220,6 +220,8 @@ https://github.com/BlinkTagInc/node-gtfs
 https://github.com/andredarcie/awesome-gtfs
 https://github.com/schildbach/public-transport-enabler
 https://github.com/grote/osm2gtfs
+https://github.com/systragroup/quetzal
+https://github.com/marlinarnz/quetzal_germany
 
 
 # Emissions and Greenhouse Gases
