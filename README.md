@@ -53,6 +53,7 @@ https://openmdao.org/
 https://gitlab.windenergy.dtu.dk/TOPFARM/TopFarm2
 https://gitlab.windenergy.dtu.dk/OpenLAC/BasicDTUController
 https://gitlab.windenergy.dtu.dk/toolbox/WindEnergyToolbox
+https://github.com/NREL/Industry-energy-data-book
 
 
 ### Hydro Energy
