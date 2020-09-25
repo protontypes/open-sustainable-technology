@@ -94,6 +94,8 @@ https://gitlab.lrz.de/open-ees-ses/simses
 https://vibe.ornl.gov/#introduction
 https://github.com/Samuel-Buteau/universal-battery-database
 https://gitlab.lrz.de/open-ees-ses/openbea
+https://github.com/davidhowey/SLIDE
+https://github.com/batterysim/equiv-circ-model
 
 ### Hydrogen
 - [ECSIM/opem: OPEM (Open Source PEM Fuel Cell Simulation Tool)](https://github.com/ECSIM/opem) 
