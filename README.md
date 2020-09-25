@@ -228,8 +228,11 @@ https://github.com/systragroup/quetzal
 https://github.com/marlinarnz/quetzal_germany
 https://github.com/matsim-org/matsim-libs
 
-# Emissions and Greenhouse Gases
-## Observation
+## Industries and Companies
+https://github.com/NREL/Industry-Energy-Tool
+
+## Emissions and Greenhouse Gases
+### Observation
 - [Bloom](https://github.com/tmrowco/northapp-contrib/) - Bloom is a SaaS that allow companies to become climate leaders, from calculating their climate impact to communicating about their climate efforts. It connects to as many data sources as possible to assess your carbon footprint and find mitigation opportunities.
 https://github.com/NMF-earth/carbon-footprint
 https://github.com/protea-earth/carbon_footprint
@@ -240,12 +243,12 @@ https://git.iws.uni-stuttgart.de/dumux-repositories/dumux
 https://github.com/dataforgoodfr/batch7_satellite_ges/tree/master/
 https://github.com/gschivley/ghgforcing
 
-## Carbon Capture
+### Carbon Capture
 https://github.com/simccs/SimCCS
 https://github.com/CCSI-Toolset/FOQUS
 
-# Observation and Conservation of Ecosystems 
-## Forests and Vegetations
+## Observation and Conservation of Ecosystems 
+### Forests and Vegetations
 https://github.com/wri/carbon-budget
 https://github.com/apburt/treeseg/
 https://github.com/forestgeo/fgeo
@@ -260,7 +263,7 @@ https://github.com/tiagodc/TreeLS
 https://github.com/InverseTampere/TreeQSM
 https://github.com/weecology/DeepLidar
 
-## Ice and Poles
+### Ice and Poles
 - [Vizzuality/gfw: Global Forest Watch: An online, global, near-real time forest monitoring tool](https://github.com/Vizzuality/gfw) 
 - [pedropro/TACO: 🌮 Trash Annotations in Context Dataset Toolkit](https://github.com/pedropro/TACO) 
 - [OpenEnergyPlatform/oeplatform: Repository for the code of the Open Energy Platform (OEP) website. The OEP provides an interface to the Open Energy Family](https://github.com/OpenEnergyPlatform/oeplatform) 
@@ -298,7 +301,7 @@ https://github.com/ClimateClara/arc3o
 https://github.com/sallamander/forest-fires
 https://github.com/wildfirepy/wildfirepy
 
-## Ocean and Climate
+### Ocean and Climate
 https://github.com/mom-ocean/MOM5
 https://github.com/NOAA-GFDL/FMS
 https://github.com/NorESMhub/BLOM
