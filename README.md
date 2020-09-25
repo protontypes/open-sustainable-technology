@@ -173,6 +173,7 @@ https://github.com/UNSW-CEEM/nempy
 https://github.com/bje-/NEMO
 https://github.com/rl-institut/mvs_eland
 https://wiki.openmod-initiative.org/wiki/Open_Models
+https://github.com/RaphaelPB/WHAT-IF
 
 
 ## Energy Networks
@@ -339,7 +340,7 @@ https://github.com/MPAS-Dev/MPAS-Model
 https://github.com/OMS-NetZero/FAIR
  
  
-## Quality and Pollusion of Resources
+## Quality and Access of Resources
 
 ### Air
 https://github.com/oceanflux-ghg/FluxEngine
@@ -356,6 +357,7 @@ https://github.com/USGS-R/EGRET
 https://github.com/lanl-ansi/WaterModels.jl
 https://github.com/NOAA-OWP/t-route
 https://github.com/NOAA-OWP/ngen
+https://github.com/USGS-R/nhdplusTools
 
 ### Noise
 - [Ifsttar/NoiseModelling: A free and open-source model to compute noise maps.](https://github.com/Ifsttar/NoiseModelling) 
