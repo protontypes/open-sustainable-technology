@@ -173,12 +173,13 @@ https://github.com/MarvinLer/pypownet
 https://github.com/rte-france/Grid2Op
 https://github.com/lanl-ansi/PowerModels.jl
 https://github.com/lanl-ansi/PowerModelsAnnex.jl
+https://github.com/openego/eDisGo/
 
 
 
 # Energy Consumption
 
-## Energy Performance of Buildings
+## Energy Performance of Buildings and Cities
 - [buds-lab/the-building-data-genome-project: A collection of non-residential buildings for performance analysis and algorithm benchmarking](https://github.com/buds-lab/the-building-data-genome-project) 
 - [VOLTTRON/volttron: VOLTTRON Distributed Control System Platform](https://github.com/VOLTTRON/volttron) 
 - [OpenEnergyMonitor](https://github.com/openenergymonitor) 
@@ -191,6 +192,7 @@ https://github.com/NREL/OpenStudio-ERI
 https://github.com/RWTH-EBC/AixLib
 https://github.com/RWTH-EBC/TEASER
 https://github.com/oemof/tespy
+https://github.com/architecture-building-systems/CityEnergyAnalyst
 
 ## Mobility and Transportation
 - [NewMotion/ocpp: Open Charge Point Protocol](https://github.com/NewMotion/ocpp) 
