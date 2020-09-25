@@ -80,10 +80,6 @@ https://github.com/BioSTEAMDevelopmentGroup/biosteam
 
 ## Energy Storage
 
-## Carbon Capture
-https://github.com/simccs/SimCCS
-https://github.com/CCSI-Toolset/FOQUS
-
 ### Batterie
 - [foxBMS/foxbms](https://github.com/foxBMS/foxbms)
 - [ECSHackWeek/impedance.py: A Python package for working with electrochemical impedance data](https://github.com/ECSHackWeek/impedance.py) 
@@ -221,7 +217,8 @@ https://github.com/schildbach/public-transport-enabler
 https://github.com/grote/osm2gtfs
 
 
-# Observation of Emissions and Greenhouse Gases
+# Emissions and Greenhouse Gases
+## Observation
 - [Bloom](https://github.com/tmrowco/northapp-contrib/) - Bloom is a SaaS that allow companies to become climate leaders, from calculating their climate impact to communicating about their climate efforts. It connects to as many data sources as possible to assess your carbon footprint and find mitigation opportunities.
 https://github.com/NMF-earth/carbon-footprint
 https://github.com/protea-earth/carbon_footprint
@@ -232,6 +229,9 @@ https://git.iws.uni-stuttgart.de/dumux-repositories/dumux
 https://github.com/dataforgoodfr/batch7_satellite_ges/tree/master/
 https://github.com/gschivley/ghgforcing
 
+## Carbon Capture
+https://github.com/simccs/SimCCS
+https://github.com/CCSI-Toolset/FOQUS
 
 # Observation and Conservation of Ecosystems 
 ## Forests and Vegetations
