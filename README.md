@@ -212,13 +212,17 @@ https://github.com/RWTH-i5-IDSG/steve
 https://github.com/V2GClarity/RISE-V2G
 https://github.com/sash-ko/simobility
 
-## Carbon Footprint
+## Observation of Emissions and Greenhouse Gases
 - [Bloom](https://github.com/tmrowco/northapp-contrib/) - Bloom is a SaaS that allow companies to become climate leaders, from calculating their climate impact to communicating about their climate efforts. It connects to as many data sources as possible to assess your carbon footprint and find mitigation opportunities.
 https://github.com/NMF-earth/carbon-footprint
 https://github.com/protea-earth/carbon_footprint
 https://github.com/milankl/CarbonFootprintEGU
 https://github.com/mlco2/impact/
 https://github.com/bcgov/ghg-emissions-indicator
+https://git.iws.uni-stuttgart.de/dumux-repositories/dumux
+https://github.com/dataforgoodfr/batch7_satellite_ges/tree/master/
+https://github.com/gschivley/ghgforcing
+
 
 ## Observation and Conservation of Ecosystems 
 ### Forests and Vegetations
@@ -230,7 +234,11 @@ https://github.com/umr-amap/BIOMASS
 https://github.com/MetOffice/forest
 https://github.com/openforis/sepal
 https://github.com/maasglobal/maas-schemas
-
+https://github.com/forc-db/ForC
+https://github.com/gschivley/ghgforcing
+https://github.com/tiagodc/TreeLS
+https://github.com/InverseTampere/TreeQSM
+https://github.com/weecology/DeepLidar
 
 ### Ice and Poles
 - [Vizzuality/gfw: Global Forest Watch: An online, global, near-real time forest monitoring tool](https://github.com/Vizzuality/gfw) 
@@ -294,6 +302,7 @@ https://github.com/Unidata/MetPy
 https://github.com/ExeClim/Isca
 https://github.com/NOAA-GFDL/MOM6
 https://github.com/MPAS-Dev/MPAS-Model
+https://github.com/OMS-NetZero/FAIR
  
  
 ## Quality and Pollusion of Resources
@@ -346,3 +355,4 @@ https://github.com/pangeo-data/awesome-open-climate-science
 https://github.com/softwareunderground/awesome-open-geoscience#simulation-and-modelling
 https://github.com/chrisleaman/awesome-coastal
 https://en.wikipedia.org/wiki/Open_energy_system_databases
+https://www.che-project.eu/data-portal
