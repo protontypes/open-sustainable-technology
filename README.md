@@ -28,6 +28,7 @@ https://github.com/NREL/bifacialvf
 https://github.com/oscarperpinan/solar
 https://github.com/SolarTherm/SolarTherm
 https://github.com/oemof/tespy
+https://github.com/LibreSolar/charge-controller-firmware
 
 
 ### Wind Energy
@@ -114,6 +115,7 @@ https://github.com/sandialabs/hyram
 - [EnergieID/entsoe-py: Python client for the ENTSO-E API (european network of transmission system operators for electricity)](https://github.com/EnergieID/entsoe-py) 
 https://github.com/Open-Power-System-Data/time_series
 https://github.com/Open-Power-System-Data/renewable_power_plants
+https://github.com/OpenEnergyPlatform/open-MaStR
 
 ## Power System Modeling Optimisation and Analysis
 https://github.com/tum-ens/pyGRETA
@@ -164,6 +166,13 @@ https://github.com/grid-parity-exchange/Egret
 https://github.com/PyPSA/pypsa-eur
 https://github.com/quintel/etengine
 https://github.com/rl-institut/mvs_eland
+https://github.com/OpenEnergyPlatform/ontology
+https://github.com/IBM/rl-testbed-for-energyplus
+https://github.com/intelligent-environments-lab/CityLearn
+https://github.com/UNSW-CEEM/nempy
+https://github.com/bje-/NEMO
+https://github.com/rl-institut/mvs_eland
+https://wiki.openmod-initiative.org/wiki/Open_Models
 
 
 ## Energy Networks
