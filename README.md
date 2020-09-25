@@ -212,6 +212,14 @@ https://github.com/RWTH-i5-IDSG/steve
 https://github.com/V2GClarity/RISE-V2G
 https://github.com/sash-ko/simobility
 https://github.com/vocol/mobivoc
+https://github.com/grote/Transportr
+https://github.com/OneBusAway/onebusaway-android
+https://github.com/google/transitfeed
+https://github.com/BlinkTagInc/node-gtfs
+https://github.com/andredarcie/awesome-gtfs
+https://github.com/schildbach/public-transport-enabler
+https://github.com/grote/osm2gtfs
+
 
 # Observation of Emissions and Greenhouse Gases
 - [Bloom](https://github.com/tmrowco/northapp-contrib/) - Bloom is a SaaS that allow companies to become climate leaders, from calculating their climate impact to communicating about their climate efforts. It connects to as many data sources as possible to assess your carbon footprint and find mitigation opportunities.
