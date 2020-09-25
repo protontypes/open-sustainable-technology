@@ -358,6 +358,7 @@ https://github.com/lanl-ansi/WaterModels.jl
 https://github.com/NOAA-OWP/t-route
 https://github.com/NOAA-OWP/ngen
 https://github.com/USGS-R/nhdplusTools
+https://github.com/codeforboston/safe-water
 
 ### Noise
 - [Ifsttar/NoiseModelling: A free and open-source model to compute noise maps.](https://github.com/Ifsttar/NoiseModelling) 
