@@ -360,6 +360,7 @@ https://github.com/NOAA-OWP/ngen
 https://github.com/USGS-R/nhdplusTools
 https://github.com/codeforboston/safe-water
 https://github.com/mroberge/hydrofunctions
+https://github.com/CWatM/CWatM
 
 ### Noise
 - [Ifsttar/NoiseModelling: A free and open-source model to compute noise maps.](https://github.com/Ifsttar/NoiseModelling) 
