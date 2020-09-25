@@ -230,6 +230,7 @@ https://github.com/matsim-org/matsim-libs
 
 ## Industries and Companies
 https://github.com/NREL/Industry-Energy-Tool
+https://github.com/NREL/Industry-energy-data-book
 
 ## Emissions and Greenhouse Gases
 ### Observation
