@@ -162,6 +162,7 @@ https://github.com/PyPSA/whobs-server
 https://github.com/grid-parity-exchange/Egret
 https://github.com/PyPSA/pypsa-eur
 https://github.com/quintel/etengine
+https://github.com/rl-institut/mvs_eland
 
 
 ## Energy Networks
@@ -174,6 +175,7 @@ https://github.com/rte-france/Grid2Op
 https://github.com/lanl-ansi/PowerModels.jl
 https://github.com/lanl-ansi/PowerModelsAnnex.jl
 https://github.com/openego/eDisGo/
+https://github.com/rl-institut/offgridders
 
 
 
@@ -224,7 +226,7 @@ https://github.com/schildbach/public-transport-enabler
 https://github.com/grote/osm2gtfs
 https://github.com/systragroup/quetzal
 https://github.com/marlinarnz/quetzal_germany
-
+https://github.com/matsim-org/matsim-libs
 
 # Emissions and Greenhouse Gases
 ## Observation
