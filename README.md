@@ -174,6 +174,7 @@ https://github.com/bje-/NEMO
 https://github.com/rl-institut/mvs_eland
 https://wiki.openmod-initiative.org/wiki/Open_Models
 https://github.com/RaphaelPB/WHAT-IF
+https://github.com/energyPATHWAYS/EnergyPATHWAYS
 
 
 ## Energy Networks
