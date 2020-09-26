@@ -176,6 +176,7 @@ https://wiki.openmod-initiative.org/wiki/Open_Models
 https://github.com/RaphaelPB/WHAT-IF
 https://github.com/energyPATHWAYS/EnergyPATHWAYS
 https://github.com/Energy-Sparks/energy-sparks
+https://github.com/open-ideas/IDEAS
 
 
 ## Energy Networks
@@ -208,6 +209,7 @@ https://github.com/RWTH-EBC/AixLib
 https://github.com/RWTH-EBC/TEASER
 https://github.com/oemof/tespy
 https://github.com/architecture-building-systems/CityEnergyAnalyst
+https://github.com/lbl-srg/modelica-buildings
 
 ## Mobility and Transportation
 - [NewMotion/ocpp: Open Charge Point Protocol](https://github.com/NewMotion/ocpp) 
@@ -389,6 +391,13 @@ https://github.com/jsta/nhdR
 - [Trash-ICRA19: A Bounding Box Labeled Dataset of Underwater Trash](https://conservancy.umn.edu/handle/11299/214366) 
 https://github.com/bcgov/gwells
 
+## Soil
+https://github.com/ISRICWorldSoil/SoilGrids250m
+https://github.com/felixriese/hyperspectral-soilmoisture-dataset
+https://github.com/ncss-tech/soilReports
+https://github.com/ncss-tech/aqp
+https://github.com/ncss-tech/sharpshootR
+https://github.com/ncss-tech/soilDB
 
 ## Licenses and Law
 - [climate-strike/license: Prevent oil and gas companies from co-opting your work and extracting more fossil fuels with this software license.](https://github.com/climate-strike/license)
