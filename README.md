@@ -350,6 +350,7 @@ https://github.com/USEPA/CMAQ
 https://github.com/USEPA/AMET
 https://github.com/USEPA/WNTR
 https://gitlab.version.fz-juelich.de/toar/mlair
+https://github.com/bcgov/fasstr
 
 ### Water
 https://github.com/USEPA/Stormwater-Management-Model
