@@ -175,6 +175,7 @@ https://github.com/rl-institut/mvs_eland
 https://wiki.openmod-initiative.org/wiki/Open_Models
 https://github.com/RaphaelPB/WHAT-IF
 https://github.com/energyPATHWAYS/EnergyPATHWAYS
+https://github.com/Energy-Sparks/energy-sparks
 
 
 ## Energy Networks
@@ -374,7 +375,7 @@ https://github.com/CWatM/CWatM
 - [opendata-stuttgart/sensors-software: sourcecode for reading sensor data](https://github.com/opendata-stuttgart/sensors-software) 
 - [HabitatMap/AirCasting: AirCasting API and web application](https://github.com/HabitatMap/AirCasting) 
 - [USEPA/WNTR: An EPANET compatible python package to simulate and analyze water distribution networks under disaster scenarios.](https://github.com/USEPA/WNTR) 
-- [USEPA/CMAQ: Code base for the U.S. EPA’s Community Multiscale Air Quality Model (CMAQ). For additional background on CMAQ please visit: www.epa.gov/CMAQ](https://github.com/USEPA/CMAQ) 
+- [U SeeSEPA/CMAQ: Code base for the U.S. EPA’s Community Multiscale Air Quality Model (CMAQ). For additional background on CMAQ please visit: www.epa.gov/CMAQ](https://github.com/USEPA/CMAQ) 
 - [USEPA/AMET: Code base for the U.S. EPA’s Atmospheric Model Evaluation Tool (AMET). For additional background on AMET please visit: www.epa.gov/CMAQ/atmospheric-model-evaluation-tool](https://github.com/USEPA/AMET) 
 - [jsynowiec/airqmon: A macOS menu bar application that displays live air quality data from the nearest sensor station.](https://github.com/jsynowiec/airqmon) 
 - [davidcarslaw/openair: Tools for air quality data analysis](https://github.com/davidcarslaw/openair) 
