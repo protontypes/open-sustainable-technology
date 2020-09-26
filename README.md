@@ -365,6 +365,7 @@ https://github.com/codeforboston/safe-water
 https://github.com/mroberge/hydrofunctions
 https://github.com/CWatM/CWatM
 https://github.com/AquaticEcoDynamics/GLM
+https://github.com/jsta/nhdR
 
 ### Noise
 - [Ifsttar/NoiseModelling: A free and open-source model to compute noise maps.](https://github.com/Ifsttar/NoiseModelling) 
