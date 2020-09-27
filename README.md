@@ -118,6 +118,7 @@ https://github.com/Open-Power-System-Data/renewable_power_plants
 https://github.com/OpenEnergyPlatform/open-MaStR
 
 ## Power System Modeling Optimisation and Analysis
+https://github.com/JGCRI/gcam-core
 https://github.com/tum-ens/pyGRETA
 - [NREL/reV: Renewable Energy Potential (reV) Model](https://github.com/NREL/reV) 
 - [NREL/SAM: System Advisor Model (SAM)](https://github.com/NREL/SAM)  
@@ -177,6 +178,7 @@ https://github.com/RaphaelPB/WHAT-IF
 https://github.com/energyPATHWAYS/EnergyPATHWAYS
 https://github.com/Energy-Sparks/energy-sparks
 https://github.com/open-ideas/IDEAS
+https://github.com/PyPSA/atlite
 
 
 ## Energy Networks
@@ -262,6 +264,7 @@ https://github.com/gschivley/ghgforcing
 ### Carbon Capture
 https://github.com/simccs/SimCCS
 https://github.com/CCSI-Toolset/FOQUS
+https://github.com/yohanesnuwara/carbon-capture-and-storage
 
 ## Observation and Conservation of Ecosystems 
 ### Forests and Vegetations
@@ -278,6 +281,7 @@ https://github.com/gschivley/ghgforcing
 https://github.com/tiagodc/TreeLS
 https://github.com/InverseTampere/TreeQSM
 https://github.com/weecology/DeepLidar
+https://github.com/esowc/wildfire-forecasting
 
 ### Ice and Poles
 - [Vizzuality/gfw: Global Forest Watch: An online, global, near-real time forest monitoring tool](https://github.com/Vizzuality/gfw) 
