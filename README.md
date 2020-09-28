@@ -109,7 +109,7 @@ numerical methods for the simulation of thermo-hydro-mechanical-chemical
 - [hyram](https://github.com/sandialabs/hyram) - is the first-ever software toolkit that integrates deterministic and probabilistic models for quantifying accident scenarios, predicting physical effects, and characterizing hydrogen hazards’ impact on people and structures
 
 
-## Electricity Consumtion and Generation Data 
+## Datasets on Electricity Consumtion and Generation 
 - [pudl](https://github.com/catalyst-cooperative/pudl) - makes US energy data easier to access and use 
 - [global-power-plant-database](https://github.com/wri/global-power-plant-database) - A comprehensive, global, open source database of power plants 
 - [electricitymap-contrib](https://github.com/tmrowco/electricitymap-contrib) - A real-time visualisation of the CO2 emissions of electricity consumption 
@@ -117,32 +117,30 @@ numerical methods for the simulation of thermo-hydro-mechanical-chemical
 - [time_series](https://github.com/Open-Power-System-Data/time_series) - contains scripts that compile time series data of the European power system.
 - [renewable_power_plant](https://github.com/Open-Power-System-Data/renewable_power_plants) - contains scripts to create lists of renewable power plants in Germany, Denmark, France and Poland, and daily time series of cumulated installed capacity per energy source type for Germany.
 - [open-MaStR](https://github.com/OpenEnergyPlatform/open-MaStR) - download and process German energy data from BNetzA database Marktstammdatenregister
+- [powerplantmatching](https://github.com/FRESNA/powerplantmatching) - A toolset for cleaning, standardizing and combining multiple power plant databases.
+- [conventional_power_plants](https://github.com/Open-Power-System-Data/conventional_power_plants) -contains data on conventional power plants for Germany as well as other selected European countries. The data includes individual power plants with their technical characteristics. These include installed capacity, main energy source, type of technology, CHP capability, and geographical information
+- [renewable_power_plants](https://github.com/Open-Power-System-Data/renewable_power_plants) -  contains scripts to create lists of renewable power plants in Germany, Denmark, France and Poland, and daily time series of cumulated installed capacity per energy source type for German
+- [GeoNuclearData](https://github.com/cristianst85/GeoNuclearData) - Database with information about Nuclear Power Plants worldwide
+- [pyEIA](https://github.com/thomastu/pyEIA) - An Energy Information Administration (EIA) API python client for researchers who just need data
+- [EIA](https://github.com/ropensci/eia) - An R package wrapping the US Energy Information Administration open data API. 
 
 
-## Power System Modeling Optimisation and Analysis
-https://github.com/JGCRI/gcam-core
-https://github.com/tum-ens/pyGRETA
-- [NREL/reV: Renewable Energy Potential (reV) Model](https://github.com/NREL/reV) 
-- [NREL/SAM: System Advisor Model (SAM)](https://github.com/NREL/SAM)  
-- [pandapower - pandapower](http://www.pandapower.org/) - An easy to use open source tool for power system modeling, analysis and optimization with a high degree of automation.
-- [gschivley/PowerGenome: A tool to quickly and easily create inputs for power systems models](https://github.com/gschivley/PowerGenome) 
-- [PyPSA/PyPSA: PyPSA: Python for Power System Analysis](https://github.com/PyPSA/PyPSA) 
-- [OpenEMS/openems: OpenEMS - Open Source Energy Management System](https://github.com/OpenEMS/openems) 
-- [openeemeter/eemeter: An open source python package for implementing and developing standard methods for calculating normalized metered energy consumption and avoided energy use.](https://github.com/openeemeter/eemeter)
-- [pyaf/load_forecasting: Load forcasting on Delhi area electric power load using ARIMA, RNN, LSTM and GRU models](https://github.com/pyaf/load_forecasting) 
-- [FRESNA/powerplantmatching: Set of tools to combine multiple power plant databases](https://github.com/FRESNA/powerplantmatching) 
-- [Open-Power-System-Data/conventional_power_plants: Data package: conventional power plants](https://github.com/Open-Power-System-Data/conventional_power_plants) 
-- [Open-Power-System-Data/renewable_power_plants: Data package: renewable power plants](https://github.com/Open-Power-System-Data/renewable_power_plants) 
-- [cristianst85/GeoNuclearData: Database with information about Nuclear Power Plants worldwide.](https://github.com/cristianst85/GeoNuclearData) 
-- [ropensci/eia: An R package wrapping the US Energy Information Administration open data API.](https://github.com/ropensci/eia) 
-- [NREL/REopt_Lite_API](https://github.com/NREL/REopt_Lite_API) 
-- [thomastu/pyEIA: An Energy Information Administration (EIA) API python client for researchers who just need data.](https://github.com/thomastu/pyEIA) 
-- [openCEMorg/openCEM: Capacity Expansion Model and Optimiser for the Australian National Energy Market](https://github.com/openCEMorg/openCEM) 
-- [tum-ens/urbs: A linear optimisation model for distributed energy systems](https://github.com/tum-ens/urbs) 
-- [ADGEfficiency/energy-py: Reinforcement learning for energy systems](https://github.com/ADGEfficiency/energy-py) 
-- [energy-modelling-toolkit/Dispa-SET: The Dispa-SET unit-commitment and optimal dispatch model, developed at the JRC](https://github.com/energy-modelling-toolkit/Dispa-SET) 
-- [calliope-project/calliope: A multi-scale energy systems modelling framework](https://github.com/calliope-project/calliope) 
-- [OSeMOSYS/OSeMOSYS: OSeMOSYS - the Open Source Energy Modelling System](https://github.com/OSeMOSYS/OSeMOSYS) 
+## System Modeling, Optimisation and Analysis
+- [PyPSA](https://github.com/PyPSA/PyPSA) - PyPSA is a free software toolbox for simulating and optimising modern power systems that include features such as conventional generators with unit commitment, variable wind and solar generation, storage units, coupling to other energy sectors, and mixed alternating and direct current networks 
+- [GCAM](https://github.com/JGCRI/gcam-core) - is a dynamic-recursive model with technology-rich representations of the economy, energy sector, land use and water linked to a climate model that can be used to explore climate change mitigation policies including carbon taxes, carbon trading, regulations and accelerated deployment of energy technology.
+- [pyGRETA](https://github.com/tum-ens/pyGRETA) - python *G*enerator of *RE*newable *T*ime series and m*A*ps: a tool that generates high-resolution potential maps and time series for user-defined regions within the globe.
+- [reV](https://github.com/NREL/reV) - reV enables the efficient and scalable computation of renewable energy generation, levelized cost of energy (LCOE), application of geospatial exclusion layers, and generation of renewable energy supply curves
+- [SAM: System Advisor Model (SAM)](https://github.com/NREL/SAM) - is a simulation program for electricity generation projects. It has models for different kinds of renewable energy systems and financial models for residential, commercial, and utility-scale projects  
+- [pandapower](http://www.pandapower.org/) - An easy to use open source tool for power system modeling, analysis and optimization with a high degree of automation.
+- [PowerGenome](https://github.com/gschivley/PowerGenome) - A tool to quickly and easily create inputs for power systems models
+- [load_forecasting](https://github.com/pyaf/load_forecasting) - Load forcasting on Delhi area electric power load using ARIMA, RNN, LSTM and GRU models
+- [REopt_Lite_API](https://github.com/NREL/REopt_Lite_API) - REopt Lite offers a subset of features from NREL's more comprehensive REopt model. Both models provide concurrent, multiple technology integration and optimization capabilities to help organizations meet their cost savings and energy performance goals 
+- [openCEM](https://github.com/openCEMorg/openCEM) - Capacity Expansion Model and Optimiser for the Australian National Energy Market
+- [urbs](https://github.com/tum-ens/urbs) - A linear optimisation model for distributed energy systems 
+- [energy-py](https://github.com/ADGEfficiency/energy-py) -  Reinforcement learning for energy systems 
+- [Dispa-SET](https://github.com/energy-modelling-toolkit/Dispa-SET) - allows to model a power system at any level of detail e.g. micro-grid, region, country, continent 
+- [calliope](https://github.com/calliope-project/calliope) - Calliope is a framework to develop energy system models, with a focus on flexibility, high spatial and temporal resolution, the ability to execute many runs based on the same base model, and a clear separation of framework (code) and model (data)
+- [OSeMOSYS](https://github.com/OSeMOSYS/OSeMOSYS) - is an open source modelling system for long-run integrated assessment and energy planning. It has been employed to develop energy systems models from the scale of continents (African Power Pools, South America, EU28+2) down to the scale of countries, regions and village 
 - [FZJ-IEK3-VSA/glaes: Geospatial Land Availability for Energy Systems](https://github.com/FZJ-IEK3-VSA/glaes) 
 - [FZJ-IEK3-VSA/RESKit: A toolkit to help generate renewable energy generation time-series for energy systems analysis](https://github.com/FZJ-IEK3-VSA/RESKit) 
 - [FZJ-IEK3-VSA/FINE: The FINE python package provides a framework for modeling, optimizing and assessing energy systems](https://github.com/FZJ-IEK3-VSA/FINE) 
@@ -182,8 +180,12 @@ https://github.com/Energy-Sparks/energy-sparks
 https://github.com/open-ideas/IDEAS
 https://github.com/PyPSA/atlite
 
+## Energy System Monitoring and Control
 
-## Energy Networks
+- [OpenEMS/openems: OpenEMS - Open Source Energy Management System](https://github.com/OpenEMS/openems) 
+- [openeemeter/eemeter: An open source python package for implementing and developing standard methods for calculating normalized metered energy consumption and avoided energy use.](https://github.com/openeemeter/eemeter)
+
+## Energy Distribution
 - [OSGP/open-smart-grid-platform: This repository combines the code from and supersedes the prior existing Shared, Platform, Protocol-Adapter-OSLP, Protocol-Adapter-IEC61850, Protocol-Adapter-DLMS, PublicLightingDemoApp and Integration-Tests repositories. The old repositories have been kept online for now in readonly mode to preserve the historical information.](https://github.com/OSGP/open-smart-grid-platform) 
 https://github.com/RIAPS/riaps-core
 https://github.com/lanl-ansi/PowerModels.jl
@@ -197,9 +199,9 @@ https://github.com/rl-institut/offgridders
 
 
 
-# Energy Consumption
+## Energy Consumption
 
-## Energy Performance of Buildings and Cities
+### Energy Performance of Buildings and Cities
 - [buds-lab/the-building-data-genome-project: A collection of non-residential buildings for performance analysis and algorithm benchmarking](https://github.com/buds-lab/the-building-data-genome-project) 
 - [VOLTTRON/volttron: VOLTTRON Distributed Control System Platform](https://github.com/VOLTTRON/volttron) 
 - [OpenEnergyMonitor](https://github.com/openenergymonitor) 
@@ -214,8 +216,9 @@ https://github.com/RWTH-EBC/TEASER
 https://github.com/oemof/tespy
 https://github.com/architecture-building-systems/CityEnergyAnalyst
 https://github.com/lbl-srg/modelica-buildings
+https://github.com/buds-lab/building-data-genome-project-2
 
-## Mobility and Transportation
+### Mobility and Transportation
 - [NewMotion/ocpp: Open Charge Point Protocol](https://github.com/NewMotion/ocpp) 
 - [coopcycle/coopcycle-web: Open source logistics platform. Only for worker-owned business.](https://github.com/coopcycle/coopcycle-web)
 - [EVNotify/EVNotify: EVNotify allows you to monitor your electric vehicle and let you notify when the specified preset state of charge has been achieved.](https://github.com/EVNotify/EVNotify)
@@ -246,8 +249,9 @@ https://github.com/grote/osm2gtfs
 https://github.com/systragroup/quetzal
 https://github.com/marlinarnz/quetzal_germany
 https://github.com/matsim-org/matsim-libs
+- https://openmobility.eclipse.org/
 
-## Industries and Companies
+### Industries and Companies
 https://github.com/NREL/Industry-Energy-Tool
 https://github.com/NREL/Industry-energy-data-book
 
@@ -350,7 +354,7 @@ https://github.com/MPAS-Dev/MPAS-Model
 https://github.com/OMS-NetZero/FAIR
 
 
-## Quality and Access of Resources
+## Quality and Access of Global Resources
 
 ### Air
 https://github.com/oceanflux-ghg/FluxEngine
@@ -375,6 +379,11 @@ https://github.com/CWatM/CWatM
 https://github.com/AquaticEcoDynamics/GLM
 https://github.com/jsta/nhdR
 [MODFLOW-USGS/modflow6](https://github.com/MODFLOW-USGS/modflow6) - MODFLOW program has been widely used by academics, private consultants, and government scientists to accurately, reliably, and efficiently simulate groundwater flow
+https://github.com/hydroshare/hydroshare
+HydroShare is a website and hydrologic information system for sharing hydrologic data and models aimed at giving users the cyberinfrastructure needed to innovate and collaborate in research to solve water problems.
+https://github.com/ropensci/Hydrology
+https://github.com/mdbartos/pysheds
+https://github.com/jblindsay/whitebox-tools
 
 
 ### Noise
@@ -407,8 +416,7 @@ https://github.com/ncss-tech/aqp
 https://github.com/ncss-tech/sharpshootR
 https://github.com/ncss-tech/soilDB
 
-## Licenses and Law
-- [climate-strike/license: Prevent oil and gas companies from co-opting your work and extracting more fossil fuels with this software license.](https://github.com/climate-strike/license)
+## Recycling
 
 
 
