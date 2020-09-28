@@ -3,119 +3,121 @@ Gathering of state-of-the-art open source projects for the preservation of globa
 
 ## Electricity Generation
 ### Solar Energy
-- [pvlib/pvlib-python: A set of documented functions for simulating the performance of photovoltaic energy systems.](https://github.com/pvlib/pvlib-python)
-- [SunPower/pvfactors: Open-source view-factor model for diffuse shading and bifacial PV modeling. Documentation:](https://github.com/SunPower/pvfactors) 
-- [renewables-ninja/gsee: GSEE: Global Solar Energy Estimator](https://github.com/renewables-ninja/gsee) 
-- [SunPower/PVMismatch: An explicit Python PV system IV & PV curve trace calculator which can also calculate mismatch.](https://github.com/SunPower/PVMismatch) 
-- [NREL/rdtools: PV Analysis Tools in Python](https://github.com/NREL/rdtools) 
-- [ColasGael/Machine-Learning-for-Solar-Energy-Prediction: Predict the Power Production of a solar panel farm from Weather Measurements using Machine Learning](https://github.com/ColasGael/Machine-Learning-for-Solar-Energy-Prediction) 
-- [zae-bayern/elpv-dataset: A dataset of functional and defective solar cells extracted from EL images of solar modules](https://github.com/zae-bayern/elpv-dataset) 
-- [oemof/feedinlib: This repository contains implementations of photovoltaic models to calculate electricity generation from a pv installation based on given solar radiation. Furthermore it contains all necessary pre-calculations.](https://github.com/oemof/feedinlib) 
-- [pvedu/photovoltaic](https://github.com/pvedu/photovoltaic) 
-- [pvcaptest/pvcaptest: Collection of functions and jupyter notebooks to partially automate running a capacity test following ASTM E2848.](https://github.com/pvcaptest/pvcaptest) 
-- [danieljfarrell/pvtrace: Optical ray tracing for luminescent materials and spectral converter photovoltaic devices](https://github.com/danieljfarrell/pvtrace) 
-- [NREL/SolarPILOT: SolarPILOT power tower layout and optimization tool](https://github.com/NREL/SolarPILOT) 
-- [slacgismo/solar-data-tools: Some data analysis tools for working with historical PV solar time-series data sets.](https://github.com/slacgismo/solar-data-tools) 
-- [dazhiyang/SolarData: Download and manipulate some publicly available solar datasets](https://github.com/dazhiyang/SolarData)
-- [sibyjackgrove/SolarPV-DER-simulation-utility: Allows user to run dynamics simulations for solar photovoltaic distributed energy resource connected to a stiff voltage source or to an external program. It allows modifying DER parameters, introducing external disturbance events, and visualizing the simulation results. The PV-DER (inverter) is modeled using dynamic phasor concept.](https://github.com/sibyjackgrove/SolarPV-DER-simulation-utility) 
-- [NREL/bifacial_radiance: Toolkit for working with RADIANCE for the ray-trace modeling of Bifacial Photovoltaics](https://github.com/NREL/bifacial_radiance) 
+- [pvlib-python](https://github.com/pvlib/pvlib-python) - A set of documented functions for simulating the performance of photovoltaic energy systems
+- [pvfactors](https://github.com/SunPower/pvfactors) - Open-source view-factor model for diffuse shading and bifacial PV modeling
+- [gsee](https://github.com/renewables-ninja/gsee) -  Global Solar Energy Estimator
+- [PVMismatch](https://github.com/SunPower/PVMismatch) - An explicit Python PV system IV & PV curve trace calculator which can also calculate mismatch
+- [rdtools](https://github.com/NREL/rdtools) - is an open-source library to support reproducible technical analysis of time series data from photovoltaic energy systems
+- [Machine-Learning-for-Solar-Energy-Prediction](https://github.com/ColasGael/Machine-Learning-for-Solar-Energy-Prediction) - Predict the power production of a solar panel farm from weather measurements using machine learning
+- [elpv-dataset](https://github.com/zae-bayern/elpv-dataset) - A dataset of functional and defective solar cells extracted from EL images of solar modules 
+- [feedinlib repository](https://github.com/oemof/feedinlib) - contains implementations of photovoltaic models to calculate electricity generation from a pv installation based on given solar radiation. Furthermore it contains all necessary pre-calculations.
+- [pphotovoltaic](https://github.com/pvedu/photovoltaic) - is a library of python functions used in photovoltaics 
+- [pvcaptest](https://github.com/pvcaptest/pvcaptest) - Collection of functions and jupyter notebooks to partially automate running a capacity test following ASTM E2848
+- [pvtrace](https://github.com/danieljfarrell/pvtrace) - Optical ray tracing for luminescent materials and spectral converter photovoltaic devices
+- [SolarPILOT](https://github.com/NREL/SolarPILOT) - Solar power tower layout and optimization tool
+- [solar-data-tools](https://github.com/slacgismo/solar-data-tools) - Some data analysis tools for working with historical PV solar time-series data sets
+- [SolarData](https://github.com/dazhiyang/SolarData) - Download and manipulate some publicly available solar datasets
+- [SolarPV-DER-simulation-utility](https://github.com/sibyjackgrove/SolarPV-DER-simulation-utility) -  Allows user to run dynamics simulations for solar photovoltaic distributed energy resource connected to a stiff voltage source or to an external program
+- [bifacial_radiance](https://github.com/NREL/bifacial_radiance) - Toolkit for working with RADIANCE for the ray-trace modeling of Bifacial Photovoltaics
 - [autoXRD](https://github.com/PV-Lab/autoXRD) - is a python package for automatic XRD pattern classification of thin-films, tweaked for small and class-imbalanced datasets.
 - [BayesProcess](https://github.com/PV-Lab/BayesProcess) - is a python package for Physics informed Bayesian network inference using neural network surrogate model for matching process / variable / performance in solar cells
-https://zenodo.org/record/2613651#.XRtJRP7Rapo
-https://github.com/qpv-research-group/solcore5
-https://github.com/squishykid/solax
-https://github.com/NREL/bifacialvf
-https://github.com/oscarperpinan/solar
-https://github.com/SolarTherm/SolarTherm
-https://github.com/oemof/tespy
-https://github.com/LibreSolar/charge-controller-firmware
+- [solcore5](https://github.com/qpv-research-group/solcore5) - A multi-scale, python-based library for the modelling of solar cells and semiconductor materials
+- [solax](https://github.com/squishykid/solax) - Read energy usage data from the real-time API on Solax solar inverters.
+- [bifacialvf](https://github.com/NREL/bifacialvf) - Bifacial PV View Factor model for system performance calculation
+- [solar](https://github.com/oscarperpinan/solar) - allows for reproducible research both for photovoltaics (PV) systems performance and solar radiation.
+- [SolarTherm](https://github.com/SolarTherm/SolarTherm) - Solar thermal power/fuel station performance simulation and optimisation using Modelica
+- [tespy](https://github.com/oemof/tespy) - provides a powerful simulation toolkit for thermal engineering plants such as power plants, district heating systems or heat pumps
+- [LibreSolar charge-controller-firmware)](https://github.com/LibreSolar/charge-controller-firmware) - Firmware for Libre Solar MPPT/PWM charge controllers
+- [Photovoltaic time series for European countries and different system configurations](https://zenodo.org/record/2613651#.XRtJRP7Rapo)
 
 
 ### Wind Energy
-* [google/makani: Makani was a project to develop a commercial-scale airborne wind turbine, culminating in a flight test of the Makani M600 off the coast of Norway. All Makani software has now been open-sourced. This repository contains the working Makani flight simulator, controller (autopilot), visualizer, and command center flight monitoring tools. Additionally, almost all avionics firmware is also included, albeit potentially not in a buildable state, due to the removal of some third-party proprietary code. We hope that this code will be inspirational and useful to the kite-based windpower and wider communities.](https://github.com/google/makani) 
-- [IEAWindTask37/IEA-15-240-RWT: 15MW reference wind turbine repository developed in conjunction with IEA Wind](https://github.com/IEAWindTask37/IEA-15-240-RWT) 
-- [wind-python/windpowerlib: The windpowerlib is a library to model the output of wind turbines and farms.](https://github.com/wind-python/windpowerlib) 
-- [turbinesFoam/turbinesFoam: Actuator line modeling extension library for OpenFOAM.](https://github.com/turbinesFoam/turbinesFoam) 
-- [Exawind/nalu-wind: Solver for wind farm simulations targeting exascale computational platforms](https://github.com/Exawind/nalu-wind) 
-- [OpenFAST/openfast: Main repository for the NREL-supported OpenFAST whole-turbine simulation code. Further documentation is available at](https://github.com/OpenFAST/openfast) 
-- [mapbox/webgl-wind: Wind power visualization with WebGL particles](https://github.com/mapbox/webgl-wind/) 
-- [Exawind/amr-wind: AMReX-based structured wind solver](https://github.com/Exawind/amr-wind) 
-- [QBlade](http://www.q-blade.org/#welcome)
-- [NREL/OpenOA: This library provides a framework for working with large timeseries data from wind plants, such as SCADA. Its development has been motivated by the WP3 Benchmarking (PRUF) project, which aims to provide a reference implementation for plant-level performance assessment.](https://github.com/NREL/OpenOA) 
-- [NREL/ROSCO](https://github.com/NREL/ROSCO) 
-- [NREL/floris: A controls-oriented engineering wake model. Documentation at](https://github.com/NREL/floris) 
-- [FZJ-IEK3-VSA/windtools: Small tools to assist wind energy simulations](https://github.com/FZJ-IEK3-VSA/windtools) 
-https://gitlab.windenergy.dtu.dk/TOPFARM/PyWake
-https://github.com/WISDEM/WISDEM
-https://github.com/WISDEM/LandBOSSE
-https://github.com/OpenFAST
-https://github.com/NREL/OpenStudio-server
-https://openmdao.org/
-https://gitlab.windenergy.dtu.dk/TOPFARM/TopFarm2
-https://gitlab.windenergy.dtu.dk/OpenLAC/BasicDTUController
-https://gitlab.windenergy.dtu.dk/toolbox/WindEnergyToolbox
-https://github.com/NREL/Industry-energy-data-book
+- [makani](https://github.com/google/makani) - was a project to develop a commercial-scale airborne wind turbine, culminating in a flight test of the Makani M600 off the coast of Norway
+- [IEA-15-240-RWT](https://github.com/IEAWindTask37/IEA-15-240-RWT) - 15MW reference wind turbine repository developed in conjunction with IEA Wind
+- [windpowerlib](https://github.com/wind-python/windpowerlib) - The windpowerlib is a library to model the output of wind turbines and farms
+- [turbinesFoam](https://github.com/turbinesFoam/turbinesFoam) - is a library for simulating wind and marine hydrokinetic turbines in OpenFOAM using the actuator line method
+- [nalu-wind](https://github.com/Exawind/nalu-wind) - Solver for wind farm simulations targeting exascale computational platforms
+- [openfast](https://github.com/OpenFAST/openfast) - the NREL supported OpenFAST whole-turbine simulation code 
+- [amr-wind](https://github.com/Exawind/amr-wind) - AMReX-based structured wind solver
+- [QBlade](http://www.q-blade.org/#welcome) - provides a ’hands on’ design and simulation capabilities for HAWT and VAWT rotor design and shows all the fundamental relationships of design concepts and turbine performance in an easy and intuitive way. 
+- [OpenOA](https://github.com/NREL/OpenOA) - This library provides a framework for working with large timeseries data from wind plants, such as SCADA
+- [ROSCO](https://github.com/NREL/ROSCO) - NREL's Reference OpenSource Controller (ROSCO) for wind turbine applications
+- [floris](https://github.com/NREL/floris) - A controls-oriented engineering wake model
+- [windtools](https://github.com/FZJ-IEK3-VSA/windtools) - The Wind Energy Generation Tools provides useful tools to assist in wind energy simulations. 
+- [PyWake](https://gitlab.windenergy.dtu.dk/TOPFARM/PyWake) - an AEP calculator for wind farms implemented in Python including a collection of wake models
+- [WISDEM](https://github.com/WISDEM/WISDEM) - Wind Plant Integrated System Design and Engineering Model
+- [LandBOSSE](https://github.com/WISDEM/LandBOSSE) - The Land-based Balance-of-System Systems Engineering (LandBOSSE) model is a systems engineering tool that estimates the balance-of-system (BOS) costs associated with installing utility scale wind plants (10, 1.5 MW turbines or larger)
+- [OpenStudio](https://github.com/NREL/OpenStudio) - is a cross-platform collection of software tools to support whole building energy modeling using EnergyPlus and advanced daylight analysis using Radiance.
+- [OpenMDAO](https://github.com/OpenMDAO/OpenMDAO) - Optimization of Aerodynamic systems
+- [TopFarm2](https://gitlab.windenergy.dtu.dk/TOPFARM/TopFarm2) - TOPFARM is a Python package developed by DTU Wind Energy to help with wind-farm optimizations.
+- [BasicDTUController](https://gitlab.windenergy.dtu.dk/OpenLAC/BasicDTUController) - The scope of this project is to provide an open-source open-access controller that can be used by the wind energy community as a reference
+- [WindEnergyToolbox](https://gitlab.windenergy.dtu.dk/toolbox/WindEnergyToolbox) - is a collection of Python scripts that facilitate working with (potentially a lot) of HAWC2,HAWCStab2, FAST or other text input based simulation tools.
 
 
 ### Hydro Energy
-- [SNL-WaterPower/WecOptTool: WEC Design Optimization Toolbox](https://github.com/SNL-WaterPower/WecOptTool) 
-- [SNL-WaterPower/CACTUS: CACTUS (Code for Axial and Cross-flow TUrbine Simulation) is a turbine performance simulation code, based on a free wake vortex method, to study wind turbines and marine hydrokinetic (MHK) devices.](https://github.com/SNL-WaterPower/CACTUS) 
-- [energy-modelling-toolkit/hydro-power-database: JRC Hydro-power plants database](https://github.com/energy-modelling-toolkit/hydro-power-database) 
-- [MHKiT-Software/MHKiT-Python: MHKiT-Python provides the marine renewable energy (MRE) community tools for data processing, visualization, quality control, resource assessment, and device performance.](https://github.com/MHKiT-Software/MHKiT-Python) 
-- https://github.com/MODFLOW-USGS/modflow6
+- [WecOptTool](https://github.com/SNL-WaterPower/WecOptTool) - allows users to perform wave energy converter device design optimization studies with constrained optimal control.
+- [CACTUS](https://github.com/SNL-WaterPower/CACTUS) - is a turbine performance simulation code, based on a free wake vortex method, to study wind turbines and marine hydrokinetic devices 
+- [hydro-power-database](https://github.com/energy-modelling-toolkit/hydro-power-database) - dataset tries to collect some basic information on all the European hydro-power plants
+- [MHKiT-Python](https://github.com/MHKiT-Software/MHKiT-Python) - MHKiT-Python provides the marine renewable energy (MRE) community tools for data processing, visualization, quality control, resource assessment, and device performance. 
 
 
 ### Geothermal Energy
-- [oemof/tespy: Thermal Engineering Systems in Python (TESPy). This package provides a powerful simulation toolkit for thermal engineering plants such as power plants, district heating systems or heat pumps.](https://github.com/oemof/tespy) 
-- [MassimoCimmino/pygfunction: An open-source toolbox for the evaluation of thermal response factors (g-functions) of geothermal borehole fields.](https://github.com/MassimoCimmino/pygfunction) 
-- [Japhiolite/geothermics: Educational repository with Jupyter Notebooks all around the topic of geothermal energy](https://github.com/Japhiolite/geothermics) 
-http://energy.concord.org/energy2d/
-https://www.opengeosys.org/
-
-https://github.com/lanl/FEHM
+- [tespy](https://github.com/oemof/tespy)- provides a powerful simulation toolkit for thermal engineering plants such as power plants, district heating systems or heat pumps
+- [pygfunction](https://github.com/MassimoCimmino/pygfunction) - An open-source toolbox for the evaluation of thermal response factors (g-functions) of geothermal borehole fields. 
+- [geothermics](https://github.com/Japhiolite/geothermics) - Educational repository with Jupyter Notebooks all around the topic of geothermal energy 
+- [energy2d](https://github.com/charxie/energy2d) - Interactive Heat Transfer Simulations for Everyone
+- [OpenGeoSys 6](https://gitlab.opengeosys.org/ogs/ogs) - is a scientific open source project for the development of
+numerical methods for the simulation of thermo-hydro-mechanical-chemical
+(THMC) processes in porous and fractured media
+- [FEHM](https://github.com/lanl/FEHM) - has proved to be a valuable asset on a variety of projects of national interest including Environmental Remediation of the Nevada Test Site, the LANL Groundwater Protection Program, geologic CO2 sequestration, Enhanced Geothermal Energy (EGS) programs, Oil and Gas production, Nuclear Waste Isolation, and Arctic Permafrost
+- [thermo](https://github.com/CalebBell/thermo) - Thermodynamics, phase equilibria, transport properties and chemical database component of Chemical Engineering Design Library 
 
 ### Biogas / Biomass
-- [sashahafner/biogas: Tools for biogas research in R: process biogas data and predict biogas production](https://github.com/sashahafner/biogas) 
-https://github.com/BioSTEAMDevelopmentGroup/biosteam
+- [sashahafner/biogas](https://github.com/sashahafner/biogas) - Tools for biogas research in R: process biogas data and predict biogas production
+- [biosteam](https://github.com/BioSTEAMDevelopmentGroup/biosteam) - The Biorefinery Simulation and Techno-Economic Analysis Modules
 
 
 
 ## Energy Storage
 
 ### Batterie
-- [foxBMS/foxbms](https://github.com/foxBMS/foxbms)
-- [ECSHackWeek/impedance.py: A Python package for working with electrochemical impedance data](https://github.com/ECSHackWeek/impedance.py) 
-- [pybamm-team/PyBaMM: Fast and flexible physics-based battery models in Python](https://github.com/pybamm-team/PyBaMM) 
-- [EnnoidMe/ENNOID-BMS: Open-Source: Modular BMS based on LTC68XX & STM32 MCU for up to 400V EV battery pack](https://github.com/EnnoidMe/ENNOID-BMS) 
-- [jepegit/cellpy: extract and tweak data from electrochemical tests of cells](https://github.com/jepegit/cellpy) 
-https://github.com/rdbraatz/data-driven-prediction-of-battery-cycle-life-before-capacity-degradation
-https://github.com/rlogiacco/BatterySense
-https://github.com/TRI-AMDD/beep
-https://github.com/snl-quest/snl-quest
-https://gitlab.lrz.de/open-ees-ses/simses
-https://vibe.ornl.gov/#introduction
-https://github.com/Samuel-Buteau/universal-battery-database
-https://gitlab.lrz.de/open-ees-ses/openbea
-https://github.com/davidhowey/SLIDE
-https://github.com/batterysim/equiv-circ-model
+- [foxBMS](https://github.com/foxBMS/foxbms) -  is a free, open and flexible development environment to design battery management systems. It is the first modular open source BMS development platform.
+- [impedance.py](https://github.com/ECSHackWeek/impedance.py) - A Python package for working with electrochemical impedance data
+- [PyBaMM](https://github.com/pybamm-team/PyBaMM) - Fast and flexible physics-based battery models in Python
+- [ENNOID-BMS](https://github.com/EnnoidMe/ENNOID-BMS) - Open-Source: Modular BMS based on LTC68XX & STM32 MCU for up to 400V EV battery pack
+- [cellpy](https://github.com/jepegit/cellpy) - extract and tweak data from electrochemical tests of batterie cells
+- [data-driven-prediction-of-battery-cycle-life-before-capacity-degradation](https://github.com/rdbraatz/data-driven-prediction-of-battery-cycle-life-before-capacity-degradation) - Data driven prediciton of battery cycle life before capacity degradation
+- [BatterySense](https://github.com/rlogiacco/BatterySense) - This is a simple Arduino library to monitor battery consumption of your battery powered projects, being LiPo, LiIon, NiCd or any other battery type, single or multiple cells: if it can power your Arduino you can monitor it!
+[beep](https://github.com/TRI-AMDD/beep) - is a set of tools designed to support Battery Evaluation and Early Prediction of cycle life corresponding to the research of the d3batt program and the Toyota Research Institute.
+[snl-quest](https://github.com/snl-quest/snl-quest) - An open source, Python-based software application suite for energy storage simulation and analysis developed by Sandia National Laboratories.
+[simses](https://gitlab.lrz.de/open-ees-ses/simses) - Software for techno-economic Simulation of Stationary Energy Storage Systems
+[CAEBAT OAS/VIBE](https://vibe.ornl.gov/#introduction) - a flexible, robust, and computationally scalable open-architecture framework that integrates multi-physics and multi- scale battery models
+[Open source Li-ion data management and modelling software](https://github.com/Samuel-Buteau/universal-battery-database) - The Universal Battery Database is an open source software for managing Lithium-ion cell data.
+[open_BEA](https://gitlab.lrz.de/open-ees-ses/openbea) - open_BEA: Open Battery Models for Electrical Grid Applications
+[lp_opt](https://gitlab.lrz.de/open-ees-ses/lp_opt) - Linear Programming Optimization Tool for Battery Energy Storage Systems
+[SLIDE](https://github.com/davidhowey/SLIDE) - SLIDE is a C++ code that simulates degradation of lithium ion cell
+[equiv-circ-model](https://github.com/batterysim/equiv-circ-model) - An equivalent circuit model (ECM) for a battery cell, module, and pack
+
+
 
 ### Hydrogen
-- [ECSIM/opem: OPEM (Open Source PEM Fuel Cell Simulation Tool)](https://github.com/ECSIM/opem) 
-- [CalebBell/thermo: Thermodynamics, phase equilibria, transport properties and chemical database component of Chemical Engineering Design Library (ChEDL)](https://github.com/CalebBell/thermo) 
-- [ECSIM/gopem: GUI for OPEM library](https://github.com/ECSIM/gopem) 
-- [ECSIM/pem-dataset1: Proton Exchange Membrane (PEM) Fuel Cell Dataset](https://github.com/ECSIM/pem-dataset1) 
-- [FZJ-IEK3-VSA/HIM: Hydrogen Infrastructure Model for the analysis of spatially resolved hydrogen infrastructure pathways](https://github.com/FZJ-IEK3-VSA/HIM) 
-https://github.com/e2nIEE/pandapipes
-https://github.com/sandialabs/hyram
+- [OPEM](https://github.com/ECSIM/opem) - is a modeling tool for evaluating the performance of proton exchange membrane fuel cells 
+- [gopem: GUI for OPEM library](https://github.com/ECSIM/gopem) - GOPEM is a graphical user interface of OPEM
+- [pem-dataset1](https://github.com/ECSIM/pem-dataset1) - Proton Exchange Membrane (PEM) Fuel Cell Dataset 
+- [FZJ-IEK3-VSA/HIM](https://github.com/FZJ-IEK3-VSA/HIM) - Hydrogen Infrastructure model for the analysis of spatially resolved hydrogen infrastructure pathways 
+- [pandapipes](https://github.com/e2nIEE/pandapipes) - A pipeflow calculation tool that complements pandapower in the simulation of multi energy grids, in particular heat and gas networks.
+- [hyram](https://github.com/sandialabs/hyram) - is the first-ever software toolkit that integrates deterministic and probabilistic models for quantifying accident scenarios, predicting physical effects, and characterizing hydrogen hazards’ impact on people and structures
 
-## Energy Supply Observation and Data
-- [catalyst-cooperative/pudl: The Public Utility Data Liberation Project](https://github.com/catalyst-cooperative/pudl) 
-- [wri/global-power-plant-database: A comprehensive, global, open source database of power plants](https://github.com/wri/global-power-plant-database) 
-- [tmrowco/electricitymap-contrib: A real-time visualisation of the CO2 emissions of electricity consumption](https://github.com/tmrowco/electricitymap-contrib) 
-- [EnergieID/entsoe-py: Python client for the ENTSO-E API (european network of transmission system operators for electricity)](https://github.com/EnergieID/entsoe-py) 
-https://github.com/Open-Power-System-Data/time_series
-https://github.com/Open-Power-System-Data/renewable_power_plants
-https://github.com/OpenEnergyPlatform/open-MaStR
+
+## Electricity Consumtion and Generation Data 
+- [pudl](https://github.com/catalyst-cooperative/pudl) - makes US energy data easier to access and use 
+- [global-power-plant-database](https://github.com/wri/global-power-plant-database) - A comprehensive, global, open source database of power plants 
+- [electricitymap-contrib](https://github.com/tmrowco/electricitymap-contrib) - A real-time visualisation of the CO2 emissions of electricity consumption 
+- [entsoe-py](https://github.com/EnergieID/entsoe-py) - : Python client for the ENTSO-E API (european network of transmission system operators for electricity)
+- [time_series](https://github.com/Open-Power-System-Data/time_series) - contains scripts that compile time series data of the European power system.
+- [renewable_power_plant](https://github.com/Open-Power-System-Data/renewable_power_plants) - contains scripts to create lists of renewable power plants in Germany, Denmark, France and Poland, and daily time series of cumulated installed capacity per energy source type for Germany.
+- [open-MaStR](https://github.com/OpenEnergyPlatform/open-MaStR) - download and process German energy data from BNetzA database Marktstammdatenregister
+
 
 ## Power System Modeling Optimisation and Analysis
 https://github.com/JGCRI/gcam-core
@@ -346,8 +348,8 @@ https://github.com/ExeClim/Isca
 https://github.com/NOAA-GFDL/MOM6
 https://github.com/MPAS-Dev/MPAS-Model
 https://github.com/OMS-NetZero/FAIR
- 
- 
+
+
 ## Quality and Access of Resources
 
 ### Air
@@ -372,6 +374,8 @@ https://github.com/mroberge/hydrofunctions
 https://github.com/CWatM/CWatM
 https://github.com/AquaticEcoDynamics/GLM
 https://github.com/jsta/nhdR
+[MODFLOW-USGS/modflow6](https://github.com/MODFLOW-USGS/modflow6) - MODFLOW program has been widely used by academics, private consultants, and government scientists to accurately, reliably, and efficiently simulate groundwater flow
+
 
 ### Noise
 - [Ifsttar/NoiseModelling: A free and open-source model to compute noise maps.](https://github.com/Ifsttar/NoiseModelling) 
@@ -407,7 +411,7 @@ https://github.com/ncss-tech/soilDB
 - [climate-strike/license: Prevent oil and gas companies from co-opting your work and extracting more fossil fuels with this software license.](https://github.com/climate-strike/license)
 
 
- 
+
 
 https://github.com/NOAA-EMC/WW3
 https://github.com/pangeo-data/awesome-open-climate-science
