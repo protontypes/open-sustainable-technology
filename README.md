@@ -10,8 +10,8 @@ Gathering of state-of-the-art open source projects for the preservation of globa
 - [rdtools](https://github.com/NREL/rdtools) - is an open-source library to support reproducible technical analysis of time series data from photovoltaic energy systems
 - [Machine-Learning-for-Solar-Energy-Prediction](https://github.com/ColasGael/Machine-Learning-for-Solar-Energy-Prediction) - Predict the power production of a solar panel farm from weather measurements using machine learning
 - [elpv-dataset](https://github.com/zae-bayern/elpv-dataset) - A dataset of functional and defective solar cells extracted from EL images of solar modules 
-- [feedinlib repository](https://github.com/oemof/feedinlib) - contains implementations of photovoltaic models to calculate electricity generation from a pv installation based on given solar radiation. Furthermore it contains all necessary pre-calculations.
-- [pphotovoltaic](https://github.com/pvedu/photovoltaic) - is a library of python functions used in photovoltaics 
+- [feedinlib](https://github.com/oemof/feedinlib) - contains implementations of photovoltaic models to calculate electricity generation from a pv installation based on given solar radiation. Furthermore it contains all necessary pre-calculations.
+- [photovoltaic](https://github.com/pvedu/photovoltaic) - is a library of python functions used in photovoltaics 
 - [pvcaptest](https://github.com/pvcaptest/pvcaptest) - Collection of functions and jupyter notebooks to partially automate running a capacity test following ASTM E2848
 - [pvtrace](https://github.com/danieljfarrell/pvtrace) - Optical ray tracing for luminescent materials and spectral converter photovoltaic devices
 - [SolarPILOT](https://github.com/NREL/SolarPILOT) - Solar power tower layout and optimization tool
@@ -66,9 +66,7 @@ Gathering of state-of-the-art open source projects for the preservation of globa
 - [pygfunction](https://github.com/MassimoCimmino/pygfunction) - An open-source toolbox for the evaluation of thermal response factors (g-functions) of geothermal borehole fields. 
 - [geothermics](https://github.com/Japhiolite/geothermics) - Educational repository with Jupyter Notebooks all around the topic of geothermal energy 
 - [energy2d](https://github.com/charxie/energy2d) - Interactive Heat Transfer Simulations for Everyone
-- [OpenGeoSys 6](https://gitlab.opengeosys.org/ogs/ogs) - is a scientific open source project for the development of
-numerical methods for the simulation of thermo-hydro-mechanical-chemical
-(THMC) processes in porous and fractured media
+- [OpenGeoSys 6](https://gitlab.opengeosys.org/ogs/ogs) - is a scientific open source project for the development of numerical methods for the simulation of thermo hydro-mechanical-chemical (THMC) processes in porous and fractured media
 - [FEHM](https://github.com/lanl/FEHM) - has proved to be a valuable asset on a variety of projects of national interest including Environmental Remediation of the Nevada Test Site, the LANL Groundwater Protection Program, geologic CO2 sequestration, Enhanced Geothermal Energy (EGS) programs, Oil and Gas production, Nuclear Waste Isolation, and Arctic Permafrost
 - [thermo](https://github.com/CalebBell/thermo) - Thermodynamics, phase equilibria, transport properties and chemical database component of Chemical Engineering Design Library 
 
@@ -98,8 +96,6 @@ numerical methods for the simulation of thermo-hydro-mechanical-chemical
 [SLIDE](https://github.com/davidhowey/SLIDE) - SLIDE is a C++ code that simulates degradation of lithium ion cell
 [equiv-circ-model](https://github.com/batterysim/equiv-circ-model) - An equivalent circuit model (ECM) for a battery cell, module, and pack
 
-
-
 ### Hydrogen
 - [OPEM](https://github.com/ECSIM/opem) - is a modeling tool for evaluating the performance of proton exchange membrane fuel cells 
 - [gopem: GUI for OPEM library](https://github.com/ECSIM/gopem) - GOPEM is a graphical user interface of OPEM
@@ -107,6 +103,7 @@ numerical methods for the simulation of thermo-hydro-mechanical-chemical
 - [FZJ-IEK3-VSA/HIM](https://github.com/FZJ-IEK3-VSA/HIM) - Hydrogen Infrastructure model for the analysis of spatially resolved hydrogen infrastructure pathways 
 - [pandapipes](https://github.com/e2nIEE/pandapipes) - A pipeflow calculation tool that complements pandapower in the simulation of multi energy grids, in particular heat and gas networks.
 - [hyram](https://github.com/sandialabs/hyram) - is the first-ever software toolkit that integrates deterministic and probabilistic models for quantifying accident scenarios, predicting physical effects, and characterizing hydrogen hazards’ impact on people and structures
+- [OpenHPL](https://github.com/simulatino/OpenHPL) - is an open-source hydropower library that consists of hydropower unit models and is modelled using Modelica.
 
 
 ## Datasets on Electricity Consumtion and Generation 
@@ -126,10 +123,10 @@ numerical methods for the simulation of thermo-hydro-mechanical-chemical
 
 
 ## System Modeling, Optimisation and Analysis
-- [PyPSA](https://github.com/PyPSA/PyPSA) - PyPSA is a free software toolbox for simulating and optimising modern power systems that include features such as conventional generators with unit commitment, variable wind and solar generation, storage units, coupling to other energy sectors, and mixed alternating and direct current networks 
+- [PyPSA](https://github.com/PyPSA/PyPSA) - is a free software toolbox for simulating and optimising modern power systems that include features such as conventional generators with unit commitment, variable wind and solar generation, storage units, coupling to other energy sectors, and mixed alternating and direct current networks 
 - [GCAM](https://github.com/JGCRI/gcam-core) - is a dynamic-recursive model with technology-rich representations of the economy, energy sector, land use and water linked to a climate model that can be used to explore climate change mitigation policies including carbon taxes, carbon trading, regulations and accelerated deployment of energy technology.
 - [pyGRETA](https://github.com/tum-ens/pyGRETA) - python *G*enerator of *RE*newable *T*ime series and m*A*ps: a tool that generates high-resolution potential maps and time series for user-defined regions within the globe.
-- [reV](https://github.com/NREL/reV) - reV enables the efficient and scalable computation of renewable energy generation, levelized cost of energy (LCOE), application of geospatial exclusion layers, and generation of renewable energy supply curves
+- [reV](https://github.com/NREL/reV) - enables the efficient and scalable computation of renewable energy generation, levelized cost of energy (LCOE), application of geospatial exclusion layers, and generation of renewable energy supply curves
 - [SAM: System Advisor Model (SAM)](https://github.com/NREL/SAM) - is a simulation program for electricity generation projects. It has models for different kinds of renewable energy systems and financial models for residential, commercial, and utility-scale projects  
 - [pandapower](http://www.pandapower.org/) - An easy to use open source tool for power system modeling, analysis and optimization with a high degree of automation.
 - [PowerGenome](https://github.com/gschivley/PowerGenome) - A tool to quickly and easily create inputs for power systems models
@@ -141,6 +138,7 @@ numerical methods for the simulation of thermo-hydro-mechanical-chemical
 - [Dispa-SET](https://github.com/energy-modelling-toolkit/Dispa-SET) - allows to model a power system at any level of detail e.g. micro-grid, region, country, continent 
 - [calliope](https://github.com/calliope-project/calliope) - Calliope is a framework to develop energy system models, with a focus on flexibility, high spatial and temporal resolution, the ability to execute many runs based on the same base model, and a clear separation of framework (code) and model (data)
 - [OSeMOSYS](https://github.com/OSeMOSYS/OSeMOSYS) - is an open source modelling system for long-run integrated assessment and energy planning. It has been employed to develop energy systems models from the scale of continents (African Power Pools, South America, EU28+2) down to the scale of countries, regions and village 
+- [REVUB](https://github.com/VUB-HYDR/REVUB) - The main objective of REVUB is to model how flexible operation of hydropower plants can help renewable electricity mixes with variable solar and wind power to provide reliable electricity supply and load-following services
 - [FZJ-IEK3-VSA/glaes: Geospatial Land Availability for Energy Systems](https://github.com/FZJ-IEK3-VSA/glaes) 
 - [FZJ-IEK3-VSA/RESKit: A toolkit to help generate renewable energy generation time-series for energy systems analysis](https://github.com/FZJ-IEK3-VSA/RESKit) 
 - [FZJ-IEK3-VSA/FINE: The FINE python package provides a framework for modeling, optimizing and assessing energy systems](https://github.com/FZJ-IEK3-VSA/FINE) 
@@ -179,6 +177,7 @@ https://github.com/energyPATHWAYS/EnergyPATHWAYS
 https://github.com/Energy-Sparks/energy-sparks
 https://github.com/open-ideas/IDEAS
 https://github.com/PyPSA/atlite
+- https://github.com/m4rz910/NYISOToolkit
 
 ## Energy System Monitoring and Control
 
@@ -257,15 +256,16 @@ https://github.com/NREL/Industry-energy-data-book
 
 ## Emissions and Greenhouse Gases
 ### Observation
-- [Bloom](https://github.com/tmrowco/northapp-contrib/) - Bloom is a SaaS that allow companies to become climate leaders, from calculating their climate impact to communicating about their climate efforts. It connects to as many data sources as possible to assess your carbon footprint and find mitigation opportunities.
-https://github.com/NMF-earth/carbon-footprint
-https://github.com/protea-earth/carbon_footprint
-https://github.com/milankl/CarbonFootprintEGU
-https://github.com/mlco2/impact/
-https://github.com/bcgov/ghg-emissions-indicator
-https://git.iws.uni-stuttgart.de/dumux-repositories/dumux
-https://github.com/dataforgoodfr/batch7_satellite_ges/tree/master/
-https://github.com/gschivley/ghgforcing
+-  - Bloom is a SaaS that allow companies to become climate leaders, from calculating their climate impact to communicating about their climate efforts. It connects to as many data sources as possible to assess your carbon footprint and find mitigation opportunities.
+  https://github.com/NMF-earth/carbon-footprint
+   - https://github.com/NMF-earth/nmf-app
+   - https://github.com/protea-earth/carbon_footprint
+      https://github.com/milankl/CarbonFootprintEGU
+      https://github.com/mlco2/impact/
+      https://github.com/bcgov/ghg-emissions-indicator
+      https://git.iws.uni-stuttgart.de/dumux-repositories/dumux
+      https://github.com/dataforgoodfr/batch7_satellite_ges/tree/master/
+      https://github.com/gschivley/ghgforcing
 
 ### Carbon Capture
 https://github.com/simccs/SimCCS
@@ -384,6 +384,7 @@ HydroShare is a website and hydrologic information system for sharing hydrologic
 https://github.com/ropensci/Hydrology
 https://github.com/mdbartos/pysheds
 https://github.com/jblindsay/whitebox-tools
+- https://github.com/ARPA-SIMC/CRITERIA3D
 
 
 ### Noise
@@ -418,7 +419,7 @@ https://github.com/ncss-tech/soilDB
 
 ## Recycling
 
-
+https://github.com/circularfashion/cf-circularity-id-standard
 
 
 https://github.com/NOAA-EMC/WW3
