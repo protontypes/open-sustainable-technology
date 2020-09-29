@@ -1,13 +1,15 @@
-# Awesome Sustainable Technology
-Gathering of state-of-the-art open source projects for the preservation of global living resources and energy supply.
-
+<h1 align="center">Awesome Sustainable Technology </h1>
 
 <p align="center">
-  <img src="./img/earth.gif" alt="animated" with="350" height="350" />
+  <img src="./img/earth.gif" alt="animated" with="300" height="300" />
 </p>
 
 
 
+
+
+
+> Gathering of state-of-the-art open source projects for the preservation of global living resources and energy supply.
 
 ## Electricity Generation
 ### Solar Energy
