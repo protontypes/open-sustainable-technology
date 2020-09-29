@@ -1,11 +1,13 @@
 <h1 align="center">Awesome Sustainable Technology </h1>
 
+<h4 align="center"> Gathering of state-of-the-art open source technology preserving global energy supply and life resources</h4>
+<br></br>
+
 <p align="center">
   <img src="./img/earth.gif" alt="animated" with="300" height="300" />
 </p>
 
-<h4 align="center"> Gathering of state-of-the-art open source technology preserving global energy supply and life resources</h4>
-<br></br>
+
 
 ## Electricity Generation
 ### Solar Energy
@@ -32,7 +34,6 @@
 - [bifacialvf](https://github.com/NREL/bifacialvf) - Bifacial PV View Factor model for system performance calculation
 - [solar](https://github.com/oscarperpinan/solar) - allows for reproducible research both for photovoltaics (PV) systems performance and solar radiation.
 - [SolarTherm](https://github.com/SolarTherm/SolarTherm) - Solar thermal power/fuel station performance simulation and optimisation using Modelica
-- [tespy](https://github.com/oemof/tespy) - provides a powerful simulation toolkit for thermal engineering plants such as power plants, district heating systems or heat pumps
 - [LibreSolar charge-controller-firmware](https://github.com/LibreSolar/charge-controller-firmware) - Firmware for Libre Solar MPPT/PWM charge controllers
 - [Photovoltaic time series for European countries and different system configurations](https://zenodo.org/record/2613651#.XRtJRP7Rapo)
 
@@ -172,7 +173,6 @@ An agent-based modeling and simulation approach is applied to model the behavior
  - [nempy](https://github.com/UNSW-CEEM/nempy) - This project aims to enhance the Australia electricity industries modelling and analytical capabilities
 - [NEMO](https://github.com/bje-/NEMO) - The National Electricity Market Optimiser (NEMO) is a chronological dispatch model for testing and optimising different portfolios of conventional and renewable electricity generation technologies
 - [WHAT-IF](https://github.com/RaphaelPB/WHAT-IF) - Water, Hydropower, Agriculture Tool for Investment and Financing decision support tool
-- [EnergyPATHWAYS](https://github.com/energyPATHWAYS/EnergyPATHWAYS) - model is a professional, open-source energy and carbon planning tool for use in evaluating long-term, economy-wide greenhouse gas mitigation scenarios
 - [IDEAS](https://github.com/open-ideas/IDEAS) - Modelica library allowing simultaneous transient simulation of thermal and electrical systems at both building and feeder level.
 
 
@@ -190,82 +190,80 @@ An agent-based modeling and simulation approach is applied to model the behavior
 - [pypsa-eur](https://github.com/PyPSA/pypsa-eur) - PyPSA-Eur: An Open Optimisation Model of the European Transmission System
 - [etengine](https://github.com/quintel/etengine) - Calculation engine for the Energy Transition Model
 - [Open Smart Grid Platform](https://github.com/OSGP/open-smart-grid-platform) - is an open, generic, scalable and independent 'Internet of Things' platform, which enables various connected smart objects in the public space to be easily controlled and monitored 
-
-https://github.com/RIAPS/riaps-core
-https://github.com/lanl-ansi/PowerModels.jl
-https://github.com/power-grid-lib/pglib-opf
-https://github.com/MarvinLer/pypownet
-https://github.com/rte-france/Grid2Op
-https://github.com/lanl-ansi/PowerModels.jl
-https://github.com/lanl-ansi/PowerModelsAnnex.jl
-https://github.com/openego/eDisGo/
-https://github.com/rl-institut/offgridders
-
+- [PowerModels.jl](https://github.com/lanl-ansi/PowerModels.jl) - is designed to enable computational evaluation of emerging power network formulations and algorithms in a common platform
+- [PowerModelsAnnex.jl](https://github.com/lanl-ansi/PowerModelsAnnex.jl) - an extension of PowerModels.jl that provides a home for open-source sharing of preliminary and/or exploratory methods in power system optimization.
+- [Power Grid Lib](https://github.com/power-grid-lib/pglib-opf) - This benchmark library is curated and maintained by the IEEE PES Task Force on Benchmarks for Validation of Emerging Power System Algorithms and is designed to evaluate a well established version of the the AC Optimal Power Flow problem
+- [pypownet](https://github.com/MarvinLer/pypownet) - A power network simulator with a Reinforcement Learning-focused usage.
+- [Grid2Op](https://github.com/rte-france/Grid2Op) - Grid2Op a testbed platform to model sequential decision making in power systems.
+- [eDisGo](https://github.com/openego/eDisGo/) - Optimization of flexibility options and grid expansion for distribution grids based on PyPSA
+- [offgridders](https://github.com/rl-institut/offgridders) - Models and optimizes capacity & dispatch of electricity supply systems, off-grid or connected to a (weak) central grid
 
 
 ## Energy Consumption
 
-### Energy Performance of Buildings and Cities
-- [buds-lab/the-building-data-genome-project: A collection of non-residential buildings for performance analysis and algorithm benchmarking](https://github.com/buds-lab/the-building-data-genome-project) 
-- [VOLTTRON/volttron: VOLTTRON Distributed Control System Platform](https://github.com/VOLTTRON/volttron) 
-- [OpenEnergyMonitor](https://github.com/openenergymonitor) 
-- [NREL/EnergyPlus: EnergyPlus™ is a whole building energy simulation program that engineers, architects, and researchers use to model both energy consumption and water use in buildings.](https://github.com/NREL/EnergyPlus) 
-- [NREL/OpenStudio: OpenStudio is a cross-platform collection of software tools to support whole building energy modeling using EnergyPlus and advanced daylight analysis using Radiance.](https://github.com/NREL/OpenStudio) 
-https://github.com/HIT2GAP-EU-PROJECT/bemserver
-https://github.com/SEED-platform/seed
-https://github.com/EcotopeResearch/HPWHsim
-https://github.com/NREL/OpenStudio-ERI
-https://github.com/RWTH-EBC/AixLib
-https://github.com/RWTH-EBC/TEASER
-https://github.com/oemof/tespy
-https://github.com/architecture-building-systems/CityEnergyAnalyst
-https://github.com/lbl-srg/modelica-buildings
-https://github.com/buds-lab/building-data-genome-project-2
+### Energy Management and Optimization of Buildings and Cities
+- [The-building-data-genome-project](https://github.com/buds-lab/the-building-data-genome-project) - A collection of non-residential buildings for performance analysis and algorithm benchmarking
+- [VOLTTRON](https://github.com/VOLTTRON/volttron) - The platform provides services for collecting and storing data from buildings and devices and provides an environment for developing applications which interact with that data. 
+- [OpenEnergyMonitor](https://github.com/openenergymonitor) - Open-source energy monitoring tools to help us relate to our use of energy, our energy systems and the challenge of sustainable energy.
+- [NREL/EnergyPlus](https://github.com/NREL/EnergyPlus) - EnergyPlus is a whole building energy simulation program that engineers, architects, and researchers use to model both energy consumption and water use in buildings
+- [NREL/OpenStudio](https://github.com/NREL/OpenStudio) - OpenStudio is a cross-platform collection of software tools to support whole building energy modeling using EnergyPlus and advanced daylight analysis using Radiance 
+- An open source Python server to deploy energy management solutions for buildings
+- [SEED](https://github.com/SEED-platform/seed) - Standard Energy Efficiency Data (SEED) Platform™ is a web-based application that helps organizations easily manage data on the energy performance of large groups of buildings.
+- [HPWHsim](https://github.com/EcotopeResearch/HPWHsim) - An open source simulation model for Heat Pump Water Heaters (HPWH).
+- [OpenStudio-ERI](https://github.com/NREL/OpenStudio-ERI) - Calculates an Energy Rating Index (ERI) via an OpenStudio/EnergyPlus-based workflow. Building information is provided through an HPXML file.
+- [OpenStudio-HPXML](https://github.com/NREL/OpenStudio-HPXML) - Modeling of residential buildings in EnergyPlus using OpenStudio/HPXML.
+- [AixLib](https://github.com/RWTH-EBC/AixLib) - A Modelica model library for building performance simulations
+- [TEASER](https://github.com/RWTH-EBC/TEASER) - Tool for Energy Analysis and Simulation for Efficient Retrofit
+- [tespy](https://github.com/oemof/tespy) - provides a powerful simulation toolkit for thermal engineering plants such as power plants, district heating systems or heat pumps
+- [RC_BuildingSimulator](https://github.com/architecture-building-systems/RC_BuildingSimulator) - A Resistance Capacitance Model for an Energetic Simulation of a Building
+- [CEA](https://github.com/architecture-building-systems/CityEnergyAnalyst) - helps you to analyse the effects of building retrofits, land-use planning, district heating and cooling and renewable energy on the future costs, emissions and energy consumption of neighbourhoods and districts
+- [The Modelica Buildings](https://github.com/lbl-srg/modelica-buildings) - library is a free open-source library with dynamic simulation models for building energy and control systems.
+
 
 ### Mobility and Transportation
-- [NewMotion/ocpp: Open Charge Point Protocol](https://github.com/NewMotion/ocpp) 
-- [coopcycle/coopcycle-web: Open source logistics platform. Only for worker-owned business.](https://github.com/coopcycle/coopcycle-web)
-- [EVNotify/EVNotify: EVNotify allows you to monitor your electric vehicle and let you notify when the specified preset state of charge has been achieved.](https://github.com/EVNotify/EVNotify)
-- [diowa/icare: Open Source Carpooling Platform](https://github.com/diowa/icare) 
-- [STS-Rosario/carpoolear: The open source Vue.js frontend (mobile and cordova app) for the argentinian carpooling application: Carpoolear](https://github.com/STS-Rosario/carpoolear) 
-- [UTD19 - Largest multi-city traffic dataset publically available](https://utd19.ethz.ch/) 
-- [OpenEVSE/ESP8266_WiFi_v2.x: ESP8266 WiFi for OpenEVSE Version 2.x](https://github.com/OpenEVSE/ESP8266_WiFi_v2.x) - Open Source Electric Vehicle Charging Station (EVSE)
-- [CanalTP/navitia: The open source software to build cool stuff with locomotion](https://github.com/CanalTP/navitia) 
-- [vonfeng/DeepMove: Codes for WWW'18 Paper-DeepMove: Predicting Human Mobility with Attentional Recurrent Network](https://github.com/vonfeng/DeepMove) 
-- [openmobilityfoundation/mobility-data-specification: A data standard to enable communication between mobility companies and local governments.](https://github.com/openmobilityfoundation/mobility-data-specification) 
-https://github.com/openmobilityfoundation/mds-core
-- [eclipse/sumo: Eclipse SUMO is an open source, highly portable, microscopic and continuous traffic simulation package designed to handle large networks. It allows for intermodal simulation including pedestrians and comes with a large set of tools for scenario creation.](https://github.com/eclipse/sumo) 
-- [mdolab/openconcept: OpenConcept: A toolkit for conceptual MDAO of aircraft with unconventional propulsion architectures](https://github.com/mdolab/openconcept) 
-https://github.com/mobilityhouse/ocpp
-https://github.com/openchargemap/ocm-system
-https://github.com/andig/evcc
-https://github.com/RWTH-i5-IDSG/steve
-https://github.com/V2GClarity/RISE-V2G
-https://github.com/sash-ko/simobility
-https://github.com/vocol/mobivoc
-https://github.com/grote/Transportr
-https://github.com/OneBusAway/onebusaway-android
-https://github.com/google/transitfeed
-https://github.com/BlinkTagInc/node-gtfs
-https://github.com/andredarcie/awesome-gtfs
-https://github.com/schildbach/public-transport-enabler
-https://github.com/grote/osm2gtfs
-https://github.com/systragroup/quetzal
-https://github.com/marlinarnz/quetzal_germany
-https://github.com/matsim-org/matsim-libs
-- https://openmobility.eclipse.org/
+- [The Open Charge Point Protocol](https://github.com/NewMotion/ocpp) - (OCPP) is a network protocol for communication between electric vehicle chargers and a central backoffice system
+- [ocpp](https://github.com/mobilityhouse/ocpp) - Python implementation of the Open Charge Point Protocol 
+- [coopcycle](https://github.com/coopcycle/coopcycle-web) - CoopCycle is a self-hosted platform to order meals in your neighborhood and get them delivered by bike couriers
+- [EVNotify](https://github.com/EVNotify/EVNotify) - EVNotify allows you to monitor your electric vehicle and let you notify when the specified preset state of charge has been achieved.
+- [diowa/icare: Open Source Carpooling Platform](https://github.com/diowa/icare) - icare is an open source carpooling platform used as a basis for our commercial product Company Carpool 
+- [carpoolear](https://github.com/STS-Rosario/carpoolear) - Carpoolear is the first Argentine Facebook app that allow the users of this social network share car trips with other users. 
+- [UTD19](https://utd19.ethz.ch/) - Largest multi-city traffic dataset publically available
+- [OpenEVSE](https://github.com/OpenEVSE/ESP8266_WiFi_v2.x) - Open Source Electric Vehicle Charging Station
+- [navitia](https://github.com/CanalTP/navitia) - Navitia is an open-source web API, initially built to provide traveler information on urban transportation networks.
+- [DeepMove](https://github.com/vonfeng/DeepMove) - Predicting Human Mobility with Attentional Recurrent Networks
+- [mobility-data-specification](https://github.com/openmobilityfoundation/mobility-data-specification) - A data standard to enable communication between mobility companies and local governments.
+- [sumo](https://github.com/eclipse/sumo) - SUMO is an open source, highly portable, microscopic and continuous traffic simulation package designed to handle large networks. It allows for intermodal simulation including pedestrians and comes with a large set of tools for scenario creation.
+- [openconcept](https://github.com/mdolab/openconcept) - A toolkit for conceptual MDAO of aircraft with unconventional propulsion architectures
+- [ocm-system](https://github.com/openchargemap/ocm-system) - Open Charge Map is the global public registry of electric vehicle charging locations
+- [EVCC](https://github.com/andig/evcc) - EVCC is an extensible EV Charge Controller with PV integration implemented in Go.
+- [SteVe](https://github.com/RWTH-i5-IDSG/steve) - SteVe provides basic functions for the administration of charge points, user data, and RFID cards for user authentication and was tested successfully in operation
+- [RISE-V2G](https://github.com/V2GClarity/RISE-V2G) - The only fully-featured reference implementation of the Vehicle-2-Grid communication interface ISO 15118
+- [simobility](https://github.com/sash-ko/simobility) - is a human-friendly Python framework that helps scientists and engineers to prototype and compare fleet optimization algorithms (autonomous and human-driven vehicles)
+- [MobiVoc](https://github.com/vocol/mobivoc) - is an open vocabulary for future-oriented mobility solutions.
+- [Transportr](https://github.com/grote/Transportr) - The public transport companion that respects your privacy and your freedom
+- [OneBusAway](https://github.com/OneBusAway/onebusaway-android) - The Open Source platform for Real Time Transit Info
+- [transitfeed](https://github.com/google/transitfeed) - A Python library for reading, validating, and writing transit schedule information in the GTFS format.
+- [node-gtfs](https://github.com/BlinkTagInc/node-gtfs) - Import GTFS transit data into SQLite and query routes, stops, times, fares and more.
+- [Public Transport Enabler](https://github.com/schildbach/public-transport-enabler) - Unleash public transport data in your Java project.
+- [osm2gtfs](https://github.com/grote/osm2gtfs) - Turn OpenStreetMap data and schedule information into GTFS
+- [Quetzal](https://github.com/systragroup/quetzal) - Quetzal is a modeling library designed for transport planning and traffic forecasts
+- [quetzal_germany](https://github.com/marlinarnz/quetzal_germany) - A four step transport model for Germany using the quetzal transport modelling suite
+- [MATSim](https://github.com/matsim-org/matsim-libs) - MATSim provides a toolbox to run and implement large-scale agent-based transport simulations
+- [OpenMobility](https://openmobility.eclipse.org/) - Driving the Evolution and Broad Adoption of Open Source Mobility Modelling and Simulation Technologies.
 
 ### Industries and Companies
-https://github.com/NREL/Industry-Energy-Tool
-https://github.com/NREL/Industry-energy-data-book
+- [Industry-Energy-Tool](https://github.com/NREL/Industry-Energy-Tool) - The Industry Energy Tool (IET) is a calculator developed by NREL for projecting energy efficiency and fuel switching scenarios for the U.S. industrial sector energy use and emissions at the Census Region and county-level
+- [Industry-energy-data-book](https://github.com/NREL/Industry-energy-data-book) - The 2018 Industry Energy Data Book summarizes the status of, and identifies the key trends in energy use and its underlying economic drivers across the four industrial subsectors: agriculture, construction, manufacturing, and mining
 - [CalTRACK](https://github.com/energy-market-methods/caltrack) - methods are developed in an open and transparent stakeholder process that uses empirical testing to define replicable methods for calculating normalized metered energy consumption using either monthly or interval data from an existing conditions baseline.
 
 
 ## Emissions and Greenhouse Gases
 ### Observation
--  - Bloom is a SaaS that allow companies to become climate leaders, from calculating their climate impact to communicating about their climate efforts. It connects to as many data sources as possible to assess your carbon footprint and find mitigation opportunities.
-  https://github.com/NMF-earth/carbon-footprint
+
+- [Bloom](https://github.com/tmrowco/northapp-contrib) - is a SaaS that allow companies to become climate leaders, from calculating their climate impact to communicating about their climate efforts. It connects to as many data sources as possible to assess your carbon footprint and find mitigation opportunities.
    - https://github.com/NMF-earth/nmf-app
+
+ - [EnergyPATHWAYS](https://github.com/energyPATHWAYS/EnergyPATHWAYS) - model is a professional, open-source energy and carbon planning tool for use in evaluating long-term, economy-wide greenhouse gas mitigation scenarios
    - https://github.com/protea-earth/carbon_footprint
       https://github.com/milankl/CarbonFootprintEGU
       https://github.com/mlco2/impact/
