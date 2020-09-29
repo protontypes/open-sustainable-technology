@@ -2,8 +2,10 @@
 Gathering of state-of-the-art open source projects for the preservation of global living resources and energy supply.
 
 
+<p align="center">
+  <img src="./img/earth.gif" alt="animated" with="350" height="350" />
+</p>
 
-<img align="center" src="./img/earth.gif" with="400" height="400">
 
 
 
