@@ -437,4 +437,4 @@ https://en.wikipedia.org/wiki/Open_energy_system_databases
 https://www.che-project.eu/data-portal
 https://wiki.openmod-initiative.org/wiki/Open_Models
 
-* Animation created with [An Animated Map of the Earth](https://github.com/eleanorlutz/earth_atlas_of_space) by [Eleanor Lutz](https://twitter.com/eleanor_lutz)*
+*Animation created with [An Animated Map of the Earth](https://github.com/eleanorlutz/earth_atlas_of_space) by [Eleanor Lutz](https://twitter.com/eleanor_lutz)*
