@@ -5,11 +5,7 @@
 </p>
 
 
-
-
-
-
-> Gathering of state-of-the-art open source projects for the preservation of global living resources and energy supply.
+<h4 align="center"> Gathering of state-of-the-art open source projects for the preservation of global living resources and energy supply.</h4>
 
 ## Electricity Generation
 ### Solar Energy
