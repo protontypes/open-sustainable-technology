@@ -4,8 +4,8 @@
   <img src="./img/earth.gif" alt="animated" with="300" height="300" />
 </p>
 
-<h5 align="center"> Gathering of state-of-the-art open source projects for the preservation of global energy supply and life resources</h4>
-
+<h4 align="center"> Gathering of state-of-the-art open source projects for the preservation of global energy supply and life resources</h4>
+<br></br>
 
 ## Electricity Generation
 ### Solar Energy
