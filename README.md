@@ -129,8 +129,9 @@
 - [Photovoltaic time series for European countries](https://zenodo.org/record/2613651#.XRtJRP7Rapo) - Comprises 38 years-long hourly time series representing the photovoltaic capacity factors in every European country (EU-28 plus Serbia, Bosnia-Herzegovina, Norway, and Switzerland)
 - [SolarData](https://github.com/dazhiyang/SolarData) - Download and manipulate some publicly available solar datasets	
 
-
 ## System Modeling, Optimisation and Analysis
+
+* [Open Energy Platform](https://github.com/OpenEnergyPlatform/oeplatform) - The Open Energy Family aims to ensure quality, transparency and reproducibility in energy system research. It is a collection of various tools and information and that help working with energy related data
 - [PyPSA](https://github.com/PyPSA/PyPSA) - is a free software toolbox for simulating and optimising modern power systems that include features such as conventional generators with unit commitment, variable wind and solar generation, storage units, coupling to other energy sectors, and mixed alternating and direct current networks 
 - [GCAM](https://github.com/JGCRI/gcam-core) - is a dynamic-recursive model with technology-rich representations of the economy, energy sector, land use and water linked to a climate model that can be used to explore climate change mitigation policies including carbon taxes, carbon trading, regulations and accelerated deployment of energy technology.
 - [pyGRETA](https://github.com/tum-ens/pyGRETA) - python *G*enerator of *RE*newable *T*ime series and m*A*ps: a tool that generates high-resolution potential maps and time series for user-defined regions within the globe.
@@ -277,7 +278,7 @@ An agent-based modeling and simulation approach is applied to model the behavior
 - [Carbon Capture and Storage](https://github.com/yohanesnuwara/carbon-capture-and-storage) - This is a complete modelling workflow that integrates reservoir simulation data, rock physics, time-lapse seismic, and geomechanics of CO2 injection in carbonate rock
 
 ## Observation and Conservation of Ecosystems 
-### Forests and Vegetations
+### Forests and Biodiversity
 - [carbon-budget](https://github.com/wri/carbon-budget) - This model maps gross greenhouse gas emissions from forests between 2001 and 2015, gross carbon removals by forests between 2001, and the difference between them (net flux)
 - [treeseg](https://github.com/apburt/treeseg/) - treeseg has been developed to near-automatically extract tree-level point clouds from high-density larger-area lidar point clouds acquired in forests
 - [fgeo](https://github.com/forestgeo/fgeo) - Analyze forest diversity and dynamics
@@ -292,69 +293,63 @@ An agent-based modeling and simulation approach is applied to model the behavior
 - [wildfire-forecasting](https://github.com/esowc/wildfire-forecasting) - The project intends to reproduce the Fire Forecasting capabilities of GEFF using Deep Learning and develop further improvements in accuracy, geography and time scale through inclusion of additional variables or optimisation of model architecture & hyperparameters
 - [caliver](https://github.com/ecmwf/caliver) - CALIbration and VERification of gridded fire danger models
 - [Global Forest Watch](https://github.com/Vizzuality/gfw) - Global Forest Watch: An online, global, near-real time forest monitoring tool
+- [taxize](https://github.com/ropensci/taxize) - taxize allows users to search over many taxonomic data sources for species names (scientific and common) and download up and downstream taxonomic hierarchical information 
+- [rgbif](https://github.com/ropensci/rgbif) - Interface to the Global Biodiversity Information Facility API
+- [Global Biotic Interactions](https://github.com/globalbioticinteractions/globalbioticinteractions) - Global Biotic Interactions provides access to existing species interaction datasets 
+- [lidR](https://github.com/Jean-Romain/lidR)- R package for airborne LiDAR data manipulation and visualisation for forestry application
+- [Digital-Forestry-Toolbox](https://github.com/mparkan/Digital-Forestry-Toolbox) - A collection of digital forestry tools for Matlab/Octave 
+- [pyfor](https://github.com/brycefrank/pyfor) - Tools for analyzing aerial point clouds of forest data
+- [DeepForest](https://github.com/weecology/DeepForest) - Python Package for Tree Crown Detection in Airborne RGB imagery
+- [pyMETRIC](https://github.com/WSWUP/pymetric) - is a set of Python based tools developed for estimating and mapping evapotranspiration (ET) for large areas, utilizing the Landsat image archive
+- [vegMonitor](https://github.com/atreyasha/vegMonitor) - R-based Random Forest Algorithm to classify vegetation cover in Dharamshala Tehsil and conduct vegetation loss detection.
+- [NeonTreeEvaluation](https://github.com/weecology/NeonTreeEvaluation) - Benchmark dataset for tree detection for airborne RGB, Hyperspectral and LIDAR imagery
+- [PyCrown](https://github.com/manaakiwhenua/pycrown) - Fast raster-based individual tree segmentation for LiDAR data
+- [canopyLazR](https://github.com/akamoske/canopyLazR) - R package to estimate leaf area density (LAD) and leaf area index (LAI) from airborne LiDAR point clouds
+- [forestlas](https://github.com/philwilkes/forestlas) - Code for generating metrics of forest vertical structure from airborne LiDAR data
+- [OpenTreeMap](https://github.com/OpenTreeMap/otm-core) - is a collaborative platform for crowdsourced tree inventory, ecosystem services calculations, urban forestry analysis, and community engagement.
+- [WildfirePy](https://github.com/wildfirepy/wildfirepy) - a Python library for Wildfire GIS data analysis.
 
 ### Ice and Poles 
- 
-- [OpenEnergyPlatform/oeplatform: Repository for the code of the Open Energy Platform (OEP) website. The OEP provides an interface to the Open Energy Family](https://github.com/OpenEnergyPlatform/oeplatform) 
-- [ropensci/taxize: A taxonomic toolbelt for R](https://github.com/ropensci/taxize) 
-- [ropensci/rgbif: Interface to the Global Biodiversity Information Facility API](https://github.com/ropensci/rgbif) 
-- [globalbioticinteractions/globalbioticinteractions: Global Biotic Interactions provides access to existing species interaction datasets](https://github.com/globalbioticinteractions/globalbioticinteractions)
-- [Revolutionary-Games/Thrive: The main repository for the development of the evolution game Thrive.](https://github.com/Revolutionary-Games/Thrive) 
-- [Jean-Romain/lidR: R package for airborne LiDAR data manipulation and visualisation for forestry application](https://github.com/Jean-Romain/lidR) 
-- [mparkan/Digital-Forestry-Toolbox: A collection of digital forestry tools for Matlab/Octave](https://github.com/mparkan/Digital-Forestry-Toolbox) 
-- [brycefrank/pyfor: Tools for analyzing aerial point clouds of forest data.](https://github.com/brycefrank/pyfor) 
-- [tiagodc/TreeLS: R functions for processing individual tree TLS point clouds](https://github.com/tiagodc/TreeLS) 
-- [weecology/DeepForest: Python Package for Tree Crown Detection in Airborne RGB imagery](https://github.com/weecology/DeepForest) 
-- [WSWUP/pymetric: Python implementation of the METRIC model](https://github.com/WSWUP/pymetric) 
-- [scottprahl/miepython: Mie scattering of light off perfect spheres in python](https://github.com/scottprahl/miepython) 
-- [atreyasha/vegMonitor: R-based Random Forest Algorithm to classify vegetation cover in Dharamshala Tehsil and conduct vegetation loss detection.](https://github.com/atreyasha/vegMonitor) 
-- [weecology/NeonTreeEvaluation: Benchmark dataset for tree detection for airborne RGB, Hyperspectral and LIDAR imagery](https://github.com/weecology/NeonTreeEvaluation) 
-- [manaakiwhenua/pycrown: PyCrown - Fast raster-based individual tree segmentation for LiDAR data](https://github.com/manaakiwhenua/pycrown) 
-- [akamoske/canopyLazR: R package to estimate leaf area density (LAD) and leaf area index (LAI) from airborne LiDAR point clouds](https://github.com/akamoske/canopyLazR) 
-- [acannistra/planet-snowcover: Can we use Planet high-resolution imagery to assess snow cover?](https://github.com/acannistra/planet-snowcover) 
-- [ropensci/MODIStsp: An "R" package for automatic download and preprocessing of MODIS Land Products Time Series](https://github.com/ropensci/MODIStsp) 
-- [philwilkes/forestlas: code for generating metrics of forest vertical structure from airborne LiDAR data](https://github.com/philwilkes/forestlas) 
-- [nansencenter/sea_ice_drift: Sea ice drift from Sentinel-1 SAR imagery using open source feature tracking](https://github.com/nansencenter/sea_ice_drift) 
-- [OpenTreeMap/otm-core: OpenTreeMap is a collaborative platform for crowdsourced tree inventory, ecosystem services calculations, urban forestry analysis, and community engagement.](https://github.com/OpenTreeMap/otm-core) 
-- [smrt-model/smrt: Snow Microwave Radiative Transfert model to compute thermal emission and backscatter from snowpack](https://github.com/smrt-model/smrt) 
-https://github.com/cran/photosynthesis
-https://github.com/danforthcenter/plantcv
-https://github.com/OGGM/oggm
-https://github.com/CICE-Consortium/Icepack
-https://github.com/CICE-Consortium/CICE
-https://github.com/pism/pism
-https://github.com/icepack/icepack
-https://github.com/weiji14/deepbedmap
-https://github.com/wrightni/OSSP
-https://github.com/ClimateClara/arc3o
-https://github.com/sallamander/forest-fires
-https://github.com/wildfirepy/wildfirepy
+- [Planet Snowcover](https://github.com/acannistra/planet-snowcover) -  is a project that pairs airborne lidar and Planet Labs satellite imagery with cutting-edge computer vision techniques to identify snow-covered area at unprecedented spatial and temporal resolutions.
+- [MODIStsp](https://github.com/ropensci/MODIStsp) - An "R" package for automatic download and preprocessing of MODIS Land Products Time Series
+- [sea_ice_drift](https://github.com/nansencenter/sea_ice_drift) - Sea ice drift from Sentinel-1 SAR imagery using open source feature tracking 
+- [smrt](https://github.com/smrt-model/smrt) - Snow Microwave Radiative Transfert model to compute thermal emission and backscatter from snowpack
+[PlantCV](https://github.com/danforthcenter/plantcv) -  Plant phenotyping using computer vision
+[OGGM](https://github.com/OGGM/oggm) - is a modular open source model for glacier dynamics
+[CICE](https://github.com/CICE-Consortium/CICE) - is a computationally efficient model for simulating the growth, melting, and movement of polar sea ice
+[Icepack](https://github.com/CICE-Consortium/CICE-Icepack) - contains files for Icepack, the column physics of the sea ice model CICE.
+[PISM](https://github.com/pism/pism) - The Parallel Ice Sheet Model is an open source, parallel, high-resolution ice sheet model
+[icepack](https://github.com/icepack/icepack) - Finite element modeling of glaciers and ice sheets
+[DeepBedMap](https://github.com/weiji14/deepbedmap) - Using a deep neural network to better resolve the bed topography of Antarctica
+[OSSP](https://github.com/wrightni/OSSP) - Open Source Algorithm for Detecting Sea Ice Surface Features in High Resolution Optical Imagery
+
 
 ### Ocean and Climate
-https://github.com/mom-ocean/MOM5
-https://github.com/NOAA-GFDL/FMS
-https://github.com/NorESMhub/BLOM
-- [ropensci/clifro: Easily download and visualise climate data from CliFlo](https://github.com/ropensci/clifro) 
-- [JGCRI/hector: The Hector Simple Climate Model](https://github.com/JGCRI/hector) 
-- [apache/climate: Mirror of Apache Open Climate Workbench](https://github.com/apache/climate) 
-- [CliMT/climt: The official home of climt, a Python based climate modelling toolkit.](https://github.com/CliMT/climt) 
-- [brian-rose/climlab: Python package for process-oriented climate modeling](https://github.com/brian-rose/climlab) 
-- [brian-rose/ClimateModeling_courseware: A collection of interactive lecture notes and assignments in Jupyter notebook format.](https://github.com/brian-rose/ClimateModeling_courseware) 
-- [CliMA/Oceananigans.jl: 🌊 Fast and friendly fluid dynamics on CPUs and GPUs](https://github.com/CliMA/Oceananigans.jl) 
-- [CliMA/ClimateMachine.jl: Climate Machine: an Earth System Model that automatically learns from data](https://github.com/CliMA/ClimateMachine.jl) 
-- [ecmwf/atlas: A library for numerical weather prediction and climate modelling](https://github.com/ecmwf/atlas) 
-- [adventuroussrv/Climate-Change-Datasets: Here is a list of Climate Change Public Datasets 🌦🌪🌫🌀💧🌊](https://github.com/adventuroussrv/Climate-Change-Datasets) 
-- [openclimatedata/pyhector: Python interface for the simple global climate carbon-cycle model Hector](https://github.com/openclimatedata/pyhector) 
-https://github.com/ESMValGroup/ESMValTool
-https://www.nemo-ocean.eu/
-https://github.com/EarthSystemDiagnostics/sedproxy
-https://github.com/NCAR/icar
-https://github.com/CliMA/LESbrary.jl
-https://github.com/Unidata/MetPy
-https://github.com/ExeClim/Isca
-https://github.com/NOAA-GFDL/MOM6
-https://github.com/MPAS-Dev/MPAS-Model
-https://github.com/OMS-NetZero/FAIR
+- [MOM6](https://github.com/NOAA-GFDL/MOM6) - Modular Ocean Model is a numerical representation of the ocean fluid with applications from the process scale to the planetary circulation scale
+- [MOM5](https://github.com/mom-ocean/MOM5) - MOM is a numerical ocean model based on the hydrostatic primitive equations. Development of the model is managed through this Github site.
+- [The Flexible Modeling System](https://github.com/NOAA-GFDL/FMS) - is a software framework for supporting the efficient development, construction, execution, and scientific interpretation of atmospheric, oceanic, and climate system models.
+- [Bergen Layered Ocean Model](https://github.com/NorESMhub/BLOM) - employs an isopycnic vertical coordinate, with near-isopycnic interior layers and variable density layers in the surface mixed boundary layer
+- [CliFlo](https://github.com/ropensci/clifro) - Easily download and visualise climate data from New Zealand's National Climate Database.
+- [hector](https://github.com/JGCRI/hector) - an open source, object-oriented, simple global climate carbon-cycle model
+- [pyhector](https://github.com/openclimatedata/pyhector) - Python interface for the simple global climate carbon-cycle model Hector
+- [Apache Open Climate Workbench](https://github.com/apache/climate) - is an effort to develop software that performs climate model evaluations using model outputs from a variety of different sources 
+- [CliMT](https://github.com/CliMT/climt) - is a Toolkit for building Earth system models in Python 
+- [climlab](https://github.com/brian-rose/climlab) - Python package for process-oriented climate modeling
+- [ClimateModeling_courseware](https://github.com/brian-rose/ClimateModeling_courseware) - A collection of interactive lecture notes and assignments in Jupyter notebook format
+- [Oceananigans.jl](https://github.com/CliMA/Oceananigans.jl) - Fast and friendly fluid dynamics on CPUs and GPUs 
+- [ClimateMachine.jl](https://github.com/CliMA/ClimateMachine.jl) - Climate Machine: an Earth System Model that automatically learns from data
+- [atlas](https://github.com/ecmwf/atlas) - A library for numerical weather prediction and climate modelling 
+- [Climate-Change-Datasets](https://github.com/adventuroussrv/Climate-Change-Datasets) - Here is a list of Climate Change Public Datasets 
+- [ESMValTool](https://github.com/ESMValGroup/ESMValTool) - A community diagnostic and performance metrics tool for routine evaluation of Earth system models in World Climate Research Programme
+- [NEMO](https://forge.ipsl.jussieu.fr/nemo/chrome/site/doc/NEMO/guide/html/NEMO_guide.html) - for Nucleus for European Modelling of the Ocean is a state-of-the-art modelling framework for research activities and forecasting services in ocean and climate sciences, developed in a sustainable way by a European consortium since 2008.
+- [sedproxy](https://github.com/EarthSystemDiagnostics/sedproxy) - An R package for modelling sediment archived climate proxy records.
+- [ICAR](https://github.com/NCAR/icar) - is a simplified atmospheric model designed primarily for climate downscaling, atmospheric sensitivity tests, and hopefully educational uses
+- [LESbrary.jl](https://github.com/CliMA/LESbrary.jl) - Generating a library of ocean turbulence large eddy simulation data to train ocean and climate models.
+- [MetPy](https://github.com/Unidata/MetPy) - is a collection of tools in Python for reading, visualizing and performing calculations with weather data.
+- [Isca](https://github.com/ExeClim/Isca) - is a framework for the idealized modelling of the global circulation of planetary atmospheres at varying levels of complexity and realism
+- [MPAS](https://github.com/MPAS-Dev/MPAS-Model) - The Model for Prediction Across Scales is a collaborative project for developing atmosphere, ocean, and other earth-system simulation components for use in climate, regional climate, and weather studies
+- [FAIR](https://github.com/OMS-NetZero/FAIR) - Finite Amplitude Impulse-Response simple climate-carbon-cycle model
+- [GOLD](https://code.google.com/archive/p/gold-omod/) - stands for Generalized Ocean Layer Dynamics and is a hybrid coordinate finite volume ocean model code funded by NOAA and developed by the ocean group at NOAA-GFDL and Princeton University
 
 
 ## Quality and Access of Global Resources
