@@ -24,7 +24,6 @@
 - [pvtrace](https://github.com/danieljfarrell/pvtrace) - Optical ray tracing for luminescent materials and spectral converter photovoltaic devices
 - [SolarPILOT](https://github.com/NREL/SolarPILOT) - Solar power tower layout and optimization tool
 - [solar-data-tools](https://github.com/slacgismo/solar-data-tools) - Some data analysis tools for working with historical PV solar time-series data sets
-- [SolarData](https://github.com/dazhiyang/SolarData) - Download and manipulate some publicly available solar datasets
 - [SolarPV-DER-simulation-utility](https://github.com/sibyjackgrove/SolarPV-DER-simulation-utility) -  Allows user to run dynamics simulations for solar photovoltaic distributed energy resource connected to a stiff voltage source or to an external program
 - [bifacial_radiance](https://github.com/NREL/bifacial_radiance) - Toolkit for working with RADIANCE for the ray-trace modeling of Bifacial Photovoltaics
 - [autoXRD](https://github.com/PV-Lab/autoXRD) - is a python package for automatic XRD pattern classification of thin-films, tweaked for small and class-imbalanced datasets.
@@ -35,7 +34,6 @@
 - [solar](https://github.com/oscarperpinan/solar) - allows for reproducible research both for photovoltaics systems performance and solar radiation.
 - [SolarTherm](https://github.com/SolarTherm/SolarTherm) - Solar thermal power/fuel station performance simulation and optimisation using Modelica
 - [LibreSolar charge-controller-firmware](https://github.com/LibreSolar/charge-controller-firmware) - Firmware for Libre Solar MPPT/PWM charge controllers
-- [Photovoltaic time series for European countries](https://zenodo.org/record/2613651#.XRtJRP7Rapo) - Comprises 38 years-long hourly time series representing the photovoltaic capacity factors in every European country (EU-28 plus Serbia, Bosnia-Herzegovina, Norway, and Switzerland)
 
 
 ### Wind Turbines
@@ -128,6 +126,8 @@
 - [EIA](https://github.com/ropensci/eia) - An R package wrapping the US Energy Information Administration open data API. 
 - [atlite](https://github.com/PyPSA/atlite) - Light-weight version of Aarhus RE Atlas for converting weather data to power systems data
 - [NYISOToolkit](https://github.com/m4rz910/NYISOToolkit) - A collection of modules for accessing power system data, generating statistics, and creating visualizations from the New York Independent System Operator
+- [Photovoltaic time series for European countries](https://zenodo.org/record/2613651#.XRtJRP7Rapo) - Comprises 38 years-long hourly time series representing the photovoltaic capacity factors in every European country (EU-28 plus Serbia, Bosnia-Herzegovina, Norway, and Switzerland)
+- [SolarData](https://github.com/dazhiyang/SolarData) - Download and manipulate some publicly available solar datasets	
 
 
 ## System Modeling, Optimisation and Analysis
@@ -177,14 +177,12 @@ An agent-based modeling and simulation approach is applied to model the behavior
 
 
 ## Energy System Monitoring and Control
-
 - [OpenEMS/openems: OpenEMS - Open Source Energy Management System](https://github.com/OpenEMS/openems) 
 - [openeemeter/eemeter: An open source python package for implementing and developing standard methods for calculating normalized metered energy consumption and avoided energy use.](https://github.com/openeemeter/eemeter)
 - [OperatorFabric](https://github.com/opfab/operatorfabric-core) - OperatorFabric is a modular, extensible, industrial-strength and field-tested platform for use in electricity, water, and other utility operations.
 - [energy-sparks](https://github.com/Energy-Sparks/energy-sparks) - an open source application that is designed to help schools improve their energy efficiency.
 
 ## Energy Distribution and Grid
-
 - [simbench](https://github.com/e2nIEE/simbench) - The objective of the research project SimBench is the development of a benchmark dataset to support research in grid planning and operation
 - [Egret](https://github.com/grid-parity-exchange/Egret) - is a Python-based package for electrical grid optimization based on the Pyomo optimization modeling language
 - [pypsa-eur](https://github.com/PyPSA/pypsa-eur) - PyPSA-Eur: An Open Optimisation Model of the European Transmission System
@@ -224,6 +222,7 @@ An agent-based modeling and simulation approach is applied to model the behavior
 ### Mobility and Transportation
 - [The Open Charge Point Protocol](https://github.com/NewMotion/ocpp) - (OCPP) is a network protocol for communication between electric vehicle chargers and a central backoffice system
 - [ocpp](https://github.com/mobilityhouse/ocpp) - Python implementation of the Open Charge Point Protocol 
+- [MaaS Global](https://github.com/maasglobal/maas-schemas) - Mobility as a Service API - data model, tests, and validation
 - [coopcycle](https://github.com/coopcycle/coopcycle-web) - CoopCycle is a self-hosted platform to order meals in your neighborhood and get them delivered by bike couriers
 - [EVNotify](https://github.com/EVNotify/EVNotify) - EVNotify allows you to monitor your electric vehicle and let you notify when the specified preset state of charge has been achieved.
 - [diowa/icare: Open Source Carpooling Platform](https://github.com/diowa/icare) - icare is an open source carpooling platform used as a basis for our commercial product Company Carpool 
@@ -262,42 +261,40 @@ An agent-based modeling and simulation approach is applied to model the behavior
 ### Observation
 
 - [Bloom](https://github.com/tmrowco/northapp-contrib) - is a SaaS that allow companies to become climate leaders, from calculating their climate impact to communicating about their climate efforts. It connects to as many data sources as possible to assess your carbon footprint and find mitigation opportunities.
-   - https://github.com/NMF-earth/nmf-app
-
- - [EnergyPATHWAYS](https://github.com/energyPATHWAYS/EnergyPATHWAYS) - model is a professional, open-source energy and carbon planning tool for use in evaluating long-term, economy-wide greenhouse gas mitigation scenarios
-   - https://github.com/protea-earth/carbon_footprint
-      https://github.com/milankl/CarbonFootprintEGU
-      https://github.com/mlco2/impact/
-      https://github.com/bcgov/ghg-emissions-indicator
-      https://git.iws.uni-stuttgart.de/dumux-repositories/dumux
-      https://github.com/dataforgoodfr/batch7_satellite_ges/tree/master/
-      https://github.com/gschivley/ghgforcing
+- [NMF.earth app](https://github.com/NMF-earth/nmf-app) - Understand and reduce your carbon footprint seedling iOS & Android.
+- [EnergyPATHWAYS](https://github.com/energyPATHWAYS/EnergyPATHWAYS) - model is a professional, open-source energy and carbon planning tool for use in evaluating long-term, economy-wide greenhouse gas mitigation scenarios
+- [carbon_footprint](https://github.com/protea-earth/carbon_footprint) - Calculate your carbon footprint easily using a command line interface
+- [CarbonFootprintEGU](https://github.com/milankl/CarbonFootprintEGU) - Travel carbon footprint of the European Geosciences Union General Assembly 2019
+- [impact](https://github.com/mlco2/impact/) - Compute your ML model's emissions with our calculator and add the results to your paper with our generated latex template
+- [ghg-emissions-indicator](https://github.com/bcgov/ghg-emissions-indicator) - R scripts for a GHG emissions indicator published on Environmental Reporting British Columbia
+- [DuMux](https://git.iws.uni-stuttgart.de/dumux-repositories/dumux) - DuMux is based on the DUNE framework and aims to provide a multitude of numerical models as well as flexible discretization methods for complex non-linear phenomena, such as CO2 sequestration, soil remediation, drug delivery in cancer therapy and more
+- [batch7_satellite_ges](https://github.com/dataforgoodfr/batch7_satellite_ges/) - The goal of our project is to localize CO2 emissions on Earth based on the the carbon concentration data measured by the OCO-2 Satellite from the NASA.
+- [ghgforcing](https://github.com/gschivley/ghgforcing) - Python package to calculating forcing from continuous GHG emissions
 
 ### Carbon Capture
-https://github.com/simccs/SimCCS
-https://github.com/CCSI-Toolset/FOQUS
-https://github.com/yohanesnuwara/carbon-capture-and-storage
+- [SimCCS](https://github.com/simccs/SimCCS) - SimCCS is a software platform for carbon capture and storage (CCS) infrastructure design.
+- [FOQUS](https://github.com/CCSI-Toolset/FOQUS) - Framework for Optimization and Quantification of Uncertainty and Surrogates
+- [Carbon Capture and Storage](https://github.com/yohanesnuwara/carbon-capture-and-storage) - This is a complete modelling workflow that integrates reservoir simulation data, rock physics, time-lapse seismic, and geomechanics of CO2 injection in carbonate rock
 
 ## Observation and Conservation of Ecosystems 
 ### Forests and Vegetations
-https://github.com/wri/carbon-budget
-https://github.com/apburt/treeseg/
-https://github.com/forestgeo/fgeo
-https://github.com/forestgeo/fgeo.biomass
-https://github.com/umr-amap/BIOMASS
-https://github.com/MetOffice/forest
-https://github.com/openforis/sepal
-https://github.com/maasglobal/maas-schemas
-https://github.com/forc-db/ForC
-https://github.com/gschivley/ghgforcing
-https://github.com/tiagodc/TreeLS
-https://github.com/InverseTampere/TreeQSM
-https://github.com/weecology/DeepLidar
-https://github.com/esowc/wildfire-forecasting
+- [carbon-budget](https://github.com/wri/carbon-budget) - This model maps gross greenhouse gas emissions from forests between 2001 and 2015, gross carbon removals by forests between 2001, and the difference between them (net flux)
+- [treeseg](https://github.com/apburt/treeseg/) - treeseg has been developed to near-automatically extract tree-level point clouds from high-density larger-area lidar point clouds acquired in forests
+- [fgeo](https://github.com/forestgeo/fgeo) - Analyze forest diversity and dynamics
+- [fgeo.biomass](https://github.com/forestgeo/fgeo.biomass) - Calculate biomass with allometric equations from the allodb package and ForestGEO data
+- [BIOMASS](https://github.com/umr-amap/BIOMASS) - R package for estimating aboveground biomass and its uncertainty in tropical forests.
+- [forest](https://github.com/MetOffice/forest) - Forecast and Observation Research and Evaluation Survey Tool
+- [SEPAL](https://github.com/openforis/sepal) - System for Earth Observation Data Access, Processing and Analysis for Land Monitoring 
+- [Forest Carbon database](https://github.com/forc-db/ForC) - Global Forest Carbon Database
+- [TreeLS](https://github.com/tiagodc/TreeLS) - High performance R functions for forest data processing based on Terrestrial Laser Scanning (but not only) point clouds.
+- [TreeQSM](https://github.com/InverseTampere/TreeQSM) - Quantitative Structure Models of Single Trees from Laser Scanner Data
+- [DeepLidar](https://github.com/weecology/DeepLidar) - Geographic Generalization in Airborne RGB Deep Learning Tree Detection
+- [wildfire-forecasting](https://github.com/esowc/wildfire-forecasting) - The project intends to reproduce the Fire Forecasting capabilities of GEFF using Deep Learning and develop further improvements in accuracy, geography and time scale through inclusion of additional variables or optimisation of model architecture & hyperparameters
+- [caliver](https://github.com/ecmwf/caliver) - CALIbration and VERification of gridded fire danger models
+- [Global Forest Watch](https://github.com/Vizzuality/gfw) - Global Forest Watch: An online, global, near-real time forest monitoring tool
 
-### Ice and Poles
-- [Vizzuality/gfw: Global Forest Watch: An online, global, near-real time forest monitoring tool](https://github.com/Vizzuality/gfw) 
-- [pedropro/TACO: 🌮 Trash Annotations in Context Dataset Toolkit](https://github.com/pedropro/TACO) 
+### Ice and Poles 
+ 
 - [OpenEnergyPlatform/oeplatform: Repository for the code of the Open Energy Platform (OEP) website. The OEP provides an interface to the Open Energy Family](https://github.com/OpenEnergyPlatform/oeplatform) 
 - [ropensci/taxize: A taxonomic toolbelt for R](https://github.com/ropensci/taxize) 
 - [ropensci/rgbif: Interface to the Global Biodiversity Information Facility API](https://github.com/ropensci/rgbif) 
@@ -423,8 +420,9 @@ https://github.com/ncss-tech/aqp
 https://github.com/ncss-tech/sharpshootR
 https://github.com/ncss-tech/soilDB
 
-## Recycling
+## Recycling and Waste
 
+- [pedropro/TACO: 🌮 Trash Annotations in Context Dataset Toolkit](https://github.com/pedropro/TACO)
 https://github.com/circularfashion/cf-circularity-id-standard
 
 
