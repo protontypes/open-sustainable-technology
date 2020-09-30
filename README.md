@@ -197,6 +197,7 @@ An agent-based modeling and simulation approach is applied to model the behavior
 - [Grid2Op](https://github.com/rte-france/Grid2Op) - Grid2Op a testbed platform to model sequential decision making in power systems.
 - [eDisGo](https://github.com/openego/eDisGo/) - Optimization of flexibility options and grid expansion for distribution grids based on PyPSA
 - [offgridders](https://github.com/rl-institut/offgridders) - Models and optimizes capacity & dispatch of electricity supply systems, off-grid or connected to a (weak) central grid
+- [RTS-GMLC](https://github.com/GridMod/RTS-GMLC) - Reliability Test System of the Grid Modernization Lab Consortium
 
 
 ## Energy Consumption
