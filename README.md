@@ -197,10 +197,13 @@
 - [CyclOSM](https://carto.com/developers/styling/cartocss/) is a CartoCSS map style designed with cycling in mind
 - [Gym Electric Motor](https://github.com/upb-lea/gym-electric-motor) - An OpenAI Gym Environment for Electric Motors
 - [BEAM](https://github.com/LBNL-UCB-STI/beam) - The Framework for Modeling Behavior, Energy, Autonomy, and Mobility in Transportation Systems
+- [WoBike](https://github.com/ubahnverleih/WoBike) - Public transport and multimodal routing apps could benefit from showing nearby bikes from bikesharing services. So here's a list showing the APIs of a few of these platforms.
+- [multicycles](https://github.com/PierrickP/multicycles) - aggregates on one map, more than 100 share vehicles like bikes, scooters, mopeds and cars.
+- [pybikes](https://github.com/eskerda/pybikes) - provides a set of tools to scrape bike sharing data from different websites and APIs, thus providing a coherent and generalized set of classes and methods to access this sort of information
 
 
 ### Industries and Companies
-- [Industry-Energy-Tool](https://github.com/NREL/Industry-Energy-Tool) - The Industry Energy Tool (IET) is a calculator developed by NREL for projecting energy efficiency and fuel switching scenarios for the U.S. industrial sector energy use and emissions at the Census Region and county-level
+- [Industry-Energy-Tool](https://github.com/NREL/Industry-Energy-Tool) - The Industry Energy Tool  is a calculator developed by NREL for projecting energy efficiency and fuel switching scenarios for the U.S. industrial sector energy use and emissions at the Census Region and county-level
 - [Industry-energy-data-book](https://github.com/NREL/Industry-energy-data-book) - The 2018 Industry Energy Data Book summarizes the status of, and identifies the key trends in energy use and its underlying economic drivers across the four industrial subsectors: agriculture, construction, manufacturing, and mining
 - [CalTRACK](https://github.com/energy-market-methods/caltrack) - methods are developed in an open and transparent stakeholder process that uses empirical testing to define replicable methods for calculating normalized metered energy consumption using either monthly or interval data from an existing conditions baseline.
 
@@ -208,8 +211,7 @@
 
 ## System Modeling, Optimisation and Analysis
 
-* [Open Energy Platform](https://github.com/OpenEnergyPlatform/oeplatform) - The Open Energy Family aims to ensure quality, transparency and reproducibility in energy system research. It is a collection of various tools and information and that help working with energy related data
-
+- [Open Energy Platform](https://github.com/OpenEnergyPlatform/oeplatform) - The Open Energy Family aims to ensure quality, transparency and reproducibility in energy system research. It is a collection of various tools and information and that help working with energy related data
 - [PyPSA](https://github.com/PyPSA/PyPSA) - is a free software toolbox for simulating and optimising modern power systems that include features such as conventional generators with unit commitment, variable wind and solar generation, storage units, coupling to other energy sectors, and mixed alternating and direct current networks 
 - [GCAM](https://github.com/JGCRI/gcam-core) - is a dynamic-recursive model with technology-rich representations of the economy, energy sector, land use and water linked to a climate model that can be used to explore climate change mitigation policies including carbon taxes, carbon trading, regulations and accelerated deployment of energy technology.
 - [pyGRETA](https://github.com/tum-ens/pyGRETA) - python *G*enerator of *RE*newable *T*ime series and m*A*ps: a tool that generates high-resolution potential maps and time series for user-defined regions within the globe.
@@ -228,9 +230,7 @@
 - [REVUB](https://github.com/VUB-HYDR/REVUB) - The main objective of REVUB is to model how flexible operation of hydropower plants can help renewable electricity mixes with variable solar and wind power to provide reliable electricity supply and load-following services
 - [glaes](https://github.com/FZJ-IEK3-VSA/glaes) - Geospatial Land Availability for Energy Systems 
 - [RESKit](https://github.com/FZJ-IEK3-VSA/RESKit) - A toolkit to help generate renewable energy generation time-series for energy systems analysis 
-- [FINE: The FINE python package provides a framework for modeling, optimizing and assessing energy systems](https://github.com/FZJ-IEK3-VSA/FINE) 
-- [awslabs/gluon-ts: Probabilistic time series modeling in Python](https://github.com/awslabs/gluon-ts) 
-- [facebook/prophet: Tool for producing high quality forecasts for time series data that has multiple seasonality with linear or non-linear growth.](https://github.com/facebook/prophet) 
+- [FINE](https://github.com/FZJ-IEK3-VSA/FINE) - The FINE python package provides a framework for modeling, optimizing and assessing energy systems 
 - [atlite](https://github.com/PyPSA/atlite) - Light-weight version of Aarhus RE Atlas for converting weather data to power systems data
 - [onsset](https://github.com/OnSSET/onsset) - is a GIS based optimization tool that has been developed to support electrification planning and decision making for the achievement of energy access goals in currently unserved locations. 
 - [compas](https://github.com/com-pas/compas-architecture) - The CoMPAS project was formed to develop open source software components related to IEC 61850 model implementation (profile management) and configuration of a power industry Protection Automation and Control System (PACS).
@@ -246,7 +246,7 @@
 - [energyRt](https://github.com/energyRt/energyRt) - Making Energy Systems Modeling as simple as a linear regression in R
 - [whobs-server](https://github.com/PyPSA/whobs-server) - This is the code for the online optimisation of zero-direct-emission electricity systems with wind, solar and storage (using batteries and electrolysed hydrogen gas) to provide a baseload electricity demand, using the cost and other assumptions of your choice
 - [MVS - Multi-Vector Simulator of the E-Land toolbox](https://github.com/rl-institut/mvs_eland) - The multi-vector simulator (MVS) allows the evaluation of local sector-coupled energy systems that include the energy carriers electricity, heat and/or gas. The MVS has three main features:
-- [ontology](https://github.com/OpenEnergyPlatform/ontology) - The Open Energy Ontology (OEO) is a domain ontology of the energy-system modelling context
+- [ontology](https://github.com/OpenEnergyPlatform/ontology) - The Open Energy Ontology  is a domain ontology of the energy-system modelling context
  - [rl-testbed-for-energyplus](https://github.com/IBM/rl-testbed-for-energyplus) - Reinforcement Learning Testbed for Power Consumption Optimization using EnergyPlus
 - [CityLearn](https://github.com/intelligent-environments-lab/CityLearn) - Official reinforcement learning environment for demand response and load shaping
  - [nempy](https://github.com/UNSW-CEEM/nempy) - This project aims to enhance the Australia electricity industries modelling and analytical capabilities
@@ -285,14 +285,14 @@
 - [impact](https://github.com/mlco2/impact/) - Compute your ML model's emissions with our calculator and add the results to your paper with our generated latex template
 - [ghg-emissions-indicator](https://github.com/bcgov/ghg-emissions-indicator) - R scripts for a GHG emissions indicator published on Environmental Reporting British Columbia
 - [DuMux](https://git.iws.uni-stuttgart.de/dumux-repositories/dumux) - DuMux is based on the DUNE framework and aims to provide a multitude of numerical models as well as flexible discretization methods for complex non-linear phenomena, such as CO2 sequestration, soil remediation, drug delivery in cancer therapy and more
-- [batch7_satellite_ges](https://github.com/dataforgoodfr/batch7_satellite_ges/) - The goal of our project is to localize CO2 emissions on Earth based on the the carbon concentration data measured by the OCO-2 Satellite from the NASA.
-- [ghgforcing](https://github.com/gschivley/ghgforcing) - Python package to calculating forcing from continuous GHG emissions
+- [batch7_satellite_ges](https://github.com/dataforgoodfr/batch7_satellite_ges/) - The goal of our project is to localize CO2 emissions on Earth based on the the carbon concentration data measured by the OCO-2 Satellite from NASA.
+- [ghgforcing](https://github.com/gschivley/ghgforcing) - Python package to calculating forcing from continuous GHG emissions.
 - [CO2 Emission Datasets](https://www.che-project.eu/data-portal) - The CHE Data Portal provides an interface to the distributed data used and made available through the project, either as input data sets or as resulting data sets. 
 
 ### Carbon Capture
 - [SimCCS](https://github.com/simccs/SimCCS) - SimCCS is a software platform for carbon capture and storage (CCS) infrastructure design.
-- [FOQUS](https://github.com/CCSI-Toolset/FOQUS) - Framework for Optimization and Quantification of Uncertainty and Surrogates
-- [Carbon Capture and Storage](https://github.com/yohanesnuwara/carbon-capture-and-storage) - This is a complete modelling workflow that integrates reservoir simulation data, rock physics, time-lapse seismic, and geomechanics of CO2 injection in carbonate rock
+- [FOQUS](https://github.com/CCSI-Toolset/FOQUS) - Framework for Optimization and Quantification of Uncertainty and Surrogates.
+- [Carbon Capture and Storage](https://github.com/yohanesnuwara/carbon-capture-and-storage) - This is a complete modelling workflow that integrates reservoir simulation data, rock physics, time-lapse seismic, and geomechanics of CO2 injection in carbonate rock.
 
 ## Observation and Conservation of Ecosystems 
 ### Forests and Biodiversity
@@ -426,7 +426,7 @@
  - Global spatial predictions of soil properties and classes at 250 m resolution
 - [hyperspectral-soilmoisture-dataset](https://github.com/felixriese/hyperspectral-soilmoisture-dataset) - Hyperspectral benchmark dataset on soil moisture
 - [soilReports](https://github.com/ncss-tech/soilReports) - An R package that assists with the setup and operation of a collection of soil data summary, comparison, and evaluation reports
-- [AQP](https://github.com/ncss-tech/aqp) - Algorithms for Quantitative Pedology (AQP) is a collection of code, ideas, documentation, and examples wrapped-up into several R packages
+- [AQP](https://github.com/ncss-tech/aqp) - Algorithms for Quantitative Pedology is a collection of code, ideas, documentation, and examples wrapped-up into several R packages
 - [sharpshootR](https://github.com/ncss-tech/sharpshootR) - Miscellaneous soil data management, summary, visualization, and conversion utilities to support soil survey.
 - [soilDB](https://github.com/ncss-tech/soilDB) - Simplified Access to NCSS Soil Databases
 - [landslides_detection](https://github.com/mhscience/landslides_detection) - 
