@@ -1,6 +1,7 @@
 <h1 align="center">Awesome Sustainable Technology </h1>
 
 <h4 align="center"> Gathering of state-of-the-art open source technology preserving global energy supply and life resources</h4>
+
 <br></br>
 
 <p align="center">
@@ -251,6 +252,8 @@ An agent-based modeling and simulation approach is applied to model the behavior
 - [quetzal_germany](https://github.com/marlinarnz/quetzal_germany) - A four step transport model for Germany using the quetzal transport modelling suite
 - [MATSim](https://github.com/matsim-org/matsim-libs) - MATSim provides a toolbox to run and implement large-scale agent-based transport simulations
 - [OpenMobility](https://openmobility.eclipse.org/) - Driving the Evolution and Broad Adoption of Open Source Mobility Modelling and Simulation Technologies.
+- [NoiseModelling](https://github.com/Ifsttar/NoiseModelling) - A free and open-source model to compute noise maps
+- [NoiseCapture](https://github.com/Ifsttar/NoiseCapture) - Android App dedicated to the measurement of environmental noise
 
 ### Industries and Companies
 - [Industry-Energy-Tool](https://github.com/NREL/Industry-Energy-Tool) - The Industry Energy Tool (IET) is a calculator developed by NREL for projecting energy efficiency and fuel switching scenarios for the U.S. industrial sector energy use and emissions at the Census Region and county-level
@@ -260,7 +263,6 @@ An agent-based modeling and simulation approach is applied to model the behavior
 
 ## Emissions and Greenhouse Gases
 ### Observation
-
 - [Bloom](https://github.com/tmrowco/northapp-contrib) - is a SaaS that allow companies to become climate leaders, from calculating their climate impact to communicating about their climate efforts. It connects to as many data sources as possible to assess your carbon footprint and find mitigation opportunities.
 - [NMF.earth app](https://github.com/NMF-earth/nmf-app) - Understand and reduce your carbon footprint seedling iOS & Android.
 - [EnergyPATHWAYS](https://github.com/energyPATHWAYS/EnergyPATHWAYS) - model is a professional, open-source energy and carbon planning tool for use in evaluating long-term, economy-wide greenhouse gas mitigation scenarios
@@ -271,6 +273,7 @@ An agent-based modeling and simulation approach is applied to model the behavior
 - [DuMux](https://git.iws.uni-stuttgart.de/dumux-repositories/dumux) - DuMux is based on the DUNE framework and aims to provide a multitude of numerical models as well as flexible discretization methods for complex non-linear phenomena, such as CO2 sequestration, soil remediation, drug delivery in cancer therapy and more
 - [batch7_satellite_ges](https://github.com/dataforgoodfr/batch7_satellite_ges/) - The goal of our project is to localize CO2 emissions on Earth based on the the carbon concentration data measured by the OCO-2 Satellite from the NASA.
 - [ghgforcing](https://github.com/gschivley/ghgforcing) - Python package to calculating forcing from continuous GHG emissions
+- [CO2 Emission Datasets](https://www.che-project.eu/data-portal) - The CHE Data Portal provides an interface to the distributed data used and made available through the project, either as input data sets or as resulting data sets. 
 
 ### Carbon Capture
 - [SimCCS](https://github.com/simccs/SimCCS) - SimCCS is a software platform for carbon capture and storage (CCS) infrastructure design.
@@ -350,82 +353,72 @@ An agent-based modeling and simulation approach is applied to model the behavior
 - [MPAS](https://github.com/MPAS-Dev/MPAS-Model) - The Model for Prediction Across Scales is a collaborative project for developing atmosphere, ocean, and other earth-system simulation components for use in climate, regional climate, and weather studies
 - [FAIR](https://github.com/OMS-NetZero/FAIR) - Finite Amplitude Impulse-Response simple climate-carbon-cycle model
 - [GOLD](https://code.google.com/archive/p/gold-omod/) - stands for Generalized Ocean Layer Dynamics and is a hybrid coordinate finite volume ocean model code funded by NOAA and developed by the ocean group at NOAA-GFDL and Princeton University
+- [FluxEngine](https://github.com/oceanflux-ghg/FluxEngine) - is an open source atmosphere ocean gas flux data processing toolbox
+- [eeweather](https://github.com/openeemeter/eeweather)  - Fetch NCDC ISD, TMY3, or CZ2010 weather data that corresponds to ZIP Code Tabulation Areas or Latitude/Longitude.
 
 
 ## Quality and Access of Global Resources
 
 ### Air
-https://github.com/oceanflux-ghg/FluxEngine
-https://github.com/USEPA/CMAQ
-https://github.com/USEPA/AMET
-https://github.com/USEPA/WNTR
-https://gitlab.version.fz-juelich.de/toar/mlair
-https://github.com/bcgov/fasstr
-
-### Water
-https://github.com/USEPA/Stormwater-Management-Model
-https://github.com/USGS-R/dataRetrieval
-https://github.com/USGS-R/EGRET
-- [lanl-ansi/WaterModels.jl: A Julia/JuMP Package for Water Distribution Network Optimization](https://github.com/lanl-ansi/WaterModels.jl) 
-https://github.com/lanl-ansi/WaterModels.jl
-https://github.com/NOAA-OWP/t-route
-https://github.com/NOAA-OWP/ngen
-https://github.com/USGS-R/nhdplusTools
-https://github.com/codeforboston/safe-water
-https://github.com/mroberge/hydrofunctions
-https://github.com/CWatM/CWatM
-https://github.com/AquaticEcoDynamics/GLM
-https://github.com/jsta/nhdR
-[MODFLOW-USGS/modflow6](https://github.com/MODFLOW-USGS/modflow6) - MODFLOW program has been widely used by academics, private consultants, and government scientists to accurately, reliably, and efficiently simulate groundwater flow
-https://github.com/hydroshare/hydroshare
-HydroShare is a website and hydrologic information system for sharing hydrologic data and models aimed at giving users the cyberinfrastructure needed to innovate and collaborate in research to solve water problems.
-https://github.com/ropensci/Hydrology
-https://github.com/mdbartos/pysheds
-https://github.com/jblindsay/whitebox-tools
-- https://github.com/ARPA-SIMC/CRITERIA3D
+- [CMAQ](https://github.com/USEPA/CMAQ)- Code base for the U.S. EPA’s Community Multiscale Air Quality Model
+- [AMET](https://github.com/USEPA/AMET) - is a suite of software designed to facilitate the analysis and evaluation of predictions from meteorological and air quality models
+- [MLAir](https://gitlab.version.fz-juelich.de/toar/mlair) - Machine Learning on Air data is an environment that simplifies and accelerates the creation of new machine learning models for the analysis and forecasting of meteorological and air quality time series
+- [shoot-i-smoke](https://github.com/amaurymartiny/shoot-i-smoke) - See your city's air pollution measured in daily cigarettes
+- [jsynowiec/airqmon](https://github.com/jsynowiec/airqmon) - A macOS menu bar application that displays live air quality data from the nearest sensor station
+- [opendata-stuttgart](https://github.com/opendata-stuttgart/sensors-software) - The maintained main firmware for the Luftdaten.Info Sensor.
+- [AirCasting](https://github.com/HabitatMap/AirCasting) - the project aims to build a platform for gathering, visualization and sharing of environmental data
+- [openair: Tools for air quality data analysis](https://github.com/davidcarslaw/openair) - openair is an R package developed for the purpose of analysing air quality data — or more generally atmospheric composition data
+- [ropensci](https://github.com/ropensci/ropenaq) - OpenAQ is a community of scientists, software developers, and lovers of open environmental data who are building an open, real-time database that provides programmatic and historical access to air quality data
 
 
-### Noise
-- [Ifsttar/NoiseModelling: A free and open-source model to compute noise maps.](https://github.com/Ifsttar/NoiseModelling) 
-- [amaurymartiny/shoot-i-smoke: See your city's air pollution measured in daily cigarettes. iOS/Android.](https://github.com/amaurymartiny/shoot-i-smoke) 
-- [KnowFlow/KnowFlow_AWM: KnowFlow Automatic Water Monitoring device is an open sourced tool enable everyone having access to first hand water quality data with low cost.](https://github.com/KnowFlow/KnowFlow_AWM) 
-- [USGS-R/EGRET: An R-package for the analysis of long-term changes in water quality and streamflow, including the water-quality method Weighted Regressions on Time, Discharge, and Season (WRTDS). http://usgs-r.github.io/EGRET/](https://github.com/USGS-R/EGRET) 
-- [philippkraft/cmf: Catchment Modelling Framework, a hydrologic modelling toolbox](https://github.com/philippkraft/cmf) 
-- [deepchem/deepchem: Democratizing Deep-Learning for Drug Discovery, Quantum Chemistry, Materials Science and Biology](https://github.com/deepchem/deepchem) 
-- [Ifsttar/NoiseCapture: Android App dedicated to the measurement of environmental noise.](https://github.com/Ifsttar/NoiseCapture) 
-- [opendata-stuttgart/sensors-software: sourcecode for reading sensor data](https://github.com/opendata-stuttgart/sensors-software) 
-- [HabitatMap/AirCasting: AirCasting API and web application](https://github.com/HabitatMap/AirCasting) 
-- [USEPA/WNTR: An EPANET compatible python package to simulate and analyze water distribution networks under disaster scenarios.](https://github.com/USEPA/WNTR) 
-- [U SeeSEPA/CMAQ: Code base for the U.S. EPA’s Community Multiscale Air Quality Model (CMAQ). For additional background on CMAQ please visit: www.epa.gov/CMAQ](https://github.com/USEPA/CMAQ) 
-- [USEPA/AMET: Code base for the U.S. EPA’s Atmospheric Model Evaluation Tool (AMET). For additional background on AMET please visit: www.epa.gov/CMAQ/atmospheric-model-evaluation-tool](https://github.com/USEPA/AMET) 
-- [jsynowiec/airqmon: A macOS menu bar application that displays live air quality data from the nearest sensor station.](https://github.com/jsynowiec/airqmon) 
-- [davidcarslaw/openair: Tools for air quality data analysis](https://github.com/davidcarslaw/openair) 
-- [ropensci/ropenaq: R package for the OpenAQ API](https://github.com/ropensci/ropenaq) 
-- [ONEARMY/community-platform: A series of tools for the Precious Plastic community to collaborate around the world and tackle plastic waste.](https://github.com/ONEARMY/community-platform) 
-- [RAJohansen/waterquality: Package designed to detect and quantify water quality and cyanobacterial harmful algal bloom (CHABs) from remotely sensed imagery](https://github.com/RAJohansen/waterquality)
-- [openeemeter/eeweather: Fetch NCDC ISD, TMY3, or CZ2010 weather data that corresponds to ZIP Code Tabulation Areas or Latitude/Longitude.](https://github.com/openeemeter/eeweather) 
-- [Trash-ICRA19: A Bounding Box Labeled Dataset of Underwater Trash](https://conservancy.umn.edu/handle/11299/214366) 
-https://github.com/bcgov/gwells
+### Hydrology
+- [Stormwater-Management-Model](https://github.com/USEPA/Stormwater-Management-Model) - is used for single event or long-term (continuous) simulation of runoff quantity and quality from primarily urban areas
+- [dataRetrieval](https://github.com/USGS-R/dataRetrieval) - This R package is designed to obtain USGS or EPA water quality sample data, streamflow data, and metadata directly from web services
+- [EGRET](https://github.com/USGS-R/EGRET) - An R-package for the analysis of long-term changes in water quality and streamflow, including the water-quality method Weighted Regressions on Time, Discharge, and Season
+- [WaterModels.jl](https://github.com/lanl-ansi/WaterModels.jl) - A Julia/JuMP Package for Water Distribution Network Optimization
+- [WaterModels.jl](https://github.com/lanl-ansi/WaterModels.jl) - is designed to enable computational evaluation of historical and emerging water network formulations and algorithms using a common platform
+- [Tree-based Inland Hydraulic Routing Project](https://github.com/NOAA-OWP/t-route) - The program under development here seeks to effectively manage the traversal of a network of streams with defined hydraulic properties specifically for the purpose of hydraulic routing in an operational flood and water resources forecasting system
+- [Next Gen Water Modeling Framework](https://github.com/NOAA-OWP/ngen) - This framework includes an encapsulation strategy which focuses on the hydrologic data first, and then builds a functional abstraction of hydrologic behavior
+- [nhdplusTools](https://github.com/USGS-R/nhdplusTools) - This package is a growing set of tools for manipulation of hydrographic data using the NHDPlus data model
+- [The Safe Water Project](https://github.com/codeforboston/safe-water) - is a team of volunteers at Code for Boston who are using data modeling, data visualization and machine learning to predict, visualize, and share data about the presence of hazardous drinking and surface water contaminants in the United States
+- [HydroFunctions](https://github.com/mroberge/hydrofunctions) - A suite of convenience functions for working with hydrology data in an interactive Python session.
+- [CWATM](https://github.com/CWatM/CWatM) - represents one of the new key elements of IIASA’s Water program to assess water supply, water demand and environmental needs at global and regional level
+- [The General Lake Model](https://github.com/AquaticEcoDynamics/GLM) - is a water balance and one-dimensional vertical stratification hydrodynamic model
+- [nhdR](https://github.com/jsta/nhdR) - R interface to the US National Hydrography Dataset
+- [MODFLOW-USGS/modflow6](https://github.com/MODFLOW-USGS/modflow6) - MODFLOW program has been widely used by academics, private consultants, and government scientists to accurately, reliably, and efficiently simulate groundwater flow
+- [HydroShare](https://github.com/hydroshare/hydroshare) - HydroShare is a website and hydrologic information system for sharing hydrologic data and models aimed at giving users the cyberinfrastructure needed to innovate and collaborate in research to solve water problems.
+- [pysheds](https://github.com/mdbartos/pysheds) - Simple and fast watershed delineation in python
+- [WhiteboxTools](https://github.com/jblindsay/whitebox-tools) - WhiteboxTools is an advanced geospatial data analysis platform
+- [CRITERIA3D](https://github.com/ARPA-SIMC/CRITERIA3D) - includes a numerical solution for three-dimensional water and heat flow in the soil, coupled surface and subsurface flow, meteorological data interpolation, radiation budget, crop development and crop water uptak
+- [Water Network Tool for Resilience](https://github.com/USEPA/WNTR) - is a Python package designed to simulate and analyze resilience of water distribution networks
+- [fasstr](https://github.com/bcgov/fasstr) - An R package to analyze, summarize, and visualize daily streamflow data
+- [KnowFlow](https://github.com/KnowFlow/KnowFlow_AWM) - KnowFlow Automatic Water Monitoring device is an open sourced tool enable everyone having access to first hand water quality data with low cost 
+- [WNTR](https://github.com/USEPA/WNTR) - An EPANET compatible python package to simulate and analyze water distribution networks under disaster scenarios
+- [gwells](https://github.com/bcgov/gwells) - Groundwater Wells and Aquifers application for the Ministry of Environment in British Columbia
+- [waterquality](https://github.com/RAJohansen/waterquality) - Package designed to detect and quantify water quality and cyanobacterial harmful algal bloom (CHABs) from remotely sensed imagery
+
 
 ## Soil
-https://github.com/ISRICWorldSoil/SoilGrids250m
-https://github.com/felixriese/hyperspectral-soilmoisture-dataset
-https://github.com/ncss-tech/soilReports
-https://github.com/ncss-tech/aqp
-https://github.com/ncss-tech/sharpshootR
-https://github.com/ncss-tech/soilDB
+[SoilGrids250m](https://github.com/ISRICWorldSoil/SoilGrids250m) - Global spatial predictions of soil properties and classes at 250 m resolution
+[hyperspectral-soilmoisture-dataset](https://github.com/felixriese/hyperspectral-soilmoisture-dataset) - Hyperspectral benchmark dataset on soil moisture
+[soilReports](https://github.com/ncss-tech/soilReports) - An R package that assists with the setup and operation of a collection of soil data summary, comparison, and evaluation reports
+[AQP](https://github.com/ncss-tech/aqp) - Algorithms for Quantitative Pedology (AQP) is a collection of code, ideas, documentation, and examples wrapped-up into several R packages
+[sharpshootR](https://github.com/ncss-tech/sharpshootR) - Miscellaneous soil data management, summary, visualization, and conversion utilities to support soil survey.
+[soilDB](https://github.com/ncss-tech/soilDB) - Simplified Access to NCSS Soil Databases
 
-## Recycling and Waste
 
+## Circular Economy and Waste
+- [ONEARMY/community-platform](https://github.com/ONEARMY/community-platform) - A series of tools for the Precious Plastic community to collaborate around the world and tackle plastic waste. 
+- [Trash-ICRA19: A Bounding Box Labeled Dataset of Underwater Trash](https://conservancy.umn.edu/handle/11299/214366) 
 - [pedropro/TACO: 🌮 Trash Annotations in Context Dataset Toolkit](https://github.com/pedropro/TACO)
-https://github.com/circularfashion/cf-circularity-id-standard
+- [circularity.ID Open Data Standard] - https://github.com/circularfashion/cf-circularity-id-standard - The standard represents the results and findings of an extensive six-year research into the needs of stakeholders in the fashion industry to achieve a circular economy.
 
-
-https://github.com/NOAA-EMC/WW3
-https://github.com/pangeo-data/awesome-open-climate-science
-https://github.com/softwareunderground/awesome-open-geoscience#simulation-and-modelling
-https://github.com/chrisleaman/awesome-coastal
-https://en.wikipedia.org/wiki/Open_energy_system_databases
+## Further Sustaining Resources
+[awesome-open-climate-science](https://github.com/pangeo-data/awesome-open-climate-science) - Awesome Open Atmospheric, Ocean, and Climate Science
+[awesome-earth](https://github.com/philsturgeon/awesome-earth) - "What can I do about the climate crisis?" Here are 326 things you can do.
+[awesome-open-geoscience](https://github.com/softwareunderground/awesome-open-geoscience) - Curated from repositories that make our lives as geoscientists, hackers and data wranglers easier or just more awesome
+[awesome-coastal](https://github.com/chrisleaman/awesome-coastal) - A curated list of awesome resources for coastal engineers and scientists
+[Open_energy_system_databases](https://en.wikipedia.org/wiki/Open_energy_system_databases) - Open energy system database projects employ open data methods to collect, clean, and republish energy-related datasets for open use
 https://www.che-project.eu/data-portal
 https://wiki.openmod-initiative.org/wiki/Open_Models
 https://globalwindatlas.info/
