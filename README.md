@@ -10,7 +10,7 @@
 
 
 ## Electricity Generation
-### Solar Energy
+### Photovoltaic
 - [pvlib-python](https://github.com/pvlib/pvlib-python) - A set of documented functions for simulating the performance of photovoltaic energy systems
 - [pvfactors](https://github.com/SunPower/pvfactors) - Open-source view-factor model for diffuse shading and bifacial PV modeling
 - [gsee](https://github.com/renewables-ninja/gsee) -  Global Solar Energy Estimator
@@ -32,13 +32,13 @@
 - [solcore5](https://github.com/qpv-research-group/solcore5) - A multi-scale, python-based library for the modelling of solar cells and semiconductor materials
 - [solax](https://github.com/squishykid/solax) - Read energy usage data from the real-time API on Solax solar inverters.
 - [bifacialvf](https://github.com/NREL/bifacialvf) - Bifacial PV View Factor model for system performance calculation
-- [solar](https://github.com/oscarperpinan/solar) - allows for reproducible research both for photovoltaics (PV) systems performance and solar radiation.
+- [solar](https://github.com/oscarperpinan/solar) - allows for reproducible research both for photovoltaics systems performance and solar radiation.
 - [SolarTherm](https://github.com/SolarTherm/SolarTherm) - Solar thermal power/fuel station performance simulation and optimisation using Modelica
 - [LibreSolar charge-controller-firmware](https://github.com/LibreSolar/charge-controller-firmware) - Firmware for Libre Solar MPPT/PWM charge controllers
-- [Photovoltaic time series for European countries and different system configurations](https://zenodo.org/record/2613651#.XRtJRP7Rapo)
+- [Photovoltaic time series for European countries](https://zenodo.org/record/2613651#.XRtJRP7Rapo) - Comprises 38 years-long hourly time series representing the photovoltaic capacity factors in every European country (EU-28 plus Serbia, Bosnia-Herzegovina, Norway, and Switzerland)
 
 
-### Wind Energy
+### Wind Turbines
 - [makani](https://github.com/google/makani) - was a project to develop a commercial-scale airborne wind turbine, culminating in a flight test of the Makani M600 off the coast of Norway
 - [IEA-15-240-RWT](https://github.com/IEAWindTask37/IEA-15-240-RWT) - 15MW reference wind turbine repository developed in conjunction with IEA Wind
 - [windpowerlib](https://github.com/wind-python/windpowerlib) - The windpowerlib is a library to model the output of wind turbines and farms
@@ -81,7 +81,6 @@
 ### Biogas / Biomass
 - [sashahafner/biogas](https://github.com/sashahafner/biogas) - Tools for biogas research in R: process biogas data and predict biogas production
 - [biosteam](https://github.com/BioSTEAMDevelopmentGroup/biosteam) - The Biorefinery Simulation and Techno-Economic Analysis Modules
-
 
 
 ## Energy Storage
