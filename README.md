@@ -98,7 +98,7 @@
 - [simses](https://gitlab.lrz.de/open-ees-ses/simses) - Software for techno-economic Simulation of Stationary Energy Storage Systems
 - [CAEBAT OAS](https://vibe.ornl.gov/#introduction) - a flexible, robust, and computationally scalable open-architecture framework that integrates multi-physics and multi- scale battery models
 - [universal-battery-databas](https://github.com/Samuel-Buteau/universal-battery-database) - The Universal Battery Database is an open source software for managing Lithium-ion cell data.
-- [open_BEA](https://gitlab.lrz.de/open-ees-ses/openbea) - open_BEA: Open Battery Models for Electrical Grid Applications
+- [open_BEA](https://gitlab.lrz.de/open-ees-ses/openbea) - Open Battery Models for Electrical Grid Applications
 - [lp_opt](https://gitlab.lrz.de/open-ees-ses/lp_opt) - Linear Programming Optimization Tool for Battery Energy Storage Systems
 - [SLIDE](https://github.com/davidhowey/SLIDE) - SLIDE is a C++ code that simulates degradation of lithium ion cell
 - [equiv-circ-model](https://github.com/batterysim/equiv-circ-model) - An equivalent circuit model for a battery cell, module, and pack
