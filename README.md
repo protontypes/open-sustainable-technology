@@ -70,7 +70,7 @@
 
 
 ### Geothermal Energy
-- [tespy](https://github.com/oemof/tespy)- provides a powerful simulation toolkit for thermal engineering plants such as power plants, district heating systems or heat pumps
+- [tespy](https://github.com/oemof/tespy) - provides a powerful simulation toolkit for thermal engineering plants such as power plants, district heating systems or heat pumps
 - [pygfunction](https://github.com/MassimoCimmino/pygfunction) - An open-source toolbox for the evaluation of thermal response factors (g-functions) of geothermal borehole fields. 
 - [geothermics](https://github.com/Japhiolite/geothermics) - Educational repository with Jupyter Notebooks all around the topic of geothermal energy 
 - [energy2d](https://github.com/charxie/energy2d) - Interactive Heat Transfer Simulations for Everyone
