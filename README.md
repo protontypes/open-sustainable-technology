@@ -5,7 +5,7 @@
 <br></br>
 
 <p align="center">
-  <img src="./img/earth.gif" alt="animated" with="300" height="300" />
+  <img src="./img/earth.gif" alt="animated" with="250" height="250" />
 </p>
 
 
