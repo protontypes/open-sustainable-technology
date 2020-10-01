@@ -373,6 +373,7 @@
 - [WildfirePy](https://github.com/wildfirepy/wildfirepy) - a Python library for Wildfire GIS data analysis.
 - [DeepTreeAttention](https://github.com/weecology/DeepTreeAttention) - Hyperspectral Image Classification with Attention Aided CNNs.
 - [rebird](https://github.com/ropensci/rebird) - rebird is a package to interface with the eBird webservices a real-time, online bird checklist program.
+- [rredlist](https://github.com/ropensci/rredlist) - R client for the IUCN Red List of threatened and endangered species.
 
 ### Ice and Poles
 - [Planet Snowcover](https://github.com/acannistra/planet-snowcover) -  is a project that pairs airborne lidar and Planet Labs satellite imagery with cutting-edge computer vision techniques to identify snow-covered area at unprecedented spatial and temporal resolutions.
