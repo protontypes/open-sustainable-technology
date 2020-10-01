@@ -2,7 +2,6 @@
 
 <h4 align="center"> Gathering state-of-the-art open source technology preserving global energy supply and life resources</h4>
 
-<br></br>
 
 <p align="center">
   <img src="./img/earth.gif" alt="animated" with="250" height="250" />
