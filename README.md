@@ -7,7 +7,36 @@
   <img src="./img/earth.gif" alt="animated" with="250" height="250" />
 </p>
 
-
+- [Electricity Generation](#electricity-generation)
+  * [Photovoltaic](#photovoltaic)
+  * [Wind Turbines](#wind-turbines)
+  * [Hydro Energy](#hydro-energy)
+  * [Geothermal Energy](#geothermal-energy)
+  * [Bioenergy](#bioenergy)
+- [Energy Storage](#energy-storage)
+  * [Batterie](#batterie)
+  * [Hydrogen](#hydrogen)
+- [Energy Distribution and Grids](#energy-distribution-and-grids)
+- [Energy Consumption](#energy-consumption)
+  * [Energy Management and Optimization of Buildings and Cities](#energy-management-and-optimization-of-buildings-and-cities)
+  * [Mobility and Transportation](#mobility-and-transportation)
+  * [Industries](#industries)
+- [System Modeling, Optimisation and Analysis](#system-modeling-optimisation-and-analysis)
+- [Energy System Monitoring and Control](#energy-system-monitoring-and-control)
+- [Datasets on Electricity Consumtion and Generation](#datasets-on-electricity-consumtion-and-generation)
+- [Emissions and Greenhouse Gases](#emissions-and-greenhouse-gases)
+  * [Carbon Footprint](#carbon-footprint)
+  * [Observation](#observation)
+  * [Carbon Capture](#carbon-capture)
+- [Observation and Conservation of Ecosystems](#observation-and-conservation-of-ecosystems)
+  * [Forests and Biodiversity](#forests-and-biodiversity)
+  * [Ice and Poles](#ice-and-poles)
+  * [Ocean and Climate](#ocean-and-climate)
+- [Access and Monitoring of Resources](#access-and-monitoring-of-resources)
+  * [Air](#air)
+  * [Water](#water)
+  * [Soil](#soil)
+- [Circular Economy and Waste](#circular-economy-and-waste)
 
 ## Electricity Generation
 ### Photovoltaic
