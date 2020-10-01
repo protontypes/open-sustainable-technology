@@ -20,7 +20,7 @@
 - [Energy Consumption](#energy-consumption)
   * [Energy Management and Optimization of Buildings and Cities](#energy-management-and-optimization-of-buildings-and-cities)
   * [Mobility and Transportation](#mobility-and-transportation)
-  * [Industries](#industries)
+  * [Industry](#industries)
 - [System Modeling, Optimization and Analysis](#system-modeling-optimization-and-analysis)
 - [Energy System Monitoring and Control](#energy-system-monitoring-and-control)
 - [Datasets on Electricity Consumtion and Generation](#datasets-on-electricity-consumption-and-generation)
@@ -140,8 +140,6 @@
 - [OpenHPL](https://github.com/simulatino/OpenHPL) - is an open-source hydropower library that consists of hydropower unit models and is modelled using Modelica.
 - [GasModels.jl](https://github.com/lanl-ansi/GasModels.jl) - A Julia/JuMP Package for Gas Network Optimization.
 
-### Other
-
 
 ## Energy Distribution and Grids
 - [SimBench](https://github.com/e2nIEE/simbench) - The objective of the research project SimBench is the development of a benchmark dataset to support research in grid planning and operation.
@@ -226,21 +224,13 @@
 - [pybikes](https://github.com/eskerda/pybikes) - provides a set of tools to scrape bike sharing data from different websites and APIs, thus providing a coherent and generalized set of classes and methods to access this sort of information.
 
 
-### Industries
+### Industry
 
 - [Industry Energy Tool](https://github.com/NREL/Industry-Energy-Tool) -  is a calculator developed by NREL for projecting energy efficiency and fuel switching scenarios for the U.S. industrial sector energy use and emissions at the Census Region and county-level.
 - [Industry Energy Data Book](https://github.com/NREL/Industry-energy-data-book) - summarizes the status of, and identifies the key trends in energy use and its underlying economic drivers across the four industrial subsectors: agriculture, construction, manufacturing, and mining.
 - [CalTRACK](https://github.com/energy-market-methods/caltrack) - methods are developed in an open and transparent stakeholder process that uses empirical testing to define replicable methods for calculating normalized metered energy consumption using either monthly or interval data from an existing conditions baseline.
 
 ## Energy System Assessment
-
-<!---
-Vorschlag für Kategorieüberschrift
-
-Reihenfolge geändert, da (System)Analyse for der Optmierung erfolgt.
-
-Ich würde sagen das ES Monitoring and Control dann auch in dieses Kapitel kann.
--->
 
 ### System Modeling
 
