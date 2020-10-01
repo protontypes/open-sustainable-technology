@@ -243,23 +243,22 @@
 - [System Advisor Model](https://github.com/NREL/SAM) - is a simulation program for electricity generation projects. It has models for different kinds of renewable energy systems and financial models for residential, commercial, and utility-scale projects.
 - [PowerGenome](https://github.com/gschivley/PowerGenome) - A tool to quickly and easily create inputs for power systems models.
 - [load_forecasting](https://github.com/pyaf/load_forecasting) - Load forcasting on Delhi area electric power load using ARIMA, RNN, LSTM and GRU models.
-- [REopt_Lite_API](https://github.com/NREL/REopt_Lite_API) - REopt Lite offers a subset of features from NREL's more comprehensive REopt model. Both models provide concurrent, multiple technology integration and optimization capabilities to help organizations meet their cost savings and energy performance goals.
+- [REopt_Lite_API](https://github.com/NREL/REopt_Lite_API) - offers a subset of features from NREL's more comprehensive REopt model. Both models provide concurrent, multiple technology integration and optimization capabilities to help organizations meet their cost savings and energy performance goals.
 - [pandapower](http://www.pandapower.org/) - An easy to use open source tool for power system modeling, analysis and optimization with a high degree of automation.
 - [urbs](https://github.com/tum-ens/urbs) - A linear optimization model for distributed energy systems.
 - [Dispa-SET](https://github.com/energy-modelling-toolkit/Dispa-SET) - allows to model a power system at any level of detail e.g. micro-grid, region, country, continent.
-- [calliope](https://github.com/calliope-project/calliope) - Calliope is a framework to develop energy system models, with a focus on flexibility, high spatial and temporal resolution, the ability to execute many runs based on the same base model, and a clear separation of framework  and model.
+- [Calliope](https://github.com/calliope-project/calliope) - is a framework to develop energy system models, with a focus on flexibility, high spatial and temporal resolution, the ability to execute many runs based on the same base model, and a clear separation of framework  and model.
 - [OSeMOSYS](https://github.com/OSeMOSYS/OSeMOSYS) - is an open source modelling system for long-run integrated assessment and energy planning. It has been employed to develop energy systems models from the scale of continents (African Power Pools, South America, EU28+2) down to the scale of countries, regions and village.
-- [REVUB](https://github.com/VUB-HYDR/REVUB) - The main objective of REVUB is to model how flexible operation of hydropower plants can help renewable electricity mixes with variable solar and wind power to provide reliable electricity supply and load-following services.
-- [FINE](https://github.com/FZJ-IEK3-VSA/FINE) - The FINE python package provides a framework for modeling, optimizing and assessing energy systems.
-- [compas](https://github.com/com-pas/compas-architecture) - The CoMPAS project was formed to develop open source software components related to IEC 61850 model implementation (profile management) and configuration of a power industry Protection Automation and Control System (PACS).
+- [REVUB](https://github.com/VUB-HYDR/REVUB) - The main objective is to model how flexible operation of hydropower plants can help renewable electricity mixes with variable solar and wind power to provide reliable electricity supply and load-following services.
+- [FINE](https://github.com/FZJ-IEK3-VSA/FINE) -  provides a framework for modeling, optimizing and assessing energy systems.
+- [CoMPAS](https://github.com/com-pas/compas-architecture) - was formed to develop open source software components related to IEC 61850 model implementation (profile management) and configuration of a power industry Protection Automation and Control System.
 - [PowerSimulations.jl](https://github.com/NREL-SIIP/PowerSimulations.jl) - is a Julia package for power system modeling and simulation of Power Systems operations.
 - [PowerSystems.jl](https://github.com/NREL-SIIP/PowerSystems.jl) - provides a rigorous data model using Julia structures to enable power systems analysis and modeling.
 - [Balmorel](https://github.com/balmorelcommunity/Balmorel) - is a partial equilibrium model for analysing the electricity and combined heat and power sectors in an international perspective.
 - [DistAIX](https://git.rwth-aachen.de/acs/public/simulation/DistAIXFramework/distaix) - is a simulator for cyber-physical power systems that makes use of high performance computing techniques to scale up the simulation.
-  An agent-based modeling and simulation approach is applied to model the behavior of the electrical system as well as distributed control and decision-making processes.
-- [ontology](https://github.com/OpenEnergyPlatform/ontology) - The Open Energy Ontology  is a domain ontology of the energy-system modelling context.
-- [nempy](https://github.com/UNSW-CEEM/nempy) - This project aims to enhance the Australia electricity industries modelling and analytical capabilities.
-- [NEMO](https://github.com/bje-/NEMO) - The National Electricity Market Optimiser (NEMO) is a chronological dispatch model for testing and optimising different portfolios of conventional and renewable electricity generation technologies.
+- [The Open Energy Ontology](https://github.com/OpenEnergyPlatform/ontology) - is a domain ontology of the energy-system modelling context.
+- [nempy](https://github.com/UNSW-CEEM/nempy) - aims to enhance the Australia electricity industries modelling and analytical capabilities.
+- [NEMO](https://github.com/bje-/NEMO) - The National Electricity Market Optimiser is a chronological dispatch model for testing and optimising different portfolios of conventional and renewable electricity generation technologies.
 - [GlobalEnergyGIS](https://github.com/niclasmattsson/GlobalEnergyGIS) - Generates input data for energy models on renewable energy in arbitrary world regions using public datasets.
 - [IDEAS](https://github.com/open-ideas/IDEAS) - Modelica library allowing simultaneous transient simulation of thermal and electrical systems at both building and feeder level.
 - [Antares Simulator](https://github.com/AntaresSimulatorTeam/Antares_Simulator) - is an Open Source power system simulator to quantify the adequacy or the economic performance of interconnected energy systems, at short or remote time horizons.
@@ -296,7 +295,7 @@
 
 - [OpenEMS](https://github.com/OpenEMS/openems) - Open Source Energy Management System.
 - [eemeter](https://github.com/openeemeter/eemeter) - An open source python package for implementing and developing standard methods for calculating normalized metered energy consumption and avoided energy use.
-- [OperatorFabric](https://github.com/opfab/operatorfabric-core) - OperatorFabric is a modular, extensible, industrial-strength and field-tested platform for use in electricity, water, and other utility operations.
+- [OperatorFabric](https://github.com/opfab/operatorfabric-core) - is a modular, extensible, industrial-strength and field-tested platform for use in electricity, water, and other utility operations.
 - [energy-sparks](https://github.com/Energy-Sparks/energy-sparks) - an open source application that is designed to help schools improve their energy efficiency.
 
 
