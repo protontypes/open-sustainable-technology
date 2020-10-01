@@ -467,6 +467,9 @@ Ich würde sagen das ES Monitoring and Control dann auch in dieses Kapitel kann.
 - [waterquality](https://github.com/RAJohansen/waterquality) - Package designed to detect and quantify water quality and cyanobacterial harmful algal bloom (CHABs) from remotely sensed imagery.
 - [LISFLOOD](https://github.com/ec-jrc/lisflood-code) - is a spatially distributed water resources model, developed by the Joint Research Centre (JRC) of the European Commission since 1997.
 - [FloodMapping](https://github.com/mikejohnson51/FloodMapping) - R package for flood forecasting via the National Water Model.
+- [QGEP](https://github.com/qgep/QGEP) - A waste-water application based on QGIS in compliance with SIA-405.
+- [PooPyLab_Project](https://github.com/toogad/PooPyLab_Project) - A biological wastewater treatment software.
+- [aguaclara](https://github.com/AguaClara/aguaclara) - Python package for designing and performing research on AguaClara water treatment plants.
 
 
 ### Soil
