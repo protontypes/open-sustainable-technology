@@ -108,6 +108,7 @@
 - [FEHM](https://github.com/lanl/FEHM) - has proved to be a valuable asset on a variety of projects of national interest including Environmental Remediation of the Nevada Test Site, the LANL Groundwater Protection Program, geologic CO2 sequestration, Enhanced Geothermal Energy programs, Oil and Gas production, Nuclear Waste Isolation, and Arctic Permafrost.
 - [thermo](https://github.com/CalebBell/thermo) - Thermodynamics, phase equilibria, transport properties and chemical database component of Chemical Engineering Design Library.
 
+
 ### Bioenergy
 - [sashahafner/biogas](https://github.com/sashahafner/biogas) - Tools for biogas research in R: process biogas data and predict biogas production.
 - [biosteam](https://github.com/BioSTEAMDevelopmentGroup/biosteam) - The Biorefinery Simulation and Techno-Economic Analysis Modules.
@@ -262,6 +263,9 @@
 - [IDEAS](https://github.com/open-ideas/IDEAS) - Modelica library allowing simultaneous transient simulation of thermal and electrical systems at both building and feeder level.
 - [Antares Simulator](https://github.com/AntaresSimulatorTeam/Antares_Simulator) - is an Open Source power system simulator to quantify the adequacy or the economic performance of interconnected energy systems, at short or remote time horizons.
 - [Hierarchical Engine for Large-scale Infrastructure Co-Simulation](https://github.com/GMLC-TDC/HELICS) - Today the core uses are in the energy domain, where there is extensive and growing support for a wide-range of electric power system, natural gas, communications and control-schemes, transportation, buildings, and related domain tools.
+- [oemof-solph](https://github.com/oemof/oemof-solph) - is a model generator for energy system modelling and optimisation.
+- [oemof-thermal](https://github.com/oemof/oemof-thermal) -  provides tools to model thermal energy components as an extension of oemof.solph, e.g. compression heat pumps, concentrating solar plants, thermal storages and solar thermal collectors.
+
 
 ### Analysis
 
