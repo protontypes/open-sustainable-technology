@@ -22,10 +22,10 @@
   * [Mobility and Transportation](#mobility-and-transportation)
   * [Industry](#industry)
 - [Energy System Assessment](#energy-system-assessment)
-  * [System Modeling](#system-modeling)
-  * [System Analysis](#system-analysis)
-  * [System Optimization](#system-optimization)
-  * [Energy System Monitoring and Control](#energy-system-monitoring-and-control)
+  * [Modeling](#modeling)
+  * [Analysis](#analysis)
+  * [Optimization](#optimization)
+  * [Monitoring and Control](#monitoring-and-control)
 - [Datasets on Electricity Consumption and Generation](#datasets-on-electricity-consumption-and-generation)
 - [Emissions and Greenhouse Gases](#emissions-and-greenhouse-gases)
   * [Carbon Footprint](#carbon-footprint)
@@ -235,7 +235,7 @@
 
 ## Energy System Assessment
 
-### System Modeling
+### Modeling
 
 - [GCAM](https://github.com/JGCRI/gcam-core) - is a dynamic-recursive model with technology-rich representations of the economy, energy sector, land use and water linked to a climate model that can be used to explore climate change mitigation policies including carbon taxes, carbon trading, regulations and accelerated deployment of energy technology.
 - [System Advisor Model](https://github.com/NREL/SAM) - is a simulation program for electricity generation projects. It has models for different kinds of renewable energy systems and financial models for residential, commercial, and utility-scale projects.
@@ -263,7 +263,7 @@
 - [Antares Simulator](https://github.com/AntaresSimulatorTeam/Antares_Simulator) - is an Open Source power system simulator to quantify the adequacy or the economic performance of interconnected energy systems, at short or remote time horizons.
 - [Hierarchical Engine for Large-scale Infrastructure Co-Simulation](https://github.com/GMLC-TDC/HELICS) - Today the core uses are in the energy domain, where there is extensive and growing support for a wide-range of electric power system, natural gas, communications and control-schemes, transportation, buildings, and related domain tools.
 
-### System Analysis
+### Analysis
 
 - [Open Energy Platform](https://github.com/OpenEnergyPlatform/oeplatform) - aims to ensure quality, transparency and reproducibility in energy system research. It is a collection of various tools and information and that help working with energy related data.
 - [PyPSA](https://github.com/PyPSA/PyPSA) - is a free software toolbox for simulating and optimising modern power systems that include features such as conventional generators with unit commitment, variable wind and solar generation, storage units, coupling to other energy sectors, and mixed alternating and direct current networks.
@@ -275,7 +275,7 @@
 - [energyRt](https://github.com/energyRt/energyRt) - Making Energy Systems Modeling as simple as a linear regression in R.
 - [MVS](https://github.com/rl-institut/mvs_eland) - The multi-vector simulator allows the evaluation of local sector-coupled energy systems that include the energy carriers electricity, heat and/or gas.
 
-### System Optimization
+### Optimization
 
 - [reV](https://github.com/NREL/reV) - enables the efficient and scalable computation of renewable energy generation, levelized cost of energy, application of geospatial exclusion layers, and generation of renewable energy supply curves.
 - [openCEM](https://github.com/openCEMorg/openCEM) - Capacity Expansion Model and Optimiser for the Australian National Energy Market.
@@ -287,7 +287,7 @@
 - [CityLearn](https://github.com/intelligent-environments-lab/CityLearn) - Official reinforcement learning environment for demand response and load shaping.
 - [rl-testbed-for-energyplus](https://github.com/IBM/rl-testbed-for-energyplus) - Reinforcement Learning Testbed for Power Consumption Optimization using EnergyPlus.
 
-### Energy System Monitoring and Control
+### Monitoring and Control
 
 - [OpenEMS](https://github.com/OpenEMS/openems) - Open Source Energy Management System.
 - [eemeter](https://github.com/openeemeter/eemeter) - An open source python package for implementing and developing standard methods for calculating normalized metered energy consumption and avoided energy use.
