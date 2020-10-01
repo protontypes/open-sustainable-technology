@@ -14,7 +14,7 @@
   * [Geothermal Energy](#geothermal-energy)
   * [Bioenergy](#bioenergy)
 - [Energy Storage](#energy-storage)
-  * [Batterie](#batterie)
+  * [Battery](#battery)
   * [Hydrogen](#hydrogen)
 - [Energy Distribution and Grids](#energy-distribution-and-grids)
 - [Energy Consumption](#energy-consumption)
@@ -116,7 +116,7 @@
 
 ## Energy Storage
 
-### Batterie
+### Battery
 - [foxBMS](https://github.com/foxBMS/foxbms) -  is a free, open and flexible development environment to design battery management systems. It is the first modular open source BMS development platform.
 - [impedance.py](https://github.com/ECSHackWeek/impedance.py) - A Python package for working with electrochemical impedance data.
 - [PyBaMM](https://github.com/pybamm-team/PyBaMM) - Fast and flexible physics-based battery models in Python.
