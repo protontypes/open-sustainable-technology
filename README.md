@@ -1,6 +1,6 @@
 <h1 align="center">Awesome Sustainable Technology </h1>
 
-<h4 align="center"> Gathering of state-of-the-art open source technology preserving global energy supply and life resources</h4>
+<h4 align="center"> Gathering state-of-the-art open source technology preserving global energy supply and life resources</h4>
 
 <br></br>
 
