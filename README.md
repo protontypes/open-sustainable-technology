@@ -166,6 +166,7 @@
 
 ### Buildings and Cities
 
+- [LoadProfileGenerator](https://github.com/FZJ-IEK3-VSA/LoadProfileGenerator) - Program for generating load curves for residential consumers. Agentbased and extremly detailed
 - [The-building-data-genome-project](https://github.com/buds-lab/the-building-data-genome-project) - A collection of non-residential buildings for performance analysis and algorithm benchmarking.
 - [VOLTTRON](https://github.com/VOLTTRON/volttron) - The platform provides services for collecting and storing data from buildings and devices and provides an environment for developing applications which interact with that data.
 - [OpenEnergyMonitor](https://github.com/openenergymonitor) - Open-source energy monitoring tools to help us relate to our use of energy, our energy systems and the challenge of sustainable energy.
@@ -227,6 +228,7 @@
 - [WoBike](https://github.com/ubahnverleih/WoBike) - Public transport and multimodal routing apps could benefit from showing nearby bikes from bikesharing services. So here's a list showing the APIs of a few of these platforms.
 - [multicycles](https://github.com/PierrickP/multicycles) - aggregates on one map, more than 100 share vehicles like bikes, scooters, mopeds and cars.
 - [pybikes](https://github.com/eskerda/pybikes) - provides a set of tools to scrape bike sharing data from different websites and APIs, thus providing a coherent and generalized set of classes and methods to access this sort of information.
+- [sustainable-mobility-api](https://gitlab.com/mshepherd/sustainable-mobility-api) - consists of a Python library and HTTP API for estimating the environmental impact of personal mobility.
 
 
 ### Industry
@@ -328,6 +330,7 @@
 - [Bloom](https://github.com/tmrowco/northapp-contrib) - is a SaaS that allow companies to become climate leaders, from calculating their climate impact to communicating about their climate efforts. It connects to as many data sources as possible to assess your carbon footprint and find mitigation opportunities.
 - [NMF.earth app](https://github.com/NMF-earth/nmf-app) - Understand and reduce your carbon footprint seedling iOS & Android.
 - [EnergyPATHWAYS](https://github.com/energyPATHWAYS/EnergyPATHWAYS) - model is a professional, open-source energy and carbon planning tool for use in evaluating long-term, economy-wide greenhouse gas mitigation scenarios.
+- [CarbonFootprint](https://gitlab.com/aossie/CarbonFootprint) - A browser extension that displays carbon footprint information in multiple map services.
 
 ### Observation
 - [ghg emissions indicator](https://github.com/bcgov/ghg-emissions-indicator) - R scripts for a GHG emissions indicator published on Environmental Reporting British Columbia.
@@ -374,6 +377,7 @@
 - [DeepTreeAttention](https://github.com/weecology/DeepTreeAttention) - Hyperspectral Image Classification with Attention Aided CNNs.
 - [rebird](https://github.com/ropensci/rebird) - rebird is a package to interface with the eBird webservices a real-time, online bird checklist program.
 - [rredlist](https://github.com/ropensci/rredlist) - R client for the IUCN Red List of threatened and endangered species.
+- [OpenSimRoot](https://gitlab.com/rootmodels/OpenSimRoot) - is a source code for simulating root architecture, nutrient and water uptake and more.
 
 ### Ice and Poles
 - [Planet Snowcover](https://github.com/acannistra/planet-snowcover) -  is a project that pairs airborne lidar and Planet Labs satellite imagery with cutting-edge computer vision techniques to identify snow-covered area at unprecedented spatial and temporal resolutions.
@@ -425,6 +429,7 @@
 - [weathercan](https://github.com/ropensci/weathercan) - This package makes it easier to search for and download multiple months/years of historical weather data from Environment and Climate Change Canada (ECCC) website.
 - [hydroscoper](https://github.com/ropensci/hydroscoper) - R interface to the Greek National Data Bank for Hydrometeorological Information.
 - [GLOCOFFS](https://github.com/WPringle/GLOCOFFS) - An ADCIRC-based global storm tide modeling system providing real-time forecasts of coastal flooding.
+- [The Global Environmental Multiscale Model](https://gitlab.com/eccc/gem/gem) - is an integrated forecasting and data assimilation system developed by the Atmospheric Numerical Prediction Research Section, Meteorological Research Division, of Environment and Climate Change Canada
 
 
 ## Access and Monitoring of Resources
@@ -455,6 +460,8 @@
 - [The General Lake Model](https://github.com/AquaticEcoDynamics/GLM) - is a water balance and one-dimensional vertical stratification hydrodynamic model.
 - [nhdR](https://github.com/jsta/nhdR) - R interface to the US National Hydrography Dataset.
 - [modflow6](https://github.com/MODFLOW-USGS/modflow6) - has been widely used by academics, private consultants, and government scientists to accurately, reliably, and efficiently simulate groundwater flow.
+- [iMOD](https://oss.deltares.nl/web/imod/home) - is an easy to use Graphical User Interface + an accelerated Deltares-version of MODFLOW with fast, flexible and consistent sub-domain modeling techniques.
+- [Imod-Python](https://gitlab.com/deltares/imod/imod-python) - is designed to help you in your MODFLOW groundwater modeling efforts
 - [HydroShare](https://github.com/hydroshare/hydroshare) - HydroShare is a website and hydrologic information system for sharing hydrologic data and models aimed at giving users the cyberinfrastructure needed to innovate and collaborate in research to solve water problems.
 - [pysheds](https://github.com/mdbartos/pysheds) - Simple and fast watershed delineation in python.
 - [WhiteboxTools](https://github.com/jblindsay/whitebox-tools) - WhiteboxTools is an advanced geospatial data analysis platform.
@@ -469,6 +476,7 @@
 - [QGEP](https://github.com/qgep/QGEP) - A waste-water application based on QGIS in compliance with SIA-405.
 - [PooPyLab_Project](https://github.com/toogad/PooPyLab_Project) - A biological wastewater treatment software.
 - [aguaclara](https://github.com/AguaClara/aguaclara) - Python package for designing and performing research on AguaClara water treatment plants.
+- [RTC-Tools](https://gitlab.com/deltares/rtc-tools) - a toolbox for control and optimization of water systems.
 
 
 ### Soil
