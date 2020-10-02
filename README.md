@@ -18,7 +18,7 @@
   * [Hydrogen](#hydrogen)
 - [Energy Distribution and Grids](#energy-distribution-and-grids)
 - [Energy Consumption](#energy-consumption)
-  * [Energy Management and Optimization of Buildings and Cities](#energy-management-and-optimization-of-buildings-and-cities)
+  * [Buildings and Cities](#Buildings-and-Cities)
   * [Mobility and Transportation](#mobility-and-transportation)
   * [Industry](#industry)
 - [Energy System Assessment](#energy-system-assessment)
@@ -164,7 +164,7 @@
 
 ## Energy Consumption
 
-### Energy Management and Optimization of Buildings and Cities
+### Buildings and Cities
 
 - [The-building-data-genome-project](https://github.com/buds-lab/the-building-data-genome-project) - A collection of non-residential buildings for performance analysis and algorithm benchmarking.
 - [VOLTTRON](https://github.com/VOLTTRON/volttron) - The platform provides services for collecting and storing data from buildings and devices and provides an environment for developing applications which interact with that data.
