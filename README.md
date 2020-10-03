@@ -386,14 +386,14 @@ solved in time.
 - [MODIStsp](https://github.com/ropensci/MODIStsp) - An "R" package for automatic download and preprocessing of MODIS Land Products Time Series.
 - [Sea ice drift](https://github.com/nansencenter/sea_ice_drift) - Sea ice drift from Sentinel-1 SAR imagery using open source feature tracking.
 - [smrt](https://github.com/smrt-model/smrt) - Snow Microwave Radiative Transfert model to compute thermal emission and backscatter from snowpack.
-[PlantCV](https://github.com/danforthcenter/plantcv) -  Plant phenotyping using computer vision.
-[OGGM](https://github.com/OGGM/oggm) - is a modular open source model for glacier dynamics.
-[CICE](https://github.com/CICE-Consortium/CICE) - is a computationally efficient model for simulating the growth, melting, and movement of polar sea ice.
-[Icepack](https://github.com/CICE-Consortium/CICE-Icepack) - contains files for Icepack, the column physics of the sea ice model CICE.
-[PISM](https://github.com/pism/pism) - The Parallel Ice Sheet Model is an open source, parallel, high-resolution ice sheet model.
-[icepack](https://github.com/icepack/icepack) - Finite element modeling of glaciers and ice sheets.
-[DeepBedMap](https://github.com/weiji14/deepbedmap) - Using a deep neural network to better resolve the bed topography of Antarctica.
-[OSSP](https://github.com/wrightni/OSSP) - Open Source Algorithm for Detecting Sea Ice Surface Features in High Resolution Optical Imagery.
+- [PlantCV](https://github.com/danforthcenter/plantcv) -  Plant phenotyping using computer vision.
+- [OGGM](https://github.com/OGGM/oggm) - is a modular open source model for glacier dynamics.
+- [CICE](https://github.com/CICE-Consortium/CICE) - is a computationally efficient model for simulating the growth, melting, and movement of polar sea ice.
+- [Icepack](https://github.com/CICE-Consortium/CICE-Icepack) - contains files for Icepack, the column physics of the sea ice model CICE.
+- [PISM](https://github.com/pism/pism) - The Parallel Ice Sheet Model is an open source, parallel, high-resolution ice sheet model.
+- [icepack](https://github.com/icepack/icepack) - Finite element modeling of glaciers and ice sheets.
+- [DeepBedMap](https://github.com/weiji14/deepbedmap) - Using a deep neural network to better resolve the bed topography of Antarctica.
+- [OSSP](https://github.com/wrightni/OSSP) - Open Source Algorithm for Detecting Sea Ice Surface Features in High Resolution Optical Imagery.
 
 
 ### Ocean and Climate
