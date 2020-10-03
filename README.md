@@ -433,6 +433,7 @@ solved in time.
 - [GLOCOFFS](https://github.com/WPringle/GLOCOFFS) - An ADCIRC-based global storm tide modeling system providing real-time forecasts of coastal flooding.
 - [The Global Environmental Multiscale Model](https://gitlab.com/eccc/gem/gem) - is an integrated forecasting and data assimilation system developed by the Atmospheric Numerical Prediction Research Section, Meteorological Research Division, of Environment and Climate Change Canada
 - [leaflet-velocity](https://github.com/danwild/leaflet-velocity) - Create a canvas visualisation layer for direction and intensity of arbitrary velocities (e.g. wind, ocean current).
+- [OpenDrift](https://github.com/OpenDrift/opendrift) - is a software for modeling the trajectories and fate of objects or substances drifting in the ocean, or even in the atmosphere.
 
 
 ## Access and Monitoring of Resources
