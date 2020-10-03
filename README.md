@@ -434,8 +434,13 @@ solved in time.
 - [The Global Environmental Multiscale Model](https://gitlab.com/eccc/gem/gem) - is an integrated forecasting and data assimilation system developed by the Atmospheric Numerical Prediction Research Section, Meteorological Research Division, of Environment and Climate Change Canada
 - [leaflet-velocity](https://github.com/danwild/leaflet-velocity) - Create a canvas visualisation layer for direction and intensity of arbitrary velocities (e.g. wind, ocean current).
 - [OpenDrift](https://github.com/OpenDrift/opendrift) - is a software for modeling the trajectories and fate of objects or substances drifting in the ocean, or even in the atmosphere.
-- [OceanSpy](https://github.com/hainegroup/oceanspy) -  is an open-source and user-friendly Python package that enables scientists and interested amateurs to analyze and visualize ocean model datasets
-
+- [OceanSpy](https://github.com/hainegroup/oceanspy) -  is an open-source and user-friendly Python package that enables scientists and interested amateurs to analyze and visualize ocean model datasets.
+- [Iris](https://github.com/SciTools/iris) - is a powerful, format-agnostic, community-driven Python package for analysing and visualising Earth science data.
+- [Veros](https://github.com/team-ocean/veros) - powerful tool that makes high-performance ocean modeling approachable and fun.
+- [oce](https://github.com/dankelley/oce) - R package for oceanographic processing.
+- [podaacpy](https://github.com/nasa/podaacpy) - A python utility library for interacting with NASA JPL's Physical Oceanography Distributed Active Archive Center.
+- [Ocean-Data-Map-Project](https://github.com/DFO-Ocean-Navigator/Ocean-Data-Map-Project) - is a Data Visualization tool that enables users to discover and view 3D ocean model output quickly and easily.
+- [AIBECS.jl](https://github.com/JuliaOcean/AIBECS.jl) - is a Julia package that provides ocean biogeochemistry modelers with an easy-to-use interface for creating and running models of the ocean system.
 
 ## Access and Monitoring of Resources
 
