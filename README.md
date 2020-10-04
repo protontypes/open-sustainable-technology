@@ -41,7 +41,7 @@
   * [Soil](#soil)
 - [Circular Economy and Waste](#circular-economy-and-waste)
 
-_Your contribution is necessary to keep this list alive and to expand it. You can read more about the list and how you can participate in the [Contribution Guide](CONTRIBUTING.md)._ Maintenance is carried out by [protontypes](https://protontypes.eu/). We are an _Open Accelerator for Free and Sustainable Innovation__
+_Your contribution is necessary to keep this list alive and to expand it. You can read more about the list and how you can participate in the [Contribution Guide](CONTRIBUTING.md)._ Maintenance is carried out by [protontypes](https://protontypes.eu/). We are an _Open Accelerator for Free and Sustainable Innovation._
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/protontypes?style=social)
 
