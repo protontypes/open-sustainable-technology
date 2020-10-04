@@ -368,7 +368,7 @@ solved in time.
 - [CO2 Emission Datasets](https://www.che-project.eu/data-portal) - The CHE Data Portal provides an interface to the distributed data used and made available through the project, either as input data sets or as resulting data sets.
 
 ### Carbon Capture
-- [SimCCS](https://github.com/simccs/SimCCS) - is a software platform for carbon capture and storage (CCS) infrastructure design.
+- [SimCCS](https://github.com/simccs/SimCCS) - is a software platform for carbon capture and storage infrastructure design.
 - [FOQUS](https://github.com/CCSI-Toolset/FOQUS) - Framework for Optimization and Quantification of Uncertainty and Surrogates.
 - [Carbon Capture and Storage](https://github.com/yohanesnuwara/carbon-capture-and-storage) - This is a complete modelling workflow that integrates reservoir simulation data, rock physics, time-lapse seismic, and geomechanics of CO2 injection in carbonate rock.
 
@@ -395,11 +395,11 @@ solved in time.
 - [Digital Forestry Toolbox](https://github.com/mparkan/Digital-Forestry-Toolbox) - A collection of digital forestry tools for Matlab/Octave.
 - [pyfor](https://github.com/brycefrank/pyfor) - Tools for analyzing aerial point clouds of forest data.
 - [DeepForest](https://github.com/weecology/DeepForest) - Python Package for Tree Crown Detection in Airborne RGB imagery.
-- [pyMETRIC](https://github.com/WSWUP/pymetric) - is a set of Python based tools developed for estimating and mapping evapotranspiration (ET) for large areas, utilizing the Landsat image archive.
+- [pyMETRIC](https://github.com/WSWUP/pymetric) - is a set of Python based tools developed for estimating and mapping evapotranspiration for large areas, utilizing the Landsat image archive.
 - [vegMonitor](https://github.com/atreyasha/vegMonitor) - R-based Random Forest Algorithm to classify vegetation cover in Dharamshala Tehsil and conduct vegetation loss detection.
 - [NeonTreeEvaluation](https://github.com/weecology/NeonTreeEvaluation) - Benchmark dataset for tree detection for airborne RGB, Hyperspectral and LIDAR imagery.
 - [PyCrown](https://github.com/manaakiwhenua/pycrown) - Fast raster-based individual tree segmentation for LiDAR data.
-- [canopyLazR](https://github.com/akamoske/canopyLazR) - R package to estimate leaf area density (LAD) and leaf area index (LAI) from airborne LiDAR point clouds.
+- [canopyLazR](https://github.com/akamoske/canopyLazR) - R package to estimate leaf area density and leaf area index from airborne LiDAR point clouds.
 - [forestlas](https://github.com/philwilkes/forestlas) - Code for generating metrics of forest vertical structure from airborne LiDAR data.
 - [OpenTreeMap](https://github.com/OpenTreeMap/otm-core) - is a collaborative platform for crowdsourced tree inventory, ecosystem services calculations, urban forestry analysis, and community engagement.
 - [WildfirePy](https://github.com/wildfirepy/wildfirepy) - a Python library for Wildfire GIS data analysis.
@@ -407,7 +407,7 @@ solved in time.
 - [rebird](https://github.com/ropensci/rebird) - rebird is a package to interface with the eBird webservices a real-time, online bird checklist program.
 - [rredlist](https://github.com/ropensci/rredlist) - R client for the IUCN Red List of threatened and endangered species.
 - [OpenSimRoot](https://gitlab.com/rootmodels/OpenSimRoot) - is a source code for simulating root architecture, nutrient and water uptake and more.
-- [PyETo](https://github.com/woodcrafty/PyETo) -  a Python library for calculating reference crop evapotranspiration (ETo), sometimes referred to as potential evapotranspiration (PET)
+- [PyETo](https://github.com/woodcrafty/PyETo) -  a Python library for calculating reference crop evapotranspiration, sometimes referred to as potential evapotranspiration
 
 
 ### Ice and Poles
@@ -454,7 +454,7 @@ solved in time.
 - [GOLD](https://code.google.com/archive/p/gold-omod/) - stands for Generalized Ocean Layer Dynamics and is a hybrid coordinate finite volume ocean model code funded by NOAA and developed by the ocean group at NOAA-GFDL and Princeton University.
 - [FluxEngine](https://github.com/oceanflux-ghg/FluxEngine) - is an open source atmosphere ocean gas flux data processing toolbox.
 - [eeweather](https://github.com/openeemeter/eeweather) - Fetch NCDC ISD, TMY3, or CZ2010 weather data that corresponds to ZIP Code Tabulation Areas or Latitude/Longitude.
-- [rrricanes](https://github.com/ropensci/rrricanes) -  is a R library that extracts information from [available archives](http://www.nhc.noaa.gov/archive/1998/1998archive.shtml) on past and current tropical cyclones.
+- [rrricanes](https://github.com/ropensci/rrricanes) -  is a R library that extracts information from Atlantic and east Pacific hurricanes and tropical storms
 - [GSODR](https://github.com/ropensci/GSODR) - Global Surface Summary of the Day ('GSOD') Weather Data Client for R.
 - [stationaRy](https://github.com/rich-iannone/stationaRy) - Get hourly meteorological data from one of thousands of global stations.
 - [weathercan](https://github.com/ropensci/weathercan) - This package makes it easier to search for and download multiple months/years of historical weather data from Environment and Climate Change Canada (ECCC) website.
@@ -510,7 +510,7 @@ solved in time.
 - [KnowFlow](https://github.com/KnowFlow/KnowFlow_AWM) - KnowFlow Automatic Water Monitoring device is an open sourced tool enable everyone having access to first hand water quality data with low cost.
 - [gwells](https://github.com/bcgov/gwells) - Groundwater Wells and Aquifers application for the Ministry of Environment in British Columbia.
 - [waterquality](https://github.com/RAJohansen/waterquality) - Package designed to detect and quantify water quality and cyanobacterial harmful algal bloom (CHABs) from remotely sensed imagery.
-- [LISFLOOD](https://github.com/ec-jrc/lisflood-code) - is a spatially distributed water resources model, developed by the Joint Research Centre (JRC) of the European Commission since 1997.
+- [LISFLOOD](https://github.com/ec-jrc/lisflood-code) - is a spatially distributed water resources model, developed by the Joint Research Centre of the European Commission since 1997.
 - [FloodMapping](https://github.com/mikejohnson51/FloodMapping) - R package for flood forecasting via the National Water Model.
 - [QGEP](https://github.com/qgep/QGEP) - A waste-water application based on QGIS in compliance with SIA-405.
 - [PooPyLab_Project](https://github.com/toogad/PooPyLab_Project) - A biological wastewater treatment software.
