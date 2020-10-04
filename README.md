@@ -41,6 +41,22 @@
   * [Soil](#soil)
 - [Circular Economy and Waste](#circular-economy-and-waste)
 
+## Guideline
+### Energy Supply
+A global energy supply is a central basis for human life. The following aspects should be the focus of attention in order to ensure global scalability:
+
+* Decentralised supply
+* High availability
+* Low impact on vital natural resources such as climate, water, soil or forests
+* High robustness and easy maintenance
+
+In order to understand the impact on different ecosystems and other natural resources, these need to be monitored and recorded. Only in this way can the impact of our actions be understood on a global scale. Besides
+
+### Vital Natural Resources
+All life on earth is based on the availability of limited natural resources. Ensuring quality and ensuring accessibility for all life forms is a central task for sustainable technology.
+
+### Contribution
+
 _Your contribution is necessary to keep this list alive and to expand it. You can read more about the list and how you can participate in the [Contribution Guide](CONTRIBUTING.md)._ Maintenance is carried out by [protontypes](https://protontypes.eu/). We are an _Open Accelerator for Free and Sustainable Innovation._
 
 [![](https://img.shields.io/twitter/follow/protontypes?style=social)](https://twitter.com/protontypes)
