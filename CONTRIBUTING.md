@@ -35,6 +35,7 @@ Additions on the list will be done by Pull Requests.
 - [ ] Insert the project into one of the categories of your fork. We can discuss later on in the 'Pull Request' comments whether another category fits better or we need to open a new one. 
 - [ ] Add you project in the follwing format: 
  ``- [Project Name](Project URL) - A sentence that describes your project and what makes it different from others.``
+- [ ] Describe in at least one sentence why you think the project meets the guidelines. 
 - [ ] Create a pull requests and wait for the reaction of the maintainer. We may ask you additional questions or you may need to make changes to your pull request.
 - [ ] To reorder the list or for creating new catagories please open an issue. After a discussion in the issue comments we can decide on how to reorganize the list based on a pull requests from you.
 
