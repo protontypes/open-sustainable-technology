@@ -24,7 +24,7 @@ In order to understand the impact on different ecosystems and other natural reso
 
 
 ## How to contribute to the list 
-Additions on the list will be done by Pull Requests. (https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
+Additions on the list will be done by Pull Requests. 
 - [ ] Every new project on the list needs to be a new pull request.
 - [ ] Create a fork of awesome-sustainable-technology. 
 - [ ] Insert the project into one of the categories of your fork. We can discuss later on in the 'Pull Request' comments whether another category fits better or we need to open a new one. 
@@ -33,4 +33,4 @@ Additions on the list will be done by Pull Requests. (https://docs.github.com/en
 - [ ] Create a pull requests and wait for the reaction of the maintainer. We may ask you additional questions or you may need to make changes to your pull request.
 - [ ] To reorder the list or for creating new catagories please open an issue. After a discussion in the issue comments we can decide on how to reorganize the list based on a pull requests from you.
 
-Further details on how do `Pull Requests` can be found in the offical GitHub [documentation].
+Further details on how do `Pull Requests` can be found in the offical GitHub [documentation](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
