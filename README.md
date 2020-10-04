@@ -7,7 +7,7 @@
   <img src="./img/earth.gif" alt="animated" with="250" height="250" />
 </p>
 
-- [Electricity Generation](#electricity-generation)
+- [Renewable Energy Sources](#renewable-energy-sources)
   * [Photovoltaic](#photovoltaic)
   * [Wind Turbines](#wind-turbines)
   * [Hydro Energy](#hydro-energy)
@@ -45,7 +45,7 @@ _Your contribution is necessary to keep this list alive and to expand it. You ca
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/protontypes?style=social)
 
-## Electricity Generation
+## Renewable Energy Sources
 ### Photovoltaic
 - [pvlib-python](https://github.com/pvlib/pvlib-python) - A set of documented functions for simulating the performance of photovoltaic energy systems.
 - [pvfactors](https://github.com/SunPower/pvfactors) - Open-source view-factor model for diffuse shading and bifacial PV modeling.
