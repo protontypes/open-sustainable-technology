@@ -4,7 +4,7 @@
 
 
 <p align="center">
-  <img src="./img/earth.gif" alt="animated" with="250" height="250" />
+  <img src="earth.gif" alt="animated" with="250" height="250" />
 </p>
 
 - [Renewable Energy Sources](#renewable-energy-sources)
