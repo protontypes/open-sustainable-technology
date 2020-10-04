@@ -1,6 +1,6 @@
 <h1 align="center">Awesome Sustainable Technology </h1>
 
-<h4 align="center"> Gathering state-of-the-art open source technology preserving global energy supply and vital natural resources</h4>
+<h4 align="center"> Gathering state-of-the-art open source technology preserving global energy supply and vital natural resources </h4>
 
 
 <p align="center">
@@ -18,7 +18,7 @@
   * [Hydrogen](#hydrogen)
 - [Energy Distribution and Grids](#energy-distribution-and-grids)
 - [Energy Consumption](#energy-consumption)
-  * [Buildings and Cities](#Buildings-and-Cities)
+  * [Buildings and Cities](#buildings-and-cities)
   * [Mobility and Transportation](#mobility-and-transportation)
   * [Industry](#industry)
 - [Energy System Assessment](#energy-system-assessment)
@@ -40,6 +40,10 @@
   * [Water](#water)
   * [Soil](#soil)
 - [Circular Economy and Waste](#circular-economy-and-waste)
+
+_Your contribution is necessary to keep this list alive and to expand it. You can read more about the list and how you can participate in the [Contribution Guide](CONTRIBUTING.md)._ Maintenance is carried out by [protontypes](https://protontypes.eu/): An Open Accelerator for Free and Sustainable Innovation
+
+![Twitter Follow](https://img.shields.io/twitter/follow/protontypes?style=social)
 
 ## Electricity Generation
 ### Photovoltaic
