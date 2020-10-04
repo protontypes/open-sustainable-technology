@@ -373,7 +373,7 @@ solved in time.
 - [Carbon Capture and Storage](https://github.com/yohanesnuwara/carbon-capture-and-storage) - This is a complete modelling workflow that integrates reservoir simulation data, rock physics, time-lapse seismic, and geomechanics of CO2 injection in carbonate rock.
 
 ## Observation and Conservation of Ecosystems
-### Forests and Biodiversity
+### Vegitation and Biodiversity
 - [carbon budget](https://github.com/wri/carbon-budget) - This model maps gross greenhouse gas emissions from forests between 2001 and 2015, gross carbon removals by forests between 2001, and the difference between them (net flux).
 - [treeseg](https://github.com/apburt/treeseg/) - has been developed to near-automatically extract tree-level point clouds from high-density larger-area lidar point clouds acquired in forests.
 - [fgeo](https://github.com/forestgeo/fgeo) - Analyze forest diversity and dynamics.
@@ -407,6 +407,8 @@ solved in time.
 - [rebird](https://github.com/ropensci/rebird) - rebird is a package to interface with the eBird webservices a real-time, online bird checklist program.
 - [rredlist](https://github.com/ropensci/rredlist) - R client for the IUCN Red List of threatened and endangered species.
 - [OpenSimRoot](https://gitlab.com/rootmodels/OpenSimRoot) - is a source code for simulating root architecture, nutrient and water uptake and more.
+- [PyETo](https://github.com/woodcrafty/PyETo) -  a Python library for calculating reference crop evapotranspiration (ETo), sometimes referred to as potential evapotranspiration (PET)
+
 
 ### Ice and Poles
 - [Planet Snowcover](https://github.com/acannistra/planet-snowcover) -  is a project that pairs airborne lidar and Planet Labs satellite imagery with cutting-edge computer vision techniques to identify snow-covered area at unprecedented spatial and temporal resolutions.
@@ -524,7 +526,7 @@ solved in time.
 - [sharpshootR](https://github.com/ncss-tech/sharpshootR) - Miscellaneous soil data management, summary, visualization, and conversion utilities to support soil survey.
 - [soilDB](https://github.com/ncss-tech/soilDB) - Simplified Access to NCSS Soil Databases.
 - [Landslides Detection](https://github.com/mhscience/landslides_detection) - Machine learning tool to detect landslides from optical satellite imagery.
-
+- [pyTSEB](https://github.com/hectornieto/pyTSEB) - contains Python code for Two Source Energy Balance models (Priestley-Taylor TSEB-PT, Dual Time Difference DTD and TSEB with component soil and canopy temperatures TSEB-2T) for estimating sensible and latent heat flux based on measurements of radiometric surface temperature.
 
 ## Circular Economy and Waste
 - [ONEARMY](https://github.com/ONEARMY/community-platform) - A series of tools for the Precious Plastic community to collaborate around the world and tackle plastic waste.
