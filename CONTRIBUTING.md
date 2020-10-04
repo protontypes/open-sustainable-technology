@@ -4,6 +4,7 @@ protontypes welcomes all new contributors to the "awesome-sustainable-technology
 # Guideline
 > _Gathering state-of-the-art open source technology preserving global energy supply and vital natural resources_
 
+## Energy Supply
 A global energy supply is a central basis for human life. The following aspects should be the focus of attention in order to ensure global scalability:
 
 * Decentralised supply
@@ -11,7 +12,11 @@ A global energy supply is a central basis for human life. The following aspects 
 * Low impact on vital natural resources such as climate, water, soil or forests
 * High robustness and easy maintenance 
 
-In order to understand the impact on different ecosystems and other natural resources, these need to be monitored and recorded. Only in this way can the impact of our actions be understood on a global scale.
+In order to understand the impact on different ecosystems and other natural resources, these need to be monitored and recorded. Only in this way can the impact of our actions be understood on a global scale. Besides 
+
+## Vital Natural Resources
+
+All life on earth is based on the availability of limited natural resources.  Ensuring quality and ensuring accessibility for all life forms is a central task for sustainable technology.
 
 ## What criterias must my project meet to be considered?
 
