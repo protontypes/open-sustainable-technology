@@ -2,7 +2,6 @@
 protontypes welcomes all new contributors to the "awesome-sustainable-technology" list. The inclusion of different perspectives in the project is important to us, so we are looking for a diverse community to engage in constructive discussions.  
 
 # Guideline
-The guideline of this list is:
 > _Gathering state-of-the-art open source technology preserving global energy supply and vital natural resources_
 
 A global energy supply is a central basis for human life. The following aspects should be the focus of attention in order to ensure global scalability:
