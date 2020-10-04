@@ -3,7 +3,7 @@
 <h4 align="center"> Gathering state-of-the-art open source technology preserving global energy supply and vital natural resources </h4>
 
 <p align="center">
-  <img src="earth.gif" alt="animated" with="250" height="250" title="Artwork by Eleanor Lutz" />
+  <img src="earth.gif" alt="animated" with="350" height="350" title="Artwork by Eleanor Lutz" />
 </p>
 
 <h5 align="center"> Artwork by Eleanor Lutz </h5>
