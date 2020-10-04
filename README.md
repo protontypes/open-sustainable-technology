@@ -181,6 +181,8 @@ solved in time.
 - [offgridders](https://github.com/rl-institut/offgridders) - Models and optimizes capacity & dispatch of electricity supply systems, off-grid or connected to a (weak) central grid.
 - [RTS-GMLC](https://github.com/GridMod/RTS-GMLC) - Reliability Test System of the Grid Modernization Lab Consortium.
 - [openmodelica-microgrid-gym](https://github.com/upb-lea/openmodelica-microgrid-gym) - An OpenAI Gym Environment for Microgrids.
+- [OpenDSS](https://sourceforge.net/projects/electricdss/) - is an electric power Distribution System Simulator for supporting distributed resource integration and grid modernization efforts.
+
 
 ## Energy Consumption
 
