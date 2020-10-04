@@ -43,7 +43,7 @@
 
 _Your contribution is necessary to keep this list alive and to expand it. You can read more about the list and how you can participate in the [Contribution Guide](CONTRIBUTING.md)._ Maintenance is carried out by [protontypes](https://protontypes.eu/). We are an _Open Accelerator for Free and Sustainable Innovation._
 
-![Twitter Follow](https://img.shields.io/twitter/follow/protontypes?style=social)
+![[](https://img.shields.io/twitter/follow/protontypes?style=social)](https://twitter.com/protontypes)
 
 ## Renewable Energy Sources
 ### Photovoltaic
