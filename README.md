@@ -55,7 +55,7 @@ In order to understand the impact on different ecosystems and other natural reso
 ### Vital Natural Resources
 All life on earth is based on the availability of limited natural resources. Ensuring quality and ensuring accessibility for all life forms is a central task for sustainable technology.
 
-### Contribution
+### Contribution and Maintenance
 
 _Your contribution is necessary to keep this list alive and to expand it. You can read more about the list and how you can participate in the [Contribution Guide](CONTRIBUTING.md)._ Maintenance is carried out by [protontypes](https://protontypes.eu/). We are an _Open Accelerator for Free and Sustainable Innovation._
 
