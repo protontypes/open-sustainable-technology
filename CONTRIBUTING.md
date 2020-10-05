@@ -12,7 +12,7 @@ Global energy supply is a central basis for human life. The following aspects sh
 * Low impact on vital natural resources such as climate, water, soil or forests
 * High robustness and easy maintenance 
 
-In order to understand the impact on different ecosystems and other natural resources, these need to be monitored and recorded. Only in this way can the impact of our actions be understood on a global scale. Besides 
+In order to understand the impact on different ecosystems and other natural resources, these need to be monitored and recorded. Only in this way can the impact of our actions be understood on a global scale.  
 
 ## Vital Natural Resources
 
@@ -23,7 +23,7 @@ All life on earth is based on the availability of limited natural resources.  En
 * The project must comply as closely as possible with the [Guideline](#guideline).
 * You need to show that others than the project main developers are using the project. 
 * The project needs a unique selling proposition that distinguishes it from others. Various aspects can be taken into account: a new technical approach, high performance, high usability, support for a new development environment, etc...
-* Larger parts of the project are published under an [open source license](https://choosealicense.com/) 
+* Larger parts of the project are published under an [open source license](https://choosealicense.com/). 
 * The project is still actively maintained. We consider projects as still active if new code has been added or questions are answered and completed in the last 18 months. 
 * Documentation for installation and usage need to be provided. 
 
