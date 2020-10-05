@@ -1,5 +1,5 @@
 <h1 align="center">Awesome Sustainable Technology </h1>
-<h4 align="center"> Gathering state-of-the-art open source technology preserving global energy supply and vital natural resources</h4>
+<h4 align="center"> Gathering state-of-the-art open source technology preserving global energy supply <br> and vital natural resources</h4>
 <p align="center"><i>Find more information in the <a href="https://protontypes.eu/blog/2020/10/05/gathering-open-sustainable-technology/"> official blog post.</i> </p>
   
 <p align="center">
@@ -32,7 +32,7 @@
   * [Observation](#observation)
   * [Carbon Capture](#carbon-capture)
 - [Observation and Conservation of Ecosystems](#observation-and-conservation-of-ecosystems)
-  * [Forests and Biodiversity](#forests-and-biodiversity)
+  * [Vegitation and Biodiversity](#vegitation-and-biodiversity)
   * [Ice and Poles](#ice-and-poles)
   * [Ocean and Climate](#ocean-and-climate)
 - [Access and Monitoring of Resources](#access-and-monitoring-of-resources)
