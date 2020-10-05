@@ -1,6 +1,6 @@
 <h1 align="center">Awesome Sustainable Technology </h1>
-<h4 align="center"> Gathering state-of-the-art open source technology preserving global energy supply and vital natural resources.</h4>
-<p align="center">Find out more in the <a href="https://protontypes.eu/blog/2020/10/05/gathering-open-sustainable-technology/"> official blog post </p>
+<h4 align="center"> Gathering state-of-the-art open source technology preserving global energy supply and vital natural resources</h4>
+<p align="center"><i>Find out more in the <a href="https://protontypes.eu/blog/2020/10/05/gathering-open-sustainable-technology/"> official blog post.</i> </p>
   
 <p align="center">
   <img src="earth.gif" alt="animated" width="350" height="350" style="object-fit:contain" title="Artwork by Eleanor Lutz" />
