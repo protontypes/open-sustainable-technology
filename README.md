@@ -38,6 +38,7 @@
   * [Water](#water)
   * [Soil](#soil)
 - [Circular Economy and Waste](#circular-economy-and-waste)
+- [Further Sustaining Resources](#further-sustaining-resources)
 
 ## Guideline
 ### Energy Supply
@@ -547,5 +548,6 @@ solved in time.
 - [GlobalWindAtlas](https://globalwindatlas.info/) - Immediately start exploring windy areas.
 - [GlobalSolarAtlas](https://globalsolaratlas.info/) - Start exploring solar potential.
 - [Open Hardware Observatory](https://en.oho.wiki/wiki/Home) - Search engine and assessment platform for sustainable open hardware.
+- [Open Source Ecology](https://www.opensourceecology.org/) - Developing of open source industrial machines that can be made for a fraction of commercial costs, and sharing the designs for free.
 
 *Animation created with [An Animated Map of the Earth](https://github.com/eleanorlutz/earth_atlas_of_space) by [Eleanor Lutz](https://twitter.com/eleanor_lutz)*
