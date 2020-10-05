@@ -51,11 +51,11 @@ Global energy supply is a central basis for human life. The following aspects sh
 In order to understand the impact on different ecosystems and other natural resources, these need to be monitored and recorded. Only in this way can the impact of our actions be understood on a global scale.
 
 ### Vital Natural Resources
-All life on earth is based on the availability of limited natural resources. Ensuring quality and ensuring accessibility for all life forms is a central task for sustainable technology.
+All life on earth is based on the availability of limited natural resources. Ensuring quality and accessibility for all life forms is a central task for sustainable technology.
 
 ### Contribution and Maintenance
 
-_Your contribution is necessary to keep this list alive and to expand it. You can read more about the list and how you can participate in the [Contribution Guide](CONTRIBUTING.md)._ Maintenance is carried out by [protontypes](https://protontypes.eu/). We are an _Open Accelerator for Free and Sustainable Innovation._
+_Your contribution is necessary to keep this list alive, increase the quality and to expand it. The same applies to the projects listed here. You can read more about the list and how you can participate in the [Contribution Guide](CONTRIBUTING.md)._ Maintenance is carried out by [protontypes](https://protontypes.eu/). We are an _Open Accelerator for Free and Sustainable Innovation._
 
 [![](https://img.shields.io/twitter/follow/protontypes?style=social)](https://twitter.com/protontypes)
 
