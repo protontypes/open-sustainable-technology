@@ -307,6 +307,8 @@ https://github.com/EDF-TREE/BuildSysPro
 - [Hierarchical Engine for Large-scale Infrastructure Co-Simulation](https://github.com/GMLC-TDC/HELICS) - Today the core uses are in the energy domain, where there is extensive and growing support for a wide-range of electric power system, natural gas, communications and control-schemes, transportation, buildings, and related domain tools.
 - [oemof-solph](https://github.com/oemof/oemof-solph) - is a model generator for energy system modelling and optimisation.
 - [oemof-thermal](https://github.com/oemof/oemof-thermal) -  provides tools to model thermal energy components as an extension of oemof.solph, e.g. compression heat pumps, concentrating solar plants, thermal storages and solar thermal collectors.
+- [dpsim](https://git.rwth-aachen.de/acs/public/simulation/dpsim/dpsim) - is a real-time power system simulator that operates in the dynamic phasor as well as electromagentic transient domain.
+- [VILLASnode](https://git.rwth-aachen.de/acs/public/villas/node) - Connecting real-time power grid simulation equipment
 
 
 ### Analysis
