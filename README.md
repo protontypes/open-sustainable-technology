@@ -398,6 +398,7 @@ https://github.com/EDF-TREE/BuildSysPro
 - [wildfire forecasting](https://github.com/esowc/wildfire-forecasting) - The project intends to reproduce the Fire Forecasting capabilities of GEFF using Deep Learning and develop further improvements in accuracy, geography and time scale through inclusion of additional variables or optimization of model architecture & hyperparameters.
 - [caliver](https://github.com/ecmwf/caliver) - CALIbration and VERification of gridded fire danger models.
 - [Global Forest Watch](https://github.com/Vizzuality/gfw) - Global Forest Watch: An online, global, near-real time forest monitoring tool.
+- [gfw-mapbuilder](https://github.com/wri/gfw-mapbuilder) - library to build custom Forest Atlas web applications.
 - [taxize](https://github.com/ropensci/taxize) - allows users to search over many taxonomic data sources for species names (scientific and common) and download up and downstream taxonomic hierarchical information.
 - [rgbif](https://github.com/ropensci/rgbif) - Interface to the Global Biodiversity Information Facility API.
 - [Global Biotic Interactions](https://github.com/globalbioticinteractions/globalbioticinteractions) - Global Biotic Interactions provides access to existing species interaction datasets.
