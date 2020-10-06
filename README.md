@@ -158,6 +158,7 @@ solved in time.
 - [equiv-circ-model](https://github.com/batterysim/equiv-circ-model) - An equivalent circuit model for a battery cell, module, and pack.
 - [long-live-the-battery](https://github.com/dsr-18/long-live-the-battery) - Predicting total battery cycle life time with machine learning.
 - [ISEAFramework](https://github.com/FHust/ISEAFramework) - allows coupled electrical-thermal simulations of single storage systems (e.g. lithium ion batteries or double layer capacitors) or complete storage system packs.
+- [Ampere](https://github.com/nealde/Ampere) - Advanced Model Package for ElectRochemical Experiments
 
 ### Hydrogen
 - [OPEM](https://github.com/ECSIM/opem) - is a modeling tool for evaluating the performance of proton exchange membrane fuel cells.
