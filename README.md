@@ -211,8 +211,9 @@ solved in time.
 - [CEA](https://github.com/architecture-building-systems/CityEnergyAnalyst) - helps you to analyse the effects of building retrofits, land-use planning, district heating and cooling and renewable energy on the future costs, emissions and energy consumption of neighbourhoods and districts.
 - [The Modelica Buildings](https://github.com/lbl-srg/modelica-buildings) - library is a free open-source library with dynamic simulation models for building energy and control systems.
 - [StROBe](https://github.com/open-ideas/StROBe) - is an open web tool developed at the KU Leuven Building Physics Section to model the pervasive space for residential integrated district energy assessment simulations in the openIDEAS modeling environment.
-- [NYCBuildingEnergyUse](https://github.com/mdh266/NYCBuildingEnergyUse) - predict the emission of green house gases from buildings by looking at their age, and water consumption as well as other energy consumption metrics
-- [Smart-Energy-Monitor](https://github.com/jonathanrjpereira/Smart-Energy-Monitor) - The goal is to accurately predict the monthly electricity bill of the household using minimum hardware & by acquiring electrical data at a single location
+- [NYCBuildingEnergyUse](https://github.com/mdh266/NYCBuildingEnergyUse) - predict the emission of green house gases from buildings by looking at their age, and water consumption as well as other energy consumption metrics.
+- [Smart-Energy-Monitor](https://github.com/jonathanrjpereira/Smart-Energy-Monitor) - The goal is to accurately predict the monthly electricity bill of the household using minimum hardware & by acquiring electrical data at a single location.
+- [Hotmaps](https://github.com/HotMaps/Hotmaps-toolbox-service) - The open source mapping and planning tool for heating and cooling.
 
 
 ### Mobility and Transportation
