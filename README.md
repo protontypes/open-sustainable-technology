@@ -539,6 +539,9 @@ solved in time.
 - [Trash-ICRA19](https://conservancy.umn.edu/handle/11299/214366) - A Bounding Box Labeled Dataset of Underwater Trash.
 - [TACO](https://github.com/pedropro/TACO) -  Trash Annotations in Context Dataset Toolkit.
 - [circularity.ID Open Data Standard]( https://github.com/circularfashion/cf-circularity-id-standard) - The standard represents the results and findings of an extensive six-year research into the needs of stakeholders in the fashion industry to achieve a circular economy.
+- [RecycleNet](https://github.com/sangminwoo/RecycleNet) - Effective trash classification model using only a small number of annotated images.
+- [trashnet](https://github.com/garythung/trashnet) - Dataset of images of trash; Torch-based CNN for garbage image classification.
+
 
 ## Further Sustaining Resources
 - [Awesome Clean Tech](https://github.com/nglgzz/awesome-clean-tech) - Clean technology is any process, product, or service that reduces negative environmental impacts through significant energy efficiency improvements, the sustainable use of resources, or environmental protection activities.
