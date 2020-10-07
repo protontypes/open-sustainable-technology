@@ -215,11 +215,10 @@ solved in time.
 - [StROBe](https://github.com/open-ideas/StROBe) - is an open web tool developed at the KU Leuven Building Physics Section to model the pervasive space for residential integrated district energy assessment simulations in the openIDEAS modeling environment.
 - [NYCBuildingEnergyUse](https://github.com/mdh266/NYCBuildingEnergyUse) - predict the emission of green house gases from buildings by looking at their age, and water consumption as well as other energy consumption metrics.
 - [Smart-Energy-Monitor](https://github.com/jonathanrjpereira/Smart-Energy-Monitor) - The goal is to accurately predict the monthly electricity bill of the household using minimum hardware & by acquiring electrical data at a single location.
-- [Hotmaps](https://github.com/HotMaps/Hotmaps-toolbox-service) - The open source mapping and planning tool for heating and cooling.
-https://github.com/EDF-TREE/BuildSysPro 
-- [BuildSysPro](https://github.com/EDF-TREE/BuildSysPro) - is EDF's Modelica library for buildings, districts and energy systems modelling
+- [Hotmaps](https://github.com/HotMaps/Hotmaps-toolbox-service) - The open source mapping and planning tool for heating and cooling. 
+- [BuildSysPro](https://github.com/EDF-TREE/BuildSysPro) - is EDF's Modelica library for buildings, districts and energy systems modelling.
 - [MPCPy](https://github.com/lbl-srg/MPCPy) - the python-based open-source platform for model predictive control in buildings.
-- [obc](https://github.com/lbl-srg/obc) - Performance Evaluation, Specification, Deployment and Verification of Building Control Sequences 
+- [obc](https://github.com/lbl-srg/obc) - Performance Evaluation, Specification, Deployment and Verification of Building Control Sequences. 
 
 
 ### Mobility and Transportation
