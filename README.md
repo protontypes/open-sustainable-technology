@@ -489,6 +489,7 @@ solved in time.
 - [AIBECS.jl](https://github.com/JuliaOcean/AIBECS.jl) - is a Julia package that provides ocean biogeochemistry modelers with an easy-to-use interface for creating and running models of the ocean system.
 - [marineHeatWaves](https://github.com/ecjoliver/marineHeatWaves) - is a module for python which implements the Marine Heatwave (MHW) definition of Hobday et al.
 - [heatwaveR](https://github.com/robwschlegel/heatwaveR) - contains the original functions from the RmarineHeatWaves package that calculate and display marine heatwaves according to the definition of Hobday et al. (2016).
+- [MITgcm](https://github.com/MITgcm/MITgcm) - flexible non-hydrostatic formulation enables it to efficiently simulate fluid phenomena over a wide range of scales.
 
 
 ## Access and Monitoring of Resources
