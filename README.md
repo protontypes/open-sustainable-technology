@@ -490,6 +490,7 @@ solved in time.
 - [marineHeatWaves](https://github.com/ecjoliver/marineHeatWaves) - is a module for python which implements the Marine Heatwave (MHW) definition of Hobday et al.
 - [heatwaveR](https://github.com/robwschlegel/heatwaveR) - contains the original functions from the RmarineHeatWaves package that calculate and display marine heatwaves according to the definition of Hobday et al. (2016).
 - [MITgcm](https://github.com/MITgcm/MITgcm) - flexible non-hydrostatic formulation enables it to efficiently simulate fluid phenomena over a wide range of scales.
+- [hyfo](https://github.com/Yuanchao-Xu/hyfo) - mainly focuses on data process and visulization in hydrology and climate forecasting
 
 
 ## Access and Monitoring of Resources
