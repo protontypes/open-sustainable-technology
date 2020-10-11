@@ -279,6 +279,7 @@ solved in time.
 - [CalTRACK](https://github.com/energy-market-methods/caltrack) - methods are developed in an open and transparent stakeholder process that uses empirical testing to define replicable methods for calculating normalized metered energy consumption using either monthly or interval data from an existing conditions baseline.
 - [H2020 CATALYST](https://gitlab.com/project-catalyst) - Converting data centres in energy flexibility ecosystems
 
+
 ## Energy System Assessment
 
 ### Modeling
@@ -364,6 +365,7 @@ solved in time.
 - [Photovoltaic time series for European countries](https://zenodo.org/record/2613651#.XRtJRP7Rapo) - Comprises 38 years-long hourly time series representing the photovoltaic capacity factors in every European country (EU-28 plus Serbia, Bosnia-Herzegovina, Norway, and Switzerland).
 - [SolarData](https://github.com/dazhiyang/SolarData) - Download and manipulate some publicly available solar datasets.
 - [UKgrid](https://github.com/RamiKrispin/UKgrid) - An R data package with the UK National Grid historical demand for electricity between April 2005 and October 2019.
+- [USgrid](https://github.com/RamiKrispin/USgrid) - The hourly demand and supply of electricity in the US.
 
 ## Emissions and Greenhouse Gases
 
@@ -376,6 +378,7 @@ solved in time.
 - [EnergyPATHWAYS](https://github.com/energyPATHWAYS/EnergyPATHWAYS) - model is a professional, open-source energy and carbon planning tool for use in evaluating long-term, economy-wide greenhouse gas mitigation scenarios.
 - [CarbonFootprint](https://gitlab.com/aossie/CarbonFootprint) - A browser extension that displays carbon footprint information in multiple map services.
 - [carbontracker](https://github.com/lfwa/carbontracker) - Track and predict the energy consumption and carbon footprint of training deep learning models.
+- [experiment-impact-tracker](https://github.com/Breakend/experiment-impact-tracker) -  is meant to be a simple drop-in method to track energy usage, carbon emissions, and compute utilization of your system.
 
 ### Observation
 - [ghg emissions indicator](https://github.com/bcgov/ghg-emissions-indicator) - R scripts for a GHG emissions indicator published on Environmental Reporting British Columbia.
@@ -424,7 +427,10 @@ solved in time.
 - [rebird](https://github.com/ropensci/rebird) - rebird is a package to interface with the eBird webservices a real-time, online bird checklist program.
 - [rredlist](https://github.com/ropensci/rredlist) - R client for the IUCN Red List of threatened and endangered species.
 - [OpenSimRoot](https://gitlab.com/rootmodels/OpenSimRoot) - is a source code for simulating root architecture, nutrient and water uptake and more.
-- [PyETo](https://github.com/woodcrafty/PyETo) -  a Python library for calculating reference crop evapotranspiration, sometimes referred to as potential evapotranspiration
+- [PyETo](https://github.com/woodcrafty/PyETo) -  a Python library for calculating reference crop evapotranspiration, sometimes referred to as potential evapotranspiration.
+- [burnr](https://github.com/ltrr-arizona-edu/burnr) - Basic tools to analyze forest fire history data (e.g. FHX) in R.
+- [forestmangr](https://github.com/sollano/forestmangr) - R package for forest mensuration and management.
+
 
 
 ### Ice and Poles
@@ -490,7 +496,11 @@ solved in time.
 - [marineHeatWaves](https://github.com/ecjoliver/marineHeatWaves) - is a module for python which implements the Marine Heatwave (MHW) definition of Hobday et al.
 - [heatwaveR](https://github.com/robwschlegel/heatwaveR) - contains the original functions from the RmarineHeatWaves package that calculate and display marine heatwaves according to the definition of Hobday et al. (2016).
 - [MITgcm](https://github.com/MITgcm/MITgcm) - flexible non-hydrostatic formulation enables it to efficiently simulate fluid phenomena over a wide range of scales.
-- [hyfo](https://github.com/Yuanchao-Xu/hyfo) - mainly focuses on data process and visulization in hydrology and climate forecasting
+- [hyfo](https://github.com/Yuanchao-Xu/hyfo) - mainly focuses on data process and visulization in hydrology and climate forecasting.
+- [climate](https://github.com/bczernecki/climate) - The goal of the climate R package is to automatize downloading of meteorological and hydrological data from publicly available repositories.
+- [rdwd](https://github.com/brry/rdwd) - is an R package to select, download and read climate data from the German Weather Service.
+- [rWBclimate](https://github.com/ropensci/rWBclimate) - is an R interface for the World Bank climate data used in the World Bank climate knowledge portal.
+- [TECA](https://github.com/LBL-EESA/TECA) - the Toolkit for Extreme Climate Analysis, contains a collection of climate anlysis algorithms targetted at extreme event detection and analysis.
 
 
 ## Access and Monitoring of Resources
