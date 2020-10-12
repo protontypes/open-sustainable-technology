@@ -589,12 +589,9 @@ solved in time.
 - [Open Source Ecology](https://www.opensourceecology.org/) - Developing of open source industrial machines that can be made for a fraction of commercial costs, and sharing the designs for free.
 - [Digital Public Goods Alliance](https://digitalpublicgoods.net/) - is a multi-stakeholder initiative to accelerate the attainment of the sustainable development goals in low- and middle-income countries by facilitating the discovery, development, use of and investment in digital public goods.
 
-### Open Sustainable Communities and Instituts
+### Open Sustainable Communities
 - [openmod-initiative](https://forum.openmod-initiative.org/) - We believe that more openness in energy modelling increases transparency and credibility, reduces wasteful double-work and improves overall quality.
-- [reiner-lemoine-institut](https://reiner-lemoine-institut.de/) - We are an independent non-profit research institution working towards a future with 100 % Renewable Energy in our three research units Transformation of Energy Systems, Mobility with Renewably Energy and Off-Grid Systems.
 - [sustainoss](https://sustainoss.org/) Sustainability doesn't just mean code. How can we make our work sustainable environmentally, too? How can we share our knowledge of open source with other groups in the world?
-- [National Renewable Energy Laboratory](https://www.nrel.gov/) is transforming energy through research, development, commercialization, and deployment of renewable energy and energy efficiency technologies.
-- [USEPA](https://github.com/USEPA) - U.S. Environmental Protection Agency
 
 
 *Animation created with [An Animated Map of the Earth](https://github.com/eleanorlutz/earth_atlas_of_space) by [Eleanor Lutz](https://twitter.com/eleanor_lutz)*
