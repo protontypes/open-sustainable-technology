@@ -40,7 +40,10 @@
   * [Water](#water)
   * [Soil](#soil)
 - [Circular Economy and Waste](#circular-economy-and-waste)
-- [Further Sustaining Resources](#further-sustaining-resources)
+- [Further Sustainability](#further-sustainability)
+  * [Public Resources](#public-resources)
+  * [Open Sustainable Communities](#open-sustainable-communities)
+
 
 ## Guideline
 ### Energy Supply
@@ -575,7 +578,7 @@ solved in time.
 
 
 ## Further Sustainability
-### Resources
+### Public Resources
 - [Awesome Clean Tech](https://github.com/nglgzz/awesome-clean-tech) - Clean technology is any process, product, or service that reduces negative environmental impacts through significant energy efficiency improvements, the sustainable use of resources, or environmental protection activities.
 - [Awesome Open Climate Science](https://github.com/pangeo-data/awesome-open-climate-science) - Awesome Open Atmospheric, Ocean, and Climate Science.
 - [Awesome Earth](https://github.com/philsturgeon/awesome-earth) - "What can I do about the climate crisis?" Here are 326 things you can do.
@@ -589,6 +592,7 @@ solved in time.
 - [Open Hardware Observatory](https://en.oho.wiki/wiki/Home) - Search engine and assessment platform for sustainable open hardware.
 - [Open Source Ecology](https://www.opensourceecology.org/) - Developing of open source industrial machines that can be made for a fraction of commercial costs, and sharing the designs for free.
 - [Digital Public Goods Alliance](https://digitalpublicgoods.net/) - is a multi-stakeholder initiative to accelerate the attainment of the sustainable development goals in low- and middle-income countries by facilitating the discovery, development, use of and investment in digital public goods.
+- [Investment Framework for a More Sustainable World](https://github.com/My-Climate-Journey/climate-sustainability-investment-framework) - This framework was created as a tool for those seeking to make emissions reductions and sustainability related investments with the goal of mitigating the impacts of climate change, based on guidelines set forth by Chamath Palihapitiya in July 2020.
 
 ### Open Sustainable Communities
 - [openmod-initiative](https://forum.openmod-initiative.org/) - We believe that more openness in energy modelling increases transparency and credibility, reduces wasteful double-work and improves overall quality.
