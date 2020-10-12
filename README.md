@@ -312,7 +312,7 @@ solved in time.
 - [oemof-thermal](https://github.com/oemof/oemof-thermal) -  provides tools to model thermal energy components as an extension of oemof.solph, e.g. compression heat pumps, concentrating solar plants, thermal storages and solar thermal collectors.
 - [dpsim](https://git.rwth-aachen.de/acs/public/simulation/dpsim/dpsim) - is a real-time power system simulator that operates in the dynamic phasor as well as electromagentic transient domain.
 - [VILLASnode](https://git.rwth-aachen.de/acs/public/villas/node) - Connecting real-time power grid simulation equipment
-- [openENTRANCE] - The Horizon 2020 openENTRANCE project aims at developing, using and disseminating an open, transparent and integrated modelling platform for assessing low-carbon transition pathways in Europe.
+- [openENTRANCE](https://github.com/openENTRANCE/nomenclature) - The Horizon 2020 openENTRANCE project aims at developing, using and disseminating an open, transparent and integrated modelling platform for assessing low-carbon transition pathways in Europe.
 
 
 ### Analysis
