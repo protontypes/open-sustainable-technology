@@ -600,6 +600,7 @@ solved in time.
 - [sustainoss](https://sustainoss.org/) Sustainability doesn't just mean code. How can we make our work sustainable environmentally, too? How can we share our knowledge of open source with other groups in the world?
 - [lfenergy](https://www.lfenergy.org/) - is an open source foundation focused on the power systems sector, hosted within The Linux Foundation.
 - [protontypes](https://protontypes.eu/) - open accelerator for free and sustainable innovation.
-
+- [Open Energy Family](https://github.com/OpenEnergyPlatform) - The Open Energy Family aims to ensure quality, transparency and reproducibility in energy system research. The main modules are the [Open Energy Platform (OEP)](https://openenergy-platform.org/), a web interface to access most of the modules, especially the community database and the [Open Energy Ontology (OEO)](https://github.com/OpenEnergyPlatform/ontology). It is a collaborative community effort, everything is openly developed.
+- [Open Energy Family](https://github.com/OpenEnergyPlatform) - The Open Energy Family aims to ensure quality, transparency and reproducibility in energy system research. The main modules are the [Open Energy Platform (OEP)](https://openenergy-platform.org/), a web interface to access most of the modules, especially the community database and the [Open Energy Ontology (OEO)](https://github.com/OpenEnergyPlatform/ontology). It is a collaborative community effort, everything is openly developed.
 
 *Animation created with [An Animated Map of the Earth](https://github.com/eleanorlutz/earth_atlas_of_space) by [Eleanor Lutz](https://twitter.com/eleanor_lutz)*
