@@ -515,6 +515,7 @@ solved in time.
 - [AirCasting](https://github.com/HabitatMap/AirCasting) - the project aims to build a platform for gathering, visualization and sharing of environmental data.
 - [openair: Tools for air quality data analysis](https://github.com/davidcarslaw/openair) - openair is an R package developed for the purpose of analyzing air quality data — or more generally atmospheric composition data.
 - [ropensci](https://github.com/ropensci/ropenaq) - OpenAQ is a community of scientists, software developers, and lovers of open environmental data who are building an open, real-time database that provides programmatic and historical access to air quality data.
+- [airQualityMeter](https://github.com/rpanfili/airQualityMeter) - Detects air particulate matter (PM - pm1, pm2.5, pm10) concentrations and sends data to an MQTT server.
 
 
 ### Water
@@ -580,6 +581,7 @@ solved in time.
 - [Awesome Coastal](https://github.com/chrisleaman/awesome-coastal) - A curated list of awesome resources for coastal engineers and scientists.
 - [Open Energy System Databases](https://en.wikipedia.org/wiki/Open_energy_system_databases) - employ open data methods to collect, clean, and republish energy-related datasets for open use.
 - [Open Models](https://wiki.openmod-initiative.org/wiki/Open_Models) - This page lists energy models published under open source licenses.
+- [Open Energy System Models](https://en.wikipedia.org/wiki/Open_energy_system_models) - are used to explore future energy systems and are often applied to questions involving energy and climate policy.
 - [GlobalWindAtlas](https://globalwindatlas.info/) - Immediately start exploring windy areas.
 - [GlobalSolarAtlas](https://globalsolaratlas.info/) - Start exploring solar potential.
 - [Open Hardware Observatory](https://en.oho.wiki/wiki/Home) - Search engine and assessment platform for sustainable open hardware.
