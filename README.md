@@ -323,6 +323,7 @@ solved in time.
 
 - [Open Energy Platform](https://github.com/OpenEnergyPlatform/oeplatform) - aims to ensure quality, transparency and reproducibility in energy system research. It is a collection of various tools and information and that help working with energy related data.
 - [PyPSA](https://github.com/PyPSA/PyPSA) - is a free software toolbox for simulating and optimising modern power systems that include features such as conventional generators with unit commitment, variable wind and solar generation, storage units, coupling to other energy sectors, and mixed alternating and direct current networks.
+- [oemof](https://github.com/oemof/oemof) - Open Energy Modelling Framework (oemof) - A python toolbox for energy system modelling and optimisation. A community driven, modular, flexible and generic software project.
 - [pyGRETA](https://github.com/tum-ens/pyGRETA) - python Generator of REnewable Time series and mAps: a tool that generates high-resolution potential maps and time series for user-defined regions within the globe.
 - [RESKit](https://github.com/FZJ-IEK3-VSA/RESKit) - A toolkit to help generate renewable energy generation time-series for energy systems analysis.
 - [PowSyBl](https://github.com/powsybl/powsybl-core) - is an open source framework written in Java, that makes it easy to write complex software for power systems simulations and analysis.
