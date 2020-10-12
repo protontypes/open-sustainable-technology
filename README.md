@@ -289,6 +289,7 @@ solved in time.
 
 - [GCAM](https://github.com/JGCRI/gcam-core) - is a dynamic-recursive model with technology-rich representations of the economy, energy sector, land use and water linked to a climate model that can be used to explore climate change mitigation policies including carbon taxes, carbon trading, regulations and accelerated deployment of energy technology.
 - [System Advisor Model](https://github.com/NREL/SAM) - is a simulation program for electricity generation projects. It has models for different kinds of renewable energy systems and financial models for residential, commercial, and utility-scale projects.
+- [openTEPES](https://github.com/IIT-EnergySystemModels/openTEPES) - determines the investment plans of new facilities (generators, ESS and lines) for supplying the forecasted demand at minimum cost.
 - [PowerGenome](https://github.com/gschivley/PowerGenome) - A tool to quickly and easily create inputs for power systems models.
 - [load_forecasting](https://github.com/pyaf/load_forecasting) - Load forcasting on Delhi area electric power load using ARIMA, RNN, LSTM and GRU models.
 - [REopt_Lite_API](https://github.com/NREL/REopt_Lite_API) - offers a subset of features from NREL's more comprehensive REopt model. Both models provide concurrent, multiple technology integration and optimization capabilities to help organizations meet their cost savings and energy performance goals.
