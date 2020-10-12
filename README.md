@@ -124,7 +124,7 @@ _Your contribution is necessary to keep this list alive, increase the quality an
 - [CACTUS](https://github.com/SNL-WaterPower/CACTUS) - is a turbine performance simulation code, based on a free wake vortex method, to study wind turbines and marine hydrokinetic devices.
 - [hydro-power-database](https://github.com/energy-modelling-toolkit/hydro-power-database) - dataset tries to collect some basic information on all the European hydro-power plants.
 - [MHKiT-Python](https://github.com/MHKiT-Software/MHKiT-Python) - provides the marine renewable energy community tools for data processing, visualization, quality control, resource assessment, and device performance.
-- [hydropowerlib](https://github.com/hydro-python/hydropowerlib) - The hydropowerlib is designed to calculate feedin time series of run-of-the-river hydropower plants. The hydropowerlib is an out-take from the feedinlib (hydropower, windpower and pv) to build up a community concentrating on hydropower models.
+- [hydropowerlib](https://github.com/hydro-python/hydropowerlib) - The hydropowerlib is designed to calculate feedin time series of run-of-the-river hydropower plants.
 
 ### Geothermal Energy
 - [pygfunction](https://github.com/MassimoCimmino/pygfunction) - An open-source toolbox for the evaluation of thermal response factors of geothermal borehole fields.
@@ -323,7 +323,7 @@ solved in time.
 
 - [Open Energy Platform](https://github.com/OpenEnergyPlatform/oeplatform) - aims to ensure quality, transparency and reproducibility in energy system research. It is a collection of various tools and information and that help working with energy related data.
 - [PyPSA](https://github.com/PyPSA/PyPSA) - is a free software toolbox for simulating and optimising modern power systems that include features such as conventional generators with unit commitment, variable wind and solar generation, storage units, coupling to other energy sectors, and mixed alternating and direct current networks.
-- [oemof](https://github.com/oemof/oemof) - Open Energy Modelling Framework (oemof) - A python toolbox for energy system modelling and optimisation. A community driven, modular, flexible and generic software project.
+- [oemof](https://github.com/oemof/oemof) - Open Energy Modelling Framework - A python toolbox for energy system modelling and optimisation. A community driven, modular, flexible and generic software project.
 - [pyGRETA](https://github.com/tum-ens/pyGRETA) - python Generator of REnewable Time series and mAps: a tool that generates high-resolution potential maps and time series for user-defined regions within the globe.
 - [RESKit](https://github.com/FZJ-IEK3-VSA/RESKit) - A toolkit to help generate renewable energy generation time-series for energy systems analysis.
 - [PowSyBl](https://github.com/powsybl/powsybl-core) - is an open source framework written in Java, that makes it easy to write complex software for power systems simulations and analysis.
@@ -507,6 +507,7 @@ solved in time.
 - [rdwd](https://github.com/brry/rdwd) - is an R package to select, download and read climate data from the German Weather Service.
 - [rWBclimate](https://github.com/ropensci/rWBclimate) - is an R interface for the World Bank climate data used in the World Bank climate knowledge portal.
 - [TECA](https://github.com/LBL-EESA/TECA) - the Toolkit for Extreme Climate Analysis, contains a collection of climate anlysis algorithms targetted at extreme event detection and analysis.
+- [Climate Data Store Toolbox](https://cds.climate.copernicus.eu/toolbox/doc/index.html) - Dive into this wealth of information about the Earth's past, present and future climate.
 
 
 ## Access and Monitoring of Resources
@@ -601,7 +602,7 @@ solved in time.
 - [sustainoss](https://sustainoss.org/) Sustainability doesn't just mean code. How can we make our work sustainable environmentally, too? How can we share our knowledge of open source with other groups in the world?
 - [lfenergy](https://www.lfenergy.org/) - is an open source foundation focused on the power systems sector, hosted within The Linux Foundation.
 - [protontypes](https://protontypes.eu/) - open accelerator for free and sustainable innovation.
-- [Open Energy Family](https://github.com/OpenEnergyPlatform) - The Open Energy Family aims to ensure quality, transparency and reproducibility in energy system research. The main modules are the [Open Energy Platform (OEP)](https://openenergy-platform.org/), a web interface to access most of the modules, especially the community database and the [Open Energy Ontology (OEO)](https://github.com/OpenEnergyPlatform/ontology). It is a collaborative community effort, everything is openly developed.
+- [Open Energy Family](https://github.com/OpenEnergyPlatform) - The Open Energy Family aims to ensure quality, transparency and reproducibility in energy system research. 
 
 
 *Animation created with [An Animated Map of the Earth](https://github.com/eleanorlutz/earth_atlas_of_space) by [Eleanor Lutz](https://twitter.com/eleanor_lutz)*
