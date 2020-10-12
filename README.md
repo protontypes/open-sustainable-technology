@@ -124,7 +124,7 @@ _Your contribution is necessary to keep this list alive, increase the quality an
 - [CACTUS](https://github.com/SNL-WaterPower/CACTUS) - is a turbine performance simulation code, based on a free wake vortex method, to study wind turbines and marine hydrokinetic devices.
 - [hydro-power-database](https://github.com/energy-modelling-toolkit/hydro-power-database) - dataset tries to collect some basic information on all the European hydro-power plants.
 - [MHKiT-Python](https://github.com/MHKiT-Software/MHKiT-Python) - provides the marine renewable energy community tools for data processing, visualization, quality control, resource assessment, and device performance.
-
+- [hydropowerlib](https://github.com/hydro-python/hydropowerlib) - The hydropowerlib is designed to calculate feedin time series of run-of-the-river hydropower plants. The hydropowerlib is an out-take from the feedinlib (hydropower, windpower and pv) to build up a community concentrating on hydropower models.
 
 ### Geothermal Energy
 - [pygfunction](https://github.com/MassimoCimmino/pygfunction) - An open-source toolbox for the evaluation of thermal response factors of geothermal borehole fields.
