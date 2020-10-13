@@ -42,7 +42,7 @@
 - [Circular Economy and Waste](#circular-economy-and-waste)
 - [Further Sustainability](#further-sustainability)
   * [Public Resources](#public-resources)
-  * [Open Sustainable Communities](#open-sustainable-communities)
+  * [Open Sustainable Technology Communities](#open-sustainable-technology-communities)
 
 
 ## Guideline
