@@ -599,7 +599,7 @@ solved in time.
 - [Digital Public Goods Alliance](https://digitalpublicgoods.net/) - is a multi-stakeholder initiative to accelerate the attainment of the sustainable development goals in low- and middle-income countries by facilitating the discovery, development, use of and investment in digital public goods.
 - [Investment Framework for a More Sustainable World](https://github.com/My-Climate-Journey/climate-sustainability-investment-framework) - This framework was created as a tool for those seeking to make emissions reductions and sustainability related investments with the goal of mitigating the impacts of climate change, based on guidelines set forth by Chamath Palihapitiya in July 2020.
 
-### Open Sustainable Communities
+### Open Sustainable Technology Communities
 - [openmod-initiative](https://forum.openmod-initiative.org/) - We believe that more openness in energy modelling increases transparency and credibility, reduces wasteful double-work and improves overall quality.
 - [sustainoss](https://sustainoss.org/) Sustainability doesn't just mean code. How can we make our work sustainable environmentally, too? How can we share our knowledge of open source with other groups in the world?
 - [lfenergy](https://www.lfenergy.org/) - is an open source foundation focused on the power systems sector, hosted within The Linux Foundation.
