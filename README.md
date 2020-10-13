@@ -570,6 +570,7 @@ solved in time.
 - [pyTSEB](https://github.com/hectornieto/pyTSEB) - contains Python code for Two Source Energy Balance models (Priestley-Taylor TSEB-PT, Dual Time Difference DTD and TSEB with component soil and canopy temperatures TSEB-2T) for estimating sensible and latent heat flux based on measurements of radiometric surface temperature.
 - [slga](https://github.com/obrl-soil/slga) - offers the ability to download geographic subsets of raster data from the Soil and Landscape Grid of Australia.
 - [smapr](https://github.com/ropensci/smapr) - An R package for acquisition and processing of NASA (Soil Moisture Active-Passive) SMAP data.
+- [DRIP-SLIP](https://github.com/NASA-DEVELOP/DRIP-SLIP) - Detecting Realtime Increased Precipitation / Sudden Landslide Identification Product
 
 
 ## Circular Economy and Waste
