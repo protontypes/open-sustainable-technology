@@ -279,6 +279,7 @@ solved in time.
 - [ChargyDesktopApp](https://github.com/OpenChargingCloud/ChargyDesktopApp) - Chargy is a transparency software for secure and transparent e-mobility charging processes, as defined by the German "Eichrecht"
 - [WWCP_OCPP](https://github.com/OpenChargingCloud/WWCP_OCPP) - Connectivity between the World Wide Charging Protocol (WWCP) and the Open Charge Point Protocol (OCPP v1.6/v2.0).
 - [WWCP_Core](https://github.com/OpenChargingCloud/WWCP_Core) - The World Wide Charging Protocol Suite is a collection of protocols in order to connect market actors in the field of e-mobility solutions via scalable and secure Internet protocols
+- [openv2g](http://openv2g.sourceforge.net/) - The objective to start this project is primarily to support the ISO and IEC standardisation process to specify the so called "Vehicle 2 Grid Comunication Interface" (V2G CI) which became the ISO IEC 15118 specification by now.
 
 
 ### Industry
