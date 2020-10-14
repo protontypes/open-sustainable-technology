@@ -41,8 +41,8 @@
   * [Soil](#soil)
 - [Circular Economy and Waste](#circular-economy-and-waste)
 - [Further Sustainability](#further-sustainability)
-  * [Public Resources](#public-resources)
-  * [Open Sustainable Technology Communities](#open-sustainable-technology-communities)
+  * [Open Resources](#open-resources)
+  * [Open and Sustainable Technology Communities](#open-and-sustainable-technology-communities)
 
 
 ## Guideline
