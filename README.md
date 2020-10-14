@@ -528,6 +528,7 @@ solved in time.
 - [CLIMA-Land](https://github.com/CliMA/Land) - Everything within the Land model (Soil Plant Atmosphere Module, Land Hydrology, etc)
 - [maja](https://github.com/CNES/MAJA) - is an atmospheric correction and cloud screening software.
 - [VAPOR](https://github.com/NCAR/VAPOR) - is the Visualization and Analysis Platform for Ocean, Atmosphere, and Solar Researchers.
+- [CoralNet](https://github.com/beijbom/coralnet) - is a website which serves as a repository and resource for benthic image analysis.
 
 
 ## Access and Monitoring of Resources
