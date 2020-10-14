@@ -8,7 +8,7 @@
 <h5 align="center"> Artwork by Eleanor Lutz </h5>
 
 - [Renewable Energy Sources](#renewable-energy-sources)
-  * [Photovoltaic](#photovoltaic)
+  * [Photovoltaic and Solar Energy](#photovoltaic-and-solar-energy)
   * [Wind Turbines](#wind-turbines)
   * [Hydro Energy](#hydro-energy)
   * [Geothermal Energy](#geothermal-energy)
@@ -66,7 +66,7 @@ _Your contribution is necessary to keep this list alive, increase the quality an
 [![](https://img.shields.io/twitter/follow/protontypes?style=social)](https://twitter.com/protontypes)
 
 ## Renewable Energy Sources
-### Photovoltaic
+### Photovoltaic and Solar Energy
 - [pvlib-python](https://github.com/pvlib/pvlib-python) - A set of documented functions for simulating the performance of photovoltaic energy systems.
 - [pvfactors](https://github.com/SunPower/pvfactors) - Open-source view-factor model for diffuse shading and bifacial PV modeling.
 - [gsee](https://github.com/renewables-ninja/gsee) -  Global Solar Energy Estimator.
