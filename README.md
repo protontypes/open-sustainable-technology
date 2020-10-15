@@ -131,6 +131,9 @@ _Your contribution is necessary to keep this list alive, increase the quality an
 - [hydro-power-database](https://github.com/energy-modelling-toolkit/hydro-power-database) - dataset tries to collect some basic information on all the European hydro-power plants.
 - [MHKiT-Python](https://github.com/MHKiT-Software/MHKiT-Python) - provides the marine renewable energy community tools for data processing, visualization, quality control, resource assessment, and device performance.
 - [hydropowerlib](https://github.com/hydro-python/hydropowerlib) - The hydropowerlib is designed to calculate feedin time series of run-of-the-river hydropower plants.
+- [HydroPowerSimulations.jl](https://github.com/NREL-SIIP/HydroPowerSimulations.jl) - contains extensions on PowerSystems.jl and PowerSimulations.jl to enable enhanced hydropower representations
+
+
 
 ### Geothermal Energy
 - [pygfunction](https://github.com/MassimoCimmino/pygfunction) - An open-source toolbox for the evaluation of thermal response factors of geothermal borehole fields.
@@ -199,6 +202,7 @@ solved in time.
 - [openmodelica-microgrid-gym](https://github.com/upb-lea/openmodelica-microgrid-gym) - An OpenAI Gym Environment for Microgrids.
 - [OpenDSS](https://sourceforge.net/projects/electricdss/) - is an electric power Distribution System Simulator for supporting distributed resource integration and grid modernization efforts.
 - [PowerDynamics.jl](https://github.com/JuliaEnergy/PowerDynamics.jl) - provides all the tools you need to create a dynamic power grid model and analyze it.
+- [InfrastructureSystems.jl](https://github.com/NREL-SIIP/InfrastructureSystems.jl) - provides utilities to support data models for infrastructure modeling in NREL-SIIP. 
 
 
 ## Energy Consumption
