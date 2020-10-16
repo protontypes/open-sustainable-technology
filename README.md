@@ -173,6 +173,7 @@ solved in time.
 - [long-live-the-battery](https://github.com/dsr-18/long-live-the-battery) - Predicting total battery cycle life time with machine learning.
 - [ISEAFramework](https://github.com/FHust/ISEAFramework) - allows coupled electrical-thermal simulations of single storage systems (e.g. lithium ion batteries or double layer capacitors) or complete storage system packs.
 - [Ampere](https://github.com/nealde/Ampere) - Advanced Model Package for ElectRochemical Experiments
+- [StorageVET](https://github.com/epri-dev/StorageVET) - is a valuation model for analysis of energy storage technologies and some other energy resources paired with storage. 
 
 ### Hydrogen
 - [OPEM](https://github.com/ECSIM/opem) - is a modeling tool for evaluating the performance of proton exchange membrane fuel cells.
