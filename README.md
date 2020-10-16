@@ -204,6 +204,7 @@ solved in time.
 - [OpenDSS](https://sourceforge.net/projects/electricdss/) - is an electric power Distribution System Simulator for supporting distributed resource integration and grid modernization efforts.
 - [PowerDynamics.jl](https://github.com/JuliaEnergy/PowerDynamics.jl) - provides all the tools you need to create a dynamic power grid model and analyze it.
 - [InfrastructureSystems.jl](https://github.com/NREL-SIIP/InfrastructureSystems.jl) - provides utilities to support data models for infrastructure modeling in NREL-SIIP. 
+- [openleadr](https://www.lfenergy.org/projects/openleadr/) - Open Automated Demand Response (OpenADR) is an open and interoperable information exchange model and emerging smart grid standard.
 
 
 ## Energy Consumption
