@@ -542,6 +542,7 @@ solved in time.
 - [VAPOR](https://github.com/NCAR/VAPOR) - is the Visualization and Analysis Platform for Ocean, Atmosphere, and Solar Researchers.
 - [CoralNet](https://github.com/beijbom/coralnet) - is a website which serves as a repository and resource for benthic image analysis.
 - [MiMA](https://github.com/mjucker/MiMA) - Model of an idealized Moist Atmosphere: Intermediate-complexity General Circulation Model with full radiation.
+- [lowtran](https://github.com/space-physics/lowtran) - atmospheric absorption extinction, scatter and irradiance model in Python and Matlab.
 
 
 ## Access and Monitoring of Resources
