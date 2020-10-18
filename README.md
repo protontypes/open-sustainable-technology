@@ -131,7 +131,9 @@ _Your contribution is necessary to keep this list alive, increase the quality an
 - [hydro-power-database](https://github.com/energy-modelling-toolkit/hydro-power-database) - dataset tries to collect some basic information on all the European hydro-power plants.
 - [MHKiT-Python](https://github.com/MHKiT-Software/MHKiT-Python) - provides the marine renewable energy community tools for data processing, visualization, quality control, resource assessment, and device performance.
 - [hydropowerlib](https://github.com/hydro-python/hydropowerlib) - The hydropowerlib is designed to calculate feedin time series of run-of-the-river hydropower plants.
-- [HydroPowerSimulations.jl](https://github.com/NREL-SIIP/HydroPowerSimulations.jl) - contains extensions on PowerSystems.jl and PowerSimulations.jl to enable enhanced hydropower representations
+- [HydroPowerSimulations.jl](https://github.com/NREL-SIIP/HydroPowerSimulations.jl) - contains extensions on PowerSystems.jl and PowerSimulations.jl to enable enhanced hydropower representations.
+- [OpenHPL](https://github.com/simulatino/OpenHPL) - is an open-source hydropower library that consists of hydropower unit models and is modelled using Modelica.
+- [WEC-Sim](https://github.com/WEC-Sim/WEC-Sim) - Wave Energy Converter Simulator is an open-source code for simulating wave energy converters.
 
 
 
@@ -184,9 +186,7 @@ solved in time.
 - [HIM](https://github.com/FZJ-IEK3-VSA/HIM) - Hydrogen Infrastructure model for the analysis of spatially resolved hydrogen infrastructure pathways.
 - [pandapipes](https://github.com/e2nIEE/pandapipes) - A pipeflow calculation tool that complements pandapower in the simulation of multi energy grids, in particular heat and gas networks.
 - [The Hydrogen Risk Assessment Models](https://github.com/sandialabs/hyram) - is the first-ever software toolkit that integrates deterministic and probabilistic models for quantifying accident scenarios, predicting physical effects, and characterizing hydrogen hazards impact on people and structures.
-- [OpenHPL](https://github.com/simulatino/OpenHPL) - is an open-source hydropower library that consists of hydropower unit models and is modelled using Modelica.
 - [GasModels.jl](https://github.com/lanl-ansi/GasModels.jl) - A Julia/JuMP Package for Gas Network Optimization.
-- [WEC-Sim](https://github.com/WEC-Sim/WEC-Sim) - Wave Energy Converter Simulator is an open-source code for simulating wave energy converters.
 
 
 ## Energy Distribution and Grids
