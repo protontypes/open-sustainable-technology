@@ -543,7 +543,7 @@ solved in time.
 - [CoralNet](https://github.com/beijbom/coralnet) - is a website which serves as a repository and resource for benthic image analysis.
 - [MiMA](https://github.com/mjucker/MiMA) - Model of an idealized Moist Atmosphere: Intermediate-complexity General Circulation Model with full radiation.
 - [lowtran](https://github.com/space-physics/lowtran) - atmospheric absorption extinction, scatter and irradiance model in Python and Matlab.
-- [Climate](https://github.com/forestgeo/Climate) - This public repository is a portal for climate data and information for ForestGEO sites.
+- [ForestGEO](https://github.com/forestgeo/Climate) - This public repository is a portal for climate data and information for ForestGEO sites.
 
 
 ## Access and Monitoring of Resources
