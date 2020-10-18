@@ -1,5 +1,5 @@
 <h1 align="center">Awesome Sustainable Technology </h1>
-<h4 align="center"> Open development environments to preserve global energy supply and vital natural resources</h4>
+<h4 align="center"> Open development environments to preserve stable climate, global energy supply and vital natural resources</h4>
 <p align="center"><i>Find more information in the <a href="https://protontypes.eu/blog/2020/10/05/gathering-open-sustainable-technology/"> official blog post.</i></p>
   
 <p align="center">
@@ -541,6 +541,7 @@ solved in time.
 - [maja](https://github.com/CNES/MAJA) - is an atmospheric correction and cloud screening software.
 - [VAPOR](https://github.com/NCAR/VAPOR) - is the Visualization and Analysis Platform for Ocean, Atmosphere, and Solar Researchers.
 - [CoralNet](https://github.com/beijbom/coralnet) - is a website which serves as a repository and resource for benthic image analysis.
+- [MiMA](https://github.com/mjucker/MiMA) - Model of an idealized Moist Atmosphere: Intermediate-complexity General Circulation Model with full radiation.
 
 
 ## Access and Monitoring of Resources
