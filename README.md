@@ -1,5 +1,5 @@
 <h1 align="center">Awesome Sustainable Technology </h1>
-<h4 align="center"> Open development environments to preserve stable climate, energy supply and vital natural resources</h4>
+<h4 align="center"> Open source projects to preserve stable climate, energy supply and vital natural resources</h4>
 <p align="center"><i>Find more information in the <a href="https://protontypes.eu/blog/2020/10/05/gathering-open-sustainable-technology/"> official blog post.</i></p>
   
 <p align="center">
