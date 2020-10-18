@@ -174,6 +174,8 @@ solved in time.
 - [ISEAFramework](https://github.com/FHust/ISEAFramework) - allows coupled electrical-thermal simulations of single storage systems (e.g. lithium ion batteries or double layer capacitors) or complete storage system packs.
 - [Ampere](https://github.com/nealde/Ampere) - Advanced Model Package for ElectRochemical Experiments
 - [StorageVET](https://github.com/epri-dev/StorageVET) - is a valuation model for analysis of energy storage technologies and some other energy resources paired with storage. 
+- [offgridsystems](https://github.com/offgridsystems/Documents) - Data sheet and assembly manual, component data sheets, busbars and files needed to build no-weld wireless BMS DKblock style battery packs.
+
 
 ### Hydrogen
 - [OPEM](https://github.com/ECSIM/opem) - is a modeling tool for evaluating the performance of proton exchange membrane fuel cells.
