@@ -241,6 +241,7 @@ solved in time.
 - [MPCPy](https://github.com/lbl-srg/MPCPy) - the python-based open-source platform for model predictive control in buildings.
 - [obc](https://github.com/lbl-srg/obc) - Performance Evaluation, Specification, Deployment and Verification of Building Control Sequences. 
 - [The Application Domain Extension (ADE) Energy](https://git.rwth-aachen.de/energyade/citygml-energy) - defines a standardized data model based on CityGML format for urban energy analyses, aiming to be a reference exchange data format between different urban modelling tools and expert databases.
+- [PLANHEAT Tool](https://github.com/Planheat/Planheat-Tool) - is a Q-GIS plug-in, based on an open-source code, whose goal is to analyse, plan and simulate low carbon Heating & Cooling scenarios.
 
 
 ### Mobility and Transportation
