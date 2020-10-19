@@ -208,6 +208,7 @@ solved in time.
 - [PowerDynamics.jl](https://github.com/JuliaEnergy/PowerDynamics.jl) - provides all the tools you need to create a dynamic power grid model and analyze it.
 - [InfrastructureSystems.jl](https://github.com/NREL-SIIP/InfrastructureSystems.jl) - provides utilities to support data models for infrastructure modeling in NREL-SIIP. 
 - [openleadr](https://www.lfenergy.org/projects/openleadr/) - Open Automated Demand Response (OpenADR) is an open and interoperable information exchange model and emerging smart grid standard.
+- [GridCal](https://github.com/SanPen/GridCal) - aims to be a complete platform for power systems research and simulation.
 
 
 ## Energy Consumption
@@ -340,6 +341,7 @@ solved in time.
 - [openENTRANCE](https://github.com/openENTRANCE/nomenclature) - The Horizon 2020 openENTRANCE project aims at developing, using and disseminating an open, transparent and integrated modelling platform for assessing low-carbon transition pathways in Europe.
 - [Joulia.jl](https://github.com/JuliaEnergy/Joulia.jl) - A Large-Scale Spatial Power System Model for Julia
 - [The IDAES Toolkit](https://github.com/IDAES/idaes-pse) -  aims to provide multi-scale, simulation-based, open source computational tools and models to support the design, analysis, optimization, scale-up, operation and troubleshooting of innovative, advanced energy systems.
+- [Temoa](https://github.com/TemoaProject/temoa) - Tools for Energy Model Optimization and Analysis (Temoa) is an open source modeling framework for conducting energy system analysis
 
 
 ### Analysis
@@ -398,6 +400,8 @@ solved in time.
 - [SolarData](https://github.com/dazhiyang/SolarData) - Download and manipulate some publicly available solar datasets.
 - [UKgrid](https://github.com/RamiKrispin/UKgrid) - An R data package with the UK National Grid historical demand for electricity between April 2005 and October 2019.
 - [USgrid](https://github.com/RamiKrispin/USgrid) - The hourly demand and supply of electricity in the US.
+- [ESIOS](https://github.com/SanPen/ESIOS) - Comprehensive library to access the Spanish electricity market entity in Python.
+
 
 ## Emissions and Greenhouse Gases
 
