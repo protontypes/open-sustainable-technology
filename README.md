@@ -652,7 +652,7 @@ solved in time.
 - [protontypes](https://protontypes.eu/) - open accelerator for free and sustainable innovation.
 - [Open Energy Family](https://github.com/OpenEnergyPlatform) - The Open Energy Family aims to ensure quality, transparency and reproducibility in energy system research. 
 - [Open Climate Fix](https://openclimatefix.org/) - Using computers to fix climate change.
-- [os-climate](https://www.os-climate.org/) - Open Source To Accelerate Climate Integrated Investing
+- [os-climate](https://www.os-climate.org/) - Open source to accelerate climate integrated investing
 
 
 *Animation created with [An Animated Map of the Earth](https://github.com/eleanorlutz/earth_atlas_of_space) by [Eleanor Lutz](https://twitter.com/eleanor_lutz)*
