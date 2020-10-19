@@ -230,6 +230,7 @@ solved in time.
 - [OpenStudio-HPXML](https://github.com/NREL/OpenStudio-HPXML) - Modeling of residential buildings in EnergyPlus using OpenStudio/HPXML.
 - [AixLib](https://github.com/RWTH-EBC/AixLib) - A Modelica model library for building performance simulations.
 - [TEASER](https://github.com/RWTH-EBC/TEASER) - Tool for Energy Analysis and Simulation for Efficient Retrofit.
+- [pyCity](https://github.com/RWTH-EBC/pyCity) - Python package for data handling and scenario generation of city districts and urban energy systems.
 - [tespy](https://github.com/oemof/tespy) - provides a powerful simulation toolkit for thermal engineering plants such as power plants, district heating systems or heat pumps.
 - [RC_BuildingSimulator](https://github.com/architecture-building-systems/RC_BuildingSimulator) - A Resistance Capacitance Model for an Energetic Simulation of a Building.
 - [CEA](https://github.com/architecture-building-systems/CityEnergyAnalyst) - helps you to analyse the effects of building retrofits, land-use planning, district heating and cooling and renewable energy on the future costs, emissions and energy consumption of neighbourhoods and districts.
