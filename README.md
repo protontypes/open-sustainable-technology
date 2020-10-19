@@ -356,6 +356,7 @@ solved in time.
 - [MVS](https://github.com/rl-institut/mvs_eland) - The multi-vector simulator allows the evaluation of local sector-coupled energy systems that include the energy carriers electricity, heat and/or gas.
 - [PowNet](https://github.com/kamal0013/PowNet) - is a least-cost optimization model for simulating the Unit Commitment and Economic Dispatch of large-scale (regional to country) power systems.
 - [OpenIPSL](https://github.com/OpenIPSL/OpenIPSL) - A library of power system component models written in the Modelica language that can be used for power system dynamic analysis, such as phasor time-domain simulations.
+- [pyam](https://github.com/IAMconsortium/) - provides a suite of tools and functions for analyzing and visualizing input data (i.e., assumptions/parametrization) and results (model output) of integrated-assessment scenarios, energy systems analysis, and sectoral studies.
 
 ### Optimization
 
