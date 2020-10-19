@@ -209,6 +209,8 @@ solved in time.
 - [InfrastructureSystems.jl](https://github.com/NREL-SIIP/InfrastructureSystems.jl) - provides utilities to support data models for infrastructure modeling in NREL-SIIP. 
 - [openleadr](https://www.lfenergy.org/projects/openleadr/) - Open Automated Demand Response (OpenADR) is an open and interoperable information exchange model and emerging smart grid standard.
 - [GridCal](https://github.com/SanPen/GridCal) - aims to be a complete platform for power systems research and simulation.
+- [pyehub](https://gitlab.com/energyincities/python-ehub) - A python-based, modular and nestable implementation of the Energy Hub model (balancing demand and supply, system capacity sizing and network flows using Mixed-Integer Linear Programming).
+
 
 
 ## Energy Consumption
@@ -244,6 +246,7 @@ solved in time.
 - [obc](https://github.com/lbl-srg/obc) - Performance Evaluation, Specification, Deployment and Verification of Building Control Sequences. 
 - [The Application Domain Extension (ADE) Energy](https://git.rwth-aachen.de/energyade/citygml-energy) - defines a standardized data model based on CityGML format for urban energy analyses, aiming to be a reference exchange data format between different urban modelling tools and expert databases.
 - [PLANHEAT Tool](https://github.com/Planheat/Planheat-Tool) - is a Q-GIS plug-in, based on an open-source code, whose goal is to analyse, plan and simulate low carbon Heating & Cooling scenarios.
+- [Energy Signature Analyser](https://gitlab.com/energyincities/energy-signature-analyser) - This is a toolbox to analyse energy signatures of buildings and compare the signatures of all buildings within an entire building stock.
 
 
 ### Mobility and Transportation
