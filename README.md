@@ -124,6 +124,7 @@ _Your contribution is necessary to keep this list alive, increase the quality an
 - [AirfoilPreppy](https://github.com/WISDEM/AirfoilPreppy) - A Python module for preprocessing and evaluating aerodynamic airfoil data, primarily for wind turbine applications.
 - [GreenGuard](https://github.com/signals-dev/GreenGuard) - is a collection of end-to-end solutions for machine learning problems commonly found in monitoring wind energy production system
 - [pv-terms](https://github.com/DuraMAT/pv-terms) - contains nomenclature for PV-relevant terms that are used in modeling and data analysis for PV systems.
+- [pyconturb](https://gitlab.windenergy.dtu.dk/pyconturb/pyconturb) - Constrained Stochastic Turbulence for Wind Energy Applications
 
 
 ### Hydro Energy
