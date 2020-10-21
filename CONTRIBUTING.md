@@ -2,7 +2,7 @@
 protontypes welcomes all new contributors to the "awesome-sustainable-technology" list. The inclusion of different perspectives in the project is important to us, so we are looking for a diverse community to engage in constructive discussions.  
 
 # Guideline
-> _Gathering state-of-the-art open source technology preserving global energy supply and vital natural resources_
+> _For technology to be truly sustainable, everyone must have access to it and be able to adapt it to their needs. As climate change is a globally emerging challenge, protontypes is starting the unique attempt to map all open sustainable technology in one list. By spreading knowledge in this domain with open software, standards, tools, and platforms a sustainable economy can be reached in a much shorter timespan._
 
 ## Energy Supply
 Global energy supply is a central basis for human life. The following aspects should be the focus of attention in order to ensure global scalability:
