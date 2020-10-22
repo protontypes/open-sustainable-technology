@@ -99,7 +99,7 @@ _Your contribution is necessary to keep this list alive, increase the quality an
 - [solariot](https://github.com/meltaxa/solariot) - Leverage your IoT enabled Solar PV Inverter to stream your solar energy usage data to a real time dashboard.
 - [pvanalytics](https://github.com/pvlib/pvanalytics) - Quality control, filtering, feature labeling, and other tools for working with data from photovoltaic energy systems.
 - [IonMonger](https://github.com/PerovskiteSCModelling/IonMonger) - A free and fast perovskite solar cell simulator with coupled ion vacancy and charge carrier dynamics in one dimension.
-- [rayflare](https://github.com/qpv-research-group/rayflare) - Open-source, integrated optical modelling of complex stacks
+- [rayflare](https://github.com/qpv-research-group/rayflare) - provide a flexible, user-friendly Python environment to model complex optical stacks, with a focus on solar cells.
 
 
 ### Wind Turbines
