@@ -432,6 +432,7 @@ solved in time.
 - [DuMux](https://git.iws.uni-stuttgart.de/dumux-repositories/dumux) - is based on the DUNE framework and aims to provide a multitude of numerical models as well as flexible discretization methods for complex non-linear phenomena, such as CO2 sequestration, soil remediation, drug delivery in cancer therapy and more.
 - [batch7 satellite ges](https://github.com/dataforgoodfr/batch7_satellite_ges/) - The goal of our project is to localize CO2 emissions on Earth based on the the carbon concentration data measured by the OCO-2 Satellite from NASA.
 - [CO2 Emission Datasets](https://www.che-project.eu/data-portal) - The CHE Data Portal provides an interface to the distributed data used and made available through the project, either as input data sets or as resulting data sets.
+- [Global Carbon Budget](https://github.com/openclimatedata/global-carbon-budget) - is an annual living data publication of carbon cycle sources and sinks, generated from multiple data sources and by multiple organisations and research groups.
 
 ### Carbon Capture
 - [SimCCS](https://github.com/simccs/SimCCS) - is a software platform for carbon capture and storage infrastructure design.
