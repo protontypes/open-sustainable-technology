@@ -574,7 +574,7 @@ solved in time.
 - [airqmon](https://github.com/jsynowiec/airqmon) - A macOS menu bar application that displays live air quality data from the nearest sensor station.
 - [opendata-stuttgart](https://github.com/opendata-stuttgart/sensors-software) - The maintained main firmware for the Luftdaten.Info Sensor.
 - [AirCasting](https://github.com/HabitatMap/AirCasting) - the project aims to build a platform for gathering, visualization and sharing of environmental data.
-- [openair: Tools for air quality data analysis](https://github.com/davidcarslaw/openair) - openair is an R package developed for the purpose of analyzing air quality data — or more generally atmospheric composition data.
+- [openair](https://github.com/davidcarslaw/openair) - openair is an R package developed for the purpose of analyzing air quality data — or more generally atmospheric composition data.
 - [ropensci](https://github.com/ropensci/ropenaq) - OpenAQ is a community of scientists, software developers, and lovers of open environmental data who are building an open, real-time database that provides programmatic and historical access to air quality data.
 - [airQualityMeter](https://github.com/rpanfili/airQualityMeter) - Detects air particulate matter (PM - pm1, pm2.5, pm10) concentrations and sends data to an MQTT server.
 - [splitr](https://github.com/rich-iannone/splitr) - We can determine, from one or more receptor sites, where arriving air masses originated
