@@ -668,8 +668,8 @@ solved in time.
 
 ### Open and Sustainable Technology Communities
 - [openmod-initiative](https://forum.openmod-initiative.org/) - We believe that more openness in energy modelling increases transparency and credibility, reduces wasteful double-work and improves overall quality.
-- [sustainoss](https://sustainoss.org/) Sustainability doesn't just mean code. How can we make our work sustainable environmentally, too? How can we share our knowledge of open source with other groups in the world?
-- [lfenergy](https://www.lfenergy.org/) - is an open source foundation focused on the power systems sector, hosted within The Linux Foundation.
+- [SustainOSS](https://sustainoss.org/) - Sustainability doesn't just mean code. How can we make our work sustainable environmentally, too? How can we share our knowledge of open source with other groups in the world?
+- [LFEnergy](https://www.lfenergy.org/) - is an open source foundation focused on the power systems sector, hosted within The Linux Foundation.
 - [protontypes](https://protontypes.eu/) - open accelerator for free and sustainable innovation.
 - [Open Energy Family](https://github.com/OpenEnergyPlatform) - The Open Energy Family aims to ensure quality, transparency and reproducibility in energy system research. 
 - [Open Climate Fix](https://openclimatefix.org/) - Using computers to fix climate change.
