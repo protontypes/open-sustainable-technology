@@ -481,7 +481,7 @@ solved in time.
 - [forestmangr](https://github.com/sollano/forestmangr) - R package for forest mensuration and management.
 - [CART](https://github.com/jneme910/CART) - The Conservation Assessment Ranking Tool (CART) is designed for use in the conservation planning process to assess resource concerns, planned practices, and site vulnerability.
 - [forest-prediction](https://github.com/DS3Lab/forest-prediction) - Deep learning for deforestation classification and forecasting in satellite imagery.
-
+- [BIRDS](https://github.com/Greensway/BIRDS) - This set of tools has been developed for systematizing biodiversity data review in order to evaluate whether a set of species observation are fit-for-use and help take decisions upon its use on further analysis.
 
 
 ### Ice and Poles
