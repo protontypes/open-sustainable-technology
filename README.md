@@ -673,7 +673,11 @@ solved in time.
 - [protontypes](https://protontypes.eu/) - open accelerator for free and sustainable innovation.
 - [Open Energy Family](https://github.com/OpenEnergyPlatform) - The Open Energy Family aims to ensure quality, transparency and reproducibility in energy system research. 
 - [Open Climate Fix](https://openclimatefix.org/) - Using computers to fix climate change.
-- [os-climate](https://www.os-climate.org/) - Open source to accelerate climate integrated investing
+- [os-climate](https://www.os-climate.org/) - Open source to accelerate climate integrated investing.
+- [Reiner Lemoine Institut](https://reiner-lemoine-institut.de/) - independent non-profit research institution working towards a future with 100 % Renewable Energy in our three research units Transformation of Energy Systems, Mobility with Renewably Energy and Off-Grid Systems.
+- [CliMA](https://clima.caltech.edu/) - An alliance of scientists, engineers and applied mathematicians, dedicated to pioneering a new, data-informed approach to climate modeling
+- [National Renewable Energy Laboratory](https://github.com/NREL) - is transforming energy through research, development, commercialization, and deployment of renewable energy and energy efficiency technologies.
+- [U.S. Environmental Protection Agency](https://github.com/USEPA) - Our mission is to protect human health and the environment.
 
 
 *Animation created with [An Animated Map of the Earth](https://github.com/eleanorlutz/earth_atlas_of_space) by [Eleanor Lutz](https://twitter.com/eleanor_lutz)*
