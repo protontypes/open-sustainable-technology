@@ -246,7 +246,7 @@ solved in time.
 - [BuildSysPro](https://github.com/EDF-TREE/BuildSysPro) - is EDF's Modelica library for buildings, districts and energy systems modelling.
 - [MPCPy](https://github.com/lbl-srg/MPCPy) - the python-based open-source platform for model predictive control in buildings.
 - [obc](https://github.com/lbl-srg/obc) - Performance Evaluation, Specification, Deployment and Verification of Building Control Sequences. 
-- [The Application Domain Extension (ADE) Energy](https://github.com/cstb/citygml-energy) - defines a standardized data model based on CityGML format for urban energy analyses, aiming to be a reference exchange data format between different urban modelling tools and expert databases.
+- [The Application Domain Extension](https://github.com/cstb/citygml-energy) - defines a standardized data model based on CityGML format for urban energy analyses, aiming to be a reference exchange data format between different urban modelling tools and expert databases.
 - [PLANHEAT Tool](https://github.com/Planheat/Planheat-Tool) - is a Q-GIS plug-in, based on an open-source code, whose goal is to analyse, plan and simulate low carbon Heating & Cooling scenarios.
 - [Energy Signature Analyser](https://gitlab.com/energyincities/energy-signature-analyser) - This is a toolbox to analyse energy signatures of buildings and compare the signatures of all buildings within an entire building stock.
 - [BuildingSystems](https://github.com/UdK-VPT/BuildingSystems) - The Modelica open-source BuildingSystems library is developed for dynamic simulation of the energetic behavior of single rooms, buildings and whole districts.
