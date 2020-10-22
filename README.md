@@ -561,6 +561,7 @@ solved in time.
 - [lowtran](https://github.com/space-physics/lowtran) - atmospheric absorption extinction, scatter and irradiance model in Python and Matlab.
 - [ForestGEO](https://github.com/forestgeo/Climate) - This public repository is a portal for climate data and information for ForestGEO sites.
 - [canadaHCD](https://github.com/gavinsimpson/canadaHCD/) - Access Canadian Historical Climate Data from R.
+- [climatedataguide](https://climatedataguide.ucar.edu/) - Search and access 212 data sets covering the Atmosphere, Ocean, Land and more. Explore climate indices, reanalyses and satellite data and understand their application to climate model metrics.
 
 
 ## Access and Monitoring of Resources
