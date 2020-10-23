@@ -2,7 +2,7 @@
 protontypes welcomes all new contributors to the "awesome-sustainable-technology" list. The inclusion of different perspectives in the project is important to us, so we are looking for a diverse community to engage in constructive discussions.  
 
 # Guideline
-> _Gathering state-of-the-art open source technology preserving global energy supply and vital natural resources_
+> _For technology to be truly sustainable, everyone must have access to it and be able to adapt it to their needs. As climate change is a globally emerging challenge, protontypes is starting the unique attempt to map all open sustainable technology in one list. By spreading knowledge in this domain with open software, standards, tools, and platforms a sustainable economy can be reached in a much shorter timespan._
 
 ## Energy Supply
 Global energy supply is a central basis for human life. The following aspects should be the focus of attention in order to ensure global scalability:
@@ -12,7 +12,7 @@ Global energy supply is a central basis for human life. The following aspects sh
 * Low impact on vital natural resources such as climate, water, soil or forests
 * High robustness and easy maintenance 
 
-In order to understand the impact on different ecosystems and other natural resources, these need to be monitored and recorded. Only in this way can the impact of our actions be understood on a global scale. Besides 
+In order to understand the impact on different ecosystems and other natural resources, these need to be monitored and recorded. Only in this way can the impact of our actions be understood on a global scale.  
 
 ## Vital Natural Resources
 
@@ -22,10 +22,8 @@ All life on earth is based on the availability of limited natural resources.  En
 
 * The project must comply as closely as possible with the [Guideline](#guideline).
 * You need to show that others than the project main developers are using the project. 
-* The project needs a unique selling proposition that distinguishes it from others. Various aspects can be taken into account: a new technical approach, high performance, high usability, support for a new development environment, etc...
-* Larger parts of the project are published under an [open source license](https://choosealicense.com/) 
-* The project is still actively maintained. We consider projects as still active if new code has been added or questions are answered and completed in the last 18 months. 
-* Documentation for installation and usage need to be provided. 
+* Larger parts of the project are published under an [open source license](https://choosealicense.com/). 
+* Have good reasons why the project is awesome and why it is useful. 
 
 
 ## How to contribute to the list 
