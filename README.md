@@ -678,6 +678,7 @@ solved in time.
 - [CliMA](https://clima.caltech.edu/) - An alliance of scientists, engineers and applied mathematicians, dedicated to pioneering a new, data-informed approach to climate modeling
 - [National Renewable Energy Laboratory](https://github.com/NREL) - is transforming energy through research, development, commercialization, and deployment of renewable energy and energy efficiency technologies.
 - [U.S. Environmental Protection Agency](https://github.com/USEPA) - Our mission is to protect human health and the environment.
+- [Earth System Community Modeling Portal](https://github.com/ESCOMP) - is a large, community-oriented earth system modeling projects of broad interest.
 
 
 *Animation created with [An Animated Map of the Earth](https://github.com/eleanorlutz/earth_atlas_of_space) by [Eleanor Lutz](https://twitter.com/eleanor_lutz)*
