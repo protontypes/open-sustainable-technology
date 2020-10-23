@@ -616,7 +616,7 @@ solved in time.
 - [RTC-Tools](https://gitlab.com/deltares/rtc-tools) - a toolbox for control and optimization of water systems.
 - [EPANET](https://github.com/OpenWaterAnalytics/EPANET) - The Water Distribution System Hydraulic and Water Quality Analysis Toolkit.
 - [pyswmm](https://github.com/OpenWaterAnalytics/pyswmm) - Python Wrapper for Stormwater Management Model
-
+- [SELEN](https://github.com/geodynamics/selen) - an open-source Fortran code for the numerical solution of the Sea Level Equation (SLE) for a spherical, layered, rotating earth with viscoelastic rheology.
 
 
 ### Soil
@@ -634,8 +634,6 @@ solved in time.
 - [esa_cci_sm](https://github.com/TUW-GEO/esa_cci_sm) - Readers and converters for ESA CCI Soil Moisture image and time series data.
 - [US_SoilGrids100m](https://github.com/aramcharan/US_SoilGrids100m) - Complete-coverage gridded predictions of soil properties (percent organic carbon, total nitrogen, bulk density, pH, and percent sand and clay) and classes (taxonomic great group and particle size in the control section) for the Conterminous U.S.
 - [pytesmo](https://github.com/TUW-GEO/pytesmo) - python Toolbox for the Evaluation of Soil Moisture Observations.
-- [Computational Infrastructure for Geodynamics](https://geodynamics.org/cig/software/) - A community-driven organization that advances Earth science by developing and disseminating software for geophysics and related fields.
-
 
 
 ## Circular Economy and Waste
@@ -654,7 +652,6 @@ solved in time.
 - [Awesome Open Climate Science](https://github.com/pangeo-data/awesome-open-climate-science) - Awesome Open Atmospheric, Ocean, and Climate Science.
 - [Awesome Earth](https://github.com/philsturgeon/awesome-earth) - "What can I do about the climate crisis?" Here are 326 things you can do.
 - [Awesome Open Geoscience](https://github.com/softwareunderground/awesome-open-geoscience) - Curated from repositories that make our lives as geoscientists, hackers and data wranglers easier or just more awesome.
-- [OntoSoft](https://www.ontosoft.org/portal/#home) - A platform to provide a community repository for geosciences software.
 - [Awesome Coastal](https://github.com/chrisleaman/awesome-coastal) - A curated list of awesome resources for coastal engineers and scientists.
 - [Open Energy System Databases](https://en.wikipedia.org/wiki/Open_energy_system_databases) - employ open data methods to collect, clean, and republish energy-related datasets for open use.
 - [Open Models](https://wiki.openmod-initiative.org/wiki/Open_Models) - This page lists energy models published under open source licenses.
