@@ -643,11 +643,9 @@ solved in time.
 ### Climate
 - [GHCN](https://www.ncdc.noaa.gov/data-access/land-based-station-data/land-based-datasets/global-historical-climatology-network-ghcn) is an observations database from meteorologic stations around the globe. Daily and monthly resolution data are available with the longest records up to 175 years. 
 - [CRU TS](https://crudata.uea.ac.uk/cru/data/hrg/) is the gridded archive of the Climatic Research Unit (University of East Anglia) and NCAS. The dataset was derived by the interpolation of monthly climate observations from extensive networks of weather stations.
-- [E-OBS](https://www.ecad.eu/download/ensembles/download.php)The most detailed gridded observations data archive for the whole Europe is 
-<!-- (https://surfobs.climate.copernicus.eu/dataaccess/access_eobs.php) --> 
-- [ECMWF Reanalyses](https://www.ecmwf.int/en/forecasts/datasets/browse-reanalysis-datasets)
-<!-- (https://cds.climate.copernicus.eu/cdsapp#!/search?type=dataset) -->
-- [NOAA PSL Reanalyses](https://psl.noaa.gov/data/gridded/reanalysis/index.html)
+- [E-OBS](https://www.ecad.eu/download/ensembles/download.php) is the detailed gridded observations data archive for the whole Europe  
+- [ECMWF Reanalyses](https://www.ecmwf.int/en/forecasts/datasets/browse-reanalysis-datasets) is a collection of reanalysis datasets produced the European Centre for Medium-Range Weather Forecasts (ERA family).   
+- [NOAA PSL Reanalyses](https://psl.noaa.gov/data/gridded/reanalysis/index.html) is a public reanalysis collection of the NOAA Physical Sciences Laboratory (NCEP, NARR, 20th Century Reanalysis)
 - [CMIP6 Datasets](https://pcmdi.github.io/CMIP6/) provides an access to the outputs of the current phase 6 of the Coupled Model Intercomparison Project (CMIP). CMIP6 global climate models give a base to (almost) all we may know for the climate of the future.
 
 
