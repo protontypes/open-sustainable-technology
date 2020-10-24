@@ -31,15 +31,15 @@
   * [Carbon Footprint](#carbon-footprint)
   * [Observation](#observation)
   * [Carbon Capture](#carbon-capture)
-- [Observation and Conservation of Ecosystems](#observation-and-conservation-of-ecosystems)
+- [Observation and Models of Ecosystems](#observation-and-models-of-ecosystems)
   * [Vegitation and Biodiversity](#vegitation-and-biodiversity)
   * [Ice and Poles](#ice-and-poles)
   * [Ocean and Climate](#ocean-and-climate)
+- [Datasets of Ecosystems](#datasets-of-ecosystems)   
 - [Access and Monitoring of Resources](#access-and-monitoring-of-resources)
   * [Air](#air)
   * [Water](#water)
   * [Soil](#soil)
-- [Datasets of Ecosystems](#datasets-of-ecosystems) 
 - [Circular Economy and Waste](#circular-economy-and-waste)
 - [Further Sustainability](#further-sustainability)
   * [Open Resources](#open-resources)
@@ -447,7 +447,7 @@ solved in time.
 - [Carbon Capture and Storage](https://github.com/yohanesnuwara/carbon-capture-and-storage) - This is a complete modelling workflow that integrates reservoir simulation data, rock physics, time-lapse seismic, and geomechanics of CO2 injection in carbonate rock.
 - [GEOSX](https://github.com/GEOSX/GEOSX) - is a simulation framework for modeling coupled flow, transport, and geomechanics in the subsurface.
 
-## Observation and Conservation of Ecosystems
+## Observation and Models of Ecosystems
 ### Vegitation and Biodiversity
 - [carbon budget](https://github.com/wri/carbon-budget) - This model maps gross greenhouse gas emissions from forests between 2001 and 2015, gross carbon removals by forests between 2001, and the difference between them (net flux).
 - [treeseg](https://github.com/apburt/treeseg/) - has been developed to near-automatically extract tree-level point clouds from high-density larger-area lidar point clouds acquired in forests.
@@ -490,6 +490,7 @@ solved in time.
 - [forest-prediction](https://github.com/DS3Lab/forest-prediction) - Deep learning for deforestation classification and forecasting in satellite imagery.
 - [BIRDS](https://github.com/Greensway/BIRDS) - This set of tools has been developed for systematizing biodiversity data review in order to evaluate whether a set of species observation are fit-for-use and help take decisions upon its use on further analysis.
 - [PlantCV](https://github.com/danforthcenter/plantcv) -  Plant phenotyping using computer vision.
+- [FATES](https://github.com/NGEET/fates) - is a cohort model of vegetation competition and co-existence, allowing a representation of the biosphere which accounts for the division of the land surface into successional stages.
 
 
 ### Ice and Poles
@@ -571,7 +572,18 @@ solved in time.
 - [climatedataguide](https://climatedataguide.ucar.edu/) - Search and access 212 data sets covering the Atmosphere, Ocean, Land and more. Explore climate indices, reanalyses and satellite data and understand their application to climate model metrics.
 - [The Community Earth System Model](https://github.com/ESCOMP/CESM) -  Composed of separate models simultaneously simulating the Earth’s atmosphere, ocean, land, river run-off, land-ice, and sea-ice, plus one central coupler/moderator component, it allows researchers to conduct fundamental research into the Earth’s past, present, and future climate states.
 - [Elefridge.jl](https://github.com/esowc/Elefridge.jl) - Compressing atmospheric data into its real information.
+- [Climate_Indices](https://github.com/monocongo/climate_indices) - contains Python implementations of various climate index algorithms which provide a geographical and temporal picture of the severity of precipitation and temperature anomalies useful for climate monitoring and research.
+- [esmtools](https://github.com/bradyrx/esmtools) - A toolbox for Earth System Model analysis.
 
+## Datasets of Ecosystems
+- [GHCN](https://www.ncdc.noaa.gov/data-access/land-based-station-data/land-based-datasets/global-historical-climatology-network-ghcn) is an observations database from meteorologic stations around the globe. Daily and monthly resolution data are available with the longest records up to 175 years. 
+- [CRU TS](https://crudata.uea.ac.uk/cru/data/hrg/) is the gridded archive of the Climatic Research Unit (University of East Anglia) and NCAS. The dataset was derived by the interpolation of monthly climate observations from extensive networks of weather stations.
+- [E-OBS](https://www.ecad.eu/download/ensembles/download.php) is the detailed gridded observations data archive for the whole Europe  
+- [ECMWF Reanalyses](https://www.ecmwf.int/en/forecasts/datasets/browse-reanalysis-datasets) is a collection of reanalysis datasets produced the European Centre for Medium-Range Weather Forecasts (ERA family).   
+- [NOAA PSL Reanalyses](https://psl.noaa.gov/data/gridded/reanalysis/index.html) is a public reanalysis collection of the NOAA Physical Sciences Laboratory (NCEP, NARR, 20th Century Reanalysis)
+- [MERRA- 2 Reanalysis](https://disc.sci.gsfc.nasa.gov/datasets?keywords=%22MERRA-2%22) is produced by NASA Global Modeling and Assimilation Office (GMAO). Apart of the surface observations assimilates space-based ones as well.
+- [CMIP6 Datasets](https://pcmdi.github.io/CMIP6/) provides an access to the outputs of the current phase 6 of the Coupled Model Intercomparison Project (CMIP). CMIP6 global climate models give a base to (almost) all we may know for the climate of the future.
+- [Climate Watch](https://github.com/Vizzuality/climate-watch) - offers open data, visualizations and analysis to help policymakers, researchers and other stakeholders gather insights on countries' climate progress
 
 ## Access and Monitoring of Resources
 
@@ -643,18 +655,6 @@ solved in time.
 - [Drought Indices Map](https://github.com/imartinezl/drought-map) - This project attempts to find an accesible and friendly way to visualize data of drought indices in Spain from 1961 until 2017.
 - [ml_drought](https://github.com/esowc/ml_drought) - A Machine Learning Pipeline to Predict Vegetation Health.
 - [droughtwatch](https://github.com/wandb/droughtwatch) - leverages deep learning and computer vision for drought resilience, using satellite images and human expert labels to detect drought conditions in Northern Kenya.
-
-
-## Datasets of Ecosystems
-- [GHCN](https://www.ncdc.noaa.gov/data-access/land-based-station-data/land-based-datasets/global-historical-climatology-network-ghcn) is an observations database from meteorologic stations around the globe. Daily and monthly resolution data are available with the longest records up to 175 years. 
-- [CRU TS](https://crudata.uea.ac.uk/cru/data/hrg/) is the gridded archive of the Climatic Research Unit (University of East Anglia) and NCAS. The dataset was derived by the interpolation of monthly climate observations from extensive networks of weather stations.
-- [E-OBS](https://www.ecad.eu/download/ensembles/download.php) is the detailed gridded observations data archive for the whole Europe  
-- [ECMWF Reanalyses](https://www.ecmwf.int/en/forecasts/datasets/browse-reanalysis-datasets) is a collection of reanalysis datasets produced the European Centre for Medium-Range Weather Forecasts (ERA family).   
-- [NOAA PSL Reanalyses](https://psl.noaa.gov/data/gridded/reanalysis/index.html) is a public reanalysis collection of the NOAA Physical Sciences Laboratory (NCEP, NARR, 20th Century Reanalysis)
-- [MERRA- 2 Reanalysis](https://disc.sci.gsfc.nasa.gov/datasets?keywords=%22MERRA-2%22) is produced by NASA Global Modeling and Assimilation Office (GMAO). Apart of the surface observations assimilates space-based ones as well.
-- [CMIP6 Datasets](https://pcmdi.github.io/CMIP6/) provides an access to the outputs of the current phase 6 of the Coupled Model Intercomparison Project (CMIP). CMIP6 global climate models give a base to (almost) all we may know for the climate of the future.
-
-
 
 ## Circular Economy and Waste
 - [ONEARMY](https://github.com/ONEARMY/community-platform) - A series of tools for the Precious Plastic community to collaborate around the world and tackle plastic waste.
