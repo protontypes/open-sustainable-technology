@@ -569,6 +569,7 @@ solved in time.
 - [canadaHCD](https://github.com/gavinsimpson/canadaHCD/) - Access Canadian Historical Climate Data from R.
 - [climatedataguide](https://climatedataguide.ucar.edu/) - Search and access 212 data sets covering the Atmosphere, Ocean, Land and more. Explore climate indices, reanalyses and satellite data and understand their application to climate model metrics.
 - [The Community Earth System Model](https://github.com/ESCOMP/CESM) -  Composed of separate models simultaneously simulating the Earth’s atmosphere, ocean, land, river run-off, land-ice, and sea-ice, plus one central coupler/moderator component, it allows researchers to conduct fundamental research into the Earth’s past, present, and future climate states.
+- [Elefridge.jl](https://github.com/esowc/Elefridge.jl) - Compressing atmospheric data into its real information.
 
 
 ## Access and Monitoring of Resources
@@ -687,6 +688,7 @@ solved in time.
 - [U.S. Environmental Protection Agency](https://github.com/USEPA) - Our mission is to protect human health and the environment.
 - [Earth System Community Modeling Portal](https://github.com/ESCOMP) - is a large, community-oriented earth system modeling projects of broad interest.
 - [RECO](https://www.greco-project.eu/) -  is a multinational research project funded by the European Commission. Its main goal is putting Open Science and other Responsible Research and Innovation approaches into action in a real research project in the photovoltaic sector.
+- [ECMWF Summer of Weather Code](https://github.com/esowc) - is a collaborative programme where each summer several developer teams work on innovative weather- and climate-related software.
 
 
 *Animation created with [An Animated Map of the Earth](https://github.com/eleanorlutz/earth_atlas_of_space) by [Eleanor Lutz](https://twitter.com/eleanor_lutz)*
