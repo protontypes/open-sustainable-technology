@@ -39,6 +39,7 @@
   * [Air](#air)
   * [Water](#water)
   * [Soil](#soil)
+- [Datasets of Ecosystems](#datasets-of-ecosystems) 
 - [Circular Economy and Waste](#circular-economy-and-waste)
 - [Further Sustainability](#further-sustainability)
   * [Open Resources](#open-resources)
@@ -642,6 +643,17 @@ solved in time.
 - [Drought Indices Map](https://github.com/imartinezl/drought-map) - This project attempts to find an accesible and friendly way to visualize data of drought indices in Spain from 1961 until 2017.
 - [ml_drought](https://github.com/esowc/ml_drought) - A Machine Learning Pipeline to Predict Vegetation Health.
 - [droughtwatch](https://github.com/wandb/droughtwatch) - leverages deep learning and computer vision for drought resilience, using satellite images and human expert labels to detect drought conditions in Northern Kenya.
+
+
+## Datasets of Ecosystems
+- [GHCN](https://www.ncdc.noaa.gov/data-access/land-based-station-data/land-based-datasets/global-historical-climatology-network-ghcn) is an observations database from meteorologic stations around the globe. Daily and monthly resolution data are available with the longest records up to 175 years. 
+- [CRU TS](https://crudata.uea.ac.uk/cru/data/hrg/) is the gridded archive of the Climatic Research Unit (University of East Anglia) and NCAS. The dataset was derived by the interpolation of monthly climate observations from extensive networks of weather stations.
+- [E-OBS](https://www.ecad.eu/download/ensembles/download.php) is the detailed gridded observations data archive for the whole Europe  
+- [ECMWF Reanalyses](https://www.ecmwf.int/en/forecasts/datasets/browse-reanalysis-datasets) is a collection of reanalysis datasets produced the European Centre for Medium-Range Weather Forecasts (ERA family).   
+- [NOAA PSL Reanalyses](https://psl.noaa.gov/data/gridded/reanalysis/index.html) is a public reanalysis collection of the NOAA Physical Sciences Laboratory (NCEP, NARR, 20th Century Reanalysis)
+- [MERRA- 2 Reanalysis](https://disc.sci.gsfc.nasa.gov/datasets?keywords=%22MERRA-2%22) is produced by NASA Global Modeling and Assimilation Office (GMAO). Apart of the surface observations assimilates space-based ones as well.
+- [CMIP6 Datasets](https://pcmdi.github.io/CMIP6/) provides an access to the outputs of the current phase 6 of the Coupled Model Intercomparison Project (CMIP). CMIP6 global climate models give a base to (almost) all we may know for the climate of the future.
+
 
 
 ## Circular Economy and Waste
