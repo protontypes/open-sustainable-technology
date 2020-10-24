@@ -643,6 +643,7 @@ solved in time.
 - [E-OBS](https://www.ecad.eu/download/ensembles/download.php) is the detailed gridded observations data archive for the whole Europe  
 - [ECMWF Reanalyses](https://www.ecmwf.int/en/forecasts/datasets/browse-reanalysis-datasets) is a collection of reanalysis datasets produced the European Centre for Medium-Range Weather Forecasts (ERA family).   
 - [NOAA PSL Reanalyses](https://psl.noaa.gov/data/gridded/reanalysis/index.html) is a public reanalysis collection of the NOAA Physical Sciences Laboratory (NCEP, NARR, 20th Century Reanalysis)
+- [MERRA- 2 Reanalysis](https://disc.sci.gsfc.nasa.gov/datasets?keywords=%22MERRA-2%22) is produced by NASA Global Modeling and Assimilation Office (GMAO). Apart of the surface observations assimilates space-based ones as well.
 - [CMIP6 Datasets](https://pcmdi.github.io/CMIP6/) provides an access to the outputs of the current phase 6 of the Coupled Model Intercomparison Project (CMIP). CMIP6 global climate models give a base to (almost) all we may know for the climate of the future.
 
 
