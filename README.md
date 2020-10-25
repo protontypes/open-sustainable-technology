@@ -667,6 +667,7 @@ solved in time.
 - [circularity.ID Open Data Standard]( https://github.com/circularfashion/cf-circularity-id-standard) - The standard represents the results and findings of an extensive six-year research into the needs of stakeholders in the fashion industry to achieve a circular economy.
 - [RecycleNet](https://github.com/sangminwoo/RecycleNet) - Effective trash classification model using only a small number of annotated images.
 - [trashnet](https://github.com/garythung/trashnet) - Dataset of images of trash; Torch-based CNN for garbage image classification.
+- [OpenLitterMap](https://github.com/OpenLitterMap/openlittermap-web) - is an open, interactive, and accessible database of the world's litter and plastic pollution.
 
 
 ## Further Sustainability
