@@ -255,6 +255,7 @@ solved in time.
 - [BuildingSystems](https://github.com/UdK-VPT/BuildingSystems) - The Modelica open-source BuildingSystems library is developed for dynamic simulation of the energetic behavior of single rooms, buildings and whole districts.
 - [modelica-ibpsa](https://github.com/ibpsa/modelica-ibpsa) - Modelica library for building and district energy systems developed within IBPSA Project 1
 - [project1](https://github.com/ibpsa/project1) - creates open-source software that builds the basis of next generation computing tools for the design and operation of building and district energy and control systems.
+- [teb](https://github.com/TEB-model/teb) - a library to calculate the urban surface energy balance at neighborhood scale assuming a simplified canyon geometry.
 
 
 ### Mobility and Transportation
@@ -689,6 +690,7 @@ solved in time.
 - [Investment Framework for a More Sustainable World](https://github.com/My-Climate-Journey/climate-sustainability-investment-framework) - This framework was created as a tool for those seeking to make emissions reductions and sustainability related investments with the goal of mitigating the impacts of climate change, based on guidelines set forth by Chamath Palihapitiya in July 2020.
 - [ProjectDrawdown](https://github.com/ProjectDrawdown/solutions) - The mission of Project Drawdown is to help the world reach “Drawdown”— the point in the future when levels of greenhouse gases in the atmosphere stop climbing and start to steadily decline, thereby stopping catastrophic climate change — as quickly, safely, and equitably as possible.
 - [Code against Climate Change](https://github.com/daviddao/code-against-climate-change) - A curated list of tech projects against climate change - hoping to inspire disruptive technological climate action!
+- [Earth and Environmental Data Science Book](https://github.com/earth-env-data-science/earth-env-data-science-book) - An Introduction to Earth and Environmental Data Science.
 
 
 ### Open and Sustainable Technology Communities
