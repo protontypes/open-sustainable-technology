@@ -702,6 +702,7 @@ solved in time.
 - [RECO](https://www.greco-project.eu/) -  is a multinational research project funded by the European Commission. Its main goal is putting Open Science and other Responsible Research and Innovation approaches into action in a real research project in the photovoltaic sector.
 - [ECMWF Summer of Weather Code](https://github.com/esowc) - is a collaborative programme where each summer several developer teams work on innovative weather- and climate-related software.
 - [Vizzuality](https://www.vizzuality.com/) - is a science and technology company focused on data visualization, web-GIS and tool development and committed to working on projects related to conservation, the environment and sustainable development.
+- [CarbonPlan](https://carbonplan.org/) - Improving the transparency and scientific integrity of carbon removal and climate solutions through open data and tools.
 
 
 *Animation created with [An Animated Map of the Earth](https://github.com/eleanorlutz/earth_atlas_of_space) by [Eleanor Lutz](https://twitter.com/eleanor_lutz)*
