@@ -228,7 +228,6 @@ solved in time.
 - [LoadProfileGenerator](https://github.com/FZJ-IEK3-VSA/LoadProfileGenerator) - Program for generating load curves for residential consumers. Agentbased and extremly detailed
 - [The-building-data-genome-project](https://github.com/buds-lab/the-building-data-genome-project) - A collection of non-residential buildings for performance analysis and algorithm benchmarking.
 - [VOLTTRON](https://github.com/VOLTTRON/volttron) - The platform provides services for collecting and storing data from buildings and devices and provides an environment for developing applications which interact with that data.
-- [OpenEnergyMonitor](https://github.com/openenergymonitor) - Open-source energy monitoring tools to help us relate to our use of energy, our energy systems and the challenge of sustainable energy.
 - [EnergyPlus](https://github.com/NREL/EnergyPlus) -  is a whole building energy simulation program that engineers, architects, and researchers use to model both energy consumption and water use in buildings.
 - [OpenStudio](https://github.com/NREL/OpenStudio) -  is a cross-platform collection of software tools to support whole building energy modeling using EnergyPlus and advanced daylight analysis using Radiance.
 - [BEMServer](https://github.com/HIT2GAP-EU-PROJECT/bemserver) - An open source Python server to deploy energy management solutions for buildings.
@@ -270,7 +269,8 @@ solved in time.
 - [icare](https://github.com/diowa/icare) - is an open source carpooling platform used as a basis for our commercial product Company Carpool.
 - [Carpoolear](https://github.com/STS-Rosario/carpoolear) - is the first Argentine Facebook app that allow the users of this social network share car trips with other users.
 - [UTD19](https://utd19.ethz.ch/) - Largest multi-city traffic dataset publically available.
-- [OpenEVSE](https://github.com/OpenEVSE/ESP8266_WiFi_v2.x) - Open Source Electric Vehicle Charging Station.
+- [OpenEVSE](https://github.com/lincomatic/open_evse) - Firmware for OpenEVSE: Open Source Hardware J1772 Electric Vehicle Supply Equipment.
+- [OpenEVSE](https://github.com/OpenEVSE/ESP8266_WiFi_v2.x) - The WiFi gateway uses an ESP8266 (ESP-12) which communicates with the OpenEVSE controller via serial utilizing the existing RAPI API serial interface.
 - [navitia](https://github.com/CanalTP/navitia) - is an open-source web API, initially built to provide traveler information on urban transportation networks.
 - [DeepMove](https://github.com/vonfeng/DeepMove) - Predicting Human Mobility with Attentional Recurrent Networks.
 - [mobility-data-specification](https://github.com/openmobilityfoundation/mobility-data-specification) - A data standard to enable communication between mobility companies and local governments.
@@ -394,6 +394,7 @@ solved in time.
 - [eemeter](https://github.com/openeemeter/eemeter) - An open source python package for implementing and developing standard methods for calculating normalized metered energy consumption and avoided energy use.
 - [OperatorFabric](https://github.com/opfab/operatorfabric-core) - is a modular, extensible, industrial-strength and field-tested platform for use in electricity, water, and other utility operations.
 - [energy-sparks](https://github.com/Energy-Sparks/energy-sparks) - an open source application that is designed to help schools improve their energy efficiency.
+- [EmonLib](https://github.com/openenergymonitor/EmonLib) - Arduino Energy Monitoring Library. 
 
 
 ## Datasets on Electricity Consumption and Generation
