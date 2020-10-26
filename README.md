@@ -357,6 +357,8 @@ solved in time.
 - [Joulia.jl](https://github.com/JuliaEnergy/Joulia.jl) - A Large-Scale Spatial Power System Model for Julia
 - [The IDAES Toolkit](https://github.com/IDAES/idaes-pse) -  aims to provide multi-scale, simulation-based, open source computational tools and models to support the design, analysis, optimization, scale-up, operation and troubleshooting of innovative, advanced energy systems.
 - [Temoa](https://github.com/TemoaProject/temoa) - Tools for Energy Model Optimization and Analysis (Temoa) is an open source modeling framework for conducting energy system analysis
+- [The REgional Model of INvestments and Development](https://github.com/remindmodel/remind) - The REgional Model of INvestments and Development is a modular open source multi-regional model incorporating the economy, the climate system and a detailed representation of the energy sector.
+- [PowerSystemDataModel](https://github.com/ie3-institute/PowerSystemDataModel) - Provides an extensive data model capable of modelling energy systems with high granularity e.g. for bottom-up simulations.
 
 
 ### Analysis
