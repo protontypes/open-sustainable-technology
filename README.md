@@ -643,6 +643,7 @@ solved in time.
 - [pyswmm](https://github.com/OpenWaterAnalytics/pyswmm) - Python Wrapper for Stormwater Management Model
 - [SELEN](https://github.com/geodynamics/selen) - an open-source Fortran code for the numerical solution of the Sea Level Equation (SLE) for a spherical, layered, rotating earth with viscoelastic rheology.
 - [se2waq](https://github.com/sentinel-hub/custom-scripts/tree/master/sentinel-2/se2waq) - script uses Sentinel-2 data to display the spatial distribution of six relevant indicators of water quality.
+- [HydroSHEDS](https://www.hydrosheds.org/) - offers a suite of geo-referenced data sets (vector & raster) at various scales, including river networks, watershed boundaries, drainage directions, and flow accumulations.
 
 
 ### Soil
