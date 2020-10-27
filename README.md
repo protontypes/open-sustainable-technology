@@ -717,6 +717,7 @@ solved in time.
 - [Vizzuality](https://www.vizzuality.com/) - is a science and technology company focused on data visualization, web-GIS and tool development and committed to working on projects related to conservation, the environment and sustainable development.
 - [CarbonPlan](https://carbonplan.org/) - Improving the transparency and scientific integrity of carbon removal and climate solutions through open data and tools.
 - [OpenEnergyMonitor](https://openenergymonitor.org/) - A Open-source community to help us relate to our use of energy, our energy systems and the challenge of sustainable energy.
+- [Technical University of Denmark Wind Energy](https://gitlab.windenergy.dtu.dk/explore) 
 
 
 *Animation created with [An Animated Map of the Earth](https://github.com/eleanorlutz/earth_atlas_of_space) by [Eleanor Lutz](https://twitter.com/eleanor_lutz)*
