@@ -718,6 +718,7 @@ solved in time.
 - [CarbonPlan](https://carbonplan.org/) - Improving the transparency and scientific integrity of carbon removal and climate solutions through open data and tools.
 - [OpenEnergyMonitor](https://openenergymonitor.org/) - A Open-source community to help us relate to our use of energy, our energy systems and the challenge of sustainable energy.
 - [DTU Wind Energy](https://gitlab.windenergy.dtu.dk/explore) - Technical University of Denmark Wind Energy
+- [ROpenSci](https://ropensci.org/) - We help develop R packages for the sciences via community driven learning, review and maintenance of contributed software in the R ecosystem.
 
 
 *Animation created with [An Animated Map of the Earth](https://github.com/eleanorlutz/earth_atlas_of_space) by [Eleanor Lutz](https://twitter.com/eleanor_lutz)*
