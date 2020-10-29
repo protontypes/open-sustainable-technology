@@ -587,6 +587,8 @@ solved in time.
 - [Climate_Indices](https://github.com/monocongo/climate_indices) - contains Python implementations of various climate index algorithms which provide a geographical and temporal picture of the severity of precipitation and temperature anomalies useful for climate monitoring and research.
 - [esmtools](https://github.com/bradyrx/esmtools) - A toolbox for Earth System Model analysis.
 - [Mission Support System](https://mss.readthedocs.io/en/stable/about.html) - The purpose is to have a tool that simplifies the process for planning a scientific flight in which parameters of the atmosphere are measured.
+- [ClimateBase.jl](https://github.com/JuliaClimate/ClimateBase.jl) - is a Julia package offering basic functionality for analyzing data that are typically in the form used by climate sciences.
+
 
 ## Datasets of Ecosystems
 - [GHCN](https://www.ncdc.noaa.gov/data-access/land-based-station-data/land-based-datasets/global-historical-climatology-network-ghcn) is an observations database from meteorologic stations around the globe. Daily and monthly resolution data are available with the longest records up to 175 years. 
