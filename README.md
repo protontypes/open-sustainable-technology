@@ -391,6 +391,7 @@ solved in time.
 - [WHAT-IF](https://github.com/RaphaelPB/WHAT-IF) - Water, Hydropower, Agriculture Tool for Investment and Financing decision support tool.
 - [CityLearn](https://github.com/intelligent-environments-lab/CityLearn) - Official reinforcement learning environment for demand response and load shaping.
 - [rl-testbed-for-energyplus](https://github.com/IBM/rl-testbed-for-energyplus) - Reinforcement Learning Testbed for Power Consumption Optimization using EnergyPlus.
+- [tsam](https://github.com/FZJ-IEK3-VSA/tsam) - is a python package which uses different machine learning algorithms for the aggregation of time series.
 
 ### Monitoring and Control
 
