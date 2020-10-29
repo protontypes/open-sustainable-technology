@@ -502,6 +502,7 @@ solved in time.
 - [BIRDS](https://github.com/Greensway/BIRDS) - This set of tools has been developed for systematizing biodiversity data review in order to evaluate whether a set of species observation are fit-for-use and help take decisions upon its use on further analysis.
 - [PlantCV](https://github.com/danforthcenter/plantcv) -  Plant phenotyping using computer vision.
 - [FATES](https://github.com/NGEET/fates) - is a cohort model of vegetation competition and co-existence, allowing a representation of the biosphere which accounts for the division of the land surface into successional stages.
+- [forestatrisk](https://github.com/ghislainv/forestatrisk) -  Python package to model and forecast the risk of deforestation.
 
 
 ### Ice and Poles
@@ -595,7 +596,8 @@ solved in time.
 - [NOAA PSL Reanalyses](https://psl.noaa.gov/data/gridded/reanalysis/index.html) is a public reanalysis collection of the NOAA Physical Sciences Laboratory (NCEP, NARR, 20th Century Reanalysis)
 - [MERRA- 2 Reanalysis](https://disc.sci.gsfc.nasa.gov/datasets?keywords=%22MERRA-2%22) is produced by NASA Global Modeling and Assimilation Office (GMAO). Apart of the surface observations assimilates space-based ones as well.
 - [CMIP6 Datasets](https://pcmdi.github.io/CMIP6/) provides an access to the outputs of the current phase 6 of the Coupled Model Intercomparison Project (CMIP). CMIP6 global climate models give a base to (almost) all we may know for the climate of the future.
-- [Climate Watch](https://github.com/Vizzuality/climate-watch) - offers open data, visualizations and analysis to help policymakers, researchers and other stakeholders gather insights on countries' climate progress
+- [Climate Watch](https://github.com/Vizzuality/climate-watch) - offers open data, visualizations and analysis to help policymakers, researchers and other stakeholders gather insights on countries' climate progress.
+- [EarthEngine](https://earthengine.google.com/) - A planetary-scale platform for Earth science data & analysis.
 
 ## Access and Monitoring of Resources
 
@@ -649,6 +651,7 @@ solved in time.
 - [SELEN](https://github.com/geodynamics/selen) - an open-source Fortran code for the numerical solution of the Sea Level Equation (SLE) for a spherical, layered, rotating earth with viscoelastic rheology.
 - [se2waq](https://github.com/sentinel-hub/custom-scripts/tree/master/sentinel-2/se2waq) - script uses Sentinel-2 data to display the spatial distribution of six relevant indicators of water quality.
 - [HydroSHEDS](https://www.hydrosheds.org/) - offers a suite of geo-referenced data sets (vector & raster) at various scales, including river networks, watershed boundaries, drainage directions, and flow accumulations.
+- [rivamap](https://github.com/isikdogan/rivamap) - An Automated River Analysis and Mapping Engine. 
 
 
 ### Soil
@@ -723,6 +726,5 @@ solved in time.
 - [OpenEnergyMonitor](https://openenergymonitor.org/) - A Open-source community to help us relate to our use of energy, our energy systems and the challenge of sustainable energy.
 - [DTU Wind Energy](https://gitlab.windenergy.dtu.dk/explore) - Technical University of Denmark Wind Energy
 - [ROpenSci](https://ropensci.org/) - We help develop R packages for the sciences via community driven learning, review and maintenance of contributed software in the R ecosystem.
-
 
 *Animation created with [An Animated Map of the Earth](https://github.com/eleanorlutz/earth_atlas_of_space) by [Eleanor Lutz](https://twitter.com/eleanor_lutz)*
