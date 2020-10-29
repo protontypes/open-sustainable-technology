@@ -359,6 +359,7 @@ solved in time.
 - [Temoa](https://github.com/TemoaProject/temoa) - Tools for Energy Model Optimization and Analysis (Temoa) is an open source modeling framework for conducting energy system analysis
 - [The REgional Model of INvestments and Development](https://github.com/remindmodel/remind) - The REgional Model of INvestments and Development is a modular open source multi-regional model incorporating the economy, the climate system and a detailed representation of the energy sector.
 - [PowerSystemDataModel](https://github.com/ie3-institute/PowerSystemDataModel) - Provides an extensive data model capable of modelling energy systems with high granularity e.g. for bottom-up simulations.
+- [PyPSA-Eur-Sec](https://github.com/PyPSA/pypsa-eur-sec) - A Sector-Coupled Open Optimisation Model of the European Energy System.
 
 
 ### Analysis
