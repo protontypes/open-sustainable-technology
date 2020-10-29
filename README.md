@@ -256,6 +256,7 @@ solved in time.
 - [modelica-ibpsa](https://github.com/ibpsa/modelica-ibpsa) - Modelica library for building and district energy systems developed within IBPSA Project 1
 - [project1](https://github.com/ibpsa/project1) - creates open-source software that builds the basis of next generation computing tools for the design and operation of building and district energy and control systems.
 - [teb](https://github.com/TEB-model/teb) - a library to calculate the urban surface energy balance at neighborhood scale assuming a simplified canyon geometry.
+- [tsib](https://github.com/FZJ-IEK3-VSA/tsib) - is a python package that builds up on different databases and models for creating consistent demand and production time series of residential buildings.
 
 
 ### Mobility and Transportation
