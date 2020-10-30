@@ -1,7 +1,11 @@
 <h1 align="center">Awesome Sustainable Technology </h1>
 <h4 align="center">Open source projects sustaining stable climate, energy supply and vital natural resources</h4>
+<p align="center">
+    <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg"
+        href="https://github.com/sindresorhus/awesome">
+</p>
 <p align="center"><i>Find more information in the <a href="https://protontypes.eu/blog/2020/10/05/gathering-open-sustainable-technology/"> official blog post.</i></p>
-  
+
 <p align="center">
   <img src="earth.gif" alt="animated" height="350" style="object-fit:contain" title="Artwork by Eleanor Lutz" />
 </p>
