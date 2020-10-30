@@ -32,7 +32,7 @@
   * [Observation](#observation)
   * [Carbon Capture](#carbon-capture)
 - [Observation and Models of Ecosystems](#observation-and-models-of-ecosystems)
-  * [Vegitation and Biodiversity](#vegitation-and-biodiversity)
+  * [Biodiversity](#biodiversity)
   * [Ice and Poles](#ice-and-poles)
   * [Ocean and Climate](#ocean-and-climate)
 - [Datasets of Ecosystems](#datasets-of-ecosystems)   
@@ -462,7 +462,7 @@ solved in time.
 - [GEOSX](https://github.com/GEOSX/GEOSX) - is a simulation framework for modeling coupled flow, transport, and geomechanics in the subsurface.
 
 ## Observation and Models of Ecosystems
-### Vegitation and Biodiversity
+### Biodiversity
 - [carbon budget](https://github.com/wri/carbon-budget) - This model maps gross greenhouse gas emissions from forests between 2001 and 2015, gross carbon removals by forests between 2001, and the difference between them (net flux).
 - [treeseg](https://github.com/apburt/treeseg/) - has been developed to near-automatically extract tree-level point clouds from high-density larger-area lidar point clouds acquired in forests.
 - [fgeo](https://github.com/forestgeo/fgeo) - Analyze forest diversity and dynamics.
@@ -710,7 +710,8 @@ solved in time.
 - [Code against Climate Change](https://github.com/daviddao/code-against-climate-change) - A curated list of tech projects against climate change - hoping to inspire disruptive technological climate action!
 - [Earth and Environmental Data Science Book](https://github.com/earth-env-data-science/earth-env-data-science-book) - An Introduction to Earth and Environmental Data Science.
 - [Free Earth Data Science Courses & Textbooks](https://github.com/earthlab/earthlab.github.io) - A site dedicated to tutorials, course and other learning materials and resources developed by the Earth Lab team.
-- [esm-lectures](https://github.com/nworbmot/esm-lectures) - Lecture slides for KIT Energy System Modelling course.
+- [ESM-lectures](https://github.com/nworbmot/esm-lectures) - Lecture slides for KIT Energy System Modelling course.
+- [Quantitative Plant](https://www.quantitative-plant.org/) - A website presenting image analysis software tools and models for plants
 
 
 ### Open and Sustainable Technology Communities
