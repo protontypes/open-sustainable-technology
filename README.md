@@ -7,6 +7,7 @@
 </p>
 <h5 align="center"> Artwork by Eleanor Lutz </h5>
 
+### Table of Contents
 - [Renewable Energy Sources](#renewable-energy-sources)
   * [Photovoltaic and Solar Energy](#photovoltaic-and-solar-energy)
   * [Wind Turbines](#wind-turbines)
