@@ -32,7 +32,7 @@
   * [Observation](#observation)
   * [Carbon Capture](#carbon-capture)
 - [Observation and Models of Ecosystems](#observation-and-models-of-ecosystems)
-  * [Biodiversity](#biodiversity)
+  * [Vegetation and Biodiversity](#vegetation-and-biodiversity)
   * [Ice and Poles](#ice-and-poles)
   * [Ocean and Climate](#ocean-and-climate)
 - [Datasets of Ecosystems](#datasets-of-ecosystems)   
@@ -462,7 +462,7 @@ solved in time.
 - [GEOSX](https://github.com/GEOSX/GEOSX) - is a simulation framework for modeling coupled flow, transport, and geomechanics in the subsurface.
 
 ## Observation and Models of Ecosystems
-### Biodiversity
+### Vegetation and Biodiversity
 - [carbon budget](https://github.com/wri/carbon-budget) - This model maps gross greenhouse gas emissions from forests between 2001 and 2015, gross carbon removals by forests between 2001, and the difference between them (net flux).
 - [treeseg](https://github.com/apburt/treeseg/) - has been developed to near-automatically extract tree-level point clouds from high-density larger-area lidar point clouds acquired in forests.
 - [fgeo](https://github.com/forestgeo/fgeo) - Analyze forest diversity and dynamics.
