@@ -724,7 +724,7 @@
 
 ## Contribution and Maintenance
 
-_Your contribution is necessary to keep this list alive, increase the quality and to expand it. The same applies to the projects listed here. You can read more about the list and how you can participate in the [Contribution Guide](contributing.md)._The maintenance of this list is carried out by [protontypes](https://protontypes.eu/). We are an _Open Accelerator for Free and Sustainable Innovation._
+_Your contribution is necessary to keep this list alive, increase the quality and to expand it. The same applies to the projects listed here. You can read more about the list and how you can participate in the [Contribution Guide](contributing.md)._ The maintenance of this list is carried out by [protontypes](https://protontypes.eu/). We are an _Open Accelerator for Free and Sustainable Innovation._
 
 [![](https://img.shields.io/twitter/follow/protontypes?style=social)](https://twitter.com/protontypes)
 
