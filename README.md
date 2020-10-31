@@ -11,67 +11,49 @@
 </p>
 <h5 align="center"> Artwork by Eleanor Lutz </h5>
 
-### Table of Contents
-- [Renewable Energy Sources](#renewable-energy-sources)
-  * [Photovoltaic and Solar Energy](#photovoltaic-and-solar-energy)
-  * [Wind Turbines](#wind-turbines)
-  * [Hydro Energy](#hydro-energy)
-  * [Geothermal Energy](#geothermal-energy)
-  * [Bioenergy](#bioenergy)
-- [Energy Storage](#energy-storage)
-  * [Battery](#battery)
-  * [Hydrogen](#hydrogen)
-- [Energy Distribution and Grids](#energy-distribution-and-grids)
-- [Energy Consumption](#energy-consumption)
-  * [Buildings and Cities](#buildings-and-cities)
-  * [Mobility and Transportation](#mobility-and-transportation)
-  * [Industry](#industry)
-- [Energy System Assessment](#energy-system-assessment)
-  * [Modeling](#modeling)
-  * [Analysis](#analysis)
-  * [Optimization](#optimization)
-  * [Monitoring and Control](#monitoring-and-control)
-- [Datasets on Electricity Consumption and Generation](#datasets-on-electricity-consumption-and-generation)
-- [Emissions and Greenhouse Gases](#emissions-and-greenhouse-gases)
-  * [Carbon Footprint](#carbon-footprint)
-  * [Observation](#observation)
-  * [Carbon Capture](#carbon-capture)
-- [Observation and Models of Ecosystems](#observation-and-models-of-ecosystems)
-  * [Vegetation and Biodiversity](#vegetation-and-biodiversity)
-  * [Ice and Poles](#ice-and-poles)
-  * [Ocean and Climate](#ocean-and-climate)
-- [Datasets of Ecosystems](#datasets-of-ecosystems)
-- [Access and Monitoring of Resources](#access-and-monitoring-of-resources)
-  * [Air](#air)
-  * [Water](#water)
-  * [Soil](#soil)
-- [Circular Economy and Waste](#circular-economy-and-waste)
-- [Further Sustainability](#further-sustainability)
-  * [Open Resources](#open-resources)
-  * [Open and Sustainable Technology Communities](#open-and-sustainable-technology-communities)
-
-
 ## Guideline
 > For technology to be truly sustainable, everyone must have access to it and be able to adapt it to their needs. As climate change is a globally emerging challenge, protontypes is starting the unique attempt to map all open sustainable technology in one list. By spreading knowledge in this domain with open software, standards, tools, and platforms a sustainable economy can be reached in a much shorter timespan.
 
-### Energy Supply
-Global energy supply is a central basis for human life. The following aspects should be the focus of attention in order to ensure global scalability:
+## Contents
 
-* Decentralised supply
-* High availability
-* Low impact on vital natural resources such as climate, water, soil or forests
-* High robustness and easy maintenance
-
-In order to understand the impact on different ecosystems and other natural resources, these need to be monitored and recorded. Only in this way can the impact of our actions be understood on a global scale.
-
-### Vital Natural Resources
-All life on earth is based on the availability of limited natural resources. Ensuring quality and accessibility for all life forms is a central task for sustainable technology.
-
-### Contribution and Maintenance
-
-_Your contribution is necessary to keep this list alive, increase the quality and to expand it. The same applies to the projects listed here. You can read more about the list and how you can participate in the [Contribution Guide](CONTRIBUTING.md)._ Maintenance is carried out by [protontypes](https://protontypes.eu/). We are an _Open Accelerator for Free and Sustainable Innovation._
-
-[![](https://img.shields.io/twitter/follow/protontypes?style=social)](https://twitter.com/protontypes)
+- [Renewable Energy Sources](#renewable-energy-sources)
+  - [Photovoltaic and Solar Energy](#photovoltaic-and-solar-energy)
+  - [Wind Turbines](#wind-turbines)
+  - [Hydro Energy](#hydro-energy)
+  - [Geothermal Energy](#geothermal-energy)
+  - [Bioenergy](#bioenergy)
+- [Energy Storage](#energy-storage)
+  - [Battery](#battery)
+  - [Hydrogen](#hydrogen)
+- [Energy Distribution and Grids](#energy-distribution-and-grids)
+- [Energy Consumption](#energy-consumption)
+  - [Buildings and Cities](#buildings-and-cities)
+  - [Mobility and Transportation](#mobility-and-transportation)
+  - [Industry](#industry)
+- [Energy System Assessment](#energy-system-assessment)
+  - [Modeling](#modeling)
+  - [Analysis](#analysis)
+  - [Optimization](#optimization)
+  - [Monitoring and Control](#monitoring-and-control)
+- [Datasets on Electricity Consumption and Generation](#datasets-on-electricity-consumption-and-generation)
+- [Emissions and Greenhouse Gases](#emissions-and-greenhouse-gases)
+  - [Carbon Footprint](#carbon-footprint)
+  - [Observation](#observation)
+  - [Carbon Capture](#carbon-capture)
+- [Observation and Models of Ecosystems](#observation-and-models-of-ecosystems)
+  - [Vegetation and Biodiversity](#vegetation-and-biodiversity)
+  - [Ice and Poles](#ice-and-poles)
+  - [Ocean and Climate](#ocean-and-climate)
+- [Datasets of Ecosystems](#datasets-of-ecosystems)
+- [Access and Monitoring of Resources](#access-and-monitoring-of-resources)
+  - [Air](#air)
+  - [Water](#water)
+  - [Soil](#soil)
+- [Circular Economy and Waste](#circular-economy-and-waste)
+- [Further Sustainability](#further-sustainability)
+  - [Open Resources](#open-resources)
+  - [Open and Sustainable Technology Communities](#open-and-sustainable-technology-communities)
+- [Contribution and Maintenance](#contribution-and-maintenance)
 
 ## Renewable Energy Sources
 ### Photovoltaic and Solar Energy
@@ -372,7 +354,7 @@ _Your contribution is necessary to keep this list alive, increase the quality an
 - [Open Energy Platform](https://github.com/OpenEnergyPlatform/oeplatform) - Aims to ensure quality, transparency and reproducibility in energy system research. It is a collection of various tools and information and that help working with energy related data.
 - [PyPSA](https://github.com/PyPSA/PyPSA) - A free software toolbox for simulating and optimising modern power systems that include features such as conventional generators with unit commitment, variable wind and solar generation, storage units, coupling to other energy sectors, and mixed alternating and direct current networks.
 - [oemof](https://github.com/oemof/oemof) - Open Energy Modelling Framework - A python toolbox for energy system modelling and optimisation. A community driven, modular, flexible and generic software project.
-- [pyGRETA](https://github.com/tum-ens/pyGRETA) - python Generator of REnewable Time series and mAps: a tool that generates high-resolution potential maps and time series for user-defined regions within the globe.
+- [pyGRETA](https://github.com/tum-ens/pyGRETA) - Python Generator of REnewable Time series and mAps: a tool that generates high-resolution potential maps and time series for user-defined regions within the globe.
 - [RESKit](https://github.com/FZJ-IEK3-VSA/RESKit) - A toolkit to help generate renewable energy generation time-series for energy systems analysis.
 - [PowSyBl](https://github.com/powsybl/powsybl-core) - An open source framework written in Java, that makes it easy to write complex software for power systems simulations and analysis.
 - [PowSyBl Open Load Flow](https://github.com/powsybl/powsybl-open-loadflow) - An open source implementation of the load flow API that can be found in PowSyBl Core. It supports AC Newtow-Raphson and linear DC calculation methods.
@@ -529,8 +511,8 @@ _Your contribution is necessary to keep this list alive, increase the quality an
 - [sea-ice](https://github.com/vannizhang/sea-ice) - displays the monthly mean sea ice extent for the Arctic and Antarctic along with the historical median extent.
 
 ### Ocean and Climate
-- [MOM6](https://github.com/NOAA-GFDL/MOM6) - is a numerical representation of the ocean fluid with applications from the process scale to the planetary circulation scale.
-- [MOM5](https://github.com/mom-ocean/MOM5) - is a numerical ocean model based on the hydrostatic primitive equations. Development of the model is managed through this GitHub site.
+- [MOM6](https://github.com/NOAA-GFDL/MOM6) - A numerical representation of the ocean fluid with applications from the process scale to the planetary circulation scale.
+- [MOM5](https://github.com/mom-ocean/MOM5) - A numerical ocean model based on the hydrostatic primitive equations. Development of the model is managed through this GitHub site.
 - [The Flexible Modeling System](https://github.com/NOAA-GFDL/FMS) - A software framework for supporting the efficient development, construction, execution, and scientific interpretation of atmospheric, oceanic, and climate system models.
 - [Bergen Layered Ocean Model](https://github.com/NorESMhub/BLOM) - Employs an isopycnic vertical coordinate, with near-isopycnic interior layers and variable density layers in the surface mixed boundary layer.
 - [CliFlo](https://github.com/ropensci/clifro) - Easily download and visualise climate data from New Zealand's National Climate Database.
@@ -580,7 +562,7 @@ _Your contribution is necessary to keep this list alive, increase the quality an
 - [climate](https://github.com/bczernecki/climate) - The goal of the climate R package is to automatize downloading of meteorological and hydrological data from publicly available repositories.
 - [rdwd](https://github.com/brry/rdwd) - An R package to select, download and read climate data from the German Weather Service.
 - [rWBclimate](https://github.com/ropensci/rWBclimate) - An R interface for the World Bank climate data used in the World Bank climate knowledge portal.
-- [TECA](https://github.com/LBL-EESA/TECA) - the Toolkit for Extreme Climate Analysis, contains a collection of climate anlysis algorithms targetted at extreme event detection and analysis.
+- [TECA](https://github.com/LBL-EESA/TECA) - The Toolkit for Extreme Climate Analysis, contains a collection of climate anlysis algorithms targetted at extreme event detection and analysis.
 - [Climate Data Store Toolbox](https://cds.climate.copernicus.eu/toolbox/doc/index.html) - Dive into this wealth of information about the Earth's past, present and future climate.
 - [CLIMA-Land](https://github.com/CliMA/Land) - Everything within the Land model (Soil Plant Atmosphere Module, Land Hydrology, etc).
 - [maja](https://github.com/CNES/MAJA) - An atmospheric correction and cloud screening software.
@@ -739,5 +721,11 @@ _Your contribution is necessary to keep this list alive, increase the quality an
 - [DTU Wind Energy](https://gitlab.windenergy.dtu.dk/explore) - Technical University of Denmark Wind Energy.
 - [ROpenSci](https://ropensci.org/) - We help develop R packages for the sciences via community driven learning, review and maintenance of contributed software in the R ecosystem.
 - [rosi](http://rosi.science/) - Developing computational and experimental tools to better understand how plants (roots in particular) interact with their environments.
+
+## Contribution and Maintenance
+
+_Your contribution is necessary to keep this list alive, increase the quality and to expand it. The same applies to the projects listed here. You can read more about the list and how you can participate in the [Contribution Guide](contributing.md)._The maintenance of this list is carried out by [protontypes](https://protontypes.eu/). We are an _Open Accelerator for Free and Sustainable Innovation._
+
+[![](https://img.shields.io/twitter/follow/protontypes?style=social)](https://twitter.com/protontypes)
 
 _Animation created with [An Animated Map of the Earth](https://github.com/eleanorlutz/earth_atlas_of_space) by [Eleanor Lutz](https://twitter.com/eleanor_lutz)_
