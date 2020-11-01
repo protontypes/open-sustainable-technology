@@ -504,6 +504,7 @@ Your contribution is necessary to keep this list alive, increase the quality and
 - [OSSP](https://github.com/wrightni/OSSP) - Open Source Algorithm for Detecting Sea Ice Surface Features in High Resolution Optical Imagery.
 - [captoolkit](https://github.com/fspaolo/captoolkit) - NASA's Cryosphere Altimetry Processing Toolkit.
 - [sea-ice](https://github.com/vannizhang/sea-ice) - Displays the monthly mean sea ice extent for the Arctic and Antarctic along with the historical median extent.
+- [SIS2](https://github.com/NOAA-GFDL/SIS2) - Calculates the concentration, thickness, temperature, brine content, and snow cover of an arbitrary number of ice thickness categories (including open water) as well as the motion of the complete pack.
 
 ### Ocean and Climate
 - [MOM6](https://github.com/NOAA-GFDL/MOM6) - A numerical representation of the ocean fluid with applications from the process scale to the planetary circulation scale.
@@ -574,7 +575,7 @@ Your contribution is necessary to keep this list alive, increase the quality and
 - [esmtools](https://github.com/bradyrx/esmtools) - A toolbox for Earth System Model analysis.
 - [Mission Support System](https://mss.readthedocs.io/en/stable/about.html) - The purpose is to have a tool that simplifies the process for planning a scientific flight in which parameters of the atmosphere are measured.
 - [ClimateBase.jl](https://github.com/JuliaClimate/ClimateBase.jl) - A Julia package offering basic functionality for analyzing data that are typically in the form used by climate sciences.
-
+- [MDTF-diagnostics](https://github.com/NOAA-GFDL/MDTF-diagnostics) - Analysis framework and collection of process-oriented diagnostics for weather and climate simulations.
 
 ## Datasets of Ecosystems
 - [GHCN](https://www.ncdc.noaa.gov/data-access/land-based-station-data/land-based-datasets/global-historical-climatology-network-ghcn) - An observations database from meteorologic stations around the globe. Daily and monthly resolution data are available with the longest records up to 175 years.
