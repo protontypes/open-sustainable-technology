@@ -47,7 +47,6 @@ Your contribution is necessary to keep this list alive, increase the quality and
 - [Further Sustainability](#further-sustainability)
   - [Open Resources](#open-resources)
   - [Open and Sustainable Technology Communities](#open-and-sustainable-technology-communities)
-- [Contribution and Maintenance](#contribution-and-maintenance)
 
 ## Renewable Energy Sources
 ### Photovoltaic and Solar Energy
