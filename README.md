@@ -6,24 +6,6 @@
 
 For technology to be truly sustainable, it must be globally available, free and independent. The open and free distribution of sustainable technologies provides the basis for an economical and ecological global economy.  Only in this way can the access to vital resources such as stable climate, soil or water be secured for everyone in the long term.
 
-
-
-<h1 align="center"> </h1>
-<h4 align="center">Open source projects sustaining stable climate, energy supply and vital natural resources</h4>
-<p align="center">
-    <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg"
-        href="https://github.com/sindresorhus/awesome">
-</p>
-<p align="center"><i>Find more information in the <a href="https://protontypes.eu/blog/2020/10/05/gathering-open-sustainable-technology/"> official blog post.</i></p>
-
-<p align="center">
-  <img src="earth.gif" alt="animated" height="350" style="object-fit:contain" title="Artwork by Eleanor Lutz" />
-</p>
-<h5 align="center"> Artwork by Eleanor Lutz </h5>
-
-## Guideline
-> For technology to be truly sustainable, it must be globally available, free and independent. The open and free distribution of sustainable technologies provides the basis for an economical and ecological global economy.  Only in this way can the access to vital resources such as stable climate, soil or water be secured for everyone in the long term.
-
 ## Contents
 
 - [Renewable Energy Sources](#renewable-energy-sources)
