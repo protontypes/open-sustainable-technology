@@ -663,7 +663,7 @@ Your contribution is necessary to keep this list alive, increase the quality and
 - [SoilHealthDB](https://github.com/jinshijian/SoilHealthDB) - Compiled data from a set of soil health measurements collected across 41 countries around the world, which includes 5,241 data entries from 281 published studies.
 - [srdb](https://github.com/bpbond/srdb) - Global soil respiration database.
 - [cosore](https://github.com/bpbond/cosore) - Data, metadata, and software tools for the COSORE database of continuous soil respiration measurements.
-- [sidb](https://github.com/SoilBGC-Datashare/sidb) - contains information on laboratory soil incubation experiments, with emphasis on time series of CO2 release.
+- [sidb](https://github.com/SoilBGC-Datashare/sidb) - Contains information on laboratory soil incubation experiments, with emphasis on time series of CO2 release.
 
 
 ## Circular Economy and Waste
