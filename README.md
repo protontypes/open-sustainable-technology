@@ -4,6 +4,10 @@
 Open source projects sustaining stable climate, energy supply and vital natural resources
 > For technology to be truly sustainable, it must be globally available, free and independent. The open and free distribution of sustainable technologies provides the basis for an economical and ecological global economy.  Only in this way can the access to vital resources such as stable climate, soil or water be secured for everyone in the long term.
 
+_Your contribution is necessary to keep this list alive, increase the quality and to expand it. You can read more about the list and how you can participate in the [Contribution Guide](contributing.md).
+
+[![](https://img.shields.io/twitter/follow/protontypes?style=social)](https://twitter.com/protontypes)
+
 ## Contents
 
 - [Renewable Energy Sources](#renewable-energy-sources)
@@ -713,10 +717,5 @@ Open source projects sustaining stable climate, energy supply and vital natural 
 - [ROpenSci](https://ropensci.org/) - We help develop R packages for the sciences via community driven learning, review and maintenance of contributed software in the R ecosystem.
 - [rosi](http://rosi.science/) - Developing computational and experimental tools to better understand how plants (roots in particular) interact with their environments.
 
-## Contribution and Maintenance
-
-_Your contribution is necessary to keep this list alive, increase the quality and to expand it. The same applies to the projects listed here. You can read more about the list and how you can participate in the [Contribution Guide](contributing.md)._ The maintenance of this list is carried out by [protontypes](https://protontypes.eu/). We are an _Open Accelerator for Free and Sustainable Innovation._
-
-[![](https://img.shields.io/twitter/follow/protontypes?style=social)](https://twitter.com/protontypes)
 
 _Animation created with [An Animated Map of the Earth](https://github.com/eleanorlutz/earth_atlas_of_space) by [Eleanor Lutz](https://twitter.com/eleanor_lutz)_
