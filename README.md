@@ -3,6 +3,9 @@
 [<img src="earth.gif" align="right" width="250"> <br>](https://protontypes.eu/)
 __Open source projects sustaining stable climate, energy supply and vital natural resources__
 > For technology to be truly sustainable, it must be globally available, free and independent. The open and free distribution of sustainable technologies provides the basis for an economical and ecological global economy.  Only in this way can the access to vital resources such as stable climate, soil or water be secured for everyone in the long term.
+
+<br>
+
 Your contribution is necessary to keep this list alive, increase the quality and to expand it. You can read more about it's origin and how you can participate in the [contribution guide](contributing.md) and related [blog post](https://protontypes.eu/blog/2020/10/05/gathering-open-sustainable-technology/).
 
 [![](https://img.shields.io/twitter/follow/protontypes?style=social)](https://twitter.com/protontypes)
@@ -714,7 +717,7 @@ Your contribution is necessary to keep this list alive, increase the quality and
 - [DTU Wind Energy](https://gitlab.windenergy.dtu.dk/explore) - Technical University of Denmark Wind Energy.
 - [ROpenSci](https://ropensci.org/) - We help develop R packages for the sciences via community driven learning, review and maintenance of contributed software in the R ecosystem.
 - [rosi](http://rosi.science/) - Developing computational and experimental tools to better understand how plants (roots in particular) interact with their environments.
-- [Potsdam Institute for Climate Impact Research](https://www.pik-potsdam.de/en/home) - is advancing the frontier of integrated research for global sustainability, and for a safe and just climate future.
+- [Potsdam Institute for Climate Impact Research](https://www.pik-potsdam.de/en/home) - Advancing the frontier of integrated research for global sustainability, and for a safe and just climate future.
 
 ### Footnotes
 _Animation created with [An Animated Map of the Earth](https://github.com/eleanorlutz/earth_atlas_of_space) by [Eleanor Lutz](https://twitter.com/eleanor_lutz)_
