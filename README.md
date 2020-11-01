@@ -4,7 +4,7 @@
 __Open source projects sustaining stable climate, energy supply and vital natural resources__
 > For technology to be truly sustainable, it must be globally available, free and independent. The open and free distribution of sustainable technologies provides the basis for an economical and ecological global economy.  Only in this way can the access to vital resources such as stable climate, soil or water be secured for everyone in the long term.
 
-Your contribution is necessary to keep this list alive, increase the quality and to expand it. You can read more about the origin of the list and how you can participate in the [contribution guide](contributing.md) and related [blog post](https://protontypes.eu/blog/2020/10/05/gathering-open-sustainable-technology/).
+Your contribution is necessary to keep this list alive, increase the quality and to expand it. You can read more about it's origin and how you can participate in the [contribution guide](contributing.md) and related [blog post](https://protontypes.eu/blog/2020/10/05/gathering-open-sustainable-technology/).
 
 [![](https://img.shields.io/twitter/follow/protontypes?style=social)](https://twitter.com/protontypes)
 
