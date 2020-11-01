@@ -716,5 +716,5 @@ Your contribution is necessary to keep this list alive, increase the quality and
 - [ROpenSci](https://ropensci.org/) - We help develop R packages for the sciences via community driven learning, review and maintenance of contributed software in the R ecosystem.
 - [rosi](http://rosi.science/) - Developing computational and experimental tools to better understand how plants (roots in particular) interact with their environments.
 
-
+### Footnotes
 _Animation created with [An Animated Map of the Earth](https://github.com/eleanorlutz/earth_atlas_of_space) by [Eleanor Lutz](https://twitter.com/eleanor_lutz)_
