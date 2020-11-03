@@ -47,8 +47,8 @@ Your contribution is necessary to keep this list alive, increase the quality and
   - [Soil](#soil)
 - [Circular Economy and Waste](#circular-economy-and-waste)
 - [Further Sustainability](#further-sustainability)
-  - [Open Resources](#open-resources)
-  - [Open and Sustainable Technology Communities](#open-and-sustainable-technology-communities)
+  - [Open Online Resources](#open-online-resources)
+  - [Sustainable Technology Communities](#sustainable-technology-communities)
 
 ## Renewable Energy
 ### Photovoltaic and Solar Energy
