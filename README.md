@@ -46,7 +46,7 @@ Your contribution is necessary to keep this list alive, increase the quality and
   - [Water](#water)
   - [Soil](#soil)
 - [Circular Economy and Waste](#circular-economy-and-waste)
-- [Open Online Resources](#open-online-resources)
+- [Further online resources](#further-online-resources)
 - [Sustainable Technology Communities](#sustainable-technology-communities)
 
 ## Renewable Energy
@@ -679,7 +679,7 @@ Your contribution is necessary to keep this list alive, increase the quality and
 - [trashnet](https://github.com/garythung/trashnet) - Dataset of images of trash; Torch-based CNN for garbage image classification.
 - [OpenLitterMap](https://github.com/OpenLitterMap/openlittermap-web) - An open, interactive, and accessible database of the world's litter and plastic pollution.
 
-## Open Online Resources
+## Further Online Resources
 - [Awesome Clean Tech](https://github.com/nglgzz/awesome-clean-tech) - Clean technology is any process, product, or service that reduces negative environmental impacts through significant energy efficiency improvements, the sustainable use of resources, or environmental protection activities.
 - [Awesome Open Climate Science](https://github.com/pangeo-data/awesome-open-climate-science) - Awesome Open Atmospheric, Ocean, and Climate Science.
 - [Awesome Earth](https://github.com/philsturgeon/awesome-earth) - "What can I do about the climate crisis?" Here are 326 things you can do.
