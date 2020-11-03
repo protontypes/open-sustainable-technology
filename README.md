@@ -360,6 +360,7 @@ Your contribution is necessary to keep this list alive, increase the quality and
 - [OpenIPSL](https://github.com/OpenIPSL/OpenIPSL) - A library of power system component models written in the Modelica language that can be used for power system dynamic analysis, such as phasor time-domain simulations.
 - [pyam](https://github.com/IAMconsortium/) - Provides a suite of tools and functions for analyzing and visualizing input data (i.e., assumptions/parametrization) and results (model output) of integrated-assessment scenarios, energy systems analysis, and sectoral studies.
 - [RAMP](https://github.com/RAMP-project/RAMP) - A bottom-up stochastic model for the generation of high-resolution multi-energy profiles, conceived for application in contexts where only rough information about users' behaviour are obtainable.
+- [PowerGAMA](https://bitbucket.org/harald_g_svendsen/powergama/src/master/) - A Python package for hour-by-hour optimal power flow analysis of interconnected power systems with variable energy sources and storage systems.
 
 
 ### Optimization
@@ -667,6 +668,7 @@ Your contribution is necessary to keep this list alive, increase the quality and
 - [cosore](https://github.com/bpbond/cosore) - Data, metadata, and software tools for the COSORE database of continuous soil respiration measurements.
 - [sidb](https://github.com/SoilBGC-Datashare/sidb) - Contains information on laboratory soil incubation experiments, with emphasis on time series of CO2 release.
 - [ISRaD](https://github.com/International-Soil-Radiocarbon-Database/ISRaD) - Improve the use of radiocarbon as a constraint for understanding the soil carbon cycle.
+- [PredictiveSoilMapping](https://github.com/Envirometrix/PredictiveSoilMapping) - Applying statistical and/or machine learning techniques to fit models for the purpose of producing spatial and/or spatiotemporal predictions of soil variables, i.e. maps of soil properties and classes at different resolutions.
 
 
 ## Circular Economy and Waste
