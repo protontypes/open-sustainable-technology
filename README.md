@@ -12,7 +12,7 @@ Your contribution is necessary to keep this list alive, increase the quality and
 
 ## Contents
 
-- [Renewable Energy Sources](#renewable-energy-sources)
+- [Renewable Energy](#renewable-energy)
   - [Photovoltaic and Solar Energy](#photovoltaic-and-solar-energy)
   - [Wind Turbines](#wind-turbines)
   - [Hydro Energy](#hydro-energy)
@@ -50,7 +50,7 @@ Your contribution is necessary to keep this list alive, increase the quality and
   - [Open Resources](#open-resources)
   - [Open and Sustainable Technology Communities](#open-and-sustainable-technology-communities)
 
-## Renewable Energy Sources
+## Renewable Energy
 ### Photovoltaic and Solar Energy
 - [pvlib-python](https://github.com/pvlib/pvlib-python) - A set of documented functions for simulating the performance of photovoltaic energy systems.
 - [pvfactors](https://github.com/SunPower/pvfactors) - Open-source view-factor model for diffuse shading and bifacial PV modeling.
