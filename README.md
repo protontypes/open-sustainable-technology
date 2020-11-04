@@ -669,6 +669,7 @@ Your contribution is necessary to keep this list alive, increase the quality and
 - [sidb](https://github.com/SoilBGC-Datashare/sidb) - Contains information on laboratory soil incubation experiments, with emphasis on time series of CO2 release.
 - [ISRaD](https://github.com/International-Soil-Radiocarbon-Database/ISRaD) - Improve the use of radiocarbon as a constraint for understanding the soil carbon cycle.
 - [PredictiveSoilMapping](https://github.com/Envirometrix/PredictiveSoilMapping) - Applying statistical and/or machine learning techniques to fit models for the purpose of producing spatial and/or spatiotemporal predictions of soil variables, i.e. maps of soil properties and classes at different resolutions.
+- [OpenFLUID](https://github.com/OpenFLUID/openfluid) - is a software environnement for modelling and simulation of complex landscape systems.
 
 
 ## Circular Economy and Waste
