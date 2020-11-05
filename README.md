@@ -437,6 +437,8 @@ Your contribution is necessary to keep this list alive, increase the quality and
 - [batch7 satellite ges](https://github.com/dataforgoodfr/batch7_satellite_ges/) - The goal of our project is to localize CO2 emissions on Earth based on the the carbon concentration data measured by the OCO-2 Satellite from NASA.
 - [CO2 Emission Datasets](https://www.che-project.eu/data-portal) - The CHE Data Portal provides an interface to the distributed data used and made available through the project, either as input data sets or as resulting data sets.
 - [Global Carbon Budget](https://github.com/openclimatedata/global-carbon-budget) - An annual living data publication of carbon cycle sources and sinks, generated from multiple data sources and by multiple organisations and research groups.
+- [emissions-api](https://github.com/emissions-api/emissions-api) - A solution that provides simple access to emissions data of climate-relevant gases.
+- [eixport](https://github.com/atmoschem/eixport) - Emissions are mass that affects atmosphere in complex ways, not only physical, but also, in the health of humans, ecosystems, economically, etc.
 
 ### Carbon Capture
 - [SimCCS](https://github.com/simccs/SimCCS) - A software platform for carbon capture and storage infrastructure design.
