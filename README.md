@@ -494,6 +494,8 @@ Your contribution is necessary to keep this list alive, increase the quality and
 - [forestatrisk](https://github.com/ghislainv/forestatrisk) -  Python package to model and forecast the risk of deforestation.
 - [CRootBox](https://github.com/Plant-Root-Soil-Interactions-Modelling/CRootBox) - The focus of CRootBox is the simulation of different types of root architecture, and to provide a generic interface for coupling with arbitrary soil/environmental models, e.g., in order to determine the impact of specific root architectures on function.
 - [PyroNear](https://github.com/pyronear/PyroNear) - Aims at providing the means to create a wildfire early detection system with state-of-the-art performances at minimal deployment costs.
+- [auk](https://github.com/CornellLabofOrnithology/auk) - eBird Data Extraction and Processing in R.
+- [spocc](https://github.com/ropensci/spocc) -  An R package to query and collect species occurrence data from many sources.
 
 
 ### Ice and Poles
