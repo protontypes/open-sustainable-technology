@@ -42,7 +42,7 @@ Your contribution is necessary to keep this list alive, increase the quality and
   - [Ocean and Climate](#ocean-and-climate)
 - [Datasets of Ecosystems](#datasets-of-ecosystems)
 - [Access and Monitoring of Resources](#access-and-monitoring-of-resources)
-  - [Air](#air)
+  - [Air and Atmosphere](#air-and-atmosphere)
   - [Water](#water)
   - [Soil](#soil)
 - [Circular Economy and Waste](#circular-economy-and-waste)
