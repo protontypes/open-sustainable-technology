@@ -134,7 +134,7 @@ Your contribution is necessary to keep this list alive, increase the quality and
 
 
 ### Bioenergy
-- [sashahafner/biogas](https://github.com/sashahafner/biogas) - Tools for biogas research in R: process biogas data and predict biogas production.
+- [biogas](https://github.com/sashahafner/biogas) - Tools for biogas research in R: process biogas data and predict biogas production.
 - [biosteam](https://github.com/BioSTEAMDevelopmentGroup/biosteam) - The Biorefinery Simulation and Techno-Economic Analysis Modules.
 - [Multiscale_Ulva](https://github.com/alexliberzonlab/Multiscale_Ulva) - Is a multi-reactor, algae farm, simulation base function that will be solved in time.
 - [BioSTEAM_LCA](https://github.com/scyjth/biosteam_lca) - is an an agile life cycle assessment (LCA) platform that enables the fast and flexible evaluation of the life cycle environmental impacts of biorefineries under uncertainty.
