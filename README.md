@@ -82,6 +82,8 @@ Your contribution is necessary to keep this list alive, increase the quality and
 - [pvanalytics](https://github.com/pvlib/pvanalytics) - Quality control, filtering, feature labeling, and other tools for working with data from photovoltaic energy systems.
 - [IonMonger](https://github.com/PerovskiteSCModelling/IonMonger) - A free and fast perovskite solar cell simulator with coupled ion vacancy and charge carrier dynamics in one dimension.
 - [rayflare](https://github.com/qpv-research-group/rayflare) - Provide a flexible, user-friendly Python environment to model complex optical stacks, with a focus on solar cells.
+- [pv-terms](https://github.com/DuraMAT/pv-terms) - Contains nomenclature for PV-relevant terms that are used in modeling and data analysis for PV systems.
+
 
 ### Wind Turbines
 
@@ -108,7 +110,6 @@ Your contribution is necessary to keep this list alive, increase the quality and
 - [wtphm](https://github.com/lkev/wtphm) - The Wind Turbine Prognostics and Health Management library processes wind turbine events data, as well as operational SCADA data for easier fault detection, prognostics or reliability research.
 - [AirfoilPreppy](https://github.com/WISDEM/AirfoilPreppy) - A Python module for preprocessing and evaluating aerodynamic airfoil data, primarily for wind turbine applications.
 - [GreenGuard](https://github.com/signals-dev/GreenGuard) - Is a collection of end-to-end solutions for machine learning problems commonly found in monitoring wind energy production system.
-- [pv-terms](https://github.com/DuraMAT/pv-terms) - Contains nomenclature for PV-relevant terms that are used in modeling and data analysis for PV systems.
 - [pyconturb](https://gitlab.windenergy.dtu.dk/pyconturb/pyconturb) - Constrained Stochastic Turbulence for Wind Energy Applications.
 
 
