@@ -498,6 +498,8 @@ Your contribution is necessary to keep this list alive, increase the quality and
 - [auk](https://github.com/CornellLabofOrnithology/auk) - eBird Data Extraction and Processing in R.
 - [spocc](https://github.com/ropensci/spocc) -  An R package to query and collect species occurrence data from many sources.
 - [VIAME](https://github.com/VIAME/VIAME) - is a computer vision application designed for do-it-yourself artificial intelligence including object detection, object tracking, image/video annotation, image/video search, image mosaicing, stereo measurement, rapid model generation, and tools for the evaluation of different algorithm.
+- [ecodata](https://github.com/NOAA-EDAB/ecodata) - A data package for reporting on Northeast Continental Shelf ecosystem status and trends.
+
 
 ### Ice and Poles
 - [Planet Snowcover](https://github.com/acannistra/planet-snowcover) -  A project that pairs airborne lidar and Planet Labs satellite imagery with cutting-edge computer vision techniques to identify snow-covered area at unprecedented spatial and temporal resolutions.
@@ -618,6 +620,8 @@ Your contribution is necessary to keep this list alive, increase the quality and
 - [GRAL](https://github.com/GralDispersionModel/GRAL) - Provides a CFD model for the flow calculation around buildings or micrsocale terrain structures.
 - [Massive-Parallel Trajectory Calculations](https://github.com/slcs-jsc/mptrac) - is a Lagrangian particle dispersion model for the analysis of atmospheric transport processes in the free troposphere and stratosphere.
 - [X-STILT](https://github.com/uataq/X-STILT) - An atmospheric transport model that deals with vertically integrated column CO2 and potentially other trace gases.
+- [CMEPS](https://github.com/ESCOMP/CMEPS) - The Community Mediator for Earth Prediction Systems (CMEPS) is a NUOPC-compliant Mediator component used for coupling Earth system model component.
+- [global-workflow](https://github.com/NOAA-EMC/global-workflow) - Global Superstructure/Workflow currently supporting the Finite-Volume on a Cubed-Sphere Global Forecast System.
 
 ### Water
 - [Stormwater-Management-Model](https://github.com/USEPA/Stormwater-Management-Model) - Used for single event or long-term (continuous) simulation of runoff quantity and quality from primarily urban areas.
@@ -746,6 +750,7 @@ Your contribution is necessary to keep this list alive, increase the quality and
 - [rosi](http://rosi.science/) - Developing computational and experimental tools to better understand how plants (roots in particular) interact with their environments.
 - [Potsdam Institute for Climate Impact Research](https://www.pik-potsdam.de/en/home) - Advancing the frontier of integrated research for global sustainability, and for a safe and just climate future.
 - [Environmental Modeling Center](https://www.emc.ncep.noaa.gov/) - Responsible for the development and implementation of more than 20 numerical prediction systems.
+- [The NOAA Fisheries Integrated Toolbox](https://noaa-fisheries-integrated-toolbox.github.io/) - An interdisciplinary, web-based portal of operational tools that can be used for a variety of applications, including stock assessment modeling, forecasting, and data preparation for fish and protected species, as well as economic and ecosystem modeling.
 
 ### Footnotes
 _Animation created with [An Animated Map of the Earth](https://github.com/eleanorlutz/earth_atlas_of_space) by [Eleanor Lutz](https://twitter.com/eleanor_lutz)_
