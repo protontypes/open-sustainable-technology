@@ -300,6 +300,7 @@ Your contribution is necessary to keep this list alive, increase the quality and
 - [CalTRACK](https://github.com/energy-market-methods/caltrack) - Methods are developed in an open and transparent stakeholder process that uses empirical testing to define replicable methods for calculating normalized metered energy consumption using either monthly or interval data from an existing conditions baseline.
 - [H2020 CATALYST](https://gitlab.com/project-catalyst) - Converting data centres in energy flexibility ecosystems.
 - [OpenModelica](https://github.com/OpenModelica/OpenModelica) - An open-source Modelica-based modeling and simulation environment intended for industrial and academic usage.
+- [brightway2](https://github.com/brightway-lca/brightway2) - A open source framework for life cycle assessment.
 
 
 ## Energy System Assessment
