@@ -291,6 +291,7 @@ Your contribution is necessary to keep this list alive, increase the quality and
 - [OptaPlanner](https://github.com/kiegroup/optaplanner) - Java Constraint Solver to solve vehicle routing, employee rostering, task assignment, conference scheduling and other planning problems.
 - [RAMP-mobility](https://github.com/RAMP-project/RAMP-mobility) - A novel applocation of the RAMP main engine for generating bottom-up stochastic electric vehicles load profiles.
 - [carculator](https://github.com/romainsacchi/carculator) - Prospective environmental and economic life cycle assessment of vehicles made blazing fast.
+- [emobpy](https://gitlab.com/diw-evu/emobpy/emobpy) - A Python tool that can create battery electric vehicle profiles.
 
 
 ### Industry
