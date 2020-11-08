@@ -122,6 +122,7 @@ Your contribution is necessary to keep this list alive, increase the quality and
 - [HydroPowerSimulations.jl](https://github.com/NREL-SIIP/HydroPowerSimulations.jl) - Contains extensions on PowerSystems.jl and PowerSimulations.jl to enable enhanced hydropower representations.
 - [OpenHPL](https://github.com/simulatino/OpenHPL) - An open-source hydropower library that consists of hydropower unit models and is modelled using Modelica.
 - [WEC-Sim](https://github.com/WEC-Sim/WEC-Sim) - Wave Energy Converter Simulator is an open-source code for simulating wave energy converters.
+- [BEMRosetta](https://github.com/izabala123/BEMRosetta) - Used to model hydrodynamic forces in offshore devices like ships, offshore wind platforms and wave energy converters.
 
 
 ### Geothermal Energy
