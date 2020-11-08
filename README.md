@@ -294,6 +294,7 @@ Your contribution is necessary to keep this list alive, increase the quality and
 - [carculator](https://github.com/romainsacchi/carculator) - Prospective environmental and economic life cycle assessment of vehicles made blazing fast.
 - [emobpy](https://gitlab.com/diw-evu/emobpy/emobpy) - A Python tool that can create battery electric vehicle profiles.
 - [PCT](https://github.com/ITSLeeds/pct/) - The goal is to increase the accessibility and reproducibility of the data produced by the Propensity to Cycle Tool (PCT).
+- [goat](https://github.com/goat-community/goat) - A capable of modeling walking and cycling accessibility.
 
 
 ### Industry
