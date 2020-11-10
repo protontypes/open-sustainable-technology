@@ -731,6 +731,7 @@ Your contribution is necessary to keep this list alive, increase the quality and
 - [GreenCity](https://github.com/ita-social-projects/GreenCity) - Teach people in a playful and challenging way to have an eco-friendly lifestyle.
 - [GEOG0133](https://github.com/profLewis/GEOG0133) -  Open Terrestrial Carbon modelling and monitoring lecture.
 - [NOAA-Affiliated-Projects](https://github.com/NOAAGov/NOAA-Affiliated-Projects) -  A list of GitHub accounts and repositories that are contributed to by National Oceanic and Atmospheric Administration staff from line offices and/or staff office throughout the organization.
+- [Climatescape](https://climatescape.org/) - Discover the organizations solving climate change.
 
 
 ## Sustainable Technology Communities
