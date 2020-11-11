@@ -83,6 +83,7 @@ Your contribution is necessary to keep this list alive, increase the quality and
 - [IonMonger](https://github.com/PerovskiteSCModelling/IonMonger) - A free and fast perovskite solar cell simulator with coupled ion vacancy and charge carrier dynamics in one dimension.
 - [rayflare](https://github.com/qpv-research-group/rayflare) - Provide a flexible, user-friendly Python environment to model complex optical stacks, with a focus on solar cells.
 - [pv-terms](https://github.com/DuraMAT/pv-terms) - Contains nomenclature for PV-relevant terms that are used in modeling and data analysis for PV systems.
+- [StatisticalClearSky](https://github.com/slacgismo/StatisticalClearSky) - Statistical estimation of a clear sky signal from PV system power data.
 
 
 ### Wind Turbines
