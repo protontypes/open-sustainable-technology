@@ -240,6 +240,7 @@ Your contribution is necessary to keep this list alive, increase the quality and
 - [project1](https://github.com/ibpsa/project1) - Creates open-source software that builds the basis of next generation computing tools for the design and operation of building and district energy and control systems.
 - [teb](https://github.com/TEB-model/teb) - A library to calculate the urban surface energy balance at neighborhood scale assuming a simplified canyon geometry.
 - [tsib](https://github.com/FZJ-IEK3-VSA/tsib) - A python package that builds up on different databases and models for creating consistent demand and production time series of residential buildings.
+- [DHNx](https://github.com/oemof/DHNx) - This package provides an open toolbox for district heating and cooling network optimization and simulation models.
 
 
 ### Mobility and Transportation
@@ -353,6 +354,7 @@ Your contribution is necessary to keep this list alive, increase the quality and
 - [PyPSA-Eur-Sec](https://github.com/PyPSA/pypsa-eur-sec) - A Sector-Coupled Open Optimisation Model of the European Energy System.
 - [antaresViz](https://github.com/rte-antares-rpackage/antaresViz) - Visualize the results of Antares, an Open Source power system simulator meant to be used by anybody placing value in quantifying the adequacy or the economic performance of interconnected energy systems , at short or remote time horizons.
 - [antaresRead](https://github.com/rte-antares-rpackage/antaresRead) - Import, manipulate and explore the results of an Antares simulation.
+- [demandlib](https://github.com/oemof/demandlib) - With the demandlib you can create power and heat profiles for various sectors by scaling them to your desired demand.
 
 
 ### Analysis
