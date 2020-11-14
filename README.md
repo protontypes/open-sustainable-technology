@@ -511,6 +511,7 @@ Your contribution is necessary to keep this list alive, increase the quality and
 - [spocc](https://github.com/ropensci/spocc) -  An R package to query and collect species occurrence data from many sources.
 - [VIAME](https://github.com/VIAME/VIAME) - A computer vision application designed for do-it-yourself artificial intelligence including object detection, object tracking, image/video annotation, image/video search, image mosaicing, stereo measurement, rapid model generation, and tools for the evaluation of different algorithm.
 - [ecodata](https://github.com/NOAA-EDAB/ecodata) - A data package for reporting on Northeast Continental Shelf ecosystem status and trends.
+- [palmerpenguins](https://github.com/allisonhorst/palmerpenguins/) - The palmerpenguins data contains size measurements for three penguin species observed on three islands in the Palmer Archipelago, Antarctica.
 
 
 ### Ice and Poles
