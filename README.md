@@ -6,7 +6,7 @@ __Open source projects sustaining stable climate, energy supply and vital natura
 
 <br>
 
-Your contribution is necessary to keep this list alive, increase the quality and to expand it. You can read more about it's origin and how you can participate in the [contribution guide](contributing.md) and related [blog post](https://protontypes.eu/blog/2020/10/05/gathering-open-sustainable-technology/).
+Your contribution is necessary to keep this list alive, increase the quality and to expand it. You can read more about it's origin and how you can participate in the [contribution guide](CONTRIBUTING.md) and related [blog post](https://protontypes.eu/blog/2020/10/05/gathering-open-sustainable-technology/).
 
 [![](https://img.shields.io/twitter/follow/protontypes?style=social)](https://twitter.com/protontypes)
 
