@@ -299,7 +299,7 @@ Your contribution is necessary to keep this list alive, increase the quality and
 - [PCT](https://github.com/ITSLeeds/pct/) - The goal is to increase the accessibility and reproducibility of the data produced by the Propensity to Cycle Tool (PCT).
 - [goat](https://github.com/goat-community/goat) - A capable of modeling walking and cycling accessibility.
 - [gtfs-router](https://github.com/ATFutures/gtfs-router) - R package for routing with GTFS (General Transit Feed Specification) data.
-- [CityFlow](https://github.com/cityflow-project/CityFlow/) - A Multi-Agent Reinforcement Learning Environment for Large Scale City Traffic Scenario
+- [CityFlow](https://github.com/cityflow-project/CityFlow/) - A Multi-Agent Reinforcement Learning Environment for Large Scale City Traffic Scenario.
 
 
 ### Industry
@@ -458,6 +458,7 @@ Your contribution is necessary to keep this list alive, increase the quality and
 - [SimCCS](https://github.com/simccs/SimCCS) - A software platform for carbon capture and storage infrastructure design.
 - [FOQUS](https://github.com/CCSI-Toolset/FOQUS) - Framework for Optimization and Quantification of Uncertainty and Surrogates.
 - [Carbon Capture and Storage](https://github.com/yohanesnuwara/carbon-capture-and-storage) - This is a complete modelling workflow that integrates reservoir simulation data, rock physics, time-lapse seismic, and geomechanics of CO2 injection in carbonate rock.
+<!--lint ignore awesome-spell-check-->
 - [GEOSX](https://github.com/GEOSX/GEOSX) - A simulation framework for modeling coupled flow, transport, and geomechanics in the subsurface.
 
 ## Observation and Models of Ecosystems
@@ -604,7 +605,7 @@ Your contribution is necessary to keep this list alive, increase the quality and
 - [rnoaa](https://github.com/ropensci/rnoaa) - An R interface to many National Oceanic and Atmospheric Administration data sources.
 - [E3SM](https://github.com/E3SM-Project/E3SM) - A state-of-the-art fully coupled model of the Earth's climate including important biogeochemical and cryospheric processes.
 - [Badlands](https://github.com/badlands-model/badlands) - Basin and Landscape Dynamics is a long-term surface evolution model built to simulate landscape development, sediment transport and sedimentary basins formation from upstream regions down to marine environments.
-- [Eradiate](https://github.com/eradiate/eradiate) - A next-generation radiative transfer model for Earth observation applications
+- [Eradiate](https://github.com/eradiate/eradiate) - A next-generation radiative transfer model for Earth observation applications.
 
 
 ## Datasets of Ecosystems
