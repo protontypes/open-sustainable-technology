@@ -328,6 +328,7 @@ Your contribution is necessary to keep this list alive, increase the quality and
 - [urbs](https://github.com/tum-ens/urbs) - A linear optimization model for distributed energy systems.
 - [Dispa-SET](https://github.com/energy-modelling-toolkit/Dispa-SET) - Allows to model a power system at any level of detail e.g. micro-grid, region, country, continent.
 - [Calliope](https://github.com/calliope-project/calliope) - A framework to develop energy system models, with a focus on flexibility, high spatial and temporal resolution, the ability to execute many runs based on the same base model, and a clear separation of framework  and model.
+- [Euro-Calliope](https://github.com/calliope-project/euro-calliope) - A model of the European electricity system built using Calliope.
 - [OSeMOSYS](https://github.com/OSeMOSYS/OSeMOSYS) - An open source modelling system for long-run integrated assessment and energy planning. It has been employed to develop energy systems models from the scale of continents (African Power Pools, South America, EU28+2) down to the scale of countries, regions and village.
 - [REVUB](https://github.com/VUB-HYDR/REVUB) - The main objective is to model how flexible operation of hydropower plants can help renewable electricity mixes with variable solar and wind power to provide reliable electricity supply and load-following services.
 - [FINE](https://github.com/FZJ-IEK3-VSA/FINE) -  Provides a framework for modeling, optimizing and assessing energy systems.
@@ -356,6 +357,7 @@ Your contribution is necessary to keep this list alive, increase the quality and
 - [PyPSA-Eur-Sec](https://github.com/PyPSA/pypsa-eur-sec) - A Sector-Coupled Open Optimisation Model of the European Energy System.
 - [antaresViz](https://github.com/rte-antares-rpackage/antaresViz) - Visualize the results of Antares, an Open Source power system simulator meant to be used by anybody placing value in quantifying the adequacy or the economic performance of interconnected energy systems , at short or remote time horizons.
 - [antaresRead](https://github.com/rte-antares-rpackage/antaresRead) - Import, manipulate and explore the results of an Antares simulation.
+- [Spine-Toolbox](https://github.com/Spine-project/Spine-Toolbox) - An application to define, manage, and execute various energy system simulation models.
 
 
 ### Analysis
