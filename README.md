@@ -41,6 +41,7 @@ Your contribution is necessary to keep this list alive, increase the quality and
   - [Ice and Poles](#ice-and-poles)
   - [Ocean and Climate](#ocean-and-climate)
 - [Datasets of Ecosystems](#datasets-of-ecosystems)
+- [Agriculture and Food](#agriculture-and-food)
 - [Access and Monitoring of Resources](#access-and-monitoring-of-resources)
   - [Air and Atmosphere](#air-and-atmosphere)
   - [Water](#water)
@@ -599,6 +600,15 @@ Your contribution is necessary to keep this list alive, increase the quality and
 - [CMIP6 Datasets](https://pcmdi.github.io/CMIP6/) - Provides an access to the outputs of the current phase 6 of the Coupled Model Intercomparison Project (CMIP). CMIP6 global climate models give a base to (almost) all we may know for the climate of the future.
 - [Climate Watch](https://github.com/Vizzuality/climate-watch) - Offers open data, visualizations and analysis to help policymakers, researchers and other stakeholders gather insights on countries' climate progress.
 - [EarthEngine](https://earthengine.google.com/) - A planetary-scale platform for Earth science data & analysis.
+
+## Agriculture and Food
+
+- [OpenFarm](https://github.com/openfarmcc/OpenFarm) - A free and open database and web application for farming and gardening knowledge.
+- [Agridat](https://github.com/kwstat/agridat) - An extensive collection of datasets from agricultural experiments.
+- [MONICA](https://github.com/zalf-rpm/monica) - A dynamic, process-based simulation model which describes transport and bio-chemical turn-over of carbon, nitrogen and water in agro-ecosystems. 
+- [OpenPlantPathology](https://github.com/openplantpathology/OpenPlantPathology) - An initiative that supports and promotes the spread of all open, transparent and reproducible practices in the field of plant pathology. 
+- [ApsimX](https://github.com/APSIMInitiative/ApsimX) - An agricultural modelling framework used extensively worldwide.
+- [PlantCV](https://github.com/danforthcenter/plantcv) - An open-source image analysis software package targeted for plant phenotyping.
 
 ## Access and Monitoring of Resources
 
