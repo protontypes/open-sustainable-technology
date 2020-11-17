@@ -45,6 +45,7 @@ Your contribution is necessary to keep this list alive, increase the quality and
   - [Air and Atmosphere](#air-and-atmosphere)
   - [Water](#water)
   - [Soil](#soil)
+- [Agriculture and Nutrition](#agriculture-and-nutrition)
 - [Circular Economy and Waste](#circular-economy-and-waste)
 - [Further Online Resources](#further-online-resources)
 - [Sustainable Technology Communities](#sustainable-technology-communities)
@@ -637,6 +638,7 @@ Your contribution is necessary to keep this list alive, increase the quality and
 - [Climate Watch](https://github.com/Vizzuality/climate-watch) - Offers open data, visualizations and analysis to help policymakers, researchers and other stakeholders gather insights on countries' climate progress.
 - [EarthEngine](https://earthengine.google.com/) - A planetary-scale platform for Earth science data & analysis.
 
+
 ## Access and Monitoring of Resources
 
 ### Air
@@ -734,6 +736,10 @@ Your contribution is necessary to keep this list alive, increase the quality and
 - [Resilience Atlas](https://github.com/ConservationInternational/resilienceatlas) - An interactive analytical tool for building (1) understanding of the extent and severity of some of the key stressors and shocks that are affecting rural livelihoods, production systems, and ecosystems in the Sahel, Horn of Africa and South and Southeast Asia.
 - [rice-awd-shb](https://github.com/adamhsparks/rice-awd-shb) - Research compendium for a report on the effects of using alternate wetting and drying irrigation techniques and nitrogen rates on sheath blight disease in rice paddies.
 - [monica](https://github.com/zalf-rpm/monica) - A dynamic, process-based simulation model which describes transport and bio-chemical turn-over of carbon, nitrogen and water in agro-ecosystems.
+- [OpenFarm](https://github.com/openfarmcc/OpenFarm) - A free and open database and web application for farming and gardening knowledge.
+- [Agridat](https://github.com/kwstat/agridat) - An extensive collection of datasets from agricultural experiments.
+- [OpenPlantPathology](https://github.com/openplantpathology/OpenPlantPathology) - An initiative that supports and promotes the spread of all open, transparent and reproducible practices in the field of plant pathology. 
+- [PlantCV](https://github.com/danforthcenter/plantcv) - An open-source image analysis software package targeted for plant phenotyping.
 
 
 ## Circular Economy and Waste
