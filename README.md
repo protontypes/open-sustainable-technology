@@ -6,7 +6,7 @@ __Open source projects sustaining stable climate, energy supply and vital natura
 
 <br>
 
-Your contribution is necessary to keep this list alive, increase the quality and to expand it. You can read more about it's origin and how you can participate in the [contribution guide](contributing.md) and related [blog post](https://protontypes.eu/blog/2020/10/05/gathering-open-sustainable-technology/).
+Your contribution is necessary to keep this list alive, increase the quality and to expand it. You can read more about it's origin and how you can participate in the [contribution guide](CONTRIBUTING.md), [presentation slides](https://protontypes.eu/protontypes_open_sustainable_technology.pdf) and related [blog post](https://protontypes.eu/blog/2020/10/05/gathering-open-sustainable-technology/).
 
 [![](https://img.shields.io/twitter/follow/protontypes?style=social)](https://twitter.com/protontypes)
 
@@ -242,6 +242,7 @@ Your contribution is necessary to keep this list alive, increase the quality and
 - [project1](https://github.com/ibpsa/project1) - Creates open-source software that builds the basis of next generation computing tools for the design and operation of building and district energy and control systems.
 - [teb](https://github.com/TEB-model/teb) - A library to calculate the urban surface energy balance at neighborhood scale assuming a simplified canyon geometry.
 - [tsib](https://github.com/FZJ-IEK3-VSA/tsib) - A python package that builds up on different databases and models for creating consistent demand and production time series of residential buildings.
+- [DHNx](https://github.com/oemof/DHNx) - This package provides an open toolbox for district heating and cooling network optimization and simulation models.
 
 
 ### Mobility and Transportation
@@ -304,6 +305,7 @@ Your contribution is necessary to keep this list alive, increase the quality and
 - [Complete_Street_Rule](https://github.com/d-wasserman/Complete_Street_Rule) - A ArcGIS CityEngine scenario oriented design tool intended to enable users to quickly create procedural generated multimodal streets.
 
 
+
 ### Industry
 
 - [Industry Energy Tool](https://github.com/NREL/Industry-Energy-Tool) -  A calculator developed by NREL for projecting energy efficiency and fuel switching scenarios for the U.S. industrial sector energy use and emissions at the Census Region and county-level.
@@ -359,6 +361,8 @@ Your contribution is necessary to keep this list alive, increase the quality and
 - [antaresViz](https://github.com/rte-antares-rpackage/antaresViz) - Visualize the results of Antares, an Open Source power system simulator meant to be used by anybody placing value in quantifying the adequacy or the economic performance of interconnected energy systems , at short or remote time horizons.
 - [antaresRead](https://github.com/rte-antares-rpackage/antaresRead) - Import, manipulate and explore the results of an Antares simulation.
 - [Spine-Toolbox](https://github.com/Spine-project/Spine-Toolbox) - An application to define, manage, and execute various energy system simulation models.
+- [demandlib](https://github.com/oemof/demandlib) - With the demandlib you can create power and heat profiles for various sectors by scaling them to your desired demand.
+
 
 
 ### Analysis
@@ -462,6 +466,7 @@ Your contribution is necessary to keep this list alive, increase the quality and
 - [SimCCS](https://github.com/simccs/SimCCS) - A software platform for carbon capture and storage infrastructure design.
 - [FOQUS](https://github.com/CCSI-Toolset/FOQUS) - Framework for Optimization and Quantification of Uncertainty and Surrogates.
 - [Carbon Capture and Storage](https://github.com/yohanesnuwara/carbon-capture-and-storage) - This is a complete modelling workflow that integrates reservoir simulation data, rock physics, time-lapse seismic, and geomechanics of CO2 injection in carbonate rock.
+<!--lint ignore awesome-spell-check-->
 - [GEOSX](https://github.com/GEOSX/GEOSX) - A simulation framework for modeling coupled flow, transport, and geomechanics in the subsurface.
 
 ## Observation and Models of Ecosystems
@@ -515,9 +520,10 @@ Your contribution is necessary to keep this list alive, increase the quality and
 - [spocc](https://github.com/ropensci/spocc) -  An R package to query and collect species occurrence data from many sources.
 - [VIAME](https://github.com/VIAME/VIAME) - A computer vision application designed for do-it-yourself artificial intelligence including object detection, object tracking, image/video annotation, image/video search, image mosaicing, stereo measurement, rapid model generation, and tools for the evaluation of different algorithm.
 - [ecodata](https://github.com/NOAA-EDAB/ecodata) - A data package for reporting on Northeast Continental Shelf ecosystem status and trends.
-- Designed to simulate the global terrestrial carbon cycle and the response of carbon and vegetation patterns under climate change
 - [CODED](https://github.com/bullocke/coded) - An algorithm developed to monitor for low-magnitude forest disturbances using Landsat data.
 - [OpenPlantPathology](https://github.com/openplantpathology/OpenPlantPathology) - Open Plant Pathology is an initiative that supports and promotes the spread of all open, transparent and reproducible practices in the field of plant pathology.
+- [palmerpenguins](https://github.com/allisonhorst/palmerpenguins/) - The palmerpenguins data contains size measurements for three penguin species observed on three islands in the Palmer Archipelago, Antarctica.
+
 
 
 ### Ice and Poles
@@ -776,6 +782,7 @@ Your contribution is necessary to keep this list alive, increase the quality and
 - [NOAA-Affiliated-Projects](https://github.com/NOAAGov/NOAA-Affiliated-Projects) -  A list of GitHub accounts and repositories that are contributed to by National Oceanic and Atmospheric Administration staff from line offices and/or staff office throughout the organization.
 - [Climatescape](https://climatescape.org/) - Discover the organizations solving climate change.
 - [Airminers](http://www.airminers.org/) - The index of companies and projects mining carbon from the air for entrepreneurs, researchers, and funders to explore opportunities in carbon dioxide.
+- [ENVO](https://github.com/EnvironmentOntology/envo) - A community-driven ontology for the representation of environments.
 
 
 ## Sustainable Technology Communities
