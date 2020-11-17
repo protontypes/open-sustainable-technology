@@ -748,6 +748,7 @@ Your contribution is necessary to keep this list alive, increase the quality and
 - [rfisheries](https://github.com/ropensci/rfisheries) - Interacting with fisheries databases at openfisheries.org.
 - [Fisheries Stock Assessment](https://github.com/droglenc/FSA) - Provides R functions to conduct typical introductory fisheries analyses.
 - [mizer](https://github.com/sizespectrum/mizer) - An R package to run dynamic multi-species size-spectrum models of fish communities.
+- [POSEIDON](https://github.com/CarrKnight/POSEIDON) - A fishery agent-based model.
 
 
 ## Circular Economy and Waste
