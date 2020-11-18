@@ -2,7 +2,7 @@
 <!--lint ignore double-link-->
 [<img src="earth.gif" align="right" width="250"> <br>](https://tabletopwhale.com/)
 __Open source projects sustaining stable climate, energy supply and vital natural resources__
-> For technology to be truly sustainable, it must be globally available, free and independent. The open and free distribution of sustainable technology provides the basis for an economical and ecological global economy.  This secures the access to vital resources such as stable climate, soil or water for everyone in the long term.
+> For technology to be truly sustainable, it must be globally available and independent. The open and free distribution of sustainable technology provides the basis for an economical and ecological global economy.  This secures the access to vital resources such as stable climate, soil or water for everyone in the long term.
 
 <br>
 
