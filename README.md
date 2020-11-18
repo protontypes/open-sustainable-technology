@@ -47,7 +47,7 @@ Your contribution is necessary to keep this list alive, increase the quality and
   - [Soil](#soil)
 - [Agriculture,Fishery and Nutrition](#agriculture-fishery-and-nutrition)
 - [Circular Economy and Waste](#circular-economy-and-waste)
-- [Further Online Resources](#further-online-resources)
+- [Further Open and Sustainable Resources](#further-open-and-sustainable-resources)
 - [Sustainable Technology Communities](#sustainable-technology-communities)
 
 ## Renewable Energy
