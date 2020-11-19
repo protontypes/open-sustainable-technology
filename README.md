@@ -541,6 +541,8 @@ Your contribution is necessary to keep this list alive, increase the quality and
 - [sea-ice](https://github.com/vannizhang/sea-ice) - Displays the monthly mean sea ice extent for the Arctic and Antarctic along with the historical median extent.
 - [SIS2](https://github.com/NOAA-GFDL/SIS2) - Calculates the concentration, thickness, temperature, brine content, and snow cover of an arbitrary number of ice thickness categories (including open water) as well as the motion of the complete pack.
 - [FSM2](https://github.com/RichardEssery/FSM2) - The Flexible Snow Model is a multi-physics energy balance model of snow accumulation and melt, extending the Factorial Snow Model (Essery, 2015) with additional physics, driving and output options.
+- [freshwater](https://github.com/mankoff/freshwater) - Greenland liquid water runoff from 1958 through 2019.
+- [PyTrx](https://github.com/PennyHow/PyTrx) - Its primary purpose is to obtain velocities, surface areas, and distances from oblique, optical imagery of glacial environments.
 
 
 ### Ocean, Climate and Atmosphere
@@ -783,6 +785,7 @@ Your contribution is necessary to keep this list alive, increase the quality and
 - [Climatescape](https://climatescape.org/) - Discover the organizations solving climate change.
 - [Airminers](http://www.airminers.org/) - The index of companies and projects mining carbon from the air for entrepreneurs, researchers, and funders to explore opportunities in carbon dioxide.
 - [ENVO](https://github.com/EnvironmentOntology/envo) - A community-driven ontology for the representation of environments.
+- [The NOAA Fisheries Integrated Toolbox](https://noaa-fisheries-integrated-toolbox.github.io/) - An interdisciplinary, web-based portal of operational tools that can be used for a variety of applications, including stock assessment modeling, forecasting, and data preparation for fish and protected species, as well as economic and ecosystem modeling.
 
 
 ## Sustainable Technology Communities
@@ -808,7 +811,7 @@ Your contribution is necessary to keep this list alive, increase the quality and
 - [rosi](http://rosi.science/) - Developing computational and experimental tools to better understand how plants (roots in particular) interact with their environments.
 - [Potsdam Institute for Climate Impact Research](https://www.pik-potsdam.de/en/home) - Advancing the frontier of integrated research for global sustainability, and for a safe and just climate future.
 - [Environmental Modeling Center](https://www.emc.ncep.noaa.gov/) - Responsible for the development and implementation of more than 20 numerical prediction systems.
-- [The NOAA Fisheries Integrated Toolbox](https://noaa-fisheries-integrated-toolbox.github.io/) - An interdisciplinary, web-based portal of operational tools that can be used for a variety of applications, including stock assessment modeling, forecasting, and data preparation for fish and protected species, as well as economic and ecosystem modeling.
+- [openforis](http://www.openforis.org/) - Free open-source solutions for environmental monitoring.
 
 ### Footnotes
 _Animation created with [An Animated Map of the Earth](https://github.com/eleanorlutz/earth_atlas_of_space) by [Eleanor Lutz](https://twitter.com/eleanor_lutz)_
