@@ -812,6 +812,8 @@ Your contribution is necessary to keep this list alive, increase the quality and
 - [Potsdam Institute for Climate Impact Research](https://www.pik-potsdam.de/en/home) - Advancing the frontier of integrated research for global sustainability, and for a safe and just climate future.
 - [Environmental Modeling Center](https://www.emc.ncep.noaa.gov/) - Responsible for the development and implementation of more than 20 numerical prediction systems.
 - [openforis](http://www.openforis.org/) - Free open-source solutions for environmental monitoring.
+- [WeEcology](https://www.weecology.org/) -  We do cutting edge research, collect and publish large open datasets, develop open source software, build websites, train scientists in computational tools, and generally try to make science a better, more efficient, more diverse and inclusive place.
+
 
 ### Footnotes
 _Animation created with [An Animated Map of the Earth](https://github.com/eleanorlutz/earth_atlas_of_space) by [Eleanor Lutz](https://twitter.com/eleanor_lutz)_
