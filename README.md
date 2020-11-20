@@ -825,7 +825,7 @@ Your contribution is necessary to keep this list alive, increase the quality and
 - [Potsdam Institute for Climate Impact Research](https://www.pik-potsdam.de/en/home) - Advancing the frontier of integrated research for global sustainability, and for a safe and just climate future.
 - [Environmental Modeling Center](https://www.emc.ncep.noaa.gov/) - Responsible for the development and implementation of more than 20 numerical prediction systems.
 - [openforis](http://www.openforis.org/) - Free open-source solutions for environmental monitoring.
-- [WeEcology](https://www.weecology.org/) -  Consists of Morgan Ernest's lab, which studies how ecological systems change through time and has a strong field work focus, and Ethan White’s lab which uses computational and statistical methods to understand ecological systems using large ecological and environmental datasets.
+- [WeEcology](https://www.weecology.org/) -  Consists of Morgan Ernest's lab, which studies how ecological systems change through time and has a strong field work focus, and Ethan White's lab which uses computational and statistical methods to understand ecological systems using large ecological and environmental datasets.
 
 
 ### Footnotes
