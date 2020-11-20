@@ -2,7 +2,7 @@
 <!--lint ignore double-link-->
 [<img src="earth.gif" align="right" width="250"> <br>](https://tabletopwhale.com/)
 __Open source projects sustaining stable climate, energy supply and vital natural resources__
-> For technology to be truly sustainable, it must be globally available, free and independent. The open and free distribution of sustainable technology provides the basis for an economical and ecological global economy.  This secures the access to vital resources such as stable climate, soil or water for everyone in the long term.
+> For technology to be truly sustainable, it must be globally available and independent. The open and free distribution of sustainable technology, knowledge and data provides the basis for an economical and ecological global economy.  This secures the access to vital resources such as stable climate, soil or water for everyone in the long term.
 
 <br>
 
@@ -45,9 +45,9 @@ Your contribution is necessary to keep this list alive, increase the quality and
   - [Air](#air)
   - [Water](#water)
   - [Soil](#soil)
-- [Agriculture and Nutrition](#agriculture-and-nutrition)
+- [Agriculture, Fishery and Nutrition](#agriculture-fishery-and-nutrition)
 - [Circular Economy and Waste](#circular-economy-and-waste)
-- [Further Online Resources](#further-online-resources)
+- [Further Open and Sustainable Resources](#further-open-and-sustainable-resources)
 - [Sustainable Technology Communities](#sustainable-technology-communities)
 
 ## Renewable Energy
@@ -739,7 +739,7 @@ Your contribution is necessary to keep this list alive, increase the quality and
 - [Trends.Earth](https://github.com/ConservationInternational/trends.earth) - A QGIS plugin that supports monitoring of land change, including changes in productivity, land cover, and soil organic carbon.
 
 
-## Agriculture and Nutrition
+## Agriculture, Fishery and Nutrition
 - [OBIA4RTM](https://github.com/lukasValentin/OBIA4RTM) - Aims for plant parameter retrieval - relevant in smart farming applications - by using radiative transfer models and object-based image analysis that direclty addresses actual user needs and policy demands in a highly efficient, flexible and scalable way.
 - [Crop-Classification](https://github.com/bhavesh907/Crop-Classification) - Provides codes for crop classification using multi temporal satellite images.
 - [DSSAT Cropping System Model](https://github.com/DSSAT/dssat-csm-os) - Have been used for many applications ranging from on-farm and precision management to regional assessments of the impact of climate variability and climate change.
@@ -752,6 +752,11 @@ Your contribution is necessary to keep this list alive, increase the quality and
 - [monica](https://github.com/zalf-rpm/monica) - A dynamic, process-based simulation model which describes transport and bio-chemical turn-over of carbon, nitrogen and water in agro-ecosystems.
 - [OpenFarm](https://github.com/openfarmcc/OpenFarm) - A free and open database and web application for farming and gardening knowledge.
 - [Agridat](https://github.com/kwstat/agridat) - An extensive collection of datasets from agricultural experiments.
+- [ss3sim](https://github.com/ss3sim/ss3sim) - A R package that facilitates flexible, rapid, and reproducible fisheries stock assessment simulation testing with the widely-used Stock Synthesis (SS) statistical age-structured stock assessment framework.
+- [rfisheries](https://github.com/ropensci/rfisheries) - Interacting with fisheries databases at openfisheries.org.
+- [Fisheries Stock Assessment](https://github.com/droglenc/FSA) - Provides R functions to conduct typical introductory fisheries analyses.
+- [mizer](https://github.com/sizespectrum/mizer) - An R package to run dynamic multi-species size-spectrum models of fish communities.
+- [POSEIDON](https://github.com/CarrKnight/POSEIDON) - A fishery agent-based model.
 
 
 ## Circular Economy and Waste
@@ -763,7 +768,7 @@ Your contribution is necessary to keep this list alive, increase the quality and
 - [trashnet](https://github.com/garythung/trashnet) - Dataset of images of trash; Torch-based CNN for garbage image classification.
 - [OpenLitterMap](https://github.com/OpenLitterMap/openlittermap-web) - An open, interactive, and accessible database of the world's litter and plastic pollution.
 
-## Further Online Resources
+## Further Open and Sustainable Resources
 - [Awesome Clean Tech](https://github.com/nglgzz/awesome-clean-tech) - Clean technology is any process, product, or service that reduces negative environmental impacts through significant energy efficiency improvements, the sustainable use of resources, or environmental protection activities.
 - [Awesome Open Climate Science](https://github.com/pangeo-data/awesome-open-climate-science) - Awesome Open Atmospheric, Ocean, and Climate Science.
 - [Awesome Earth](https://github.com/philsturgeon/awesome-earth) - "What can I do about the climate crisis?" Here are 326 things you can do.
@@ -791,7 +796,9 @@ Your contribution is necessary to keep this list alive, increase the quality and
 - [Climatescape](https://climatescape.org/) - Discover the organizations solving climate change.
 - [Airminers](http://www.airminers.org/) - The index of companies and projects mining carbon from the air for entrepreneurs, researchers, and funders to explore opportunities in carbon dioxide.
 - [ENVO](https://github.com/EnvironmentOntology/envo) - A community-driven ontology for the representation of environments.
-- [The NOAA Fisheries Integrated Toolbox](https://noaa-fisheries-integrated-toolbox.github.io/) - An interdisciplinary, web-based portal of operational tools that can be used for a variety of applications, including stock assessment modeling, forecasting, and data preparation for fish and protected species, as well as economic and ecosystem modeling.
+- [Global Fishing Watch](https://globalfishingwatch.org/) - We use cutting-edge technology to visualise, track and share data about global fishing activity in near real-time and for free.
+- [open-sdg](https://github.com/open-sdg/open-sdg) - A platform for collecting and disseminating data for the Sustainable Development Goal global indicators.
+- [Open Climate Knowledge](https://github.com/petermr/climate) - An open research project for data mining Open Access (OA) papers related to Climate Change.
 
 
 ## Sustainable Technology Communities
