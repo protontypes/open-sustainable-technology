@@ -40,7 +40,7 @@ Your contribution is necessary to keep this list alive, increase the quality and
   - [Vegetation and Biodiversity](#vegetation-and-biodiversity)
   - [Ice and Poles](#ice-and-poles)
   - [Ocean and Atmosphere](#ocean-climate-and-atmosphere)
-- [Earth Climate Observation and Modeling](climate-modeling-and-observation)
+- [Earth Climate Observation and Modeling](#earth-climate-observation-and-modeling)
 - [Datasets of Ecosystems](#datasets-of-ecosystems)
 - [Access and Monitoring of Resources](#access-and-monitoring-of-resources)
   - [Air](#air)
