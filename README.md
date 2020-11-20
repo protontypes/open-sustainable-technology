@@ -664,9 +664,11 @@ Your contribution is necessary to keep this list alive, increase the quality and
 - [opendata-stuttgart](https://github.com/opendata-stuttgart/sensors-software) - The maintained main firmware for the Luftdaten.Info Sensor.
 - [AirCasting](https://github.com/HabitatMap/AirCasting) - The project aims to build a platform for gathering, visualization and sharing of environmental data.
 - [openair](https://github.com/davidcarslaw/openair) - An R package developed for the purpose of analyzing air quality data — or more generally atmospheric composition data.
-- [ropensci](https://github.com/ropensci/ropenaq) - OpenAQ is a community of scientists, software developers, and lovers of open environmental data who are building an open, real-time database that provides programmatic and historical access to air quality data.
+- [ropenaq](https://github.com/ropensci/ropenaq) - A community of scientists, software developers, and lovers of open environmental data who are building an open, real-time database that provides programmatic and historical access to air quality data.
 - [airQualityMeter](https://github.com/rpanfili/airQualityMeter) - Detects air particulate matter (PM - pm1, pm2.5, pm10) concentrations and sends data to an MQTT server.
 - [Air-Trends-Report](https://github.com/USEPA/Air-Trends-Report) - Source code for EPA's annual air trends report on air quality, emissions and visibility trends.
+- [openaq-api](https://github.com/openaq/openaq-api) - This is the main API for the OpenAQ project written in JavaScript.
+- [breethe-server](https://github.com/simplabs/breethe-server) - Breethe allows instant access to up to date air quality data for locations in Europe.
 
 
 ### Water
