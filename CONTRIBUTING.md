@@ -16,12 +16,12 @@ In order to understand the impact on different ecosystems and other natural reso
 
 ## Vital Natural Resources
 
-All life on earth is based on the availability of limited natural resources.  Ensuring quality and ensuring accessibility for all life forms is a central task for sustainable technology.
+All life on earth is based on the availability of limited natural resources.  Ensuring quality and ensuring accessibility for all life forms is a central task for sustainable technology. Therefore, the provision, monitoring, backup and recovery of vital resources plays a central role. 
 
 ## What criteria must my project meet to be considered?
 
 * The project must comply as closely as possible with the [Guideline](#guideline).
-* You need to show that others than the project main developers are using the project. 
+* Your project should be structured and documented in such a way that it can be reused and extended by others. 
 * Larger parts of the project are published under an [open source license](https://choosealicense.com/). 
 * Have good reasons why the project is awesome and why it is useful. 
 
