@@ -790,6 +790,7 @@ Your contribution is necessary to keep this list alive, increase the quality and
 - [ENVO](https://github.com/EnvironmentOntology/envo) - A community-driven ontology for the representation of environments.
 - [Global Fishing Watch](https://globalfishingwatch.org/) - We use cutting-edge technology to visualise, track and share data about global fishing activity in near real-time and for free.
 - [open-sdg](https://github.com/open-sdg/open-sdg) - A platform for collecting and disseminating data for the Sustainable Development Goal global indicators.
+- [Open Climate Knowledge](https://github.com/petermr/climate) - An open research project for data mining Open Access (OA) papers related to Climate Change.
 
 
 ## Sustainable Technology Communities
