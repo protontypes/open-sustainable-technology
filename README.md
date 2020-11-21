@@ -37,7 +37,7 @@ Your contribution is necessary to keep this list alive, increase the quality and
   - [Observation and Models](#observation-and-models)
   - [Carbon Capture](#carbon-capture)
 - [Observation and Models of Ecosystems](#observation-and-models-of-ecosystems)
-  - [Vegetation and Biodiversity](#vegetation-and-biodiversity)
+  - [Life Forms and Biodiversity](#life-forms-and-biodiversity)
   - [Ice and Poles](#ice-and-poles)
   - [Ocean and Atmosphere](#ocean-climate-and-atmosphere)
 - [Earth Climate Observation and Modeling](#earth-climate-observation-and-modeling)
@@ -471,7 +471,7 @@ Your contribution is necessary to keep this list alive, increase the quality and
 - [GEOSX](https://github.com/GEOSX/GEOSX) - A simulation framework for modeling coupled flow, transport, and geomechanics in the subsurface.
 
 ## Observation and Models of Ecosystems
-### Vegetation and Biodiversity
+### Life Forms and Biodiversity
 - [carbon budget](https://github.com/wri/carbon-budget) - This model maps gross greenhouse gas emissions from forests between 2001 and 2015, gross carbon removals by forests between 2001, and the difference between them (net flux).
 - [treeseg](https://github.com/apburt/treeseg/) - Has been developed to near-automatically extract tree-level point clouds from high-density larger-area lidar point clouds acquired in forests.
 - [fgeo](https://github.com/forestgeo/fgeo) - Analyze forest diversity and dynamics.
@@ -525,6 +525,7 @@ Your contribution is necessary to keep this list alive, increase the quality and
 - [OpenPlantPathology](https://github.com/openplantpathology/OpenPlantPathology) - Open Plant Pathology is an initiative that supports and promotes the spread of all open, transparent and reproducible practices in the field of plant pathology.
 - [palmerpenguins](https://github.com/allisonhorst/palmerpenguins/) - The palmerpenguins data contains size measurements for three penguin species observed on three islands in the Palmer Archipelago, Antarctica.
 - [robis](https://github.com/iobis/robis/) -  Build and maintain a global alliance that collaborates with scientific communities to facilitate free and open access to, and application of, biodiversity and biogeographic data and information on marine life.
+- [rfishbase](https://github.com/ropensci/rfishbase) - R interface to the fishbase.org database.
 
 
 
