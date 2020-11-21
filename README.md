@@ -846,6 +846,7 @@ Your contribution is necessary to keep this list alive, increase the quality and
 - [openforis](http://www.openforis.org/) - Free open-source solutions for environmental monitoring.
 - [WeEcology](https://www.weecology.org/) -  Consists of Morgan Ernest's lab, which studies how ecological systems change through time and has a strong field work focus, and Ethan White's lab which uses computational and statistical methods to understand ecological systems using large ecological and environmental datasets.
 - [Open Water Foundation](http://openwaterfoundation.org/) - The Open Water Foundation is a nonprofit social enterprise that is working to provide an open source software platform to help organizations make better decisions about water.
+- [JuliaClimate](https://github.com/JuliaClimate) - A open Climate science community for Julia.
 
 
 
