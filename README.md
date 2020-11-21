@@ -452,6 +452,8 @@ Your contribution is necessary to keep this list alive, increase the quality and
 - [ecometer](https://gitlab.com/ecoconceptionweb/ecometer) - Loads websites, compute metrics (from network activity, loaded payloads and the web page), and use them to assess the website's ecodesign maturity based on a list of best practices.
 - [patch-node](https://github.com/patch-technology/patch-node) - The road to global carbon-neutrality will be through programmatic compensation.
 - [co2.js](https://github.com/thegreenwebfoundation/co2.js) - An npm module for accessing the green web API, and estimating the carbon emissions from using digital services.
+- [blockchain-carbon-accounting](https://github.com/opentaps/blockchain-carbon-accounting) - Code of the Carbon Accounting and Certification Working Group.
+
 
 ### Observation and Models
 - [ghg emissions indicator](https://github.com/bcgov/ghg-emissions-indicator) - R scripts for a GHG emissions indicator published on Environmental Reporting British Columbia.
