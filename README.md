@@ -39,7 +39,7 @@ Your contribution is necessary to keep this list alive, increase the quality and
 - [Observation and Models of Ecosystems](#observation-and-models-of-ecosystems)
   - [Life Forms and Biodiversity](#life-forms-and-biodiversity)
   - [Ice and Poles](#ice-and-poles)
-  - [Ocean and Atmosphere](#ocean-climate-and-atmosphere)
+  - [Ocean and Atmosphere](#ocean-and-atmosphere)
 - [Earth Climate Observation and Modeling](#earth-climate-observation-and-modeling)
 - [Datasets of Ecosystems](#datasets-of-ecosystems)
 - [Access and Monitoring of Resources](#access-and-monitoring-of-resources)
@@ -607,7 +607,7 @@ Your contribution is necessary to keep this list alive, increase the quality and
 - [parcels](https://github.com/OceanParcels/parcels) - Can be used to track passive and active particulates such as water, plankton, plastic and fish.
 - [MOHID-Lagrangian](https://github.com/Mohid-Water-Modelling-System/MOHID-Lagrangian) - Mainly developed for oceanographic and fluvial modelling, application to atmospheric and other planetary settings should be trivial.
 - [Mohid](https://github.com/Mohid-Water-Modelling-System/Mohid) - A modular finite volumes water-modelling system written in ANSI-Fortran95 using an Object-oriented programming philosophy, integrating diverse mathematical models and supporting graphical user interfaces that manage all the pre- and post-processing.
-- [OasisPiWind](https://github.com/OasisLMF/OasisPiWind) - 
+- [OasisPiWind](https://github.com/OasisLMF/OasisPiWind) - PiWind is a wind storm model for a small area of the UK.
 
 
 ## Earth Climate Observation and Modeling
