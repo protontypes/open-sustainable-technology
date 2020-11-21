@@ -645,6 +645,7 @@ Your contribution is necessary to keep this list alive, increase the quality and
 - [ClimateModeling_courseware](https://github.com/brian-rose/ClimateModeling_courseware) - A collection of interactive lecture notes and assignments in Jupyter notebook format.
 - [FAIR](https://github.com/OMS-NetZero/FAIR) - Finite Amplitude Impulse-Response simple climate-carbon-cycle model.
 - [CLIMADA](https://github.com/CLIMADA-project/climada_python) - Stands for CLIMate ADAptation and is a probabilistic natural catastrophe impact model, that also calculates averted damage (benefit) thanks to adaptation measures of any kind (from grey to green infrastructure, behavioural, etc.).
+- [climpact2](https://github.com/ARCCSS-extremes/climpact2/) - An R software package that calculates the ET-SCI indices as well as additional climate extremes indices from data stored in text or netCDF files.
 
 
 ## Datasets of Ecosystems
@@ -835,7 +836,7 @@ Your contribution is necessary to keep this list alive, increase the quality and
 - [Environmental Modeling Center](https://www.emc.ncep.noaa.gov/) - Responsible for the development and implementation of more than 20 numerical prediction systems.
 - [openforis](http://www.openforis.org/) - Free open-source solutions for environmental monitoring.
 - [WeEcology](https://www.weecology.org/) -  Consists of Morgan Ernest's lab, which studies how ecological systems change through time and has a strong field work focus, and Ethan White's lab which uses computational and statistical methods to understand ecological systems using large ecological and environmental datasets.
-- [Openwaterfoundation](http://openwaterfoundation.org/) - The Open Water Foundation is a nonprofit social enterprise that is working to provide an open source software platform to help organizations make better decisions about water.
+- [Open Water Foundation](http://openwaterfoundation.org/) - The Open Water Foundation is a nonprofit social enterprise that is working to provide an open source software platform to help organizations make better decisions about water.
 
 
 
