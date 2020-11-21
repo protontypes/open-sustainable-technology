@@ -654,6 +654,9 @@ Your contribution is necessary to keep this list alive, increase the quality and
 - [climpact2](https://github.com/ARCCSS-extremes/climpact2/) - An R software package that calculates the ET-SCI indices as well as additional climate extremes indices from data stored in text or netCDF files.
 - [ClimateMARGO.jl](https://github.com/ClimateMARGO/ClimateMARGO.jl) - A Julia implementation of MARGO, an idealized framework for optimization of climate change control strategies.
 - [ClimateTools.jl](https://github.com/JuliaClimate/ClimateTools.jl) - A collection of commonly-used tools in Climate science. Basics of climate field analysis are covered, with some forays into exploratory techniques associated with climate scenarios design.
+- [PRISM](https://github.com/ropensci/prism) - Download data from the Oregon PRISM climate data project.
+- [OpenClimateGIS](https://github.com/NCPP/ocgis) - A set of geoprocessing and calculation tools for CF-compliant climate datasets.
+- [MetSim](https://github.com/UW-Hydro/MetSim) - A meteorological simulator and forcing disaggregator for hydrologic modeling and climate applications.
 
 
 ## Datasets of Ecosystems
