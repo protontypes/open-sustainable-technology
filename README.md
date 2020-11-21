@@ -524,6 +524,7 @@ Your contribution is necessary to keep this list alive, increase the quality and
 - [CODED](https://github.com/bullocke/coded) - An algorithm developed to monitor for low-magnitude forest disturbances using Landsat data.
 - [OpenPlantPathology](https://github.com/openplantpathology/OpenPlantPathology) - Open Plant Pathology is an initiative that supports and promotes the spread of all open, transparent and reproducible practices in the field of plant pathology.
 - [palmerpenguins](https://github.com/allisonhorst/palmerpenguins/) - The palmerpenguins data contains size measurements for three penguin species observed on three islands in the Palmer Archipelago, Antarctica.
+- [robis](https://github.com/iobis/robis/) -  Build and maintain a global alliance that collaborates with scientific communities to facilitate free and open access to, and application of, biodiversity and biogeographic data and information on marine life.
 
 
 
@@ -804,6 +805,7 @@ Your contribution is necessary to keep this list alive, increase the quality and
 - [Global Fishing Watch](https://globalfishingwatch.org/) - We use cutting-edge technology to visualise, track and share data about global fishing activity in near real-time and for free.
 - [open-sdg](https://github.com/open-sdg/open-sdg) - A platform for collecting and disseminating data for the Sustainable Development Goal global indicators.
 - [Open Climate Knowledge](https://github.com/petermr/climate) - An open research project for data mining Open Access (OA) papers related to Climate Change.
+- [SDGIO](https://github.com/SDG-InterfaceOntology/sdgio) - The repository for the Sustainable Development Goals Interface Ontology.
 
 
 ## Sustainable Technology Communities
@@ -831,6 +833,8 @@ Your contribution is necessary to keep this list alive, increase the quality and
 - [Environmental Modeling Center](https://www.emc.ncep.noaa.gov/) - Responsible for the development and implementation of more than 20 numerical prediction systems.
 - [openforis](http://www.openforis.org/) - Free open-source solutions for environmental monitoring.
 - [WeEcology](https://www.weecology.org/) -  Consists of Morgan Ernest's lab, which studies how ecological systems change through time and has a strong field work focus, and Ethan White's lab which uses computational and statistical methods to understand ecological systems using large ecological and environmental datasets.
+- [Openwaterfoundation](http://openwaterfoundation.org/) - The Open Water Foundation is a nonprofit social enterprise that is working to provide an open source software platform to help organizations make better decisions about water.
+
 
 
 ### Footnotes
