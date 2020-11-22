@@ -694,6 +694,8 @@ Your contribution is necessary to keep this list alive, increase the quality and
 - [ropensci](https://github.com/ropensci/ropenaq) - OpenAQ is a community of scientists, software developers, and lovers of open environmental data who are building an open, real-time database that provides programmatic and historical access to air quality data.
 - [airQualityMeter](https://github.com/rpanfili/airQualityMeter) - Detects air particulate matter (PM - pm1, pm2.5, pm10) concentrations and sends data to an MQTT server.
 - [Air-Trends-Report](https://github.com/USEPA/Air-Trends-Report) - Source code for EPA's annual air trends report on air quality, emissions and visibility trends.
+- [SMOKE](https://github.com/CEMPD/SMOKE) - Create emissions inputs for multiple air quality modeling systems with unmatched speed and flexibility.
+- [inmap](https://github.com/spatialmodel/inmap) - A multi-scale emissions-to-health impact model for fine particulate matter (PM2.5) that mechanistically evaluates air quality and health benefits of perturbations to baseline emissions.
 
 
 ### Water
