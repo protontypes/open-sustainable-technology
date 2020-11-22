@@ -660,6 +660,7 @@ Your contribution is necessary to keep this list alive, increase the quality and
 - [MetSim](https://github.com/UW-Hydro/MetSim) - A meteorological simulator and forcing disaggregator for hydrologic modeling and climate applications.
 - [MimiFUND.jl](https://github.com/fund-model/MimiFUND.jl) - Climate Framework for Uncertainty, Negotiation and Distribution.
 - [DICE.jl](https://github.com/Libbum/DICE.jl) - The Dynamic Integrated model of Climate and the Economy model family are a popular and capable type of simple Integrated Assessment Model of climate-change economics pioneered by William Nordhaus.
+- [LPJmL](https://gitlab.pik-potsdam.de/lpjml/LPJmL) - A process-based model that simulates climate and land-use change impacts on the terrestrial biosphere, the water and carbon cycle and on agricultural production.
 
 
 ## Datasets of Ecosystems
