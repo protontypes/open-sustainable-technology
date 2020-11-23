@@ -203,6 +203,7 @@ Your contribution is necessary to keep this list alive, increase the quality and
 - [openleadr](https://www.lfenergy.org/projects/openleadr/) - Open Automated Demand Response (OpenADR) is an open and interoperable information exchange model and emerging smart grid standard.
 - [GridCal](https://github.com/SanPen/GridCal) - Aims to be a complete platform for power systems research and simulation.
 - [pyehub](https://gitlab.com/energyincities/python-ehub) - A python-based, modular and nestable implementation of the Energy Hub model (balancing demand and supply, system capacity sizing and network flows using Mixed-Integer Linear Programming).
+- [b2e2_contracts](https://github.com/B2E2/b2e2_contracts) - Smart contracts referenced in the Energy Token Model.
 
 
 ## Energy Consumption
