@@ -21,6 +21,7 @@ All life on earth is based on the availability of limited natural resources.  En
 ## What criteria must my project meet to be considered?
 
 * The project must comply as closely as possible with the [Guideline](#guideline).
+* You need to show that others than the project main developers are using the project. A good indicator are issues created by external users. 
 * Your project should be structured and documented in such a way that it can be reused and extended by others. 
 * Larger parts of the project are published under an [open source license](https://choosealicense.com/). 
 * Have good reasons why the project is awesome and why it is useful. 
