@@ -1,5 +1,5 @@
 theme: jekyll-theme-cayman
 title: null
+name: null
 site.url: https://opensustain.tech/
-github:
-  is_project_page: false
+
