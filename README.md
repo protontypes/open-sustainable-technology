@@ -1,7 +1,7 @@
 # Awesome Sustainable Technology [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 <!--lint ignore double-link-->
 [<img src="earth.gif" align="right" width="250"> <br>](https://tabletopwhale.com/)
-__Open technology projects sustaining stable climate, energy supply and vital natural resources__
+__[Open technology projects](https://opensustain.tech/) sustaining stable climate, energy supply and vital natural resources__
 > For technology to be truly sustainable, it must be globally available and independent. The open distribution of sustainable technology, knowledge and data provides the basis for an ecological and economical global economy.  This secures the access to vital resources such as stable climate, soil or water for everyone in the long term.
 
 <br>
