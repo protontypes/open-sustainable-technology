@@ -1,4 +1,4 @@
-# Awesome Sustainable Technology [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Open Sustainable Technology [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 <!--lint ignore double-link-->
 [<img src="earth.gif" align="right" width="250"> <br>](https://tabletopwhale.com/)
 __[Open technology projects](https://opensustain.tech/) sustaining stable climate, energy supply and vital natural resources__
@@ -367,7 +367,6 @@ Your contribution is necessary to keep this list alive, increase the quality and
 - [demandlib](https://github.com/oemof/demandlib) - With the demandlib you can create power and heat profiles for various sectors by scaling them to your desired demand.
 
 
-
 ### Analysis
 
 - [Open Energy Platform](https://github.com/OpenEnergyPlatform/oeplatform) - Aims to ensure quality, transparency and reproducibility in energy system research. It is a collection of various tools and information and that help working with energy related data.
@@ -617,6 +616,7 @@ Your contribution is necessary to keep this list alive, increase the quality and
 - [Mohid](https://github.com/Mohid-Water-Modelling-System/Mohid) - A modular finite volumes water-modelling system written in ANSI-Fortran95 using an Object-oriented programming philosophy, integrating diverse mathematical models and supporting graphical user interfaces that manage all the pre- and post-processing.
 - [OasisPiWind](https://github.com/OasisLMF/OasisPiWind) - PiWind is a wind storm model for a small area of the UK.
 - [AIBECS.jl](https://github.com/JuliaOcean/AIBECS.jl) - A Julia package that provides ocean biogeochemistry modelers with an easy-to-use interface for creating and running models of the ocean system.
+- [CDFTOOLS](https://github.com/meom-group/CDFTOOLS) - A fortran package for analysis and diagnostics on NEMO ocean model output.
 
 
 ## Earth Climate Observation and Modeling
@@ -624,6 +624,7 @@ Your contribution is necessary to keep this list alive, increase the quality and
 - [CMEPS](https://github.com/ESCOMP/CMEPS) - The Community Mediator for Earth Prediction Systems (CMEPS) is a NUOPC-compliant Mediator component used for coupling Earth system model component.
 - [climpred](https://github.com/pangeo-data/climpred) - Aims to be the primary package used to analyze output from initialized dynamical forecast models, ranging from short-term weather forecasts to decadal climate forecasts.
 - [E3SM](https://github.com/E3SM-Project/E3SM) - A state-of-the-art fully coupled model of the Earth's climate including important biogeochemical and cryospheric processes.
+- [E3SM Diagnostics Package](https://github.com/E3SM-Project/e3sm_diags) - Diagnostics package constructed for supporting the diagnostics task of DOE's Energy Exascale Earth System Model (E3SM) project.
 - [MDTF-diagnostics](https://github.com/NOAA-GFDL/MDTF-diagnostics) - Analysis framework and collection of process-oriented diagnostics for weather and climate simulations.
 - [The Community Earth System Model](https://github.com/ESCOMP/CESM) -  Composed of separate models simultaneously simulating the Earth's atmosphere, ocean, land, river run-off, land-ice, and sea-ice, plus one central coupler/moderator component, it allows researchers to conduct fundamental research into the Earth's past, present, and future climate states.
 - [ClimateBase.jl](https://github.com/JuliaClimate/ClimateBase.jl) - A Julia package offering basic functionality for analyzing data that are typically in the form used by climate sciences.
@@ -651,7 +652,6 @@ Your contribution is necessary to keep this list alive, increase the quality and
 - [NorESM](https://github.com/NorESMhub/NorESM) - Norwegian Earth System Model and Documentation.
 - [CliMT](https://github.com/CliMT/climt) - A Toolkit for building Earth system models in Python.
 - [climlab](https://github.com/brian-rose/climlab) - Python package for process-oriented climate modeling.
-- [ClimateModeling_courseware](https://github.com/brian-rose/ClimateModeling_courseware) - A collection of interactive lecture notes and assignments in Jupyter notebook format.
 - [FAIR](https://github.com/OMS-NetZero/FAIR) - Finite Amplitude Impulse-Response simple climate-carbon-cycle model.
 - [CLIMADA](https://github.com/CLIMADA-project/climada_python) - Stands for CLIMate ADAptation and is a probabilistic natural catastrophe impact model, that also calculates averted damage (benefit) thanks to adaptation measures of any kind (from grey to green infrastructure, behavioural, etc.).
 - [climpact2](https://github.com/ARCCSS-extremes/climpact2/) - An R software package that calculates the ET-SCI indices as well as additional climate extremes indices from data stored in text or netCDF files.
@@ -663,8 +663,11 @@ Your contribution is necessary to keep this list alive, increase the quality and
 - [MimiFUND.jl](https://github.com/fund-model/MimiFUND.jl) - Climate Framework for Uncertainty, Negotiation and Distribution.
 - [DICE.jl](https://github.com/Libbum/DICE.jl) - The Dynamic Integrated model of Climate and the Economy model family are a popular and capable type of simple Integrated Assessment Model of climate-change economics pioneered by William Nordhaus.
 - [LPJmL](https://gitlab.pik-potsdam.de/lpjml/LPJmL) - A process-based model that simulates climate and land-use change impacts on the terrestrial biosphere, the water and carbon cycle and on agricultural production.
-- [ipcc_sr15_scenario_analysis](https://github.com/iiasa/ipcc_sr15_scenario_analysis) - Scenario analysis notebooks for the IPCC Special Report on Global Warming of 1.5°C
-
+- [ipcc_sr15_scenario_analysis](https://github.com/iiasa/ipcc_sr15_scenario_analysis) - Scenario analysis notebooks for the IPCC Special Report on Global Warming of 1.5°C.
+- [hn2016_falwa](https://github.com/csyhuang/hn2016_falwa) - Python library for computing Finite-Amplitude Local Wave Activity from climate data.
+- [xclim](https://github.com/Ouranosinc/xclim) - Library of derived climate variables, ie climate indicators, based on xarray.
+- [Raven](https://github.com/Ouranosinc/raven) - Is made to help scientists run hydrological modeling experiments with climate change projections.
+- [NEMO](https://www.nemo-ocean.eu/) - A state-of-the-art modelling framework for research activities and forecasting services in ocean and climate sciences, developed in a sustainable way by a European consortium.
 
 
 ## Datasets of Ecosystems
@@ -833,6 +836,8 @@ Your contribution is necessary to keep this list alive, increase the quality and
 - [open-sdg](https://github.com/open-sdg/open-sdg) - A platform for collecting and disseminating data for the Sustainable Development Goal global indicators.
 - [Open Climate Knowledge](https://github.com/petermr/climate) - An open research project for data mining Open Access (OA) papers related to Climate Change.
 - [SDGIO](https://github.com/SDG-InterfaceOntology/sdgio) - The repository for the Sustainable Development Goals Interface Ontology.
+- [OpenClimate](https://github.com/YaleOpenLab/openclimate-demo) -  An open source initiative exploring the application of distributed ledger technology (DLT) and other emerging technologies, such as IoT (Internet of Things), big data and machine learning, to the challenge of helping the world keep a transparent climate accounting system towards the climate targets.
+- [ClimateModeling_courseware](https://github.com/brian-rose/ClimateModeling_courseware) - A collection of interactive lecture notes and assignments in Jupyter notebook format.
 
 
 ## Sustainable Technology Communities
