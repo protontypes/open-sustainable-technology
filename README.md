@@ -1,4 +1,4 @@
-# Awesome Sustainable Technology [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Open Sustainable Technology [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 <!--lint ignore double-link-->
 [<img src="earth.gif" align="right" width="250"> <br>](https://tabletopwhale.com/)
 __Open technology projects sustaining stable climate, energy supply and vital natural resources__
