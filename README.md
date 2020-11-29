@@ -116,6 +116,7 @@ Your contribution is necessary to keep this list alive, increase the quality and
 - [GreenGuard](https://github.com/signals-dev/GreenGuard) - Is a collection of end-to-end solutions for machine learning problems commonly found in monitoring wind energy production system.
 - [pyconturb](https://gitlab.windenergy.dtu.dk/pyconturb/pyconturb) - Constrained Stochastic Turbulence for Wind Energy Applications.
 - [ORBIT](https://github.com/WISDEM/ORBIT) - Offshore Renewable Balance-of-system Installation Tool computes capital costs and activity times for offshore wind plant balance-of-system (everything besides the turbine) costs.
+- [WindTurbineClassification](https://github.com/nmstreethran/WindTurbineClassification) - Specification of 'normal' wind turbine operating behaviour for rapid anomaly detection.
 
 
 ### Hydro Energy
@@ -203,6 +204,7 @@ Your contribution is necessary to keep this list alive, increase the quality and
 - [openleadr](https://www.lfenergy.org/projects/openleadr/) - Open Automated Demand Response (OpenADR) is an open and interoperable information exchange model and emerging smart grid standard.
 - [GridCal](https://github.com/SanPen/GridCal) - Aims to be a complete platform for power systems research and simulation.
 - [pyehub](https://gitlab.com/energyincities/python-ehub) - A python-based, modular and nestable implementation of the Energy Hub model (balancing demand and supply, system capacity sizing and network flows using Mixed-Integer Linear Programming).
+- [origin](https://github.com/energywebfoundation/origin) - A set of toolkits that together provide a system for issuance and management of Energy Attribute Certificates.
 
 
 ## Energy Consumption
@@ -244,6 +246,7 @@ Your contribution is necessary to keep this list alive, increase the quality and
 - [teb](https://github.com/TEB-model/teb) - A library to calculate the urban surface energy balance at neighborhood scale assuming a simplified canyon geometry.
 - [tsib](https://github.com/FZJ-IEK3-VSA/tsib) - A python package that builds up on different databases and models for creating consistent demand and production time series of residential buildings.
 - [DHNx](https://github.com/oemof/DHNx) - This package provides an open toolbox for district heating and cooling network optimization and simulation models.
+- [The Building Data Genome 2 Data-Set](https://github.com/buds-lab/building-data-genome-project-2) - Whole building non-residential hourly energy meter data from the Great Energy Predictor III competition
 
 
 ### Mobility and Transportation
@@ -467,6 +470,7 @@ Your contribution is necessary to keep this list alive, increase the quality and
 - [EmissV](https://github.com/atmoschem/EmissV) - This package provides some methods to create emissions (with a focus on vehicular emissions) for use in numeric air quality models such as WRF-Chem.
 - [vein](https://gitlab.com/ibarraespinosa/vein) - R package to estimate Vehicular Emissions INventories.
 - [The Community Emissions Data System](https://github.com/JGCRI/CEDS) - Produces consistent estimates of global air emissions species over the industrial era (1750 - present).
+- [national-climate-plans](https://github.com/openclimatedata/national-climate-plans) - Intended Nationally Determined Contributions as provided in the UNFCCC registries, containing only the main document and using the English version if multiple are available.
 
 ### Carbon Capture
 - [SimCCS](https://github.com/simccs/SimCCS) - A software platform for carbon capture and storage infrastructure design.
@@ -535,7 +539,11 @@ Your contribution is necessary to keep this list alive, increase the quality and
 - [Deep Plant Phenomics](https://github.com/p2irc/deepplantphenomics) - A platform for plant phenotyping using deep learning.
 - [PlanktonIndividuals.jl](https://github.com/JuliaOcean/PlanktonIndividuals.jl) - This package simulates the behaviors of an ensemble of phytoplankton individuals.
 - [redlistr](https://github.com/red-list-ecosystem/redlistr) - R package that contains a set of tools suitable for calculating the metrics required for making assessments of species and ecosystems against the IUCN Red List of Threatened Species and the IUCN Red List of Ecosystems categories and criteria.
-
+- [ALA4R](https://github.com/AtlasOfLivingAustralia/ALA4R) - The Atlas of Living Australia provides tools to enable users of biodiversity information to find, access, combine and visualise data on Australian plants and animals.
+- [worldpa](https://github.com/FRBCesab/worldpa) - Interface to the World Database on Protected Areas.
+- [plant](https://github.com/traitecoevo/plant) - A package for modelling forest trait ecology and evolution.
+- [python-ecology-lesson](https://github.com/datacarpentry/python-ecology-lesson) - Data Analysis and Visualization in Python for Ecologists.
+- [R-ecology-lesson](https://github.com/datacarpentry/R-ecology-lesson) - Data Analysis and Visualization in R for Ecologists.
 
 ### Ice and Poles
 - [Planet Snowcover](https://github.com/acannistra/planet-snowcover) -  A project that pairs airborne lidar and Planet Labs satellite imagery with cutting-edge computer vision techniques to identify snow-covered area at unprecedented spatial and temporal resolutions.
@@ -556,7 +564,7 @@ Your contribution is necessary to keep this list alive, increase the quality and
 - [PyTrx](https://github.com/PennyHow/PyTrx) - Its primary purpose is to obtain velocities, surface areas, and distances from oblique, optical imagery of glacial environments.
 - [ECCO-v4-Python-Tutorial](https://github.com/ECCO-GROUP/ECCO-v4-Python-Tutorial) - Contains a several tutorials for using the ECCO Central Production Version 4 ocean and sea-ice state estimate.
 
-### Ocean and Atmosphere
+### Ocean, Waters and Atmosphere
 - [The Flexible Modeling System](https://github.com/NOAA-GFDL/FMS) - A software framework for supporting the efficient development, construction, execution, and scientific interpretation of atmospheric, oceanic, and climate system models.
 - [Bergen Layered Ocean Model](https://github.com/NorESMhub/BLOM) - Employs an isopycnic vertical coordinate, with near-isopycnic interior layers and variable density layers in the surface mixed boundary layer.
 - [Oceananigans.jl](https://github.com/CliMA/Oceananigans.jl) - Fast and friendly fluid dynamics on CPUs and GPUs.
@@ -617,6 +625,8 @@ Your contribution is necessary to keep this list alive, increase the quality and
 - [OasisPiWind](https://github.com/OasisLMF/OasisPiWind) - PiWind is a wind storm model for a small area of the UK.
 - [AIBECS.jl](https://github.com/JuliaOcean/AIBECS.jl) - A Julia package that provides ocean biogeochemistry modelers with an easy-to-use interface for creating and running models of the ocean system.
 - [CDFTOOLS](https://github.com/meom-group/CDFTOOLS) - A fortran package for analysis and diagnostics on NEMO ocean model output.
+- [gospl](https://github.com/Geodels/gospl) - Providing a scalable parallelised Python-based numerical model to simulate landscapes and basins reconstruction at global scale.
+- [GOTM](https://github.com/gotm-model/code) - The General Ocean Turbulence Model is an ambitious name for a one-dimensional water column model for marine and limnological applications.
 
 
 ## Earth Climate Observation and Modeling
@@ -668,6 +678,7 @@ Your contribution is necessary to keep this list alive, increase the quality and
 - [xclim](https://github.com/Ouranosinc/xclim) - Library of derived climate variables, ie climate indicators, based on xarray.
 - [Raven](https://github.com/Ouranosinc/raven) - Is made to help scientists run hydrological modeling experiments with climate change projections.
 - [NEMO](https://www.nemo-ocean.eu/) - A state-of-the-art modelling framework for research activities and forecasting services in ocean and climate sciences, developed in a sustainable way by a European consortium.
+- [metR](https://github.com/eliocamp/metR) -  Several functions and utilities that make R better for handling meteorological data in the tidy data paradigm.
 
 
 ## Datasets of Ecosystems
@@ -743,6 +754,8 @@ Your contribution is necessary to keep this list alive, increase the quality and
 - [PyGnome](https://github.com/NOAA-ORR-ERD/PyGnome) - It is designed to support oil and other hazardous material spills in the coastal environment.
 - [VICRes](https://github.com/thanhiwer/VICRes) - The model simulates key hydrological processes occurring in a river basin (e.g., water and energy balances, streamflow routing), but does not account for the operations of artificial water reservoirs.
 - [AWSM](https://github.com/USDA-ARS-NWRC/awsm) - Automated Water Supply Model was developed at the USDA Agricultural Research Service.
+- [AED2](https://github.com/AquaticEcoDynamics/libaed2) - A community-driven library of modules and algorithms for simulation of "aquatic ecodynamics": water quality, aquatic biogeochemsitry, biotic habitat and aquatic ecosystem dynamics.
+- [General Lake Model](https://github.com/AquaticEcoDynamics/GLM) - A 1-dimensional lake water balance and stratification model.
 
 
 ### Soil
@@ -794,6 +807,7 @@ Your contribution is necessary to keep this list alive, increase the quality and
 - [Karrot](https://github.com/yunity/karrot-frontend) - Web application for organization of foodsaving groups worldwide.
 - [AquaCropR](https://bitbucket.org/anyelacamargo/aquacropr/) - Implementation of the AquaCrop crop growth model developed by FAO to address food security and assess the effect of the environment and management on crop production. 
 - [openfoodnetwork](https://github.com/openfoodfoundation/openfoodnetwork) - An online marketplace for local food. It enables a network of independent online food stores that connects farmers and food hubs with individuals and local businesses.
+- [powerplant](https://github.com/Ecohackerfarm/powerplant) - Provides intelligent planting suggestions which maximize positive crop interaction for the mutual benefit of all your crops.
 
 ## Circular Economy and Waste
 - [ONEARMY](https://github.com/ONEARMY/community-platform) - A series of tools for the Precious Plastic community to collaborate around the world and tackle plastic waste.
