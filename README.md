@@ -890,6 +890,8 @@ Your contribution is necessary to keep this list alive, increase the quality and
 - [Open Water Foundation](http://openwaterfoundation.org/) - The Open Water Foundation is a nonprofit social enterprise that is working to provide an open source software platform to help organizations make better decisions about water.
 - [JuliaClimate](https://github.com/JuliaClimate) - A open Climate science community for Julia.
 - [Pangeo Community](https://discourse.pangeo.io/) - A community effort for big data geoscience.
+- [Impact Makers](https://techimpactmakers.com/) - A global community of tech people who want to help fix the climate.
+- [climateaction](https://climateaction.tech/) - Global community of tech professionals using skills, expertise and platforms to support solutions to the climate crisis.
  
 
 ### Footnotes
