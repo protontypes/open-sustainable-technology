@@ -205,6 +205,7 @@ Your contribution is necessary to keep this list alive, increase the quality and
 - [GridCal](https://github.com/SanPen/GridCal) - Aims to be a complete platform for power systems research and simulation.
 - [pyehub](https://gitlab.com/energyincities/python-ehub) - A python-based, modular and nestable implementation of the Energy Hub model (balancing demand and supply, system capacity sizing and network flows using Mixed-Integer Linear Programming).
 - [origin](https://github.com/energywebfoundation/origin) - A set of toolkits that together provide a system for issuance and management of Energy Attribute Certificates.
+- [GridSingularityD3A](https://d3a.io) - An interface and codebase to model, simulate, optimize and (coming soon) download and deploy a custom energy exchange
 
 
 ## Energy Consumption
