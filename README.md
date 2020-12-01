@@ -252,7 +252,7 @@ Your contribution is necessary to keep this list alive, increase the quality and
 - [The Building Data Genome 2 Data-Set](https://github.com/buds-lab/building-data-genome-project-2) - Whole building non-residential hourly energy meter data from the Great Energy Predictor III competition.
 - [BESOS](https://gitlab.com/energyincities/besos) - A collection of modules for the simulation and optimization of buildings and urban energy systems.
 - [pythermalcomfort](https://github.com/CenterForTheBuiltEnvironment/pythermalcomfort) - Package to calculate several thermal comfort indices (e.g. PMV, PPD, SET, adaptive) and convert physical variables.
-- [comfort_tool] - A web interface for comfort model calculations and visualizations according to ASHRAE Standard-55, EN Standard 16798 and ISO Standard 7730.
+- [comfort_tool](https://github.com/CenterForTheBuiltEnvironment/comfort_tool) - A web interface for comfort model calculations and visualizations according to ASHRAE Standard-55, EN Standard 16798 and ISO Standard 7730.
 
 
 ### Mobility and Transportation
@@ -478,7 +478,7 @@ Your contribution is necessary to keep this list alive, increase the quality and
 - [The Community Emissions Data System](https://github.com/JGCRI/CEDS) - Produces consistent estimates of global air emissions species over the industrial era (1750 - present).
 - [national-climate-plans](https://github.com/openclimatedata/national-climate-plans) - Intended Nationally Determined Contributions as provided in the UNFCCC registries, containing only the main document and using the English version if multiple are available.
 - [PyChEmiss](https://github.com/quishqa/PyChEmiss) - PyChEmiss is a Python script to create the wrfchemi file from local emissions needed to run WRF-Chem model.
-- [co2-data](https://github.com/owid/co2-data) - Data on CO2 and greenhouse gas emissions by Our World in Data
+- [co2-data](https://github.com/owid/co2-data) - Data on CO2 and greenhouse gas emissions by Our World in Data.
 - [X-STILT](https://github.com/uataq/X-STILT) - An atmospheric transport model that deals with vertically integrated column CO2 and potentially other trace gases.
 - [stilt](https://github.com/uataq/stilt) - An open source lagrangian particle dispersion model which is widely used to simulate the transport of pollution and greenhouse gases through the atmosphere.
 
@@ -826,7 +826,7 @@ Your contribution is necessary to keep this list alive, increase the quality and
 - [mizer](https://github.com/sizespectrum/mizer) - An R package to run dynamic multi-species size-spectrum models of fish communities.
 - [POSEIDON](https://github.com/CarrKnight/POSEIDON) - A fishery agent-based model.
 - [Karrot](https://github.com/yunity/karrot-frontend) - Web application for organization of foodsaving groups worldwide.
-- [AquaCropR](https://bitbucket.org/anyelacamargo/aquacropr/) - Implementation of the AquaCrop crop growth model developed by FAO to address food security and assess the effect of the environment and management on crop production. 
+- [AquaCropR](https://bitbucket.org/anyelacamargo/aquacropr/) - Implementation of the AquaCrop crop growth model developed by FAO to address food security and assess the effect of the environment and management on crop production.
 - [openfoodnetwork](https://github.com/openfoodfoundation/openfoodnetwork) - An online marketplace for local food. It enables a network of independent online food stores that connects farmers and food hubs with individuals and local businesses.
 - [powerplant](https://github.com/Ecohackerfarm/powerplant) - Provides intelligent planting suggestions which maximize positive crop interaction for the mutual benefit of all your crops.
 
