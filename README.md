@@ -860,7 +860,7 @@ Your contribution is necessary to keep this list alive, increase the quality and
 - [OpenClimate](https://github.com/YaleOpenLab/openclimate-demo) -  An open source initiative exploring the application of distributed ledger technology (DLT) and other emerging technologies, such as IoT (Internet of Things), big data and machine learning, to the challenge of helping the world keep a transparent climate accounting system towards the climate targets.
 - [ClimateModeling_courseware](https://github.com/brian-rose/ClimateModeling_courseware) - A collection of interactive lecture notes and assignments in Jupyter notebook format.
 - [MIT-PraCTES](https://github.com/PraCTES/MIT-PraCTES) - Materials for MIT workshop "Practical Computing Tutorials for Earth Scientists".
-- [man_ccia](https://claut.gitlab.io/man_ccia/) - Climate Change Impact Assessment: A practical walk-through
+- [Climate Change Impact Assessment](https://claut.gitlab.io/man_ccia/) - A practical walk-through.
 
 
 ## Sustainable Technology Communities
