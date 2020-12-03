@@ -32,10 +32,11 @@ Your contribution is necessary to keep this list alive, increase the quality and
   - [Optimization](#optimization)
   - [Monitoring and Control](#monitoring-and-control)
 - [Datasets on Energy Consumption](#datasets-on-energy-consumption)
-- [Emissions and Greenhouse Gases](#emissions-and-greenhouse-gases)
+- [Emissions and Footprint of Resources](#emissions-and-footprint-of-resources)
   - [Carbon Footprint](#carbon-footprint)
-  - [Observation and Models](#observation-and-models)
+  - [Emissions Observation and Modeling](#emissions-observation-and-modeling)
   - [Carbon Capture](#carbon-capture)
+  - [Life Cycle Assessment](#life-cycle-assessment)
 - [Observation and Models of Ecosystems](#observation-and-models-of-ecosystems)
   - [Life Forms and Biodiversity](#life-forms-and-biodiversity)
   - [Ice and Poles](#ice-and-poles)
@@ -308,7 +309,6 @@ Your contribution is necessary to keep this list alive, increase the quality and
 - [openv2g](http://openv2g.sourceforge.net/) - The objective to start this project is primarily to support the ISO and IEC standardisation process to specify the so called "Vehicle 2 Grid Comunication Interface" (V2G CI) which became the ISO IEC 15118 specification by now.
 - [OptaPlanner](https://github.com/kiegroup/optaplanner) - Java Constraint Solver to solve vehicle routing, employee rostering, task assignment, conference scheduling and other planning problems.
 - [RAMP-mobility](https://github.com/RAMP-project/RAMP-mobility) - A novel applocation of the RAMP main engine for generating bottom-up stochastic electric vehicles load profiles.
-- [carculator](https://github.com/romainsacchi/carculator) - Prospective environmental and economic life cycle assessment of vehicles made blazing fast.
 - [emobpy](https://gitlab.com/diw-evu/emobpy/emobpy) - A Python tool that can create battery electric vehicle profiles.
 - [PCT](https://github.com/ITSLeeds/pct/) - The goal is to increase the accessibility and reproducibility of the data produced by the Propensity to Cycle Tool (PCT).
 - [goat](https://github.com/goat-community/goat) - A capable of modeling walking and cycling accessibility.
@@ -325,8 +325,6 @@ Your contribution is necessary to keep this list alive, increase the quality and
 - [CalTRACK](https://github.com/energy-market-methods/caltrack) - Methods are developed in an open and transparent stakeholder process that uses empirical testing to define replicable methods for calculating normalized metered energy consumption using either monthly or interval data from an existing conditions baseline.
 - [H2020 CATALYST](https://gitlab.com/project-catalyst) - Converting data centres in energy flexibility ecosystems.
 - [OpenModelica](https://github.com/OpenModelica/OpenModelica) - An open-source Modelica-based modeling and simulation environment intended for industrial and academic usage.
-- [brightway2](https://github.com/brightway-lca/brightway2) - A open source framework for life cycle assessment.
-- [Electricity Life Cycle Inventory](https://github.com/USEPA/ElectricityLCI) - A python package that uses standardized facility release and generation data to create regionalized life cycle inventory (LCI) models for the generation, mix of generation, mix of consumption, and distribution of electricity to end users for the US, with embedded system processes of upstream fuel production and infrastructure.
 
 
 ## Energy System Assessment
@@ -374,6 +372,7 @@ Your contribution is necessary to keep this list alive, increase the quality and
 - [Spine-Toolbox](https://github.com/Spine-project/Spine-Toolbox) - An application to define, manage, and execute various energy system simulation models.
 - [demandlib](https://github.com/oemof/demandlib) - With the demandlib you can create power and heat profiles for various sectors by scaling them to your desired demand.
 - [dieter_py](https://gitlab.com/diw-evu/dieter_public/dieter_py) -  A open-source power sector optimization model that has been developed to investigate the role of electricity storage and sector coupling options in future scenarios with high shares of renewable energy sources.
+- [OMEGAlpes](https://gricad-gitlab.univ-grenoble-alpes.fr/omegalpes/omegalpes) - Aims to be an energy systems modelling tool for linear optimisation (LP, MILP).
 
 
 ### Analysis
@@ -443,7 +442,7 @@ Your contribution is necessary to keep this list alive, increase the quality and
 - [energy-data](https://github.com/owid/energy-data) - Data on global energy consumption (primary energy, per capita, and growth rates), energy mix, electricity mix and other relevant metrics.
 
 
-## Emissions and Greenhouse Gases
+## Emissions and Footprint of Resources
 
 ### Carbon Footprint
 - [impact](https://github.com/mlco2/impact/) - Compute your ML model's emissions with our calculator and add the results to your paper with our generated latex template.
@@ -466,7 +465,7 @@ Your contribution is necessary to keep this list alive, increase the quality and
 - [nvidia-co2](https://github.com/kylemcdonald/nvidia-co2) - Adds gCO2eq emissions to nvidia-smi.
 
 
-### Observation and Models
+### Emissions Observation and Modeling
 - [ghg emissions indicator](https://github.com/bcgov/ghg-emissions-indicator) - R scripts for a GHG emissions indicator published on Environmental Reporting British Columbia.
 - [DuMux](https://git.iws.uni-stuttgart.de/dumux-repositories/dumux) - Based on the DUNE framework and aims to provide a multitude of numerical models as well as flexible discretization methods for complex non-linear phenomena, such as CO2 sequestration, soil remediation, drug delivery in cancer therapy and more.
 - [batch7 satellite ges](https://github.com/dataforgoodfr/batch7_satellite_ges/) - The goal of our project is to localize CO2 emissions on Earth based on the the carbon concentration data measured by the OCO-2 Satellite from NASA.
@@ -490,6 +489,13 @@ Your contribution is necessary to keep this list alive, increase the quality and
 - [Carbon Capture and Storage](https://github.com/yohanesnuwara/carbon-capture-and-storage) - This is a complete modelling workflow that integrates reservoir simulation data, rock physics, time-lapse seismic, and geomechanics of CO2 injection in carbonate rock. <!--lint ignore awesome-spell-check-->
 - [GEOSX](https://github.com/GEOSX/GEOSX) - A simulation framework for modeling coupled flow, transport, and geomechanics in the subsurface.
 - [OpenIAM](https://gitlab.com/NRAP/OpenIAM) - An open-source integrated assessment model developed by National Risk Assessment Partnership Phase II to facilitate risk assessment, management and containment assurance for geologic carbon sequestration projects.
+
+### Life Cycle Assessment
+ - [bonsai](https://github.com/BONSAMURAIS/bonsai) - The aim of BONSAI is to make reliable, unbiased sustainability information on products “product footprints” readily and freely available whenever and wherever it is needed to support product comparisons and decisions.
+ - [brightway2](https://github.com/brightway-lca/brightway2) - A open source framework for life cycle assessment.
+ - [carculator](https://github.com/romainsacchi/carculator) - Prospective environmental and economic life cycle assessment of vehicles made blazing fast.
+ - [Electricity Life Cycle Inventory](https://github.com/USEPA/ElectricityLCI) - A python package that uses standardized facility release and generation data to create regionalized life cycle inventory (LCI) models for the generation, mix of generation, mix of consumption, and distribution of electricity to end users for the US, with embedded system processes of upstream fuel production and infrastructure.
+ - [uslci-content](https://github.com/uslci-admin/uslci-content) - Supplementary content for the U.S. Life Cycle Inventory Database.
 
 
 ## Observation and Models of Ecosystems
