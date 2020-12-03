@@ -816,6 +816,9 @@ Your contribution is necessary to keep this list alive, increase the quality and
 - [AquaCropR](https://bitbucket.org/anyelacamargo/aquacropr/) - Implementation of the AquaCrop crop growth model developed by FAO to address food security and assess the effect of the environment and management on crop production. 
 - [openfoodnetwork](https://github.com/openfoodfoundation/openfoodnetwork) - An online marketplace for local food. It enables a network of independent online food stores that connects farmers and food hubs with individuals and local businesses.
 - [powerplant](https://github.com/Ecohackerfarm/powerplant) - Provides intelligent planting suggestions which maximize positive crop interaction for the mutual benefit of all your crops.
+- [dormancyR](https://github.com/EduardoFernandezC/dormancyR) - Provide alternatives to common chill models used in horticulture to compute chill metrics in deciduous fruit tree orchards as well as functions to handle weather data.
+- [seedr](https://github.com/efernandezpascual/seedr) - An R package that provides functions to fit hydro and thermal time germination models.
+
 
 ## Circular Economy and Waste
 - [ONEARMY](https://github.com/ONEARMY/community-platform) - A series of tools for the Precious Plastic community to collaborate around the world and tackle plastic waste.
