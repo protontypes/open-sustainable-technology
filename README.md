@@ -635,6 +635,7 @@ Your contribution is necessary to keep this list alive, increase the quality and
 - [eeweather](https://github.com/openeemeter/eeweather) - Fetch NCDC ISD, TMY3, or CZ2010 weather data that corresponds to ZIP Code Tabulation Areas or Latitude/Longitude.
 - [GRAL](https://github.com/GralDispersionModel/GRAL) - Provides a CFD model for the flow calculation around buildings or micrsocale terrain structures.
 - [Chemical Lagrangian Model of the Stratosphere](https://jugit.fz-juelich.de/clams/CLaMS) - A world leader in simulating exchange processes in the atmosphere across transport barriers such as stratosphere-troposphere exchange.
+- [GEOS-Chem](https://github.com/geoschem/geos-chem) - Advance understanding of human and natural influences on the environment through a comprehensive, state-of-the-science, readily accessible global model of atmospheric composition.
 
 
 ## Modeling of Climate and Earth 
@@ -719,6 +720,7 @@ Your contribution is necessary to keep this list alive, increase the quality and
 - [rdwd](https://github.com/brry/rdwd) - An R package to select, download and read climate data from the German Weather Service.
 - [rWBclimate](https://github.com/ropensci/rWBclimate) - An R interface for the World Bank climate data used in the World Bank climate knowledge portal.
 - [leaflet-velocity](https://github.com/danwild/leaflet-velocity) - Create a canvas visualisation layer for direction and intensity of arbitrary velocities (e.g. wind, ocean current).
+- [gcpy](https://github.com/geoschem/gcpy) - A Python-based toolkit containing useful functions for working specifically with the GEOS-Chem model of atmospheric chemistry and composition.
 
 
 ## Access and Monitoring of Resources
@@ -740,6 +742,8 @@ Your contribution is necessary to keep this list alive, increase the quality and
 - [SMOKE](https://github.com/CEMPD/SMOKE) - Create emissions inputs for multiple air quality modeling systems with unmatched speed and flexibility.
 - [inmap](https://github.com/spatialmodel/inmap) - A multi-scale emissions-to-health impact model for fine particulate matter (PM2.5) that mechanistically evaluates air quality and health benefits of perturbations to baseline emissions.
 - [Open Source EMEP MSC-W model](https://github.com/metno/emep-ctm) - Designed to calculate air concentrations and deposition fields for major acidifying and eutrophying pollutants, photo-oxidants and particulate matter.
+- [Rpollution](https://github.com/williamorim/Rpollution) - The goal of Rpollution is to assemble R functions to analyse air pollution data.
+- [YETI](https://github.com/twollnik/YETI) - A bottom-up traffic emission calculation tool developed at the Institute for Advanced Sustainability Studies in Potsdam and built in Python.
 
 
 ### Water
