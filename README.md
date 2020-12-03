@@ -31,7 +31,7 @@ Your contribution is necessary to keep this list alive, increase the quality and
   - [Analysis](#analysis)
   - [Optimization](#optimization)
   - [Monitoring and Control](#monitoring-and-control)
-- [Datasets on Electricity Consumption and Generation](#datasets-on-electricity-consumption-and-generation)
+- [Datasets on Energy Consumption](#datasets-on-energy-consumption)
 - [Emissions and Greenhouse Gases](#emissions-and-greenhouse-gases)
   - [Carbon Footprint](#carbon-footprint)
   - [Observation and Models](#observation-and-models)
@@ -419,7 +419,7 @@ Your contribution is necessary to keep this list alive, increase the quality and
 - [STM32 Energy Monitoring](https://github.com/openenergymonitor/STM32) - The following resources are a work in progress guide to using the STM32 platform for energy monitoring, being written as part of development work into the next generation of OpenEnergyMonitor hardware.
 
 
-## Datasets on Electricity Consumption and Generation
+## Datasets on Energy Consumption
 
 - [The Public Utility Data Liberation Project](https://github.com/catalyst-cooperative/pudl) - Makes US energy data easier to access and use.
 - [Global Power Plant Database](https://github.com/wri/global-power-plant-database) - A comprehensive, global, open source database of power plants.
@@ -440,6 +440,7 @@ Your contribution is necessary to keep this list alive, increase the quality and
 - [UKgrid](https://github.com/RamiKrispin/UKgrid) - An R data package with the UK National Grid historical demand for electricity between April 2005 and October 2019.
 - [USgrid](https://github.com/RamiKrispin/USgrid) - The hourly demand and supply of electricity in the US.
 - [ESIOS](https://github.com/SanPen/ESIOS) - Comprehensive library to access the Spanish electricity market entity in Python.
+- [energy-data](https://github.com/owid/energy-data) - Data on global energy consumption (primary energy, per capita, and growth rates), energy mix, electricity mix and other relevant metrics.
 
 
 ## Emissions and Greenhouse Gases
