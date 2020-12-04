@@ -1,0 +1,36 @@
+site_name: 'Open Sustainable Technology'
+site_url: 'https://OpenSustain.tech'
+site_description: 'Open technology projects sustaining stable climate, energy supply and vital natural resources'
+repo_name: 'protontypes/open-sustainable-technology'
+repo_url: 'https://github.com/protontypes/open-sustainable-technology'
+nav:
+  - "Truely Sustainable is Open": "index.md"
+  - " ": " "
+  - " ": " "
+  - "Contribute Open Sustainable Technology": "CONTRIBUTING.md"
+
+theme:
+  name: 'material'
+  logo: 'logo.png'
+  favicon: 'favicon.png'
+  palette:
+        primary: 'teal'
+        accent: 'light'
+  feature:
+    - navigation.instant
+    - navigration.tabs
+    - search.highlight
+
+extra_css:
+    - css/extra.css
+
+markdown_extensions:
+  - toc:
+      permalink: true
+
+extra:
+  social:
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/protontypes
+    - icon: fontawesome/brands/linkedin
+      link: https://linkedin.com/company/protontypes
