@@ -215,6 +215,7 @@ Your contribution is necessary to keep this list alive, increase the quality and
 - [GridCal](https://github.com/SanPen/GridCal) - Aims to be a complete platform for power systems research and simulation.
 - [pyehub](https://gitlab.com/energyincities/python-ehub) - A python-based, modular and nestable implementation of the Energy Hub model (balancing demand and supply, system capacity sizing and network flows using Mixed-Integer Linear Programming).
 - [origin](https://github.com/energywebfoundation/origin) - A set of toolkits that together provide a system for issuance and management of Energy Attribute Certificates.
+- [Grid Singularity Energy Exchange Engine (D3A)](https://github.com/gridsingularity/d3a) - An interface and codebase to model, simulate, optimize and (coming soon) download and deploy a grid-aware energy exchange.
 
 
 ## Energy Consumption
@@ -860,6 +861,9 @@ Your contribution is necessary to keep this list alive, increase the quality and
 - [Mycodo](https://github.com/kizniche/Mycodo) - Open source software for the Raspberry Pi that couples inputs and outputs in interesting ways to sense and manipulate the environment.
 - [Trefle](https://github.com/treflehq/trefle-api) - A botanical JSON REST API for plants species, allowing you to search and query over all the registered species, and build the next gardening apps and farming robots.
 - [HappyPlants](https://github.com/morkro/happy-plants) - Creating your own plant database in a visual way.
+- [dormancyR](https://github.com/EduardoFernandezC/dormancyR) - Provide alternatives to common chill models used in horticulture to compute chill metrics in deciduous fruit tree orchards as well as functions to handle weather data.
+- [seedr](https://github.com/efernandezpascual/seedr) - An R package that provides functions to fit hydro and thermal time germination models.
+
 
 
 ## Circular Economy and Waste
@@ -917,6 +921,7 @@ Your contribution is necessary to keep this list alive, increase the quality and
 - [OpenClimate](https://github.com/YaleOpenLab/openclimate-demo) -  An open source initiative exploring the application of distributed ledger technology (DLT) and other emerging technologies, such as IoT (Internet of Things), big data and machine learning, to the challenge of helping the world keep a transparent climate accounting system towards the climate targets.
 - [ClimateModeling_courseware](https://github.com/brian-rose/ClimateModeling_courseware) - A collection of interactive lecture notes and assignments in Jupyter notebook format.
 - [MIT-PraCTES](https://github.com/PraCTES/MIT-PraCTES) - Materials for MIT workshop "Practical Computing Tutorials for Earth Scientists".
+- [Climate Change Impact Assessment](https://claut.gitlab.io/man_ccia/) - A practical walk-through.
 
 
 ## Sustainable Technology Communities
