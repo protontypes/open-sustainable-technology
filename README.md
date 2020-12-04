@@ -11,6 +11,8 @@ Your contribution is necessary to keep this list alive, increase the quality and
 
 [![](https://img.shields.io/twitter/follow/protontypes?style=social)](https://twitter.com/protontypes) [![GitHub stars](https://img.shields.io/github/stars/protontypes/awesome-sustainable-technology.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/protontypes/awesome-sustainable-technology/stargazers/)
 
+---
+
 ## Contents
 
 - [Renewable Energy](#renewable-energy)
@@ -54,8 +56,6 @@ Your contribution is necessary to keep this list alive, increase the quality and
 - [Sustainable Investment](#sustainable-investment)
 - [Further Open and Sustainable Resources](#further-open-and-sustainable-resources)
 - [Sustainable Technology Communities](#sustainable-technology-communities)
-
----
 
 ## Renewable Energy
 
