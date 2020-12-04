@@ -6,6 +6,7 @@ __[Open technology projects](https://opensustain.tech/) sustaining stable climat
 
 <br>
 
+<!--lint ignore double-link-->
 Your contribution is necessary to keep this list alive, increase the quality and to expand it. You can read more about it's origin and how you can participate in the [contribution guide](CONTRIBUTING.md), [presentation slides](https://protontypes.eu/protontypes_open_sustainable_technology.pdf) and related [blog post](https://protontypes.eu/blog/2020/10/05/gathering-open-sustainable-technology/). Please [contact us](https://protontypes.eu/contact/) to give feedback, hints and ideas for [OpenSustain.tech](https://opensustain.tech/) or create a issue on GitHub.
 
 [![](https://img.shields.io/twitter/follow/protontypes?style=social)](https://twitter.com/protontypes) [![GitHub stars](https://img.shields.io/github/stars/protontypes/awesome-sustainable-technology.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/protontypes/awesome-sustainable-technology/stargazers/)
@@ -498,10 +499,10 @@ Your contribution is necessary to keep this list alive, increase the quality and
 ### Life Cycle Assessment
 
 - [bonsai](https://github.com/BONSAMURAIS/bonsai) - The aim of BONSAI is to make reliable, unbiased sustainability information on products “product footprints” readily and freely available whenever and wherever it is needed to support product comparisons and decisions.
- - [brightway2](https://github.com/brightway-lca/brightway2) - A open source framework for life cycle assessment.
- - [carculator](https://github.com/romainsacchi/carculator) - Prospective environmental and economic life cycle assessment of vehicles made blazing fast.
- - [Electricity Life Cycle Inventory](https://github.com/USEPA/ElectricityLCI) - A python package that uses standardized facility release and generation data to create regionalized life cycle inventory (LCI) models for the generation, mix of generation, mix of consumption, and distribution of electricity to end users for the US, with embedded system processes of upstream fuel production and infrastructure.
- - [uslci-content](https://github.com/uslci-admin/uslci-content) - Supplementary content for the U.S. Life Cycle Inventory Database.
+- [brightway2](https://github.com/brightway-lca/brightway2) - A open source framework for life cycle assessment.
+- [carculator](https://github.com/romainsacchi/carculator) - Prospective environmental and economic life cycle assessment of vehicles made blazing fast.
+- [Electricity Life Cycle Inventory](https://github.com/USEPA/ElectricityLCI) - A python package that uses standardized facility release and generation data to create regionalized life cycle inventory (LCI) models for the generation, mix of generation, mix of consumption, and distribution of electricity to end users for the US, with embedded system processes of upstream fuel production and infrastructure.
+- [uslci-content](https://github.com/uslci-admin/uslci-content) - Supplementary content for the U.S. Life Cycle Inventory Database.
 
 
 ## Observation and Models of Ecosystems
