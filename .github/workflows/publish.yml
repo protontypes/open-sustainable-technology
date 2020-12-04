@@ -13,7 +13,7 @@ jobs:
         uses: actions/checkout@v1
       
       - name: Copy README
-        run: cp README.md CONTRIBUTE.md docs/ 
+        run: cp README.md CONTRIBUTING.md docs/ 
 
       - name: Deploy docs
         uses: mhausenblas/mkdocs-deploy-gh-pages@master
