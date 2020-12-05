@@ -13,51 +13,6 @@ Your contribution is necessary to keep this list alive, increase the quality and
 
 ---
 <!--toc-->
-## Contents
-
-- [Renewable Energy](#renewable-energy)
-  - [Photovoltaic and Solar Energy](#photovoltaic-and-solar-energy)
-  - [Wind Turbines](#wind-turbines)
-  - [Hydro Energy](#hydro-energy)
-  - [Geothermal Energy](#geothermal-energy)
-  - [Bioenergy](#bioenergy)
-- [Energy Storage](#energy-storage)
-  - [Battery](#battery)
-  - [Hydrogen](#hydrogen)
-- [Energy Distribution and Grids](#energy-distribution-and-grids)
-- [Energy Consumption](#energy-consumption)
-  - [Buildings and Cities](#buildings-and-cities)
-  - [Mobility and Transportation](#mobility-and-transportation)
-  - [Industry and Production](#industry-and-production)
-- [Energy System Assessment](#energy-system-assessment)
-  - [Modeling](#modeling)
-  - [Analysis](#analysis)
-  - [Optimization](#optimization)
-  - [Monitoring and Control](#monitoring-and-control)
-- [Datasets on Energy Consumption](#datasets-on-energy-consumption)
-- [Emissions and Footprint of Resources](#emissions-and-footprint-of-resources)
-  - [Carbon Footprint](#carbon-footprint)
-  - [Emissions Observation and Modeling](#emissions-observation-and-modeling)
-  - [Carbon Capture](#carbon-capture)
-  - [Life Cycle Assessment](#life-cycle-assessment)
-- [Observation and Models of Ecosystems](#observation-and-models-of-ecosystems)
-  - [Life Forms and Biodiversity](#life-forms-and-biodiversity)
-  - [Ice and Poles](#ice-and-poles)
-  - [Salt and Fresh Water](#salt-and-fresh-water)
-  - [Atmosphere](#atmosphere)
-- [Modeling of Climate and Earth](#modeling-of-climate-and-earth)
-- [Earth Climate Datasets and Tools](#earth-climate-datasets-and-tools)
-- [Access and Monitoring of Resources](#access-and-monitoring-of-resources)
-  - [Air](#air)
-  - [Water](#water)
-  - [Soil](#soil)
-- [Agriculture, Fishery and Nutrition](#agriculture-fishery-and-nutrition)
-- [Circular Economy and Waste](#circular-economy-and-waste)
-- [Sustainable Investment](#sustainable-investment)
-- [Further Open and Sustainable Resources](#further-open-and-sustainable-resources)
-- [Sustainable Technology Communities](#sustainable-technology-communities)
-
-
 <!--toc_end-->
 
 ## Renewable Energy

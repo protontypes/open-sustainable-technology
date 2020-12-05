@@ -12,8 +12,8 @@ jobs:
       - name: Checkout main
         uses: actions/checkout@v1
       
-      - name: Copy README
-        run: cp README.md docs/index.md
+      - name: Copy README to docs and remove table of contect
+        run: sed -n '/<!--toc-->/{p; :a; N; /<!--toc_end-->/!ba; s/.*\n//}; p' README.md > docs/index.md
 
       - name: Copy CONTRIBUTING
         run: cp CONTRIBUTING.md docs/CONTRIBUTING.md
