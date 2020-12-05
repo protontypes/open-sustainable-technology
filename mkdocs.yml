@@ -5,8 +5,6 @@ repo_name: 'protontypes/open-sustainable-technology'
 repo_url: 'https://github.com/protontypes/open-sustainable-technology'
 nav:
   - "Truely Sustainable is Open": "index.md"
-  - " ": " "
-  - " ": " "
   - "Contribute Open Sustainable Technology": "CONTRIBUTING.md"
 
 theme:
