@@ -23,6 +23,7 @@ extra_css:
     - css/extra.css
 
 markdown_extensions:
+  - meta
   - toc:
       permalink: true
 
