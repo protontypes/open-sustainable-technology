@@ -742,10 +742,8 @@ Your contribution is necessary to keep this list alive, increase the quality and
 - [xgcm](https://github.com/xgcm/xgcm) - Python package for analyzing general circulation model output data.
 - [MPAS-Analysis](https://github.com/MPAS-Dev/MPAS-Analysis) - Provides analysis for the MPAS components of ACME.
 - [MIT-PraCTES](https://github.com/PraCTES/MIT-PraCTES) - Materials for MIT workshop "Practical Computing Tutorials for Earth Scientists".
-
-
-
-
+- [NASAaccess](https://github.com/nasa/NASAaccess) - R package that can generate gridded ascii tables of climate (CIMP5) and weather data (GPM, TRMM, GLDAS) needed to drive various hydrological models (e.g., SWAT, VIC, RHESSys, ..etc).
+- [podaacpy](https://github.com/nasa/podaacpy) - A python utility library for interacting with NASA JPL's PO.DAAC.
 
 ## Access and Monitoring of Resources
 
