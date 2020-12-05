@@ -13,11 +13,16 @@ jobs:
         uses: actions/checkout@v1
       
       - name: Copy README
-        run: cp README.md CONTRIBUTING.md docs/ 
+        run: cp README.md docs/index.md
+
+      - name: Copy CONTRIBUTING
+        run: cp CONTRIBUTING.md docs/CONTRIBUTING.md
+
+      - name: Add meta tags to index.md
+        run: cat docs/meta_tags.md | cat - docs/index.md > temp && mv temp docs/index.md 
 
       - name: Deploy docs
         uses: mhausenblas/mkdocs-deploy-gh-pages@master
-        # Or use mhausenblas/mkdocs-deploy-gh-pages@nomaterial to build without the mkdocs-material theme
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           CUSTOM_DOMAIN: opensustain.tech
