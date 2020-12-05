@@ -843,6 +843,7 @@ Your contribution is necessary to keep this list alive, increase the quality and
 - [OpenFLUID](https://github.com/OpenFLUID/openfluid) - A software environnement for modelling and simulation of complex landscape systems.
 - [Trends.Earth](https://github.com/ConservationInternational/trends.earth) - A QGIS plugin that supports monitoring of land change, including changes in productivity, land cover, and soil organic carbon.
 - [pycoal](https://github.com/capstone-coal/pycoal) - Python toolkit for characterizing Coal and Open-pit surface mining impacts on American Lands.
+- [stats_for_soil_survey](https://ncss-tech.github.io/stats_for_soil_survey/) - Lecture material on "Statistics for Pedologists".
 
 
 ## Agriculture, Fishery and Nutrition
