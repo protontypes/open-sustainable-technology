@@ -48,7 +48,7 @@ Your contribution is necessary to keep this list alive, increase the quality and
 - [Access and Monitoring of Resources](#access-and-monitoring-of-resources)
   - [Air](#air)
   - [Water](#water)
-  - [Soil](#soil)
+  - [Soil and Land](#soil)
 - [Agriculture, Fishery and Nutrition](#agriculture-fishery-and-nutrition)
 - [Circular Economy and Waste](#circular-economy-and-waste)
 - [Sustainable Investment](#sustainable-investment)
@@ -815,7 +815,7 @@ Your contribution is necessary to keep this list alive, increase the quality and
 - [wqbc](https://github.com/bcgov/wqbc) - An R package for water quality thresholds and index calculation for British Columbia.
 
 
-### Soil
+### Soil and Land
 
 - [SoilGrids250m](https://github.com/ISRICWorldSoil/SoilGrids250mGlobal) - Spatial predictions of soil properties and classes at 250 m resolution.
 - [Hyperspectral Soilmoisture Dataset](https://github.com/felixriese/hyperspectral-soilmoisture-dataset) - Hyperspectral benchmark dataset on soil moisture.
@@ -842,6 +842,7 @@ Your contribution is necessary to keep this list alive, increase the quality and
 - [PredictiveSoilMapping](https://github.com/Envirometrix/PredictiveSoilMapping) - Applying statistical and/or machine learning techniques to fit models for the purpose of producing spatial and/or spatiotemporal predictions of soil variables, i.e. maps of soil properties and classes at different resolutions.
 - [OpenFLUID](https://github.com/OpenFLUID/openfluid) - A software environnement for modelling and simulation of complex landscape systems.
 - [Trends.Earth](https://github.com/ConservationInternational/trends.earth) - A QGIS plugin that supports monitoring of land change, including changes in productivity, land cover, and soil organic carbon.
+- [pycoal](https://github.com/capstone-coal/pycoal) - Python toolkit for characterizing Coal and Open-pit surface mining impacts on American Lands.
 
 
 ## Agriculture, Fishery and Nutrition
@@ -931,8 +932,8 @@ Your contribution is necessary to keep this list alive, increase the quality and
 - [ClimateModeling_courseware](https://github.com/brian-rose/ClimateModeling_courseware) - A collection of interactive lecture notes and assignments in Jupyter notebook format.
 - [Climate Change Impact Assessment](https://claut.gitlab.io/man_ccia/) - A practical walk-through.
 
-## Sustainable Technology Communities
 
+## Sustainable Technology Communities
 - [openmod-initiative](https://forum.openmod-initiative.org/) - We believe that more openness in energy modelling increases transparency and credibility, reduces wasteful double-work and improves overall quality.
 - [SustainOSS](https://sustainoss.org/) - Sustainability doesn't just mean code. How can we make our work sustainable environmentally, too? How can we share our knowledge of open source with other groups in the world?
 - [LFEnergy](https://www.lfenergy.org/) - An open source foundation focused on the power systems sector, hosted within The Linux Foundation.
