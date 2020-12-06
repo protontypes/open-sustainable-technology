@@ -48,7 +48,7 @@ Your contribution is necessary to keep this list alive, increase the quality and
 - [Access and Monitoring of Resources](#access-and-monitoring-of-resources)
   - [Air](#air)
   - [Water](#water)
-  - [Soil and Land](#soil)
+  - [Soil and Land](#soil-and-land)
 - [Agriculture, Fishery and Nutrition](#agriculture-fishery-and-nutrition)
 - [Circular Economy and Waste](#circular-economy-and-waste)
 - [Sustainable Investment](#sustainable-investment)
@@ -744,6 +744,7 @@ Your contribution is necessary to keep this list alive, increase the quality and
 - [MIT-PraCTES](https://github.com/PraCTES/MIT-PraCTES) - Materials for MIT workshop "Practical Computing Tutorials for Earth Scientists".
 - [NASAaccess](https://github.com/nasa/NASAaccess) - R package that can generate gridded ascii tables of climate (CIMP5) and weather data (GPM, TRMM, GLDAS) needed to drive various hydrological models (e.g., SWAT, VIC, RHESSys, ..etc).
 - [podaacpy](https://github.com/nasa/podaacpy) - A python utility library for interacting with NASA JPL's PO.DAAC.
+- [Climate Data Dashboard of the ESA Climate Change Initiative](https://climate.esa.int/en/odp/#/dashboard) - Access global climate data produced through the ESA's Climate Change Initiative.
 
 ## Access and Monitoring of Resources
 
