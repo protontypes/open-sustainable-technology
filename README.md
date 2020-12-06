@@ -746,6 +746,7 @@ Your contribution is necessary to keep this list alive, increase the quality and
 - [podaacpy](https://github.com/nasa/podaacpy) - A python utility library for interacting with NASA JPL's PO.DAAC.
 - [Climate Data Dashboard of the ESA Climate Change Initiative](https://climate.esa.int/en/odp/#/dashboard) - Access global climate data produced through the ESA's Climate Change Initiative.
 - [Cate](https://github.com/CCI-Tools/cate) - A software for ingesting, operating on and visualising all ESA Climate Change Initiative data.
+- [esa-climate-from-space](https://github.com/ubilabs/esa-climate-from-space) - The role of the Climate from Space application is to increase the visibility of the Climate Change Initiative programme and the role of ESA satellite data in climate science.
 
 
 ## Access and Monitoring of Resources
