@@ -129,6 +129,8 @@ Your contribution is necessary to keep this list alive, increase the quality and
 - [pyconturb](https://gitlab.windenergy.dtu.dk/pyconturb/pyconturb) - Constrained Stochastic Turbulence for Wind Energy Applications.
 - [ORBIT](https://github.com/WISDEM/ORBIT) - Offshore Renewable Balance-of-system Installation Tool computes capital costs and activity times for offshore wind plant balance-of-system (everything besides the turbine) costs.
 - [WindTurbineClassification](https://github.com/nmstreethran/WindTurbineClassification) - Specification of 'normal' wind turbine operating behaviour for rapid anomaly detection.
+- [ANYstructure](https://github.com/audunarn/ANYstructure) -  Offshore Steel structure calculation tool with automatic optimization and report generation.
+
 
 ### Hydro Energy
 
