@@ -973,6 +973,7 @@ Your contribution is necessary to keep this list alive, increase the quality and
 - [Impact Makers](https://techimpactmakers.com/) - A global community of tech people who want to help fix the climate.
 - [climateaction](https://climateaction.tech/) - Global community of tech professionals using skills, expertise and platforms to support solutions to the climate crisis.
 - [Earth System Grid Federation](https://esgf.llnl.gov/) - An open source effort providing a robust, distributed data and computation platform, enabling world wide access to Peta/Exa-scale scientific data.
+- [Coastal Resilience](https://coastalresilience.org/) - Coastal Resilience is a global network of practitioners who are applying an approach and web-based mapping tool designed to help communities understand their vulnerability from coastal hazards, reduce their risk and determine the value of nature-based solutions.
  
 
 ### Footnotes
