@@ -705,6 +705,7 @@ Your contribution is necessary to keep this list alive, increase the quality and
 
 ## Earth Climate Datasets and Tools
 
+- [cf-conventions](https://github.com/cf-convention/cf-conventions) - The conventions for CF (Climate and Forecast) metadata are designed to promote the processing and sharing of files created with the NetCDF API.
 - [GHCN](https://www.ncdc.noaa.gov/data-access/land-based-station-data/land-based-datasets/global-historical-climatology-network-ghcn) - An observations database from meteorologic stations around the globe. Daily and monthly resolution data are available with the longest records up to 175 years.
 - [CRU TS](https://crudata.uea.ac.uk/cru/data/hrg/) - The gridded archive of the Climatic Research Unit (University of East Anglia) and NCAS. The dataset was derived by the interpolation of monthly climate observations from extensive networks of weather stations.
 - [E-OBS](https://www.ecad.eu/download/ensembles/download.php) - The detailed gridded observations data archive for the whole Europe.
@@ -971,6 +972,7 @@ Your contribution is necessary to keep this list alive, increase the quality and
 - [Pangeo Community](https://discourse.pangeo.io/) - A community effort for big data geoscience.
 - [Impact Makers](https://techimpactmakers.com/) - A global community of tech people who want to help fix the climate.
 - [climateaction](https://climateaction.tech/) - Global community of tech professionals using skills, expertise and platforms to support solutions to the climate crisis.
+- [Earth System Grid Federation](https://esgf.llnl.gov/) - An open source effort providing a robust, distributed data and computation platform, enabling world wide access to Peta/Exa-scale scientific data.
  
 
 ### Footnotes
