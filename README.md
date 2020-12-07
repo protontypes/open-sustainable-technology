@@ -572,6 +572,8 @@ Your contribution is necessary to keep this list alive, increase the quality and
 - [plant](https://github.com/traitecoevo/plant) - A package for modelling forest trait ecology and evolution.
 - [python-ecology-lesson](https://github.com/datacarpentry/python-ecology-lesson) - Data Analysis and Visualization in Python for Ecologists.
 - [R-ecology-lesson](https://github.com/datacarpentry/R-ecology-lesson) - Data Analysis and Visualization in R for Ecologists.
+- [PNVmaps](https://github.com/Envirometrix/PNVmaps) - Global Maps of Potential Natural Vegetation based on Machine Learning.
+- [monitoring-ecosystem-resilience](https://github.com/alan-turing-institute/monitoring-ecosystem-resilience) - The focus is understanding vegetation patterns in semi-arid environments.
 
 
 ### Ice and Poles
@@ -750,6 +752,7 @@ Your contribution is necessary to keep this list alive, increase the quality and
 - [esa-climate-from-space](https://github.com/ubilabs/esa-climate-from-space) - The role of the Climate from Space application is to increase the visibility of the Climate Change Initiative programme and the role of ESA satellite data in climate science.
 - [climetlab](https://github.com/ecmwf/climetlab) - A Python package aiming at simplifying access to climate and meteorological datasets, allowing users to focus on science instead of technical issues such as data access and data formats.
 - [cdsapi](https://github.com/ecmwf/cdsapi) - Python API to access the Copernicus Climate Data Store.
+- [ODM2](https://github.com/ODM2/ODM2) - An information model and supporting software ecosystem for feature-based earth observations, designed for interoperability among disciplines.
 
 
 ## Access and Monitoring of Resources
@@ -941,6 +944,8 @@ Your contribution is necessary to keep this list alive, increase the quality and
 - [ClimateModeling_courseware](https://github.com/brian-rose/ClimateModeling_courseware) - A collection of interactive lecture notes and assignments in Jupyter notebook format.
 - [Climate Change Impact Assessment](https://claut.gitlab.io/man_ccia/) - A practical walk-through.
 - [sweet](https://github.com/ESIPFed/sweet) - Official repository for Semantic Web for Earth and Environmental Terminology (SWEET) Ontologies.
+- [ModularSensors](https://github.com/EnviroDIY/ModularSensors) - This Arduino library gives environmental sensors a common interface of functions for use with Arduino-compatible dataloggers.
+- [netcdf-fortran](https://github.com/Unidata/netcdf-fortran) - The Unidata network Common Data Form (netCDF) is an interface for scientific data access and a set of freely-distributed software libraries that provide an implementation of the interface.
 
 
 ## Sustainable Technology Communities
@@ -975,6 +980,7 @@ Your contribution is necessary to keep this list alive, increase the quality and
 - [climateaction](https://climateaction.tech/) - Global community of tech professionals using skills, expertise and platforms to support solutions to the climate crisis.
 - [Earth System Grid Federation](https://esgf.llnl.gov/) - An open source effort providing a robust, distributed data and computation platform, enabling world wide access to Peta/Exa-scale scientific data.
 - [Coastal Resilience](https://coastalresilience.org/) - Coastal Resilience is a global network of practitioners who are applying an approach and web-based mapping tool designed to help communities understand their vulnerability from coastal hazards, reduce their risk and determine the value of nature-based solutions.
+- [Unidata](https://github.com/Unidata)- Our mission is to transform the geosciences community, research, and education by providing innovative data services and tools.
  
 
 ### Footnotes
