@@ -993,7 +993,8 @@ Your contribution is necessary to keep this list alive, increase the quality and
 - [climateaction](https://climateaction.tech/) - Global community of tech professionals using skills, expertise and platforms to support solutions to the climate crisis.
 - [Earth System Grid Federation](https://esgf.llnl.gov/) - An open source effort providing a robust, distributed data and computation platform, enabling world wide access to Peta/Exa-scale scientific data.
 - [Coastal Resilience](https://coastalresilience.org/) - Coastal Resilience is a global network of practitioners who are applying an approach and web-based mapping tool designed to help communities understand their vulnerability from coastal hazards, reduce their risk and determine the value of nature-based solutions.
-- [Unidata](https://github.com/Unidata)- Our mission is to transform the geosciences community, research, and education by providing innovative data services and tools.
+- [Unidata](https://github.com/Unidata) - Our mission is to transform the geosciences community, research, and education by providing innovative data services and tools.
+- [The Life Cycle Initiative](https://www.lifecycleinitiative.org/) - A public-private, multi-stakeholder partnership enabling the global use of credible life cycle knowledge by private and public decision makers.
  
 
 ### Footnotes
