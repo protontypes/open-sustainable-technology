@@ -820,6 +820,7 @@ Your contribution is necessary to keep this list alive, increase the quality and
 - [AED2](https://github.com/AquaticEcoDynamics/libaed2) - A community-driven library of modules and algorithms for simulation of "aquatic ecodynamics": water quality, aquatic biogeochemsitry, biotic habitat and aquatic ecosystem dynamics.
 - [DORiE](https://ts-gitlab.iup.uni-heidelberg.de/dorie/dorie) - A Discontinuous Galerkin Solver for Soil Water Flow and Passive Solute Transport Based on DUNE.
 - [wqbc](https://github.com/bcgov/wqbc) - An R package for water quality thresholds and index calculation for British Columbia.
+- [Model My Watershed](https://github.com/WikiWatershed/model-my-watershed) - A is a watershed-modeling web app for citizens, conservation practitioners, municipal decision-makers, educators, and students.
 
 
 ### Soil and Land
