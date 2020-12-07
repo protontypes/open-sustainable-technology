@@ -504,6 +504,7 @@ Your contribution is necessary to keep this list alive, increase the quality and
 
 ### Life Cycle Assessment
 
+- [exiobase](https://www.exiobase.eu/) - A global, detailed Multi-Regional Environmentally Extended Supply-Use Table (MR-SUT) and Input-Output Table (MR-IOT).
 - [bonsai](https://github.com/BONSAMURAIS/bonsai) - The aim of BONSAI is to make reliable, unbiased sustainability information on products “product footprints” readily and freely available whenever and wherever it is needed to support product comparisons and decisions.
 - [brightway2](https://github.com/brightway-lca/brightway2) - A open source framework for life cycle assessment.
 - [carculator](https://github.com/romainsacchi/carculator) - Prospective environmental and economic life cycle assessment of vehicles made blazing fast.
