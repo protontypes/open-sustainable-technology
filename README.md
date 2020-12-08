@@ -99,6 +99,7 @@ To explore Open Sustainable Technology Communities check out our list of them [h
 - [StatisticalClearSky](https://github.com/slacgismo/StatisticalClearSky) - Statistical estimation of a clear sky signal from PV system power data.
 - [Photovoltaic_Fault_Detector](https://github.com/RentadroneCL/Photovoltaic_Fault_Detector) - Model-definition is a deep learning application for fault detection in photovoltaic plants.
 - [nasapower](https://github.com/ropensci/nasapower) - Aims to make it quick and easy to automate downloading NASA-POWER global meteorology, surface solar energy and climatology data in your R session as a tidy data frame tibble object for analysis and use in modelling or other purposes.
+- [pvcompare](https://github.com/greco-project/pvcompare) - pvcompare is a model for comparing the benefits of different PV technologies in a specified local energy system in different energy supply scenarios.
 
 
 ### Wind Turbines
