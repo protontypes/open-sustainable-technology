@@ -766,6 +766,8 @@ To explore Open Sustainable Technology Communities check out our list of them [h
 - [climetlab](https://github.com/ecmwf/climetlab) - A Python package aiming at simplifying access to climate and meteorological datasets, allowing users to focus on science instead of technical issues such as data access and data formats.
 - [cdsapi](https://github.com/ecmwf/cdsapi) - Python API to access the Copernicus Climate Data Store.
 - [ODM2](https://github.com/ODM2/ODM2) - An information model and supporting software ecosystem for feature-based earth observations, designed for interoperability among disciplines.
+- [atmospheric_satellite](https://github.com/gusgordon/atmospheric_satellite) - The goal of this project is to determine what the smallest solar plane that can indefinitely sustain flight is.
+- [pygac](https://github.com/pytroll/pygac) - A python package to read and calibrate NOAA and Metop AVHRR GAC and LAC data.
 
 
 ## Access and Monitoring of Resources
