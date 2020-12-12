@@ -967,6 +967,7 @@ To explore Open Sustainable Technology Communities check out our list of them [h
 - [Climate Change Impact Assessment](https://claut.gitlab.io/man_ccia/) - A practical walk-through.
 - [ModularSensors](https://github.com/EnviroDIY/ModularSensors) - This Arduino library gives environmental sensors a common interface of functions for use with Arduino-compatible dataloggers.
 - [OpenSourceSeeds](https://www.opensourceseeds.org/en) - Committed to re-establishing seed as a common good for all.
+- [sdgindex](https://www.sdgindex.org/) - International Sustainable Development Reports.
 
 
 ### Footnotes
