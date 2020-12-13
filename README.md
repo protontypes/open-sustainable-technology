@@ -651,6 +651,7 @@ To explore Open Sustainable Technology Communities check out our list of them [h
 - [GOTM](https://github.com/gotm-model/code) - The General Ocean Turbulence Model is an ambitious name for a one-dimensional water column model for marine and limnological applications.
 - [pyroms](https://github.com/ESMG/pyroms) - A collection of tools to process input and output files from the Regional Ocean Modeling System.
 - [Intro to Physical Oceanography](https://github.com/rabernat/intro_to_physical_oceanography) - Course materials for Introduction to Physical Oceanography.
+- [CoastWatch Satellite Course](https://coastwatch.gitbook.io/satellite-course/) - The goal of the course is to familiarize university researchers and students with different types of ocean satellite data, different tools, and teach participants how to use satellite data in their own research using their choice of software (R, python, ArcGIS).
 
 ### Atmosphere
 
