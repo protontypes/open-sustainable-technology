@@ -669,6 +669,7 @@ To explore Open Sustainable Technology Communities check out our list of them [h
 - [GRAL](https://github.com/GralDispersionModel/GRAL) - Provides a CFD model for the flow calculation around buildings or micrsocale terrain structures.
 - [Chemical Lagrangian Model of the Stratosphere](https://jugit.fz-juelich.de/clams/CLaMS) - A world leader in simulating exchange processes in the atmosphere across transport barriers such as stratosphere-troposphere exchange.
 - [GEOS-Chem](https://github.com/geoschem/geos-chem) - Advance understanding of human and natural influences on the environment through a comprehensive, state-of-the-science, readily accessible global model of atmospheric composition.
+- [mHM](https://git.ufz.de/mhm/mhm) - The mesoscale Hydrological Model
 
 
 ## Modeling of Climate and Earth 
