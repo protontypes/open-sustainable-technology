@@ -937,6 +937,7 @@ To explore Open Sustainable Technology Communities check out our list of them [h
 - [The REgional Model of INvestments and Development](https://github.com/remindmodel/remind) - A modular open source multi-regional model incorporating the economy, the climate system and a detailed representation of the energy sector.
 - [WHAT-IF](https://github.com/RaphaelPB/WHAT-IF) - Water, Hydropower, Agriculture Tool for Investment and Financing decision support tool.
 - [Investment Framework for a More Sustainable World](https://github.com/My-Climate-Journey/climate-sustainability-investment-framework) - This framework was created as a tool for those seeking to make emissions reductions and sustainability related investments with the goal of mitigating the impacts of climate change, based on guidelines set forth by Chamath Palihapitiya in July 2020.
+- [SSC](https://github.com/NREL/ssc) - Contains the source code for the technology and financial models contained within the National Renewable Energy Laboratory's System Advisor Model.
 
 
 ## Further Open and Sustainable Resources
