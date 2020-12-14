@@ -342,6 +342,7 @@ All new project entries will have a tweet from [protontypes](https://twitter.com
 - [H2020 CATALYST](https://gitlab.com/project-catalyst) - Converting data centres in energy flexibility ecosystems.
 - [OpenModelica](https://github.com/OpenModelica/OpenModelica) - An open-source Modelica-based modeling and simulation environment intended for industrial and academic usage.
 - [Energy-Languages](https://github.com/greensoftwarelab/Energy-Languages) - The complete set of tools for energy consumption analysis of programming languages, using Computer Language Benchmark Game.
+- [Scaphandre](https://github.com/hubblo-org/scaphandre) - An open-source software agent to enable tracking energy consumption of ICT services, from the servers.
 
 
 ## Energy System Assessment
