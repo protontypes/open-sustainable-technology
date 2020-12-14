@@ -10,9 +10,11 @@ jobs:
     if: "contains(github.event.head_commit.message, 'https')"     
     steps:
       - name: Extract Line with URL as Tweet Message  
+        env: 
+          default_hashtags: " #opensource #protontypes"
         run: |
               echo -e "${{ github.event.head_commit.message }}" >> tweet
-              tweet_message="$(cat tweet | grep -m 1 https*)"
+              tweet_message="$(cat tweet | grep -m 1 https*)"$default_hashtags
               echo "tweet_message=$tweet_message" >> $GITHUB_ENV
       
       - name: Send Tweet       
