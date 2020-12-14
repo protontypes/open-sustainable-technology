@@ -7,6 +7,7 @@ nav:
   - "Truly Sustainable is Open": "index.md"
   - "Contribute Open Sustainable Technology": "CONTRIBUTING.md"
   - "Open Sustainable Technology Communities": "COMMUNITIES.md"
+  - "Open Educational Resources on Sustainable Technology": "EDUCATION.md"
 
 theme:
   name: 'material'
