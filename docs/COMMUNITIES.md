@@ -35,4 +35,5 @@ Outstanding open communities developing independent and free sustainable technol
 - [Coastal Resilience](https://coastalresilience.org/) - Coastal Resilience is a global network of practitioners who are applying an approach and web-based mapping tool designed to help communities understand their vulnerability from coastal hazards, reduce their risk and determine the value of nature-based solutions.
 - [Unidata](https://github.com/Unidata) - Our mission is to transform the geosciences community, research, and education by providing innovative data services and tools.
 - [The Life Cycle Initiative](https://www.lifecycleinitiative.org/) - A public-private, multi-stakeholder partnership enabling the global use of credible life cycle knowledge by private and public decision makers.
+- [The Sustainable Development Solutions Network](https://github.com/sdsna) - Mobilizes global scientific and technological expertise to promote solutions for sustainable development, including the implementation of the SDGs.
  
