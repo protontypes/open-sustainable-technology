@@ -978,6 +978,7 @@ All new project entries will have a tweet from [protontypes](https://twitter.com
 - [OpenSourceSeeds](https://www.opensourceseeds.org/en) - Committed to re-establishing seed as a common good for all.
 - [sdgindex](https://www.sdgindex.org/) - International Sustainable Development Reports.
 - [Transition Project](https://www.transitionproject.org/) - An Open Data Initiative designed to help enable rapid carbon abatement for cities worldwide.
+- [protect.earth](https://github.com/protect-earth/protect.earth) - International Directory of Climate Action for Humans, Businesses, and anyone else.
 
 
 ### Footnotes
