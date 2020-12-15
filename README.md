@@ -10,6 +10,8 @@ Your contribution is necessary to keep this list alive, increase the quality and
 To explore Open Sustainable Technology Communities check out our list of them [here](docs/COMMUNITIES.md).
 <!--lint ignore double-link-->
 
+All new project entries will have a tweet from [protontypes](https://twitter.com/protontypes). 
+
 [![](https://img.shields.io/twitter/follow/protontypes?style=social)](https://twitter.com/protontypes) [![Join the chat at https://gitter.im/protontypes/community](https://badges.gitter.im/protontypes/community.svg)](https://gitter.im/protontypes/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 ---
@@ -342,6 +344,7 @@ To explore Open Sustainable Technology Communities check out our list of them [h
 - [Energy-Languages](https://github.com/greensoftwarelab/Energy-Languages) - The complete set of tools for energy consumption analysis of programming languages, using Computer Language Benchmark Game.
 - [energyusage](https://github.com/responsibleproblemsolving/energy-usage) - A Python package that measures the environmental impact of computation.
 - [Green Cost Explorer](https://github.com/thegreenwebfoundation/green-cost-explorer) - See how much of your cloud bill is spent on fossil fuels, so you can do the right thing and switch.
+- [Scaphandre](https://github.com/hubblo-org/scaphandre) - An open-source software agent to enable tracking energy consumption of ICT services, from the servers.
 
 
 ## Energy System Assessment
