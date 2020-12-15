@@ -792,6 +792,7 @@ All new project entries will have a tweet from [protontypes](https://twitter.com
 - [SWEET](https://github.com/ESIPFed/sweet) - Official repository for Semantic Web for Earth and Environmental Terminology Ontologies.
 - [PO.DAAC](https://podaac.jpl.nasa.gov/datasetlist) - NASA Earth Observing System Data and Information System data center managed by the Earth Science Data and Information System Project.
 - [ecmwfr](https://github.com/bluegreen-labs/ecmwfr) - Provides easy access to the European Centre for Medium-Range Weather Forecasts web API services and Copernicus Climate Data Store from within R, matching and expanding upon the ECMWF python tools.
+- [IceVarFigs](https://github.com/zmlabe/IceVarFigs) - Weather and climate graphics for science communication.
 
 
 ## Access and Monitoring of Resources
