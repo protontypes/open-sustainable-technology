@@ -13,6 +13,7 @@ To explore Open Sustainable Technology Communities check out our list of them [h
 <!--lint ignore double-link-->
 All new project entries will have a tweet from [protontypes](https://twitter.com/protontypes). 
 
+<!--lint ignore double-link-->
 [![](https://img.shields.io/twitter/follow/protontypes?style=social)](https://twitter.com/protontypes) [![Join the chat at https://gitter.im/protontypes/community](https://badges.gitter.im/protontypes/community.svg)](https://gitter.im/protontypes/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 ---
