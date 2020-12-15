@@ -10,8 +10,10 @@ __[Open technology projects](https://opensustain.tech/) sustaining stable climat
 Your contribution is necessary to keep this list alive, increase the quality and to expand it. You can read more about it's origin and how you can participate in the [contribution guide](CONTRIBUTING.md), [presentation slides](https://protontypes.eu/protontypes_open_sustainable_technology.pdf) and related [blog post](https://protontypes.eu/blog/2020/10/05/gathering-open-sustainable-technology/). Please [contact us](https://protontypes.eu/contact/) to give feedback, hints and ideas for [OpenSustain.tech](https://opensustain.tech/) or create a issue on GitHub.
 To explore Open Sustainable Technology Communities check out our list of them [here](docs/COMMUNITIES.md).
 
+<!--lint ignore double-link-->
 All new project entries will have a tweet from [protontypes](https://twitter.com/protontypes). 
 
+<!--lint ignore double-link-->
 [![](https://img.shields.io/twitter/follow/protontypes?style=social)](https://twitter.com/protontypes) [![Join the chat at https://gitter.im/protontypes/community](https://badges.gitter.im/protontypes/community.svg)](https://gitter.im/protontypes/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 ---
@@ -342,6 +344,8 @@ All new project entries will have a tweet from [protontypes](https://twitter.com
 - [H2020 CATALYST](https://gitlab.com/project-catalyst) - Converting data centres in energy flexibility ecosystems.
 - [OpenModelica](https://github.com/OpenModelica/OpenModelica) - An open-source Modelica-based modeling and simulation environment intended for industrial and academic usage.
 - [Energy-Languages](https://github.com/greensoftwarelab/Energy-Languages) - The complete set of tools for energy consumption analysis of programming languages, using Computer Language Benchmark Game.
+- [energyusage](https://github.com/responsibleproblemsolving/energy-usage) - A Python package that measures the environmental impact of computation.
+- [Green Cost Explorer](https://github.com/thegreenwebfoundation/green-cost-explorer) - See how much of your cloud bill is spent on fossil fuels, so you can do the right thing and switch.
 - [Scaphandre](https://github.com/hubblo-org/scaphandre) - An open-source software agent to enable tracking energy consumption of ICT services, from the servers.
 
 
@@ -846,12 +850,12 @@ All new project entries will have a tweet from [protontypes](https://twitter.com
 - [RTC-Tools](https://gitlab.com/deltares/rtc-tools) - A toolbox for control and optimization of water systems.
 - [EPANET](https://github.com/OpenWaterAnalytics/EPANET) - The Water Distribution System Hydraulic and Water Quality Analysis Toolkit.
 - [pyswmm](https://github.com/OpenWaterAnalytics/pyswmm) - Python Wrapper for Stormwater Management Model.
-- [SELEN](https://github.com/geodynamics/selen) - An open-source Fortran code for the numerical solution of the Sea Level Equation (SLE) for a spherical, layered, rotating earth with viscoelastic rheology.
+- [SELEN](https://github.com/geodynamics/selen) - An open-source Fortran code for the numerical solution of the Sea Level Equation for a spherical, layered, rotating earth with viscoelastic rheology.
 - [se2waq](https://github.com/sentinel-hub/custom-scripts/tree/master/sentinel-2/se2waq) - Script uses Sentinel-2 data to display the spatial distribution of six relevant indicators of water quality.
 - [HydroSHEDS](https://www.hydrosheds.org/) - Offers a suite of geo-referenced data sets (vector & raster) at various scales, including river networks, watershed boundaries, drainage directions, and flow accumulations.
 - [rivamap](https://github.com/isikdogan/rivamap) - An Automated River Analysis and Mapping Engine.
 - [PyGnome](https://github.com/NOAA-ORR-ERD/PyGnome) - It is designed to support oil and other hazardous material spills in the coastal environment.
-- [VICRes](https://github.com/thanhiwer/VICRes) - The model simulates key hydrological processes occurring in a river basin (e.g., water and energy balances, streamflow routing), but does not account for the operations of artificial water reservoirs.
+- [VICRes](https://github.com/thanhiwer/VICRes) - The model simulates key hydrological processes occurring in a river basin (e.g. water and energy balances, streamflow routing), but does not account for the operations of artificial water reservoirs.
 - [AWSM](https://github.com/USDA-ARS-NWRC/awsm) - Automated Water Supply Model was developed at the USDA Agricultural Research Service.
 - [AED2](https://github.com/AquaticEcoDynamics/libaed2) - A community-driven library of modules and algorithms for simulation of "aquatic ecodynamics": water quality, aquatic biogeochemsitry, biotic habitat and aquatic ecosystem dynamics.
 - [DORiE](https://ts-gitlab.iup.uni-heidelberg.de/dorie/dorie) - A Discontinuous Galerkin Solver for Soil Water Flow and Passive Solute Transport Based on DUNE.
@@ -905,7 +909,7 @@ All new project entries will have a tweet from [protontypes](https://twitter.com
 - [monica](https://github.com/zalf-rpm/monica) - A dynamic, process-based simulation model which describes transport and bio-chemical turn-over of carbon, nitrogen and water in agro-ecosystems.
 - [OpenFarm](https://github.com/openfarmcc/OpenFarm) - A free and open database and web application for farming and gardening knowledge.
 - [Agridat](https://github.com/kwstat/agridat) - An extensive collection of datasets from agricultural experiments.
-- [ss3sim](https://github.com/ss3sim/ss3sim) - A R package that facilitates flexible, rapid, and reproducible fisheries stock assessment simulation testing with the widely-used Stock Synthesis (SS) statistical age-structured stock assessment framework.
+- [ss3sim](https://github.com/ss3sim/ss3sim) - A R package that facilitates flexible, rapid, and reproducible fisheries stock assessment simulation testing with the widely-used Stock Synthesis statistical age-structured stock assessment framework.
 - [rfisheries](https://github.com/ropensci/rfisheries) - Interacting with fisheries databases at openfisheries.org.
 - [Fisheries Stock Assessment](https://github.com/droglenc/FSA) - Provides R functions to conduct typical introductory fisheries analyses.
 - [mizer](https://github.com/sizespectrum/mizer) - An R package to run dynamic multi-species size-spectrum models of fish communities.
@@ -960,10 +964,6 @@ All new project entries will have a tweet from [protontypes](https://twitter.com
 - [Open Source Ecology](https://www.opensourceecology.org/) - Developing of open source industrial machines that can be made for a fraction of commercial costs, and sharing the designs for free.
 - [ProjectDrawdown](https://github.com/ProjectDrawdown/solutions) - The mission of Project Drawdown is to help the world reach “Drawdown”— the point in the future when levels of greenhouse gases in the atmosphere stop climbing and start to steadily decline, thereby stopping catastrophic climate change — as quickly, safely, and equitably as possible.
 - [Code against Climate Change](https://github.com/daviddao/code-against-climate-change) - A curated list of tech projects against climate change - hoping to inspire disruptive technological climate action.
-- [Earth and Environmental Data Science Book](https://github.com/earth-env-data-science/earth-env-data-science-book) - An Introduction to Earth and Environmental Data Science.
-- [Free Earth Data Science Courses & Textbooks](https://github.com/earthlab/earthlab.github.io) - A site dedicated to tutorials, course and other learning materials and resources developed by the Earth Lab team.
-- [ESM-lectures](https://github.com/nworbmot/esm-lectures) - Lecture slides for KIT Energy System Modelling course.
-- [GreenCity](https://github.com/ita-social-projects/GreenCity) - Teach people in a playful and challenging way to have an eco-friendly lifestyle.
 - [GEOG0133](https://github.com/profLewis/GEOG0133) -  Open Terrestrial Carbon modelling and monitoring lecture.
 - [NOAA-Affiliated-Projects](https://github.com/NOAAGov/NOAA-Affiliated-Projects) -  A list of GitHub accounts and repositories that are contributed to by National Oceanic and Atmospheric Administration staff from line offices and/or staff office throughout the organization.
 - [Climatescape](https://climatescape.org/) - Discover the organizations solving climate change.
@@ -971,15 +971,13 @@ All new project entries will have a tweet from [protontypes](https://twitter.com
 - [ENVO](https://github.com/EnvironmentOntology/envo) - A community-driven ontology for the representation of environments.
 - [Global Fishing Watch](https://globalfishingwatch.org/) - We use cutting-edge technology to visualise, track and share data about global fishing activity in near real-time and for free.
 - [open-sdg](https://github.com/open-sdg/open-sdg) - A platform for collecting and disseminating data for the Sustainable Development Goal global indicators.
-- [Open Climate Knowledge](https://github.com/petermr/climate) - An open research project for data mining Open Access (OA) papers related to Climate Change.
+- [Open Climate Knowledge](https://github.com/petermr/climate) - An open research project for data mining Open Access papers related to Climate Change.
 - [SDGIO](https://github.com/SDG-InterfaceOntology/sdgio) - The repository for the Sustainable Development Goals Interface Ontology.
-- [OpenClimate](https://github.com/YaleOpenLab/openclimate-demo) -  An open source initiative exploring the application of distributed ledger technology (DLT) and other emerging technologies, such as IoT (Internet of Things), big data and machine learning, to the challenge of helping the world keep a transparent climate accounting system towards the climate targets.
-- [ClimateModeling_courseware](https://github.com/brian-rose/ClimateModeling_courseware) - A collection of interactive lecture notes and assignments in Jupyter notebook format.
-- [Climate Change Impact Assessment](https://claut.gitlab.io/man_ccia/) - A practical walk-through.
+- [OpenClimate](https://github.com/YaleOpenLab/openclimate-demo) -  An open source initiative exploring the application of distributed ledger technology and other emerging technologies, such as IoT, big data and machine learning, to the challenge of helping the world keep a transparent climate accounting system towards the climate targets.
 - [ModularSensors](https://github.com/EnviroDIY/ModularSensors) - This Arduino library gives environmental sensors a common interface of functions for use with Arduino-compatible dataloggers.
 - [OpenSourceSeeds](https://www.opensourceseeds.org/en) - Committed to re-establishing seed as a common good for all.
 - [sdgindex](https://www.sdgindex.org/) - International Sustainable Development Reports.
-- [CoastWatch Satellite Course](https://coastwatch.gitbook.io/satellite-course/) - The goal of the course is to familiarize university researchers and students with different types of ocean satellite data, different tools, and teach participants how to use satellite data in their own research using their choice of software (R, python, ArcGIS).
+- [Transition Project](https://www.transitionproject.org/) - An Open Data Initiative designed to help enable rapid carbon abatement for cities worldwide.
 
 
 ### Footnotes
