@@ -39,7 +39,7 @@ All new project entries will have a tweet from [protontypes](https://twitter.com
   - [Analysis](#analysis)
   - [Optimization](#optimization)
   - [Monitoring and Control](#monitoring-and-control)
-- [Datasets on Energy Consumption](#datasets-on-energy-consumption)
+- [Datasets on Energy Systems](#datasets-on-energy-systems)
 - [Emissions and Footprint of Resources](#emissions-and-footprint-of-resources)
   - [Carbon Footprint](#carbon-footprint)
   - [Emissions Observation and Modeling](#emissions-observation-and-modeling)
@@ -440,7 +440,7 @@ All new project entries will have a tweet from [protontypes](https://twitter.com
 - [STM32 Energy Monitoring](https://github.com/openenergymonitor/STM32) - The following resources are a work in progress guide to using the STM32 platform for energy monitoring, being written as part of development work into the next generation of OpenEnergyMonitor hardware.
 
 
-## Datasets on Energy Consumption
+## Datasets on Energy Systems
 
 - [The Public Utility Data Liberation Project](https://github.com/catalyst-cooperative/pudl) - Makes US energy data easier to access and use.
 - [Global Power Plant Database](https://github.com/wri/global-power-plant-database) - A comprehensive, global, open source database of power plants.
@@ -463,6 +463,7 @@ All new project entries will have a tweet from [protontypes](https://twitter.com
 - [ESIOS](https://github.com/SanPen/ESIOS) - Comprehensive library to access the Spanish electricity market entity in Python.
 - [energy-data](https://github.com/owid/energy-data) - Data on global energy consumption (primary energy, per capita, and growth rates), energy mix, electricity mix and other relevant metrics.
 - [OpenEI](https://openei.org) - A knowledge-sharing online community dedicated to connecting people with the latest information and data on energy resources from around the world.
+- [Power grid frequency data base](https://osf.io/by5hu/) - This data set contains precisely time stamped (GPS referenced) frequency data from several power grids around the world in one second resolution and 1 hour excerpts of raw data
 
 
 ## Emissions and Footprint of Resources
