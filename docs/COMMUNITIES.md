@@ -36,4 +36,4 @@ Outstanding open communities developing independent and free sustainable technol
 - [Unidata](https://github.com/Unidata) - Our mission is to transform the geosciences community, research, and education by providing innovative data services and tools.
 - [The Life Cycle Initiative](https://www.lifecycleinitiative.org/) - A public-private, multi-stakeholder partnership enabling the global use of credible life cycle knowledge by private and public decision makers.
 - [The Sustainable Development Solutions Network](https://github.com/sdsna) - Mobilizes global scientific and technological expertise to promote solutions for sustainable development, including the implementation of the SDGs.
- 
+- [National Center for Atmospheric Research](https://github.com/NCAR) -  Provides the atmospheric and related Earth system science community with state-of-the-art resources, including supercomputers, research aircraft, sophisticated computer models, and extensive data sets.
