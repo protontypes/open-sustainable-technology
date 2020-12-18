@@ -983,6 +983,7 @@ All new project entries will have a tweet from [protontypes](https://twitter.com
 - [sdgindex](https://www.sdgindex.org/) - International Sustainable Development Reports.
 - [Transition Project](https://www.transitionproject.org/) - An Open Data Initiative designed to help enable rapid carbon abatement for cities worldwide.
 - [protect.earth](https://github.com/protect-earth/protect.earth) - International Directory of Climate Action for Humans, Businesses, and anyone else.
+- [The POWER Project](https://power.larc.nasa.gov/) - Provides solar and meteorological data sets from NASA research for support of renewable energy, building energy efficiency and agricultural needs.
 
 
 ### Footnotes
