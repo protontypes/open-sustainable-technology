@@ -18,3 +18,4 @@ Looking for recources to get started in Open Sustainable Technology? Here you ca
 - [stats_for_soil_survey](https://ncss-tech.github.io/stats_for_soil_survey/) - Lecture material on "Statistics for Pedologists".
 - [GEOG0133](https://github.com/profLewis/GEOG0133) -  Open Terrestrial Carbon modelling and monitoring lecture.
 - [ECOSTRESS Tutorial](https://git.earthdata.nasa.gov/projects/LPDUR/repos/tutorial-ecostress) - The ECOSTRESS mission is tasked with measuring the temperature of plants to better understand how much water plants need and how they respond to stress.
+- [Tutorial for Working with NASA VIIRS Surface Reflectance Data](https://git.earthdata.nasa.gov/projects/LPDUR/repos/nasa_viirs_surfacereflectance/) - Converting VNP09GA files into quality-filtered vegetation indices and examining the trend in vegetation greenness during July 2018 to observe drought in Europe.
