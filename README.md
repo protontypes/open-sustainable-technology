@@ -45,7 +45,7 @@ All new project entries will have a tweet from [protontypes](https://twitter.com
   - [Emissions Observation and Modeling](#emissions-observation-and-modeling)
   - [Carbon Capture](#carbon-capture)
   - [Life Cycle Assessment](#life-cycle-assessment)
-- [Observation and Models of Ecosystems](#observation-and-models-of-ecosystems)
+- [Observation and Models of Biosphere](#observation-and-models-of-biosphere)
   - [Life Forms and Biodiversity](#life-forms-and-biodiversity)
   - [Ice and Poles](#ice-and-poles)
   - [Salt and Fresh Water](#salt-and-fresh-water)
@@ -531,7 +531,7 @@ All new project entries will have a tweet from [protontypes](https://twitter.com
 - [Federal LCA Commons](https://www.lcacommons.gov/) - A central point of access to a collection of data repositories for use in Life Cycle Assessment.
 
 
-## Observation and Models of Ecosystems
+## Observation and Models of Biosphere
 
 ### Life Forms and Biodiversity
 
