@@ -7,7 +7,7 @@ _"For technology to be truly sustainable, it must be globally available and inde
 To explore Open Sustainable Technology Communities check out our list of them [here](docs/COMMUNITIES.md).
 
 <!--lint ignore double-link-->
-[![](https://img.shields.io/twitter/follow/protontypes?style=social)](https://twitter.com/protontypes) [![Join the chat at https://gitter.im/protontypes/community](https://badges.gitter.im/protontypes/community.svg)](https://gitter.im/protontypes/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![Join the chat at https://gitter.im/protontypes/community](https://badges.gitter.im/protontypes/community.svg)](https://gitter.im/protontypes/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)  [![](https://img.shields.io/twitter/follow/protontypes?style=social)](https://twitter.com/protontypes) 
 
 ---
 <!--toc-->
