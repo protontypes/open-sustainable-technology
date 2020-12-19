@@ -25,7 +25,7 @@ jobs:
           python-version: 3.x
       - run: pip install git+https://${GH_TOKEN}@github.com/protontypes/mkdocs-material-insiders.git
       - name: Build create CNAME file
-      - run: echo opensustain.tech > CNAME
+        run: echo opensustain.tech > CNAME
       - name: Build with mkdocs
         run: mkdocs gh-deploy --force
     env:
