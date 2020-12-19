@@ -26,3 +26,11 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           CUSTOM_DOMAIN: opensustain.tech
+
+      - uses: actions/setup-python@v2
+        with:
+          python-version: 3.x
+      - run: pip install git+https://${GH_TOKEN}@github.com/protontypes/mkdocs-material-insiders.git
+      - run: mkdocs gh-deploy --force
+        env:
+            GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
