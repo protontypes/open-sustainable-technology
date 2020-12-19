@@ -11,7 +11,6 @@ jobs:
     steps:
       - name: Checkout main
         uses: actions/checkout@v2
-      
       - name: Copy README to docs and remove toc
         run: sed -n '/<!--toc-->/{p; :a; N; /<!--toc_end-->/!ba; s/.*\n//}; p' README.md > docs/index.md
 
@@ -19,14 +18,15 @@ jobs:
         run: cp CONTRIBUTING.md docs/CONTRIBUTING.md
 
       - name: Add meta tags to index.md
-        run: cat docs/meta_tags.md | cat - docs/index.md > temp && mv temp docs/index.md 
+        run: cat docs/meta_tags.md | cat - docs/index.md > temp && mv temp docs/index.md
 
       - uses: actions/setup-python@v2
         with:
           python-version: 3.x
       - run: pip install git+https://${GH_TOKEN}@github.com/protontypes/mkdocs-material-insiders.git
-      - name: Build site
-        run: echo opensustain.tech > CNAME
-        run: mkdocs gh-deploy --force   
+      - name: Build create CNAME file
+      - run: echo opensustain.tech > CNAME
+      - name: Build with mkdocs
+        run: mkdocs gh-deploy --force
     env:
       GH_TOKEN: ${{ secrets.GH_TOKEN }}
