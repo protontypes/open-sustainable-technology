@@ -4,7 +4,7 @@ site_description: 'Open technology projects sustaining stable climate, energy su
 repo_name: 'protontypes/open-sustainable-technology'
 repo_url: 'https://github.com/protontypes/open-sustainable-technology'
 nav:
-  - "Projects": "index.md"
+  - "Truly Sustainable is Open": "index.md"
   - "Communities": "COMMUNITIES.md"
   - "Educational Resources": "EDUCATION.md"
   - "Contribute": "CONTRIBUTING.md"
@@ -42,4 +42,4 @@ extra:
     - icon: fontawesome/brands/linkedin
       link: https://linkedin.com/company/protontypes
 
-copyright: Copyright &copy; 2020 protontypes
+copyright: Copyright &copy;  2020 protontypes
