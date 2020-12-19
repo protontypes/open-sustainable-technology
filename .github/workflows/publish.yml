@@ -33,5 +33,6 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_branch: gh-pages 
+          cname:  opensustain.tech
     env:
       GH_TOKEN: ${{ secrets.GH_TOKEN }}
