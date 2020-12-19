@@ -21,12 +21,6 @@ jobs:
       - name: Add meta tags to index.md
         run: cat docs/meta_tags.md | cat - docs/index.md > temp && mv temp docs/index.md 
 
-      - name: Deploy docs
-        uses: mhausenblas/mkdocs-deploy-gh-pages@master
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          CUSTOM_DOMAIN: opensustain.tech
-
       - uses: actions/setup-python@v2
         with:
           python-version: 3.x
