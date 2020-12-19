@@ -19,10 +19,10 @@ theme:
         accent: 'light'
   features:
     - navigation.instant
-    - navigration.tabs
+    - navigation.tabs
+    - navigation.expand
     - search.highlight
     - search.suggest
-    - navigation.tabs
     - toc.integrate
     - header.autohide
 
