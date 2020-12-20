@@ -598,8 +598,6 @@ All new project entries will have a tweet from [protontypes](https://twitter.com
 - [ALA4R](https://github.com/AtlasOfLivingAustralia/ALA4R) - The Atlas of Living Australia provides tools to enable users of biodiversity information to find, access, combine and visualise data on Australian plants and animals.
 - [worldpa](https://github.com/FRBCesab/worldpa) - Interface to the World Database on Protected Areas.
 - [plant](https://github.com/traitecoevo/plant) - A package for modelling forest trait ecology and evolution.
-- [python-ecology-lesson](https://github.com/datacarpentry/python-ecology-lesson) - Data Analysis and Visualization in Python for Ecologists.
-- [R-ecology-lesson](https://github.com/datacarpentry/R-ecology-lesson) - Data Analysis and Visualization in R for Ecologists.
 - [PNVmaps](https://github.com/Envirometrix/PNVmaps) - Global Maps of Potential Natural Vegetation based on Machine Learning.
 - [monitoring-ecosystem-resilience](https://github.com/alan-turing-institute/monitoring-ecosystem-resilience) - The focus is understanding vegetation patterns in semi-arid environments.
 - [UVic-updates-opem](https://git.geomar.de/markus-pahlow/UVic-updates-opem) - Introduces optimality-based phytoplankton and zooplankton into the UVic-ESCM (version 2.9) with variable C:N:P(:Chl) stoichiometry for phytoplankton, diazotrophs, and detritus.
