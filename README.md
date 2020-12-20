@@ -506,6 +506,7 @@ All new project entries will have a tweet from [protontypes](https://twitter.com
 - [co2-data](https://github.com/owid/co2-data) - Data on CO2 and greenhouse gas emissions by Our World in Data.
 - [X-STILT](https://github.com/uataq/X-STILT) - An atmospheric transport model that deals with vertically integrated column CO2 and potentially other trace gases.
 - [stilt](https://github.com/uataq/stilt) - An open source lagrangian particle dispersion model which is widely used to simulate the transport of pollution and greenhouse gases through the atmosphere.
+- [SMARTCARB](https://zenodo.org/record/4048228) - Synthetic XCO2, CO and NO2 observations for the CO2M and Sentinel-5 satellites.
 
 ### Carbon Capture
 
