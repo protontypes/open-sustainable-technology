@@ -37,3 +37,17 @@ Additions on the list will be done by Pull Requests.
 * To reorder the list or for creating new categories please open an issue. After a discussion in the issue comments, we can decide on how to reorganize the list based on a pull request from you.
 
 Further details on how do `Pull Requests` can be found in the official GitHub [documentation](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
+
+## Where and How to find further projects
+Almost all open source projects are using git for cooperation. Thats why git, gitlab or github are always good key terms to identify new projects for this list.
+The following search engines can be helpful to find further projects:
+
+* GitHub
+* Gitlab
+* Google Scholar
+* DuckDuckGo
+* Google
+* Zenodo
+* Libraries.io
+* Doaj.org
+
