@@ -904,6 +904,7 @@ All new project entries will have a tweet from [protontypes](https://twitter.com
 - [Simsphere](https://github.com/tjc181/simsphere) - A one-dimensional model that allows one to simulate the transfer of heat and moisture between plants, soil and atmosphere over a 24 hour day.
 - [CryoGrid3](https://github.com/CryoGrid/CryoGrid3) - A one-dimensional land surface model dedicated to simulate ground temperatures in permafrost environments.
 - [CNN-SoilTextureClassification](https://github.com/felixriese/CNN-SoilTextureClassification) - 1-dimensional convolutional neural networks (CNN) for the classification of soil texture based on hyperspectral data.
+- [Landlab](https://github.com/landlab/landlab) - An open-source Python-language package for numerical modeling of Earth surface dynamics.
 
 
 ## Agriculture, Fishery and Nutrition
