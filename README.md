@@ -742,6 +742,8 @@ All new project entries will have a tweet from [protontypes](https://twitter.com
 - [esmtools](https://github.com/bradyrx/esmtools) - A toolbox for Earth System Model analysis.
 - [Badlands](https://github.com/badlands-model/badlands) - Basin and Landscape Dynamics is a long-term surface evolution model built to simulate landscape development, sediment transport and sedimentary basins formation from upstream regions down to marine environments.
 - [qgs](https://github.com/Climdyn/qgs) - Models the dynamics of a 2-layer quasi-geostrophic channel atmosphere on a beta-plane, coupled to a simple land or shallow-water ocean component.
+- [pymt](https://github.com/csdms/pymt) - A Python toolkit for running and coupling Earth surface models.
+- [Landlab](https://github.com/landlab/landlab) - An open-source Python-language package for numerical modeling of Earth surface dynamics.
 
 
 ## Earth Climate Datasets and Tools
@@ -904,7 +906,6 @@ All new project entries will have a tweet from [protontypes](https://twitter.com
 - [Simsphere](https://github.com/tjc181/simsphere) - A one-dimensional model that allows one to simulate the transfer of heat and moisture between plants, soil and atmosphere over a 24 hour day.
 - [CryoGrid3](https://github.com/CryoGrid/CryoGrid3) - A one-dimensional land surface model dedicated to simulate ground temperatures in permafrost environments.
 - [CNN-SoilTextureClassification](https://github.com/felixriese/CNN-SoilTextureClassification) - 1-dimensional convolutional neural networks (CNN) for the classification of soil texture based on hyperspectral data.
-- [Landlab](https://github.com/landlab/landlab) - An open-source Python-language package for numerical modeling of Earth surface dynamics.
 
 
 ## Agriculture, Fishery and Nutrition
