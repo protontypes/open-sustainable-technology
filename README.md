@@ -1,4 +1,4 @@
-# Open Sustainable Technology [![](https://badgen.net/badge/OpenSustain/Tech/009485?icon=https://raw.githubusercontent.com/protontypes/logos/7e8a59e56a0ea1b05cbec81a5230bc2cf9b58f62/android-icon-192x192.svg)](https://opensustain.tech/)
+# Open Sustainable Technology [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 <!--lint ignore double-link-->
 __[Open technology projects](https://opensustain.tech/) sustaining stable climate, energy supply and vital natural resources__
 <!--lint ignore double-link-->
