@@ -666,6 +666,7 @@ All new project entries will have a tweet from [protontypes](https://twitter.com
 - [WRF-Hydro](https://github.com/NCAR/wrf_hydro_nwm_public) - A community modeling system and framework for hydrologic modeling and model coupling.
 - [rwrfhydro](https://github.com/NCAR/rwrfhydro) - A community-contributed tool box for managing, analyzing, and visualizing WRF Hydro (and HydroDART) input and output files in R.
 - [PCR-GLOBWB_model](https://github.com/UU-Hydro/PCR-GLOBWB_model) - A large-scale hydrological model intended for global to regional studies.
+- [HydroShare](https://github.com/hydroshare/hydroshare) - A is a collaborative website for better access to data and models in the hydrologic sciences.
 
 
 ### Atmosphere
