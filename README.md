@@ -135,6 +135,7 @@ All new project entries will have a tweet from [protontypes](https://twitter.com
 - [ORBIT](https://github.com/WISDEM/ORBIT) - Offshore Renewable Balance-of-system Installation Tool computes capital costs and activity times for offshore wind plant balance-of-system (everything besides the turbine) costs.
 - [WindTurbineClassification](https://github.com/nmstreethran/WindTurbineClassification) - Specification of 'normal' wind turbine operating behaviour for rapid anomaly detection.
 - [ANYstructure](https://github.com/audunarn/ANYstructure) -  Offshore Steel structure calculation tool with automatic optimization and report generation.
+- [windrose](https://github.com/python-windrose/windrose) - A graphic tool used by meteorologists to give a succinct view of how wind speed and direction are typically distributed at a particular location.
 
 
 ### Hydro Energy
