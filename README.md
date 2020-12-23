@@ -30,15 +30,15 @@ _"For technology to be truly sustainable, it must be globally available and inde
   - [Analysis](#analysis)
   - [Optimization](#optimization)
   - [Monitoring and Control](#monitoring-and-control)
-- [Datasets on Energy Consumption](#datasets-on-energy-consumption)
+- [Datasets on Energy Systems](#datasets-on-energy-systems)
 - [Emissions](#emissions)
   - [Carbon Footprint](#carbon-footprint)
   - [Carbon Capture](#carbon-capture)
   - [Emission Observation and Modeling](#emission-observation-and-modeling)
 - [Ecological Footprint](#ecological-footprint)
   - [Life Cycle Assessment](#life-cycle-assessment)
-- [Observation and Models of Biosphere](#observation-and-models-of-biosphere)
   - [Circular Economy and Waste](#circular-economy-and-waste)
+- [Observation and Models of Biosphere](#observation-and-models-of-biosphere)
   - [Life Forms and Biodiversity](#life-forms-and-biodiversity)
   - [Ice and Poles](#ice-and-poles)
   - [Salt and Fresh Water](#salt-and-fresh-water)
@@ -461,7 +461,7 @@ _"For technology to be truly sustainable, it must be globally available and inde
 - [ESIOS](https://github.com/SanPen/ESIOS) - Comprehensive library to access the Spanish electricity market entity in Python.
 - [energy-data](https://github.com/owid/energy-data) - Data on global energy consumption (primary energy, per capita, and growth rates), energy mix, electricity mix and other relevant metrics.
 - [OpenEI](https://openei.org) - A knowledge-sharing online community dedicated to connecting people with the latest information and data on energy resources from around the world.
-- [Power grid frequency data base](https://osf.io/by5hu/) - This data set contains precisely time stamped (GPS referenced) frequency data from several power grids around the world in one second resolution and 1 hour excerpts of raw data
+- [Power grid frequency data base](https://osf.io/by5hu/) - This data set contains precisely time stamped (GPS referenced) frequency data from several power grids around the world in one second resolution and 1 hour excerpts of raw data.
 
 
 ## Emissions
@@ -853,7 +853,6 @@ _"For technology to be truly sustainable, it must be globally available and inde
 - [modflow6](https://github.com/MODFLOW-USGS/modflow6) - Has been widely used by academics, private consultants, and government scientists to accurately, reliably, and efficiently simulate groundwater flow.
 - [iMOD](https://oss.deltares.nl/web/imod/home) - An easy to use Graphical User Interface + an accelerated Deltares-version of MODFLOW with fast, flexible and consistent sub-domain modeling techniques.
 - [Imod-Python](https://gitlab.com/deltares/imod/imod-python) - Designed to help you in your MODFLOW groundwater modeling efforts.
-- [HydroShare](https://github.com/hydroshare/hydroshare) - HydroShare is a website and hydrologic information system for sharing hydrologic data and models aimed at giving users the cyberinfrastructure needed to innovate and collaborate in research to solve water problems.
 - [pysheds](https://github.com/mdbartos/pysheds) - Simple and fast watershed delineation in python.
 - [WhiteboxTools](https://github.com/jblindsay/whitebox-tools) - WhiteboxTools is an advanced geospatial data analysis platform.
 - [CRITERIA3D](https://github.com/ARPA-SIMC/CRITERIA3D) - Includes a numerical solution for three-dimensional water and heat flow in the soil, coupled surface and subsurface flow, meteorological data interpolation, radiation budget, crop development and crop water uptake.
@@ -958,8 +957,7 @@ _"For technology to be truly sustainable, it must be globally available and inde
 - [WHAT-IF](https://github.com/RaphaelPB/WHAT-IF) - Water, Hydropower, Agriculture Tool for Investment and Financing decision support tool.
 - [Investment Framework for a More Sustainable World](https://github.com/My-Climate-Journey/climate-sustainability-investment-framework) - This framework was created as a tool for those seeking to make emissions reductions and sustainability related investments with the goal of mitigating the impacts of climate change, based on guidelines set forth by Chamath Palihapitiya in July 2020.
 - [SSC](https://github.com/NREL/ssc) - Contains the source code for the technology and financial models contained within the National Renewable Energy Laboratory's System Advisor Model.
-- [r2dii.analysis](https://github.com/2DegreesInvesting/r2dii.analysis) - Summarize key metrics attributed to the portfolio (e.g. production, emission factors), and calculate targets based on climate scenarios
-
+- [r2dii.analysis](https://github.com/2DegreesInvesting/r2dii.analysis) - Summarize key metrics attributed to the portfolio (e.g. production, emission factors), and calculate targets based on climate scenarios.
 
 ## Further Open and Sustainable Resources
 
