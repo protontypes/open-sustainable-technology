@@ -5,21 +5,26 @@ repo_name: 'protontypes/open-sustainable-technology'
 repo_url: 'https://github.com/protontypes/open-sustainable-technology'
 nav:
   - "Truly Sustainable is Open": "index.md"
-  - "Contribute Open Sustainable Technology": "CONTRIBUTING.md"
-  - "Open Sustainable Technology Communities": "COMMUNITIES.md"
-  - "Open Educational Resources on Sustainable Technology": "EDUCATION.md"
+  - "Communities": "COMMUNITIES.md"
+  - "Educational Resources": "EDUCATION.md"
+  - "Contribute": "CONTRIBUTING.md"
 
 theme:
   name: 'material'
+  custom_dir: 'docs/overrides'
   logo: 'logo.png'
   favicon: 'favicon.png'
   palette:
         primary: 'teal'
         accent: 'light'
-  feature:
+  features:
     - navigation.instant
-    - navigration.tabs
+    - navigation.tabs
+    - navigation.expand
     - search.highlight
+    - search.suggest
+    - toc.integrate
+    - header.autohide
 
 extra_css:
     - css/extra.css
@@ -30,8 +35,11 @@ markdown_extensions:
       permalink: true
 
 extra:
+  generator: false
   social:
     - icon: fontawesome/brands/twitter
       link: https://twitter.com/protontypes
     - icon: fontawesome/brands/linkedin
       link: https://linkedin.com/company/protontypes
+
+copyright: Copyright &copy;  2020 protontypes
