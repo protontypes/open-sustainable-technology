@@ -1,5 +1,5 @@
 <!--lint ignore awesome-badge-->
-# Open Sustainable Technology [<img src="https://badgen.net/badge/icon/Join%20our%20Community/green?icon=gitter&label&scale=1.3" align="right"> <br>](https://gitter.im/protontypes/community)
+# Open Sustainable Technology [<img src="https://badgen.net/badge/icon/Join%20our%20Community/green?icon=gitter&label&scale=1.3" align="right">](https://gitter.im/protontypes/community)
 <!--lint ignore double-link-->
 __[Open technology projects](https://opensustain.tech/) sustaining stable climate, energy supply and vital natural resources__
 <!--lint ignore double-link-->
