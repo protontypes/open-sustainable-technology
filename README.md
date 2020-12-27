@@ -1,7 +1,7 @@
 <!--lint ignore awesome-badge-->
 # Open Sustainable Technology 
 <!--lint ignore double-link-->
-__[Open technology projects](https://opensustain.tech/) sustaining stable climate, energy supply and vital natural resources__
+__Open technology projects sustaining stable climate, energy supply and vital natural resources__
 <!--lint ignore double-link-->
 [<img src="earth.gif" align="right" width="350"> <br>](https://tabletopwhale.com/)
 _"For technology to be truly sustainable, it must be globally available and independent. The open distribution of sustainable technology, knowledge and data provides the basis for an ecological and economical global economy.  This secures the access to vital resources such as stable climate, soil or water for everyone in the long term." [protontypes](https://protontypes.eu/)_<br> <br>  Your contribution is necessary to keep this list alive, increase the quality and to expand it. You can read more about it's origin and how you can participate in the [contribution guide](CONTRIBUTING.md), [presentation slides](https://protontypes.eu/protontypes_open_sustainable_technology.pdf) and related [blog post](https://protontypes.eu/blog/2020/10/05/gathering-open-sustainable-technology/). Please [contact us](https://protontypes.eu/contact/) to give feedback, hints and ideas for [OpenSustain.tech](https://opensustain.tech/) or create a issue on GitHub.
@@ -396,6 +396,7 @@ _"For technology to be truly sustainable, it must be globally available and inde
 - [dieter_py](https://gitlab.com/diw-evu/dieter_public/dieter_py) -  A open-source power sector optimization model that has been developed to investigate the role of electricity storage and sector coupling options in future scenarios with high shares of renewable energy sources.
 - [OMEGAlpes](https://gricad-gitlab.univ-grenoble-alpes.fr/omegalpes/omegalpes) - Aims to be an energy systems modelling tool for linear optimisation (LP, MILP).
 - [deflex](https://github.com/reegis/deflex) - Flexible multi-regional energy system model forheat, power and mobility.
+- [energy-py-linear](https://github.com/ADGEfficiency/energy-py-linear) - Optimizing energy systems using mixed integer linear programming.
 
 
 ### Analysis
