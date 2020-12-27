@@ -680,6 +680,7 @@ _"For technology to be truly sustainable, it must be globally available and inde
 - [rwrfhydro](https://github.com/NCAR/rwrfhydro) - A community-contributed tool box for managing, analyzing, and visualizing WRF Hydro (and HydroDART) input and output files in R.
 - [PCR-GLOBWB_model](https://github.com/UU-Hydro/PCR-GLOBWB_model) - A large-scale hydrological model intended for global to regional studies.
 - [HydroShare](https://github.com/hydroshare/hydroshare) - A is a collaborative website for better access to data and models in the hydrologic sciences.
+- [SOILWAT2](https://github.com/DrylandEcology/SOILWAT2) - An ecosystem water balance simulation model.
 
 
 ### Atmosphere
