@@ -225,6 +225,7 @@ _"For technology to be truly sustainable, it must be globally available and inde
 - [pyehub](https://gitlab.com/energyincities/python-ehub) - A python-based, modular and nestable implementation of the Energy Hub model (balancing demand and supply, system capacity sizing and network flows using Mixed-Integer Linear Programming).
 - [origin](https://github.com/energywebfoundation/origin) - A set of toolkits that together provide a system for issuance and management of Energy Attribute Certificates.
 - [Grid Singularity Energy Exchange Engine (D3A)](https://github.com/gridsingularity/d3a) - An interface and codebase to model, simulate, optimize and (coming soon) download and deploy a grid-aware energy exchange.
+- [Backbone](https://gitlab.vtt.fi/backbone/backbone) - A generic energy network optimization tool written in GAMS.
 
 
 ## Energy Consumption
