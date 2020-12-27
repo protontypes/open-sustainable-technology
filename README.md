@@ -397,6 +397,7 @@ _"For technology to be truly sustainable, it must be globally available and inde
 - [OMEGAlpes](https://gricad-gitlab.univ-grenoble-alpes.fr/omegalpes/omegalpes) - Aims to be an energy systems modelling tool for linear optimisation (LP, MILP).
 - [deflex](https://github.com/reegis/deflex) - Flexible multi-regional energy system model forheat, power and mobility.
 - [energy-py-linear](https://github.com/ADGEfficiency/energy-py-linear) - Optimizing energy systems using mixed integer linear programming.
+- [switch-model](https://github.com/switch-model) - Optimal planning model for power systems with large shares of renewable energy.
 
 
 ### Analysis
