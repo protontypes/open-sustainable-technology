@@ -400,6 +400,7 @@ _"For technology to be truly sustainable, it must be globally available and inde
 - [switch-model](https://github.com/switch-model) - Optimal planning model for power systems with large shares of renewable energy.
 - [AnyMOD.jl](https://github.com/leonardgoeke/AnyMOD.jl) - Creating large scale energy system models with multiple periods of capacity expansion formulated as linear optimization problems.
 - [FlexiGIS](https://github.com/FlexiGIS/FlexiGIS) - Extracts, filters and categorises the geo-referenced urban energy infrastructure and allocates the required decentralised storage in urban settings.
+- [EMMA](https://neon.energy/emma/) - A techno-economic model of the north-west European power market, covering France, Benelux, Germany, and Poland.
 
 
 ### Analysis
