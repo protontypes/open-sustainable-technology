@@ -345,6 +345,7 @@ _"For technology to be truly sustainable, it must be globally available and inde
 - [Green Cost Explorer](https://github.com/thegreenwebfoundation/green-cost-explorer) - See how much of your cloud bill is spent on fossil fuels, so you can do the right thing and switch.
 - [Scaphandre](https://github.com/hubblo-org/scaphandre) - An open-source software agent to enable tracking energy consumption of ICT services, from the servers.
 - [CPU Energy Meter](https://github.com/sosy-lab/cpu-energy-meter) - A Linux tool that allows to monitor power consumption of Intel CPUs at fine time granularities.
+- [PowerAPI](https://github.com/powerapi-ng/powerapi) - A middleware toolkit for building software-defined power meters.
 
 ## Energy System Assessment
 
