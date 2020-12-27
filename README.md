@@ -619,7 +619,6 @@ _"For technology to be truly sustainable, it must be globally available and inde
 - [phenocamr](https://github.com/bluegreen-labs/phenocamr) - Facilitates the retrieval and post-processing of PhenoCam time series.
 - [OceanAdapt](https://github.com/pinskylab/OceanAdapt) - Provide information about the impacts of changing climate and other factors on the distribution of marine life to the National Climate Assessment, fisheries communities, policymakers, and to others.
 - [Global Reforestation Opportunity Assessment](https://github.com/forc-db/GROA) - Quantify carbon sequestration in naturally regenerating forests around the world.
-- [rgbif](https://github.com/ropensci/rgbif) - Interface to the Global Biodiversity Information Facility API.
 
 ### Ice and Poles
 
