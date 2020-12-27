@@ -20,7 +20,7 @@ _"For technology to be truly sustainable, it must be globally available and inde
   - [Battery](#battery)
   - [Hydrogen](#hydrogen)
 - [Energy Distribution and Grids](#energy-distribution-and-grids)
-- [Energy Consumption](#energy-consumption)
+- [Energy Consumption and Efficiency](#energy-consumption-and-efficiency)
   - [Buildings and Cities](#buildings-and-cities)
   - [Mobility and Transportation](#mobility-and-transportation)
   - [Production and Computation](#production-and-computation)
@@ -225,7 +225,7 @@ _"For technology to be truly sustainable, it must be globally available and inde
 - [Backbone](https://gitlab.vtt.fi/backbone/backbone) - A generic energy network optimization tool written in GAMS.
 
 
-## Energy Consumption
+## Energy Consumption and Efficiency
 
 ### Buildings and Cities
 
@@ -269,6 +269,7 @@ _"For technology to be truly sustainable, it must be globally available and inde
 - [pythermalcomfort](https://github.com/CenterForTheBuiltEnvironment/pythermalcomfort) - Package to calculate several thermal comfort indices (e.g. PMV, PPD, SET, adaptive) and convert physical variables.
 - [comfort_tool](https://github.com/CenterForTheBuiltEnvironment/comfort_tool) - A web interface for comfort model calculations and visualizations according to ASHRAE Standard-55, EN Standard 16798 and ISO Standard 7730.
 - [resstock](https://github.com/NREL/resstock) - Helping states, municipalities, utilities, and manufacturers identify which building stock improvements save the most energy and money.
+- [DSMR-reader](https://github.com/dsmrreader/dsmr-reader) - Used for reading the smart meter DSMR (Dutch Smart Meter Requirements) P1 port yourself at your home.
 
 
 ### Mobility and Transportation
