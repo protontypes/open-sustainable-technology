@@ -889,7 +889,7 @@ _"For technology to be truly sustainable, it must be globally available and inde
 - [DORiE](https://ts-gitlab.iup.uni-heidelberg.de/dorie/dorie) - A Discontinuous Galerkin Solver for Soil Water Flow and Passive Solute Transport Based on DUNE.
 - [wqbc](https://github.com/bcgov/wqbc) - An R package for water quality thresholds and index calculation for British Columbia.
 - [Model My Watershed](https://github.com/WikiWatershed/model-my-watershed) - A is a watershed-modeling web app for citizens, conservation practitioners, municipal decision-makers, educators, and students.
-
+- [AquaSat](https://github.com/GlobalHydrologyLab/AquaSat) - A data set to enable remote sensing of water quality for inland waters.
 
 ### Soil and Land
 
