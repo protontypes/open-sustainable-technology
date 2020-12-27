@@ -1,15 +1,12 @@
+
 <!--lint ignore awesome-badge-->
 # Open Sustainable Technology 
-<!--lint ignore double-link-->
 __Open technology projects sustaining stable climate, energy supply and vital natural resources__
 <!--lint ignore double-link-->
 [<img src="earth.gif" align="right" width="350"> <br>](https://tabletopwhale.com/)
 _"For technology to be truly sustainable, it must be globally available and independent. The open distribution of sustainable technology, knowledge and data provides the basis for an ecological and economical global economy.  This secures the access to vital resources such as stable climate, soil or water for everyone in the long term." [protontypes](https://protontypes.eu/)_<br> <br>  Your contribution is necessary to keep this list alive, increase the quality and to expand it. You can read more about it's origin and how you can participate in the [contribution guide](CONTRIBUTING.md), [presentation slides](https://protontypes.eu/protontypes_open_sustainable_technology.pdf) and related [blog post](https://protontypes.eu/blog/2020/10/05/gathering-open-sustainable-technology/). Please [contact us](https://protontypes.eu/contact/) to give feedback, hints and ideas for [OpenSustain.tech](https://opensustain.tech/) or create a issue on GitHub.
 
 
-
-
----
 <!--toc-->
 ## Contents
 
@@ -622,6 +619,7 @@ _"For technology to be truly sustainable, it must be globally available and inde
 - [phenocamr](https://github.com/bluegreen-labs/phenocamr) - Facilitates the retrieval and post-processing of PhenoCam time series.
 - [OceanAdapt](https://github.com/pinskylab/OceanAdapt) - Provide information about the impacts of changing climate and other factors on the distribution of marine life to the National Climate Assessment, fisheries communities, policymakers, and to others.
 - [Global Reforestation Opportunity Assessment](https://github.com/forc-db/GROA) - Quantify carbon sequestration in naturally regenerating forests around the world.
+- [rgbif](https://github.com/ropensci/rgbif) - Interface to the Global Biodiversity Information Facility API.
 
 ### Ice and Poles
 

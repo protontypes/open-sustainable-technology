@@ -35,6 +35,7 @@ Additions on the list will be done by Pull Requests.
 * Describe in at least one sentence why you think the project meets the guidelines. 
 * Create a pull request and wait for the reaction of the maintainer. We may ask you additional questions or you may need to make changes to your pull request.
 * To reorder the list or for creating new categories please open an issue. After a discussion in the issue comments, we can decide on how to reorganize the list based on a pull request from you.
+* Every new project entry will receive a tweet created by protontypes. You can define a custom message for that with your project URL and great people if you like to. Just add `My Tweet:` to the Pull request comment. 
 
 Further details on how do `Pull Requests` can be found in the official GitHub [documentation](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
 
