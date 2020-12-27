@@ -38,3 +38,4 @@ Outstanding open communities developing independent and free sustainable technol
 - [The Sustainable Development Solutions Network](https://github.com/sdsna) - Mobilizes global scientific and technological expertise to promote solutions for sustainable development, including the implementation of the SDGs.
 - [National Center for Atmospheric Research](https://github.com/NCAR) -  Provides the atmospheric and related Earth system science community with state-of-the-art resources, including supercomputers, research aircraft, sophisticated computer models, and extensive data sets.
 - [Data Science for the Planet](https://www.earthshot.eco/) - An open-source community, public benefit technology company, and sustainable asset manager.
+- [Ladybug Tools](https://github.com/ladybug-tools) - Making environmental design knowledge and tools freely accessible to every person, project and design process.
