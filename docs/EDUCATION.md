@@ -21,3 +21,4 @@ Looking for recources to get started in Open Sustainable Technology? Here you ca
 - [Tutorial for Working with NASA VIIRS Surface Reflectance Data](https://git.earthdata.nasa.gov/projects/LPDUR/repos/nasa_viirs_surfacereflectance/) - Converting VNP09GA files into quality-filtered vegetation indices and examining the trend in vegetation greenness during July 2018 to observe drought in Europe.
 - [python-ecology-lesson](https://github.com/datacarpentry/python-ecology-lesson) - Data Analysis and Visualization in Python for Ecologists.
 - [R-ecology-lesson](https://github.com/datacarpentry/R-ecology-lesson) - Data Analysis and Visualization in R for Ecologists.
+- [Building DC Energy Systems](https://learn.libre.solar/) - Hosts an Open Educational Resource (OER) for Building DC Energy Systems.
