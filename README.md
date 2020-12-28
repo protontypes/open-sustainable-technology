@@ -332,6 +332,7 @@ _"For technology to be truly sustainable, it must be globally available and inde
 - [CityFlow](https://github.com/cityflow-project/CityFlow/) - A Multi-Agent Reinforcement Learning Environment for Large Scale City Traffic Scenario.
 - [Complete_Street_Rule](https://github.com/d-wasserman/Complete_Street_Rule) - A ArcGIS CityEngine scenario oriented design tool intended to enable users to quickly create procedural generated multimodal streets.
 - [tesla_powerwall](https://github.com/jrester/tesla_powerwall) - Python Tesla Powerwall API for consuming a local endpoint.
+- [Vehicle Energy Dataset](https://github.com/gsoh/VED) - A Large-scale Dataset for Vehicle Energy Consumption Research.
 
 ### Production and Computation
 
