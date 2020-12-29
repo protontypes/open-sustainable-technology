@@ -423,6 +423,7 @@ _"For technology to be truly sustainable, it must be globally available and inde
 - [RAMP](https://github.com/RAMP-project/RAMP) - A bottom-up stochastic model for the generation of high-resolution multi-energy profiles, conceived for application in contexts where only rough information about users' behaviour are obtainable.
 - [PowerGAMA](https://bitbucket.org/harald_g_svendsen/powergama/src/master/) - A Python package for hour-by-hour optimal power flow analysis of interconnected power systems with variable energy sources and storage systems.
 - [POMATO](https://github.com/richard-weinhold/pomato) - An easy to use tool for the comprehensive analysis of the modern electricity market.
+- [PowerGAMA](https://bitbucket.org/harald_g_svendsen/powergama/) - A lightweight simulation tool for high level analyses of renewable energy integration in large power systems.
 
 ### Optimization
 
