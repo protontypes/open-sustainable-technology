@@ -40,3 +40,4 @@ Outstanding open communities developing independent and free sustainable technol
 - [Data Science for the Planet](https://www.earthshot.eco/) - An open-source community, public benefit technology company, and sustainable asset manager.
 - [Ladybug Tools](https://github.com/ladybug-tools) - Making environmental design knowledge and tools freely accessible to every person, project and design process.
 - [Energy Web](https://github.com/energywebfoundation) - Energy Web is accelerating a low-carbon, customer-centric electricity system by enabling any energy asset owned by any customer to participate in any energy market.
+- [STEP](http://step.esa.int/main/) - ESA  is developing  free open source toolboxes for the scientific exploitation of Earth Observation missions under the the Scientific Exploitation of Operational Missions programme element.
