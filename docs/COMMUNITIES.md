@@ -39,3 +39,4 @@ Outstanding open communities developing independent and free sustainable technol
 - [National Center for Atmospheric Research](https://github.com/NCAR) -  Provides the atmospheric and related Earth system science community with state-of-the-art resources, including supercomputers, research aircraft, sophisticated computer models, and extensive data sets.
 - [Data Science for the Planet](https://www.earthshot.eco/) - An open-source community, public benefit technology company, and sustainable asset manager.
 - [Ladybug Tools](https://github.com/ladybug-tools) - Making environmental design knowledge and tools freely accessible to every person, project and design process.
+- [Energy Web](https://github.com/energywebfoundation) - Energy Web is accelerating a low-carbon, customer-centric electricity system by enabling any energy asset owned by any customer to participate in any energy market.
