@@ -143,6 +143,7 @@ _"For economies to be truly sustainable, it must be globally available, transpar
 - [OpenHPL](https://github.com/simulatino/OpenHPL) - An open-source hydropower library that consists of hydropower unit models and is modelled using Modelica.
 - [WEC-Sim](https://github.com/WEC-Sim/WEC-Sim) - Wave Energy Converter Simulator is an open-source code for simulating wave energy converters.
 - [BEMRosetta](https://github.com/izabala123/BEMRosetta) - Used to model hydrodynamic forces in offshore devices like ships, offshore wind platforms and wave energy converters.
+- [Capytaine](https://github.com/mancellin/capytaine) - A Python package for the simulation of the interaction between water waves and floating bodies in frequency domain.
 
 ### Geothermal Energy
 
