@@ -26,5 +26,6 @@ https://greenbanknetwork.org/
 ## Cooperatives and Networks
 https://www.rescoop.eu/
 https://euislands.eu/
+https://ecosummit.net/
 
 ## Open Business Models 
