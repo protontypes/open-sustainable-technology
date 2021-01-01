@@ -29,8 +29,9 @@ https://www.cleanenergyinvest.org/
 
 ## Cooperatives and Networks
 * [Digital Public Goods Alliance](https://digitalpublicgoods.net/) - A multi-stakeholder initiative to accelerate the attainment of the sustainable development goals in low- and middle-income countries by facilitating the discovery, development, use of and investment in digital public goods.
+* [EcoSummit](https://ecosummit.net/) - Accelerates smart green startups in energy, mobility and cities to save our climate and planet.
 https://www.rescoop.eu/
 https://euislands.eu/
-https://ecosummit.net/
+
 
 ## Open Business Models 
