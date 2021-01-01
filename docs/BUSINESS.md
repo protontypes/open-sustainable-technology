@@ -16,7 +16,7 @@
 * [YCombinator Carbon Removal Technologies](http://carbon.ycombinator.com/) - Funds startups that concentrate on frontier technologies such as carbon removal.
 * [The Green Startups Accelerator](https://solarimpulse.com/network/the-green-startups-accelerator) - The Green Startups Accelerator is a Beijing-based environmental NGO and WRI, a U.S. based environmental think tank to promote green entrepreneurship in China.
 * [coactlab](https://www.coactlab.org/) - An environmental tech accelerator & innovation hub in the hills of Barcelona.
-
+* [AXEL](https://www.axel.energy/en/) - The only accelerator with a 100% focus on energy.
 
 ## Investment and Banking
 * [Climatescope](https://global-climatescope.org/) - A unique country-by-country assessment, interactive report and index that evaluates the investment conditions for clean energy in emerging markets.
