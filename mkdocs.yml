@@ -5,8 +5,8 @@ repo_name: 'protontypes/open-sustainable-technology'
 repo_url: 'https://github.com/protontypes/open-sustainable-technology'
 nav:
   - "Technology": "index.md"
-  - "Communities": "COMMUNITIES.md"
-  - "Educational Resources": "EDUCATION.md"
+  - "Community": "COMMUNITIES.md"
+  - "Education": "EDUCATION.md"
   - "Contribute": "CONTRIBUTING.md"
 
 theme:
