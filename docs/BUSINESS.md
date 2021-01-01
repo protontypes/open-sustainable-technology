@@ -19,13 +19,14 @@
 
 
 ## Investment and Banking
-- [Climatescope](https://global-climatescope.org/) - A unique country-by-country assessment, interactive report and index that evaluates the investment conditions for clean energy in emerging markets.
+* [Climatescope](https://global-climatescope.org/) - A unique country-by-country assessment, interactive report and index that evaluates the investment conditions for clean energy in emerging markets.
 https://greenbanknetwork.org/
+https://www.cleanenergyinvest.org/
 
 ## Conferences and Hackathons 
 
 ## Cooperatives and Networks
-- [Digital Public Goods Alliance](https://digitalpublicgoods.net/) - A multi-stakeholder initiative to accelerate the attainment of the sustainable development goals in low- and middle-income countries by facilitating the discovery, development, use of and investment in digital public goods.
+* [Digital Public Goods Alliance](https://digitalpublicgoods.net/) - A multi-stakeholder initiative to accelerate the attainment of the sustainable development goals in low- and middle-income countries by facilitating the discovery, development, use of and investment in digital public goods.
 https://www.rescoop.eu/
 https://euislands.eu/
 https://ecosummit.net/
