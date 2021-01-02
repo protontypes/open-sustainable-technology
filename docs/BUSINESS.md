@@ -28,6 +28,7 @@
 * [Urban Future Lab](http://ufl.nyc/) - We are leading the way to a more sustainable world by connecting people, capital, and purpose to advance market-ready solutions to address climate change
 * [Imagine H2O](https://www.imagineh2o.org/) - Empowering people to develop and deploy innovation to solve water challenges globally.
 * [Bethnal Green Ventures](https://bethnalgreenventures.com/) - We invest in ambitious founders using technology to tackle big social and environmental problems that aim to radically improve millions of lives.
+* [Cleantech Open](https://www.cleantechopen.org/en/) - Has trained over 1600 early-stage clean technology startup entrepreneurs through its annual business accelerator.
 
 
 ## Investment and Banking
