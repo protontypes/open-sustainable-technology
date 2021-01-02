@@ -23,17 +23,18 @@
 * [Cascadia Cleantech Accelerator](https://cascadiacleantech.org/) - The mostly virtual 15-week program delivers mentorship, curriculum, connections and funding opportunities designed specifically for early-stage cleantech startups.
 * [Joules Accelerator Identifies](https://www.joulesaccelerator.com/) - Advises and connects cleantech startups to a network focused on tackling climate targets ahead of schedule.
 * [100accelerator](https://www.100accelerator.com/) - To help us reach our 2025 Sustainability Goals, the 100+ Accelerator will host and provide funding to start-ups to solve challenges designed to create a more sustainable world for all.
-* [ElementalExcelerator](https://elementalexcelerator.com/) - We accelerate solutions to climate change, and deploy those solutions in the communities that need them the most.
+* [ElementalExcelerator](https://elementalexcelerator.com/) - We accelerate solutions to climate change and deploy those solutions in the communities that need them the most.
 * [New Energy Nexus](https://www.newenergynexus.com/) - New Energy Nexus is an international non-profit that supports clean energy entrepreneurs with funds, accelerators, and networks.
 * [Urban Future Lab](http://ufl.nyc/) - We are leading the way to a more sustainable world by connecting people, capital, and purpose to advance market-ready solutions to address climate change
 * [Imagine H2O](https://www.imagineh2o.org/) - Empowering people to develop and deploy innovation to solve water challenges globally.
+* [Bethnal Green Ventures](https://bethnalgreenventures.com/) - We invest in ambitious founders using technology to tackle big social and environmental problems that aim to radically improve millions of lives.
 
 
 ## Investment and Banking
 * [Climatescope](https://global-climatescope.org/) - A unique country-by-country assessment, interactive report and index that evaluates the investment conditions for clean energy in emerging markets.
 * [EVERCITY](https://evercity.io/) - We help to attain UN Agenda 2030 by enabling impact funds & banks to increase impact measurement accuracy, efficiency of portfolio management & liquidity of impact investments.
 * [Green Bank Network](https://greenbanknetwork.org/) - Connects leaders in clean energy finance, shares best practices and supports investment in clean energy solutions.
-* [CEIA](https://www.cleanenergyinvest.org/) - The Clean Energy Investment Accelerator
+* [CEIA](https://www.cleanenergyinvest.org/) - The Clean Energy Investment Accelerator.
 * [Earthshot](http://www.earthshotclimate.com/) - The first investing platform for natural climate solutions.
 * [Diamond List](https://diamondlist.co/) - Ask leading climate investors to spotlight the strongest early stage climate companies so that they could reach high risk capital and get to scale and profit faster.
 
