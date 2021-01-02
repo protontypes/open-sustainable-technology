@@ -45,7 +45,7 @@ _"For economies to be truly sustainable, it must be globally available, transpar
   - [Air](#air)
   - [Water](#water)
   - [Soil and Land](#soil-and-land)
-- [Agriculture, Fishery and Nutrition](#agriculture-fishery-and-nutrition)
+- [Agriculture and Nutrition](#agriculture-and-nutrition)
 - [Sustainable Investment](#sustainable-investment)
 - [Further Open and Sustainable Resources](#further-open-and-sustainable-resources)
 
@@ -939,7 +939,7 @@ _"For economies to be truly sustainable, it must be globally available, transpar
 - [EarthML](https://github.com/pyviz-topics/EarthML) - Improving, documenting, and illustrating how to use other, freely available, general-purpose open source projects to solve problems in the earth sciences.
 - [STEP](http://step.esa.int/main/) - ESA is developing  free open source toolboxes for the scientific exploitation of Earth Observation missions under the the Scientific Exploitation of Operational Missions programme element.
 
-## Agriculture, Fishery and Nutrition
+## Agriculture and Nutrition
 
 - [OBIA4RTM](https://github.com/lukasValentin/OBIA4RTM) - Aims for plant parameter retrieval - relevant in smart farming applications - by using radiative transfer models and object-based image analysis that direclty addresses actual user needs and policy demands in a highly efficient, flexible and scalable way.
 - [Crop-Classification](https://github.com/bhavesh907/Crop-Classification) - Provides codes for crop classification using multi temporal satellite images.
