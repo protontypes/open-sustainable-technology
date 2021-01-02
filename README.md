@@ -35,14 +35,14 @@ _"For economies to be truly sustainable, it must be globally available, transpar
 - [Ecological Footprint](#ecological-footprint)
   - [Life Cycle Assessment](#life-cycle-assessment)
   - [Circular Economy and Waste](#circular-economy-and-waste)
-- [Observation and Models of Biosphere](#observation-and-models-of-biosphere)
+- [Biosphere](#observation-and-models-of-biosphere)
   - [Life Forms and Biodiversity](#life-forms-and-biodiversity)
   - [Ice and Poles](#ice-and-poles)
   - [Salt and Fresh Water](#salt-and-fresh-water)
   - [Atmosphere](#atmosphere)
 - [Modeling of Climate and Earth](#modeling-of-climate-and-earth)
 - [Earth Climate Datasets and Tools](#earth-climate-datasets-and-tools)
-- [Access and Monitoring of Resources](#access-and-monitoring-of-resources)
+- [Natural Resources](#natural-resources)
   - [Air](#air)
   - [Water](#water)
   - [Soil and Land](#soil-and-land)
@@ -554,7 +554,7 @@ _"For economies to be truly sustainable, it must be globally available, transpar
 - [trashnet](https://github.com/garythung/trashnet) - Dataset of images of trash; Torch-based CNN for garbage image classification.
 - [OpenLitterMap](https://github.com/OpenLitterMap/openlittermap-web) - An open, interactive, and accessible database of the world's litter and plastic pollution.
 
-## Observation and Models of Biosphere
+## Biosphere
 
 ### Life Forms and Biodiversity
 
@@ -718,7 +718,7 @@ _"For economies to be truly sustainable, it must be globally available, transpar
 - [PyBox](https://github.com/loftytopping/PyBox) - A Python based box-model generator and simulator designed for atmospheric chemistry and aerosol studies.
 
 
-## Modeling of Climate and Earth 
+## Climate and Earth Modeling
 
 - [VIC](https://github.com/UW-Hydro/VIC) - A macroscale hydrologic model that solves full water and energy balances.
 - [global-workflow](https://github.com/NOAA-EMC/global-workflow) - Global Superstructure/Workflow currently supporting the Finite-Volume on a Cubed-Sphere Global Forecast System.
@@ -833,7 +833,7 @@ _"For economies to be truly sustainable, it must be globally available, transpar
 - [getCRUCLdata](https://github.com/ropensci/getCRUCLdata) - Provides functions that automate importing CRU CL v. 2.0 climatology data into R.
 
 
-## Access and Monitoring of Resources
+## Natural Resources
 
 ### Air
 
