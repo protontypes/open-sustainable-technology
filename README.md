@@ -35,13 +35,13 @@ _"For economies to be truly sustainable, it must be globally available, transpar
 - [Ecological Footprint](#ecological-footprint)
   - [Life Cycle Assessment](#life-cycle-assessment)
   - [Circular Economy and Waste](#circular-economy-and-waste)
-- [Biosphere](#observation-and-models-of-biosphere)
+- [Biosphere](#biosphere)
   - [Life Forms and Biodiversity](#life-forms-and-biodiversity)
   - [Ice and Poles](#ice-and-poles)
   - [Salt and Fresh Water](#salt-and-fresh-water)
   - [Atmosphere](#atmosphere)
-- [Modeling of Climate and Earth](#modeling-of-climate-and-earth)
-- [Earth Climate Datasets and Tools](#earth-climate-datasets-and-tools)
+  - [Climate and Earth Modeling](#climate-and-earth-modeling)
+  - [Earth Climate Datasets and Tools](#earth-climate-datasets-and-tools)
 - [Natural Resources](#natural-resources)
   - [Air](#air)
   - [Water](#water)
@@ -718,7 +718,7 @@ _"For economies to be truly sustainable, it must be globally available, transpar
 - [PyBox](https://github.com/loftytopping/PyBox) - A Python based box-model generator and simulator designed for atmospheric chemistry and aerosol studies.
 
 
-## Climate and Earth Modeling
+### Climate and Earth Modeling
 
 - [VIC](https://github.com/UW-Hydro/VIC) - A macroscale hydrologic model that solves full water and energy balances.
 - [global-workflow](https://github.com/NOAA-EMC/global-workflow) - Global Superstructure/Workflow currently supporting the Finite-Volume on a Cubed-Sphere Global Forecast System.
@@ -773,7 +773,7 @@ _"For economies to be truly sustainable, it must be globally available, transpar
 - [Dragonfly for Grasshopper](https://github.com/ladybug-tools/dragonfly-legacy) - Legacy dragonfly plugin for large-scale climate and urban heat island modeling.
 
 
-## Earth Climate Datasets and Tools
+### Earth Climate Datasets and Tools
 
 - [cf-conventions](https://github.com/cf-convention/cf-conventions) - The conventions for CF (Climate and Forecast) metadata are designed to promote the processing and sharing of files created with the NetCDF API.
 - [GHCN](https://www.ncdc.noaa.gov/data-access/land-based-station-data/land-based-datasets/global-historical-climatology-network-ghcn) - An observations database from meteorologic stations around the globe. Daily and monthly resolution data are available with the longest records up to 175 years.
