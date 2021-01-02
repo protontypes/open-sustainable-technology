@@ -51,4 +51,5 @@ The following search engines can be helpful to find further projects:
 * Zenodo
 * Libraries.io
 * Doaj.org
+* [The Journal of Open Source Software](https://joss.theoj.org/) - The Journal of Open Source Software is a developer friendly, open access journal for research software packages.
 
