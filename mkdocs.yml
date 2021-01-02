@@ -4,9 +4,9 @@ site_description: 'Open technology projects sustaining stable climate, energy su
 repo_name: 'protontypes/open-sustainable-technology'
 repo_url: 'https://github.com/protontypes/open-sustainable-technology'
 nav:
-  - "Truly Sustainable is Open": "index.md"
-  - "Communities": "COMMUNITIES.md"
-  - "Educational Resources": "EDUCATION.md"
+  - "Technology": "index.md"
+  - "Community": "COMMUNITIES.md"
+  - "Education": "EDUCATION.md"
   - "Contribute": "CONTRIBUTING.md"
 
 theme:
