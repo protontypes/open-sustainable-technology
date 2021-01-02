@@ -27,7 +27,7 @@
 * [New Energy Nexus](https://www.newenergynexus.com/) - New Energy Nexus is an international non-profit that supports clean energy entrepreneurs with funds, accelerators, and networks.
 * [Urban Future Lab](http://ufl.nyc/) - We are leading the way to a more sustainable world by connecting people, capital, and purpose to advance market-ready solutions to address climate change
 * [Imagine H2O](https://www.imagineh2o.org/) - Empowering people to develop and deploy innovation to solve water challenges globally.
-* [Bethnal Green Ventures](https://bethnalgreenventures.com/) - Europe’s leading early-stage tech for good VC. Twice a year, they run an intensive three-month programme and provide investment and access to a vast support network for ambitious startups on a quest to use technology to radically improve millions of lives and protect the planet.
+* [Bethnal Green Ventures](https://bethnalgreenventures.com/) - We invest in ambitious founders using technology to tackle big social and environmental problems that aim to radically improve millions of lives.
 
 
 ## Investment and Banking
