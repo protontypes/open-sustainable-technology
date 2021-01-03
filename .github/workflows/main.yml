@@ -9,4 +9,9 @@ jobs:
       - uses: actions/checkout@v2
         with:
           fetch-depth: 0
-      - run: npx awesome-lint
+      - run:| 
+              npx awesome-lint
+              npx awesome-lint ./docs/BUSINESS.md
+              npx awesome-lint ./docs/EDUCATION.md
+              npx awesome-lint ./docs/COMMUNITY.md
+
