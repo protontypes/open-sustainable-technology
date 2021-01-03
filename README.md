@@ -336,6 +336,7 @@ _"For economies to be truly sustainable, it must be globally available, transpar
 - [tesla_powerwall](https://github.com/jrester/tesla_powerwall) - Python Tesla Powerwall API for consuming a local endpoint.
 - [Vehicle Energy Dataset](https://github.com/gsoh/VED) - A Large-scale Dataset for Vehicle Energy Consumption Research.
 - [gbfs](https://github.com/NABSA/gbfs) - Documentation for the General Bikeshare Feed Specification, a standardized data feed for shared mobility system availability.
+- [Bike Index](https://github.com/bikeindex/bike_index) - Bike registration that works: online, powerful, free.
 
 ### Production and Computation
 
@@ -628,6 +629,7 @@ _"For economies to be truly sustainable, it must be globally available, transpar
 - [OceanAdapt](https://github.com/pinskylab/OceanAdapt) - Provide information about the impacts of changing climate and other factors on the distribution of marine life to the National Climate Assessment, fisheries communities, policymakers, and to others.
 - [Global Reforestation Opportunity Assessment](https://github.com/forc-db/GROA) - Quantify carbon sequestration in naturally regenerating forests around the world.
 - [Plant-for-the-Planet](https://github.com/Plant-for-the-Planet-org/treecounter-app) - Allows you to plant trees with over 100 reforestation projects around the world.
+- [Annotation Interface for Data-driven Ecology](https://github.com/microsoft/aerial_wildlife_detection) - Tools for detecting wildlife in aerial images using active learning.
 
 ### Ice and Poles
 
@@ -831,7 +833,7 @@ _"For economies to be truly sustainable, it must be globally available, transpar
 - [NCL](https://github.com/NCAR/ncl) - The NCAR Command Language is a scripting language for the analysis and visualization of climate and weather data.
 - [xskillscore](https://github.com/xarray-contrib/xskillscore) - An open source project and Python package that provides verification metrics of deterministic (and probabilistic from properscoring) forecasts with xarray.
 - [getCRUCLdata](https://github.com/ropensci/getCRUCLdata) - Provides functions that automate importing CRU CL v. 2.0 climatology data into R.
-
+- [hockeystick](https://github.com/cortinah/hockeystick) - Make essential Climate Change datasets easily available to non-climate experts.
 
 ## Access and Monitoring of Resources
 
