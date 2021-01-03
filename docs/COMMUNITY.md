@@ -1,3 +1,4 @@
+<!--lint ignore awesome-toc awesome-contributing awesome-badge -->
 # Sustainable Technology Communities
 
 Outstanding open communities developing independent and free sustainable technology.

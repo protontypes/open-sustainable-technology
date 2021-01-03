@@ -1,3 +1,4 @@
+<!--lint ignore awesome-toc awesome-contributing awesome-badge -->
 # Open Sustainable Business Development and Financing
 
 ## Grant and Funding

@@ -1,3 +1,4 @@
+<!--lint ignore awesome-toc awesome-contributing awesome-badge -->
 # Open Educational Resources on Sustainable Technology
 
 Looking for recources to get started in Open Sustainable Technology? Here you can find dedicated educational resources as well as best practices for your ideas.
