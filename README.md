@@ -1,9 +1,8 @@
-<!--lint ignore awesome-badge-->
+<!--lint ignore awesome-badge--> <!--lint ignore double-link-->
 # Open Sustainable Technology 
-__A list of open technology projects sustaining stable climate, energy supply and vital natural resources__
-<!--lint ignore double-link-->
 [<img src="earth.gif" align="right" width="350"> <br>](https://tabletopwhale.com/)
-_"For economies to be truly sustainable, they must be globally available, transparent in their ecological footprint and independent. The open distribution of technology, knowledge and data provides the foundation for a global transition towards a more sustainable future. This transition, secures the long-term access to vital resources such as stable climate, soil and water for everyone." [protontypes](https://protontypes.eu/)_<br> <br> Your contribution is necessary to keep this list alive, increase its quality and to expand it. You can read more about it's origin and how you can participate in the [contribution guide](CONTRIBUTING.md), [presentation slides](https://protontypes.eu/protontypes_open_sustainable_technology.pdf) and related [blog post](https://protontypes.eu/blog/2020/10/05/gathering-open-sustainable-technology/). Feel free to [contact us](https://protontypes.eu/contact/) to give feedback, hints and ideas for [OpenSustain.tech](https://opensustain.tech/) or create an issue on GitHub. <br><br> [![](https://badgen.net/badge/icon/Join%20our%20Community/green?icon=gitter&label&scale=1.3)](https://gitter.im/protontypes/community)
+__Listing of worldwide open technology projects preserving a stable climate, energy supply and vital natural resources__ <br> <br>
+_"For technology to be truly sustainable, it must be globally available, open and independent. The open distribution of sustainable technology, knowledge and data provides the basis for an ecological and economical global economy.  It secures the access to vital resources such as stable climate, soil or water for everyone in the long term." [protontypes](https://protontypes.eu/)_<br> <br>  Your contribution is necessary to keep this list alive, increase the quality and to expand it. Read more about it's origin and how you can participate in the [contribution guide](CONTRIBUTING.md), [presentation slides](https://protontypes.eu/protontypes_open_sustainable_technology.pdf) and related [blog post](https://protontypes.eu/blog/2020/10/05/gathering-open-sustainable-technology/). Please [contact us](https://protontypes.eu/contact/) to give feedback, hints and ideas for [OpenSustain.tech](https://opensustain.tech/) or create a issue on GitHub. <br><br> [![](https://badgen.net/badge/icon/Find%20Support/green?icon=gitter&label&scale=1.3)](https://gitter.im/protontypes/community)
 
 <!--toc-->
 ## Contents
@@ -35,18 +34,18 @@ _"For economies to be truly sustainable, they must be globally available, transp
 - [Ecological Footprint](#ecological-footprint)
   - [Life Cycle Assessment](#life-cycle-assessment)
   - [Circular Economy and Waste](#circular-economy-and-waste)
-- [Observation and Models of Biosphere](#observation-and-models-of-biosphere)
+- [Biosphere](#biosphere)
   - [Life Forms and Biodiversity](#life-forms-and-biodiversity)
   - [Ice and Poles](#ice-and-poles)
   - [Salt and Fresh Water](#salt-and-fresh-water)
   - [Atmosphere](#atmosphere)
-- [Modeling of Climate and Earth](#modeling-of-climate-and-earth)
-- [Earth Climate Datasets and Tools](#earth-climate-datasets-and-tools)
-- [Access and Monitoring of Resources](#access-and-monitoring-of-resources)
+  - [Climate and Earth Modeling](#climate-and-earth-modeling)
+  - [Earth Climate Datasets and Tools](#earth-climate-datasets-and-tools)
+- [Natural Resources](#natural-resources)
   - [Air](#air)
   - [Water](#water)
   - [Soil and Land](#soil-and-land)
-- [Agriculture, Fishery and Nutrition](#agriculture-fishery-and-nutrition)
+- [Agriculture and Nutrition](#agriculture-and-nutrition)
 - [Sustainable Investment](#sustainable-investment)
 - [Further Open and Sustainable Resources](#further-open-and-sustainable-resources)
 
@@ -336,6 +335,7 @@ _"For economies to be truly sustainable, they must be globally available, transp
 - [tesla_powerwall](https://github.com/jrester/tesla_powerwall) - Python Tesla Powerwall API for consuming a local endpoint.
 - [Vehicle Energy Dataset](https://github.com/gsoh/VED) - A large-scale dataset for vehicle energy consumption research.
 - [gbfs](https://github.com/NABSA/gbfs) - Documentation for the General Bikeshare Feed Specification, a standardized data feed for shared mobility system availability.
+- [Bike Index](https://github.com/bikeindex/bike_index) - Bike registration that works: online, powerful, free.
 
 ### Production and Computation
 
@@ -426,7 +426,7 @@ _"For economies to be truly sustainable, they must be globally available, transp
 - [PowerGAMA](https://bitbucket.org/harald_g_svendsen/powergama/src/master/) - A Python package for hour-by-hour optimal power flow analysis of interconnected power systems with variable energy sources and storage systems.
 - [POMATO](https://github.com/richard-weinhold/pomato) - An easy to use tool for the comprehensive analysis of the modern electricity market.
 - [PowerGAMA](https://bitbucket.org/harald_g_svendsen/powergama/) - A lightweight simulation tool for high level analyses of renewable energy integration in large power systems.
-- [Power System Analysis Toolbox](http://faraday1.ucd.ie/psat.html) - A Matlab toolbox for electric power system analysis and simulation. 
+- [Power System Analysis Toolbox](http://faraday1.ucd.ie/psat.html) - A Matlab toolbox for electric power system analysis and simulation.
 
 ### Optimization
 
@@ -500,6 +500,7 @@ _"For economies to be truly sustainable, they must be globally available, transp
 - [co2.js](https://github.com/thegreenwebfoundation/co2.js) - A npm module for accessing the green web API, and estimating the carbon emissions from using digital services.
 - [blockchain-carbon-accounting](https://github.com/opentaps/blockchain-carbon-accounting) - Code of the Carbon Accounting and Certification Working Group.
 - [nvidia-co2](https://github.com/kylemcdonald/nvidia-co2) - Adds gCO2eq emissions to nvidia-smi.
+- [footprint](https://github.com/acircleda/footprint) - An R package to calculate carbon footprints from air travel based on IATA airport codes or latitude and longitude.
 
 ### Carbon Capture
 
@@ -554,7 +555,7 @@ _"For economies to be truly sustainable, they must be globally available, transp
 - [trashnet](https://github.com/garythung/trashnet) - Dataset of images of trash. Torch-based CNN for garbage image classification.
 - [OpenLitterMap](https://github.com/OpenLitterMap/openlittermap-web) - An open, interactive and accessible database of the world's litter and plastic pollution.
 
-## Observation and Models of Biosphere
+## Biosphere
 
 ### Life Forms and Biodiversity
 
@@ -628,6 +629,7 @@ _"For economies to be truly sustainable, they must be globally available, transp
 - [OceanAdapt](https://github.com/pinskylab/OceanAdapt) - Provide information about the impacts of changing climate and other factors on the distribution of marine life to the National Climate Assessment, fisheries communities, policymakers, and to others.
 - [Global Reforestation Opportunity Assessment](https://github.com/forc-db/GROA) - Quantify carbon sequestration in naturally regenerating forests around the world.
 - [Plant-for-the-Planet](https://github.com/Plant-for-the-Planet-org/treecounter-app) - Allows you to plant trees with over 100 reforestation projects around the world.
+- [Annotation Interface for Data-driven Ecology](https://github.com/microsoft/aerial_wildlife_detection) - Tools for detecting wildlife in aerial images using active learning.
 
 ### Ice and Poles
 
@@ -718,7 +720,7 @@ _"For economies to be truly sustainable, they must be globally available, transp
 - [PyBox](https://github.com/loftytopping/PyBox) - A Python based box-model generator and simulator designed for atmospheric chemistry and aerosol studies.
 
 
-## Modeling of Climate and Earth 
+### Climate and Earth Modeling
 
 - [VIC](https://github.com/UW-Hydro/VIC) - A macroscale hydrologic model that solves full water and energy balances.
 - [global-workflow](https://github.com/NOAA-EMC/global-workflow) - Global Superstructure/Workflow currently supporting the Finite-Volume on a Cubed-Sphere Global Forecast System.
@@ -773,7 +775,7 @@ _"For economies to be truly sustainable, they must be globally available, transp
 - [Dragonfly for Grasshopper](https://github.com/ladybug-tools/dragonfly-legacy) - Legacy dragonfly plugin for large-scale climate and urban heat island modeling.
 
 
-## Earth Climate Datasets and Tools
+### Earth Climate Datasets and Tools
 
 - [cf-conventions](https://github.com/cf-convention/cf-conventions) - The conventions for CF (Climate and Forecast) metadata are designed to promote the processing and sharing of files created with the NetCDF API.
 - [GHCN](https://www.ncdc.noaa.gov/data-access/land-based-station-data/land-based-datasets/global-historical-climatology-network-ghcn) - An observations database from meteorologic stations around the globe. Daily and monthly resolution data are available with the longest records up to 175 years.
@@ -831,9 +833,9 @@ _"For economies to be truly sustainable, they must be globally available, transp
 - [NCL](https://github.com/NCAR/ncl) - The NCAR Command Language is a scripting language for the analysis and visualization of climate and weather data.
 - [xskillscore](https://github.com/xarray-contrib/xskillscore) - An open source project and Python package that provides verification metrics of deterministic (and probabilistic from properscoring) forecasts with xarray.
 - [getCRUCLdata](https://github.com/ropensci/getCRUCLdata) - Provides functions that automate importing CRU CL v. 2.0 climatology data into R.
+- [hockeystick](https://github.com/cortinah/hockeystick) - Make essential Climate Change datasets easily available to non-climate experts.
 
-
-## Access and Monitoring of Resources
+## Natural Resources
 
 ### Air
 
@@ -940,7 +942,7 @@ _"For economies to be truly sustainable, they must be globally available, transp
 - [EarthML](https://github.com/pyviz-topics/EarthML) - Improving, documenting, and illustrating how to use other, freely available, general-purpose open source projects to solve problems in the earth sciences.
 - [STEP](http://step.esa.int/main/) - ESA is developing free open source toolboxes for the scientific exploitation of Earth Observation missions under the Scientific Exploitation of Operational Missions programme element.
 
-## Agriculture, Fishery and Nutrition
+## Agriculture and Nutrition
 
 - [OBIA4RTM](https://github.com/lukasValentin/OBIA4RTM) - Aims for plant parameter retrieval - relevant in smart farming applications - by using radiative transfer models and object-based image analysis that direclty addresses actual user needs and policy demands in a highly efficient, flexible and scalable way.
 - [Crop-Classification](https://github.com/bhavesh907/Crop-Classification) - Provides codes for crop classification using multi temporal satellite images.
