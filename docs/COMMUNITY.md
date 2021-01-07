@@ -42,3 +42,4 @@ Outstanding open communities developing independent and free sustainable technol
 - [Ladybug Tools](https://github.com/ladybug-tools) - Making environmental design knowledge and tools freely accessible to every person, project and design process.
 - [Energy Web](https://github.com/energywebfoundation) - Energy Web is accelerating a low-carbon, customer-centric electricity system by enabling any energy asset owned by any customer to participate in any energy market.
 - [STEP](http://step.esa.int/main/) - ESA  is developing  free open source toolboxes for the scientific exploitation of Earth Observation missions under the the Scientific Exploitation of Operational Missions programme element.
+- [Climate Connect](https://climateconnect.earth/) - Join the global climate action network to connect all climate actors on our planet.
