@@ -8,7 +8,7 @@
 * [OGrants](https://www.ogrants.org/) - An increasing number of researchers are sharing their grant proposals openly.
 
 
-## Accelerators and Startup Programs
+## Accelerators and Incubators
 * [Natural Climate Solutions Accelerator Grant Program](https://www.nature.org/en-us/what-we-do/our-priorities/tackle-climate-change/climate-change-stories/natural-climate-solutions-accelerator-grant/) - Through the generous support of the Doris Duke Charitable Foundation, The Nature Conservancy launched the U.S. Natural Climate Solutions Accelerator program in 2018 to support projects with potential to substantially increase the use of natural climate solutions.
 * [EIT Climate-KIC Accelerator](http://www.climate-kic-dach.org/) - All startups are eligible to attend our Bootcamp, Demo Day, Investors Dinner and Master Classes events that take place throughout the programme and have access to EIT Climate-KIC’s Europe-wide network of alumni, contacts, events and social media.
 * [EIT Climate-KIC](https://www.climate-kic.org/) - EIT Climate-KIC is a Knowledge and Innovation Community (KIC), working to accelerate the transition to a zero-carbon, climate-resilient society.
@@ -30,6 +30,9 @@
 * [Imagine H2O](https://www.imagineh2o.org/) - Empowering people to develop and deploy innovation to solve water challenges globally.
 * [Bethnal Green Ventures](https://bethnalgreenventures.com/) - We invest in ambitious founders using technology to tackle big social and environmental problems that aim to radically improve millions of lives.
 * [Cleantech Open](https://www.cleantechopen.org/en/) - Has trained over 1600 early-stage clean technology startup entrepreneurs through its annual business accelerator.
+* [Silicon Climate](https://www.siliconclimate.org/) - Silicon Climate is a non-profit that empowers entrepreneurs to build and scale bold tech solutions in the fight against climate change.
+* [Startup Climate Action](https://www.startupclimateaction.com/) - A challenge-driven initiative by Sting and Norrsken aiming to create more fast-growing startups that contribute innovative and scalable solutions to combat climate change.
+* [Climate Founders](https://www.climatefounders.com/)  - Our mission is to empower these outlier individuals to become successful climate founders.
 
 
 ## Investment and Banking
@@ -51,8 +54,7 @@
 * [EcoSummit](https://ecosummit.net/) - Accelerates smart green startups in energy, mobility and cities to save our climate and planet.
 * [REScoop.eu](https://www.rescoop.eu/) - The European federation of citizen energy cooperatives.
 * [EU Islands](https://euislands.eu/) - We are a one-stop-shop for Europe’s island communities transitioning to clean energies.
-
-
+* [Climate Technology Centre and Network](https://www.ctc-n.org/) - The Centre promotes the accelerated transfer of environmentally sound technologies for low carbon and climate resilient development at the request of developing countries.
 
 
 ## Open Business Models 
