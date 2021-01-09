@@ -1,6 +1,15 @@
 <!--lint ignore awesome-toc awesome-contributing awesome-badge -->
 # Open Sustainable Business Development and Financing
 
+Resources and organizations that support open and sustainable innovation from a business perspective.
+Note that the organizations listed do not necessarily follow entirely open principles themselves.
+
+## Incubator and Hackathon
+## Accelerator
+## Venture Capital and Grants
+## Open Business Models
+## Investment
+
 ## Grant and Funding
 * [Green Climate Fund](https://www.greenclimate.fund/) - Has given a major boost to climate finance for developing countries with the approval of over USD 1 billion of funding for low-emission, climate-resilient development.
 * [AI for Earth grants](https://www.microsoft.com/en-us/ai/ai-for-earth-grants) - Awards grants to support projects that use AI to change the way people and organizations monitor, model, and manage Earth’s natural systems.
