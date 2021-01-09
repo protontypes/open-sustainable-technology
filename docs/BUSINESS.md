@@ -2,22 +2,10 @@
 # Open Sustainable Business Development and Financing
 
 Resources and organizations that support open and sustainable innovation from a business perspective.
-Note that the organizations listed do not necessarily follow entirely open principles themselves.
+Note that the listed entries do not necessarily follow entirely open principles themselves.
 
 ## Incubator and Hackathon
-## Accelerator
-## Venture Capital and Grants
-## Open Business Models
-## Investment
-
-## Grant and Funding
-* [Green Climate Fund](https://www.greenclimate.fund/) - Has given a major boost to climate finance for developing countries with the approval of over USD 1 billion of funding for low-emission, climate-resilient development.
-* [AI for Earth grants](https://www.microsoft.com/en-us/ai/ai-for-earth-grants) - Awards grants to support projects that use AI to change the way people and organizations monitor, model, and manage Earth’s natural systems.
-* [Green Bond Labs](https://impactisi.com/program/) - A gateway into alternative financing options for companies looking to raise capital to fund green projects or ventures anywhere.
-* [OGrants](https://www.ogrants.org/) - An increasing number of researchers are sharing their grant proposals openly.
-
-
-## Accelerators and Incubators
+## Accelerators
 * [Natural Climate Solutions Accelerator Grant Program](https://www.nature.org/en-us/what-we-do/our-priorities/tackle-climate-change/climate-change-stories/natural-climate-solutions-accelerator-grant/) - Through the generous support of the Doris Duke Charitable Foundation, The Nature Conservancy launched the U.S. Natural Climate Solutions Accelerator program in 2018 to support projects with potential to substantially increase the use of natural climate solutions.
 * [EIT Climate-KIC Accelerator](http://www.climate-kic-dach.org/) - All startups are eligible to attend our Bootcamp, Demo Day, Investors Dinner and Master Classes events that take place throughout the programme and have access to EIT Climate-KIC’s Europe-wide network of alumni, contacts, events and social media.
 * [EIT Climate-KIC](https://www.climate-kic.org/) - EIT Climate-KIC is a Knowledge and Innovation Community (KIC), working to accelerate the transition to a zero-carbon, climate-resilient society.
@@ -42,28 +30,18 @@ Note that the organizations listed do not necessarily follow entirely open princ
 * [Silicon Climate](https://www.siliconclimate.org/) - Silicon Climate is a non-profit that empowers entrepreneurs to build and scale bold tech solutions in the fight against climate change.
 * [Startup Climate Action](https://www.startupclimateaction.com/) - A challenge-driven initiative by Sting and Norrsken aiming to create more fast-growing startups that contribute innovative and scalable solutions to combat climate change.
 * [Climate Founders](https://www.climatefounders.com/)  - Our mission is to empower these outlier individuals to become successful climate founders.
+## Venture Capital and Grants
+* [Green Climate Fund](https://www.greenclimate.fund/) - Has given a major boost to climate finance for developing countries with the approval of over USD 1 billion of funding for low-emission, climate-resilient development.
+* [AI for Earth grants](https://www.microsoft.com/en-us/ai/ai-for-earth-grants) - Awards grants to support projects that use AI to change the way people and organizations monitor, model, and manage Earth’s natural systems.
+* [Green Bond Labs](https://impactisi.com/program/) - A gateway into alternative financing options for companies looking to raise capital to fund green projects or ventures anywhere.
+* [OGrants](https://www.ogrants.org/) - An increasing number of researchers are sharing their grant proposals openly.
 
+## Open Business Models
 
-## Investment and Banking
+## Investment
 * [Climatescope](https://global-climatescope.org/) - A unique country-by-country assessment, interactive report and index that evaluates the investment conditions for clean energy in emerging markets.
 * [EVERCITY](https://evercity.io/) - We help to attain UN Agenda 2030 by enabling impact funds & banks to increase impact measurement accuracy, efficiency of portfolio management & liquidity of impact investments.
 * [Green Bank Network](https://greenbanknetwork.org/) - Connects leaders in clean energy finance, shares best practices and supports investment in clean energy solutions.
 * [CEIA](https://www.cleanenergyinvest.org/) - The Clean Energy Investment Accelerator.
 * [Earthshot](http://www.earthshotclimate.com/) - The first investing platform for natural climate solutions.
 * [Diamond List](https://diamondlist.co/) - Ask leading climate investors to spotlight the strongest early stage climate companies so that they could reach high risk capital and get to scale and profit faster.
-
-## Consulting
-* [Climate Impact Forecast](https://impactforecast.org/) - Every impact entrepreneur can forecast their innovation's footprint within an hour.
-
-
-## Conferences and Hackathons 
-
-## Cooperatives and Networks
-* [Digital Public Goods Alliance](https://digitalpublicgoods.net/) - A multi-stakeholder initiative to accelerate the attainment of the sustainable development goals in low- and middle-income countries by facilitating the discovery, development, use of and investment in digital public goods.
-* [EcoSummit](https://ecosummit.net/) - Accelerates smart green startups in energy, mobility and cities to save our climate and planet.
-* [REScoop.eu](https://www.rescoop.eu/) - The European federation of citizen energy cooperatives.
-* [EU Islands](https://euislands.eu/) - We are a one-stop-shop for Europe’s island communities transitioning to clean energies.
-* [Climate Technology Centre and Network](https://www.ctc-n.org/) - The Centre promotes the accelerated transfer of environmentally sound technologies for low carbon and climate resilient development at the request of developing countries.
-
-
-## Open Business Models 
