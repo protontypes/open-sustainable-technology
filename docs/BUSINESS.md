@@ -36,20 +36,33 @@ __Projects and organizations that support sustainable innovation from a business
 * [Startup Climate Action](https://www.startupclimateaction.com/) - A challenge-driven initiative by Sting and Norrsken aiming to create more fast-growing startups that contribute innovative and scalable solutions to combat climate change.
 * [Climate Founders](https://www.climatefounders.com/)  - Our mission is to empower these outlier individuals to become successful climate founders.
 * [INCO](https://inco-group.co/) - A global organization that is building in 50 countries a new economy that is environmentally sustainable and socially responsible.
+* [The Fashion for Good Accelerator](https://fashionforgood.com/accelerator-programme/) - The ultimate programme for startups driving innovation in sustainability, circularity and transparency to make all fashion good.
+* [Smart Green](https://smartgreen-accelerator.de/) - We accelerate green economy startups with effective programs, targeted industry collaboration building, and access to exclusive financing tools.
+* [RESPOND 2021](https://respond-accelerator.com/apply/) - We work with entrepreneurs across the globe to accelerate sustainable business models, drive innovation, and empower responsible leadership.
+* [Nordic Innovation](https://www.nordicinnovation.org/) - Aims to make the Nordics a pioneering region for sustainable growth and works to promote entrepreneurship, innovation and competitiveness in Nordic business.
+* [Catalyzing Cleantech Innovations](https://www.rockstart.com/energy/) - Berytech is catalyzing cleantech innovations through a yearly three-phase program that allows cleantech entrepreneurs grow their startup from an idea into a scalable business.
+* [Sustainable Venture](https://www.sustainableventures.co.uk/) - We develop, invest in and create workspaces for sustainable businesses.
+
 
 ## Venture Capital and Grants
+* [Freeing Energy](https://www.freeingenergy.com/list-of-cleantech-investors/) - The definitive list of cleantech investors.
 * [Green Climate Fund](https://www.greenclimate.fund/) - Has given a major boost to climate finance for developing countries with the approval of over USD 1 billion of funding for low-emission, climate-resilient development.
 * [AI for Earth grants](https://www.microsoft.com/en-us/ai/ai-for-earth-grants) - Awards grants to support projects that use AI to change the way people and organizations monitor, model, and manage Earth’s natural systems.
 * [Green Bond Labs](https://impactisi.com/program/) - A gateway into alternative financing options for companies looking to raise capital to fund green projects or ventures anywhere.
 * [OGrants](https://www.ogrants.org/) - An increasing number of researchers are sharing their grant proposals openly.
 * [EIT InnoEnergy](https://www.innoenergy.com/) - Supporting sustainable energy innovations which provide industry with risk free, pioneering new technologies that reduce energy costs, increase system performance, decrease greenhouse gas (GHG) emissions, create jobs, and increase competitiveness.
-
-## Investment
+* [Global Sustainability Coalition for Open Science Services](https://scoss.org/need-funding-for-open-infra/) - The purpose is to help identify non-commercial services essential to Open Science, and to make qualified recommendations on which of these services should be considered for funding support.
+* [Green Angel Syndicate](https://greenangelsyndicate.com/) - Green Angel Syndicate is the only angel investment syndicate in the UK specialising in the fight against Climate Change and Global Warming.
+* [E8 community](https://www.e8angels.com/) - Accelerates the transition to a prosperous and cleaner world by investing in and fostering emerging cleantech enterprises.
 * [Climatescope](https://global-climatescope.org/) - A unique country-by-country assessment, interactive report and index that evaluates the investment conditions for clean energy in emerging markets.
 * [EVERCITY](https://evercity.io/) - We help to attain UN Agenda 2030 by enabling impact funds & banks to increase impact measurement accuracy, efficiency of portfolio management & liquidity of impact investments.
 * [Green Bank Network](https://greenbanknetwork.org/) - Connects leaders in clean energy finance, shares best practices and supports investment in clean energy solutions.
 * [CEIA](https://www.cleanenergyinvest.org/) - The Clean Energy Investment Accelerator.
 * [Earthshot](http://www.earthshotclimate.com/) - The first investing platform for natural climate solutions.
 * [Diamond List](https://diamondlist.co/) - Ask leading climate investors to spotlight the strongest early stage climate companies so that they could reach high risk capital and get to scale and profit faster.
+* [CleanTech Capital](https://www.cltcap.net/) - An international corporate & project finance and mergers & acquisitions firm for clean technologies and renewable energies with operations in Europe, North America and South America.
+* [Clean Energy Ventures](https://cleanenergyventures.com/) - At Clean Energy Ventures, we invest in companies commercializing disruptive advanced energy technologies and business model innovations.
+* [Spring Lane Capital](https://www.springlanecapital.com/) - We focus on solutions that have significantly positive impacts on the sustainability of our natural resources.
+
 
 ## Open Business Models
