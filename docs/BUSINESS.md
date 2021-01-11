@@ -46,6 +46,7 @@ __Projects and organizations that support sustainable innovation from a business
 
 ## Venture Capital and Grants
 * [Freeing Energy](https://www.freeingenergy.com/list-of-cleantech-investors/) - The definitive list of cleantech investors.
+* [climatehub.io](https://climatehub.io/) - Join a community of investors and startups on ClimateHub working to solve our generation's most difficult climate challenges.
 * [Green Climate Fund](https://www.greenclimate.fund/) - Has given a major boost to climate finance for developing countries with the approval of over USD 1 billion of funding for low-emission, climate-resilient development.
 * [AI for Earth grants](https://www.microsoft.com/en-us/ai/ai-for-earth-grants) - Awards grants to support projects that use AI to change the way people and organizations monitor, model, and manage Earth’s natural systems.
 * [Green Bond Labs](https://impactisi.com/program/) - A gateway into alternative financing options for companies looking to raise capital to fund green projects or ventures anywhere.
