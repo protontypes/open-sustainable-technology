@@ -3,7 +3,7 @@
 
 __Projects and organizations that support sustainable innovation from a business perspective. Note that the listed entries do not necessarily follow entirely open principles themselves.__
 
-## Incubator and Hackathon
+## Incubators and Hackathons
 * [Greentown Labs](https://greentownlabs.com/) - Solving the climate crisis through entrepreneurship and collaboration.
 * [Earth Hacks](https://earthhacks.io/) - Works with college students and organizations to host environmental hackathons focused on creating innovative, equitable, and just solutions to the climate crisis.
 * [Hack for the Future](https://www.hackforfuture.eu/) - Join us and hack sustainability by creating innovative tech solutions that can make a difference today.
