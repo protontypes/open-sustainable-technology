@@ -74,6 +74,7 @@ __Projects and organizations that support sustainable innovation from a business
 * [open-funding](https://github.com/ralphtheninja/open-funding) - This document aims to be an open guide to funding of open source projects.
 * [Open Source Guides](https://opensource.guide/getting-paid/) - Sustain your work in open source by getting financial support for your time or your project.
 * [Alfred P. Sloan Foundation](https://sloan.org/programs/digital-technology) - The Foundation awards approximately 200 grants per year totaling roughly $80 million dollars in annual commitments in support of research and education in science, technology, engineering, mathematics, and economics.
+* [Runa](https://runacap.com/ross-index/) - Actively invests in Open Source startups and considers an active developer community to be instrumental for open-source businesses.
 
 
 ## Open Business Models
@@ -82,3 +83,4 @@ __Projects and organizations that support sustainable innovation from a business
 * [Business models for open-source software](https://en.wikipedia.org/wiki/Business_models_for_open-source_software) - Companies whose business center on the development of open-source software employ a variety of business models to solve the challenge of how to make money providing software that is by definition licensed free of charge
 * [Sustainable Free and Open Source Communities](https://sfosc.org/docs/business-models/) - An overview of the various open source business models, with examples of companies that use them.
 * [Open-core model](https://en.wikipedia.org/wiki/Open-core_model) - The open-core model is a business model for the monetization of commercially produced open-source software.
+* [COSS](https://docs.google.com/spreadsheets/d/17nKMpi_Dh5slCqzLSFBoWMxNvWiwt2R-t4e_l7LPLhU/edit#gid=0) - Commercial open-source software company index
