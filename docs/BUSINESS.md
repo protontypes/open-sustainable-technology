@@ -45,6 +45,8 @@ __Projects and organizations that support sustainable innovation from a business
 
 
 ## Venture Capital and Grants
+
+### Green and Cleantech
 * [Freeing Energy](https://www.freeingenergy.com/list-of-cleantech-investors/) - The definitive list of cleantech investors.
 * [climatehub.io](https://climatehub.io/) - Join a community of investors and startups on ClimateHub working to solve our generation's most difficult climate challenges.
 * [Green Climate Fund](https://www.greenclimate.fund/) - Has given a major boost to climate finance for developing countries with the approval of over USD 1 billion of funding for low-emission, climate-resilient development.
@@ -65,5 +67,6 @@ __Projects and organizations that support sustainable innovation from a business
 * [Clean Energy Ventures](https://cleanenergyventures.com/) - At Clean Energy Ventures, we invest in companies commercializing disruptive advanced energy technologies and business model innovations.
 * [Spring Lane Capital](https://www.springlanecapital.com/) - We focus on solutions that have significantly positive impacts on the sustainability of our natural resources.
 
+### Open Source 
 
 ## Open Business Models
