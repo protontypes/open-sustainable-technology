@@ -68,5 +68,6 @@ __Projects and organizations that support sustainable innovation from a business
 * [Spring Lane Capital](https://www.springlanecapital.com/) - We focus on solutions that have significantly positive impacts on the sustainability of our natural resources.
 
 ### Open Source 
+* [Shuttleworth Foundation](https://shuttleworthfoundation.org/) - An experiment in open philanthropy and uses alternative funding methodologies and collaborative ways of working to ensure that every fellow receives the necessary support to succeed.
 
 ## Open Business Models
