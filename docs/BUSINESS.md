@@ -54,7 +54,6 @@ __Projects and organizations that support sustainable innovation from a business
 * [Green Bond Labs](https://impactisi.com/program/) - A gateway into alternative financing options for companies looking to raise capital to fund green projects or ventures anywhere.
 * [OGrants](https://www.ogrants.org/) - An increasing number of researchers are sharing their grant proposals openly.
 * [EIT InnoEnergy](https://www.innoenergy.com/) - Supporting sustainable energy innovations which provide industry with risk free, pioneering new technologies that reduce energy costs, increase system performance, decrease greenhouse gas (GHG) emissions, create jobs, and increase competitiveness.
-* [Global Sustainability Coalition for Open Science Services](https://scoss.org/need-funding-for-open-infra/) - The purpose is to help identify non-commercial services essential to Open Science, and to make qualified recommendations on which of these services should be considered for funding support.
 * [Green Angel Syndicate](https://greenangelsyndicate.com/) - Green Angel Syndicate is the only angel investment syndicate in the UK specialising in the fight against Climate Change and Global Warming.
 * [E8 community](https://www.e8angels.com/) - Accelerates the transition to a prosperous and cleaner world by investing in and fostering emerging cleantech enterprises.
 * [Climatescope](https://global-climatescope.org/) - A unique country-by-country assessment, interactive report and index that evaluates the investment conditions for clean energy in emerging markets.
@@ -69,5 +68,17 @@ __Projects and organizations that support sustainable innovation from a business
 
 ### Open Source 
 * [Shuttleworth Foundation](https://shuttleworthfoundation.org/) - An experiment in open philanthropy and uses alternative funding methodologies and collaborative ways of working to ensure that every fellow receives the necessary support to succeed.
+* [Global Sustainability Coalition for Open Science Services](https://scoss.org/need-funding-for-open-infra/) - The purpose is to help identify non-commercial services essential to Open Science, and to make qualified recommendations on which of these services should be considered for funding support.
+* [prototypefund](https://prototypefund.de/en/) - We fund Public Interest Tech.
+* [oss.fund](https://www.oss.fund/) - Monetization Platforms for Open Source Creators.
+* [open-funding](https://github.com/ralphtheninja/open-funding) - This document aims to be an open guide to funding of open source projects.
+* [Open Source Guides](https://opensource.guide/getting-paid/) - Sustain your work in open source by getting financial support for your time or your project.
+* [Alfred P. Sloan Foundation](https://sloan.org/programs/digital-technology) - The Foundation awards approximately 200 grants per year totaling roughly $80 million dollars in annual commitments in support of research and education in science, technology, engineering, mathematics, and economics.
+
 
 ## Open Business Models
+* [Open Source: From Community to Commercialization](https://a16z.com/2019/10/04/commercializing-open-source/) - Peter Levine has been working with open source as a developer, entrepreneur, and investor for more than thirty years. He gave a talk that drew on his own experiences as well as interviews with dozens of open source experts.
+* [Awesome Paid Open Source](https://github.com/mrjoelkemp/awesome-paid-open-source) - Collection of links around paid/sustainable open source development.
+* [Business models for open-source software](https://en.wikipedia.org/wiki/Business_models_for_open-source_software) - Companies whose business center on the development of open-source software employ a variety of business models to solve the challenge of how to make money providing software that is by definition licensed free of charge
+* [Sustainable Free and Open Source Communities](https://sfosc.org/docs/business-models/) - An overview of the various open source business models, with examples of companies that use them.
+* [Open-core model](https://en.wikipedia.org/wiki/Open-core_model) - The open-core model is a business model for the monetization of commercially produced open-source software.
