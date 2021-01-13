@@ -45,6 +45,7 @@ __Projects and organizations that support sustainable innovation from a business
 * [CISL Accelerator and Sustainability Hub](https://www.cisl.cam.ac.uk/work-with-us/accelerator-and-sustainability-hub) - Supports small businesses, innovators and entrepreneurs to push boundaries in sustainability, building a new wave of adaptive, just and future-fit business.
 * [The DeltaClimeVT](https://deltaclimevt.com/) - A business accelerator providing startup support, mentorship, and access to capital for climate economy entrepreneurs.
 * [Climate Ventures](https://climateventures.org/earthtech/) - Home to the entrepreneurs, innovators, and advocates working on climate solutions and climate justice.
+* [LACI](https://laincubator.org/) - Hands-on program to support cleantech startups in Southern California through market access and business services.
 
 
 ## Venture Capital and Grants
