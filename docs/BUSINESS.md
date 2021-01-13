@@ -51,6 +51,8 @@ __Projects and organizations that support sustainable innovation from a business
 * [GCxN](https://gcxnrel.com/) - Provides promising cleantech start-ups with access to financial resources, state-of-the-art facilities, and world-class technical experts.
 * [CalSEED](https://calseed.fund/) - The California Sustainable Energy Entrepreneur Development Initiative (CalSEED) is a $24m grant program created to help early stage California clean energy startups bring their concepts and prototypes to market.
 * [Clean Energy Trust](https://www.cleanenergytrust.org/) - Dedicated to accelerating climate technology in the Mid-Continent region of the United States.
+* [BIA Smart City Hub](https://www.futurecityincubator.com/) - By catalyzing urban innovation and smart cities, we aim to create meaningful  impact especially through data-driven business models in the areas of health, infrastructure, green tech, energy, and retail.
+* [Future Energy Ventures](https://fev.vc/) - A unique venture capital platform that brings together corporate partners and world-class start-ups to shape the future energy landscape.
 
 
 ## Venture Capital and Grants
