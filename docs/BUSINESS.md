@@ -49,6 +49,8 @@ __Projects and organizations that support sustainable innovation from a business
 * [URBAN-X](https://www.urban-x.com/) - Our 20-week accelerator program equips startups facing the unique challenges of working with and in cities.
 * [Powerhouse](https://www.powerhouse.fund/) - Our firm partners with corporations and investors to help them find and engage with cutting-edge startups, tap into proprietary market insights, and lead the next century of clean technology innovation.
 * [GCxN](https://gcxnrel.com/) - Provides promising cleantech start-ups with access to financial resources, state-of-the-art facilities, and world-class technical experts.
+* [CalSEED](https://calseed.fund/) - The California Sustainable Energy Entrepreneur Development Initiative (CalSEED) is a $24m grant program created to help early stage California clean energy startups bring their concepts and prototypes to market.
+* [Clean Energy Trust](https://www.cleanenergytrust.org/) - Dedicated to accelerating climate technology in the Mid-Continent region of the United States.
 
 
 ## Venture Capital and Grants
