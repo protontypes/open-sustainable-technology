@@ -544,6 +544,8 @@ _"For technology to be truly sustainable, it must be globally available, open an
 - [BioSTEAM_LCA](https://github.com/scyjth/biosteam_lca) - An agile life cycle assessment platform that enables a fast and flexible evaluation of the life cycle environmental impacts of biorefineries under uncertainty.
 - [lca_algebraic](https://github.com/oie-mines-paristech/lca_algebraic) - A small layer above brightway2, designed for the definition of parametric inventories with fast computation of LCA impacts, suitable for monte-carlo analyis.
 - [Federal LCA Commons](https://www.lcacommons.gov/) - A central point of access to a collection of data repositories for use in Life Cycle Assessment.
+- [Trase](https://github.com/Vizzuality/trase) - Brings unprecedented transparency to commodity supply chains revealing new pathways towards achieving a deforestation-free economy.
+
 
 ### Circular Economy and Waste
 
@@ -630,6 +632,7 @@ _"For technology to be truly sustainable, it must be globally available, open an
 - [Global Reforestation Opportunity Assessment](https://github.com/forc-db/GROA) - Quantify carbon sequestration in naturally regenerating forests around the world.
 - [Plant-for-the-Planet](https://github.com/Plant-for-the-Planet-org/treecounter-app) - Allows you to plant trees with over 100 reforestation projects around the world.
 - [Annotation Interface for Data-driven Ecology](https://github.com/microsoft/aerial_wildlife_detection) - Tools for detecting wildlife in aerial images using active learning.
+
 
 ### Ice and Poles
 
