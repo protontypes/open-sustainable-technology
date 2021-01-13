@@ -69,6 +69,7 @@ __Projects and organizations that support sustainable innovation from a business
 * [Clean Energy Ventures](https://cleanenergyventures.com/) - At Clean Energy Ventures, we invest in companies commercializing disruptive advanced energy technologies and business model innovations.
 * [Spring Lane Capital](https://www.springlanecapital.com/) - We focus on solutions that have significantly positive impacts on the sustainability of our natural resources.
 * [Bethnal Green Ventures](https://bethnalgreenventures.com/) - We invest in ambitious founders using technology to tackle big social and environmental problems that aim to radically improve millions of lives.
+* [VC Sustainability Clause](https://lfca.earth/sustainability-clause) - Together with our members from the venture capital industry, we have evolved our Green Pledge into what we call  “The Sustainability Clause”.
 
 
 ### Open Source 
