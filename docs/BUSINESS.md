@@ -53,6 +53,7 @@ __Projects and organizations that support sustainable innovation from a business
 * [Clean Energy Trust](https://www.cleanenergytrust.org/) - Dedicated to accelerating climate technology in the Mid-Continent region of the United States.
 * [BIA Smart City Hub](https://www.futurecityincubator.com/) - By catalyzing urban innovation and smart cities, we aim to create meaningful  impact especially through data-driven business models in the areas of health, infrastructure, green tech, energy, and retail.
 * [Future Energy Ventures](https://fev.vc/) - A unique venture capital platform that brings together corporate partners and world-class start-ups to shape the future energy landscape.
+* [GreenTec Capital Partners](https://greentec-capital.com/) - Invests in African start-ups and SMEs with a focus on combining social and environmental impact with financial success.
 
 
 ## Venture Capital and Grants
