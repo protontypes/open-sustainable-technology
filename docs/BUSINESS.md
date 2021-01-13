@@ -46,6 +46,9 @@ __Projects and organizations that support sustainable innovation from a business
 * [The DeltaClimeVT](https://deltaclimevt.com/) - A business accelerator providing startup support, mentorship, and access to capital for climate economy entrepreneurs.
 * [Climate Ventures](https://climateventures.org/earthtech/) - Home to the entrepreneurs, innovators, and advocates working on climate solutions and climate justice.
 * [LACI](https://laincubator.org/) - Hands-on program to support cleantech startups in Southern California through market access and business services.
+* [URBAN-X](https://www.urban-x.com/) - Our 20-week accelerator program equips startups facing the unique challenges of working with and in cities.
+* [Powerhouse](https://www.powerhouse.fund/) - Our firm partners with corporations and investors to help them find and engage with cutting-edge startups, tap into proprietary market insights, and lead the next century of clean technology innovation.
+* [GCxN](https://gcxnrel.com/) - Provides promising cleantech start-ups with access to financial resources, state-of-the-art facilities, and world-class technical experts.
 
 
 ## Venture Capital and Grants
@@ -71,6 +74,7 @@ __Projects and organizations that support sustainable innovation from a business
 * [Spring Lane Capital](https://www.springlanecapital.com/) - We focus on solutions that have significantly positive impacts on the sustainability of our natural resources.
 * [Bethnal Green Ventures](https://bethnalgreenventures.com/) - We invest in ambitious founders using technology to tackle big social and environmental problems that aim to radically improve millions of lives.
 * [VC Sustainability Clause](https://lfca.earth/sustainability-clause) - Together with our members from the venture capital industry, we have evolved our Green Pledge into what we call  “The Sustainability Clause”.
+* [Prelude Ventures](https://www.preludeventures.com/) - Prelude Ventures is a venture capital firm partnering with entrepreneurs to address climate change.
 
 
 ### Open Source 
