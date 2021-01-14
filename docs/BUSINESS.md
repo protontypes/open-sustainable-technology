@@ -26,7 +26,6 @@ __Projects and organizations that consider themselves sustainable or environment
 * [Nordic Innovation](https://www.nordicinnovation.org/) - Aims to make the Nordics a pioneering region for sustainable growth and works to promote entrepreneurship, innovation and competitiveness in Nordic business.
 * [LACI](https://laincubator.org/) - Hands-on program to support cleantech startups in Southern California through market access and business services.
 * [Powerhouse](https://www.powerhouse.fund/) - Our firm partners with corporations and investors to help them find and engage with cutting-edge startups, tap into proprietary market insights, and lead the next century of clean technology innovation.
-* [Bethnal Green Ventures](https://bethnalgreenventures.com/) - We invest in ambitious founders using technology to tackle big social and environmental problems that aim to radically improve millions of lives.
 * [Cleantech Open](https://www.cleantechopen.org/en/) - Has trained over 1600 early-stage clean technology startup entrepreneurs through its annual business accelerator.
 * [Catalyzing Cleantech Innovations](https://www.rockstart.com/energy/) - Berytech is catalyzing cleantech innovations through a yearly three-phase program that allows cleantech entrepreneurs grow their startup from an idea into a scalable business.
 * [Sustainable Venture](https://www.sustainableventures.co.uk/) - We develop, invest in and create workspaces for sustainable businesses.
@@ -37,11 +36,11 @@ __Projects and organizations that consider themselves sustainable or environment
 ### Environment and Climate
 
 * [Natural Climate Solutions Accelerator Grant Program](https://www.nature.org/en-us/what-we-do/our-priorities/tackle-climate-change/climate-change-stories/natural-climate-solutions-accelerator-grant/) - Through the generous support of the Doris Duke Charitable Foundation, The Nature Conservancy launched the U.S. Natural Climate Solutions Accelerator program in 2018 to support projects with potential to substantially increase the use of natural climate solutions.
-* [EIT Climate-KIC Accelerator](http://www.climate-kic-dach.org/) - All startups are eligible to attend our Bootcamp, Demo Day, Investors Dinner and Master Classes events that take place throughout the programme and have access to EIT Climate-KIC’s Europe-wide network of alumni, contacts, events and social media.
+* [EIT Climate-KIC Accelerator](http://www.climate-kic-dach.org/) - All startups are eligible to attend our Bootcamp, Demo Day, Investors Dinner and Master Classes events that take place throughout the programme and have access to EIT Climate-KIC's Europe-wide network of alumni, contacts, events and social media.
 * [EIT Climate-KIC](https://www.climate-kic.org/) - EIT Climate-KIC is a Knowledge and Innovation Community (KIC), working to accelerate the transition to a zero-carbon, climate-resilient society.
 * [Silicon Climate](https://www.siliconclimate.org/) - Silicon Climate is a non-profit that empowers entrepreneurs to build and scale bold tech solutions in the fight against climate change.
 * [Startup Climate Action](https://www.startupclimateaction.com/) - A challenge-driven initiative by Sting and Norrsken aiming to create more fast-growing startups that contribute innovative and scalable solutions to combat climate change.
-* [Climate Founders](https://www.climatefounders.com/)  - Our mission is to empower these outlier individuals to become successful climate founders.
+* [Climate Founders](https://www.climatefounders.com/) - Our mission is to empower these outlier individuals to become successful climate founders.
 * [Climate Ventures](https://climateventures.org/earthtech/) - Home to the entrepreneurs, innovators, and advocates working on climate solutions and climate justice.
 * [The DeltaClimeVT](https://deltaclimevt.com/) - A business accelerator providing startup support, mentorship, and access to capital for climate economy entrepreneurs.
 * [Carbon13](https://carbonthirteen.com/) - We bring together talented founders with experts, experienced entrepreneurs and investors to build and invest in ventures that can make significant impact on CO2e emissions.
@@ -69,7 +68,7 @@ __Projects and organizations that consider themselves sustainable or environment
 
 ### Urban Living
 
-* [Urban Future Lab](http://ufl.nyc/) - We are leading the way to a more sustainable world by connecting people, capital, and purpose to advance market-ready solutions to address climate change
+* [Urban Future Lab](http://ufl.nyc/) - We are leading the way to a more sustainable world by connecting people, capital, and purpose to advance market-ready solutions to address climate change.
 * [URBAN-X](https://www.urban-x.com/) - Our 20-week accelerator program equips startups facing the unique challenges of working with and in cities.
 * [BIA Smart City Hub](https://www.futurecityincubator.com/) - By catalyzing urban innovation and smart cities, we aim to create meaningful  impact especially through data-driven business models in the areas of health, infrastructure, green tech, energy, and retail.
 
@@ -81,7 +80,7 @@ __Projects and organizations that consider themselves sustainable or environment
 * [Freeing Energy](https://www.freeingenergy.com/list-of-cleantech-investors/) - The definitive list of cleantech investors.
 * [climatehub.io](https://climatehub.io/) - A community of investors and startups on ClimateHub working to solve our generation's most difficult climate challenges.
 * [Green Climate Fund](https://www.greenclimate.fund/) - Has given a major boost to climate finance for developing countries with the approval of over USD 1 billion of funding for low-emission, climate-resilient development.
-* [AI for Earth grants](https://www.microsoft.com/en-us/ai/ai-for-earth-grants) - Awards grants to support projects that use AI to change the way people and organizations monitor, model, and manage Earth’s natural systems.
+* [AI for Earth grants](https://www.microsoft.com/en-us/ai/ai-for-earth-grants) - Awards grants to support projects that use AI to change the way people and organizations monitor, model, and manage Earth's natural systems.
 * [Green Bond Labs](https://impactisi.com/program/) - A gateway into alternative financing options for companies looking to raise capital to fund green projects or ventures anywhere.
 * [OGrants](https://www.ogrants.org/) - An increasing number of researchers are sharing their grant proposals openly.
 * [Green Angel Syndicate](https://greenangelsyndicate.com/) - Green Angel Syndicate is the only angel investment syndicate in the UK specialising in the fight against Climate Change and Global Warming.
@@ -96,7 +95,7 @@ __Projects and organizations that consider themselves sustainable or environment
 * [VC Sustainability Clause](https://lfca.earth/sustainability-clause) - Together with our members from the venture capital industry, we have evolved our Green Pledge into what we call  “The Sustainability Clause”.
 * [Prelude Ventures](https://www.preludeventures.com/) - Prelude Ventures is a venture capital firm partnering with entrepreneurs to address climate change.
 * [Pale Blue Dot](https://www.paleblue.vc/) - A climate-tech venture fund investing in companies that reduce and reverse the effects of climate change and prepare for a new world.
-* [ArcTern Ventures](https://www.arcternventures.com/) - Investing in entrepreneurs obsessed with solving humanity’s greatest challenges — climate change and sustainability.
+* [ArcTern Ventures](https://www.arcternventures.com/) - Investing in entrepreneurs obsessed with solving humanity's greatest challenges — climate change and sustainability.
 * [Breakthrough Energy Ventures](https://www.breakthroughenergy.org/) - A group of investors looking for companies that turn green ideas into clean products and tools while also advocating for policies that speed innovation from lab to market.
 * [Buoyant Ventures](https://www.buoyant.vc/) - Early stage investors in digital solutions aimed at the the built environment, energy, mobility, agriculture and water industries.
 * [Climate Capital](https://www.climatecapital.co/) - Backing emissions reduction and adaptation.
@@ -106,9 +105,9 @@ __Projects and organizations that consider themselves sustainable or environment
 * [G2VP](https://www.g2vp.com/) - Investing in exceptional companies applying emerging technologies to traditional industries in novel, sustainable ways.
 * [Generation Investment Management](https://www.generationim.com/) - An investment firm that focuses on sustainable and long-term performance. Founded by Al Gore and David Blood.
 * [Greenhouse Capital Partners](http://greenhousecap.com/) - Investing growth capital in emerging businesses that promote health and sustainability to create a positive impact on people, communities, and the environment.
-* [Imperative Ventures](https://imperative.vc/) - A multi-stage venture capital firm focused on the planet’s imperative challenges. Investing in groundbreaking technologies in the energy and industrial sectors.
+* [Imperative Ventures](https://imperative.vc/) - A multi-stage venture capital firm focused on the planet's imperative challenges. Investing in groundbreaking technologies in the energy and industrial sectors.
 * [Lionheart Ventures](https://lionheart.vc/) - A global, seed-stage venture capital firm investing in companies that make humanity more resilient.
-* [Lowercarbon Capital](https://lowercarboncapital.com/) - Funding research and investing in technologies to reduce CO2 emissions, remove carbon from the atmosphere, and actively cool the planet. 
+* [Lowercarbon Capital](https://lowercarboncapital.com/) - Funding research and investing in technologies to reduce CO2 emissions, remove carbon from the atmosphere, and actively cool the planet.
 * [Prime Coalition](https://primecoalition.org/) - A public charity that partners with mission-aligned investors to support extraordinary companies that combat climate change, have a high likelihood of achieving commercial success, and would otherwise have a difficult time raising adequate financial support to scale.
 * [ReGen Ventures](https://regen.vc/) - An early-stage venture capital firm that invests in transformational companies created by visionary entrepreneurs who are deeply committed to creating a better future.
 * [The Westly Group](https://www.westlygroup.com/) - One of the largest venture funds in North America investing in startups led by exceptional teams to build sustainable, global technology companies.
@@ -129,7 +128,6 @@ __Projects and organizations that consider themselves sustainable or environment
 * [Contrarian Ventures](https://cventures.vc/) - Backing up ambitious and bold entrepreneurs that enable a sustainable energy transition.
 * [Green Bank Network](https://greenbanknetwork.org/) - Connects leaders in clean energy finance, shares best practices and supports investment in clean energy solutions.
 * [CEIA](https://www.cleanenergyinvest.org/) - The Clean Energy Investment Accelerator.
-* [Clean Energy Ventures](https://cleanenergyventures.com/) - At Clean Energy Ventures, we invest in companies commercializing disruptive advanced energy technologies and business model innovations.
 * [Energize Ventures](https://www.energize.vc/) - Partnering with entrepreneurs to advance the next generation of energy and industry.
 * [Energy Foundry](http://www.energyfoundry.com/) - Investing venture capital to build groundbreaking energy start-ups.
 * [Blackhorn Ventures](https://blackhornvc.com/) - Investing in companies that are redifining industrial resource efficiency.
@@ -157,8 +155,8 @@ __Projects and organizations that consider themselves sustainable or environment
 ## Open Business Models
 * [Open Source: From Community to Commercialization](https://a16z.com/2019/10/04/commercializing-open-source/) - Peter Levine has been working with open source as a developer, entrepreneur, and investor for more than thirty years. He gave a talk that drew on his own experiences as well as interviews with dozens of open source experts.
 * [Awesome Paid Open Source](https://github.com/mrjoelkemp/awesome-paid-open-source) - Collection of links around paid/sustainable open source development.
-* [Business models for open-source software](https://en.wikipedia.org/wiki/Business_models_for_open-source_software) - Companies whose business center on the development of open-source software employ a variety of business models to solve the challenge of how to make money providing software that is by definition licensed free of charge
+* [Business models for open-source software](https://en.wikipedia.org/wiki/Business_models_for_open-source_software) - Companies whose business center on the development of open-source software employ a variety of business models to solve the challenge of how to make money providing software that is by definition licensed free of charge.
 * [Sustainable Free and Open Source Communities](https://sfosc.org/docs/business-models/) - An overview of the various open source business models, with examples of companies that use them.
 * [Open-core model](https://en.wikipedia.org/wiki/Open-core_model) - The open-core model is a business model for the monetization of commercially produced open-source software.
 * [COSS](https://docs.google.com/spreadsheets/d/17nKMpi_Dh5slCqzLSFBoWMxNvWiwt2R-t4e_l7LPLhU/edit#gid=0) - Commercial open-source software company index.
-* [Roadmap: Open Source](https://www.bvp.com/atlas/roadmap-open-source) - After years of investing in open source software, we’re releasing our thinking on what positions these companies as emerging technology giants.
+* [Roadmap: Open Source](https://www.bvp.com/atlas/roadmap-open-source) - After years of investing in open source software, we're releasing our thinking on what positions these companies as emerging technology giants.
