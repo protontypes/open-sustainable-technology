@@ -1,7 +1,7 @@
 <!--lint ignore awesome-toc awesome-contributing awesome-badge -->
 # Sustainable Technology Communities
 
-Outstanding open communities developing independent and free sustainable technology.
+__Outstanding open communities developing independent and free sustainable technology.__
 
 - [openmod-initiative](https://forum.openmod-initiative.org/) - We believe that more openness in energy modelling increases transparency and credibility, reduces wasteful double-work and improves overall quality.
 - [SustainOSS](https://sustainoss.org/) - Sustainability doesn't just mean code. How can we make our work sustainable environmentally, too? How can we share our knowledge of open source with other groups in the world?
