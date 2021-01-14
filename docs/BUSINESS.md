@@ -8,7 +8,10 @@ __Projects and organizations that support sustainable innovation from a business
 * [Earth Hacks](https://earthhacks.io/) - Works with college students and organizations to host environmental hackathons focused on creating innovative, equitable, and just solutions to the climate crisis.
 * [Hack for the Future](https://www.hackforfuture.eu/) - Join us and hack sustainability by creating innovative tech solutions that can make a difference today.
 * [Climathon](https://climathon.climate-kic.org/) - Join a global community of change-makers and innovators working in their communities to help humanity achieve the zero emissions goal.
-
+* [BRITEhack 2021](https://brite.org/britehack-2021/#) - An energy-focused civic hackathon, where we invite talented individuals to make an impact for a meaningful organization in our community by solving a challenge they face.
+* [treehacks](https://www.treehacks.com/) - Hacking for the future: addressing deeply impactful problems and building creative, unique solutions.
+* [Energy and Climate Hack](https://opendata.ch/projects/energy-climate-hack_2021/) - In the lead-up to the global climate conference COP26 in Glasgow, a two-day hackathon will bring together young talents from Switzerland and the UK.
+* [Hoboken Climate Hackathon](https://www.hobokenclimate.com/) - The focus of the hack is to build solutions to help solve climate related problems in the city of Hoboken.
 
 ## Accelerators
 * [Natural Climate Solutions Accelerator Grant Program](https://www.nature.org/en-us/what-we-do/our-priorities/tackle-climate-change/climate-change-stories/natural-climate-solutions-accelerator-grant/) - Through the generous support of the Doris Duke Charitable Foundation, The Nature Conservancy launched the U.S. Natural Climate Solutions Accelerator program in 2018 to support projects with potential to substantially increase the use of natural climate solutions.
