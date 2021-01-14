@@ -104,6 +104,30 @@ __Projects and organizations that support sustainable innovation from a business
 * [The Westly Group](https://www.westlygroup.com/) - One of the largest venture funds in North America investing in startups led by exceptional teams to build sustainable, global technology companies.
 * []() - 
 
+### Food and Agriculture
+* [Acre Venture Partners](http://acre.vc/) - A venture capital fund investing in the future of food.
+* [AgFunder](https://agfunder.com/) - Investing in technologies to rapidly transform our food and agriculture system.
+* [Astanor](https://astanor.com/) - Investing to give rise to a future of food that is nourishing, regenerative, scalable, trusted and delicious.
+* []() - 
+
+### Energy
+* [Blue Bear Capital](https://bluebearcap.com/) - Investing in companies that accelerate the development of a profitable and sustainable energy future.
+* [Braemar Energy Ventures](http://www.braemarenergy.com/) - Making early, ahead-of-the-curve bets in transformative energy-tech and related companies which contribute to global sustainability and help combat climate change.
+* [Clean Energy Ventures](https://cleanenergyventures.com/) - Investing in companies commercializing disruptive advanced energy technologies and business model innovations.
+* [Contrarian Ventures](https://cventures.vc/) - Backing up ambitious and bold entrepreneurs that enable a sustainable energy transition.
+
+### Industrial
+* [Blackhorn Ventures](https://blackhornvc.com/) - Investing in companies that are redifining industrial resource efficiency.
+* [Chrysalix Venture Capital](https://chrysalix.com/) - Investing in intelligent systems, energy technology and resource productivity solutions to deliver outsized financial returns and environmental sustainability.
+
+### Water
+
+### Built Environment
+* [Building Ventures](https://buildingventures.com/) - Investing in companies that are reshaping the way we design, build, operate and experience our built environment.
+
+### Others
+* [Closed Loop Partners](https://www.closedlooppartners.com/) - A New York based investment firm that provides equity and project finance to scale products, services and infrastructure at the forefront of the development of the circular economy.
+
 ### Open Source 
 * [Shuttleworth Foundation](https://shuttleworthfoundation.org/) - An experiment in open philanthropy and uses alternative funding methodologies and collaborative ways of working to ensure that every fellow receives the necessary support to succeed.
 * [Global Sustainability Coalition for Open Science Services](https://scoss.org/need-funding-for-open-infra/) - The purpose is to help identify non-commercial services essential to Open Science, and to make qualified recommendations on which of these services should be considered for funding support.
