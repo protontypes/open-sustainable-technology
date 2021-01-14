@@ -2,7 +2,8 @@
 # Open Sustainable Technology
 [<img src="earth.gif" align="right" width="350"> <br>](https://tabletopwhale.com/)
 __Listing of global open technology projects to sustain a stable climate, energy supply, and vital natural resources.__ <br> <br>
-_"True sustainabilty is open" - [protontypes](https://protontypes.eu/)_<br> <br>  Your contribution is necessary to keep this list alive, increase the quality and to expand it. Read more about it's origin and how you can participate in the [contribution guide](CONTRIBUTING.md), [presentation slides](https://protontypes.eu/protontypes_open_sustainable_technology.pdf) and related [blog post](https://protontypes.eu/blog/2020/10/05/gathering-open-sustainable-technology/). Please [contact us](https://protontypes.eu/contact/) to give feedback, hints and ideas for [OpenSustain.tech](https://opensustain.tech/) or create a issue on GitHub. <br><br> [![](https://badgen.net/badge/icon/Community%20Support/green?icon=gitter&label&scale=1.5)](https://gitter.im/protontypes/community)
+_"True sustainabilty is open." - [protontypes](https://protontypes.eu/)_<br> <br>  Your contribution is necessary to keep this list alive, increase the quality and to expand it. Read more about it's origin and how you can participate in the [contribution guide](CONTRIBUTING.md), [presentation slides](https://protontypes.eu/protontypes_open_sustainable_technology.pdf) and related [blog post](https://protontypes.eu/blog/2020/10/05/gathering-open-sustainable-technology/). Please [contact us](https://protontypes.eu/contact/) to give feedback, hints and ideas for [OpenSustain.tech](https://opensustain.tech/) or create a issue on GitHub. <br><br> [![](https://badgen.net/badge/icon/Community%20Support/green?icon=gitter&label&scale=1.5)](https://gitter.im/protontypes/community)
+
 
 <!--toc-->
 ## Contents
@@ -544,6 +545,8 @@ _"True sustainabilty is open" - [protontypes](https://protontypes.eu/)_<br> <br>
 - [BioSTEAM_LCA](https://github.com/scyjth/biosteam_lca) - An agile life cycle assessment platform that enables a fast and flexible evaluation of the life cycle environmental impacts of biorefineries under uncertainty.
 - [lca_algebraic](https://github.com/oie-mines-paristech/lca_algebraic) - A small layer above brightway2, designed for the definition of parametric inventories with fast computation of LCA impacts, suitable for monte-carlo analyis.
 - [Federal LCA Commons](https://www.lcacommons.gov/) - A central point of access to a collection of data repositories for use in Life Cycle Assessment.
+- [Trase](https://github.com/Vizzuality/trase) - Brings unprecedented transparency to commodity supply chains revealing new pathways towards achieving a deforestation-free economy.
+
 
 ### Circular Economy and Waste
 
@@ -630,6 +633,9 @@ _"True sustainabilty is open" - [protontypes](https://protontypes.eu/)_<br> <br>
 - [Global Reforestation Opportunity Assessment](https://github.com/forc-db/GROA) - Quantify carbon sequestration in naturally regenerating forests around the world.
 - [Plant-for-the-Planet](https://github.com/Plant-for-the-Planet-org/treecounter-app) - Allows you to plant trees with over 100 reforestation projects around the world.
 - [Annotation Interface for Data-driven Ecology](https://github.com/microsoft/aerial_wildlife_detection) - Tools for detecting wildlife in aerial images using active learning.
+- [Pyrovision](https://github.com/pyronear/pyro-vision) - Wildfire detection system with minimal deployment cost.
+- [Pyronear Risks](https://github.com/pyronear/pyro-risks) - The pyro-risks project aims at providing the pyronear-platform with a machine learning based wildfire forecasting capability.
+
 
 ### Ice and Poles
 
@@ -857,7 +863,7 @@ _"True sustainabilty is open" - [protontypes](https://protontypes.eu/)_<br> <br>
 - [Open Source EMEP MSC-W model](https://github.com/metno/emep-ctm) - Designed to calculate air concentrations and deposition fields for major acidifying and eutrophying pollutants, photo-oxidants and particulate matter.
 - [Rpollution](https://github.com/williamorim/Rpollution) - The goal of Rpollution is to assemble R functions to analyze air pollution data.
 - [YETI](https://github.com/twollnik/YETI) - A bottom-up traffic emission calculation tool developed at the Institute for Advanced Sustainability Studies in Potsdam and built in Python.
-
+- [PM2.5-GNN](https://github.com/shawnwang-tech/PM2.5-GNN) - A Domain Knowledge Enhanced Graph Neural Network For PM2.5 Forecasting.
 
 ### Water
 
@@ -941,6 +947,7 @@ _"True sustainabilty is open" - [protontypes](https://protontypes.eu/)_<br> <br>
 - [CNN-SoilTextureClassification](https://github.com/felixriese/CNN-SoilTextureClassification) - 1-dimensional convolutional neural networks (CNN) for the classification of soil texture based on hyperspectral data.
 - [EarthML](https://github.com/pyviz-topics/EarthML) - Improving, documenting, and illustrating how to use other, freely available, general-purpose open source projects to solve problems in the earth sciences.
 - [STEP](http://step.esa.int/main/) - ESA is developing free open source toolboxes for the scientific exploitation of Earth Observation missions under the Scientific Exploitation of Operational Missions programme element.
+- [globsim](https://github.com/geocryology/globsim) - Using global reanalyses for permafrost simulation.
 
 ## Agriculture and Nutrition
 
