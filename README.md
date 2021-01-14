@@ -944,6 +944,7 @@ _"For technology to be truly sustainable, it must be globally available, open an
 - [CNN-SoilTextureClassification](https://github.com/felixriese/CNN-SoilTextureClassification) - 1-dimensional convolutional neural networks (CNN) for the classification of soil texture based on hyperspectral data.
 - [EarthML](https://github.com/pyviz-topics/EarthML) - Improving, documenting, and illustrating how to use other, freely available, general-purpose open source projects to solve problems in the earth sciences.
 - [STEP](http://step.esa.int/main/) - ESA is developing free open source toolboxes for the scientific exploitation of Earth Observation missions under the Scientific Exploitation of Operational Missions programme element.
+- [globsim](https://github.com/geocryology/globsim) - Using global reanalyses for permafrost simulation.
 
 ## Agriculture and Nutrition
 
