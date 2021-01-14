@@ -633,6 +633,7 @@ _"For technology to be truly sustainable, it must be globally available, open an
 - [Plant-for-the-Planet](https://github.com/Plant-for-the-Planet-org/treecounter-app) - Allows you to plant trees with over 100 reforestation projects around the world.
 - [Annotation Interface for Data-driven Ecology](https://github.com/microsoft/aerial_wildlife_detection) - Tools for detecting wildlife in aerial images using active learning.
 - [Pyrovision](https://github.com/pyronear/pyro-vision) - Wildfire detection system with minimal deployment cost.
+- [Pyronear Risks](https://github.com/pyronear/pyro-risks) - The pyro-risks project aims at providing the pyronear-platform with a machine learning based wildfire forecasting capability.
 
 
 ### Ice and Poles
