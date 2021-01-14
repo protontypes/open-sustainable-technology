@@ -860,7 +860,7 @@ _"For technology to be truly sustainable, it must be globally available, open an
 - [Open Source EMEP MSC-W model](https://github.com/metno/emep-ctm) - Designed to calculate air concentrations and deposition fields for major acidifying and eutrophying pollutants, photo-oxidants and particulate matter.
 - [Rpollution](https://github.com/williamorim/Rpollution) - The goal of Rpollution is to assemble R functions to analyze air pollution data.
 - [YETI](https://github.com/twollnik/YETI) - A bottom-up traffic emission calculation tool developed at the Institute for Advanced Sustainability Studies in Potsdam and built in Python.
-
+- [PM2.5-GNN](https://github.com/shawnwang-tech/PM2.5-GNN) - A Domain Knowledge Enhanced Graph Neural Network For PM2.5 Forecasting.
 
 ### Water
 
