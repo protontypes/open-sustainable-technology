@@ -84,7 +84,25 @@ __Projects and organizations that support sustainable innovation from a business
 * [Bethnal Green Ventures](https://bethnalgreenventures.com/) - We invest in ambitious founders using technology to tackle big social and environmental problems that aim to radically improve millions of lives.
 * [VC Sustainability Clause](https://lfca.earth/sustainability-clause) - Together with our members from the venture capital industry, we have evolved our Green Pledge into what we call  “The Sustainability Clause”.
 * [Prelude Ventures](https://www.preludeventures.com/) - Prelude Ventures is a venture capital firm partnering with entrepreneurs to address climate change.
-
+* [Pale Blue Dot](https://www.paleblue.vc/) - A climate-tech venture fund investing in companies that reduce and reverse the effects of climate change and prepare for a new world.
+* [ArcTern Ventures](https://www.arcternventures.com/) - Investing in entrepreneurs obsessed with solving humanity’s greatest challenges — climate change and sustainability.
+* [Breakthrough Energy Ventures](https://www.breakthroughenergy.org/) - A group of investors looking for companies that turn green ideas into clean products and tools while also advocating for policies that speed innovation from lab to market.
+* [Buoyant Ventures](https://www.buoyant.vc/) - Early stage investors in digital solutions aimed at the the built environment, energy, mobility, agriculture and water industries.
+* [Climate Capital](https://www.climatecapital.co/) - Backing emissions reduction and adaptation.
+* [Congruent Ventures](https://congruentvc.com/) - Creating the companies that will positively impact how we move, create, eat, and live.
+* [Cycle Capital](http://www.cyclecapital.com/) - Fostering a sustainable future through impact investment.
+* [The Jeremy & Hannolore Grantham Environmental Trust](http://www.granthamtrust.org/) - Supporting charities whose mission is environmental protection, with particular focus on the developing world.
+* [The Ecosystem Integrity Fund](https://ecosystemintegrity.com/) - Early growth stage investor in companies contributing to environmental sustainability.
+* [G2VP](https://www.g2vp.com/) - Investing in exceptional companies applying emerging technologies to traditional industries in novel, sustainable ways.
+* [Generation Investment Management](https://www.generationim.com/) - An investment firm that focuses on sustainable and long-term performance. Founded by Al Gore and David Blood.
+* [Greenhouse Capital Partners](http://greenhousecap.com/) - Investing growth capital in emerging businesses that promote health and sustainability to create a positive impact on people, communities, and the environment.
+* [Imperative Ventures](https://imperative.vc/) - A multi-stage venture capital firm focused on the planet’s imperative challenges. Investing in groundbreaking technologies in the energy and industrial sectors.
+* [Lionheart Ventures](https://lionheart.vc/) - A global, seed-stage venture capital firm investing in companies that make humanity more resilient.
+* [Lowercarbon Capital](https://lowercarboncapital.com/) - Funding research and investing in technologies to reduce CO2 emissions, remove carbon from the atmosphere, and actively cool the planet. 
+* [Prime Coalition](https://primecoalition.org/) - A public charity that partners with mission-aligned investors to support extraordinary companies that combat climate change, have a high likelihood of achieving commercial success, and would otherwise have a difficult time raising adequate financial support to scale.
+* [ReGen Ventures](https://regen.vc/) - An early-stage venture capital firm that invests in transformational companies created by visionary entrepreneurs who are deeply committed to creating a better future.
+* [The Westly Group](https://www.westlygroup.com/) - One of the largest venture funds in North America investing in startups led by exceptional teams to build sustainable, global technology companies.
+* []() - 
 
 ### Open Source 
 * [Shuttleworth Foundation](https://shuttleworthfoundation.org/) - An experiment in open philanthropy and uses alternative funding methodologies and collaborative ways of working to ensure that every fellow receives the necessary support to succeed.
