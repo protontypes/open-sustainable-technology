@@ -428,6 +428,7 @@ _"True sustainabilty is open." - [protontypes](https://protontypes.eu/)_<br> <br
 - [POMATO](https://github.com/richard-weinhold/pomato) - An easy to use tool for the comprehensive analysis of the modern electricity market.
 - [PowerGAMA](https://bitbucket.org/harald_g_svendsen/powergama/) - A lightweight simulation tool for high level analyses of renewable energy integration in large power systems.
 - [Power System Analysis Toolbox](http://faraday1.ucd.ie/psat.html) - A Matlab toolbox for electric power system analysis and simulation.
+- [USelectricity](https://github.com/RamiKrispin/USelectricity) - Forecast the US demand for electricity.
 
 ### Optimization
 
