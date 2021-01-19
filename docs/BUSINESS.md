@@ -150,6 +150,7 @@ __Projects and organizations that consider themselves sustainable or environment
 * [Open Source Guides](https://opensource.guide/getting-paid/) - Sustain your work in open source by getting financial support for your time or your project.
 * [Alfred P. Sloan Foundation](https://sloan.org/programs/digital-technology) - The Foundation awards approximately 200 grants per year totaling roughly 80 million USD in annual commitments in support of research and education in science, technology, engineering, mathematics, and economics.
 * [Runa](https://runacap.com/ross-index/) - Actively invests in Open Source startups and considers an active developer community to be instrumental for open-source businesses.
+* [Lemonade Stand](https://github.com/nayafia/lemonade-stand) - This document aims to provide an exhaustive list of all the ways that people get paid for open source work.
 
 
 ## Open Business Models
