@@ -635,6 +635,7 @@ _"True sustainabilty is open." - [protontypes](https://protontypes.eu/)_<br> <br
 - [Annotation Interface for Data-driven Ecology](https://github.com/microsoft/aerial_wildlife_detection) - Tools for detecting wildlife in aerial images using active learning.
 - [Pyrovision](https://github.com/pyronear/pyro-vision) - Wildfire detection system with minimal deployment cost.
 - [Pyronear Risks](https://github.com/pyronear/pyro-risks) - The pyro-risks project aims at providing the pyronear-platform with a machine learning based wildfire forecasting capability.
+- [Plant-for-the-Planet App](https://github.com/Plant-for-the-Planet-org/treecounter-app) - Plant-for-the-Planet App allows you to plant trees with over 100 reforestation projects around the world.
 
 
 ### Ice and Poles
