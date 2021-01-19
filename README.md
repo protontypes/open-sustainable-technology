@@ -224,6 +224,7 @@ _"True sustainabilty is open." - [protontypes](https://protontypes.eu/)_<br> <br
 - [Grid Singularity Energy Exchange Engine (D3A)](https://github.com/gridsingularity/d3a) - An interface and codebase to model, simulate, optimize and (coming soon) download and deploy a grid-aware energy exchange.
 - [Backbone](https://gitlab.vtt.fi/backbone/backbone) - A generic energy network optimization tool written in GAMS.
 - [APIS](https://github.com/SonyCSL/APIS) - Build a microgrid that utilizes variable renewable energy as the main power source and enhances the resilience of the power system.
+- [pymgrid](https://github.com/Total-RD/pymgrid) - A python library to generate and simulate a large number of microgrids.
 
 
 ## Energy Consumption and Efficiency
