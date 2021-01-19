@@ -79,6 +79,7 @@ __Projects and organizations that consider themselves sustainable or environment
 ### Environment and Climate
 * [Freeing Energy](https://www.freeingenergy.com/list-of-cleantech-investors/) - The definitive list of cleantech investors.
 * [climatehub.io](https://climatehub.io/) - A community of investors and startups on ClimateHub working to solve our generation's most difficult climate challenges.
+* [The Google.org Impact Challenge on Climate](https://impactchallenge.withgoogle.com/climate2020) - Commits €10M to fund bold ideas that aim to use technology to accelerate Europe’s progress toward a greener, more resilient future.
 * [Green Climate Fund](https://www.greenclimate.fund/) - Has given a major boost to climate finance for developing countries with the approval of over USD 1 billion of funding for low-emission, climate-resilient development.
 * [AI for Earth grants](https://www.microsoft.com/en-us/ai/ai-for-earth-grants) - Awards grants to support projects that use AI to change the way people and organizations monitor, model, and manage Earth's natural systems.
 * [Green Bond Labs](https://impactisi.com/program/) - A gateway into alternative financing options for companies looking to raise capital to fund green projects or ventures anywhere.
