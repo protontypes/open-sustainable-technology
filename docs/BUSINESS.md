@@ -111,6 +111,7 @@ __Projects and organizations that consider themselves sustainable or environment
 * [Prime Coalition](https://primecoalition.org/) - A public charity that partners with mission-aligned investors to support extraordinary companies that combat climate change, have a high likelihood of achieving commercial success, and would otherwise have a difficult time raising adequate financial support to scale.
 * [ReGen Ventures](https://regen.vc/) - An early-stage venture capital firm that invests in transformational companies created by visionary entrepreneurs who are deeply committed to creating a better future.
 * [The Westly Group](https://www.westlygroup.com/) - One of the largest venture funds in North America investing in startups led by exceptional teams to build sustainable, global technology companies.
+* [WCS Climate Adaptation Fund](https://www.wcsclimateadaptationfund.org/) - Our grant partners implement ground breaking, science based projects, using traditional and new conservation tools applied in strategic ways to help wildlife and ecosystems adapt to a range of climate impacts.
 
 
 ### Food and Agriculture
