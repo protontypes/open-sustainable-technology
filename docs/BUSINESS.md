@@ -113,6 +113,7 @@ __Projects and organizations that consider themselves sustainable or environment
 * [The Westly Group](https://www.westlygroup.com/) - One of the largest venture funds in North America investing in startups led by exceptional teams to build sustainable, global technology companies.
 * [WCS Climate Adaptation Fund](https://www.wcsclimateadaptationfund.org/) - Our grant partners implement ground breaking, science based projects, using traditional and new conservation tools applied in strategic ways to help wildlife and ecosystems adapt to a range of climate impacts.
 * [Adaptation Fund](https://www.adaptation-fund.org/) - Helping developing countries build resilience and adapt to climate change.
+* [ClimateWorks](https://www.climateworks.org/) - A global platform for philanthropy to innovate and accelerate climate solutions that scale.
 
 
 ### Food and Agriculture
