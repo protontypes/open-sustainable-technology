@@ -112,6 +112,7 @@ __Projects and organizations that consider themselves sustainable or environment
 * [ReGen Ventures](https://regen.vc/) - An early-stage venture capital firm that invests in transformational companies created by visionary entrepreneurs who are deeply committed to creating a better future.
 * [The Westly Group](https://www.westlygroup.com/) - One of the largest venture funds in North America investing in startups led by exceptional teams to build sustainable, global technology companies.
 * [WCS Climate Adaptation Fund](https://www.wcsclimateadaptationfund.org/) - Our grant partners implement ground breaking, science based projects, using traditional and new conservation tools applied in strategic ways to help wildlife and ecosystems adapt to a range of climate impacts.
+* [Adaptation Fund](https://www.adaptation-fund.org/) - Helping developing countries build resilience and adapt to climate change.
 
 
 ### Food and Agriculture
