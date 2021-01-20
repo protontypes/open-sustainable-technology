@@ -114,6 +114,7 @@ __Projects and organizations that consider themselves sustainable or environment
 * [WCS Climate Adaptation Fund](https://www.wcsclimateadaptationfund.org/) - Our grant partners implement ground breaking, science based projects, using traditional and new conservation tools applied in strategic ways to help wildlife and ecosystems adapt to a range of climate impacts.
 * [Adaptation Fund](https://www.adaptation-fund.org/) - Helping developing countries build resilience and adapt to climate change.
 * [ClimateWorks](https://www.climateworks.org/) - A global platform for philanthropy to innovate and accelerate climate solutions that scale.
+* [GEEREF](https://geeref.com/) - An innovative Fund-of-Funds catalysing private sector capital into clean energy projects in developing countries and economies in transition.
 
 
 ### Food and Agriculture
