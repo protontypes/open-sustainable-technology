@@ -65,24 +65,24 @@ _"True sustainabilty is open." - [protontypes](https://protontypes.eu/)_<br> <br
 - [Machine-Learning-for-Solar-Energy-Prediction](https://github.com/ColasGael/Machine-Learning-for-Solar-Energy-Prediction) - Predict the power production of a solar panel farm from weather measurements using machine learning.
 - [elpv-dataset](https://github.com/zae-bayern/elpv-dataset) - A dataset of functional and defective solar cells extracted from EL images of solar modules.
 - [feedinlib](https://github.com/oemof/feedinlib) - Contains implementations of photovoltaic models to calculate electricity generation from a pv installation based on given solar radiation. Furthermore it contains all necessary pre-calculations.
-- [photovoltaic](https://github.com/pvedu/photovoltaic) - A library of python functions used in photovoltaics.
-- [pvcaptest](https://github.com/pvcaptest/pvcaptest) - Collection of functions and jupyter notebooks to partially automate running a capacity test following ASTM E2848.
+- [photovoltaic](https://github.com/pvedu/photovoltaic) - A Python library used in photovoltaics.
+- [pvcaptest](https://github.com/pvcaptest/pvcaptest) - Collection of functions and Jupyter Notebooks to partially automate running a capacity test following ASTM E2848.
 - [pvtrace](https://github.com/danieljfarrell/pvtrace) - Optical ray tracing for luminescent materials and spectral converter photovoltaic devices.
 - [SolarPILOT](https://github.com/NREL/SolarPILOT) - Solar power tower layout and optimization tool.
-- [solar-data-tools](https://github.com/slacgismo/solar-data-tools) - Some data analysis tools for working with historical PV solar time-series data sets.
+- [solar-data-tools](https://github.com/slacgismo/solar-data-tools) - Data analysis tools for working with historical PV solar time-series data sets.
 - [SolarPV-DER-simulation-utility](https://github.com/sibyjackgrove/SolarPV-DER-simulation-utility) - Allows user to run dynamics simulations for solar photovoltaic distributed energy resource connected to a stiff voltage source or to an external program.
 - [bifacial_radiance](https://github.com/NREL/bifacial_radiance) - Toolkit for working with RADIANCE for the ray-trace modeling of Bifacial Photovoltaics.
-- [autoXRD](https://github.com/PV-Lab/autoXRD) - A python package for automatic XRD pattern classification of thin-films, tweaked for small and class-imbalanced datasets.
-- [BayesProcess](https://github.com/PV-Lab/BayesProcess) - A python package for Physics informed Bayesian network inference using neural network surrogate model for matching process / variable / performance in solar cells.
-- [solcore5](https://github.com/qpv-research-group/solcore5) - A multi-scale, python-based library for the modelling of solar cells and semiconductor materials.
+- [autoXRD](https://github.com/PV-Lab/autoXRD) - A Python package for automatic XRD pattern classification of thin-films, tweaked for small and class-imbalanced datasets.
+- [BayesProcess](https://github.com/PV-Lab/BayesProcess) - A Python package for Physics informed Bayesian network inference using neural network surrogate model for matching process / variable / performance in solar cells.
+- [solcore5](https://github.com/qpv-research-group/solcore5) - A multi-scale, Python-based library for the modelling of solar cells and semiconductor materials.
 - [solax](https://github.com/squishykid/solax) - Read energy usage data from the real-time API on Solax solar inverters.
 - [bifacialvf](https://github.com/NREL/bifacialvf) - Bifacial PV View Factor model for system performance calculation.
 - [solar](https://github.com/oscarperpinan/solar) - Allows for reproducible research both for photovoltaics systems performance and solar radiation.
 - [SolarTherm](https://github.com/SolarTherm/SolarTherm) - Solar thermal power/fuel station performance simulation and optimization using Modelica.
 - [Charge Controller Firmware](https://github.com/LibreSolar/charge-controller-firmware) - Firmware for Libre Solar MPPT/PWM charge controllers.
 - [pvoutput](https://github.com/openclimatefix/pvoutput) - Python code for downloading PV data from PVOutput.org.
-- [predict_pv_yield](https://github.com/openclimatefix/predict_pv_yield) - Use machine learning to map from satellite imagery of clouds to solar PV yield.
-- [solar-panel-detection](https://github.com/alan-turing-institute/solar-panel-detection) - Using a combination of AI (machine vision), open data and short term forecasting, the project aims to determine the amount of solar electricity being put into the UK grid at a given time (i.e., “right now”, or “nowcasting”)
+- [predict_pv_yield](https://github.com/openclimatefix/predict_pv_yield) - Use machine learning to map satellite imagery of clouds to solar PV yield.
+- [solar-panel-detection](https://github.com/alan-turing-institute/solar-panel-detection) - Using a combination of AI (computer vision), open data and short-term forecasting, the project aims to determine the amount of solar electricity being put into the UK grid at a given time (i.e., “right now”, or “nowcasting”)
 - [solarpy](https://github.com/aqreed/solarpy) - This packages aims to provide a reliable solar radiation model, mainly based on the work of Duffie, J.A., and Beckman, W. A., 1974, "Solar energy thermal processes".
 - [solariot](https://github.com/meltaxa/solariot) - Leverage your IoT enabled Solar PV Inverter to stream your solar energy usage data to a real time dashboard.
 - [pvanalytics](https://github.com/pvlib/pvanalytics) - Quality control, filtering, feature labeling, and other tools for working with data from photovoltaic energy systems.
@@ -106,8 +106,8 @@ _"True sustainabilty is open." - [protontypes](https://protontypes.eu/)_<br> <br
 - [nalu-wind](https://github.com/Exawind/nalu-wind) - Solver for wind farm simulations targeting exascale computational platforms.
 - [openfast](https://github.com/OpenFAST/openfast) - Was created with the goal of being a community model developed and used by research laboratories, academia, and industry.
 - [amr-wind](https://github.com/Exawind/amr-wind) - A massively parallel, block-structured adaptive-mesh, incompressible flow sover for wind turbine and wind farm simulations.
-- [QBlade](http://www.q-blade.org/#welcome) - Provides a hands on design and simulation capabilities for HAWT and VAWT rotor design and shows all the fundamental relationships of design concepts and turbine performance in an easy and intuitive way.
-- [OpenOA](https://github.com/NREL/OpenOA) - This library provides a framework for working with large timeseries data from wind plants, such as SCADA.
+- [QBlade](http://www.q-blade.org/#welcome) - Provides a hands-on design and simulation capabilities for HAWT and VAWT rotor design and shows all the fundamental relationships of design concepts and turbine performance in an easy and intuitive way.
+- [OpenOA](https://github.com/NREL/OpenOA) - This library provides a framework for working with large time series data from wind plants, such as SCADA.
 - [ROSCO](https://github.com/NREL/ROSCO) - NREL's Reference OpenSource Controller for wind turbine applications.
 - [floris](https://github.com/NREL/floris) - A controls-oriented engineering wake model.
 - [windtools](https://github.com/FZJ-IEK3-VSA/windtools) - The Wind Energy Generation Tools provides useful tools to assist in wind energy simulations.
@@ -116,7 +116,7 @@ _"True sustainabilty is open." - [protontypes](https://protontypes.eu/)_<br> <br
 - [LandBOSSE](https://github.com/WISDEM/LandBOSSE) - The Land-based Balance-of-System Systems Engineering model is a systems engineering tool that estimates the balance-of-system costs associated with installing utility scale wind plants (10, 1.5 MW turbines or larger).
 - [OpenMDAO](https://github.com/OpenMDAO/OpenMDAO) - Optimization of Aerodynamic systems.
 - [TopFarm2](https://gitlab.windenergy.dtu.dk/TOPFARM/TopFarm2) - A Python package developed by DTU Wind Energy to help with wind-farm optimizations.
-- [BasicDTUController](https://gitlab.windenergy.dtu.dk/OpenLAC/BasicDTUController) - The scope of this project is to provide an open source open-access controller that can be used by the wind energy community as a reference.
+- [BasicDTUController](https://gitlab.windenergy.dtu.dk/OpenLAC/BasicDTUController) - The scope of this project is to provide an open source open access controller that can be used by the wind energy community as a reference.
 - [WindEnergyToolbox](https://gitlab.windenergy.dtu.dk/toolbox/WindEnergyToolbox) - Is a collection of Python scripts that facilitate working with (potentially a lot) of HAWC2,HAWCStab2, FAST or other text input based simulation tools.
 - [windfarmGA](https://github.com/YsoSirius/windfarmGA) - Genetic algorithm to optimize the layout of windfarms.
 - [wtphm](https://github.com/lkev/wtphm) - The Wind Turbine Prognostics and Health Management library processes wind turbine events data, as well as operational SCADA data for easier fault detection, prognostics or reliability research.
@@ -134,9 +134,9 @@ _"True sustainabilty is open." - [protontypes](https://protontypes.eu/)_<br> <br
 
 - [WecOptTool](https://github.com/SNL-WaterPower/WecOptTool) - Allows users to perform wave energy converter device design optimization studies with constrained optimal control.
 - [CACTUS](https://github.com/SNL-WaterPower/CACTUS) - A turbine performance simulation code, based on a free wake vortex method, to study wind turbines and marine hydrokinetic devices.
-- [hydro-power-database](https://github.com/energy-modelling-toolkit/hydro-power-database) - Tries to collect some basic information on all the European hydro-power plants.
+- [hydro-power-database](https://github.com/energy-modelling-toolkit/hydro-power-database) - Collects basic information on all the European hydro-power plants.
 - [MHKiT-Python](https://github.com/MHKiT-Software/MHKiT-Python) - Provides the marine renewable energy community tools for data processing, visualization, quality control, resource assessment, and device performance.
-- [hydropowerlib](https://github.com/hydro-python/hydropowerlib) - The hydropowerlib is designed to calculate feedin time series of run-of-the-river hydropower plants.
+- [hydropowerlib](https://github.com/hydro-python/hydropowerlib) - The hydropowerlib is designed to calculate feed-in time series of run-of-the-river hydropower plants.
 - [HydroPowerSimulations.jl](https://github.com/NREL-SIIP/HydroPowerSimulations.jl) - Contains extensions on PowerSystems.jl and PowerSimulations.jl to enable enhanced hydropower representations.
 - [OpenHPL](https://github.com/simulatino/OpenHPL) - An open source hydropower library that consists of hydropower unit models and is modelled using Modelica.
 - [WEC-Sim](https://github.com/WEC-Sim/WEC-Sim) - Wave Energy Converter Simulator is an open source code for simulating wave energy converters.
