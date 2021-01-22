@@ -401,7 +401,7 @@ _"True sustainabilty is open." - [protontypes](https://protontypes.eu/)_<br> <br
 - [demandlib](https://github.com/oemof/demandlib) - With the demandlib you can create power and heat profiles for various sectors by scaling them to your desired demand.
 - [dieter_py](https://gitlab.com/diw-evu/dieter_public/dieter_py) - A open source power sector optimization model that has been developed to investigate the role of electricity storage and sector coupling options in future scenarios with high shares of renewable energy sources.
 - [OMEGAlpes](https://gricad-gitlab.univ-grenoble-alpes.fr/omegalpes/omegalpes) - Aims to be an energy systems modelling tool for linear optimisation (LP, MILP).
-- [deflex](https://github.com/reegis/deflex) - Flexible multi-regional energy system model forheat, power and mobility.
+- [deflex](https://github.com/reegis/deflex) - Flexible multi-regional energy system model for heat, power and mobility.
 - [energy-py-linear](https://github.com/ADGEfficiency/energy-py-linear) - Optimizing energy systems using mixed integer linear programming.
 - [switch-model](https://github.com/switch-model) - Optimal planning model for power systems with large shares of renewable energy.
 - [AnyMOD.jl](https://github.com/leonardgoeke/AnyMOD.jl) - Creating large scale energy system models with multiple periods of capacity expansion formulated as linear optimization problems.
@@ -411,11 +411,11 @@ _"True sustainabilty is open." - [protontypes](https://protontypes.eu/)_<br> <br
 
 ### Analysis
 
-- [Open Energy Platform](https://github.com/OpenEnergyPlatform/oeplatform) - Aims to ensure quality, transparency and reproducibility in energy system research. It is a collection of various tools and information and that help working with energy related data.
+- [Open Energy Platform](https://github.com/OpenEnergyPlatform/oeplatform) - Aims to ensure quality, transparency and reproducibility in energy system research. It is a collection of various tools and information and that help working with energy-related data.
 - [PyPSA](https://github.com/PyPSA/PyPSA) - A free software toolbox for simulating and optimizing modern power systems that include features such as conventional generators with unit commitment, variable wind and solar generation, storage units, coupling to other energy sectors, and mixed alternating and direct current networks.
-- [oemof](https://github.com/oemof/oemof) - Open Energy Modelling Framework - A python toolbox for energy system modelling and optimisation. A community driven, modular, flexible and generic software project.
-- [pyGRETA](https://github.com/tum-ens/pyGRETA) - Python Generator of REnewable Time series and mAps: a tool that generates high-resolution potential maps and time series for user-defined regions within the globe.
-- [RESKit](https://github.com/FZJ-IEK3-VSA/RESKit) - A toolkit to help generate renewable energy generation time-series for energy systems analysis.
+- [oemof](https://github.com/oemof/oemof) - Open Energy Modelling Framework - A Python toolbox for energy system modelling and optimisation. A community driven, modular, flexible and generic software project.
+- [pyGRETA](https://github.com/tum-ens/pyGRETA) - Python Generator of Renewable Time Series and mAps: a tool that generates high-resolution potential maps and time series for user-defined regions within the globe.
+- [RESKit](https://github.com/FZJ-IEK3-VSA/RESKit) - A toolkit to help generate renewable energy generation time series for energy systems analysis.
 - [PowSyBl](https://github.com/powsybl/powsybl-core) - An open source framework written in Java, that makes it easy to write complex software for power systems simulations and analysis.
 - [PowSyBl Open Load Flow](https://github.com/powsybl/powsybl-open-loadflow) - An open source implementation of the load flow API that can be found in PowSyBl Core. It supports AC Newtow-Raphson and linear DC calculation methods.
 - [matpower](https://github.com/MATPOWER/matpower) - A package of M-files for solving power flow, continuation power flow and optimal power flow problems using MATLAB or Octave.
@@ -440,13 +440,13 @@ _"True sustainabilty is open." - [protontypes](https://protontypes.eu/)_<br> <br
 - [onsset](https://github.com/OnSSET/onsset) - A GIS based optimization tool that has been developed to support electrification planning and decision making for the achievement of energy access goals in currently unserved locations.
 - [whobs-server](https://github.com/PyPSA/whobs-server) - This is the code for the online optimization of zero-direct-emission electricity systems with wind, solar and storage (using batteries and electrolysed hydrogen gas) to provide a baseload electricity demand, using the cost and other assumptions of your choice.
 - [CityLearn](https://github.com/intelligent-environments-lab/CityLearn) - Official reinforcement learning environment for demand response and load shaping.
-- [rl-testbed-for-energyplus](https://github.com/IBM/rl-testbed-for-energyplus) - Reinforcement Learning Testbed for Power Consumption Optimization using EnergyPlus.
-- [tsam](https://github.com/FZJ-IEK3-VSA/tsam) - A python package which uses different machine learning algorithms for the aggregation of time series.
+- [rl-testbed-for-energyplus](https://github.com/IBM/rl-testbed-for-energyplus) - Reinforcement Learning Tested for Power Consumption Optimization using EnergyPlus.
+- [tsam](https://github.com/FZJ-IEK3-VSA/tsam) - A Python package which uses different machine learning algorithms for the aggregation of time series.
 
 ### Monitoring and Control
 
 - [OpenEMS](https://github.com/OpenEMS/openems) - Open Source Energy Management System.
-- [eemeter](https://github.com/openeemeter/eemeter) - An open source python package for implementing and developing standard methods for calculating normalized metered energy consumption and avoided energy use.
+- [eemeter](https://github.com/openeemeter/eemeter) - An open source Python package for implementing and developing standard methods for calculating normalized metered energy consumption and avoided energy use.
 - [OperatorFabric](https://github.com/opfab/operatorfabric-core) - A modular, extensible, industrial-strength and field-tested platform for use in electricity, water and other utility operations.
 - [energy-sparks](https://github.com/Energy-Sparks/energy-sparks) - An open source application that is designed to help schools improve their energy efficiency.
 - [emonpi](https://github.com/openenergymonitor/emonpi) - The OpenEnergyMonitor system has the capability to monitor electrical energy use / generation, temperature and humidity.
@@ -460,14 +460,14 @@ _"True sustainabilty is open." - [protontypes](https://protontypes.eu/)_<br> <br
 - [The Public Utility Data Liberation Project](https://github.com/catalyst-cooperative/pudl) - Makes the US' energy data easier to access and use.
 - [Global Power Plant Database](https://github.com/wri/global-power-plant-database) - A comprehensive, global and open source database of power plants.
 - [electricitymap-contrib](https://github.com/tmrowco/electricitymap-contrib) - A real-time visualization of the CO2 emissions from electricity consumption.
-- [entsoe-py](https://github.com/EnergieID/entsoe-py) - Python client for the ENTSO-E API (european network of transmission system operators for electricity).
-- [time series](https://github.com/Open-Power-System-Data/time_series) - Contains scripts that compile time-series data of the European power system.
-- [renewable power plant](https://github.com/Open-Power-System-Data/renewable_power_plants) - Contains scripts to create lists of renewable power plants in Germany, Denmark, France and Poland, and daily time-series of cumulated installed capacity per energy source type for Germany.
-- [conventional power plants](https://github.com/Open-Power-System-Data/conventional_power_plants) - Contains data on conventional power plants for Germany as well as other selected European countries. The data includes individual power plants with their technical characteristics.
+- [entsoe-py](https://github.com/EnergieID/entsoe-py) - Python client for the ENTSO-E API (European network of transmission system operators for electricity).
+- [time series](https://github.com/Open-Power-System-Data/time_series) - Contains scripts that compile time series data of the European power system.
+- [renewable power plant](https://github.com/Open-Power-System-Data/renewable_power_plants) - Contains scripts to create lists of renewable power plants in Germany, Denmark, France and Poland, and daily time series of cumulated installed capacity per energy source type for Germany.
+- [conventional power plants](https://github.com/Open-Power-System-Data/conventional_power_plants) - Contains data on conventional power plants for Germany as well as other selected European countries. The data include individual power plants with their technical characteristics.
 - [open-MaStR](https://github.com/OpenEnergyPlatform/open-MaStR) - Download and process German energy data from BNetzA database Marktstammdatenregister.
 - [powerplantmatching](https://github.com/FRESNA/powerplantmatching) - A toolset for cleaning, standardizing and combining multiple power plant databases.
 - [GeoNuclearData](https://github.com/cristianst85/GeoNuclearData) - Database with information about Nuclear Power Plants worldwide.
-- [pyEIA](https://github.com/thomastu/pyEIA) - An Energy Information Administration API python client for researchers who just need data.
+- [pyEIA](https://github.com/thomastu/pyEIA) - An Energy Information Administration API Python client for researchers who need data.
 - [EIA](https://github.com/ropensci/eia) - An R package wrapping the US Energy Information Administration open data API.
 - [atlite](https://github.com/PyPSA/atlite) - Light-weight version of Aarhus RE Atlas for converting weather data to power systems data.
 - [NYISOToolkit](https://github.com/m4rz910/NYISOToolkit) - A collection of modules for accessing power system data, generating statistics, and creating visualizations from the New York Independent System Operator.
@@ -490,7 +490,7 @@ _"True sustainabilty is open." - [protontypes](https://protontypes.eu/)_<br> <br
 - [CarbonFootprintEGU](https://github.com/milankl/CarbonFootprintEGU) - Travel carbon footprint of the European Geosciences Union General Assembly 2019.
 - [Bloom](https://github.com/tmrowco/northapp-contrib) - A SaaS that allow companies to become climate leaders, from calculating their climate impact to communicating about their climate efforts. It connects to as many data sources as possible to assess your carbon footprint and find mitigation opportunities.
 - [NMF.earth app](https://github.com/NMF-earth/nmf-app) - Understand and reduce your carbon footprint seedling iOS & Android.
-- [EnergyPATHWAYS](https://github.com/energyPATHWAYS/EnergyPATHWAYS) - Model is a professional, open source energy and carbon planning tool for use in evaluating long-term, economy-wide greenhouse gas mitigation scenarios.
+- [EnergyPATHWAYS](https://github.com/energyPATHWAYS/EnergyPATHWAYS) - Energy Pathways Model is a professional, open source energy and carbon planning tool for use in evaluating long-term, economy-wide greenhouse gas mitigation scenarios.
 - [CarbonFootprint](https://gitlab.com/aossie/CarbonFootprint) - A browser extension that displays carbon footprint information in multiple map services.
 - [carbontracker](https://github.com/lfwa/carbontracker) - Track and predict the energy consumption and carbon footprint of training deep learning models.
 - [experiment-impact-tracker](https://github.com/Breakend/experiment-impact-tracker) - Meant to be a simple drop-in method to track energy usage, carbon emissions, and compute utilization of your system.
@@ -498,7 +498,7 @@ _"True sustainabilty is open." - [protontypes](https://protontypes.eu/)_<br> <br
 - [code-carbon](https://github.com/mlco2/code-carbon) - Track emissions from Compute and recommend ways to reduce their impact on the environment.
 - [Carbonalyser](https://github.com/carbonalyser/Carbonalyser) - Allows to visualize the electricity consumption and greenhouse gases emissions that your Internet browsing leads to.
 - [argos](https://github.com/marmelab/argos) - A tool to measure consumption of a given Docker command and see its performance evolution. Argos is able to measure CPU, memory and network usage of Docker containers for a given command. By measuring resource consumption of dockerized E2E tests, Argos allows to compare the consumption of an app between its different versions.
-- [ecometer](https://gitlab.com/ecoconceptionweb/ecometer) - Loads websites, compute metrics (from network activity, loaded payloads and the web page), and use them to assess the website's ecodesign maturity based on a list of best practices.
+- [ecometer](https://gitlab.com/ecoconceptionweb/ecometer) - Loads websites, compute metrics (from network activity, loaded payloads and the web page), and uses them to assess the website's ecodesign maturity based on a list of best practices.
 - [patch-node](https://github.com/patch-technology/patch-node) - The road to global carbon-neutrality will be through programmatic compensation.
 - [co2.js](https://github.com/thegreenwebfoundation/co2.js) - A npm module for accessing the green web API, and estimating the carbon emissions from using digital services.
 - [blockchain-carbon-accounting](https://github.com/opentaps/blockchain-carbon-accounting) - Code of the Carbon Accounting and Certification Working Group.
