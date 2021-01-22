@@ -224,7 +224,7 @@ _"True sustainabilty is open." - [protontypes](https://protontypes.eu/)_<br> <br
 - [Grid Singularity Energy Exchange Engine (D3A)](https://github.com/gridsingularity/d3a) - An interface and codebase to model, simulate, optimize and (coming soon) download and deploy a grid-aware energy exchange.
 - [Backbone](https://gitlab.vtt.fi/backbone/backbone) - A generic energy network optimization tool written in GAMS.
 - [APIS](https://github.com/SonyCSL/APIS) - Build a microgrid that utilizes variable renewable energy as the main power source and enhances the resilience of the power system.
-- [pymgrid](https://github.com/Total-RD/pymgrid) - A python library to generate and simulate a large number of microgrids.
+- [pymgrid](https://github.com/Total-RD/pymgrid) - A Python library to generate and simulate a large number of microgrids.
 
 
 ## Energy Consumption and Efficiency
@@ -233,9 +233,9 @@ _"True sustainabilty is open." - [protontypes](https://protontypes.eu/)_<br> <br
 
 - [hpxml](https://github.com/hpxmlwg/hpxml) - Home Performance XML is a data transfer standard for the home performance industry.
 - [HPXML to Home Energy Score Translator](https://github.com/NREL/hescore-hpxml) - This translator script takes an HPXML file or directory of files as an input and generates HEScore inputs from it.
-- [LoadProfileGenerator](https://github.com/FZJ-IEK3-VSA/LoadProfileGenerator) - A program for generating load curves for residential consumers. Agentbased and extremely detailed.
+- [LoadProfileGenerator](https://github.com/FZJ-IEK3-VSA/LoadProfileGenerator) - A program for generating load curves for residential consumers. Agent-based and extremely detailed.
 - [The-building-data-genome-project](https://github.com/buds-lab/the-building-data-genome-project) - A collection of non-residential buildings for performance analysis and algorithm benchmarking.
-- [VOLTTRON](https://github.com/VOLTTRON/volttron) - A platform that provides services for collecting and storing data from buildings and devices. It provides an environment for developing applications that interact with the data.
+- [VOLTTRON](https://github.com/VOLTTRON/volttron) - A platform that provides services for collecting and storing data from buildings and devices. It provides an environment for developing applications that interact with data.
 - [EnergyPlus](https://github.com/NREL/EnergyPlus) - A whole building energy simulation program that engineers, architects, and researchers use to model both energy consumption and water usage in buildings.
 - [OpenStudio](https://github.com/NREL/OpenStudio) - A cross-platform collection of software tools to support whole building energy modeling using EnergyPlus and advanced daylight analysis using Radiance.
 - [BEMServer](https://github.com/HIT2GAP-EU-PROJECT/bemserver) - An open source Python server to deploy energy management solutions for buildings.
@@ -264,7 +264,7 @@ _"True sustainabilty is open." - [protontypes](https://protontypes.eu/)_<br> <br
 - [modelica-ibpsa](https://github.com/ibpsa/modelica-ibpsa) - Modelica library for building and district energy systems developed within IBPSA Project 1.
 - [project1](https://github.com/ibpsa/project1) - Creates open source software that builds the basis of next generation computing tools for the design and operation of building and district energy and control systems.
 - [teb](https://github.com/TEB-model/teb) - A library to calculate the urban surface energy balance at neighborhood scale assuming a simplified canyon geometry.
-- [tsib](https://github.com/FZJ-IEK3-VSA/tsib) - A python package that builds up on different databases and models for creating consistent demand and production time series of residential buildings.
+- [tsib](https://github.com/FZJ-IEK3-VSA/tsib) - A Python package that builds up on different databases and models for creating consistent demand and production time series of residential buildings.
 - [DHNx](https://github.com/oemof/DHNx) - This package provides an open toolbox for district heating and cooling network optimization and simulation models.
 - [The Building Data Genome 2 Data-Set](https://github.com/buds-lab/building-data-genome-project-2) - Whole building non-residential hourly energy meter data from the Great Energy Predictor III competition.
 - [BESOS](https://gitlab.com/energyincities/besos) - A collection of modules for the simulation and optimization of buildings and urban energy systems.
