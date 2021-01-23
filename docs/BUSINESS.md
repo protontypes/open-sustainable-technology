@@ -79,6 +79,7 @@ __Projects and organizations that consider themselves sustainable or environment
 ### Environment and Climate
 * [Freeing Energy](https://www.freeingenergy.com/list-of-cleantech-investors/) - The definitive list of cleantech investors.
 * [climatehub.io](https://climatehub.io/) - A community of investors and startups on ClimateHub working to solve our generation's most difficult climate challenges.
+* [The Google.org Impact Challenge on Climate](https://impactchallenge.withgoogle.com/climate2020) - Commits €10M to fund bold ideas that aim to use technology to accelerate Europe’s progress toward a greener, more resilient future.
 * [Green Climate Fund](https://www.greenclimate.fund/) - Has given a major boost to climate finance for developing countries with the approval of over USD 1 billion of funding for low-emission, climate-resilient development.
 * [AI for Earth grants](https://www.microsoft.com/en-us/ai/ai-for-earth-grants) - Awards grants to support projects that use AI to change the way people and organizations monitor, model, and manage Earth's natural systems.
 * [Green Bond Labs](https://impactisi.com/program/) - A gateway into alternative financing options for companies looking to raise capital to fund green projects or ventures anywhere.
@@ -115,6 +116,7 @@ __Projects and organizations that consider themselves sustainable or environment
 * [Adaptation Fund](https://www.adaptation-fund.org/) - Helping developing countries build resilience and adapt to climate change.
 * [ClimateWorks](https://www.climateworks.org/) - A global platform for philanthropy to innovate and accelerate climate solutions that scale.
 * [GEEREF](https://geeref.com/) - An innovative Fund-of-Funds catalysing private sector capital into clean energy projects in developing countries and economies in transition.
+* [Climate Grants](https://www.climategrants.earth/) - Climate Grants gives $1000 each month to people working on solving climate change, no strings attached.
 
 
 ### Food and Agriculture
@@ -154,6 +156,7 @@ __Projects and organizations that consider themselves sustainable or environment
 * [Open Source Guides](https://opensource.guide/getting-paid/) - Sustain your work in open source by getting financial support for your time or your project.
 * [Alfred P. Sloan Foundation](https://sloan.org/programs/digital-technology) - The Foundation awards approximately 200 grants per year totaling roughly 80 million USD in annual commitments in support of research and education in science, technology, engineering, mathematics, and economics.
 * [Runa](https://runacap.com/ross-index/) - Actively invests in Open Source startups and considers an active developer community to be instrumental for open-source businesses.
+* [Lemonade Stand](https://github.com/nayafia/lemonade-stand) - This document aims to provide an exhaustive list of all the ways that people get paid for open source work.
 
 
 ## Open Business Models

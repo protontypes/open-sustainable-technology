@@ -1,7 +1,7 @@
 <!--lint ignore awesome-toc awesome-contributing awesome-badge -->
 # Sustainable Technology Communities
 
-Outstanding open communities developing independent and free sustainable technology.
+__Outstanding open communities developing independent and free sustainable technology.__
 
 - [openmod-initiative](https://forum.openmod-initiative.org/) - We believe that more openness in energy modelling increases transparency and credibility, reduces wasteful double-work and improves overall quality.
 - [SustainOSS](https://sustainoss.org/) - Sustainability doesn't just mean code. How can we make our work sustainable environmentally, too? How can we share our knowledge of open source with other groups in the world?
@@ -43,3 +43,5 @@ Outstanding open communities developing independent and free sustainable technol
 - [Energy Web](https://github.com/energywebfoundation) - Energy Web is accelerating a low-carbon, customer-centric electricity system by enabling any energy asset owned by any customer to participate in any energy market.
 - [STEP](http://step.esa.int/main/) - ESA  is developing  free open source toolboxes for the scientific exploitation of Earth Observation missions under the the Scientific Exploitation of Operational Missions programme element.
 - [Climate Connect](https://climateconnect.earth/) - Join the global climate action network to connect all climate actors on our planet.
+- [Climate Change AI](https://www.climatechange.ai/) - Catalyzing impactful work at the intersection of climate change and machine learning.
+- [Earthshot labs](https://www.earthshot.eco/) - Develops data science and AI tools to scale nature-based solutions globally.
