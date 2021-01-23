@@ -44,4 +44,3 @@ __Outstanding open communities developing independent and free sustainable techn
 - [STEP](http://step.esa.int/main/) - ESA  is developing  free open source toolboxes for the scientific exploitation of Earth Observation missions under the the Scientific Exploitation of Operational Missions programme element.
 - [Climate Connect](https://climateconnect.earth/) - Join the global climate action network to connect all climate actors on our planet.
 - [Climate Change AI](https://www.climatechange.ai/) - Catalyzing impactful work at the intersection of climate change and machine learning.
-- [Earthshot labs](https://www.earthshot.eco/) - Develops data science and AI tools to scale nature-based solutions globally.
