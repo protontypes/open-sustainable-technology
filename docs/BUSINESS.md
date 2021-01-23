@@ -79,7 +79,7 @@ __Projects and organizations that consider themselves sustainable or environment
 ### Environment and Climate
 * [Freeing Energy](https://www.freeingenergy.com/list-of-cleantech-investors/) - The definitive list of cleantech investors.
 * [climatehub.io](https://climatehub.io/) - A community of investors and startups on ClimateHub working to solve our generation's most difficult climate challenges.
-* [The Google.org Impact Challenge on Climate](https://impactchallenge.withgoogle.com/climate2020) - Commits €10M to fund bold ideas that aim to use technology to accelerate Europe’s progress toward a greener, more resilient future.
+* [The Google.org Impact Challenge on Climate](https://impactchallenge.withgoogle.com/climate2020) - Commits €10M to fund bold ideas that aim to use technology to accelerate Europe's progress toward a greener, more resilient future.
 * [Green Climate Fund](https://www.greenclimate.fund/) - Has given a major boost to climate finance for developing countries with the approval of over USD 1 billion of funding for low-emission, climate-resilient development.
 * [AI for Earth grants](https://www.microsoft.com/en-us/ai/ai-for-earth-grants) - Awards grants to support projects that use AI to change the way people and organizations monitor, model, and manage Earth's natural systems.
 * [Green Bond Labs](https://impactisi.com/program/) - A gateway into alternative financing options for companies looking to raise capital to fund green projects or ventures anywhere.
@@ -112,6 +112,10 @@ __Projects and organizations that consider themselves sustainable or environment
 * [Prime Coalition](https://primecoalition.org/) - A public charity that partners with mission-aligned investors to support extraordinary companies that combat climate change, have a high likelihood of achieving commercial success, and would otherwise have a difficult time raising adequate financial support to scale.
 * [ReGen Ventures](https://regen.vc/) - An early-stage venture capital firm that invests in transformational companies created by visionary entrepreneurs who are deeply committed to creating a better future.
 * [The Westly Group](https://www.westlygroup.com/) - One of the largest venture funds in North America investing in startups led by exceptional teams to build sustainable, global technology companies.
+* [WCS Climate Adaptation Fund](https://www.wcsclimateadaptationfund.org/) - Our grant partners implement ground breaking, science based projects, using traditional and new conservation tools applied in strategic ways to help wildlife and ecosystems adapt to a range of climate impacts.
+* [Adaptation Fund](https://www.adaptation-fund.org/) - Helping developing countries build resilience and adapt to climate change.
+* [ClimateWorks](https://www.climateworks.org/) - A global platform for philanthropy to innovate and accelerate climate solutions that scale.
+* [GEEREF](https://geeref.com/) - An innovative Fund-of-Funds catalysing private sector capital into clean energy projects in developing countries and economies in transition.
 * [Climate Grants](https://www.climategrants.earth/) - Climate Grants gives $1000 each month to people working on solving climate change, no strings attached.
 
 
