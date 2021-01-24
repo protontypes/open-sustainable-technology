@@ -1,7 +1,7 @@
 <!--lint ignore awesome-toc awesome-contributing awesome-badge -->
 # Sustainable Business Development
 
-__Projects and organizations that consider themselves sustainable or environmentally friendly and support sustainable business development. Note that the listed entries do not necessarily follow entirely open principles themselves.__
+__Projects and organizations for sustainable business development. Note that the listed entries do not necessarily follow entirely open principles themselves.__
 
 ## Incubators and Hackathons
 * [Greentown Labs](https://greentownlabs.com/) - Solving the climate crisis through entrepreneurship and collaboration.
