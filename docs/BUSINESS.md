@@ -52,6 +52,7 @@ __Projects and organizations that consider themselves sustainable or environment
 * [coactlab](https://www.coactlab.org/) - An environmental tech accelerator & innovation hub in the hills of Barcelona.
 * [GreenTec Capital Partners](https://greentec-capital.com/) - Invests in African start-ups and SMEs with a focus on combining social and environmental impact with financial success.
 * [Startup Wise Guys](https://startupwiseguys.com/sustainability/) - Every business and individual has a direct or indirect impact on climate change, sustainable living, and many other pressing global challenges.
+* [The Climate Pledge Fund](https://sustainability.aboutamazon.com/about/climate-pledge-fund) - Supports the development of sustainable and decarbonizing technologies and services that will enable Amazon and other companies to meet the goals set by The Climate Pledge.
 
 
 
