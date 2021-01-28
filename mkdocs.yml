@@ -6,10 +6,10 @@ repo_url: 'https://github.com/protontypes/open-sustainable-technology'
 edit_uri: ''
 nav:
   - "Technology": "index.md"
-  - "Community": "COMMUNITY.md"
-  - "Business" : "BUSINESS.md"
-  - "Education": "EDUCATION.md"
-  - "Contribute": "CONTRIBUTING.md"
+  - "Community": "community.md"
+  - "Business" : "business.md"
+  - "Education": "education.md"
+  - "Contribute": "contributing.md"
 
 theme:
   name: 'material'

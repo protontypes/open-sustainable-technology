@@ -15,7 +15,7 @@ jobs:
         run: sed -n '/<!--toc-->/{p; :a; N; /<!--toc_end-->/!ba; s/.*\n//}; p' README.md > docs/index.md
 
       - name: Copy CONTRIBUTING
-        run: cp CONTRIBUTING.md docs/CONTRIBUTING.md
+        run: cp CONTRIBUTING.md docs/contributing.md
 
       - name: Add meta tags to index.md
         run: cat docs/meta_tags.md | cat - docs/index.md > temp && mv temp docs/index.md
