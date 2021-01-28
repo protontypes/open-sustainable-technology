@@ -117,10 +117,9 @@ __Projects and organizations for sustainable business development.__
 * [Adaptation Fund](https://www.adaptation-fund.org/) - Helping developing countries build resilience and adapt to climate change.
 * [ClimateWorks](https://www.climateworks.org/) - A global platform for philanthropy to innovate and accelerate climate solutions that scale.
 * [Climate Grants](https://www.climategrants.earth/) - Climate Grants gives $1000 each month to people working on solving climate change, no strings attached.
-* [The Climate Fund Inventory](https://www.oecd.org/environment/cc/database-climate-fund-inventory.htm) - A qualitative database of bilateral and multilateral public climate funds. 
 * [Ajax Strategies](https://www.ajaxinvestmentstrategies.com/) - Investing in next generation technologies to solve climate change.
 * [The Environmental Technologies Fund](https://etfpartners.capital/) - Investing in and helping great young European companies that deliver sustainability through innovation.
-* [MCJ Collective](https://www.myclimatejourney.co/mcj-collective) - My Climate Journey's early-stage climate tech fund, using AngelList’s new rolling fund structure. 
+* [MCJ Collective](https://www.myclimatejourney.co/mcj-collective) - My Climate Journey's early-stage climate tech fund, using AngelList’s new rolling fund structure.
 * [Princeville Climate Technology](https://www.princeville-capital.com/princeville-climate) - Investing in leading growth stage companies that leverage mega-trends in technology and deploy innovative business models to drive a positive climate impact.
 * [Valo Ventures](https://valoventures.org/) - Looking for mission-driven entrepreneurs who believe that purpose and profit go together naturally.
 * [Wi Venture](https://wiventure.de/) - With a vision making our energy supply, mobility and agriculture sustainable.
@@ -130,6 +129,7 @@ __Projects and organizations for sustainable business development.__
 * [Material Impact](https://materialimpact.com/) - Seeking out novel materials to grow them into great products and enduring companies that solve real-world problems.
 * [VoLo Earth](https://www.voloearth.com/) - Addressing our planet's climate crisis at its roots by providing first-in funding and hands-on leadership to early-stage climate tech companies.
 * [Wind Ventures](https://www.windventures.vc/) - The newly established corporate venture capital arm of COPEC whose purpose is to accelerate global startups, and boost their growth in the United States and Latin America.
+* [The Climate Fund Inventory](https://www.oecd.org/environment/cc/database-climate-fund-inventory.htm) - A qualitative database of bilateral and multilateral public climate funds. 
 
 ### Food and Agriculture
 * [Acre Venture Partners](http://acre.vc/) - A venture capital fund investing in the future of food.
