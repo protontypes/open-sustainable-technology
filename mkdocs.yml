@@ -26,7 +26,6 @@ theme:
     - search.highlight
     - search.suggest
     - toc.integrate
-    - header.autohide
 
 extra_css:
     - css/extra.css
