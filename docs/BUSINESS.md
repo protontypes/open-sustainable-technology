@@ -115,9 +115,19 @@ __Projects and organizations that consider themselves sustainable or environment
 * [WCS Climate Adaptation Fund](https://www.wcsclimateadaptationfund.org/) - Our grant partners implement ground breaking, science based projects, using traditional and new conservation tools applied in strategic ways to help wildlife and ecosystems adapt to a range of climate impacts.
 * [Adaptation Fund](https://www.adaptation-fund.org/) - Helping developing countries build resilience and adapt to climate change.
 * [ClimateWorks](https://www.climateworks.org/) - A global platform for philanthropy to innovate and accelerate climate solutions that scale.
-* [GEEREF](https://geeref.com/) - An innovative Fund-of-Funds catalysing private sector capital into clean energy projects in developing countries and economies in transition.
 * [Climate Grants](https://www.climategrants.earth/) - Climate Grants gives $1000 each month to people working on solving climate change, no strings attached.
-
+* [Ajax Strategies](https://www.ajaxinvestmentstrategies.com/) - Investing in next generation technologies to solve climate change.
+* [The Environmental Technologies Fund](https://etfpartners.capital/) - Investing in and helping great young European companies that deliver sustainability through innovation.
+* [MCJ Collective](https://www.myclimatejourney.co/mcj-collective) - My Climate Journey's early-stage climate tech fund, using AngelList’s new rolling fund structure. 
+* [Princeville Climate Technology](https://www.princeville-capital.com/princeville-climate) - Investing in leading growth stage companies that leverage mega-trends in technology and deploy innovative business models to drive a positive climate impact.
+* [Valo Ventures](https://valoventures.org/) - Looking for mission-driven entrepreneurs who believe that purpose and profit go together naturally.
+* [Wi Venture](https://wiventure.de/) - With a vision making our energy supply, mobility and agriculture sustainable.
+* [Wireframe Ventures](https://www.wireframevc.com/) - Investing in technology for people and planet.
+* [HG Ventures](https://hgventures.com/) - Investing in early stage and growth stage companies developing advanced materials and systems for transportation infrastructure, environmental services and specialty chemicals.
+* [Linse Capital](https://www.linsecapital.com/) - A US-based growth equity firm investing in cutting edge technology companies in the transportation, energy, and logistics industries.
+* [Material Impact](https://materialimpact.com/) - Seeking out novel materials to grow them into great products and enduring companies that solve real-world problems.
+* [VoLo Earth](https://www.voloearth.com/) - Addressing our planet's climate crisis at its roots by providing first-in funding and hands-on leadership to early-stage climate tech companies.
+* [Wind Ventures](https://www.windventures.vc/) - The newly established corporate venture capital arm of COPEC whose purpose is to accelerate global startups, and boost their growth in the United States and Latin America.
 
 ### Food and Agriculture
 * [Acre Venture Partners](http://acre.vc/) - A venture capital fund investing in the future of food.
@@ -125,9 +135,12 @@ __Projects and organizations that consider themselves sustainable or environment
 * [Astanor](https://astanor.com/) - Investing to give rise to a future of food that is nourishing, regenerative, scalable, trusted and delicious.
 * [Congruent Ventures](https://congruentvc.com/) - Creating the companies that will positively impact how we move, create, eat, and live.
 * [Cultivian Sandbox](https://cultiviansbx.com/) - Investing in innovative food and agriculture technology companies.
+* [Pontifax Agtech](https://www.pontifaxagtech.com/) - Investing globally in growing businesses that improve agricultural productivity, nutrition, health, sustainability and supply chain efficiency.
+* [Unovis](https://www.unovis.vc/) - Investing in successful entrepreneurs driving innovation throughout the food system.
+* [S2G Ventures](https://www.s2gventures.com/) - Focusing on companies that harness the power of food innovation to create better outcomes for people and the planet.
 
 ### Energy and Resources
-* [EIT InnoEnergy](https://www.innoenergy.com/) - Supporting sustainable energy innovations which provide industry with risk free, pioneering new technologies that reduce energy costs, increase system performance, decrease greenhouse gas (GHG) emissions, create jobs, and increase competitiveness.
+* [EIT InnoEnergy](https://www.innoenergy.com/) - Supporting sustainable energy innovations which provide industry with risk free, pioneering new technologies that reduce energy costs, increase system performance, decrease greenhouse gas emissions, create jobs, and increase competitiveness.
 * [Blue Bear Capital](https://bluebearcap.com/) - Investing in companies that accelerate the development of a profitable and sustainable energy future.
 * [Braemar Energy Ventures](http://www.braemarenergy.com/) - Making early, ahead-of-the-curve bets in transformative energy-tech and related companies which contribute to global sustainability and help combat climate change.
 * [Clean Energy Ventures](https://cleanenergyventures.com/) - Investing in companies commercializing disruptive advanced energy technologies and business model innovations.
@@ -140,10 +153,17 @@ __Projects and organizations that consider themselves sustainable or environment
 * [Chrysalix Venture Capital](https://chrysalix.com/) - Investing in intelligent systems, energy technology and resource productivity solutions to deliver outsized financial returns and environmental sustainability.
 * [Mazarine Ventures](https://www.mazarineventures.com/) - Backing early-stage innovations that address water and wastewater risk.
 * [Closed Loop Partners](https://www.closedlooppartners.com/) - A New York based investment firm that provides equity and project finance to scale products, services and infrastructure at the forefront of the development of the circular economy.
+* [Energy Impact Partners](https://www.energyimpactpartners.com/) - Investing in companies driving a cleaner, better energy future.
+* [Enertech Capital](https://www.enertechcapital.com/) - Investing and partnering with innovative companies driving change across the energy landscape.
+* [Evergy Ventures](https://evergyventures.com/) - Formerly known as GXP Investments, focused on exploring unique opportunities that are aligned with Evergy’s core mission to foster energy that moves us forward.
+* [GEEREF](https://geeref.com/) - An innovative Fund-of-Funds catalysing private sector capital into clean energy projects in developing countries and economies in transition.
+* [Evok Innovations](https://www.evokinnovations.com/) - Fueling industrial innovation.
+* [PIVA](http://www.piva.vc/) - A San Francisco-based VC firm investing in visionary entrepreneurs who are solving the world's critical problems in the industrial and energy spaces.
+* [Powerhouse Ventures](https://www.powerhouse.fund/ventures) - Investing in seed-stage startups that are changing the way we power our world.
 
 ### Urban Living
 * [Building Ventures](https://buildingventures.com/) - Investing in companies that are reshaping the way we design, build, operate and experience our built environment.
-* [Fifth Wall](https://fifthwall.com/) - A first-of-its-kind model aimed to accelerate innovation and create value for the entire Built World ecosystem.
+* [Fifth Wall](https://fifthwall.com/) - A first-of-its-kind model aimed to accelerate innovation and create value for the entire built world ecosystem.
 * [Trucks VC](https://www.trucks.vc/) - Funds the entrepreneurs building the future of transportation.
 * [Urban Us](https://urban.us/) - Fund startups that upgrade cities for climate change.
 
