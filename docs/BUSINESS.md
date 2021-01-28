@@ -118,7 +118,7 @@ __Projects and organizations for sustainable business development. Note that the
 * [ClimateWorks](https://www.climateworks.org/) - A global platform for philanthropy to innovate and accelerate climate solutions that scale.
 * [GEEREF](https://geeref.com/) - An innovative Fund-of-Funds catalysing private sector capital into clean energy projects in developing countries and economies in transition.
 * [Climate Grants](https://www.climategrants.earth/) - Climate Grants gives $1000 each month to people working on solving climate change, no strings attached.
-
+* [The Climate Fund Inventory](https://www.oecd.org/environment/cc/database-climate-fund-inventory.htm) - A qualitative database of bilateral and multilateral public climate funds. 
 
 ### Food and Agriculture
 * [Acre Venture Partners](http://acre.vc/) - A venture capital fund investing in the future of food.
