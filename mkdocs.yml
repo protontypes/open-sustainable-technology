@@ -22,10 +22,12 @@ theme:
   features:
     - navigation.instant
     - navigation.tabs
+    - navigation.tabs.sticky
     - navigation.expand
     - search.highlight
     - search.suggest
     - toc.integrate
+    
 
 extra_css:
     - css/extra.css
