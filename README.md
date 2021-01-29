@@ -23,9 +23,6 @@ _"True sustainability is open." - [protontypes](https://protontypes.eu/)_<br> <b
   - [Mobility and Transportation](#mobility-and-transportation)
   - [Production and Industry](#production-and-industry)
   - [Computation and Services](#computation-and-services)
-
-### Computation and Services
-
   - [Production and Computation](#production-and-computation)
 - [Energy System Assessment](#energy-system-assessment)
   - [Modeling](#modeling)
@@ -361,7 +358,6 @@ _"True sustainability is open." - [protontypes](https://protontypes.eu/)_<br> <b
 - [CPU Energy Meter](https://github.com/sosy-lab/cpu-energy-meter) - A Linux tool that allows to monitor power consumption of Intel CPUs at fine time intervals.
 - [PowerAPI](https://github.com/powerapi-ng/powerapi) - A middleware toolkit for building software-defined power meters.
 
-### Services and 
 
 ## Energy System Assessment
 
