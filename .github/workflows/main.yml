@@ -3,7 +3,6 @@ on:
   pull_request:
     branches:
             - main
-            - agri
 jobs:
   Awesome_Lint:
     runs-on: ubuntu-latest
