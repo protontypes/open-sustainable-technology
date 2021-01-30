@@ -23,7 +23,6 @@ _"True sustainability is open." - [protontypes](https://protontypes.eu/)_<br> <b
   - [Mobility and Transportation](#mobility-and-transportation)
   - [Production and Industry](#production-and-industry)
   - [Computation and Services](#computation-and-services)
-  - [Production and Computation](#production-and-computation)
 - [Energy System Assessment](#energy-system-assessment)
   - [Modeling](#modeling)
   - [Analysis](#analysis)
