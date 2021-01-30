@@ -119,7 +119,7 @@ __Projects, resources and organizations for that support you in creating a susta
 * [Climate Grants](https://www.climategrants.earth/) - Climate Grants gives $1000 each month to people working on solving climate change, no strings attached.
 * [Ajax Strategies](https://www.ajaxinvestmentstrategies.com/) - Investing in next generation technologies to solve climate change.
 * [The Environmental Technologies Fund](https://etfpartners.capital/) - Investing in and helping great young European companies that deliver sustainability through innovation.
-* [MCJ Collective](https://www.myclimatejourney.co/mcj-collective) - My Climate Journey's early-stage climate tech fund, using AngelList’s new rolling fund structure.
+* [MCJ Collective](https://www.myclimatejourney.co/mcj-collective) - My Climate Journey's early-stage climate tech fund, using AngelList's new rolling fund structure.
 * [Princeville Climate Technology](https://www.princeville-capital.com/princeville-climate) - Investing in leading growth stage companies that leverage mega-trends in technology and deploy innovative business models to drive a positive climate impact.
 * [Valo Ventures](https://valoventures.org/) - Looking for mission-driven entrepreneurs who believe that purpose and profit go together naturally.
 * [Wi Venture](https://wiventure.de/) - With a vision making our energy supply, mobility and agriculture sustainable.
@@ -158,7 +158,7 @@ __Projects, resources and organizations for that support you in creating a susta
 * [Closed Loop Partners](https://www.closedlooppartners.com/) - A New York based investment firm that provides equity and project finance to scale products, services and infrastructure at the forefront of the development of the circular economy.
 * [Energy Impact Partners](https://www.energyimpactpartners.com/) - Investing in companies driving a cleaner, better energy future.
 * [Enertech Capital](https://www.enertechcapital.com/) - Investing and partnering with innovative companies driving change across the energy landscape.
-* [Evergy Ventures](https://evergyventures.com/) - Formerly known as GXP Investments, focused on exploring unique opportunities that are aligned with Evergy’s core mission to foster energy that moves us forward.
+* [Evergy Ventures](https://evergyventures.com/) - Formerly known as GXP Investments, focused on exploring unique opportunities that are aligned with Evergy's core mission to foster energy that moves us forward.
 * [GEEREF](https://geeref.com/) - An innovative Fund-of-Funds catalysing private sector capital into clean energy projects in developing countries and economies in transition.
 * [Evok Innovations](https://www.evokinnovations.com/) - Fueling industrial innovation.
 * [PIVA](http://www.piva.vc/) - A San Francisco-based VC firm investing in visionary entrepreneurs who are solving the world's critical problems in the industrial and energy spaces.
