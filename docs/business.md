@@ -1,7 +1,7 @@
 <!--lint ignore awesome-toc awesome-contributing awesome-badge -->
 # Sustainable Business Development
 
-__Projects and organizations for sustainable business development.__
+__Projects, resources and organizations for that support you in creating a sustainable business development.__
 
 ## Incubators and Hackathons
 * [Greentown Labs](https://greentownlabs.com/) - Solving the climate crisis through entrepreneurship and collaboration.
@@ -119,7 +119,7 @@ __Projects and organizations for sustainable business development.__
 * [Climate Grants](https://www.climategrants.earth/) - Climate Grants gives $1000 each month to people working on solving climate change, no strings attached.
 * [Ajax Strategies](https://www.ajaxinvestmentstrategies.com/) - Investing in next generation technologies to solve climate change.
 * [The Environmental Technologies Fund](https://etfpartners.capital/) - Investing in and helping great young European companies that deliver sustainability through innovation.
-* [MCJ Collective](https://www.myclimatejourney.co/mcj-collective) - My Climate Journey's early-stage climate tech fund, using AngelList’s new rolling fund structure.
+* [MCJ Collective](https://www.myclimatejourney.co/mcj-collective) - My Climate Journey's early-stage climate tech fund, using AngelList's new rolling fund structure.
 * [Princeville Climate Technology](https://www.princeville-capital.com/princeville-climate) - Investing in leading growth stage companies that leverage mega-trends in technology and deploy innovative business models to drive a positive climate impact.
 * [Valo Ventures](https://valoventures.org/) - Looking for mission-driven entrepreneurs who believe that purpose and profit go together naturally.
 * [Wi Venture](https://wiventure.de/) - With a vision making our energy supply, mobility and agriculture sustainable.
@@ -130,6 +130,7 @@ __Projects and organizations for sustainable business development.__
 * [VoLo Earth](https://www.voloearth.com/) - Addressing our planet's climate crisis at its roots by providing first-in funding and hands-on leadership to early-stage climate tech companies.
 * [Wind Ventures](https://www.windventures.vc/) - The newly established corporate venture capital arm of COPEC whose purpose is to accelerate global startups, and boost their growth in the United States and Latin America.
 * [The Climate Fund Inventory](https://www.oecd.org/environment/cc/database-climate-fund-inventory.htm) - A qualitative database of bilateral and multilateral public climate funds. 
+* [Climate Innovation Fund](https://www.microsoft.com/en-us/corporate-responsibility/sustainability/climate-innovation-fund) - We are investing $1 billion over the next four years in new technologies and innovative sustainability solutions.
 
 ### Food and Agriculture
 * [Acre Venture Partners](http://acre.vc/) - A venture capital fund investing in the future of food.
@@ -157,7 +158,7 @@ __Projects and organizations for sustainable business development.__
 * [Closed Loop Partners](https://www.closedlooppartners.com/) - A New York based investment firm that provides equity and project finance to scale products, services and infrastructure at the forefront of the development of the circular economy.
 * [Energy Impact Partners](https://www.energyimpactpartners.com/) - Investing in companies driving a cleaner, better energy future.
 * [Enertech Capital](https://www.enertechcapital.com/) - Investing and partnering with innovative companies driving change across the energy landscape.
-* [Evergy Ventures](https://evergyventures.com/) - Formerly known as GXP Investments, focused on exploring unique opportunities that are aligned with Evergy’s core mission to foster energy that moves us forward.
+* [Evergy Ventures](https://evergyventures.com/) - Formerly known as GXP Investments, focused on exploring unique opportunities that are aligned with Evergy's core mission to foster energy that moves us forward.
 * [GEEREF](https://geeref.com/) - An innovative Fund-of-Funds catalysing private sector capital into clean energy projects in developing countries and economies in transition.
 * [Evok Innovations](https://www.evokinnovations.com/) - Fueling industrial innovation.
 * [PIVA](http://www.piva.vc/) - A San Francisco-based VC firm investing in visionary entrepreneurs who are solving the world's critical problems in the industrial and energy spaces.
