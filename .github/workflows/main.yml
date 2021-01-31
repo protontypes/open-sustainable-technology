@@ -1,0 +1,21 @@
+name: CI
+on:
+  pull_request:
+    branches:
+      - main
+  push:
+    branches:
+      - main
+jobs:
+  Awesome_Lint:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+        with:
+          fetch-depth: 0
+      - run: | 
+              npx awesome-lint
+              npx awesome-lint ./docs/BUSINESS.md
+              npx awesome-lint ./docs/EDUCATION.md
+              npx awesome-lint ./docs/COMMUNITY.md
+
