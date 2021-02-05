@@ -2,7 +2,7 @@
 # Open Sustainable Technology
 [<img src="earth.gif" align="right" width="350">](https://tabletopwhale.com/)
 __Listing of global open technology projects to sustain a stable climate, energy supply, and vital natural resources.__ <br> <br>
-_"True sustainability is open." - [protontypes](https://protontypes.eu/)_<br> <br>  Your contribution is necessary to keep this list alive, increase the quality and to expand it. Read more about it's origin and how you can participate in the [contribution guide](CONTRIBUTING.md), [presentation slides](https://protontypes.eu/protontypes_open_sustainable_technology.pdf) and related [blog post](https://protontypes.eu/blog/2020/10/05/gathering-open-sustainable-technology/). Please [contact us](https://protontypes.eu/contact/) to give feedback, hints and ideas for [OpenSustain.tech](https://opensustain.tech/) or create a issue on GitHub. <br><br> [![](https://badgen.net/badge/icon/Community%20Support/green?icon=gitter&label&scale=1.5)](https://gitter.im/protontypes/community)
+_"True sustainability is open." - [protontypes](https://protontypes.eu/)_<br> <br>  Your contribution is necessary to keep this list alive, increase the quality and to expand it. Read more about it's origin and how you can participate in the [contribution guide](CONTRIBUTING.md), [presentation slides](https://protontypes.eu/protontypes_open_sustainable_technology.pdf) and related [blog post](https://protontypes.eu/blog/2020/10/05/gathering-open-sustainable-technology/). Please [contact us](https://protontypes.eu/contact/) to give feedback, hints and ideas for [OpenSustain.tech](https://opensustain.tech/) or create a issue on GitHub. <br><br> [![](https://badgen.net/badge/icon/Community%20Chat/009485?icon=gitter&label&scale=1.5)](https://gitter.im/protontypes/community)
 
 
 <!--toc-->
@@ -1040,6 +1040,7 @@ _"True sustainability is open." - [protontypes](https://protontypes.eu/)_<br> <b
 - [The POWER Project](https://power.larc.nasa.gov/) - Provides solar and meteorological data sets from NASA research for support of renewable energy, building energy efficiency and agricultural needs.
 - [awesome-transit](https://github.com/CUTR-at-USF/awesome-transit) - Community list of transit APIs, apps, datasets, research, and software.
 - [Climate Strike Software](https://github.com/climate-strike/license) - Prevent oil and gas companies from co-opting your work and extracting more fossil fuels with this software license.
+- [Ireland Energy Wiki by the National Retrofitting Modelling Group](https://energy-modelling-ireland.github.io/ireland-energy-wiki/) - Contains actively maintained listings of Irish energy-related resources.
 
 ### Footnotes
 _Animation created with [An Animated Map of the Earth](https://github.com/eleanorlutz/earth_atlas_of_space) by [Eleanor Lutz](https://twitter.com/eleanor_lutz)_
