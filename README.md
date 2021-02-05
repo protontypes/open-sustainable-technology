@@ -275,7 +275,6 @@ _"True sustainability is open." - [protontypes](https://protontypes.eu/)_<br> <b
 - [resstock](https://github.com/NREL/resstock) - Helping states, municipalities, utilities, and manufacturers identify which building stock improvements save the most energy and money.
 - [DSMR-reader](https://github.com/dsmrreader/dsmr-reader) - Used for reading the smart meter DSMR (Dutch Smart Meter Requirements) P1 port yourself at your home.
 - [Multiscale Solar Water Heating](https://github.com/LBNL-ETA/MSWH) - Solar water heating system modeling and simulation for individual and community scale projects.
-- [RC_BuildingSimulator](https://github.com/architecture-building-systems/RC_BuildingSimulator) - A Resistance Capacitance Model for an Energetic Simulation of a Building.
 - [eplusr](https://github.com/hongyuanjia/eplusr)(https://github.com/hongyuanjia/eplusr) - Provides a rich toolkit of using whole building energy simulation program EnergyPlus directly in R, which enables programmatic navigation, modification of EnergyPlus, conducts parametric simulations and retrieves outputs.
 
 
