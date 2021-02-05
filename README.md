@@ -2,7 +2,7 @@
 # Open Sustainable Technology
 [<img src="earth.gif" align="right" width="350">](https://tabletopwhale.com/)
 __Listing of global open technology projects to sustain a stable climate, energy supply, and vital natural resources.__ <br> <br>
-_"True sustainability is open." - [protontypes](https://protontypes.eu/)_<br> <br> The goal is to list all high quality and actively maintained projects worldwide. Your contribution is necessary to keep this list alive, increase the quality and to expand it. Read more about it's origin and how you can participate in the [contribution guide](CONTRIBUTING.md), [presentation slides](https://protontypes.eu/protontypes_open_sustainable_technology.pdf) and related [blog post](https://protontypes.eu/blog/2020/10/05/gathering-open-sustainable-technology/). Please [contact us](https://protontypes.eu/contact/) to give feedback, hints and ideas for [OpenSustain.tech](https://opensustain.tech/) or create a issue on GitHub. <br><br> [![](https://badgen.net/badge/icon/Community%20Chat/009485?icon=gitter&label&scale=1.5)](https://gitter.im/protontypes/community)
+_"True sustainability is open." - [protontypes](https://protontypes.eu/)_<br> <br> Our ambition to list all high quality and actively maintained projects worldwide. Your contribution is necessary to keep this list alive, increase the quality and to expand it. Read more about it's origin and how you can participate in the [contribution guide](CONTRIBUTING.md), [presentation slides](https://protontypes.eu/protontypes_open_sustainable_technology.pdf) and related [blog post](https://protontypes.eu/blog/2020/10/05/gathering-open-sustainable-technology/). Please [contact us](https://protontypes.eu/contact/) to give feedback, hints and ideas for [OpenSustain.tech](https://opensustain.tech/) or create a issue on GitHub. <br><br> [![](https://badgen.net/badge/icon/Community%20Chat/009485?icon=gitter&label&scale=1.5)](https://gitter.im/protontypes/community)
 
 
 <!--toc-->
@@ -487,6 +487,7 @@ _"True sustainability is open." - [protontypes](https://protontypes.eu/)_<br> <b
 - [energy-data](https://github.com/owid/energy-data) - Data on global energy consumption (primary energy, per capita, and growth rates), energy mix, electricity mix and other relevant metrics.
 - [OpenEI](https://openei.org) - A knowledge-sharing online community dedicated to connecting people with the latest information and data on energy resources from around the world.
 - [Power grid frequency data base](https://osf.io/by5hu/) - This data set contains precisely time stamped (GPS referenced) frequency data from several power grids around the world in one second resolution and 1 hour excerpts of raw data.
+- [EnergyDataSimulationChallenge](https://github.com/enechange/EnergyDataSimulationChallenge) - Allows applicants to demonstrate their ability to analyze and develop software that makes use of big energy production data.
 
 
 ## Emissions
