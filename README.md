@@ -856,6 +856,7 @@ _"True sustainability is open." - [protontypes](https://protontypes.eu/)_<br> <b
 - [U.S. Climate Resilience Toolkit](https://toolkit.climate.gov/) - A website designed to help people find and use tools, information, and subject matter expertise to build climate resilience.
 - [cfgrib](https://github.com/ecmwf/cfgrib) - A Python interface to map GRIB files to the NetCDF Common Data Model following the CF Convention using ecCodes.
 - [epwshiftr](https://github.com/ideas-lab-nus/epwshiftr) - Create future EnergyPlus Weather files using CMIP6 data.
+- [bomrang]( ) - Australian government Bureau of Meteorology (BOM) data client for R.
 
 ## Natural Resources
 
