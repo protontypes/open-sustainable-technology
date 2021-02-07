@@ -201,6 +201,7 @@ _"True sustainability is open." - [protontypes](https://protontypes.eu/)_<br> <b
 - [pandapipes](https://github.com/e2nIEE/pandapipes) - A pipeflow calculation tool that complements pandapower in the simulation of multi energy grids, in particular heat and gas networks.
 - [The Hydrogen Risk Assessment Models](https://github.com/sandialabs/hyram) - Is the first-ever software toolkit that integrates deterministic and probabilistic models for quantifying accident scenarios, predicting physical effects, and characterizing hydrogen hazards impact on people and structures.
 - [GasModels.jl](https://github.com/lanl-ansi/GasModels.jl) - A Julia/JuMP Package for Gas Network Optimization.
+- [SciGRID_gas](https://www.gas.scigrid.de/) - Methods to create an automated network model of the European gas transportation network.
 
 
 ## Energy Distribution and Grids
