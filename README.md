@@ -655,6 +655,7 @@ _"True sustainability is open." - [protontypes](https://protontypes.eu/)_<br> <b
 - [Pyronear Risks](https://github.com/pyronear/pyro-risks) - The pyro-risks project aims at providing the pyronear-platform with a machine learning based wildfire forecasting capability.
 - [Tree Mapper App](https://github.com/Plant-for-the-Planet-org/treemapper) - Tree Mapper extends the Plant-for-the-Planet App and allows on site coordinate submission during plantation.
 - [Sunflower](https://github.com/android/sunflower) - A gardening app illustrating Android development best practices with Android Jetpack.
+- [Awesome Vegetation Index](https://github.com/px39n/Awesome-Vegetation-Index) - List of reference, applications of common Vegetation Indices for Multi-spectral, hyper-spectral and UAV images.
 
 
 ### Ice and Poles
