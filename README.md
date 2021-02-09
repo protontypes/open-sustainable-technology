@@ -232,6 +232,7 @@ _"True sustainability is open." - [protontypes](https://protontypes.eu/)_<br> <b
 - [APIS](https://github.com/SonyCSL/APIS) - Build a microgrid that utilizes variable renewable energy as the main power source and enhances the resilience of the power system.
 - [pymgrid](https://github.com/Total-RD/pymgrid) - A Python library to generate and simulate a large number of microgrids.
 - [SciGRID](https://power.scigrid.de/) - The focus will be on the European transmission grids, but the methods will be applicable more generally.
+- [Offgridders](https://github.com/rl-institut/offgridders) - Models and optimizes capacity & dispatch of electricity supply systems, off-grid or connected to a (weak) central grid.
 
 
 ## Energy Consumption and Efficiency
