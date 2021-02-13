@@ -1055,6 +1055,7 @@ _"True sustainability is open." - [protontypes](https://protontypes.eu/)_<br> <b
 - [awesome-transit](https://github.com/CUTR-at-USF/awesome-transit) - Community list of transit APIs, apps, datasets, research, and software.
 - [Climate Strike Software](https://github.com/climate-strike/license) - Prevent oil and gas companies from co-opting your work and extracting more fossil fuels with this software license.
 - [Ireland Energy Wiki by the National Retrofitting Modelling Group](https://energy-modelling-ireland.github.io/ireland-energy-wiki/) - Contains actively maintained listings of Irish energy-related resources.
+- [Climate Impact Lab](http://www.impactlab.org/) - A team of economists, climate scientists, data engineers, and risk analysts are building the world’s most comprehensive body of research quantifying the impacts of climate change, sector-by-sector and community-by-community around the world. 
 
 ### Footnotes
 _Animation created with [An Animated Map of the Earth](https://github.com/eleanorlutz/earth_atlas_of_space) by [Eleanor Lutz](https://twitter.com/eleanor_lutz)_
