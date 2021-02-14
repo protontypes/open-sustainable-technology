@@ -345,6 +345,8 @@ _"True sustainability is open." - [protontypes](https://protontypes.eu/)_<br> <b
 - [Vehicle Energy Dataset](https://github.com/gsoh/VED) - A large-scale dataset for vehicle energy consumption research.
 - [gbfs](https://github.com/NABSA/gbfs) - Documentation for the General Bikeshare Feed Specification, a standardized data feed for shared mobility system availability.
 - [Bike Index](https://github.com/bikeindex/bike_index) - Bike registration that works: online, powerful, free.
+- [go-ocpp](https://github.com/voltbras/go-ocpp) - v1.5 and v1.6 Open Charge Point Protocol implementation in Golang.
+- [EVMap](https://github.com/johan12345/EVMap) - Android app to access the goingelectric.de electric vehicle charging station directory.
 
 ### Production and Industry
 
