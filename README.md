@@ -728,6 +728,7 @@ _"True sustainability is open." - [protontypes](https://protontypes.eu/)_<br> <b
 - [Blueant](https://github.com/AustralianAntarcticDivision/blueant) - Environmental data for Antarctic and Southern Ocean science.
 - [CO2SYS](https://github.com/jamesorr/CO2SYS-MATLAB) -  A MATLAB (or octave) project to compute variables of ocean CO2 systems.
 - [mocsy](https://github.com/jamesorr/mocsy) - Routines to model ocean carbonate system thermodynamics.
+- [seacarb](https://github.com/jpgattuso/seacarb-git) - An R package that calculates various parameters of the carbonate system in seawater.
 
 
 ### Atmosphere
