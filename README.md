@@ -156,6 +156,7 @@ _"True sustainability is open." - [protontypes](https://protontypes.eu/)_<br> <b
 - [OpenGeoSys 6](https://gitlab.opengeosys.org/ogs/ogs) - Is a scientific open source project for the development of numerical methods for the simulation of thermo-hydro-mechanical-chemical processes in porous and fractured media.
 - [FEHM](https://github.com/lanl/FEHM) - Has proved to be a valuable asset on a variety of projects of national interest including Environmental Remediation of the Nevada Test Site, the LANL Groundwater Protection Program, geologic CO2 sequestration, Enhanced Geothermal Energy programs, Oil and Gas production, Nuclear Waste Isolation, and Arctic Permafrost.
 - [thermo](https://github.com/CalebBell/thermo) - Thermodynamics, phase equilibrium, transport properties and chemical database component of Chemical Engineering Design Library.
+- [waiwera](https://github.com/waiwera/waiwera) - A parallel, open-source geothermal flow simulator.
 
 ### Bioenergy
 
