@@ -928,6 +928,7 @@ _"True sustainability is open." - [protontypes](https://protontypes.eu/)_<br> <b
 - [Model My Watershed](https://github.com/WikiWatershed/model-my-watershed) - A is a watershed-modeling web app for citizens, conservation practitioners, municipal decision-makers, educators, and students.
 - [AquaSat](https://github.com/GlobalHydrologyLab/AquaSat) - A data set to enable remote sensing of water quality for inland waters.
 - [CDE](https://github.com/ropensci/cde) - Facilitates searching and download of the Water Framework Directive reporting data for all waterbodies from the EA website.
+- [pyGSFLOW](https://github.com/pygsflow/pygsflow) - A set of Python modules to run the GSFLOW integrated hydrologic model program.
 
 
 ### Soil and Land
