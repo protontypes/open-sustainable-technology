@@ -931,8 +931,9 @@ _"True sustainability is open." - [protontypes](https://protontypes.eu/)_<br> <b
 - [pyGSFLOW](https://github.com/pygsflow/pygsflow) - A set of Python modules to run the GSFLOW integrated hydrologic model program.
 - [bcgroundwater](https://github.com/bcgov/bcgroundwater) - An R package to facilitate analysis and visualization of groundwater data from the British Columbia groundwater observation well network.
 - [GSFLOW-GRASS](https://github.com/UMN-Hydro/GSFLOW-GRASS) - Generates inputs for and runs the coupled groundwater-surface water model "GSFLOW".
-- [rSFSW2](https://github.com/DrylandEcology/rSFSW2) - A R package to create soil water balance simulation experiment.
-
+- [GWHAT](https://github.com/jnsebgosselin/gwhat) - A free, open source, and cross-platform interactive computer program whose main focus is the interpretation of observation well hydrographs.
+- [Soil-Water-Balance](https://github.com/smwesten-usgs/swb) - A Modified Thornthwaite-Mather Soil-Water-Balance Code for Estimating Groundwater Recharge.
+- [Long-term Trends in Groundwater Levels in B.C.](https://github.com/bcgov/groundwater-levels-indicator) - R scripts for an indicator on long-term trends in groundwater levels in British Columbia published on Environmental Reporting British Columbia.
 
 ### Soil and Land
 
@@ -969,6 +970,7 @@ _"True sustainability is open." - [protontypes](https://protontypes.eu/)_<br> <b
 - [EarthML](https://github.com/pyviz-topics/EarthML) - Improving, documenting, and illustrating how to use other, freely available, general-purpose open source projects to solve problems in the earth sciences.
 - [STEP](http://step.esa.int/main/) - ESA is developing free open source toolboxes for the scientific exploitation of Earth Observation missions under the Scientific Exploitation of Operational Missions programme element.
 - [globsim](https://github.com/geocryology/globsim) - Using global reanalyses for permafrost simulation.
+- [rSFSW2](https://github.com/DrylandEcology/rSFSW2) - A R package to create soil water balance simulation experiment.
 
 ## Agriculture and Nutrition
 
