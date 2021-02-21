@@ -1,9 +1,9 @@
 <!--lint ignore awesome-toc awesome-contributing awesome-badge -->
 # Open Educational Resources on Sustainable Technology
 
-__Looking for recources to get started in Open Sustainable Technology? Here you can find dedicated educational resources as well as best practices for your ideas.__
+__Looking for resources to get started in Open Sustainable Technology? Here you can find dedicated educational resources as well as best practices for your ideas.__
 
-## Sutainable Technologies 
+## Tutorials and Courses
 - [Earth and Environmental Data Science Book](https://github.com/earth-env-data-science/earth-env-data-science-book) - An Introduction to Earth and Environmental Data Science.
 - [Free Earth Data Science Courses & Textbooks](https://github.com/earthlab/earthlab.github.io) - A site dedicated to tutorials, course and other learning materials and resources developed by the Earth Lab team.
 - [ESM-lectures](https://github.com/nworbmot/esm-lectures) - Lecture slides for KIT Energy System Modelling course.
@@ -26,3 +26,11 @@ __Looking for recources to get started in Open Sustainable Technology? Here you 
 - [Fundamentals of Remote Sensing](https://appliedsciences.nasa.gov/join-mission/training/english/fundamentals-remote-sensing) - Participants will have a basic understanding of NASA satellites, sensors, data, tools, portals and applications to environmental monitoring and management.
 - [Building DC Energy Systems](https://learn.libre.solar/) - Hosts an Open Educational Resource (OER) for Building DC Energy Systems.
 - [The General Circulation of the Atmosphere](https://nordicesmhub.github.io/GEO4962/) - The course gives a broad overview about the general circulation of the atmosphere, including the tropospheric and stratospheric circulations. 
+
+## Study Programs 
+
+- [Sustainable Energy Technology](https://www.academy.rwth-aachen.de/en/index/education-formats/summer-schools/sustainable-energy-technology) - The Summer School explores sustainable energy technologies, such as building performance simulation, methods for energy supply of buildings, and energy trading and power plant management.
+- [SustainabilityDegrees](https://www.sustainabilitydegrees.com/) - Get access to leading sustainability degrees, sustainable careers of the future, excellent learning resources, and an understanding of what sustainability really means.
+- [Sustainable Business and Technology](https://www.umwelt-campus.de/studium/studienangebot-weiterbildung/bachelor/sustainable-business-and-technology-beng) - This interdisciplinary bachelor program at Germany's most sustainability-oriented university incorporates all aspects necessary to meet the demand of young students seeking a global perspective at the edge between business and technology.
+- [M.Sc. Sustainable Urban Technologies](https://www.uni-due.de/urbane-systeme/master_sustainable-urban-technologies_en.shtml) - Technology in the Context of Sustainable Urban Systems.
+- [Sustainable Bioprocess Technology](https://www.hs-furtwangen.de/en/programmes/sustainable-bioprocess-technology-master/) - Manufacture environmentally friendly products which are economical on resources.
