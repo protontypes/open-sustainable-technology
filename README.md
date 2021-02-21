@@ -930,6 +930,8 @@ _"True sustainability is open." - [protontypes](https://protontypes.eu/)_<br> <b
 - [CDE](https://github.com/ropensci/cde) - Facilitates searching and download of the Water Framework Directive reporting data for all waterbodies from the EA website.
 - [pyGSFLOW](https://github.com/pygsflow/pygsflow) - A set of Python modules to run the GSFLOW integrated hydrologic model program.
 - [bcgroundwater](https://github.com/bcgov/bcgroundwater) - An R package to facilitate analysis and visualization of groundwater data from the British Columbia groundwater observation well network.
+- [GSFLOW-GRASS](https://github.com/UMN-Hydro/GSFLOW-GRASS) - Generates inputs for and runs the coupled groundwater-surface water model "GSFLOW".
+- [rSFSW2](https://github.com/DrylandEcology/rSFSW2) - A R package to create soil water balance simulation experiment.
 
 
 ### Soil and Land
