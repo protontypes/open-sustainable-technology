@@ -877,8 +877,11 @@ _"True sustainability is open." - [protontypes](https://protontypes.eu/)_<br> <b
 - [hockeystick](https://github.com/cortinah/hockeystick) - Make essential Climate Change datasets easily available to non-climate experts.
 - [U.S. Climate Resilience Toolkit](https://toolkit.climate.gov/) - A website designed to help people find and use tools, information, and subject matter expertise to build climate resilience.
 - [cfgrib](https://github.com/ecmwf/cfgrib) - A Python interface to map GRIB files to the NetCDF Common Data Model following the CF Convention using ecCodes.
+- [epwshiftr](https://github.com/ideas-lab-nus/epwshiftr) - Create future EnergyPlus Weather files using CMIP6 data.
+- [bomrang](https://github.com/ropensci/bomrang) - Australian government Bureau of Meteorology (BOM) data client for R.
 - [Intake-esm](https://github.com/intake/intake-esm) - An intake plugin for parsing an Earth System Model catalog and loading assets into xarray datasets.
 - [h5netcdf](https://github.com/h5netcdf/h5netcdf) - A Python interface for the netCDF4 file-format that reads and writes local or remote HDF5 files directly via h5py or h5pyd, without relying on the Unidata netCDF library.
+
 
 ## Natural Resources
 
@@ -950,7 +953,13 @@ _"True sustainability is open." - [protontypes](https://protontypes.eu/)_<br> <b
 - [Model My Watershed](https://github.com/WikiWatershed/model-my-watershed) - A is a watershed-modeling web app for citizens, conservation practitioners, municipal decision-makers, educators, and students.
 - [AquaSat](https://github.com/GlobalHydrologyLab/AquaSat) - A data set to enable remote sensing of water quality for inland waters.
 - [CDE](https://github.com/ropensci/cde) - Facilitates searching and download of the Water Framework Directive reporting data for all waterbodies from the EA website.
-
+- [pyGSFLOW](https://github.com/pygsflow/pygsflow) - A set of Python modules to run the GSFLOW integrated hydrologic model program.
+- [bcgroundwater](https://github.com/bcgov/bcgroundwater) - An R package to facilitate analysis and visualization of groundwater data from the British Columbia groundwater observation well network.
+- [GSFLOW-GRASS](https://github.com/UMN-Hydro/GSFLOW-GRASS) - Generates inputs for and runs the coupled groundwater-surface water model "GSFLOW".
+- [GWHAT](https://github.com/jnsebgosselin/gwhat) - A free, open source, and cross-platform interactive computer program whose main focus is the interpretation of observation well hydrographs.
+- [Soil-Water-Balance](https://github.com/smwesten-usgs/swb) - A Modified Thornthwaite-Mather Soil-Water-Balance Code for Estimating Groundwater Recharge.
+- [Long-term Trends in Groundwater Levels in B.C.](https://github.com/bcgov/groundwater-levels-indicator) - R scripts for an indicator on long-term trends in groundwater levels in British Columbia published on Environmental Reporting British Columbia.
+- [GSFLOW](https://www.usgs.gov/software/coupled-ground-water-and-surface-water-flow-model-gsflow) - A coupled Groundwater and Surface-water FLOW model based on the integration of the USGS Precipitation-Runoff Modeling System and the USGS Modular Groundwater Flow Model.
 
 ### Soil and Land
 
@@ -987,6 +996,7 @@ _"True sustainability is open." - [protontypes](https://protontypes.eu/)_<br> <b
 - [EarthML](https://github.com/pyviz-topics/EarthML) - Improving, documenting, and illustrating how to use other, freely available, general-purpose open source projects to solve problems in the earth sciences.
 - [STEP](http://step.esa.int/main/) - ESA is developing free open source toolboxes for the scientific exploitation of Earth Observation missions under the Scientific Exploitation of Operational Missions programme element.
 - [globsim](https://github.com/geocryology/globsim) - Using global reanalyses for permafrost simulation.
+- [rSFSW2](https://github.com/DrylandEcology/rSFSW2) - A R package to create soil water balance simulation experiment.
 
 ## Agriculture and Nutrition
 
