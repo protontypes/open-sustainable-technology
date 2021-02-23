@@ -815,6 +815,8 @@ _"True sustainability is open." - [protontypes](https://protontypes.eu/)_<br> <b
 - [pymt](https://github.com/csdms/pymt) - A Python toolkit for running and coupling Earth surface models.
 - [Landlab](https://github.com/landlab/landlab) - An open source Python package for numerical modeling of Earth surface dynamics.
 - [Dragonfly for Grasshopper](https://github.com/ladybug-tools/dragonfly-legacy) - Legacy dragonfly plugin for large-scale climate and urban heat island modeling.
+- [Juelich Rapid Spectral Simulation Code](https://github.com/slcs-jsc/jurassic) - The Juelich Rapid Spectral Simulation Code (JURASSIC) is a fast infrared radiative transfer model for the analysis of atmospheric remote sensing measurements.
+- [Massive-Parallel Trajectory Calculations](https://github.com/slcs-jsc/mptrac) - Massive-Parallel Trajectory Calculations (MPTRAC) is a Lagrangian particle dispersion model for the analysis of atmospheric transport processes in the troposphere and stratosphere.
 
 
 ### Earth Climate Datasets and Tools
