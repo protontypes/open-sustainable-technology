@@ -479,6 +479,7 @@ _"True sustainability is open." - [protontypes](https://protontypes.eu/)_<br> <b
 
 ## Datasets on Energy Systems
 
+- [OpenNEM](https://github.com/opennem/opennem-fe) - Aims to make the wealth of public National Electricity Market data more accessible to a wider audience.
 - [Open Power System Data](https://open-power-system-data.org/data-sources) - A list of primary data sources that are helpful for power system modeling of Europe.
 - [The Public Utility Data Liberation Project](https://github.com/catalyst-cooperative/pudl) - Makes the US' energy data easier to access and use.
 - [Global Power Plant Database](https://github.com/wri/global-power-plant-database) - A comprehensive, global and open source database of power plants.
