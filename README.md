@@ -668,7 +668,7 @@ _"True sustainability is open." - [protontypes](https://protontypes.eu/)_<br> <b
 - [Tree Mapper App](https://github.com/Plant-for-the-Planet-org/treemapper) - Tree Mapper extends the Plant-for-the-Planet App and allows on site coordinate submission during plantation.
 - [Sunflower](https://github.com/android/sunflower) - A gardening app illustrating Android development best practices with Android Jetpack.
 - [Awesome Vegetation Index](https://github.com/px39n/Awesome-Vegetation-Index) - List of reference, applications of common Vegetation Indices for Multi-spectral, hyper-spectral and UAV images.
-
+- [biodivMapR](https://github.com/jbferet/biodivMapR) - An R package for α- and β-diversity mapping using remotely-sensed images.
 
 ### Ice and Poles
 
