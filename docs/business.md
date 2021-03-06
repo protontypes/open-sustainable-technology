@@ -53,8 +53,7 @@ __Projects, resources and organizations for that support you in creating a susta
 * [GreenTec Capital Partners](https://greentec-capital.com/) - Invests in African start-ups and SMEs with a focus on combining social and environmental impact with financial success.
 * [Startup Wise Guys](https://startupwiseguys.com/sustainability/) - Every business and individual has a direct or indirect impact on climate change, sustainable living, and many other pressing global challenges.
 * [The Climate Pledge Fund](https://sustainability.aboutamazon.com/about/climate-pledge-fund) - Supports the development of sustainable and decarbonizing technologies and services that will enable Amazon and other companies to meet the goals set by The Climate Pledge.
-
-
+* [The Greenhouse](https://www.imperial.ac.uk/grantham/innovation/what-we-do/the-greenhouse/) - At its core, The Greenhouse is a 12-month innovation programme for climate positive technology startups that offers early-stage ("pre-seed") entrepreneurs access to business coaching with experienced professionals, a range of masterclasses, free workspace at our new headquarters in central London (to be announced in December), and up to £40,000 in equity-free grant funding.
 
 ### Energy and Resources
 
@@ -190,3 +189,5 @@ __Projects, resources and organizations for that support you in creating a susta
 * [Open-core model](https://en.wikipedia.org/wiki/Open-core_model) - The open-core model is a business model for the monetization of commercially produced open-source software.
 * [COSS](https://docs.google.com/spreadsheets/d/17nKMpi_Dh5slCqzLSFBoWMxNvWiwt2R-t4e_l7LPLhU/edit#gid=0) - Commercial open-source software company index.
 * [Roadmap: Open Source](https://www.bvp.com/atlas/roadmap-open-source) - After years of investing in open source software, we're releasing our thinking on what positions these companies as emerging technology giants.
+* [Open Source Management & Strategy](https://training.linuxfoundation.org/training/open-source-management-and-strategy/) - This 7-module course series builds on the accumulated wisdom of many previous training modules on open source best practices, while adding fresh and updated content to explain all of the critical elements of working effectively with open source in your enterprise.
+* [COSS-Course](https://github.com/dirkriehle/coss-course) - A course on commercial open source startups.
