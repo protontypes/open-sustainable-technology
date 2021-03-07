@@ -18,7 +18,7 @@ jobs:
             apikey: ${{ secrets.raaskey }}
             enterpriseid: "cd7cedcd"
             user: ${{ github.actor }}
-            treecount: 10
+            treecount: 100
             projectid: "14442771" # This projectid can be used to have your trees planted where they are needed the most.
             production: "true"
 
