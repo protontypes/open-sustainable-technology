@@ -100,6 +100,7 @@ _"True sustainability is open." - [protontypes](https://protontypes.eu/)_<br> <b
 - [honeybee](https://github.com/ladybug-tools/honeybee) - Honeybee is a Python library to create, run and visualize the results of daylight (RADIANCE) and energy analysis (EnergyPlus/OpenStudio).
 - [Open Solar Project](https://github.com/opensolarproject/OSPController) - ESP32 Smart Solar Charger.
 - [MPPT-Solar-Charger](https://github.com/danjulio/MPPT-Solar-Charger) - Supporting documentation and software for the MPPT Solar Charger.
+- [Tonatiuh](https://github.com/iat-cener/tonatiuh) - A Monte Carlo ray tracer for the optical simulation of solar concentrating systems.
 
 ### Wind Turbines
 
