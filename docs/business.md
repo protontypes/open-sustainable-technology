@@ -191,3 +191,4 @@ __Projects, resources and organizations for that support you in creating a susta
 * [Roadmap: Open Source](https://www.bvp.com/atlas/roadmap-open-source) - After years of investing in open source software, we're releasing our thinking on what positions these companies as emerging technology giants.
 * [Open Source Management & Strategy](https://training.linuxfoundation.org/training/open-source-management-and-strategy/) - This 7-module course series builds on the accumulated wisdom of many previous training modules on open source best practices, while adding fresh and updated content to explain all of the critical elements of working effectively with open source in your enterprise.
 * [COSS-Course](https://github.com/dirkriehle/coss-course) - A course on commercial open source startups.
+* [Sid Sijbrandij](https://www.heavybit.com/library/video/commercial-open-source-business-strategies/) - Commercial Open Source Business Strategies.
