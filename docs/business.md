@@ -1,7 +1,7 @@
 <!--lint ignore awesome-toc awesome-contributing awesome-badge -->
 # Sustainable Business Development
 
-__Resources, Incubators, Hackathons and Accelerator Programme for Sustainable Business Development.__
+__Financial resources, incubators, hackathons and accelerators for sustainable business development.__
 
 ## Incubators and Hackathons
 * [Greentown Labs](https://greentownlabs.com/) - Solving the climate crisis through entrepreneurship and collaboration.
