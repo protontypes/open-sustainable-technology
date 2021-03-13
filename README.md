@@ -886,6 +886,7 @@ _"True sustainability is open." - [protontypes](https://protontypes.eu/)_<br> <b
 - [bomrang](https://github.com/ropensci/bomrang) - Australian government Bureau of Meteorology (BOM) data client for R.
 - [Intake-esm](https://github.com/intake/intake-esm) - An intake plugin for parsing an Earth System Model catalog and loading assets into xarray datasets.
 - [h5netcdf](https://github.com/h5netcdf/h5netcdf) - A Python interface for the netCDF4 file-format that reads and writes local or remote HDF5 files directly via h5py or h5pyd, without relying on the Unidata netCDF library.
+- [rsoi](https://github.com/boshek/rsoi) - An R package to download the most up to date climate indices.
 
 
 ## Natural Resources
