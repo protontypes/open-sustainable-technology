@@ -968,6 +968,7 @@ _"True sustainability is open." - [protontypes](https://protontypes.eu/)_<br> <b
 - [GSFLOW](https://www.usgs.gov/software/coupled-ground-water-and-surface-water-flow-model-gsflow) - A coupled Groundwater and Surface-water FLOW model based on the integration of the USGS Precipitation-Runoff Modeling System and the USGS Modular Groundwater Flow Model.
 - [canwqdata](https://github.com/bcgov/canwqdata) - An R package to download open water quality data from Environment and Climate Change Canada's National Long-term Water Quality Monitoring Data.
 - [HASP](https://github.com/USGS-R/HASP/issues) - Hydrologic AnalySis Package.
+- [CSHShydRology](https://github.com/CSHS-CWRA/CSHShydRology) - This is an collection of R functions used by the Canadian Association Society for Hydrological Sciences. 
 
 ### Soil and Land
 
