@@ -430,6 +430,7 @@ _"True sustainability is open." - [protontypes](https://protontypes.eu/)_<br> <b
 - [FlexiGIS](https://github.com/FlexiGIS/FlexiGIS) - Extracts, filters and categorizes the geo-referenced urban energy infrastructure and allocates the required decentralized storage in urban settings.
 - [EMMA](https://neon.energy/emma/) - A techno-economic model of the north-west European power market covering France, Benelux, Germany and Poland.
 - [reVX](https://github.com/NREL/reVX) - Renewable Energy Potential(V) eXchange Toot.
+- [CapacityExpansion.jl](https://github.com/YoungFaithful/CapacityExpansion.jl) - Future energy system planning (Generation and Transmission Capacity Expansion Planning) in Julia. 
 
 
 ### Analysis
