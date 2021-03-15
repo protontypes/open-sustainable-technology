@@ -465,7 +465,7 @@ _"True sustainability is open." - [protontypes](https://protontypes.eu/)_<br> <b
 - [CityLearn](https://github.com/intelligent-environments-lab/CityLearn) - Official reinforcement learning environment for demand response and load shaping.
 - [rl-testbed-for-energyplus](https://github.com/IBM/rl-testbed-for-energyplus) - Reinforcement Learning Tested for Power Consumption Optimization using EnergyPlus.
 - [tsam](https://github.com/FZJ-IEK3-VSA/tsam) - A Python package which uses different machine learning algorithms for the aggregation of time series.
-- [TimeSeriesClustering](https://github.com/holgerteichgraeber/TimeSeriesClustering.jl) - Julia package for clustering and aggregating, detecting motifs, and quantifying similarity between time series datasets.
+- [TimeSeriesClustering](https://github.com/holgerteichgraeber/TimeSeriesClustering.jl) - Provides simple integration of multi-dimensional time-series data (e.g. multiple attributes such as wind availability, solar availability, and electricity demand) in a single aggregation process.
 
 ### Monitoring and Control
 
