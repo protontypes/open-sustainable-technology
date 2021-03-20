@@ -12,6 +12,7 @@ __Financial resources, incubators, hackathons and accelerators for sustainable b
 * [treehacks](https://www.treehacks.com/) - Hacking for the future: addressing deeply impactful problems and building creative, unique solutions.
 * [Energy and Climate Hack](https://opendata.ch/projects/energy-climate-hack_2021/) - In the lead-up to the global climate conference COP26 in Glasgow, a two-day hackathon will bring together young talents from Switzerland and the UK.
 * [Hoboken Climate Hackathon](https://www.hobokenclimate.com/) - The focus of the hack is to build solutions to help solve climate related problems in the city of Hoboken.
+* [Call for Code](https://developer.ibm.com/callforcode/) - Through the Call for Code initiative, you have the opportunity to build and contribute to sustainable, open source technology projects that address social and humanitarian issues.
 
 ## Accelerators
 
