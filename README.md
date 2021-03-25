@@ -289,7 +289,7 @@ _"True sustainability is open." - [protontypes](https://protontypes.eu/)_<br> <b
 - [eplusr](https://github.com/hongyuanjia/eplusr) - Provides a rich toolkit of using whole building energy simulation program EnergyPlus directly in R, which enables programmatic navigation, modification of EnergyPlus, conducts parametric simulations and retrieves outputs.
 - [Brick](https://github.com/ruijis/Brick) - Brick is an open-source effort to standardize semantic descriptions of the physical, logical and virtual assets in buildings and the relationships between them.
 - [gbXML](https://github.com/ruijis/gbXML_Schemas) - Green Building XML (gbXML) is the language of buildings, allowing disparate building design software tools to all communicate with one another.
-
+- [BETTER](https://github.com/LBNL-JCI-ICF/better) - Building Efficiency Targeting Tool for Energy Retrofits.
 
 ### Mobility and Transportation
 
