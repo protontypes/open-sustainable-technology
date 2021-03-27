@@ -677,6 +677,7 @@ _"True sustainability is open." - [protontypes](https://protontypes.eu/)_<br> <b
 - [Sunflower](https://github.com/android/sunflower) - A gardening app illustrating Android development best practices with Android Jetpack.
 - [Awesome Vegetation Index](https://github.com/px39n/Awesome-Vegetation-Index) - List of reference, applications of common Vegetation Indices for Multi-spectral, hyper-spectral and UAV images.
 - [biodivMapR](https://github.com/jbferet/biodivMapR) - An R package for α- and β-diversity mapping using remotely-sensed images.
+- [Continuous Reforestation](https://github.com/protontypes/continuous-reforestation) - A GitHub Action for planting trees within your development workflow using the Reforestation as a Service (RaaS) API developed by DigitalHumani.
 
 ### Ice and Poles
 
