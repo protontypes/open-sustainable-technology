@@ -46,3 +46,4 @@ __Outstanding open communities developing independent and free sustainable techn
 - [Climate Change AI](https://www.climatechange.ai/) - Catalyzing impactful work at the intersection of climate change and machine learning.
 - [Tomorrow](https://github.com/tmrowco) - The climate impact of everything made accessible to everyone.
 - [Project Drawdown](https://drawdown.ecochallenge.org/) - Helping the world stop global warming by achieving Drawdown as quickly, safely, and equitably as possible.
+- [Appropedia](https://www.appropedia.org/OpenClimate) - A wiki designed to collaborate on solutions in the areas of sustainability, poverty alleviation, and development cooperation.
