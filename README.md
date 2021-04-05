@@ -899,6 +899,7 @@ _"True sustainability is open." - [protontypes](https://protontypes.eu/)_<br> <b
 - [rsoi](https://github.com/boshek/rsoi) - An R package to download the most up to date climate indices.
 - [NCO](https://github.com/nco/nco) - Manipulates and analyzes data stored in netCDF-accessible formats.
 - [pynco](https://github.com/nco/pynco) - Contains the module python nco, which implements a python style access to the NetCDF Operators (NCO).
+- [climateR](https://github.com/mikejohnson51/climateR) - An R package for getting point and gridded climate data by AOI.
 
 
 ## Natural Resources
