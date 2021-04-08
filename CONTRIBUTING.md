@@ -2,6 +2,12 @@
 ## Guideline
 > _For technology to be truly sustainable, everyone must have access to it and be able to adapt it to their needs. Climate change and the loss of natural resources are globally emerging challenges. protontypes is starting the unique attempt to map all open sustainable technology in one list. By spreading knowledge in this domain with open software, standards, tools, and platforms a sustainable economy can be reached in a much shorter timespan._
 
+## Contributors 
+
+<a href="https://github.com/protontypes/open-sustainable-technology/graphs/contributors">
+  <img width="60%" src="https://contrib.rocks/image?repo=protontypes/open-sustainable-technology" />
+</a>
+
 ## What criteria must my project meet to be considered?
 
 * The project must comply as closely as possible with the [Guideline](#guideline).
