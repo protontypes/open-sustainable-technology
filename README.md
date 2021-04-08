@@ -1111,4 +1111,8 @@ _"True sustainability is open." - [protontypes](https://protontypes.eu/)_<br> <b
 
 ### Footnotes
 
+<a href="https://github.com/protontypes/open-sustainable-technology/graphs/contributors">
+  <img width="60%" src="https://contrib.rocks/image?repo=protontypes/open-sustainable-technology" />
+</a>
+
 _Animation created with [An Animated Map of the Earth](https://github.com/eleanorlutz/earth_atlas_of_space) by [Eleanor Lutz](https://twitter.com/eleanor_lutz)_
