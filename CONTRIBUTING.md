@@ -38,19 +38,3 @@ All listed projects allow direct participation. This is possible in many differe
 ## Planting trees
 We are dependent on your support. To motivate you to add projects and maintain the list, we plant 100 trees for each merged pull request.
 Together with our partners of [DigitalHumani](https://digitalhumani.com) we created [Continuous-Reforestation](https://github.com/protontypes/continuous-reforestation) to automate the tree planting process.
-
-
-## Where and How to find further projects
-Almost all open source projects are using git for cooperation. Thats why git, gitlab or github are always good key terms to identify new projects for this list.
-The following search engines can be helpful to find further projects:
-
-* GitHub
-* Gitlab
-* Google Scholar
-* DuckDuckGo
-* Google
-* Zenodo
-* Libraries.io
-* Doaj.org
-* [The Journal of Open Source Software](https://joss.theoj.org/) - The Journal of Open Source Software is a developer friendly, open access journal for research software packages.
-
