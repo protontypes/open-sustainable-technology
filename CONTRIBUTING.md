@@ -33,8 +33,8 @@ Further details on how do `Pull Requests` can be found in the official GitHub [d
 
 ## Contribute to listed projects
 
-All listed projects allow direct participation. This is possible in many different ways. From using open source projects to bug fixing. Get in touch with the open communities and find out how you can contribute with your skills and knowledge. Please contact us if you would like to know how you can support projects worldwide through simple research or open-source contributions.
+All the projects listed allow direct and open participation. This is possible in many different ways. From using the open source projects to fixing bugs. Get in touch with the open communities and find out how you can contribute with your skills and knowledge. Most projects have a Contribution Guide like this to get involved in the project and community. Please contact us if you need additional support on how to support projects worldwide through simple research or open source contributions.
 
-## Planting trees
+## Planting trees and continuous reforestation
 We are dependent on your support. To motivate you to add projects and maintain the list, we plant 100 trees for each merged pull request.
 Together with our partners of [DigitalHumani](https://digitalhumani.com) we created [Continuous-Reforestation](https://github.com/protontypes/continuous-reforestation) to automate the tree planting process.
