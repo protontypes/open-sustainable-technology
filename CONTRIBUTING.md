@@ -31,7 +31,7 @@ Additions to the list are done by pull requests.
 
 Further details on how do `Pull Requests` can be found in the official GitHub [documentation](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
 
-## Contribute to a listed projects
+## Contribute to listed projects
 
 All listed projects allow direct participation. This is possible in many different ways. From using open source projects to bug fixing. Get in touch with the open communities and find out how you can contribute with your skills and knowledge. Please contact us if you would like to know how you can support projects worldwide through simple research or open-source contributions.
 
