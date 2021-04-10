@@ -10,7 +10,7 @@
 
 ## What criteria must my project meet to be considered?
 
-* The project must comply as closely as possible with the [Guideline](#guideline).
+* The project must comply as closely as possible with the [guideline](#guideline).
 * You need to show that others than the project main developers are using the project. A good indicator are issues created by external users.
 * Your project should be structured and documented in such a way that it can be reused and extended by others.
 * Larger parts of the project are published under an [open source license](https://choosealicense.com/).
@@ -30,6 +30,10 @@ Additions to the list are done by pull requests.
 * Every new project entry will receive a tweet created by protontypes. You can define a custom message for that with your project URL and great people if you like to. Just add `My Tweet:` to the Pull request comment.
 
 Further details on how do `Pull Requests` can be found in the official GitHub [documentation](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
+
+## Contribute to a listed projects
+
+All listed projects allow direct participation. This is possible in many different ways. From using open source projects to bug fixing. Get in touch with the open communities and find out how you can contribute with your skills and knowledge. Please contact us if you would like to know how you can support projects worldwide through simple research or open-source contributions.
 
 ## Planting trees
 We are dependent on your support. To motivate you to add projects and maintain the list, we plant 100 trees for each merged pull request.
