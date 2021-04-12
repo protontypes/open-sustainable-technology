@@ -383,6 +383,7 @@ _"True sustainability is open." - [protontypes](https://protontypes.eu/)_<br> <b
 - [nvidia-co2](https://github.com/kylemcdonald/nvidia-co2) - Adds gCO2eq emissions to nvidia-smi.
 - [The Low Impact Website](https://github.com/Organic-Basics/ob-low-impact-website) - Reduces data transfer by up to 70% in comparison to our regular website.
 - [cryptoart-footprint](https://github.com/kylemcdonald/cryptoart-footprint) - Estimate the total emissions for popular CryptoArt platforms.
+- [Cloud Carbon Footprint](https://github.com/cloud-carbon-footprint/cloud-carbon-footprint) - A tool to estimate energy use (kilowatt-hours) and carbon emissions (metric tons CO2e) from public cloud usage.
 
 
 ## Energy System Assessment
