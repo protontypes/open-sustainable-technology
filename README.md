@@ -599,6 +599,7 @@ _"True sustainability is open." - [protontypes](https://protontypes.eu/)_<br> <b
 - [RecycleNet](https://github.com/sangminwoo/RecycleNet) - Effective trash classification model using only a small number of annotated images.
 - [trashnet](https://github.com/garythung/trashnet) - Dataset of images of trash. Torch-based CNN for garbage image classification.
 - [OpenLitterMap](https://github.com/OpenLitterMap/openlittermap-web) - An open, interactive and accessible database of the world's litter and plastic pollution.
+- [Recyclebot](https://www.appropedia.org/Recyclebot) - An open source waste plastic extruder that creates 3-D printer filament from waste plastic and natural polymers.
 
 ## Biosphere
 
