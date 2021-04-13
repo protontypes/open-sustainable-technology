@@ -569,6 +569,7 @@ _"True sustainability is open." - [protontypes](https://protontypes.eu/)_<br> <b
 - [stilt](https://github.com/uataq/stilt) - An open source lagrangian particle dispersion model which is widely used to simulate the transport of pollution and greenhouse gases through the atmosphere.
 - [OPGEE](https://github.com/arbrandt/OPGEE) - Oil Production Greenhouse Gas Emissions Estimator.
 - [OpenGHG](https://github.com/openghg) - A cloud platform for greenhouse gas data analysis and collaboration.
+- [Open Carbon Watch](https://github.com/OpenCarbonWatch) - We monitor greenhouse gases emission reports published by organizations, along with their legal obligations and their own commitments, and track them over time.
 
 ## Ecological Footprint
 
