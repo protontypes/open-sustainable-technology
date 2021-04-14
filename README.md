@@ -751,6 +751,7 @@ _"True sustainability is open." - [protontypes](https://protontypes.eu/)_<br> <b
 - [mocsy](https://github.com/jamesorr/mocsy) - Routines to model ocean carbonate system thermodynamics.
 - [seacarb](https://github.com/jpgattuso/seacarb-git) - An R package that calculates various parameters of the carbonate system in seawater.
 - [RivGraph](https://github.com/jonschwenk/RivGraph) - Extracting and quantifying graphical representations of river and delta channel networks from binary masks.
+- [noaa_coops](https://github.com/GClunies/noaa_coops) -  A Python wrapper for the NOAA CO-OPS Tides & Currents Data and Metadata APIs.
 
 
 ### Atmosphere
