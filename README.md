@@ -177,7 +177,7 @@ _"True sustainability is open." - [protontypes](https://protontypes.eu/)_<br> <b
 - [ENNOID-BMS](https://github.com/EnnoidMe/ENNOID-BMS) - Open Source: Modular BMS based on LTC68XX & STM32 MCU for up to 400V EV battery pack.
 - [cellpy](https://github.com/jepegit/cellpy) - Extract and tweak data from electro-chemical tests of battery cells.
 - [prediction-of-battery-cycle](https://github.com/rdbraatz/data-driven-prediction-of-battery-cycle-life-before-capacity-degradation) - Data driven prediction of battery cycle life before capacity degradation.
-- [BatterySense](https://github.com/rlogiacco/BatterySense) - This is a simple Arduino library to monitor battery consumption of your battery powered projects, being LiPo, LiIon, NiCd or any other battery type, single or multiple cells: if it can power your Arduino you can monitor it.
+- [BatterySense](https://github.com/rlogiacco/BatterySense) - A simple Arduino library to monitor battery consumption of your battery powered projects, being LiPo, LiIon, NiCd or any other battery type, single or multiple cells: if it can power your Arduino you can monitor it.
 - [beep](https://github.com/TRI-AMDD/beep) - A set of tools designed to support Battery Evaluation and Early Prediction of cycle life corresponding to the research of the d3batt program and the Toyota Research Institute.
 - [snl-quest](https://github.com/snl-quest/snl-quest) - An open source, Python-based software application suite for energy storage simulation and analysis developed by Sandia National Laboratories.
 - [simses](https://gitlab.lrz.de/open-ees-ses/simses) - Software for techno-economic Simulation of Stationary Energy Storage Systems.
@@ -197,12 +197,12 @@ _"True sustainability is open." - [protontypes](https://protontypes.eu/)_<br> <b
 
 ### Hydrogen
 
-- [OPEM](https://github.com/ECSIM/opem) - Is a modeling tool for evaluating the performance of proton exchange membrane fuel cells.
+- [OPEM](https://github.com/ECSIM/opem) - A modeling tool for evaluating the performance of proton exchange membrane fuel cells.
 - [gopem](https://github.com/ECSIM/gopem) - GOPEM is a graphical user interface of OPEM.
 - [pem-dataset1](https://github.com/ECSIM/pem-dataset1) - Proton Exchange Membrane Fuel Cell Dataset.
 - [HIM](https://github.com/FZJ-IEK3-VSA/HIM) - Hydrogen Infrastructure model for the analysis of spatially resolved hydrogen infrastructure pathways.
 - [pandapipes](https://github.com/e2nIEE/pandapipes) - A pipeflow calculation tool that complements pandapower in the simulation of multi energy grids, in particular heat and gas networks.
-- [The Hydrogen Risk Assessment Models](https://github.com/sandialabs/hyram) - Is the first-ever software toolkit that integrates deterministic and probabilistic models for quantifying accident scenarios, predicting physical effects, and characterizing hydrogen hazards impact on people and structures.
+- [The Hydrogen Risk Assessment Models](https://github.com/sandialabs/hyram) - The first-ever software toolkit that integrates deterministic and probabilistic models for quantifying accident scenarios, predicting physical effects, and characterizing hydrogen hazards impact on people and structures.
 - [GasModels.jl](https://github.com/lanl-ansi/GasModels.jl) - A Julia/JuMP Package for Gas Network Optimization.
 - [SciGRID_gas](https://www.gas.scigrid.de/) - Methods to create an automated network model of the European gas transportation network.
 
@@ -236,7 +236,7 @@ _"True sustainability is open." - [protontypes](https://protontypes.eu/)_<br> <b
 - [pymgrid](https://github.com/Total-RD/pymgrid) - A Python library to generate and simulate a large number of microgrids.
 - [SciGRID](https://power.scigrid.de/) - The focus will be on the European transmission grids, but the methods will be applicable more generally.
 - [mosaik](https://gitlab.com/mosaik/mosaik) - A flexible Smart Grid co-simulation framework.
-- [SmartGridToolbox](https://gitlab.com/SmartGridToolbox/SmartGridToolbox) - Designed to provide an extensible and flexible starting point for developing a wide variety of smart grid simulations and other applications. 
+- [SmartGridToolbox](https://gitlab.com/SmartGridToolbox/SmartGridToolbox) - Designed to provide an extensible and flexible starting point for developing a wide variety of smart grid simulations and other applications.
 - [OPEN](https://github.com/EPGOxford/OPEN) - The framework combines distributed energy resource modelling (e.g. for PV generation sources, battery energy storage systems, electric vehicles), energy market modelling, power flow simulation and multi-period optimisation for scheduling flexible energy resources.
 - [GridLAB-D](https://github.com/gridlab-d/gridlab-d) - A distribution level power system simulator designed to allow users to create and analyze smart grid technologies.
 
@@ -258,11 +258,11 @@ _"True sustainability is open." - [protontypes](https://protontypes.eu/)_<br> <b
 - [OpenStudio-HPXML](https://github.com/NREL/OpenStudio-HPXML) - Modeling of residential buildings in EnergyPlus using OpenStudio/HPXML.
 - [AixLib](https://github.com/RWTH-EBC/AixLib) - A Modelica model library for building performance simulations.
 - [TEASER](https://github.com/RWTH-EBC/TEASER) - Tool for Energy Analysis and Simulation for Efficient Retrofit.
-- [pyCity](https://github.com/RWTH-EBC/pyCity) - Python package for data handling and scenario generation of city districts and urban energy systems.
+- [pyCity](https://github.com/RWTH-EBC/pyCity) - A Python package for data handling and scenario generation of city districts and urban energy systems.
 - [tespy](https://github.com/oemof/tespy) - Provides a powerful simulation toolkit for thermal engineering plants such as power plants, district heating systems or heat pumps.
 - [RC_BuildingSimulator](https://github.com/architecture-building-systems/RC_BuildingSimulator) - A Resistance Capacitance Model for an Energetic Simulation of a Building.
 - [City Energy Analyst](https://github.com/architecture-building-systems/CityEnergyAnalyst) - Helps you to analyze the effects of building retrofits, land-use planning, district heating and cooling and renewable energy on the future costs, emissions and energy consumption of neighborhoods and districts.
-- [The Modelica Buildings](https://github.com/lbl-srg/modelica-buildings) - A free and open source library with dynamic simulation models for building energy and control systems.
+- [Modelica Buildings library](https://github.com/lbl-srg/modelica-buildings) - A free and open source library with dynamic simulation models for building energy and control systems.
 - [StROBe](https://github.com/open-ideas/StROBe) - An open web tool developed at the KU Leuven Building Physics Section to model the pervasive space for residential integrated district energy assessment simulations in the openIDEAS modeling environment.
 - [NYCBuildingEnergyUse](https://github.com/mdh266/NYCBuildingEnergyUse) - Predict the emission of greenhouse gases from buildings by looking at their age, and water consumption as well as other energy consumption metrics.
 - [Smart-Energy-Monitor](https://github.com/jonathanrjpereira/Smart-Energy-Monitor) - The goal is to accurately predict the monthly electricity bill of the household using minimum hardware and by acquiring electrical data at a single location.
@@ -271,10 +271,10 @@ _"True sustainability is open." - [protontypes](https://protontypes.eu/)_<br> <b
 - [MPCPy](https://github.com/lbl-srg/MPCPy) - The Python-based open source platform for model predictive control in buildings.
 - [obc](https://github.com/lbl-srg/obc) - Performance Evaluation, Specification, Deployment and Verification of Building Control Sequences.
 - [The Application Domain Extension](https://github.com/cstb/citygml-energy) - Defines a standardized data model based on CityGML format for urban energy analyses, aiming to be a reference exchange data format between different urban modeling tools and expert databases.
-- [PLANHEAT Tool](https://github.com/Planheat/Planheat-Tool) - A Q-GIS plug-in based on an open source code, whose goal is to analyze, plan and simulate low carbon Heating & Cooling scenarios.
+- [PLANHEAT Tool](https://github.com/Planheat/Planheat-Tool) - A QGIS plug-in based on an open source code, whose goal is to analyze, plan and simulate low carbon Heating & Cooling scenarios.
 - [Energy Signature Analyser](https://gitlab.com/energyincities/energy-signature-analyser) - A toolbox to analyze energy signatures of buildings and compare the signatures of all buildings within an entire building stock.
 - [BuildingSystems](https://github.com/UdK-VPT/BuildingSystems) - The Modelica open source BuildingSystems library is developed for dynamic simulation of the energetic behavior of single rooms, buildings and whole districts.
-- [modelica-ibpsa](https://github.com/ibpsa/modelica-ibpsa) - Modelica library for building and district energy systems developed within IBPSA Project 1.
+- [modelica-ibpsa](https://github.com/ibpsa/modelica-ibpsa) - A Modelica library for building and district energy systems developed within IBPSA Project 1.
 - [project1](https://github.com/ibpsa/project1) - Creates open source software that builds the basis of next generation computing tools for the design and operation of building and district energy and control systems.
 - [teb](https://github.com/TEB-model/teb) - A library to calculate the urban surface energy balance at neighborhood scale assuming a simplified canyon geometry.
 - [tsib](https://github.com/FZJ-IEK3-VSA/tsib) - A Python package that builds up on different databases and models for creating consistent demand and production time series of residential buildings.
@@ -287,7 +287,7 @@ _"True sustainability is open." - [protontypes](https://protontypes.eu/)_<br> <b
 - [DSMR-reader](https://github.com/dsmrreader/dsmr-reader) - Used for reading the smart meter DSMR (Dutch Smart Meter Requirements) P1 port yourself at your home.
 - [Multiscale Solar Water Heating](https://github.com/LBNL-ETA/MSWH) - Solar water heating system modeling and simulation for individual and community scale projects.
 - [eplusr](https://github.com/hongyuanjia/eplusr) - Provides a rich toolkit of using whole building energy simulation program EnergyPlus directly in R, which enables programmatic navigation, modification of EnergyPlus, conducts parametric simulations and retrieves outputs.
-- [Brick](https://github.com/ruijis/Brick) - Brick is an open-source effort to standardize semantic descriptions of the physical, logical and virtual assets in buildings and the relationships between them.
+- [Brick](https://github.com/ruijis/Brick) - An open-source effort to standardize semantic descriptions of the physical, logical and virtual assets in buildings and the relationships between them.
 - [gbXML](https://github.com/ruijis/gbXML_Schemas) - Green Building XML (gbXML) is the language of buildings, allowing disparate building design software tools to all communicate with one another.
 - [BETTER](https://github.com/LBNL-JCI-ICF/better) - Building Efficiency Targeting Tool for Energy Retrofits.
 
@@ -303,7 +303,7 @@ _"True sustainability is open." - [protontypes](https://protontypes.eu/)_<br> <b
 - [CoopCycle](https://github.com/coopcycle/coopcycle-web) - A self-hosted platform to order meals in your neighborhood and get them delivered by bike couriers.
 - [EVNotify](https://github.com/EVNotify/EVNotify) - Allows you to monitor your electric vehicle and let you notify when the specified preset state of charge has been achieved.
 - [icare](https://github.com/diowa/icare) - An open source carpooling platform used as a basis for our commercial product Company Carpool.
-- [Carpoolear](https://github.com/STS-Rosario/carpoolear) - Is the first Argentine Facebook app that allow the users of this social network share car trips with other users.
+- [Carpoolear](https://github.com/STS-Rosario/carpoolear) - The first Argentine Facebook app that allows the users of this social network to share car trips with other users.
 - [UTD19](https://utd19.ethz.ch/) - Largest multi-city traffic dataset publicly available.
 - [OpenEVSE](https://github.com/lincomatic/open_evse) - Firmware for OpenEVSE: Open Source Hardware J1772 Electric Vehicle Supply Equipment.
 - [OpenEVSE WiFi gateway](https://github.com/OpenEVSE/ESP8266_WiFi_v2.x) - Uses an ESP8266 (ESP-12) which communicates with the OpenEVSE controller via serial utilizing the existing RAPI API serial interface.
@@ -324,7 +324,7 @@ _"True sustainability is open." - [protontypes](https://protontypes.eu/)_<br> <b
 - [node-gtfs](https://github.com/BlinkTagInc/node-gtfs) - Import GTFS transit data into SQLite and query routes, stops, times, fares and more.
 - [Public Transport Enabler](https://github.com/schildbach/public-transport-enabler) - Unleash public transport data in your Java project.
 - [osm2gtfs](https://github.com/grote/osm2gtfs) - Turn OpenStreetMap data and schedule information into GTFS.
-- [Quetzal](https://github.com/systragroup/quetzal) - Quetzal is a modeling library designed for transport planning and traffic forecasts.
+- [Quetzal](https://github.com/systragroup/quetzal) - A modeling library designed for transport planning and traffic forecasts.
 - [quetzal_germany](https://github.com/marlinarnz/quetzal_germany) - A four step transport model for Germany using the quetzal transport modeling suite.
 - [MATSim](https://github.com/matsim-org/matsim-libs) - MATSim provides a toolbox to run and implement large-scale agent-based transport simulations.
 - [OpenMobility](https://openmobility.eclipse.org/) - Driving the Evolution and Broad Adoption of Open Source Mobility Modeling and Simulation Technologies.
@@ -342,14 +342,14 @@ _"True sustainability is open." - [protontypes](https://protontypes.eu/)_<br> <b
 - [WWCP_OCPP](https://github.com/OpenChargingCloud/WWCP_OCPP) - Connectivity between the World Wide Charging Protocol (WWCP) and the Open Charge Point Protocol (OCPP v1.6/v2.0).
 - [WWCP_Core](https://github.com/OpenChargingCloud/WWCP_Core) - The World Wide Charging Protocol Suite is a collection of protocols in order to connect market actors in the field of e-mobility solutions via scalable and secure Internet protocols.
 - [openv2g](http://openv2g.sourceforge.net/) - The objective to start this project is primarily to support the ISO and IEC standardization process to specify the so called "Vehicle 2 Grid Communication Interface" (V2G CI) which became the ISO IEC 15118 specification by now.
-- [OptaPlanner](https://github.com/kiegroup/optaplanner) - Java Constraint Solver to solve vehicle routing, employee roistering, task assignment, conference scheduling and other planning problems.
+- [OptaPlanner](https://github.com/kiegroup/optaplanner) - Java Constraint Solver to solve vehicle routing, employee rostering, task assignment, conference scheduling and other planning problems.
 - [RAMP-mobility](https://github.com/RAMP-project/RAMP-mobility) - A novel application of the RAMP main engine for generating bottom-up stochastic electric vehicles load profiles.
 - [emobpy](https://gitlab.com/diw-evu/emobpy/emobpy) - A Python tool that can create battery electric vehicle profiles.
 - [PCT](https://github.com/ITSLeeds/pct/) - The goal is to increase the accessibility and reproducibility of the data produced by the Propensity to Cycle Tool (PCT).
-- [goat](https://github.com/goat-community/goat) - A capable of modeling walking and cycling accessibility.
-- [gtfs-router](https://github.com/ATFutures/gtfs-router) - R package for routing with GTFS (General Transit Feed Specification) data.
+- [goat](https://github.com/goat-community/goat) - A tool capable of modeling walking and cycling accessibility.
+- [gtfs-router](https://github.com/ATFutures/gtfs-router) - An R package for routing with GTFS (General Transit Feed Specification) data.
 - [CityFlow](https://github.com/cityflow-project/CityFlow/) - A Multi-Agent Reinforcement Learning Environment for Large Scale City Traffic Scenario.
-- [Complete_Street_Rule](https://github.com/d-wasserman/Complete_Street_Rule) - A ArcGIS CityEngine scenario oriented design tool intended to enable users to quickly create procedural generated multimodal streets.
+- [Complete_Street_Rule](https://github.com/d-wasserman/Complete_Street_Rule) - An ArcGIS CityEngine scenario oriented design tool intended to enable users to quickly create procedural generated multimodal streets.
 - [tesla_powerwall](https://github.com/jrester/tesla_powerwall) - Python Tesla Powerwall API for consuming a local endpoint.
 - [Vehicle Energy Dataset](https://github.com/gsoh/VED) - A large-scale dataset for vehicle energy consumption research.
 - [gbfs](https://github.com/NABSA/gbfs) - Documentation for the General Bikeshare Feed Specification, a standardized data feed for shared mobility system availability.
