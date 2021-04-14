@@ -47,3 +47,4 @@ __Outstanding open communities developing independent and free sustainable techn
 - [Tomorrow](https://github.com/tmrowco) - The climate impact of everything made accessible to everyone.
 - [Project Drawdown](https://drawdown.ecochallenge.org/) - Helping the world stop global warming by achieving Drawdown as quickly, safely, and equitably as possible.
 - [Appropedia](https://www.appropedia.org/OpenClimate) - A wiki designed to collaborate on solutions in the areas of sustainability, poverty alleviation, and development cooperation.
+- [Public Lab](https://publiclab.org/) - A community and a non-profit, democratizing science to address environmental issues that affect people.
