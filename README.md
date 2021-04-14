@@ -910,7 +910,7 @@ _"True sustainability is open." - [protontypes](https://protontypes.eu/)_<br> <b
 
 ### Air
 
-- [CMAQ](https://github.com/USEPA/CMAQ) - Code base for the U.S. EPAs Community Multiscale Air Quality Model.
+- [CMAQ](https://github.com/USEPA/CMAQ) - Code base for the U.S. EPA's Community Multiscale Air Quality Model.
 - [AMET](https://github.com/USEPA/AMET) - A suite of software designed to facilitate the analysis and evaluation of predictions from meteorological and air quality models.
 - [MLAir](https://gitlab.version.fz-juelich.de/toar/mlair) - Machine Learning on Air data is an environment that simplifies and accelerates the creation of new machine learning models for the analysis and forecasting of meteorological and air quality time-series.
 - [shoot-i-smoke](https://github.com/amaurymartiny/shoot-i-smoke) - See your city's air pollution measured in daily cigarettes.
@@ -934,7 +934,7 @@ _"True sustainability is open." - [protontypes](https://protontypes.eu/)_<br> <b
 
 - [Stormwater-Management-Model](https://github.com/USEPA/Stormwater-Management-Model) - Used for single event or long-term (continuous) simulation of runoff quantity and quality from primarily urban areas.
 - [dataRetrieval](https://github.com/USGS-R/dataRetrieval) - This R package is designed to obtain USGS or EPA water quality sample data, streamflow data and metadata directly from web services.
-- [EGRET](https://github.com/USGS-R/EGRET) - An R-package for the analysis of long-term changes in water quality and streamflow, including the water-quality method Weighted Regressions on Time, Discharge, and Season.
+- [EGRET](https://github.com/USGS-R/EGRET) - An R package for the analysis of long-term changes in water quality and streamflow, including the water-quality method Weighted Regressions on Time, Discharge, and Season.
 - [WaterModels.jl](https://github.com/lanl-ansi/WaterModels.jl) - Designed to enable computational evaluation of historical and emerging water network formulations and algorithms using a common platform.
 - [Tree-based Inland Hydraulic Routing Project](https://github.com/NOAA-OWP/t-route) - The program under development here seeks to effectively manage the traversal of a network of streams with defined hydraulic properties specifically for the purpose of hydraulic routing in an operational flood and water resources forecasting system.
 - [Next Gen Water Modeling Framework](https://github.com/NOAA-OWP/ngen) - This framework includes an encapsulation strategy which focuses on the hydrologic data first, and then builds a functional abstraction of hydrologic behavior.
@@ -943,7 +943,7 @@ _"True sustainability is open." - [protontypes](https://protontypes.eu/)_<br> <b
 - [HydroFunctions](https://github.com/mroberge/hydrofunctions) - A suite of convenience functions for working with hydrology data in an interactive Python session.
 - [CWATM](https://github.com/CWatM/CWatM) - Represents one of the new key elements of IIASAs Water program to assess water supply, water demand and environmental needs at global and regional level.
 - [The General Lake Model](https://github.com/AquaticEcoDynamics/GLM) - A water balance and one-dimensional vertical stratification hydrodynamic model.
-- [nhdR](https://github.com/jsta/nhdR) - R interface to the US National Hydrography Dataset.
+- [nhdR](https://github.com/jsta/nhdR) - An R interface to the US National Hydrography Dataset.
 - [modflow6](https://github.com/MODFLOW-USGS/modflow6) - Has been widely used by academics, private consultants, and government scientists to accurately, reliably, and efficiently simulate groundwater flow.
 - [iMOD](https://oss.deltares.nl/web/imod/home) - An easy to use Graphical User Interface + an accelerated Deltares-version of MODFLOW with fast, flexible and consistent sub-domain modeling techniques.
 - [Imod-Python](https://gitlab.com/deltares/imod/imod-python) - Designed to help you in your MODFLOW groundwater modeling efforts.
@@ -952,14 +952,14 @@ _"True sustainability is open." - [protontypes](https://protontypes.eu/)_<br> <b
 - [CRITERIA3D](https://github.com/ARPA-SIMC/CRITERIA3D) - Includes a numerical solution for three-dimensional water and heat flow in the soil, coupled surface and subsurface flow, meteorological data interpolation, radiation budget, crop development and crop water uptake.
 - [Water Network Tool for Resilience](https://github.com/USEPA/WNTR) - A Python package designed to simulate and analyze resilience of water distribution networks.
 - [fasstr](https://github.com/bcgov/fasstr) - An R package to analyze, summarize, and visualize daily streamflow data.
-- [KnowFlow](https://github.com/KnowFlow/KnowFlow_AWM) - KnowFlow Automatic Water Monitoring device is an open sourced tool enable everyone having access to first hand water quality data with low cost.
+- [KnowFlow](https://github.com/KnowFlow/KnowFlow_AWM) - KnowFlow Automatic Water Monitoring device is an open source tool enabling everyone to have access to first hand water quality data with low cost.
 - [gwells](https://github.com/bcgov/gwells) - Groundwater Wells and Aquifers application for the Ministry of Environment in British Columbia.
-- [waterquality](https://github.com/RAJohansen/waterquality) - Package designed to detect and quantify water quality and cyanobacterial harmful algal bloom (CHABs) from remotely sensed imagery.
+- [waterquality](https://github.com/RAJohansen/waterquality) - A package designed to detect and quantify water quality and cyanobacterial harmful algal bloom (CHABs) from remotely sensed imagery.
 - [LISFLOOD](https://github.com/ec-jrc/lisflood-code) - A spatially distributed water resources model, developed by the Joint Research Centre of the European Commission since 1997.
-- [FloodMapping](https://github.com/mikejohnson51/FloodMapping) - R package for flood forecasting via the National Water Model.
+- [FloodMapping](https://github.com/mikejohnson51/FloodMapping) - An R package for flood forecasting via the National Water Model.
 - [QGEP](https://github.com/qgep/QGEP) - A waste-water application based on QGIS in compliance with SIA-405.
 - [PooPyLab_Project](https://github.com/toogad/PooPyLab_Project) - A biological wastewater treatment software.
-- [aguaclara](https://github.com/AguaClara/aguaclara) - Python package for designing and performing research on AguaClara water treatment plants.
+- [aguaclara](https://github.com/AguaClara/aguaclara) - A Python package for designing and performing research on AguaClara water treatment plants.
 - [RTC-Tools](https://gitlab.com/deltares/rtc-tools) - A toolbox for control and optimization of water systems.
 - [EPANET](https://github.com/OpenWaterAnalytics/EPANET) - The Water Distribution System Hydraulic and Water Quality Analysis Toolkit.
 - [pyswmm](https://github.com/OpenWaterAnalytics/pyswmm) - Python Wrapper for Stormwater Management Model.
@@ -973,7 +973,7 @@ _"True sustainability is open." - [protontypes](https://protontypes.eu/)_<br> <b
 - [AED2](https://github.com/AquaticEcoDynamics/libaed2) - A community-driven library of modules and algorithms for simulation of "aquatic ecodynamics": water quality, aquatic biogeochemsitry, biotic habitat and aquatic ecosystem dynamics.
 - [DORiE](https://ts-gitlab.iup.uni-heidelberg.de/dorie/dorie) - A Discontinuous Galerkin Solver for Soil Water Flow and Passive Solute Transport Based on DUNE.
 - [wqbc](https://github.com/bcgov/wqbc) - An R package for water quality thresholds and index calculation for British Columbia.
-- [Model My Watershed](https://github.com/WikiWatershed/model-my-watershed) - A is a watershed-modeling web app for citizens, conservation practitioners, municipal decision-makers, educators, and students.
+- [Model My Watershed](https://github.com/WikiWatershed/model-my-watershed) - A watershed-modeling web app for citizens, conservation practitioners, municipal decision-makers, educators, and students.
 - [AquaSat](https://github.com/GlobalHydrologyLab/AquaSat) - A data set to enable remote sensing of water quality for inland waters.
 - [CDE](https://github.com/ropensci/cde) - Facilitates searching and download of the Water Framework Directive reporting data for all waterbodies from the EA website.
 - [pyGSFLOW](https://github.com/pygsflow/pygsflow) - A set of Python modules to run the GSFLOW integrated hydrologic model program.
@@ -985,7 +985,7 @@ _"True sustainability is open." - [protontypes](https://protontypes.eu/)_<br> <b
 - [GSFLOW](https://www.usgs.gov/software/coupled-ground-water-and-surface-water-flow-model-gsflow) - A coupled Groundwater and Surface-water FLOW model based on the integration of the USGS Precipitation-Runoff Modeling System and the USGS Modular Groundwater Flow Model.
 - [canwqdata](https://github.com/bcgov/canwqdata) - An R package to download open water quality data from Environment and Climate Change Canada's National Long-term Water Quality Monitoring Data.
 - [HASP](https://github.com/USGS-R/HASP/issues) - Hydrologic AnalySis Package.
-- [CSHShydRology](https://github.com/CSHS-CWRA/CSHShydRology) - This is an collection of R functions used by the Canadian Association Society for Hydrological Sciences. 
+- [CSHShydRology](https://github.com/CSHS-CWRA/CSHShydRology) - This is a collection of R functions used by the Canadian Association Society for Hydrological Sciences.
 - [Liquid Prep](https://github.com/Call-for-Code/Liquid-Prep) - Offers an end-to-end solution for farmers looking to optimize their water usage; especially during times of drought.
 - [flopy](https://github.com/modflowpy/flopy) - A Python package to create, run, and post-process MODFLOW-based models.
 
@@ -1016,15 +1016,15 @@ _"True sustainability is open." - [protontypes](https://protontypes.eu/)_<br> <b
 - [PredictiveSoilMapping](https://github.com/Envirometrix/PredictiveSoilMapping) - Applying statistical and/or machine learning techniques to fit models for the purpose of producing spatial and/or spatiotemporal predictions of soil variables, i.e. maps of soil properties and classes at different resolutions.
 - [OpenFLUID](https://github.com/OpenFLUID/openfluid) - A software environment for modeling and simulation of complex landscape systems.
 - [Trends.Earth](https://github.com/ConservationInternational/trends.earth) - A QGIS plugin that supports monitoring of land change, including changes in productivity, land cover, and soil organic carbon.
-- [pycoal](https://github.com/capstone-coal/pycoal) - Python toolkit for characterizing Coal and Open-pit surface mining impacts on American Lands.
+- [pycoal](https://github.com/capstone-coal/pycoal) - A Python toolkit for characterizing Coal and Open-pit surface mining impacts on American Lands.
 - [stats_for_soil_survey](https://ncss-tech.github.io/stats_for_soil_survey/) - Lecture material on "Statistics for Pedologists".
 - [Simsphere](https://github.com/tjc181/simsphere) - A one-dimensional model that allows one to simulate the transfer of heat and moisture between plants, soil and atmosphere over a 24 hour day.
 - [CryoGrid3](https://github.com/CryoGrid/CryoGrid3) - A one-dimensional land surface model dedicated to simulate ground temperatures in permafrost environments.
-- [CNN-SoilTextureClassification](https://github.com/felixriese/CNN-SoilTextureClassification) - 1-dimensional convolutional neural networks (CNN) for the classification of soil texture based on hyperspectral data.
+- [CNN-SoilTextureClassification](https://github.com/felixriese/CNN-SoilTextureClassification) - one-dimensional convolutional neural networks (CNN) for the classification of soil texture based on hyperspectral data.
 - [EarthML](https://github.com/pyviz-topics/EarthML) - Improving, documenting, and illustrating how to use other, freely available, general-purpose open source projects to solve problems in the earth sciences.
 - [STEP](http://step.esa.int/main/) - ESA is developing free open source toolboxes for the scientific exploitation of Earth Observation missions under the Scientific Exploitation of Operational Missions programme element.
 - [globsim](https://github.com/geocryology/globsim) - Using global reanalyses for permafrost simulation.
-- [rSFSW2](https://github.com/DrylandEcology/rSFSW2) - A R package to create soil water balance simulation experiment.
+- [rSFSW2](https://github.com/DrylandEcology/rSFSW2) - An R package to create soil water balance simulation experiment.
 - [landscapemetrics](https://github.com/r-spatialecology/landscapemetrics) - Landscape Metrics for Categorical Map Patterns world_map in R.
 - [SCOPE](https://github.com/Christiaanvandertol/SCOPE) - Simulation model for radiative transfer, photosynthesis and energy fluxes in vegetation and soil.
 
@@ -1034,9 +1034,9 @@ _"True sustainability is open." - [protontypes](https://protontypes.eu/)_<br> <b
 - [MudPi](https://github.com/mudpi/mudpi-core) - A scalable smart garden system that allows you to maintain controls, monitor conditions, and sustainably manage resources of your garden.
 - [OBIA4RTM](https://github.com/lukasValentin/OBIA4RTM) - Aims for plant parameter retrieval - relevant in smart farming applications - by using radiative transfer models and object-based image analysis that directly addresses actual user needs and policy demands in a highly efficient, flexible and scalable way.
 - [Crop-Classification](https://github.com/bhavesh907/Crop-Classification) - Provides codes for crop classification using multi temporal satellite images.
-- [DSSAT Cropping System Model](https://github.com/DSSAT/dssat-csm-os) - Have been used for many applications ranging from on-farm and precision management to regional assessments of the impact of climate variability and climate change.
+- [DSSAT Cropping System Model](https://github.com/DSSAT/dssat-csm-os) - Has been used for many applications ranging from on-farm and precision management to regional assessments of the impact of climate variability and climate change.
 - [MAgPIE](https://github.com/magpiemodel/magpie) - Model of Agricultural Production and its Impact on the Environment.
-- [OBI](https://github.com/AgroCares/Open-Bodem-Index-Calculator) - The Open-Bodem-Index-Calculator is a tool that evaluate the soil of agricultural fields based on four main criteria: chemical, physical, biological and management.
+- [OBI](https://github.com/AgroCares/Open-Bodem-Index-Calculator) - The Open-Bodem-Index-Calculator is a tool that evaluates the soil of agricultural fields based on four main criteria: chemical, physical, biological and management.
 - [Cycles](https://github.com/PSUmodeling/Cycles) - A daily time-step agroecosystem model that simulates the biophysical processes and management practices occurring within cropping systems and other land uses.
 - [ApsimX](https://github.com/APSIMInitiative/ApsimX) - An agricultural modeling framework used extensively worldwide.
 - [Resilience Atlas](https://github.com/ConservationInternational/resilienceatlas) - An interactive analytical tool for building understanding of the extent and severity of some of the key stressors and shocks that are affecting rural livelihoods, production systems, and ecosystems in the Sahel, Horn of Africa and South and Southeast Asia.
@@ -1044,7 +1044,7 @@ _"True sustainability is open." - [protontypes](https://protontypes.eu/)_<br> <b
 - [monica](https://github.com/zalf-rpm/monica) - A dynamic, process-based simulation model which describes transport and bio-chemical turn-over of carbon, nitrogen and water in agro-ecosystems.
 - [OpenFarm](https://github.com/openfarmcc/OpenFarm) - A free and open database and web application for farming and gardening knowledge.
 - [Agridat](https://github.com/kwstat/agridat) - An extensive collection of datasets from agricultural experiments.
-- [ss3sim](https://github.com/ss3sim/ss3sim) - A R package that facilitates flexible, rapid, and reproducible fisheries stock assessment simulation testing with the widely-used Stock Synthesis statistical age-structured stock assessment framework.
+- [ss3sim](https://github.com/ss3sim/ss3sim) - An R package that facilitates flexible, rapid, and reproducible fisheries stock assessment simulation testing with the widely-used Stock Synthesis statistical age-structured stock assessment framework.
 - [rfisheries](https://github.com/ropensci/rfisheries) - Interacting with fisheries databases at openfisheries.org.
 - [Fisheries Stock Assessment](https://github.com/droglenc/FSA) - Provides R functions to conduct typical introductory fisheries analyses.
 - [mizer](https://github.com/sizespectrum/mizer) - An R package to run dynamic multi-species size-spectrum models of fish communities.
@@ -1092,12 +1092,12 @@ _"True sustainability is open." - [protontypes](https://protontypes.eu/)_<br> <b
 - [GlobalWindAtlas](https://globalwindatlas.info/) - Immediately start exploring windy areas.
 - [GlobalSolarAtlas](https://globalsolaratlas.info/) - Start exploring solar potential.
 - [Open Hardware Observatory](https://en.oho.wiki/wiki/Home) - Search engine and assessment platform for sustainable open hardware.
-- [Open Source Ecology](https://www.opensourceecology.org/) - Developing of open source industrial machines that can be made for a fraction of commercial costs, and sharing the designs for free.
-- [ProjectDrawdown](https://github.com/ProjectDrawdown/solutions) - The mission of Project Drawdown is to help the world reach “Drawdown”— the point in the future when levels of greenhouse gases in the atmosphere stop climbing and start to steadily decline, thereby stopping catastrophic climate change — as quickly, safely, and equitably as possible.
+- [Open Source Ecology](https://www.opensourceecology.org/) - Developing open source industrial machines that can be made for a fraction of commercial costs, and sharing the designs for free.
+- [ProjectDrawdown](https://github.com/ProjectDrawdown/solutions) - The mission of Project Drawdown is to help the world reach "Drawdown"— the point in the future when levels of greenhouse gases in the atmosphere stop climbing and start to steadily decline, thereby stopping catastrophic climate change — as quickly, safely, and equitably as possible.
 - [Code against Climate Change](https://github.com/daviddao/code-against-climate-change) - A curated list of tech projects against climate change - hoping to inspire disruptive technological climate action.
 - [NOAA-Affiliated-Projects](https://github.com/NOAAGov/NOAA-Affiliated-Projects) - A list of GitHub accounts and repositories that are contributed to by National Oceanic and Atmospheric Administration staff from line offices and/or staff office throughout the organization.
 - [Climatescape](https://climatescape.org/) - Discover the organizations solving climate change.
-- [Airminers](http://www.airminers.org/) - The index of companies and projects mining carbon from the air for entrepreneurs, researchers, and founders to explore opportunities in carbon dioxide.
+- [Airminers](http://www.airminers.org/) - The index of companies and projects mining carbon from the air for entrepreneurs, researchers, and funders to explore opportunities in carbon dioxide.
 - [ENVO](https://github.com/EnvironmentOntology/envo) - A community-driven ontology for the representation of environments.
 - [Global Fishing Watch](https://globalfishingwatch.org/) - We use cutting-edge technology to visualise, track and share data about global fishing activity in near real-time and for free.
 - [open-sdg](https://github.com/open-sdg/open-sdg) - A platform for collecting and disseminating data for the Sustainable Development Goal global indicators.
@@ -1113,12 +1113,12 @@ _"True sustainability is open." - [protontypes](https://protontypes.eu/)_<br> <b
 - [awesome-transit](https://github.com/CUTR-at-USF/awesome-transit) - Community list of transit APIs, apps, datasets, research, and software.
 - [Climate Strike Software](https://github.com/climate-strike/license) - Prevent oil and gas companies from co-opting your work and extracting more fossil fuels with this software license.
 - [Ireland Energy Wiki by the National Retrofitting Modelling Group](https://energy-modelling-ireland.github.io/ireland-energy-wiki/) - Contains actively maintained listings of Irish energy-related resources.
-- [Climate Impact Lab](http://www.impactlab.org/) - A team of economists, climate scientists, data engineers, and risk analysts are building the world's most comprehensive body of research quantifying the impacts of climate change, sector-by-sector and community-by-community around the world. 
+- [Climate Impact Lab](http://www.impactlab.org/) - A team of economists, climate scientists, data engineers, and risk analysts are building the world's most comprehensive body of research quantifying the impacts of climate change, sector-by-sector and community-by-community around the world.
 - [Climate change in the contiguous United States](https://github.com/washingtonpost/data-2C-beyond-the-limit-usa/) - The Washington Post's analysis of NOAA climate change data for the contiguous United States.
 
 ### Footnotes
 
-### Contributors 
+### Contributors
 <a href="https://github.com/protontypes/open-sustainable-technology/graphs/contributors">
   <img width="60%" src="https://contrib.rocks/image?repo=protontypes/open-sustainable-technology" />
 </a>
