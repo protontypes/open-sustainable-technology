@@ -193,3 +193,4 @@ __Financial resources, incubators, hackathons and accelerators for sustainable b
 * [Open Source Management & Strategy](https://training.linuxfoundation.org/training/open-source-management-and-strategy/) - This 7-module course series builds on the accumulated wisdom of many previous training modules on open source best practices, while adding fresh and updated content to explain all of the critical elements of working effectively with open source in your enterprise.
 * [COSS-Course](https://github.com/dirkriehle/coss-course) - A course on commercial open source startups.
 * [Sid Sijbrandij](https://www.heavybit.com/library/video/commercial-open-source-business-strategies/) - Commercial Open Source Business Strategies.
+* [Open Collective](https://opencollective.com/) - An online platform that helps open communities and collaborative groups collect and spend money transparently.
