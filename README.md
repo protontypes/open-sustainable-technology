@@ -447,6 +447,7 @@ _"True sustainability is open." - [protontypes](https://protontypes.eu/)_<br> <b
 - [EMMA](https://neon.energy/emma/) - A techno-economic model of the north-west European power market covering France, Benelux, Germany and Poland.
 - [reVX](https://github.com/NREL/reVX) - Renewable Energy Potential(V) eXchange Toot.
 - [CapacityExpansion.jl](https://github.com/YoungFaithful/CapacityExpansion.jl) - Future energy system planning (Generation and Transmission Capacity Expansion Planning) in Julia.
+- [DPsim](https://github.com/sogno-platform/dpsim) - A solver library for dynamic power system simulation.
 
 
 ### Analysis
