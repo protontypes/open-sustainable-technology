@@ -1,0 +1,31 @@
+name: Check links in README.md
+
+on:
+  schedule:
+    - cron: "0 3 20 * *"
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    # container: dkhamsing/awesome_bot # Docker method
+    steps:
+      - name: Check out Git repository
+        uses: actions/checkout@v2
+      # begin Ruby gem method
+      - name: Set up Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: 2.7
+      - name: Install awesome_bot and dependencies
+        run: |
+          gem install awesome_bot
+      # end Ruby gem method
+      - name: Check links using awesome_bot
+        run: |
+          awesome_bot --allow-dupe --skip-save-results --request-delay 1 \
+          --white-list \
+          tabletopwhale.com,protontypes.eu,opensustain.tech,gitter.im,\
+          badgen.net,github.com/protontypes/open-sustainable-technology,\
+          contrib.rocks,github.com/eleanorlutz/earth_atlas_of_space,\
+          eleanorlutz.com,lcacommons.gov,ecostress.jpl.nasa.gov \
+          README.md
