@@ -655,6 +655,7 @@ _"True sustainability is open." - [protontypes](https://protontypes.eu/)_<br> <b
 - [FATES](https://github.com/NGEET/fates) - A cohort model of vegetation competition and co-existence, allowing a representation of the biosphere which accounts for the division of the land surface into successional stages.
 - [forestatrisk](https://github.com/ghislainv/forestatrisk) - A Python package to model and forecast the risk of deforestation.
 - [CRootBox](https://github.com/Plant-Root-Soil-Interactions-Modelling/CRootBox) - The focus of CRootBox is the simulation of different types of root architecture, and to provide a generic interface for coupling with arbitrary soil/environmental models, e.g., in order to determine the impact of specific root architectures on function.
+- [Pyrovision](https://github.com/pyronear/pyro-vision) - Computer vision library for wildfire detection.
 - [auk](https://github.com/CornellLabofOrnithology/auk) - eBird Data Extraction and Processing in R.
 - [spocc](https://github.com/ropensci/spocc) - An R package to query and collect species occurrence data from many sources.
 - [VIAME](https://github.com/VIAME/VIAME) - A computer vision application designed for do-it-yourself artificial intelligence including object detection, object tracking, image/video annotation, image/video search, image mosaicing, stereo measurement, rapid model generation, and tools for the evaluation of different algorithms.
