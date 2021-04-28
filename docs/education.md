@@ -26,6 +26,7 @@ __Looking for resources to get started in Open Sustainable Technology? Here you 
 - [Fundamentals of Remote Sensing](https://appliedsciences.nasa.gov/join-mission/training/english/fundamentals-remote-sensing) - Participants will have a basic understanding of NASA satellites, sensors, data, tools, portals and applications to environmental monitoring and management.
 - [Building DC Energy Systems](https://learn.libre.solar/) - Hosts an Open Educational Resource (OER) for Building DC Energy Systems.
 - [The General Circulation of the Atmosphere](https://nordicesmhub.github.io/GEO4962/) - The course gives a broad overview about the general circulation of the atmosphere, including the tropospheric and stratospheric circulations. 
+- [The Climate Laboratory](https://github.com/brian-rose/ClimateLaboratoryBook) - A hands-on approach to climate physics and climate modeling.
 
 ## Study Programs 
 
