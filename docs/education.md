@@ -27,6 +27,7 @@ __Looking for resources to get started in Open Sustainable Technology? Here you 
 - [Building DC Energy Systems](https://learn.libre.solar/) - Hosts an Open Educational Resource (OER) for Building DC Energy Systems.
 - [The General Circulation of the Atmosphere](https://nordicesmhub.github.io/GEO4962/) - The course gives a broad overview about the general circulation of the atmosphere, including the tropospheric and stratospheric circulations. 
 - [The Climate Laboratory](https://github.com/brian-rose/ClimateLaboratoryBook) - A hands-on approach to climate physics and climate modeling.
+- [Objective Analysis in Atmospheric Sciences](https://github.com/eabarnes1010/ats655-coursematerial) - The course provides an overview of the methods used to interpret data sets in the atmospheric and oceanic sciences.
 
 ## Study Programs 
 
