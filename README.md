@@ -30,7 +30,7 @@ _"True sustainability is open." - [protontypes](https://protontypes.eu/)_<br> <b
   - [Monitoring and Control](#monitoring-and-control)
 - [Datasets on Energy Systems](#datasets-on-energy-systems)
 - [Emissions](#emissions)
-  - [Carbon Footprint](#carbon-footprint)
+  - [Carbon Footprint and Intensity](#carbon-footprint-and-intensity)
   - [Carbon Capture](#carbon-capture)
   - [Emission Observation and Modeling](#emission-observation-and-modeling)
 - [Ecological Footprint](#ecological-footprint)
@@ -529,7 +529,7 @@ _"True sustainability is open." - [protontypes](https://protontypes.eu/)_<br> <b
 
 ## Emissions
 
-### Carbon Footprint
+### Carbon Footprint and Intensity
 
 - [impact](https://github.com/mlco2/impact/) - Compute your ML model's emissions with our calculator and add the results to your paper with our generated LaTeX template.
 - [carbon footprint](https://github.com/protea-earth/carbon_footprint) - Calculate your carbon footprint easily using a command line interface.
@@ -545,6 +545,7 @@ _"True sustainability is open." - [protontypes](https://protontypes.eu/)_<br> <b
 - [Carbonalyser](https://github.com/carbonalyser/Carbonalyser) - Allows to visualize the electricity consumption and greenhouse gases emissions that your Internet browsing leads to.
 - [blockchain-carbon-accounting](https://github.com/opentaps/blockchain-carbon-accounting) - Code of the Carbon Accounting and Certification Working Group.
 - [footprint](https://github.com/acircleda/footprint) - An R package to calculate carbon footprints from air travel based on IATA airport codes or latitude and longitude.
+- [intensegRid](https://github.com/KKulma/intensegRid) - Provides information on national and regional carbon intensity, the amount of carbon emitted per unit of energy consumed, for the UK.
 
 ### Carbon Capture
 
