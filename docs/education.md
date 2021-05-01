@@ -29,12 +29,4 @@ __Looking for resources to get started in Open Sustainable Technology? Here you 
 - [The Climate Laboratory](https://github.com/brian-rose/ClimateLaboratoryBook) - A hands-on approach to climate physics and climate modeling.
 - [Objective Analysis in Atmospheric Sciences](https://github.com/eabarnes1010/ats655-coursematerial) - The course provides an overview of the methods used to interpret data sets in the atmospheric and oceanic sciences.
 - [Python for Atmosphere and Ocean Scientists](https://github.com/carpentrieslab/python-aos-lesson) - Contains the Data Carpentry lesson materials for a single day workshop on using python in the atmosphere and ocean sciences.
-
-## Study Programs 
-
-- [Sustainable Energy Technology](https://www.academy.rwth-aachen.de/en/index/education-formats/summer-schools/sustainable-energy-technology) - The Summer School explores sustainable energy technologies, such as building performance simulation, methods for energy supply of buildings, and energy trading and power plant management.
-- [SustainabilityDegrees](https://www.sustainabilitydegrees.com/) - Get access to leading sustainability degrees, sustainable careers of the future, excellent learning resources, and an understanding of what sustainability really means.
-- [Sustainable Business and Technology](https://www.umwelt-campus.de/studium/studienangebot-weiterbildung/bachelor/sustainable-business-and-technology-beng) - This interdisciplinary bachelor program at Germany's most sustainability-oriented university incorporates all aspects necessary to meet the demand of young students seeking a global perspective at the edge between business and technology.
-- [M.Sc. Sustainable Urban Technologies](https://www.uni-due.de/urbane-systeme/master_sustainable-urban-technologies_en.shtml) - Technology in the Context of Sustainable Urban Systems.
-- [Sustainable Bioprocess Technology](https://www.hs-furtwangen.de/en/programmes/sustainable-bioprocess-technology-master/) - Manufacture environmentally friendly products which are economical on resources.
-- [State University of New York - College of Environmental Science and Forestry](https://www.esf.edu/) - The oldest specialized doctoral-degree granting institution in the U.S that focuses on environmental sustainability.
+- [Photovoltaics Education Website](https://www.pveducation.org/) - A detailed deep dive to get started with photovolatic technology.
