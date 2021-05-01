@@ -783,6 +783,7 @@ _"True sustainability is open." - [protontypes](https://protontypes.eu/)_<br> <b
 - [mHM](https://git.ufz.de/mhm/mhm) - The mesoscale Hydrological Model.
 - [PyBox](https://github.com/loftytopping/PyBox) - A Python based box-model generator and simulator designed for atmospheric chemistry and aerosol studies.
 - [SCREAM](https://github.com/E3SM-Project/scream) - A global atmosphere model targeted towards 3 km ("cloud resolving") resolution.
+- [RRTMGP.jl](https://github.com/CliMA/RRTMGP.jl) - A Julia implementation of Rapid and accurate Radiative Transfer Model for General Circulation Models.
 
 ### Climate and Earth Modeling
 
@@ -839,7 +840,6 @@ _"True sustainability is open." - [protontypes](https://protontypes.eu/)_<br> <b
 - [Dragonfly for Grasshopper](https://github.com/ladybug-tools/dragonfly-legacy) - Legacy dragonfly plugin for large-scale climate and urban heat island modeling.
 - [Juelich Rapid Spectral Simulation Code](https://github.com/slcs-jsc/jurassic) - The Juelich Rapid Spectral Simulation Code (JURASSIC) is a fast infrared radiative transfer model for the analysis of atmospheric remote sensing measurements.
 - [ARTS](https://github.com/atmtools/arts) - A radiative transfer model for the millimeter and sub-millimeter spectral range.
-
 
 ### Earth Climate Datasets and Tools
 
