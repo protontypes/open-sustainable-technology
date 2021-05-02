@@ -995,6 +995,7 @@ _"True sustainability is open." - [protontypes](https://protontypes.eu/)_<br> <b
 - [CSHShydRology](https://github.com/CSHS-CWRA/CSHShydRology) - This is a collection of R functions used by the Canadian Association Society for Hydrological Sciences.
 - [Liquid Prep](https://github.com/Call-for-Code/Liquid-Prep) - Offers an end-to-end solution for farmers looking to optimize their water usage; especially during times of drought.
 - [flopy](https://github.com/modflowpy/flopy) - A Python package to create, run, and post-process MODFLOW-based models.
+- [PCRaster](https://github.com/pcraster/pcraster) - A collection of tools and software libraries tailored to the construction of spatio-temporal environmental models.
 
 ### Soil and Land
 
