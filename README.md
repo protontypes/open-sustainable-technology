@@ -999,6 +999,7 @@ _"True sustainability is open." - [protontypes](https://protontypes.eu/)_<br> <b
 - [PCRaster](https://github.com/pcraster/pcraster) - A collection of tools and software libraries tailored to the construction of spatio-temporal environmental models.
 - [Echopype](https://github.com/OSOceanAcoustics/echopype) - A package built to enable interoperability and scalability in ocean sonar data processing.
 - [NeuralHydrology](https://github.com/neuralhydrology/neuralhydrology) - Python library to train neural networks with a strong focus on hydrological applications.
+- [dataretrieval](https://github.com/USGS-python/dataretrieval) - A Python alternative to USGS-R's dataRetrieval package for obtaining USGS or EPA water quality data, streamflow data, and metadata directly from web services.
 
 ### Soil and Land
 
