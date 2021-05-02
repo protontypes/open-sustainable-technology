@@ -30,7 +30,7 @@ _"True sustainability is open." - [protontypes](https://protontypes.eu/)_<br> <b
   - [Monitoring and Control](#monitoring-and-control)
 - [Datasets on Energy Systems](#datasets-on-energy-systems)
 - [Emissions](#emissions)
-  - [Carbon Footprint and Intensity](#carbon-footprint-and-intensity)
+  - [Carbon Intensity](#carbon-intensity)
   - [Carbon Capture](#carbon-capture)
   - [Emission Observation and Modeling](#emission-observation-and-modeling)
 - [Ecological Footprint](#ecological-footprint)
@@ -529,7 +529,7 @@ _"True sustainability is open." - [protontypes](https://protontypes.eu/)_<br> <b
 
 ## Emissions
 
-### Carbon Footprint and Intensity
+### Carbon Intensity
 
 - [impact](https://github.com/mlco2/impact/) - Compute your ML model's emissions with our calculator and add the results to your paper with our generated LaTeX template.
 - [carbon footprint](https://github.com/protea-earth/carbon_footprint) - Calculate your carbon footprint easily using a command line interface.
