@@ -1134,7 +1134,7 @@ _"True sustainability is open." - [protontypes](https://protontypes.eu/)_<br> <b
 
 ### Contributors
 <a href="https://github.com/protontypes/open-sustainable-technology/graphs/contributors">
-  <img width="60%" src="https://contrib.rocks/image?repo=protontypes/open-sustainable-technology" />
+  <img width="70%" src="https://contrib.rocks/image?repo=protontypes/open-sustainable-technology" />
 </a>
 
 ### Artwork
