@@ -30,3 +30,4 @@ __Looking for resources to get started in Open Sustainable Technology? Here you 
 - [Objective Analysis in Atmospheric Sciences](https://github.com/eabarnes1010/ats655-coursematerial) - The course provides an overview of the methods used to interpret data sets in the atmospheric and oceanic sciences.
 - [Python for Atmosphere and Ocean Scientists](https://github.com/carpentrieslab/python-aos-lesson) - Contains the Data Carpentry lesson materials for a single day workshop on using python in the atmosphere and ocean sciences.
 - [Photovoltaics Education Website](https://www.pveducation.org/) - A detailed deep dive to get started with photovolatic technology.
+- [Spatial data science for sustainable development](https://sustainability-gis.readthedocs.io/en/latest/) - Introduces geographical and computational analysis approaches to study sustainability related questions.  
