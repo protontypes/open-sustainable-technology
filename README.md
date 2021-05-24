@@ -1094,6 +1094,7 @@ __A curated list of open technology projects to sustain a stable climate, energy
 - [Investment Framework for a More Sustainable World](https://github.com/My-Climate-Journey/climate-sustainability-investment-framework) - This framework was created as a tool for those seeking to make emissions reductions and sustainability related investments with the goal of mitigating the impacts of climate change, based on guidelines set forth by Chamath Palihapitiya in July 2020.
 - [SSC](https://github.com/NREL/ssc) - Contains the source code for the technology and financial models contained within the National Renewable Energy Laboratory's System Advisor Model.
 - [r2dii.analysis](https://github.com/2DegreesInvesting/r2dii.analysis) - Summarize key metrics attributed to the portfolio (e.g. production, emission factors), and calculate targets based on climate scenarios.
+- [SBTi Temperature Alignment tool](https://github.com/OFBDABV/SBTi) - Helps companies and financial institutions to assess the temperature alignment of current targets, commitments, and investment and lending portfolios, and to use this information to develop targets for official validation.
 
 
 ## Further Open and Sustainable Resources
