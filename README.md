@@ -916,6 +916,7 @@ __A curated list of open technology projects to sustain a stable climate, energy
 - [climateR](https://github.com/mikejohnson51/climateR) - An R package for getting point and gridded climate data by AOI.
 - [climaemet](https://github.com/rOpenSpain/climaemet) - An interface to download the climatic data of the Spanish Meteorological Agency directly from R using their API and create scientific graphs.
 - [Data wrangling for the "IEA Net Zero by 2050" Roadmap](https://github.com/danielhuppmann/iea-netzero2050-datawrangler) - Transform data supporting the IEA Netzero2050 Roadmap (2021) to the IAMC format.
+- [cmip56_forcing_feedback_ecs](https://github.com/mzelinka/cmip56_forcing_feedback_ecs) - Tables Effective Radiative Forcing and Radiative Feedbacks.
 
 
 ## Natural Resources
