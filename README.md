@@ -760,8 +760,6 @@ __A curated list of open technology projects to sustain a stable climate, energy
 - [seacarb](https://github.com/jpgattuso/seacarb-git) - An R package that calculates various parameters of the carbonate system in seawater.
 - [RivGraph](https://github.com/jonschwenk/RivGraph) - Extracting and quantifying graphical representations of river and delta channel networks from binary masks.
 - [noaa_coops](https://github.com/GClunies/noaa_coops) -  A Python wrapper for the NOAA CO-OPS Tides & Currents Data and Metadata APIs.
-- [Veros](https://github.com/team-ocean/veros) - A powerful tool that makes high-performance ocean modeling approachable and fun.
-
 
 ### Atmosphere
 
