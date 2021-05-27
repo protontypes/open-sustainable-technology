@@ -48,4 +48,5 @@ __Outstanding open communities developing independent and free sustainable techn
 - [Project Drawdown](https://drawdown.ecochallenge.org/) - Helping the world stop global warming by achieving Drawdown as quickly, safely, and equitably as possible.
 - [Appropedia](https://www.appropedia.org/OpenClimate) - A wiki designed to collaborate on solutions in the areas of sustainability, poverty alleviation, and development cooperation.
 - [Public Lab](https://publiclab.org/) - A community and a non-profit, democratizing science to address environmental issues that affect people.
-- [OPEN SOURCE ECOLOGY GERMANY e.V.](https://www.ose-germany.de/) - A non-profit association based in Berlin whose goal is the development and dissemination of sustainable open source hardware projects.
+- [Open Source Ecology Germany e.V](https://www.ose-germany.de/) - A non-profit association based in Berlin whose goal is the development and dissemination of sustainable open source hardware projects.
+- [Green Software Foundation](https://greensoftware.foundation/) - Non-profit with the mission to create a trusted ecosystem of people, standards, tooling and best practices for building green software.
