@@ -31,6 +31,14 @@ Additions to the list are done by pull requests.
 
 Further details on how do `Pull Requests` can be found in the official GitHub [documentation](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request). Don't hesitate to get in touch with us in our [open community chat](https://gitter.im/protontypes/community). 
 
+## Consulting and promotion 
+
+protontypes offers free advice and promotion for projects that are included in OpenSustain.tech via a pull request. We offer:
+
+* The creation of a blog post for each newly contributed project. 
+* Marketing your project via social media and our network.
+* Consulting and testing on your project by experienced open source developers. 
+
 ## Contribute to listed projects
 
 All the projects listed allow direct and open participation. This is possible in many different ways. From using the open source projects to fixing bugs. Get in touch with the open communities and find out how you can contribute with your skills and knowledge. Most projects have a Contribution Guide like this to get involved in the project and community. [Please contact us](https://gitter.im/protontypes/community) if you need additional support on how to support projects worldwide through simple research or open source contributions.
