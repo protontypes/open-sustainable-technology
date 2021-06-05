@@ -761,6 +761,7 @@ __A curated list of open technology projects to sustain a stable climate, energy
 - [seacarb](https://github.com/jpgattuso/seacarb-git) - An R package that calculates various parameters of the carbonate system in seawater.
 - [RivGraph](https://github.com/jonschwenk/RivGraph) - Extracting and quantifying graphical representations of river and delta channel networks from binary masks.
 - [noaa_coops](https://github.com/GClunies/noaa_coops) -  A Python wrapper for the NOAA CO-OPS Tides & Currents Data and Metadata APIs.
+- [pyOSOAA](https://github.com/fnemina/pyOSOAA) - A python interface for the Ocean Successive Orders with Atmosphere radiative transfer.
 
 ### Atmosphere
 
@@ -845,6 +846,8 @@ __A curated list of open technology projects to sustain a stable climate, energy
 - [Juelich Rapid Spectral Simulation Code](https://github.com/slcs-jsc/jurassic) - The Juelich Rapid Spectral Simulation Code (JURASSIC) is a fast infrared radiative transfer model for the analysis of atmospheric remote sensing measurements.
 - [ARTS](https://github.com/atmtools/arts) - A radiative transfer model for the millimeter and sub-millimeter spectral range.
 - [Py6S](https://github.com/robintw/Py6S) - A Python interface to the 6S Radiative Transfer Model.
+- [pyOSOAA](https://github.com/fnemina/pyOSOAA) - A python interface for the Ocean Successive Orders with Atmosphere radiative transfer.
+
 
 ### Earth Climate Datasets and Tools
 
