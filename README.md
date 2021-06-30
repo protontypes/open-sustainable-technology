@@ -239,6 +239,7 @@ __A curated list of open technology projects to sustain a stable climate, energy
 - [SmartGridToolbox](https://gitlab.com/SmartGridToolbox/SmartGridToolbox) - Designed to provide an extensible and flexible starting point for developing a wide variety of smart grid simulations and other applications.
 - [OPEN](https://github.com/EPGOxford/OPEN) - The framework combines distributed energy resource modelling (e.g. for PV generation sources, battery energy storage systems, electric vehicles), energy market modelling, power flow simulation and multi-period optimisation for scheduling flexible energy resources.
 - [GridLAB-D](https://github.com/gridlab-d/gridlab-d) - A distribution level power system simulator designed to allow users to create and analyze smart grid technologies.
+- [Gym-ANM](https://github.com/robinhenry/gym-anm) - Design Reinforcement Learning environments that model Active Network Management tasks in electricity distribution networks.
 
 ## Energy Consumption and Efficiency
 
