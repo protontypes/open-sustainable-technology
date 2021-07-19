@@ -365,7 +365,7 @@ __A curated list of open technology projects sustaining a stable climate, energy
 - [emobility-smart-charging](https://github.com/SAP/emobility-smart-charging) - Smart charging algorithms with REST API for electric vehicle fleets.
 - [open-ev-data](https://github.com/chargeprice/open-ev-data) - Open Dataset of Electric Vehicle specs.
 - [SmartEVSE](https://github.com/SmartEVSE/smartevse) - Smart EVSE Electric Vehicle Charging Station.
-- [BikeshareClient](https://github.com/andmos/BikeshareClient) - dotnet library for integrating with GBFS bikeshare systems.
+- [BikeshareClient](https://github.com/andmos/BikeshareClient) - Dotnet library for integrating with GBFS bikeshare systems.
 
 ### Production and Industry
 
