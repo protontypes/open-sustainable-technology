@@ -31,4 +31,4 @@ __Looking for resources to get started in Open Sustainable Technology? Here you 
 - [Python for Atmosphere and Ocean Scientists](https://github.com/carpentrieslab/python-aos-lesson) - Contains the Data Carpentry lesson materials for a single day workshop on using python in the atmosphere and ocean sciences.
 - [Photovoltaics Education Website](https://www.pveducation.org/) - A detailed deep dive to get started with photovolatic technology.
 - [Spatial data science for sustainable development](https://sustainability-gis.readthedocs.io/en/latest/) - Introduces geographical and computational analysis approaches to study sustainability related questions.  
-- [Climate Risks Academy 2021](https://github.com/danielhuppmann/climate-risks-academy-2021) - Contains solutions for the advanced assignment of the Modelling Lab of the Climate Risks Academy 2021
+- [Climate Risks Academy 2021](https://github.com/danielhuppmann/climate-risks-academy-2021) - Contains solutions for the advanced assignment of the Modelling Lab of the Climate Risks Academy 2021.
