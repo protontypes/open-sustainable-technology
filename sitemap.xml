@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://OpenSustain.tech/</loc>
+         <lastmod>2021-07-19</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://OpenSustain.tech/business/</loc>
+         <lastmod>2021-07-19</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://OpenSustain.tech/community/</loc>
+         <lastmod>2021-07-19</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://OpenSustain.tech/contributing/</loc>
+         <lastmod>2021-07-19</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://OpenSustain.tech/education/</loc>
+         <lastmod>2021-07-19</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://OpenSustain.tech/meta_tags/</loc>
+         <lastmod>2021-07-19</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+</urlset>
