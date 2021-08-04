@@ -33,3 +33,4 @@ __Looking for resources to get started in Open Sustainable Technology? Here you 
 - [Spatial data science for sustainable development](https://sustainability-gis.readthedocs.io/en/latest/) - Introduces geographical and computational analysis approaches to study sustainability related questions.  
 - [Climate Risks Academy 2021](https://github.com/danielhuppmann/climate-risks-academy-2021) - Contains solutions for the advanced assignment of the Modelling Lab of the Climate Risks Academy 2021.
 - [SDG Academy](https://sdgacademy.org/courses/) - Education platform of the Sustainable Development Solutions Network (SDSN), a global initiative for the United Nations.
+- [PVSC48-Python-Tutorial](https://github.com/PVSC-Python-Tutorials/PVSC48-Python-Tutorial) - Computing tutorial with focus on PV computing packages, Python, data wrangling with Pandas, and data viz.
