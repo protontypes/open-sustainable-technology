@@ -101,6 +101,7 @@ __A curated list of open technology projects sustaining a stable climate, energy
 - [MPPT-Solar-Charger](https://github.com/danjulio/MPPT-Solar-Charger) - Supporting documentation and software for the MPPT Solar Charger.
 - [Tonatiuh](https://github.com/iat-cener/tonatiuh) - A Monte Carlo ray tracer for the optical simulation of solar concentrating systems.
 - [PV4GER](https://github.com/kdmayer/PV4GER) - Aims at democratizing and accelerating the access to photovoltaic systems data in Germany and beyond.
+- [PV Free](https://github.com/BreakingBytes/pvfree) - A public API for PV modeling parameters.
 
 ### Wind Turbines
 
