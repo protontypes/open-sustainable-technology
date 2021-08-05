@@ -101,6 +101,7 @@ __A curated list of open technology projects sustaining a stable climate, energy
 - [PV4GER](https://github.com/kdmayer/PV4GER) - Aims at democratizing and accelerating the access to photovoltaic systems data in Germany and beyond.
 - [PV Free](https://github.com/BreakingBytes/pvfree) - A public API for PV modeling parameters.
 - [Pysolar](https://github.com/pingswept/pysolar) - A collection of Python libraries for simulating the irradiation of any point on earth by the sun. It includes code for extremely precise ephemeris calculations.
+- [PV_ICE](https://github.com/NREL/PV_ICE) - An open-source tool to quantify Solar Photovoltaics (PV) Energy and Mass Flows in the Circular Economy, from a Reliability and Lifetime approach.
 
 ### Wind Turbines
 
