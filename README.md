@@ -420,7 +420,6 @@ __A curated list of open technology projects sustaining a stable climate, energy
 - [DPsim](https://github.com/sogno-platform/dpsim) - A solver library for dynamic power system simulation.
 - [PyPSA meets Africa](https://github.com/pypsa-meets-africa/pypsa-africa) - A free and open source software project aiming to develop a powerful energy system model for Africa.
 - [GenX](https://github.com/GenXProject/GenX) - A highly-configurable, open source electricity resource capacity expansion model that incorporates several state-of-the-art practices in electricity system planning to offer improved decision support for a changing electricity landscape.
-- [GridPath](https://github.com/blue-marble/gridpath) - A versatile simulation and optimization platform for power-system planning and operations
 - [Open Energy Platform](https://github.com/OpenEnergyPlatform/oeplatform) - Aims to ensure quality, transparency and reproducibility in energy system research. It is a collection of various tools and information and that help working with energy-related data.
 - [PyPSA](https://github.com/PyPSA/PyPSA) - A free software toolbox for simulating and optimizing modern power systems that include features such as conventional generators with unit commitment, variable wind and solar generation, storage units, coupling to other energy sectors, and mixed alternating and direct current networks.
 - [oemof](https://github.com/oemof/oemof) - Open Energy Modelling Framework - A Python toolbox for energy system modeling and optimization. A community driven, modular, flexible and generic software project.
@@ -576,6 +575,7 @@ __A curated list of open technology projects sustaining a stable climate, energy
 - [OPGEE](https://github.com/arbrandt/OPGEE) - Oil Production Greenhouse Gas Emissions Estimator.
 - [OpenGHG](https://github.com/openghg) - A cloud platform for greenhouse gas data analysis and collaboration.
 - [Open Carbon Watch](https://github.com/OpenCarbonWatch) - We monitor greenhouse gases emission reports published by organizations, along with their legal obligations and their own commitments, and track them over time.
+- [Methane-detection-from-hyperspectral-imagery](https://github.com/satish1901/Methane-detection-from-hyperspectral-imagery) - Deep Learning based Remote Sensing Methods for Methane Detection in Airborne Hyperspectral Imagery.
 
 ## Ecological Footprint
 
