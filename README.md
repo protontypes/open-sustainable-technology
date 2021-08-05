@@ -21,7 +21,7 @@ __A curated list of open technology projects sustaining a stable climate, energy
   - [Mobility and Transportation](#mobility-and-transportation)
   - [Production and Industry](#production-and-industry)
   - [Computation and Services](#computation-and-services)
-- [Energy Systems](#energy-system-assessment)
+- [Energy Systems](#energy-systems)
   - [Modeling](#modeling)
   - [Monitoring and Control](#monitoring-and-control)
   - [Energy Distribution and Grids](#energy-distribution-and-grids)
@@ -361,7 +361,7 @@ __A curated list of open technology projects sustaining a stable climate, energy
 - [Carbon-API-2.0](https://gitlab.com/wholegrain/carbon-api-2-0) - Estimating the carbon emissions per page on thousands of sites by looking at the amount of data that they transfer on load.
 
 
-## Energy System Assessment
+## Energy Systems
 
 ### Modeling
 
@@ -576,6 +576,7 @@ __A curated list of open technology projects sustaining a stable climate, energy
 - [OpenGHG](https://github.com/openghg) - A cloud platform for greenhouse gas data analysis and collaboration.
 - [Open Carbon Watch](https://github.com/OpenCarbonWatch) - We monitor greenhouse gases emission reports published by organizations, along with their legal obligations and their own commitments, and track them over time.
 - [Methane-detection-from-hyperspectral-imagery](https://github.com/satish1901/Methane-detection-from-hyperspectral-imagery) - Deep Learning based Remote Sensing Methods for Methane Detection in Airborne Hyperspectral Imagery.
+- [Methane Source Finder](https://methane.jpl.nasa.gov/) - Explore, analyze, and download methane plumes detected from airborne platforms on an interactive map alongside VISTA infrastructure, gridded methane estimates, and other additional data layers.
 
 ## Ecological Footprint
 
