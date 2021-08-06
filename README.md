@@ -1015,6 +1015,7 @@ __A curated list of open technology projects sustaining a stable climate, energy
 - [NeuralHydrology](https://github.com/neuralhydrology/neuralhydrology) - Python library to train neural networks with a strong focus on hydrological applications.
 - [dataretrieval](https://github.com/USGS-python/dataretrieval) - A Python alternative to USGS-R's dataRetrieval package for obtaining USGS or EPA water quality data, streamflow data, and metadata directly from web services.
 - [CWatM](https://github.com/iiasa/CWatM) - Assess water supply, water demand and environmental needs at global and regional level.
+- [WWTP](https://gitlab.com/hotmaps/potential/WWTP) - EU28 Waste Water Treatment Plants
 
 ### Soil and Land
 
