@@ -135,7 +135,8 @@ __A curated list of open technology projects sustaining a stable climate, energy
 - [windrose](https://github.com/python-windrose/windrose) - A graphic tool used by meteorologists to give a succinct view of how wind speed and direction are typically distributed at a particular location.
 - [SHARPy](https://github.com/ImperialCollegeLondon/sharpy) - Simulation of High Aspect Ratio aeroplanes and wind turbines in Python.
 - [WindSE](https://github.com/NREL/WindSE) - A Python package that uses a FEniCS backend to perform wind farm simulations and optimization.
-- [WEIS](https://github.com/WISDEM/WEIS) - WEIS is a framework that combines multiple tools to enable design optimization of floating offshore wind turbines.
+- [WEIS](https://github.com/WISDEM/WEIS) - WEIS is a framework that combines multiple tools to enable design optimization of floating offshore wind turbines.#
+- [HAMS](https://github.com/YingyiLiu/HAMS) - An open-source computer program for the analysis of wave diffraction and radiation of three-dimensional floating or submerged structures.
 
 
 ### Hydro Energy
