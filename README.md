@@ -528,6 +528,7 @@ __A curated list of open technology projects sustaining a stable climate, energy
 - [EnergyDataSimulationChallenge](https://github.com/enechange/EnergyDataSimulationChallenge) - Allows applicants to demonstrate their ability to analyze and develop software that makes use of big energy production data.
 - [disaggregator](https://github.com/DemandRegioTeam/disaggregator) - A set of tools for processing of spatial and temporal disaggregations of demands of electricity, heat and natural gas.
 - [The FfE Open Data Portal](http://opendata.ffe.de/) - Offers an overview of free datasets for modelling energy demand and generation.
+- [DKA Solar Centre](http://dkasolarcentre.com.au/) - Online hub for sharing solar-related knowledge and data from the Northern Territory, Australia.
 
 
 ## Emissions
