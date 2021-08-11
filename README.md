@@ -1098,6 +1098,7 @@ __A curated list of open technology projects sustaining a stable climate, energy
 - [The Bread Code](https://github.com/hendricius/the-bread-code) - This repository is dedicated to becoming your bread manifesto with useful tricks and hacks.
 - [Growstuff](https://github.com/Growstuff/growstuff) - Open source and open data platform that can predict when your plantings will be ready to harvest.
 - [FarmOS](https://farmos.org/) - Open source web-based application for farm management, planning, and record keeping.
+- [Is-Vegan](https://github.com/hmontazeri/is-vegan) - Helps you to find out which food ingredients are vegan / non-vegan.
 
 
 ## Sustainable Investment
@@ -1152,7 +1153,7 @@ __A curated list of open technology projects sustaining a stable climate, energy
 - [Climate Impact Lab](http://www.impactlab.org/) - A team of economists, climate scientists, data engineers, and risk analysts are building the world's most comprehensive body of research quantifying the impacts of climate change, sector-by-sector and community-by-community around the world.
 - [Climate change in the contiguous United States](https://github.com/washingtonpost/data-2C-beyond-the-limit-usa/) - The Washington Post's analysis of NOAA climate change data for the contiguous United States.
 - [Regen Ledger](https://github.com/regen-network/regen-ledger) - Providing a structured database of claims regarding ecological state and change of state.
-- [Resource Watch](https://github.com/resource-watch/resource-watch) - Features hundreds of data sets all in one place on the state of the planet’s resources and citizens.
+- [Resource Watch](https://github.com/resource-watch/resource-watch) - Features hundreds of data sets all in one place on the state of the planet's resources and citizens.
 
 ### Footnotes
 
