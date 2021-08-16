@@ -697,7 +697,7 @@ __A curated list of open technology projects sustaining a stable climate, energy
 - [biodivMapR](https://github.com/jbferet/biodivMapR) - An R package for α- and β-diversity mapping using remotely-sensed images.
 - [Continuous Reforestation](https://github.com/protontypes/continuous-reforestation) - A GitHub Action for planting trees within your development workflow using the Reforestation as a Service (RaaS) API developed by DigitalHumani.
 - [DiversiTree](https://github.com/DiversiTree/TreeDiversity) - Help urban foresters, planners, greeners, and ecologists in quantifying tree ecosystem diversity in cities.
-- [Modelling and forecasting deforestation in the tropics](https://github.com/ghislainv/forestatrisk-tropics) - Forest refuge areas and carbon emissions from tropical deforestation in the 21st century.
+- [forestatrisk](https://github.com/ghislainv/forestatrisk-tropics) - Forest refuge areas and carbon emissions from tropical deforestation in the 21st century.
 
 ### Ice and Poles
 
