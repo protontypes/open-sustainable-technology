@@ -498,6 +498,7 @@ __A curated list of open technology projects sustaining a stable climate, energy
 - [GridLAB-D](https://github.com/gridlab-d/gridlab-d) - A distribution level power system simulator designed to allow users to create and analyze smart grid technologies.
 - [Gym-ANM](https://github.com/robinhenry/gym-anm) - Design Reinforcement Learning environments that model Active Network Management tasks in electricity distribution networks.
 - [SEAPATH](https://www.lfenergy.org/projects/seapath/) - Industrial grade open source real-time platform that can run virtualized automation and protection applications for the power grid industry.
+- [Tools for the iTEM databases](https://github.com/transportenergy/database) - Contains tools for two databases maintained by iTEM, the International Transport Energy Modeling consortium.
 
 ## Datasets on Energy Systems
 
