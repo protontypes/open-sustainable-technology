@@ -928,6 +928,7 @@ __A curated list of open technology projects sustaining a stable climate, energy
 - [Data wrangling for the "IEA Net Zero by 2050" Roadmap](https://github.com/danielhuppmann/iea-netzero2050-datawrangler) - Transform data supporting the IEA Netzero2050 Roadmap (2021) to the IAMC format.
 - [cmip56_forcing_feedback_ecs](https://github.com/mzelinka/cmip56_forcing_feedback_ecs) - Tables Effective Radiative Forcing and Radiative Feedbacks.
 - [libRadtran](http://www.libradtran.org/) - A collection of C and Fortran functions and programs for calculation of solar and thermal radiation in the Earth's atmosphere.
+- [DeepDownscaling](https://github.com/SantanderMetGroup/DeepDownscaling) - Deep learning approaches for statistical downscaling in climate.
 
 
 ## Natural Resources
@@ -1155,7 +1156,7 @@ __A curated list of open technology projects sustaining a stable climate, energy
 - [Regen Ledger](https://github.com/regen-network/regen-ledger) - Providing a structured database of claims regarding ecological state and change of state.
 - [Resource Watch](https://github.com/resource-watch/resource-watch) - Features hundreds of data sets all in one place on the state of the planet's resources and citizens.
 - [Stripe Climate Carbon Removal Purchases](https://github.com/stripe/carbon-removal-source-materials) - Source materials supporting Stripe Climate carbon removal purchases.
-- [Open Source Python Packages in Hydrology](https://github.com/raoulcollenteur/Python-Hydrology-Tools) - Holds a list of open source Python packages interesting to Hydrologists
+- [Open Source Python Packages in Hydrology](https://github.com/raoulcollenteur/Python-Hydrology-Tools) - Holds a list of open source Python packages interesting to Hydrologists.
 
 ### Footnotes
 
