@@ -769,7 +769,6 @@ __A curated list of open technology projects sustaining a stable climate, energy
 - [RivGraph](https://github.com/jonschwenk/RivGraph) - Extracting and quantifying graphical representations of river and delta channel networks from binary masks.
 - [noaa_coops](https://github.com/GClunies/noaa_coops) -  A Python wrapper for the NOAA CO-OPS Tides & Currents Data and Metadata APIs.
 - [COSIMA](https://github.com/COSIMA/cosima-cookbook) - Ocean and sea-ice model analysis tools and examples.
-- [Ocean Navigator](https://github.com/DFO-Ocean-Navigator/Ocean-Data-Map-Project) - Ocean Navigator is a Data Visualization tool that enables users to discover and view 3D ocean model output quickly and easily.
 
 
 ### Atmosphere
@@ -932,6 +931,7 @@ __A curated list of open technology projects sustaining a stable climate, energy
 - [libRadtran](http://www.libradtran.org/) - A collection of C and Fortran functions and programs for calculation of solar and thermal radiation in the Earth's atmosphere.
 - [DeepDownscaling](https://github.com/SantanderMetGroup/DeepDownscaling) - Deep learning approaches for statistical downscaling in climate.
 - [climateforcing](https://github.com/chrisroadmap/climateforcing) - An incomplete toolbox of scripts and modules used for analysis of climate models and climate data.
+- [clisops](https://github.com/roocs/clisops) - Climate simulation operations.
 
 ## Natural Resources
 
