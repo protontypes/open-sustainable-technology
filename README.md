@@ -553,7 +553,7 @@ __A curated list of open technology projects sustaining a stable climate, energy
 - [footprint](https://github.com/acircleda/footprint) - An R package to calculate carbon footprints from air travel based on IATA airport codes or latitude and longitude.
 - [intensegRid](https://github.com/KKulma/intensegRid) - Provides information on national and regional carbon intensity, the amount of carbon emitted per unit of energy consumed, for the UK.
 - [Carbonfact Models](https://github.com/kansoapp/carbonfact-models) - The carbon footprint models used by carbonfact.co.
-- [CAMx](https://www.camx.com/) - A multi-scale photochemical modeling system for gas and particulate air pollution
+- [CAMx](https://www.camx.com/) - A multi-scale photochemical modeling system for gas and particulate air pollution.
 
 ### Carbon Capture
 
