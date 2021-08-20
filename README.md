@@ -787,7 +787,7 @@ __A curated list of open technology projects sustaining a stable climate, energy
 - [splitr](https://github.com/rich-iannone/splitr) - We can determine, from one or more receptor sites, where arriving air masses originated.
 - [PyCHAM](https://github.com/simonom/PyCHAM) - CHemistry with Aerosol Microphysics in Python box model for Windows, Linux and Mac.
 - [maja](https://github.com/CNES/MAJA) - An atmospheric correction and cloud screening software.
-- [Mission Support System](https://mss.readthedocs.io/en/stable/about.html) - The purpose is to have a tool that simplifies the process for planning a scientific flight in which parameters of the atmosphere are measured.
+- [Mission Support System](https://github.com/Open-MSS/MSS) - A collaboration server to plan atmospheric research flights.
 - [MiMA](https://github.com/mjucker/MiMA) - Model of an idealized Moist Atmosphere: Intermediate-complexity General Circulation Model with full radiation.
 - [lowtran](https://github.com/space-physics/lowtran) - Atmospheric absorption extinction, scatter and irradiance model in Python and Matlab.
 - [Elefridge.jl](https://github.com/esowc/Elefridge.jl) - Compressing atmospheric data into its real information.
@@ -802,6 +802,7 @@ __A curated list of open technology projects sustaining a stable climate, energy
 - [PyBox](https://github.com/loftytopping/PyBox) - A Python based box-model generator and simulator designed for atmospheric chemistry and aerosol studies.
 - [SCREAM](https://github.com/E3SM-Project/scream) - A global atmosphere model targeted towards 3 km ("cloud resolving") resolution.
 - [RRTMGP.jl](https://github.com/CliMA/RRTMGP.jl) - A Julia implementation of Rapid and accurate Radiative Transfer Model for General Circulation Models.
+- [met.3D](https://gitlab.com/wxmetvis/met.3d) - interactive, three-dimensional visualization of numerical ensemble weather predictions and similar numerical atmospheric model datasets.
 
 ### Climate and Earth Modeling
 
