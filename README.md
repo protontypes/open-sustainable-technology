@@ -255,7 +255,7 @@ __A curated list of open technology projects sustaining a stable climate, energy
 - [DSMR-reader](https://github.com/dsmrreader/dsmr-reader) - Used for reading the smart meter DSMR (Dutch Smart Meter Requirements) P1 port yourself at your home.
 - [Multiscale Solar Water Heating](https://github.com/LBNL-ETA/MSWH) - Solar water heating system modeling and simulation for individual and community scale projects.
 - [eplusr](https://github.com/hongyuanjia/eplusr) - Provides a rich toolkit of using whole building energy simulation program EnergyPlus directly in R, which enables programmatic navigation, modification of EnergyPlus, conducts parametric simulations and retrieves outputs.
-- [Brick](https://github.com/ruijis/Brick) - An open-source effort to standardize semantic descriptions of the physical, logical and virtual assets in buildings and the relationships between them.
+- [Brick](https://github.com/BrickSchema/Brick) - An open-source effort to standardize semantic descriptions of the physical, logical and virtual assets in buildings and the relationships between them.
 - [gbXML](https://github.com/ruijis/gbXML_Schemas) - Green Building XML (gbXML) is the language of buildings, allowing disparate building design software tools to all communicate with one another.
 - [BETTER](https://github.com/LBNL-JCI-ICF/better) - Building Efficiency Targeting Tool for Energy Retrofits.
 - [NILM](https://github.com/nilmtk/nilmtk) - Non-Intrusive Load Monitoring is the process of estimating the energy consumed by individual appliances given just a whole-house power meter reading.
@@ -646,7 +646,6 @@ __A curated list of open technology projects sustaining a stable climate, energy
 - [pyfor](https://github.com/brycefrank/pyfor) - Tools for analyzing aerial point clouds of forest data.
 - [DeepForest](https://github.com/weecology/DeepForest) - Python Package for Tree Crown Detection in Airborne RGB imagery.
 - [pyMETRIC](https://github.com/WSWUP/pymetric) - A set of Python based tools developed for estimating and mapping evapotranspiration for large areas, utilizing the Landsat image archive.
-- [vegetation-monitoring](https://github.com/atreyasha/vegetation-monitoring) - R-based Random Forest Algorithm to classify vegetation cover in Dharamshala Tehsil and conduct vegetation loss detection.
 - [NeonTreeEvaluation](https://github.com/weecology/NeonTreeEvaluation) - Benchmark dataset for tree detection for airborne RGB, Hyperspectral and LIDAR imagery.
 - [PyCrown](https://github.com/manaakiwhenua/pycrown) - Fast raster-based individual tree segmentation for LiDAR data.
 - [canopyLazR](https://github.com/akamoske/canopyLazR) - An R package that estimates leaf area density and leaf area index from airborne LiDAR point clouds.
