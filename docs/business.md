@@ -17,7 +17,7 @@ __Financial resources, incubators, hackathons and accelerators for sustainable b
 
 ## Accelerators
 
-* [Subak](https://climatesubak.org/) - The world’s first non-profit accelerator that scales climate impact through data, policy and behaviour change.
+* [Subak](https://climatesubak.org/) - The world's first non-profit accelerator that scales climate impact through data, policy and behaviour change.
 * [100accelerator](https://www.100accelerator.com/) - To help us reach our 2025 Sustainability Goals, the 100+ Accelerator will host and provide funding to start-ups to solve challenges designed to create a more sustainable world for all.
 * [The Data Guild](https://www.thedataguild.com/) - We build companies to address challenges in healthcare, life sciences, renewable energy and climate change.
 * [Cascadia Cleantech Accelerator](https://cascadiacleantech.org/) - The mostly virtual 15-week program delivers mentorship, curriculum, connections and funding opportunities designed specifically for early-stage cleantech startups.
