@@ -333,6 +333,7 @@ __A curated list of open technology projects sustaining a stable climate, energy
 - [open-ev-data](https://github.com/chargeprice/open-ev-data) - Open Dataset of Electric Vehicle specs.
 - [SmartEVSE](https://github.com/SmartEVSE/smartevse) - Smart EVSE Electric Vehicle Charging Station.
 - [BikeshareClient](https://github.com/andmos/BikeshareClient) - Dotnet library for integrating with GBFS bikeshare systems.
+- [Growing Urban Bicycle Networks](https://github.com/mszell/bikenwgrowth) - Source code for the paper Growing Urban Bicycle Networks, exploring algorithmically the limitations of urban bicycle network growth.
 
 ### Production and Industry
 
