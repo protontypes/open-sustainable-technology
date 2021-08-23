@@ -137,6 +137,7 @@ __A curated list of open technology projects sustaining a stable climate, energy
 - [WindSE](https://github.com/NREL/WindSE) - A Python package that uses a FEniCS backend to perform wind farm simulations and optimization.
 - [WEIS](https://github.com/WISDEM/WEIS) - WEIS is a framework that combines multiple tools to enable design optimization of floating offshore wind turbines.
 - [HAMS](https://github.com/YingyiLiu/HAMS) - An open-source computer program for the analysis of wave diffraction and radiation of three-dimensional floating or submerged structures.
+- [brightwind](https://github.com/brightwind-dev/brightwind) - A Python library aims to empower wind resource analysts and establish a common industry standard toolset.
 
 
 ### Hydro Energy
