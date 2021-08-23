@@ -36,3 +36,4 @@ __Looking for resources to get started in Open Sustainable Technology? Here you 
 - [PVSC48-Python-Tutorial](https://github.com/PVSC-Python-Tutorials/PVSC48-Python-Tutorial) - Computing tutorial with focus on PV computing packages, Python, data wrangling with Pandas, and data viz.
 - [Power Systems Optimization](https://github.com/east-winds/power-systems-optimization) - How to implement and apply linear and mixed integer linear programs to solve such problems using Julia/JuMP, and the practical application of such techniques in energy systems engineering.
 - [Advanced Urban Analytics](https://github.com/gboeing/ppd599) - This course series takes a computational social science approach to working with urban data.
+- [Terra.do](https://www.terra.do) - Climate learning and career transition platform with a fellowship for software work in climate. Also hosts climate job fairs, connects to mentors and experts, etc.
