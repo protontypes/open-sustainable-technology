@@ -728,6 +728,7 @@ __A curated list of open technology projects sustaining a stable climate, energy
 - [icepyx](https://github.com/icesat2py/icepyx) - Python tools for obtaining and working with ICESat-2 data.
 - [BedMachine](https://github.com/chadagreene/BedMachine) - Matlab tools for loading, interpolating, and displaying BedMachine ice sheet topography.
 - [Iceberg Locations](https://github.com/Joel-hanson/Iceberg-locations) - Antarctic large iceberg positions derived from ASCAT and OSCAT-2.
+- [Awesome Arctic Data](https://github.com/arctic-risk/awesome-arctic-data) - A curated list on data sources related to climate change in the arctic.
 
 
 ### Salt and Fresh Water
