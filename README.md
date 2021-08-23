@@ -1173,6 +1173,7 @@ __A curated list of open technology projects sustaining a stable climate, energy
 - [Resource Watch](https://github.com/resource-watch/resource-watch) - Features hundreds of data sets all in one place on the state of the planet's resources and citizens.
 - [Stripe Climate Carbon Removal Purchases](https://github.com/stripe/carbon-removal-source-materials) - Source materials supporting Stripe Climate carbon removal purchases.
 - [Open Source Python Packages in Hydrology](https://github.com/raoulcollenteur/Python-Hydrology-Tools) - Holds a list of open source Python packages interesting to Hydrologists.
+- [owidR](https://github.com/piersyork/owidR) - An R Package for Interacting with Data from Our World in Data.
 
 ### Footnotes
 
