@@ -869,6 +869,7 @@ __A curated list of open technology projects sustaining a stable climate, energy
 - [ARTS](https://github.com/atmtools/arts) - A radiative transfer model for the millimeter and sub-millimeter spectral range.
 - [Py6S](https://github.com/robintw/Py6S) - A Python interface to the 6S Radiative Transfer Model.
 - [pyOSOAA](https://github.com/fnemina/pyOSOAA) - A python interface for the Ocean Successive Orders with Atmosphere radiative transfer.
+- [ECRAD](https://github.com/ecmwf/ecrad) - A radiation scheme suitable for use in atmospheric weather and climate models.
 
 ### Earth Climate Datasets and Tools
 
