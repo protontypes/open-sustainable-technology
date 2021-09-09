@@ -13,7 +13,6 @@ nav:
 
 theme:
   name: 'material'
-  custom_dir: 'docs/overrides'
   logo: 'logo.png'
   favicon: 'favicon.png'
   palette:
