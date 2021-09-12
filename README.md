@@ -4,7 +4,7 @@
 __A curated list of open technology projects to sustain a stable climate, energy supply, and vital natural resources.__ <br> <br> Our ambition is to list all sustainable, open and actively maintained sustainable technology projects worldwide. Your contribution is necessary to keep this list alive, increase the quality and to expand it. Read more about its origin and how you can participate in the [contribution guide](https://opensustain.tech/contributing/), <!--lint ignore double-link-->[community chat](https://gitter.im/protontypes/), [presentation slides](https://protontypes.eu/protontypes_open_sustainable_technology.pdf) and related [blog post](https://protontypes.eu/blog/2020/10/05/gathering-open-sustainable-technology/). Please [contact us](https://protontypes.eu/contact/) to give feedback, hints and ideas for [OpenSustain.tech](https://opensustain.tech/) or [create an issue](https://github.com/protontypes/open-sustainable-technology/issues/new). <br><br> [![](https://badgen.net/badge/icon/Follow%20New%20Entries/009485?icon=twitter&label&scale=1.3)](https://twitter.com/protontypes) 
 
 
-<!--toc-->
+
 ## Contents
 
 - [Renewable Energy](#renewable-energy)
@@ -707,6 +707,7 @@ __A curated list of open technology projects to sustain a stable climate, energy
 - [Continuous Reforestation](https://github.com/protontypes/continuous-reforestation) - A GitHub Action for planting trees within your development workflow using the Reforestation as a Service (RaaS) API developed by DigitalHumani.
 - [DiversiTree](https://github.com/DiversiTree/TreeDiversity) - Help urban foresters, planners, greeners, and ecologists in quantifying tree ecosystem diversity in cities.
 - [forestatrisk](https://github.com/ghislainv/forestatrisk-tropics) - Forest refuge areas and carbon emissions from tropical deforestation in the 21st century.
+- [DetecTree](https://github.com/martibosch/detectree) - A Pythonic library to classify tree/non-tree pixels from aerial imagery.
 
 ### Ice and Poles
 
