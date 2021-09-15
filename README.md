@@ -1180,6 +1180,7 @@ __A curated list of open technology projects to sustain a stable climate, energy
 - [Open Source Python Packages in Hydrology](https://github.com/raoulcollenteur/Python-Hydrology-Tools) - Holds a list of open source Python packages interesting to Hydrologists.
 - [owidR](https://github.com/piersyork/owidR) - An R Package for Interacting with Data from Our World in Data.
 - [Awesome Spectral Indices](https://github.com/davemlz/awesome-ee-spectral-indices) - A ready-to-use curated list of Spectral Indices for Remote Sensing applications.
+- [Awesome Sustainability Jobs](https://github.com/pogopaule/awesome-sustainability-jobs) - A curated list of companies in the sustainability sector that have jobs for devs.
 
 ### Footnotes
 
