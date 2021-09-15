@@ -37,3 +37,4 @@ __Looking for resources to get started in Open Sustainable Technology? Here you 
 - [Power Systems Optimization](https://github.com/east-winds/power-systems-optimization) - How to implement and apply linear and mixed integer linear programs to solve such problems using Julia/JuMP, and the practical application of such techniques in energy systems engineering.
 - [Advanced Urban Analytics](https://github.com/gboeing/ppd599) - This course series takes a computational social science approach to working with urban data.
 - [PyEarthScience](https://github.com/KMFleischer/PyEarthScience) - Python modules, scripts and iPython notebooks, in particular for Earth System data processing and visualization used in climate science.
+- [Predicting the Wind: Data Science in Wind Resource Assessment](https://github.com/flrs/predicting_the_wind) - Contains material for a hands-on tutorial and additional content about data science in wind resource assessment.
