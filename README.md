@@ -950,6 +950,7 @@ __A curated list of open technology projects to sustain a stable climate, energy
 - [climateforcing](https://github.com/chrisroadmap/climateforcing) - An incomplete toolbox of scripts and modules used for analysis of climate models and climate data.
 - [clisops](https://github.com/roocs/clisops) - Climate simulation operations.
 - [AR6-WG1-Data-Compilation](https://github.com/openscm/AR6-WG1-Data-Compilation) - Compiles the data into a uniform, csv-based data format following the standard established by the Integrated Assessment Modeling Consortium and used by IPCC WG3.
+- [icclim](https://github.com/cerfacs-globc/icclim) - Python library for climate indices and climate indicators calculation.
 
 ## Natural Resources
 
