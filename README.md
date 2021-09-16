@@ -818,6 +818,7 @@ __A curated list of open technology projects to sustain a stable climate, energy
 - [SCREAM](https://github.com/E3SM-Project/scream) - A global atmosphere model targeted towards 3 km ("cloud resolving") resolution.
 - [RRTMGP.jl](https://github.com/CliMA/RRTMGP.jl) - A Julia implementation of Rapid and accurate Radiative Transfer Model for General Circulation Models.
 - [met.3D](https://gitlab.com/wxmetvis/met.3d) - Interactive three-dimensional visualization of numerical ensemble weather predictions and similar numerical atmospheric model datasets.
+- [pyvortex](https://github.com/pankajkarman/pyvortex) - Equivalent Latitude and polar vortex edge calculation using Nash criteria.
 
 ### Climate and Earth Modeling
 
