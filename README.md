@@ -8,7 +8,7 @@ __A curated list of open technology projects to sustain a stable climate, energy
 ## Contents
 
 - [Renewable Energy](#renewable-energy)
-  - [Photovoltaic and Solar Energy](#photovoltaic-and-solar-energy)
+  - [Photovoltaics and Solar Energy](#photovoltaics-and-solar-energy)
   - [Wind Turbines](#wind-turbines)
   - [Hydro Energy](#hydro-energy)
   - [Geothermal Energy](#geothermal-energy)
@@ -53,7 +53,7 @@ __A curated list of open technology projects to sustain a stable climate, energy
 
 ## Renewable Energy
 
-### Photovoltaic and Solar Energy
+### Photovoltaics and Solar Energy
 
 - [pvlib-python](https://github.com/pvlib/pvlib-python) - A set of documented functions for simulating the performance of photovoltaic energy systems.
 - [pvfactors](https://github.com/SunPower/pvfactors) - Open source view-factor model for diffuse shading and bifacial PV modeling.
