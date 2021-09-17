@@ -38,3 +38,4 @@ __Looking for resources to get started in Open Sustainable Technology? Here you 
 - [Advanced Urban Analytics](https://github.com/gboeing/ppd599) - This course series takes a computational social science approach to working with urban data.
 - [PyEarthScience](https://github.com/KMFleischer/PyEarthScience) - Python modules, scripts and iPython notebooks, in particular for Earth System data processing and visualization used in climate science.
 - [Predicting the Wind: Data Science in Wind Resource Assessment](https://github.com/flrs/predicting_the_wind) - Contains material for a hands-on tutorial and additional content about data science in wind resource assessment.
+- [2020_ICESat-2_Hackweek_Tutorials](https://github.com/ICESAT-2HackWeek/2020_ICESat-2_Hackweek_Tutorials) - Combined repository for the final tutorial material presented at the 2020 ICESat-2 #Cryosphere Hackweek. 
