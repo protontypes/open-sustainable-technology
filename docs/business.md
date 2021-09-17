@@ -133,6 +133,7 @@ __Financial resources, incubators, hackathons and accelerators for sustainable b
 * [Wind Ventures](https://www.windventures.vc/) - The newly established corporate venture capital arm of COPEC whose purpose is to accelerate global startups, and boost their growth in the United States and Latin America.
 * [The Climate Fund Inventory](https://www.oecd.org/environment/cc/database-climate-fund-inventory.htm) - A qualitative database of bilateral and multilateral public climate funds. 
 * [Climate Innovation Fund](https://www.microsoft.com/en-us/corporate-responsibility/sustainability/climate-innovation-fund) - We are investing $1 billion over the next four years in new technologies and innovative sustainability solutions.
+* [Climate Tech VC](https://climatetechvc.org/climate-cvc/) - A Running List of Climate Corporate
 
 ### Food and Agriculture
 * [Acre Venture Partners](http://acre.vc/) - A venture capital fund investing in the future of food.
