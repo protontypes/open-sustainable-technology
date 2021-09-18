@@ -736,6 +736,7 @@ __A curated list of open technology projects to sustain a stable climate, energy
 - [Iceberg Locations](https://github.com/Joel-hanson/Iceberg-locations) - Antarctic large iceberg positions derived from ASCAT and OSCAT-2.
 - [Awesome Arctic Data](https://github.com/arctic-risk/awesome-arctic-data) - A curated list on data sources related to climate change in the arctic.
 - [GlaThiDa](https://gitlab.com/wgms/glathida) - Glacier Thickness Database.
+- [SICOPOLIS](https://gitlab.awi.de/sicopolis/sicopolis) - A 3-d dynamic/thermodynamic model that simulates the evolution of large ice sheets and ice caps. 
 
 
 ### Salt and Fresh Water
