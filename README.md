@@ -22,7 +22,7 @@ __A curated list of open technology projects to sustain a stable climate, energy
   - [Production and Industry](#production-and-industry)
   - [Computation and Services](#computation-and-services)
 - [Energy Systems](#energy-systems)
-  - [Modeling](#modeling)
+  - [Modeling and Optimization](#modeling-and-optimization)
   - [Monitoring and Control](#monitoring-and-control)
   - [Energy Distribution and Grids](#energy-distribution-and-grids)
 - [Datasets on Energy Systems](#datasets-on-energy-systems)
@@ -366,7 +366,7 @@ __A curated list of open technology projects to sustain a stable climate, energy
 
 ## Energy Systems
 
-### Modeling
+### Modeling and Optimization
 
 - [Open Energy System Models](https://en.wikipedia.org/wiki/Open_energy_system_models) - Used to explore future energy systems and are often applied to questions involving energy and climate policy.
 - [Open Models](https://wiki.openmod-initiative.org/wiki/Open_Models) - This page lists energy models published under open source licenses.
