@@ -735,6 +735,7 @@ __A curated list of open technology projects to sustain a stable climate, energy
 - [BedMachine](https://github.com/chadagreene/BedMachine) - Matlab tools for loading, interpolating, and displaying BedMachine ice sheet topography.
 - [Iceberg Locations](https://github.com/Joel-hanson/Iceberg-locations) - Antarctic large iceberg positions derived from ASCAT and OSCAT-2.
 - [Awesome Arctic Data](https://github.com/arctic-risk/awesome-arctic-data) - A curated list on data sources related to climate change in the arctic.
+- [GlaThiDa](https://gitlab.com/wgms/glathida) - Glacier Thickness Database.
 
 
 ### Salt and Fresh Water
