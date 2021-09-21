@@ -102,6 +102,7 @@ __A curated list of open technology projects to sustain a stable climate, energy
 - [PV Free](https://github.com/BreakingBytes/pvfree) - A public API for PV modeling parameters.
 - [Pysolar](https://github.com/pingswept/pysolar) - A collection of Python libraries for simulating the irradiation of any point on earth by the sun. It includes code for extremely precise ephemeris calculations.
 - [PV_ICE](https://github.com/NREL/PV_ICE) - An open-source tool to quantify Solar Photovoltaics (PV) Energy and Mass Flows in the Circular Economy, from a Reliability and Lifetime approach.
+- [Solar electricity Nowcasting](https://github.com/openclimatefix/nowcasting) - Build the world's best near-term forecasting system for solar electricity generation.
 
 ### Wind Turbines
 
