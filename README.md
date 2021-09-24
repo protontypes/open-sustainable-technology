@@ -16,7 +16,7 @@ __A curated list of open technology projects to sustain a stable climate, energy
 - [Energy Storage](#energy-storage)
   - [Battery](#battery)
   - [Hydrogen](#hydrogen)
-- [Energy Consumption and Efficiency](#energy-consumption-and-efficiency)
+- [Energy Consumption and Demand](#energy-consumption-and-demand)
   - [Buildings and Cities](#buildings-and-cities)
   - [Mobility and Transportation](#mobility-and-transportation)
   - [Production and Industry](#production-and-industry)
@@ -215,7 +215,7 @@ __A curated list of open technology projects to sustain a stable climate, energy
 - [GasModels.jl](https://github.com/lanl-ansi/GasModels.jl) - A Julia/JuMP Package for Gas Network Optimization.
 - [SciGRID_gas](https://www.gas.scigrid.de/) - Methods to create an automated network model of the European gas transportation network.
 
-## Energy Consumption and Efficiency
+## Energy Demand and Efficiency
 
 ### Buildings and Cities
 
