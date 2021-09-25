@@ -16,7 +16,7 @@ __A curated list of open technology projects to sustain a stable climate, energy
 - [Energy Storage](#energy-storage)
   - [Battery](#battery)
   - [Hydrogen](#hydrogen)
-- [Energy Consumption and Demand](#energy-consumption-and-demand)
+- [Energy Demand and Efficiency](#energy-demand-and-efficiency)
   - [Buildings and Cities](#buildings-and-cities)
   - [Mobility and Transportation](#mobility-and-transportation)
   - [Production and Industry](#production-and-industry)
