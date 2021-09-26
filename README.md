@@ -461,6 +461,7 @@ __A curated list of open technology projects to sustain a stable climate, energy
 - [MESSAGEix](https://github.com/iiasa/message_ix) - A versatile, dynamic systems-optimization modeling framework developed by the IIASA Energy, Climate, and Environment (ECE) Program since the 1980s.
 - [GridPath](https://github.com/blue-marble/gridpath) - A versatile simulation and optimization platform for power-system planning and operations.
 - [Peaky Finders](https://github.com/kbaranko/peaky-finders) - A Plotly Dash application with helpful peak load visualizations and a day ahead forecasting model for five different ISOs.
+- [Renewcast](https://github.com/derevirn/renewcast) - Forecasting renewable energy generation in EU countries with machine learning algorithms, based on Streamlit and sktime.
 
 ### Monitoring and Control
 
