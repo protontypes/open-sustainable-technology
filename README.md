@@ -802,6 +802,7 @@ __A curated list of open technology projects to sustain a stable climate, energy
 - [Wflow](https://github.com/Deltares/Wflow.jl) - A Julia package that provides a hydrological modeling framework, as well as several different vertical and lateral concepts that can be used to run hydrological simulations.
 - [ML4Floods](https://github.com/spaceml-org/ml4floods) - An ecosystem of data, models and code pipelines to tackle flooding with machine learning.
 - [ParFlow](https://github.com/parflow/parflow) - An open-source, modular, parallel watershed flow model. 
+- [River Runner](https://github.com/sdl60660/river-runner) - Visualize the path of a rain droplet from any point in the contiguous United States to its end point.
 
 
 ### Atmosphere
