@@ -1,8 +1,9 @@
 site_name: 'Open Sustainable Technology'
-site_url: 'https://OpenSustain.tech'
+site_url: 'https://opensustain.tech'
 site_description: 'Open technology projects sustaining stable climate, energy supply and vital natural resources'
 repo_name: 'protontypes/open-sustainable-technology'
-repo_url: 'https://opensustain.tech/'
+repo_url: 'https://github.com/protontypes/open-sustainable-technology'
+base_url: 'https://opensustain.tech'
 edit_uri: ''
 nav:
   - "Technology": "index.md"
