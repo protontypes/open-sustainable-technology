@@ -40,3 +40,4 @@ __Looking for resources to get started in Open Sustainable Technology? Here you 
 - [Predicting the Wind: Data Science in Wind Resource Assessment](https://github.com/flrs/predicting_the_wind) - Contains material for a hands-on tutorial and additional content about data science in wind resource assessment.
 - [2020_ICESat-2_Hackweek_Tutorials](https://github.com/ICESAT-2HackWeek/2020_ICESat-2_Hackweek_Tutorials) - Combined repository for the final tutorial material presented at the 2020 ICESat-2 #Cryosphere Hackweek. 
 - [LTPy](https://gitlab.eumetsat.int/eumetlab/atmosphere/atmosphere) - Learning tool for Python on Atmospheric Composition Data.
+- [World Glaciers Explorer](https://github.com/OGGM/world-glacier-explorer) - An interactive web application with which you can learn and teach about the world’s glaciers.
