@@ -41,4 +41,4 @@ __Looking for resources to get started in Open Sustainable Technology? Here you 
 - [2020_ICESat-2_Hackweek_Tutorials](https://github.com/ICESAT-2HackWeek/2020_ICESat-2_Hackweek_Tutorials) - Combined repository for the final tutorial material presented at the 2020 ICESat-2 #Cryosphere Hackweek. 
 - [LTPy](https://gitlab.eumetsat.int/eumetlab/atmosphere/atmosphere) - Learning tool for Python on Atmospheric Composition Data.
 - [World Glaciers Explorer](https://github.com/OGGM/world-glacier-explorer) - An interactive web application with which you can learn and teach about the world's glaciers.
-- [Water Productivity and Water Accounting using WaPOR](https://github.com/wateraccounting/WAPOROCW) - Jupyter notebooks for Water Accounting and Water Productivity using WaPOR course 
+- [Water Productivity and Water Accounting using WaPOR](https://github.com/wateraccounting/WAPOROCW) - Jupyter notebooks for Water Accounting and Water Productivity using WaPOR course.
