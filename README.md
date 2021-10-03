@@ -806,6 +806,7 @@ __A curated list of open technology projects to sustain a stable climate, energy
 - [ParFlow](https://github.com/parflow/parflow) - An open-source, modular, parallel watershed flow model. 
 - [River Runner](https://github.com/sdl60660/river-runner) - Visualize the path of a rain droplet from any point in the contiguous United States to its end point.
 - [visGWDB](https://code.usgs.gov/map/gw/visGWDBmrva) - A framework for groundwater-level informatics.
+- [LakePy](https://github.com/ESIPFed/LakePy) - Pythonic user-centered front-end to the Global Lake Level Database.
 
 
 ### Atmosphere
