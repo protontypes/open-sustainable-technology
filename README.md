@@ -28,7 +28,7 @@ __A curated list of open technology projects to sustain a stable climate, energy
 - [Datasets on Energy Systems](#datasets-on-energy-systems)
 - [Emissions](#emissions)
   - [Carbon Intensity](#carbon-intensity)
-  - [Carbon Capture](#carbon-capture)
+  - [Carbon Capture and Removel](#carbon-capture-and-removel)
   - [Emission Observation and Modeling](#emission-observation-and-modeling)
 - [Ecological Footprint](#ecological-footprint)
   - [Life Cycle Assessment](#life-cycle-assessment)
@@ -568,8 +568,9 @@ __A curated list of open technology projects to sustain a stable climate, energy
 - [Carbonfact Models](https://github.com/kansoapp/carbonfact-models) - The carbon footprint models used by carbonfact.co.
 - [CAMx](https://www.camx.com/) - A multi-scale photochemical modeling system for gas and particulate air pollution.
 
-### Carbon Capture
+### Carbon Capture and Removel
 
+- [Carbon Dioxide Removal Database](https://github.com/carbonplan/cdr-database) - Open science reports on carbon removal projects and technologies.
 - [SimCCS](https://github.com/simccs/SimCCS) - A software platform for carbon capture and storage infrastructure design.
 - [FOQUS](https://github.com/CCSI-Toolset/FOQUS) - Framework for Optimization and Quantification of Uncertainty and Surrogates.
 - [Carbon Capture and Storage](https://github.com/yohanesnuwara/carbon-capture-and-storage) - This is a complete modeling workflow that integrates reservoir simulation data, rock physics, time-lapse seismic and geomechanics of CO2 injection in carbonate rock. <!--lint ignore awesome-spell-check-->
