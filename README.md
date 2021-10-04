@@ -723,6 +723,7 @@ __A curated list of open technology projects to sustain a stable climate, energy
 - [Bioverse Labs](https://github.com/Bioverse-Labs/deep-learning) - Python scripts using usual frameworks in Deep Learning for pattern recognition on forest environments.
 - [PlantNet](https://gitlab.inria.fr/cgarcin/plantnet_dataset) - Download a subset of the Pl@ntNet database with more than 300.000 images and thousand of classes.
 - [Tree Tracker](https://github.com/protect-earth/TreeTracker) - Used by people who plant trees so they don't have to manually type coordinates with pictures they took.
+- [forest-risks](https://github.com/carbonplan/forest-risks) - Statistical models of forest carbon potential and risks.
 
 ### Ice and Poles
 
