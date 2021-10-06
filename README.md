@@ -465,6 +465,7 @@ __A curated list of open technology projects to sustain a stable climate, energy
 - [Peaky Finders](https://github.com/kbaranko/peaky-finders) - A Plotly Dash application with helpful peak load visualizations and a day ahead forecasting model for five different ISOs.
 - [Renewcast](https://github.com/derevirn/renewcast) - Forecasting renewable energy generation in EU countries with machine learning algorithms, based on Streamlit and sktime.
 - [ANDES](https://github.com/cuihantao/andes) - Power system transient dynamics simulation with symbolic modeling and numerical analysis.
+- [REISE.jl](https://github.com/Breakthrough-Energy/REISE.jl) - Renewable Energy Integration Simulation Engine.
 
 ### Monitoring and Control
 
