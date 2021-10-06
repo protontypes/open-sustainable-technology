@@ -45,8 +45,8 @@ __A curated list of open technology projects to sustain a stable climate, energy
   - [Water](#water)
   - [Soil and Land](#soil-and-land)
   - [Agriculture and Nutrition](#agriculture-and-nutrition)
-- [Sustainable Business Development](#sustainable-business-development)
-  - [Sustainable Investment](#sustainable-investment)
+- [Business Development](#sustainable-business-development)
+  - [Investment](#sustainable-investment)
 - [Miscellaneous](#miscellaneous)
   - [Further Knowledge Bases and Projects](further-knowledge-bases-and-projects)
 
@@ -1157,7 +1157,7 @@ __A curated list of open technology projects to sustain a stable climate, energy
 - [PRISM](https://github.com/WFP-VAM/prism-frontend) - Assesses the potential risk and forecasts the impact of climate hazards on the most vulnerable communities, in order to design risk reduction activities and target disaster responses.
 
 
-## Sustainable Business Development 
+## Business Development 
 
 ### Investment 
 
