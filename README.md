@@ -48,7 +48,9 @@ __A curated list of open technology projects to sustain a stable climate, energy
 - [Business Development](#business-development)
   - [Investment](#investment)
 - [Miscellaneous](#miscellaneous)
-  - [Knowledge Bases and Projects](#knowledge-bases-and-projects)
+  - [Knowledge Bases and Data Sources](#knowledge-bases-and-data-sources)
+  - [Contributors](#contributors)
+  - [Artwork](#artwork)
 
 <!--toc_end-->
 
@@ -1175,7 +1177,7 @@ __A curated list of open technology projects to sustain a stable climate, energy
 
 ## Miscellaneous
 
-### Knowledge Bases and Projects
+### Knowledge Bases and Data Sources
 - [Appropedia](https://www.appropedia.org/Welcome_to_Appropedia) - Shares knowledge to build rich, sustainable lives.
 - [Awesome Clean Tech](https://github.com/nglgzz/awesome-clean-tech) - Clean technology is any process, product, or service that reduces negative environmental impacts through significant energy efficiency improvements, the sustainable use of resources, or environmental protection activities.
 - [Awesome Open Climate Science](https://github.com/pangeo-data/awesome-open-climate-science) - Awesome Open Atmospheric, Ocean, and Climate Science.
@@ -1226,9 +1228,6 @@ __A curated list of open technology projects to sustain a stable climate, energy
 - [eurostat R package](https://github.com/rOpenGov/eurostat) - R tools to access open data from Eurostat, the statistical office of the European Union.
 - [giscoR](https://github.com/rOpenGov/giscoR) - An R API package that helps to retrieve data from Eurostat Geographic Information System of the Commission.
 
-
-
-### Footnotes
 
 ### Contributors
 <a href="https://github.com/protontypes/open-sustainable-technology/graphs/contributors">
