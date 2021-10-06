@@ -464,6 +464,7 @@ __A curated list of open technology projects to sustain a stable climate, energy
 - [GridPath](https://github.com/blue-marble/gridpath) - A versatile simulation and optimization platform for power-system planning and operations.
 - [Peaky Finders](https://github.com/kbaranko/peaky-finders) - A Plotly Dash application with helpful peak load visualizations and a day ahead forecasting model for five different ISOs.
 - [Renewcast](https://github.com/derevirn/renewcast) - Forecasting renewable energy generation in EU countries with machine learning algorithms, based on Streamlit and sktime.
+- [ANDES](https://github.com/cuihantao/andes) - Power system transient dynamics simulation with symbolic modeling and numerical analysis.
 
 ### Monitoring and Control
 
