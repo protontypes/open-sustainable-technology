@@ -25,7 +25,7 @@ __A curated list of open technology projects to sustain a stable climate, energy
   - [Modeling and Optimization](#modeling-and-optimization)
   - [Monitoring and Control](#monitoring-and-control)
   - [Energy Distribution and Grids](#energy-distribution-and-grids)
-- [Datasets on Energy Systems](#datasets-on-energy-systems)
+  - [Datasets on Energy Systems](#datasets-on-energy-systems)
 - [Emissions](#emissions)
   - [Carbon Intensity](#carbon-intensity)
   - [Carbon Capture and Removel](#carbon-capture-and-removel)
@@ -44,8 +44,9 @@ __A curated list of open technology projects to sustain a stable climate, energy
   - [Air](#air)
   - [Water](#water)
   - [Soil and Land](#soil-and-land)
-- [Agriculture and Nutrition](#agriculture-and-nutrition)
-- [Sustainable Investment](#sustainable-investment)
+  - [Agriculture and Nutrition](#agriculture-and-nutrition)
+- [Sustainable Business Development]
+  - [Sustainable Investment](#sustainable-investment)
 - [Further Open and Sustainable Resources](#further-open-and-sustainable-resources)
 
 
@@ -511,7 +512,7 @@ __A curated list of open technology projects to sustain a stable climate, energy
 - [SEAPATH](https://www.lfenergy.org/projects/seapath/) - Industrial grade open source real-time platform that can run virtualized automation and protection applications for the power grid industry.
 - [Tools for the iTEM databases](https://github.com/transportenergy/database) - Contains tools for two databases maintained by iTEM, the International Transport Energy Modeling consortium.
 
-## Datasets on Energy Systems
+### Datasets on Energy Systems
 
 - [OpenNEM](https://github.com/opennem/opennem-fe) - Aims to make the wealth of public National Electricity Market data more accessible to a wider audience.
 - [Open Power System Data](https://open-power-system-data.org/data-sources) - A list of primary data sources that are helpful for power system modeling of Europe.
@@ -1114,7 +1115,7 @@ __A curated list of open technology projects to sustain a stable climate, energy
 - [SCOPE](https://github.com/Christiaanvandertol/SCOPE) - Simulation model for radiative transfer, photosynthesis and energy fluxes in vegetation and soil.
 - [Demeter](https://github.com/JGCRI/demeter) - A land use land cover disaggregation and change detection model.
 
-## Agriculture and Nutrition
+### Agriculture and Nutrition
 
 - [Farmbot](https://github.com/FarmBot/Farmbot-Web-App) - Humanity's open-source CNC farming machine.
 - [MudPi](https://github.com/mudpi/mudpi-core) - A scalable smart garden system that allows you to maintain controls, monitor conditions, and sustainably manage resources of your garden.
@@ -1156,7 +1157,9 @@ __A curated list of open technology projects to sustain a stable climate, energy
 - [PRISM](https://github.com/WFP-VAM/prism-frontend) - Assesses the potential risk and forecasts the impact of climate hazards on the most vulnerable communities, in order to design risk reduction activities and target disaster responses.
 
 
-## Sustainable Investment 
+## Sustainable Business Development 
+
+### Investment 
 
 - [Integrated Valuation of Ecosystem Services and Tradeoffs](https://github.com/natcap/invest) - A family of tools for quantifying the values of natural capital in clear, credible, and practical ways.
 - [The REgional Model of INvestments and Development](https://github.com/remindmodel/remind) - A modular open source multi-regional model incorporating the economy, the climate system and a detailed representation of the energy sector.
@@ -1170,8 +1173,9 @@ __A curated list of open technology projects to sustain a stable climate, energy
 - [Asset-level Transition Risk in the Global Coal, Oil, and Gas Supply Chains](https://github.com/Lkruitwagen/global-fossil-fuel-supply-chain) - The global fossil fuel supply chain, mapped at the asset-level.
 
 
-## Further Open and Sustainable Resources
+##  Miscellaneous
 
+### Further Knowledge Bases, Projects and Lists 
 - [Appropedia](https://www.appropedia.org/Welcome_to_Appropedia) - Shares knowledge to build rich, sustainable lives.
 - [Awesome Clean Tech](https://github.com/nglgzz/awesome-clean-tech) - Clean technology is any process, product, or service that reduces negative environmental impacts through significant energy efficiency improvements, the sustainable use of resources, or environmental protection activities.
 - [Awesome Open Climate Science](https://github.com/pangeo-data/awesome-open-climate-science) - Awesome Open Atmospheric, Ocean, and Climate Science.
