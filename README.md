@@ -46,9 +46,9 @@ __A curated list of open technology projects to sustain a stable climate, energy
   - [Soil and Land](#soil-and-land)
   - [Agriculture and Nutrition](#agriculture-and-nutrition)
 - [Business Development](#business-development)
-  - [Investment](#sustainable-investment)
+  - [Investment](#investment)
 - [Miscellaneous](#miscellaneous)
-  - [Further Knowledge Bases and Projects](further-knowledge-bases-and-projects)
+  - [Knowledge Bases and Projects](#knowledge-bases-and-projects)
 
 <!--toc_end-->
 
@@ -1175,7 +1175,7 @@ __A curated list of open technology projects to sustain a stable climate, energy
 
 ## Miscellaneous
 
-### Further Knowledge Bases and Projects
+### Knowledge Bases and Projects
 - [Appropedia](https://www.appropedia.org/Welcome_to_Appropedia) - Shares knowledge to build rich, sustainable lives.
 - [Awesome Clean Tech](https://github.com/nglgzz/awesome-clean-tech) - Clean technology is any process, product, or service that reduces negative environmental impacts through significant energy efficiency improvements, the sustainable use of resources, or environmental protection activities.
 - [Awesome Open Climate Science](https://github.com/pangeo-data/awesome-open-climate-science) - Awesome Open Atmospheric, Ocean, and Climate Science.
