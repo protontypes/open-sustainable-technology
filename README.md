@@ -45,7 +45,7 @@ __A curated list of open technology projects to sustain a stable climate, energy
   - [Water](#water)
   - [Soil and Land](#soil-and-land)
   - [Agriculture and Nutrition](#agriculture-and-nutrition)
-- [Business Development](#sustainable-business-development)
+- [Business Development](#business-development)
   - [Investment](#sustainable-investment)
 - [Miscellaneous](#miscellaneous)
   - [Further Knowledge Bases and Projects](further-knowledge-bases-and-projects)
@@ -1173,7 +1173,7 @@ __A curated list of open technology projects to sustain a stable climate, energy
 - [Asset-level Transition Risk in the Global Coal, Oil, and Gas Supply Chains](https://github.com/Lkruitwagen/global-fossil-fuel-supply-chain) - The global fossil fuel supply chain, mapped at the asset-level.
 
 
-##  Miscellaneous
+## Miscellaneous
 
 ### Further Knowledge Bases and Projects
 - [Appropedia](https://www.appropedia.org/Welcome_to_Appropedia) - Shares knowledge to build rich, sustainable lives.
