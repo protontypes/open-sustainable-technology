@@ -1232,6 +1232,7 @@ __A curated list of open technology projects to sustain a stable climate, energy
 - [Global Environmental Database](https://db.cger.nies.go.jp/portal/geds/index) - Providing long-term monitoring data, data analysis results, output of models.
 - [eurostat R package](https://github.com/rOpenGov/eurostat) - R tools to access open data from Eurostat, the statistical office of the European Union.
 - [giscoR](https://github.com/rOpenGov/giscoR) - An R API package that helps to retrieve data from Eurostat Geographic Information System of the Commission.
+- [Global Climate Tech Landscape](https://www.globalclimatelandscape.org/landscape) - An open-source taxonomy for mapping the future of climate technology.
 
 
 ### Contributors
