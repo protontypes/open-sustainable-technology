@@ -988,6 +988,7 @@ __A curated list of open technology projects to sustain a stable climate, energy
 - [DeepSphere](https://github.com/deepsphere/deepsphere-pytorch) - Learning on the sphere with a graph-based ConvNet.
 - [JuliaClimate Notebooks](https://juliaclimate.github.io/GlobalOceanNotebooks/) - Notebooks that show Julia packages related to climate working in concert.
 - [remote_climate_data](https://github.com/aaronspring/remote_climate_data) - A collection of remote climate data accessed via intake cached to disk.
+- [The CEDA Archive](https://archive.ceda.ac.uk/) - We host over 18 Petabytes of data from climate models, satellites, aircraft, met observations, and other sources.
 
 ## Natural Resources
 
