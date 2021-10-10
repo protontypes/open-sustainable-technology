@@ -1121,6 +1121,7 @@ __A curated list of open technology projects to sustain a stable climate, energy
 - [landscapemetrics](https://github.com/r-spatialecology/landscapemetrics) - Landscape Metrics for Categorical Map Patterns world_map in R.
 - [SCOPE](https://github.com/Christiaanvandertol/SCOPE) - Simulation model for radiative transfer, photosynthesis and energy fluxes in vegetation and soil.
 - [Demeter](https://github.com/JGCRI/demeter) - A land use land cover disaggregation and change detection model.
+- [OpenLandMap](https://gitlab.com/openlandmap) - Data, services and web-apps providing access and interactive visualizations of the TB of high resolution data produced by the OpenGeoHub Foundation and contributing organizations.
 
 ### Agriculture and Nutrition
 
