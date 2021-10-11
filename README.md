@@ -270,6 +270,7 @@ __A curated list of open technology projects to sustain a stable climate, energy
 - [NILM](https://github.com/nilmtk/nilmtk) - Non-Intrusive Load Monitoring is the process of estimating the energy consumed by individual appliances given just a whole-house power meter reading.
 - [volkszaehler.org](https://github.com/volkszaehler/volkszaehler.org) - A free smart meter implementation with focus on data privacy.
 - [ModBus Measurement Daemon](https://github.com/volkszaehler/mbmd) - A daemon for collecting measurement data from smart meters and grid inverters over modbus.
+- [HiSim](https://github.com/FZJ-IEK3-VSA/HiSim) - Simulation and analysis of household scenarios using modern components as alternative to fossil fuel based ones.
 
 
 ### Mobility and Transportation
