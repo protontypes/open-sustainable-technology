@@ -1124,6 +1124,7 @@ __A curated list of open technology projects to sustain a stable climate, energy
 - [SCOPE](https://github.com/Christiaanvandertol/SCOPE) - Simulation model for radiative transfer, photosynthesis and energy fluxes in vegetation and soil.
 - [Demeter](https://github.com/JGCRI/demeter) - A land use land cover disaggregation and change detection model.
 - [OpenLandMap](https://gitlab.com/openlandmap) - Data, services and web-apps providing access and interactive visualizations of the TB of high resolution data produced by the OpenGeoHub Foundation and contributing organizations.
+- [PyLandStats](https://github.com/martibosch/pylandstats) - An open-source Pythonic library to compute landscape metrics.
 
 ### Agriculture and Nutrition
 
