@@ -1240,6 +1240,7 @@ __A curated list of open technology projects to sustain a stable climate, energy
 - [ESGF PyClient](https://github.com/ESGF/esgf-pyclient) -  A Python package designed for interacting with the Earth System Grid Federation system.
 - [EDGAR](https://edgar.jrc.ec.europa.eu/) - Emissions Database for Global Atmospheric Research.
 - [OpenGHGMap](https://openghgmap.net/) - A city-level CO2 emissions inventory for Europe.
+- [GCP-GridFED](https://zenodo.org/record/3958283) - Gridded fossil CO2 emissions and related O2 combustion consistent with national inventories 1959-2018.
 
 
 ### Contributors
