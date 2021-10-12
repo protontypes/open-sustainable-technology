@@ -271,6 +271,7 @@ __A curated list of open technology projects to sustain a stable climate, energy
 - [volkszaehler.org](https://github.com/volkszaehler/volkszaehler.org) - A free smart meter implementation with focus on data privacy.
 - [ModBus Measurement Daemon](https://github.com/volkszaehler/mbmd) - A daemon for collecting measurement data from smart meters and grid inverters over modbus.
 - [HiSim](https://github.com/FZJ-IEK3-VSA/HiSim) - Simulation and analysis of household scenarios using modern components as alternative to fossil fuel based ones.
+- [hplib](https://github.com/RE-Lab-Projects/hplib) - Database with efficiency parameters from public Heatpump Keymark datasets as well as parameter-sets and functions in order to simulate heat pumps.
 
 
 ### Mobility and Transportation
