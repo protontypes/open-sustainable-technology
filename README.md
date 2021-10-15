@@ -469,6 +469,7 @@ __A curated list of open technology projects to sustain a stable climate, energy
 - [ANDES](https://github.com/cuihantao/andes) - Power system transient dynamics simulation with symbolic modeling and numerical analysis.
 - [REISE.jl](https://github.com/Breakthrough-Energy/REISE.jl) - Renewable Energy Integration Simulation Engine.
 - [ESDL](https://github.com/EnergyTransition/ESDL) - A modelling language created for the components in an energy system and their relations towards each other.
+- [Transactive Energy Service System](https://github.com/slacgismo/TESS) - A platform to design, deploy, and operate transactive energy systems in electric utility retail environments.
 
 ### Monitoring and Control
 
