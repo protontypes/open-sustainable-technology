@@ -989,6 +989,7 @@ __A curated list of open technology projects to sustain a stable climate, energy
 - [JuliaClimate Notebooks](https://juliaclimate.github.io/GlobalOceanNotebooks/) - Notebooks that show Julia packages related to climate working in concert.
 - [remote_climate_data](https://github.com/aaronspring/remote_climate_data) - A collection of remote climate data accessed via intake cached to disk.
 - [The CEDA Archive](https://archive.ceda.ac.uk/) - We host over 18 Petabytes of data from climate models, satellites, aircraft, met observations, and other sources.
+- [](https://github.com/pik-primap/climate_categories) - Commonly used codes, categories, terminologies, and nomenclatures used in climate policy analysis in a nice Python package.
 
 ## Natural Resources
 
