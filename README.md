@@ -842,6 +842,7 @@ __A curated list of open technology projects to sustain a stable climate, energy
 - [MetPy](https://github.com/Unidata/MetPy) - A collection of tools in Python for reading, visualizing and performing calculations with weather data.
 - [Isca](https://github.com/ExeClim/Isca) - A framework for the idealized modeling of the global circulation of planetary atmospheres at varying levels of complexity and realism.
 - [FluxEngine](https://github.com/oceanflux-ghg/FluxEngine) - An open source atmosphere ocean gas flux data processing toolbox.
+- [Open-Meteo](https://open-meteo.com) - Weather API for non-commercial use for simple acess to various atmospheric weather variables.
 - [eeweather](https://github.com/openeemeter/eeweather) - Fetch NCDC ISD, TMY3, or CZ2010 weather data that corresponds to ZIP Code Tabulation Areas or Latitude/Longitude.
 - [GRAL](https://github.com/GralDispersionModel/GRAL) - Provides a CFD model for the flow calculation around buildings or micrsocale terrain structures.
 - [Chemical Lagrangian Model of the Stratosphere](https://jugit.fz-juelich.de/clams/CLaMS) - A world leader in simulating exchange processes in the atmosphere across transport barriers such as stratosphere-troposphere exchange.
