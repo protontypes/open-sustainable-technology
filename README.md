@@ -487,6 +487,7 @@ __A curated list of open technology projects to sustain a stable climate, energy
 - [Egret](https://github.com/grid-parity-exchange/Egret) - A Python-based package for electrical grid optimization based on the Pyomo optimization modeling language.
 - [PyPSA-Eur](https://github.com/PyPSA/pypsa-eur) - An Open Optimization Model of the European Transmission System.
 - [Energy Transition Engine](https://github.com/quintel/etengine) - Calculation engine for the Energy Transition Model.
+- [ETM Pro](https://github.com/quintel/etmodel) - Professional interface of the Energy Transition model.
 - [Open Smart Grid Platform](https://github.com/OSGP/open-smart-grid-platform) - An open, generic, scalable and independent 'Internet of Things' platform, which enables various connected smart objects in the public space to be easily controlled and monitored.
 - [PowerModels.jl](https://github.com/lanl-ansi/PowerModels.jl) - Designed to enable computational evaluation of emerging power network formulations and algorithms in a common platform.
 - [PowerModelsAnnex.jl](https://github.com/lanl-ansi/PowerModelsAnnex.jl) - An extension of PowerModels.jl that provides a home for open source sharing of preliminary and/or exploratory methods in power system optimization.
