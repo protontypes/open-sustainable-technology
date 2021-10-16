@@ -1166,7 +1166,6 @@ __A curated list of open technology projects to sustain a stable climate, energy
 - [ramlegacy](https://www.ramlegacy.org/) - A compilation of stock assessment results for commercially exploited marine populations from around the world.
 - [FABIO](https://github.com/martinbruckner/fabio_v1) - Forestry and Agriculture Biomass Input-Output Tables.
 - [Food and Agriculture Organization Corporate Statistical Database](http://www.fao.org/faostat/en/#data) - Disseminates statistical data collected and maintained by the Food and Agriculture Organization.
-- [The Bread Code](https://github.com/hendricius/the-bread-code) - This repository is dedicated to becoming your bread manifesto with useful tricks and hacks.
 - [Growstuff](https://github.com/Growstuff/growstuff) - Open source and open data platform that can predict when your plantings will be ready to harvest.
 - [FarmOS](https://farmos.org/) - Open source web-based application for farm management, planning, and record keeping.
 - [Is-Vegan](https://github.com/hmontazeri/is-vegan) - Helps you to find out which food ingredients are vegan / non-vegan.
