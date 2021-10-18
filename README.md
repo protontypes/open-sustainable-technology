@@ -26,7 +26,7 @@ __A curated list of open technology projects to sustain a stable climate, energy
   - [Monitoring and Control](#monitoring-and-control)
   - [Energy Distribution and Grids](#energy-distribution-and-grids)
   - [Datasets on Energy Systems](#datasets-on-energy-systems)
-- [Emissions](#emissions)
+- [Emissions](#emissions)Forget your carbon footprint. Let's talk about your climate shadow.
   - [Carbon Intensity](#carbon-intensity)
   - [Carbon Capture and Removel](#carbon-capture-and-removel)
   - [Emission Observation and Modeling](#emission-observation-and-modeling)
@@ -48,7 +48,7 @@ __A curated list of open technology projects to sustain a stable climate, energy
 - [Business Development](#business-development)
   - [Investment](#investment)
 - [Miscellaneous](#miscellaneous)
-  - [Knowledge Bases and Data Sources](#knowledge-bases-and-data-sources)
+  - [Data and Knowledge Platforms](#data-and-knowledge-platforms)
   - [Contributors](#contributors)
   - [Artwork](#artwork)
 
@@ -1189,7 +1189,7 @@ __A curated list of open technology projects to sustain a stable climate, energy
 
 ## Miscellaneous
 
-### Knowledge Bases and Data Sources
+### Data and Knowledge Platforms
 - [Appropedia](https://www.appropedia.org/Welcome_to_Appropedia) - Shares knowledge to build rich, sustainable lives.
 - [Awesome Clean Tech](https://github.com/nglgzz/awesome-clean-tech) - Clean technology is any process, product, or service that reduces negative environmental impacts through significant energy efficiency improvements, the sustainable use of resources, or environmental protection activities.
 - [Awesome Open Climate Science](https://github.com/pangeo-data/awesome-open-climate-science) - Awesome Open Atmospheric, Ocean, and Climate Science.
@@ -1243,6 +1243,7 @@ __A curated list of open technology projects to sustain a stable climate, energy
 - [EDGAR](https://edgar.jrc.ec.europa.eu/) - Emissions Database for Global Atmospheric Research.
 - [OpenGHGMap](https://openghgmap.net/) - A city-level CO2 emissions inventory for Europe.
 - [GCP-GridFED](https://zenodo.org/record/3958283) - Gridded fossil CO2 emissions and related O2 combustion consistent with national inventories 1959-2018.
+- [openEO](https://openeo.cloud/) - Provides intuitive programming libraries to process a wide variety of earth observation datasets. 
 
 
 ### Contributors
