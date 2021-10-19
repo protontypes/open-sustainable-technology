@@ -733,6 +733,7 @@ __A curated list of open technology projects to sustain a stable climate, energy
 - [PlantNet](https://gitlab.inria.fr/cgarcin/plantnet_dataset) - Download a subset of the Pl@ntNet database with more than 300.000 images and thousand of classes.
 - [Tree Tracker](https://github.com/protect-earth/TreeTracker) - Used by people who plant trees so they don't have to manually type coordinates with pictures they took.
 - [forest-risks](https://github.com/carbonplan/forest-risks) - Statistical models of forest carbon potential and risks.
+- [rGEDI](https://github.com/carlos-alberto-silva/rGEDI) - An R Package for NASA's Global Ecosystem Dynamics Investigation (GEDI) Data Visualization and Processing.
 
 ### Ice and Poles
 
