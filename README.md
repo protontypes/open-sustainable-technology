@@ -911,6 +911,9 @@ __A curated list of open technology projects to sustain a stable climate, energy
 - [Py6S](https://github.com/robintw/Py6S) - A Python interface to the 6S Radiative Transfer Model.
 - [pyOSOAA](https://github.com/fnemina/pyOSOAA) - A python interface for the Ocean Successive Orders with Atmosphere radiative transfer.
 - [ECRAD](https://github.com/ecmwf/ecrad) - A radiation scheme suitable for use in atmospheric weather and climate models.
+- [Acclimate](https://github.com/acclimate/acclimate) - An agent-based model for economic loss propagation.
+
+
 
 ### Earth Climate Datasets and Tools
 
