@@ -26,7 +26,7 @@ __A curated list of open technology projects to sustain a stable climate, energy
   - [Monitoring and Control](#monitoring-and-control)
   - [Energy Distribution and Grids](#energy-distribution-and-grids)
   - [Datasets on Energy Systems](#datasets-on-energy-systems)
-- [Emissions](#emissions)Forget your carbon footprint. Let's talk about your climate shadow.
+- [Emissions](#emissions)
   - [Carbon Intensity](#carbon-intensity)
   - [Carbon Capture and Removel](#carbon-capture-and-removel)
   - [Emission Observation and Modeling](#emission-observation-and-modeling)
