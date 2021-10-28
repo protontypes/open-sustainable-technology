@@ -613,6 +613,7 @@ __A curated list of open technology projects to sustain a stable climate, energy
 - [Ribbit Network Frog Sensor](https://github.com/Ribbit-Network/ribbit-network-frog-sensor) - The sensor for the world's largest crowdsourced network of open-source, low-cost, CO2 Gas Detection Sensors.
 - [FIRECAM](https://github.com/tianjialiu/FIRECAM) - An online app for end-users to diagnose and explore regional differences in fire emissions from five global fire emissions inventories.
 - [ESTA](https://github.com/mmb-carb/ESTA) - A command-line tool for processing raw emissions data into spatially and temporally-allocated emissions inventories, suitable for photochemicaly modeling or other analysis.
+- [FlyingClimate](https://github.com/milankl/FlyingClimate) - Model the CO2 and non-CO2 effects like nitrogen oxide emissions and contrail formation to analyse aviation’s total warming footprint.
 
 
 ## Ecological Footprint
