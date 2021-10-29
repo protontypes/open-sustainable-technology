@@ -829,6 +829,7 @@ __A curated list of open technology projects to sustain a stable climate, energy
 - [CaMa](https://github.com/global-hydrodynamics/CaMa-Flood_v4) - Designed to simulate the hydrodynamics in continental-scale rivers.
 - [Cahaba](https://github.com/NOAA-OWP/cahaba) - Flood inundation mapping and evaluation software configured to work with U.S. National Water Model.
 - [Global Flood Database Scripts & Data](https://github.com/cloudtostreet/MODIS_GlobalFloodDatabase) - Used to produce the Global Flood Database and assess changes in population exposed to floods.
+- [rivr](https://github.com/mkoohafkan/rivr) - Designed as an educational tool for students and instructors of undergraduate and graduate courses in open channel hydraulics.
 
 
 ### Atmosphere
