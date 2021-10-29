@@ -108,6 +108,7 @@ __A curated list of open technology projects to sustain a stable climate, energy
 - [Solar electricity Nowcasting](https://github.com/openclimatefix/nowcasting) - Build the world's best near-term forecasting system for solar electricity generation.
 - [Solar Forecast Arbiter](https://github.com/SolarArbiter/solarforecastarbiter-core) - Core data gathering, validation, processing, and reporting package for the Solar Forecast Arbiter.
 - [pv-system-profiler](https://github.com/slacgismo/pv-system-profiler) - Estimating PV array location and orientation from real-world power datasets.
+- [A Global Inventory of Commerical-, Industrial-, and Utility-Scale Photovoltaic Solar Generating Units](https://github.com/Lkruitwagen/solar-pv-global-inventory) - Used to produce a global inventory of utility-scale solar photvoltaic generating station.
 
 
 ### Wind Turbines
