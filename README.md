@@ -275,6 +275,7 @@ __A curated list of open technology projects to sustain a stable climate, energy
 - [HiSim](https://github.com/FZJ-IEK3-VSA/HiSim) - Simulation and analysis of household scenarios using modern components as alternative to fossil fuel based ones.
 - [hplib](https://github.com/RE-Lab-Projects/hplib) - Database with efficiency parameters from public Heatpump Keymark datasets as well as parameter-sets and functions in order to simulate heat pumps.
 - [Thermofeel](https://github.com/ecmwf-projects/thermofeel) - A library to calculate human thermal comfort indexes.
+- [CBE Clima Tool](https://github.com/CenterForTheBuiltEnvironment/clima) - A web-based application built to support the need of architects and engineers interested in climate-adapted design.
 
 
 ### Mobility and Transportation
