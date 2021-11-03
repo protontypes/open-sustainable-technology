@@ -25,9 +25,10 @@ Additions to the list are done by pull requests.
 * Add your project in the following format:
  ``- [Project Name](Project URL) - A sentence that describes your project and what makes it different from others.``
 * Describe in at least one sentence why you think the project meets the guidelines.
+* If available, use the Git link to the central repository of your project. This makes it easier for developers and maintainers to review the project faster. 
 * Create a pull request and wait for the reaction of the maintainer. We may ask you additional questions or you may need to make changes to your pull request.
 * To reorder the list or for creating new categories please open an issue. After a discussion in the issue comments, we can decide on how to reorganize the list based on a pull request from you.
-* Every new project entry will receive a post on LinkedIn, Hackernews and Twitter within our network. You can define a custom message for that with your project URL and great people if you like to. Just add `My Tweet:` to the Pull request comment.
+* Every new project entry will receive a post on Mastodon and [Twitter](https://twitter.com/protontypes) within our network. You can define a custom message for that with your project URL and great people if you like to. Just add `My Tweet:` to the Pull request comment.
 
 Further details on how do `Pull Requests` can be found in the official GitHub [documentation](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request). Don't hesitate to get in touch with us in our [open community chat](https://gitter.im/protontypes/community). 
 
@@ -42,7 +43,3 @@ protontypes offers free advice and promotion for projects that are included in O
 ## Contribute to listed projects
 
 All the projects listed allow direct and open participation. This is possible in many different ways. From using the open source projects to fixing bugs. Get in touch with the open communities and find out how you can contribute with your skills and knowledge. Most projects have a Contribution Guide like this to get involved in the project and community. [Please contact us](https://gitter.im/protontypes/community) if you need additional support on how to support projects worldwide through simple research or open source contributions.
-
-## Planting trees and continuous reforestation
-We are dependent on your support. To motivate you to add projects and maintain the list, we plant 100 trees for each merged pull request.
-Together with our partners of [DigitalHumani](https://digitalhumani.com) we created [Continuous-Reforestation](https://github.com/protontypes/continuous-reforestation) to automate the tree planting process.
