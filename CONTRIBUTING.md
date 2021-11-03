@@ -11,7 +11,7 @@
 ## What criteria must my project meet to be considered?
 
 * The project must comply as closely as possible with the [guideline](#guideline).
-* You need to show that others beyond the project's main developers are using the project. A good indicator is that issues are created by external users.
+* You need to show that others beyond the project's main developers are using the project. Good indicators are issues or pull requests from external users.
 * Your project should be structured and documented in such a way that it can be reused and extended by others.
 * Larger parts of the project are published under an [open source license](https://choosealicense.com/).
 
