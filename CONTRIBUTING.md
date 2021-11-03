@@ -14,7 +14,6 @@
 * You need to show that others beyond the project's main developers are using the project. A good indicator is that issues are created by external users.
 * Your project should be structured and documented in such a way that it can be reused and extended by others.
 * Larger parts of the project are published under an [open source license](https://choosealicense.com/).
-* Have good reasons why the project is awesome and why it is useful.
 
 ## Contribute to the list
 Additions to the list are done by pull requests.
