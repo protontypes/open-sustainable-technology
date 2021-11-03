@@ -11,7 +11,7 @@
 ## What criteria must my project meet to be considered?
 
 * The project must comply as closely as possible with the [guideline](#guideline).
-* You need to show that others beyond the project main developers are using the project. A good indicator is that issues are created by external users.
+* You need to show that others beyond the project's main developers are using the project. A good indicator is that issues are created by external users.
 * Your project should be structured and documented in such a way that it can be reused and extended by others.
 * Larger parts of the project are published under an [open source license](https://choosealicense.com/).
 * Have good reasons why the project is awesome and why it is useful.
@@ -22,7 +22,7 @@ Additions to the list are done by pull requests.
 * Every new project on the list needs to be a new pull request.
 * Create a fork of awesome-sustainable-technology.
 * Insert the project into one of the categories of your fork. We can discuss later on in the 'Pull Request' comments whether another category fits better or we need to open a new one.
-* Add your project in the following format:
+* Add your project in the following format:          
  ``- [Project Name](Project URL) - A sentence that describes your project and what makes it different from others.``
 * Describe in at least one sentence why you think the project meets the guidelines.
 * If available, use the Git link to the central repository of your project. This makes it easier for developers and maintainers to review the project faster. 
