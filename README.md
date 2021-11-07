@@ -22,8 +22,8 @@ __A curated list of open technology projects to sustain a stable climate, energy
   - [Production and Industry](#production-and-industry)
   - [Computation and Services](#computation-and-services)
 - [Energy Systems](#energy-systems)
-  - [Modeling and Optimization](#modeling-and-optimization)
-  - [Monitoring and Control](#monitoring-and-control)
+  - [Energy Modeling and Optimization](#energy-modeling-and-optimization)
+  - [Energy Monitoring and Control](#energy-monitoring-and-control)
   - [Energy Distribution and Grids](#energy-distribution-and-grids)
   - [Datasets on Energy Systems](#datasets-on-energy-systems)
 - [Emissions](#emissions)
@@ -46,7 +46,7 @@ __A curated list of open technology projects to sustain a stable climate, energy
   - [Soil and Land](#soil-and-land)
   - [Agriculture and Nutrition](#agriculture-and-nutrition)
 - [Business Development](#business-development)
-  - [Investment](#investment)
+  - [Sustainable Investment](#sustainable-investment)
 - [Miscellaneous](#miscellaneous)
   - [Data and Knowledge Platforms](#data-and-knowledge-platforms)
   - [Contributors](#contributors)
@@ -379,7 +379,7 @@ __A curated list of open technology projects to sustain a stable climate, energy
 
 ## Energy Systems
 
-### Modeling and Optimization
+### Energy Modeling and Optimization
 
 - [Open Energy System Models](https://en.wikipedia.org/wiki/Open_energy_system_models) - Used to explore future energy systems and are often applied to questions involving energy and climate policy.
 - [Open Models](https://wiki.openmod-initiative.org/wiki/Open_Models) - This page lists energy models published under open source licenses.
@@ -473,7 +473,7 @@ __A curated list of open technology projects to sustain a stable climate, energy
 - [ESDL](https://github.com/EnergyTransition/ESDL) - A modelling language created for the components in an energy system and their relations towards each other.
 - [Transactive Energy Service System](https://github.com/slacgismo/TESS) - A platform to design, deploy, and operate transactive energy systems in electric utility retail environments.
 
-### Monitoring and Control
+### Energy Monitoring and Control
 
 - [OpenEMS](https://github.com/OpenEMS/openems) - Open Source Energy Management System.
 - [eemeter](https://github.com/openeemeter/eemeter) - An open source Python package for implementing and developing standard methods for calculating normalized metered energy consumption and avoided energy use.
@@ -1194,7 +1194,7 @@ __A curated list of open technology projects to sustain a stable climate, energy
 
 ## Business Development 
 
-### Investment 
+### Sustainable Investment 
 
 - [Integrated Valuation of Ecosystem Services and Tradeoffs](https://github.com/natcap/invest) - A family of tools for quantifying the values of natural capital in clear, credible, and practical ways.
 - [The REgional Model of INvestments and Development](https://github.com/remindmodel/remind) - A modular open source multi-regional model incorporating the economy, the climate system and a detailed representation of the energy sector.
