@@ -739,6 +739,7 @@ __A curated list of open technology projects to sustain a stable climate, energy
 - [Wildfire Predictive Services](https://github.com/bcgov/wps) - Wildfire Predictive Services to support decision making in prevention, preparedness, response and recovery.
 - [detectreeRGB](https://github.com/shmh40/detectreeRGB) - Tree crown delineation from RGB imagery, coupled with methods to delineate tree crowns from LiDAR data.
 - [FSDL Deforestation Detection](https://github.com/karthikraja95/fsdl_deforestation_detection) - A deep learning approach to detecting deforestation risk, using satellite images and a deep learning model.
+- [ForesToolboxRS](https://github.com/ytarazona/ForesToolboxRS) - Remote Sensing Tools for Forest Monitoring.
 
 ### Ice and Poles
 
