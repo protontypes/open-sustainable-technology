@@ -741,6 +741,7 @@ __A curated list of open technology projects to sustain a stable climate, energy
 - [FSDL Deforestation Detection](https://github.com/karthikraja95/fsdl_deforestation_detection) - A deep learning approach to detecting deforestation risk, using satellite images and a deep learning model.
 - [ForesToolboxRS](https://github.com/ytarazona/ForesToolboxRS) - Remote Sensing Tools for Forest Monitoring.
 
+
 ### Ice and Poles
 
 - [Planet Snowcover](https://github.com/acannistra/planet-snowcover) - A project that pairs airborne lidar and Planet Labs satellite imagery with cutting-edge computer vision techniques to identify snow-covered area at unprecedented spatial and temporal resolutions.
@@ -1147,6 +1148,7 @@ __A curated list of open technology projects to sustain a stable climate, energy
 - [OpenLandMap](https://gitlab.com/openlandmap) - Data, services and web-apps providing access and interactive visualizations of the TB of high resolution data produced by the OpenGeoHub Foundation and contributing organizations.
 - [PyLandStats](https://github.com/martibosch/pylandstats) - An open-source Pythonic library to compute landscape metrics.
 - [NLMR](https://github.com/ropensci/NLMR) - R package to simulate neutral landscape models.
+- [LT-GEE](https://github.com/eMapR/LT-GEE) - Google Earth Engine implementation of the LandTrendr spectral-temporal segmentation algorithm.
 
 ### Agriculture and Nutrition
 
