@@ -42,4 +42,4 @@ __Looking for resources to get started in Open Sustainable Technology? Here you 
 - [LTPy](https://gitlab.eumetsat.int/eumetlab/atmosphere/atmosphere) - Learning tool for Python on Atmospheric Composition Data.
 - [World Glaciers Explorer](https://github.com/OGGM/world-glacier-explorer) - An interactive web application with which you can learn and teach about the world's glaciers.
 - [Water Productivity and Water Accounting using WaPOR](https://github.com/wateraccounting/WAPOROCW) - Jupyter notebooks for Water Accounting and Water Productivity using WaPOR course.
-- [](https://github.com/patrickcgray/open-geo-tutorial) - Tutorial of fundamental remote sensing and GIS methodologies using open source software in python.
+- [Open Source Geoprocessing Tutorial](https://github.com/patrickcgray/open-geo-tutorial) - Tutorial of fundamental remote sensing and GIS methodologies using open source software in python.
