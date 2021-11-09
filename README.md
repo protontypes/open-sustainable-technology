@@ -78,7 +78,7 @@ __A curated list of open technology projects to sustain a stable climate, energy
 - [solcore5](https://github.com/qpv-research-group/solcore5) - A multi-scale, Python-based library for the modeling of solar cells and semiconductor materials.
 - [solax](https://github.com/squishykid/solax) - Read energy usage data from the real-time API on Solax solar inverters.
 - [bifacialvf](https://github.com/NREL/bifacialvf) - Bifacial PV View Factor model for system performance calculation.
-- [solar](https://github.com/oscarperpinan/solar) - Allows for reproducible research both for photovoltaics systems performance and solar radiation.
+- [solaR](https://github.com/oscarperpinan/solar) - Allows for reproducible research both for photovoltaics systems performance and solar radiation.
 - [SolarTherm](https://github.com/SolarTherm/SolarTherm) - Solar thermal power/fuel station performance simulation and optimization using Modelica.
 - [LibreSolar](https://github.com/LibreSolar/bms-firmware) - Firmware for LibreSolar BMS boards based on bq769x0 or ISL94202.
 - [Charge Controller Firmware](https://github.com/LibreSolar/charge-controller-firmware) - Firmware for LibreSolar MPPT/PWM charge controllers.
@@ -741,6 +741,7 @@ __A curated list of open technology projects to sustain a stable climate, energy
 - [detectreeRGB](https://github.com/shmh40/detectreeRGB) - Tree crown delineation from RGB imagery, coupled with methods to delineate tree crowns from LiDAR data.
 - [FSDL Deforestation Detection](https://github.com/karthikraja95/fsdl_deforestation_detection) - A deep learning approach to detecting deforestation risk, using satellite images and a deep learning model.
 - [ForesToolboxRS](https://github.com/ytarazona/ForesToolboxRS) - Remote Sensing Tools for Forest Monitoring.
+- [Gieß den Kiez](https://github.com/technologiestiftung/giessdenkiez-de) - Enable coordinated citizen participation in the irrigation of urban trees.
 
 
 ### Ice and Poles
