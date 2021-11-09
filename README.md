@@ -277,7 +277,6 @@ __A curated list of open technology projects to sustain a stable climate, energy
 - [Thermofeel](https://github.com/ecmwf-projects/thermofeel) - A library to calculate human thermal comfort indexes.
 - [CBE Clima Tool](https://github.com/CenterForTheBuiltEnvironment/clima) - A web-based application built to support the need of architects and engineers interested in climate-adapted design.
 
-
 ### Mobility and Transportation
 
 - [stplanr](https://github.com/ropensci/stplanr) - A package for sustainable transport planning with R.
@@ -523,6 +522,8 @@ __A curated list of open technology projects to sustain a stable climate, energy
 - [SEAPATH](https://www.lfenergy.org/projects/seapath/) - Industrial grade open source real-time platform that can run virtualized automation and protection applications for the power grid industry.
 - [Tools for the iTEM databases](https://github.com/transportenergy/database) - Contains tools for two databases maintained by iTEM, the International Transport Energy Modeling consortium.
 - [PowerSimData](https://github.com/Breakthrough-Energy/PowerSimData) - Is part of a Python software ecosystem developed by Breakthrough Energy Sciences to carry out power flow study in the U.S. electrical grid.
+- [Digital Twins Definition Language ontology for Energy Grid](https://github.com/Azure/opendigitaltwins-energygrid) - A global standard for energy grid assets management, power system operations modeling and physical energy commodity market.
+
 
 ### Datasets on Energy Systems
 
