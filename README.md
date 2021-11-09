@@ -1272,6 +1272,7 @@ __A curated list of open technology projects to sustain a stable climate, energy
 - [GCP-GridFED](https://zenodo.org/record/3958283) - Gridded fossil CO2 emissions and related O2 combustion consistent with national inventories 1959-2018.
 - [openEO](https://github.com/Open-EO/openeo-python-client) - Provides intuitive programming libraries to process a wide variety of earth observation datasets.
 - [awesome-gee-community-datasets](https://github.com/samapriya/awesome-gee-community-datasets/) - Community Datasets & Data Commons in Google Earth Engine.
+- [MeCCO](http://sciencepolicy.colorado.edu/icecaps/research/media_coverage/) - Open Database on the Media Coverage of Climate Change and Global Warming.
 
 
 ### Contributors
