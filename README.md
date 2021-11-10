@@ -1045,6 +1045,7 @@ __A curated list of open technology projects to sustain a stable climate, energy
 - [rdefra](https://github.com/ropensci/rdefra) - Interact with the UK AIR Pollution Database from DEFRA.
 - [rmweather](https://github.com/skgrange/rmweather) - An R package to conduct meteorological/weather normalisation on air quality so trends and interventions can be investigated in a robust way.
 - [Safecast](https://github.com/Safecast/safecastapi) - Building out a network of sensors to monitor particulate matter in sizes PM1.0, PM2.5, PM10.
+- [West Oakland Air Quality Project](https://github.com/openoakland/woeip) - A platform for impacted communities to understand their local air quality and advocate for environmental justice.
 
 ### Water
 
