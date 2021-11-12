@@ -838,6 +838,7 @@ __A curated list of open technology projects to sustain a stable climate, energy
 - [Cahaba](https://github.com/NOAA-OWP/cahaba) - Flood inundation mapping and evaluation software configured to work with U.S. National Water Model.
 - [Global Flood Database Scripts & Data](https://github.com/cloudtostreet/MODIS_GlobalFloodDatabase) - Used to produce the Global Flood Database and assess changes in population exposed to floods.
 - [rivr](https://github.com/mkoohafkan/rivr) - Designed as an educational tool for students and instructors of undergraduate and graduate courses in open channel hydraulics.
+- [Aqualink](https://github.com/aqualinkorg/aqualink-app) - A philanthropically funded system to help people manage their local marine ecosystems in the face of increasing Ocean temperatures.
 
 
 ### Atmosphere
