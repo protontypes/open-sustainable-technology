@@ -38,8 +38,9 @@ __Looking for resources to get started in Open Sustainable Technology? Here you 
 - [Advanced Urban Analytics](https://github.com/gboeing/ppd599) - This course series takes a computational social science approach to working with urban data.
 - [PyEarthScience](https://github.com/KMFleischer/PyEarthScience) - Python modules, scripts and iPython notebooks, in particular for Earth System data processing and visualization used in climate science.
 - [Predicting the Wind: Data Science in Wind Resource Assessment](https://github.com/flrs/predicting_the_wind) - Contains material for a hands-on tutorial and additional content about data science in wind resource assessment.
-- [2020_ICESat-2_Hackweek_Tutorials](https://github.com/ICESAT-2HackWeek/2020_ICESat-2_Hackweek_Tutorials) - Combined repository for the final tutorial material presented at the 2020 ICESat-2 #Cryosphere Hackweek. 
+- [2020_ICESat-2_Hackweek_Tutorials](https://github.com/ICESAT-2HackWeek/2020_ICESat-2_Hackweek_Tutorials) - Combined repository for the final tutorial material presented at the 2020 ICESat-2 Cryosphere Hackweek. 
 - [LTPy](https://gitlab.eumetsat.int/eumetlab/atmosphere/atmosphere) - Learning tool for Python on Atmospheric Composition Data.
 - [World Glaciers Explorer](https://github.com/OGGM/world-glacier-explorer) - An interactive web application with which you can learn and teach about the world's glaciers.
 - [Water Productivity and Water Accounting using WaPOR](https://github.com/wateraccounting/WAPOROCW) - Jupyter notebooks for Water Accounting and Water Productivity using WaPOR course.
 - [Open Source Geoprocessing Tutorial](https://github.com/patrickcgray/open-geo-tutorial) - Tutorial of fundamental remote sensing and GIS methodologies using open source software in python.
+- [NSIDC-Data-Tutorials](https://github.com/nsidc/NSIDC-Data-Tutorials) - Tutorials and code resources provided by the NASA National Snow and Ice Data Center Distributed Active Archive Center.
