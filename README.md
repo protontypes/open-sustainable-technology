@@ -1282,6 +1282,7 @@ __A curated list of open technology projects to sustain a stable climate, energy
 - [Climate Action Plans](https://github.com/mysociety/caps) - A simple, open database of local government climate action plan documents and emissions data.
 - [awesome-earth-engine-apps](https://github.com/philippgaertner/awesome-earth-engine-apps) - An awesome list of all available Google Earth Engine Apps and user-specific App Galleries.
 - [earthdata](https://github.com/betolink/earthdata) - A Python library to search and access NASA datasets.
+- [Awesome Green Software](https://github.com/Green-Software-Foundation/awesome-green-software) - Research, tools, code, libraries and training to for building applications that emit less carbon into our atmosphere.
 
 
 ### Contributors
