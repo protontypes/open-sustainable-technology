@@ -775,6 +775,7 @@ __A curated list of open technology projects to sustain a stable climate, energy
 - [Glacier Mapping From Satellite Imagery](https://github.com/krisrs1128/glacier_mapping) - Use computer vision to automatically segment debris and ice glaciers from satellite images.
 - [DeepIceDrain](https://github.com/weiji14/deepicedrain) - Mapping and monitoring deep subglacial water activity in Antarctica using remote sensing and machine learning.
 - [cosipy](https://github.com/cryotools/cosipy) - Solves the energy balance at the surface and is coupled to an adaptive vertical multi-layer subsurface module.
+- [QGreenland](https://github.com/nsidc/qgreenland) - A free mapping tool to support interdisciplinary Greenland-focused research, teaching, decision making, and collaboration.
 
 
 ### Salt and Fresh Water
