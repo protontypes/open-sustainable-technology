@@ -345,6 +345,7 @@ __A curated list of open technology projects to sustain a stable climate, energy
 - [BikeshareClient](https://github.com/andmos/BikeshareClient) - Dotnet library for integrating with GBFS bikeshare systems.
 - [Growing Urban Bicycle Networks](https://github.com/mszell/bikenwgrowth) - Source code for the paper Growing Urban Bicycle Networks, exploring algorithmically the limitations of urban bicycle network growth.
 - [A/B Street](https://github.com/a-b-street) - A traffic simulation game exploring how small changes to roads affect cyclists, transit users, pedestrians, and drivers.
+- [enviroCar](https://github.com/enviroCar/enviroCar-app) - An Android App for collecting car sensor data for the enviroCar platform.
 
 ### Production and Industry
 
