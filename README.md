@@ -582,6 +582,7 @@ __A curated list of open technology projects to sustain a stable climate, energy
 - [intensegRid](https://github.com/KKulma/intensegRid) - Provides information on national and regional carbon intensity, the amount of carbon emitted per unit of energy consumed, for the UK.
 - [Carbonfact Models](https://github.com/kansoapp/carbonfact-models) - The carbon footprint models used by carbonfact.co.
 - [CAMx](https://www.camx.com/) - A multi-scale photochemical modeling system for gas and particulate air pollution.
+- [Open-Emission-Factors-DB](https://github.com/climatiq/Open-Emission-Factors-DB) - An open access, contributer-led database of emission factors, validated by the team at Climatiq.
 
 ### Carbon Capture and Removel
 
