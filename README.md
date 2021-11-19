@@ -843,6 +843,7 @@ __A curated list of open technology projects to sustain a stable climate, energy
 - [rivr](https://github.com/mkoohafkan/rivr) - Designed as an educational tool for students and instructors of undergraduate and graduate courses in open channel hydraulics.
 - [Aqualink](https://github.com/aqualinkorg/aqualink-app) - A philanthropically funded system to help people manage their local marine ecosystems in the face of increasing Ocean temperatures.
 - [argopy](https://github.com/euroargodev/argopy) - A global network of nearly 4000 autonomous probes measuring pressure, temperature and salinity from the surface to 2000m depth every 10 days.
+- [eWaterCycle](https://github.com/eWaterCycle/ewatercycle) - Makes it easier to use hydrological models without having intimate knowledge about how to install and run the models.
 
 
 ### Atmosphere
