@@ -472,7 +472,8 @@ __A curated list of open technology projects to sustain a stable climate, energy
 - [REISE.jl](https://github.com/Breakthrough-Energy/REISE.jl) - Renewable Energy Integration Simulation Engine.
 - [ESDL](https://github.com/EnergyTransition/ESDL) - A modelling language created for the components in an energy system and their relations towards each other.
 - [Transactive Energy Service System](https://github.com/slacgismo/TESS) - A platform to design, deploy, and operate transactive energy systems in electric utility retail environments.
-- [Minpower](https://github.com/adamgreenhall/minpower) - An open source toolkit for students and researchers in power systems.  
+- [Minpower](https://github.com/adamgreenhall/minpower) - An open source toolkit for students and researchers in power systems.
+- [TIMES-Ireland Model](https://github.com/MaREI-EPMG) - Information on the Irish energy system as it is today and the best available projections for what the future technology and fuel options and demands will be.
 
 ### Energy Monitoring and Control
 
