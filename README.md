@@ -1221,7 +1221,7 @@ __A curated list of open technology projects to sustain a stable climate, energy
 - [MimiFUND.jl](https://github.com/fund-model/MimiFUND.jl) - Used to perform cost-benefit and cost-effectiveness analyses of greenhouse gas emission reduction policies.
 - [Asset-level Transition Risk in the Global Coal, Oil, and Gas Supply Chains](https://github.com/Lkruitwagen/global-fossil-fuel-supply-chain) - The global fossil fuel supply chain, mapped at the asset-level.
 - [open-climate-investing](https://github.com/opentaps/open-climate-investing) - Application and data for analyzing and structuring portfolios for climate investing.
-- [Stock Synthesis](https://github.com/nmfs-stock-synthesis/stock-synthesis) - Assess the effect of fisheries on fish and shellfish stocks while taking into account the influence of environmental factors.
+- [SSC](https://github.com/NREL/ssc) - Contains the source code for the technology and financial models contained within the National Renewable Energy Laboratory's System Advisor Model.
 
 
 ## Miscellaneous
