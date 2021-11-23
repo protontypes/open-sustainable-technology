@@ -44,3 +44,4 @@ __Looking for resources to get started in Open Sustainable Technology? Here you 
 - [Water Productivity and Water Accounting using WaPOR](https://github.com/wateraccounting/WAPOROCW) - Jupyter notebooks for Water Accounting and Water Productivity using WaPOR course.
 - [Open Source Geoprocessing Tutorial](https://github.com/patrickcgray/open-geo-tutorial) - Tutorial of fundamental remote sensing and GIS methodologies using open source software in python.
 - [NSIDC-Data-Tutorials](https://github.com/nsidc/NSIDC-Data-Tutorials) - Tutorials and code resources provided by the NASA National Snow and Ice Data Center Distributed Active Archive Center.
+- [NEON Data Skills](https://www.neonscience.org/resources/learning-hub/tutorials) - Provides tutorials and resources for working with scientific data, including that collected by the National Ecological Observatory Network.
