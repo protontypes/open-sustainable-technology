@@ -49,9 +49,10 @@ __A curated list of open technology projects to sustain a stable climate, energy
   - [Sustainable Investment](#sustainable-investment)
 - [Miscellaneous](#miscellaneous)
   - [Data and Knowledge Platforms](#data-and-knowledge-platforms)
+  - [Curated Lists](#curated-lists)
   - [Contributors](#contributors)
   - [Artwork](#artwork)
-  - [Curated Lists](#curated-lists)
+
 
 <!--toc_end-->
 
