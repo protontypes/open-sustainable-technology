@@ -1222,6 +1222,7 @@ __A curated list of open technology projects to sustain a stable climate, energy
 - [Asset-level Transition Risk in the Global Coal, Oil, and Gas Supply Chains](https://github.com/Lkruitwagen/global-fossil-fuel-supply-chain) - The global fossil fuel supply chain, mapped at the asset-level.
 - [open-climate-investing](https://github.com/opentaps/open-climate-investing) - Application and data for analyzing and structuring portfolios for climate investing.
 - [SSC](https://github.com/NREL/ssc) - Contains the source code for the technology and financial models contained within the National Renewable Energy Laboratory's System Advisor Model.
+- [OS-Climate Data Commons](https://github.com/os-climate/os_c_data_commons) - Collect, normalize and integrate climate and ESG data from public and private sources.
 
 
 ## Miscellaneous
