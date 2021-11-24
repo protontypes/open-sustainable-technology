@@ -642,6 +642,7 @@ __A curated list of open technology projects to sustain a stable climate, energy
 - [Federal LCA Commons](https://www.lcacommons.gov/) - A central point of access to a collection of data repositories for use in Life Cycle Assessment.
 - [Trase](https://github.com/Vizzuality/trase) - Brings unprecedented transparency to commodity supply chains revealing new pathways towards achieving a deforestation-free economy.
 - [QSDsan](https://github.com/QSD-Group/QSDsan) - A package for the quantitative sustainable design of sanitation and resource recovery systems.
+- [premise](https://github.com/romainsacchi/premise) - Coupling Integrated Assessment Models output with Life Cycle Assessment.
 
 
 ### Circular Economy and Waste
