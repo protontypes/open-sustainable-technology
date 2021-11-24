@@ -51,7 +51,7 @@ __A curated list of open technology projects to sustain a stable climate, energy
   - [Data and Knowledge Platforms](#data-and-knowledge-platforms)
   - [Contributors](#contributors)
   - [Artwork](#artwork)
-  - [Curated Lists](#curated-lists
+  - [Curated Lists](#curated-lists)
 
 <!--toc_end-->
 
