@@ -378,7 +378,6 @@ __A curated list of open technology projects to sustain a stable climate, energy
 - [Carbon-API-2.0](https://gitlab.com/wholegrain/carbon-api-2-0) - Estimating the carbon emissions per page on thousands of sites by looking at the amount of data that they transfer on load.
 - [FEEP](https://invent.kde.org/cschumac/feep) -  Improve the energy efficiency of free and open source software.
 
-
 ## Energy Systems
 
 ### Energy Modeling and Optimization
@@ -588,6 +587,8 @@ __A curated list of open technology projects to sustain a stable climate, energy
 - [Carbonfact Models](https://github.com/kansoapp/carbonfact-models) - The carbon footprint models used by carbonfact.co.
 - [CAMx](https://www.camx.com/) - A multi-scale photochemical modeling system for gas and particulate air pollution.
 - [Open-Emission-Factors-DB](https://github.com/climatiq/Open-Emission-Factors-DB) - An open access, contributer-led database of emission factors, validated by the team at Climatiq.
+- [Let's Wait Awhile](https://github.com/dos-group/lets-wait-awhile) - Simulator and datasets to research on carbon-aware temporal workload shifting.
+
 
 ### Carbon Capture and Removel
 
