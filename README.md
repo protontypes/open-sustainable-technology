@@ -48,7 +48,7 @@ __A curated list of open technology projects to sustain a stable climate, energy
 - [Business Development](#business-development)
   - [Sustainable Investment](#sustainable-investment)
 - [Miscellaneous](#miscellaneous)
-  - [Data and Knowledge Platforms](#data-and-knowledge-platforms)
+  - [Data and Knowledge Bases](#data-and-knowledge-bases)
   - [Curated Lists](#curated-lists)
   - [Contributors](#contributors)
   - [Artwork](#artwork)
@@ -1234,7 +1234,7 @@ __A curated list of open technology projects to sustain a stable climate, energy
 
 ## Miscellaneous
 
-### Data and Knowledge Platforms
+### Data and Knowledge Bases
 - [Appropedia](https://www.appropedia.org/Welcome_to_Appropedia) - Shares knowledge to build rich, sustainable lives.
 - [Open Energy System Databases](https://en.wikipedia.org/wiki/Open_energy_system_databases) - Employ open data methods to collect, clean, and republish energy-related datasets for open use.
 - [GlobalWindAtlas](https://globalwindatlas.info/) - Immediately start exploring windy areas.
