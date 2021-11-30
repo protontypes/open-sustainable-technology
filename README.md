@@ -477,6 +477,7 @@ __A curated list of open technology projects to sustain a stable climate, energy
 - [Minpower](https://github.com/adamgreenhall/minpower) - An open source toolkit for students and researchers in power systems.
 - [TIMES-Ireland Model](https://github.com/MaREI-EPMG) - Information on the Irish energy system as it is today and the best available projections for what the future technology and fuel options and demands will be.
 - [Frictionless Energy data](https://sentinel-energy.github.io/friendly_data/) - Common medium to facilitate the flow of data between energy and environmental models in a way that can be automated.
+- [Open Modeling Framework](https://github.com/dpinney/omf) - A set of Python libraries for simulating power systems behavior with an emphasis on cost-benefit analysis of emerging technologies.
 
 ### Energy Monitoring and Control
 
