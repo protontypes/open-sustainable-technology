@@ -1179,6 +1179,7 @@ __A curated list of open technology projects to sustain a stable climate, energy
 - [PyLandStats](https://github.com/martibosch/pylandstats) - An open-source Pythonic library to compute landscape metrics.
 - [NLMR](https://github.com/ropensci/NLMR) - R package to simulate neutral landscape models.
 - [LT-GEE](https://github.com/eMapR/LT-GEE) - Google Earth Engine implementation of the LandTrendr spectral-temporal segmentation algorithm.
+- [Full Lands INtegration Tool](https://github.com/moja-global/About_moja_global) - A modular system to estimate greenhouse gas emissions and removals by the land sector.
 
 ### Agriculture and Nutrition
 
