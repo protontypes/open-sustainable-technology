@@ -760,6 +760,7 @@ __A curated list of open technology projects to sustain a stable climate, energy
 - [Gieß den Kiez](https://github.com/technologiestiftung/giessdenkiez-de) - Enable coordinated citizen participation in the irrigation of urban trees.
 - [mobr](https://github.com/MoBiodiv/mobr) - Tools for analyzing changes in biodiversity across scales.
 - [Forest Structural Complexity Tool](https://github.com/SKrisanski/FSCT) - Allowing plot scale measurements to be extracted automatically from most high-resolution forest point clouds from a variety of sensor sources.
+- [Global ECMWF Fire Forecasting](https://git.ecmwf.int/projects/CEMSF/repos/geff/browse) - The model is a Fortran program to calculate fire danger indices from atmospheric inputs.
 
 
 ### Ice and Poles
