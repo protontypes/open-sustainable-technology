@@ -20,7 +20,7 @@ __A curated list of open technology projects to sustain a stable climate, energy
   - [Buildings and Cities](#buildings-and-cities)
   - [Mobility and Transportation](#mobility-and-transportation)
   - [Production and Industry](#production-and-industry)
-  - [Computation and Services](#computation-and-services)
+  - [Computation and Communication](#computation-and-communication)
 - [Energy Systems](#energy-systems)
   - [Energy Modeling and Optimization](#energy-modeling-and-optimization)
   - [Energy Monitoring and Control](#energy-monitoring-and-control)
@@ -356,7 +356,7 @@ __A curated list of open technology projects to sustain a stable climate, energy
 - [CalTRACK](https://github.com/energy-market-methods/caltrack) - Methods are developed in an open and transparent stakeholder process that uses empirical testing to define replicable methods for calculating normalized metered energy consumption using either monthly or interval data from an existing conditions baseline.
 - [OpenModelica](https://github.com/OpenModelica/OpenModelica) - An open source Modelica-based modeling and simulation environment intended for industrial and academic usage.
 
-### Computation and Services
+### Computation and Communication
 
 - [H2020 CATALYST](https://gitlab.com/project-catalyst) - Converting data centres in energy flexibility ecosystems.
 - [Energy-Languages](https://github.com/greensoftwarelab/Energy-Languages) - The complete set of tools for energy consumption analysis of programming languages, using Computer Language Benchmark Game.
