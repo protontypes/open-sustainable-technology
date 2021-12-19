@@ -1296,6 +1296,7 @@ __A curated list of open technology projects to sustain a stable climate, energy
 - [earthdata](https://github.com/betolink/earthdata) - A Python library to search and access NASA datasets.
 - [AI for Earth Data Sets](https://github.com/microsoft/AIforEarthDataSets) - Notebooks and documentation for AI-for-Earth-managed datasets on Azure.
 - [Carbon Mapper](https://carbonmapperdata.org/) - Accelerate local climate action globally by locating, quantifying and tracking methane leaks and CO2 point-sources from space.
+- [Radiant MLHub Python Client](https://github.com/radiantearth/radiant-mlhub) - Open community commons for geospatial training data, machine learning models, and standards to encourage collaboration and share information.
 
 
 ### Curated Lists
