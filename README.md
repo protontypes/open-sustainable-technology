@@ -666,6 +666,7 @@ __A curated list of open technology projects to sustain a stable climate, energy
 - [Recyclebot](https://www.appropedia.org/Recyclebot) - An open source waste plastic extruder that creates 3D printer filament from waste plastic and natural polymers.
 - [pycirk](https://github.com/CMLPlatform/pycirk) - Model Circular Economy policy and technological interventions in Environmentally Extended Input-Output Analysis.
 - [Global Plastic Navigator](https://github.com/WWF-Deutschland/marine-plastic-explorer) - Visualises the most recent and high-resolution data of current scientific publications on marine plastic pollution.
+- [marine_debris_ML](https://github.com/NASA-IMPACT/marine_debris_ML) - Marine debris detection with commercial satellite imagery and deep learning.
 
 ## Biosphere
 
