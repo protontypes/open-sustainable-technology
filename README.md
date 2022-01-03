@@ -1326,6 +1326,7 @@ __A curated list of open technology projects to sustain a stable climate, energy
 - [Code against Climate Change](https://github.com/daviddao/code-against-climate-change) - A curated list of tech projects against climate change - hoping to inspire disruptive technological climate action.
 - [Awesome Arctic Data](https://github.com/arctic-risk/awesome-arctic-data) - A curated list on data sources related to climate change in the arctic.
 - [Awesome Remote Sensing Change Detection](https://github.com/wenhwu/awesome-remote-sensing-change-detection) - List of datasets, codes, and contests related to remote sensing change detection.
+- [Awesome-forests](https://github.com/blutjens/awesome-forests/) - A curated list of ground-truth forest datasets for the machine learning and forestry community.
 
 
 ### Contributors
