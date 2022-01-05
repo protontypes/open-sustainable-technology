@@ -20,8 +20,8 @@ theme:
         primary: 'teal'
         accent: 'light'
   features:
-    - navigation.instant
     - navigation.tabs
+    - navigation.tabs.sticky
     - navigation.expand
     - search.highlight
     - search.suggest
