@@ -47,3 +47,4 @@ __Looking for resources to get started in Open Sustainable Technology? Here you 
 - [NEON Data Skills](https://www.neonscience.org/resources/learning-hub/tutorials) - Provides tutorials and resources for working with scientific data, including that collected by the National Ecological Observatory Network.
 - [EO College](https://eo-college.org/) - This course is part of a series of online learning materials that will give you insights on the potential of remote sensing technologies for applications over land surfaces.
 - [Africa Soil and Agronomy Data Cube](https://gitlab.com/openlandmap/africa-soil-and-agronomy-data-cube) - Accessing and using soil and agronomy data for Africa.
+- [MarineEcosystemsJuliaCon2021.jl](https://github.com/JuliaOcean/MarineEcosystemsJuliaCon2021.jl) - Modeling Marine Ecosystems At Multiple Scales Using Julia.
