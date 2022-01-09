@@ -1047,6 +1047,7 @@ __A curated list of open technology projects to sustain a stable climate, energy
 - [RadiativeTransfer.jl](https://github.com/RadiativeTransfer/RadiativeTransfer.jl) - A full end-to-end modular software suite for radiative transfer and related atmospheric analysis.
 - [Pymagicc](https://github.com/openscm/pymagicc) - A Python wrapper around the reduced complexity climate model. 
 - [ENGAGE](https://github.com/iiasa/ENGAGE-netzero-analysis) - Source code for figure generation and analysis of the ENGAGE netzero scenario analysis.
+- [pylandtemp](https://github.com/pylandtemp/pylandtemp) - Computing global land surface temperature and emissivity from NASA's Landsat satellite images in Python.
 
 ## Natural Resources
 
