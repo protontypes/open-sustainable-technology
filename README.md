@@ -593,6 +593,7 @@ __A curated list of open technology projects to sustain a stable climate, energy
 - [CAMx](https://www.camx.com/) - A multi-scale photochemical modeling system for gas and particulate air pollution.
 - [Open-Emission-Factors-DB](https://github.com/climatiq/Open-Emission-Factors-DB) - An open access, contributer-led database of emission factors, validated by the team at Climatiq.
 - [Let's Wait Awhile](https://github.com/dos-group/lets-wait-awhile) - Simulator and datasets to research on carbon-aware temporal workload shifting.
+- [elmada](https://github.com/DrafProject/elmada) - Dynamic electricity carbon emission factors and prices for Europe.
 
 
 ### Carbon Capture and Removel
