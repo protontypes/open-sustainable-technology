@@ -48,3 +48,4 @@ __Looking for resources to get started in Open Sustainable Technology? Here you 
 - [EO College](https://eo-college.org/) - This course is part of a series of online learning materials that will give you insights on the potential of remote sensing technologies for applications over land surfaces.
 - [Africa Soil and Agronomy Data Cube](https://gitlab.com/openlandmap/africa-soil-and-agronomy-data-cube) - Accessing and using soil and agronomy data for Africa.
 - [MarineEcosystemsJuliaCon2021.jl](https://github.com/JuliaOcean/MarineEcosystemsJuliaCon2021.jl) - Modeling Marine Ecosystems At Multiple Scales Using Julia.
+- [EDS220_Fall2021](https://github.com/samanthastevenson/EDS220_Fall2021) - Provide an introduction to various environmental data sets, which should give you a good sense of the range of tools out there for manipulating and processing environmental data.
