@@ -1314,6 +1314,7 @@ __A curated list of open technology projects to sustain a stable climate, energy
 - [wopr](https://github.com/wpgp/wopr) - An R package and Shiny application to provide API access to the WorldPop Open Population Repository.
 - [rwlts](https://github.com/brazil-data-cube/rwlts) - Support governments in making decisions about the impact of human activities on the environment, planning the use of natural resources, conserving biodiversity and monitoring climate change.
 - [SustainBench](https://github.com/sustainlab-group/sustainbench) - Benchmarks for Monitoring the Sustainable Development Goals with Machine Learning.
+- [OSDG](https://github.com/osdg-ai/osdg-tool) -  Tool that assigns Sustainable Development Goals labels to your input.
 
 
 ### Curated Lists
