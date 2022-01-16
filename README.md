@@ -672,6 +672,7 @@ __A curated list of open technology projects to sustain a stable climate, energy
 - [pycirk](https://github.com/CMLPlatform/pycirk) - Model Circular Economy policy and technological interventions in Environmentally Extended Input-Output Analysis.
 - [Global Plastic Navigator](https://github.com/WWF-Deutschland/marine-plastic-explorer) - Visualises the most recent and high-resolution data of current scientific publications on marine plastic pollution.
 - [marine_debris_ML](https://github.com/NASA-IMPACT/marine_debris_ML) - Marine debris detection with commercial satellite imagery and deep learning.
+- [ADVECTOR](https://github.com/TheOceanCleanupAlgorithms/ADVECTOR) - A whole-ocean marine debris transport model which is built to handle millions of particles and terabytes of data.
 
 ## Biosphere
 
