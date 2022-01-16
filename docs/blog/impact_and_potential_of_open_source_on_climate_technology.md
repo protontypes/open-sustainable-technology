@@ -69,9 +69,5 @@ Now more than ever, free and open source projects allow citizens, scientists, de
 Email [Eirini](mailto:eirinimalliaraki@gmail.com), [Tobi](mailto:tobias.augspurger@protontypes.eu)  and [follow us](https://twitter.com/protontypes)
 
 
-The OpenSustain.Tech team
-Tobi and Eirini
-
-
 *This work is partially supported by [Subak](https://climatesubak.org/), the world’s first climate not-for-profit impact accelerator.*
 
