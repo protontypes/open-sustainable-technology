@@ -6,12 +6,19 @@ repo_url: 'https://github.com/protontypes/open-sustainable-technology'
 base_url: 'https://opensustain.tech/'
 edit_uri: ''
 nav:
-  - "Technology": "index.md"
+  - "Projects": "index.md"
   - "Community": "community.md"
   - "Business" : "business.md"
   - "Education": "education.md"
   - "Contribute": "contributing.md"
-
+  - Blog:
+      2022:
+        - "Impact and potential of open source on climate technology": blog/impact_and_potential_of_open_source_on_climate_technology.md
+        - "Openness as a key indicator for sustainable investment": blog/openness_as_a_key_indicator_for_sustainable_investment.md
+      2021:
+        - "Open Principles for a Sustainable Technology Transition": blog/open_principles_for_a_sustainable_technology_transition.md
+      2020:
+        - "Gathering Open Sustainable Technology": blog/gathering_open_sustainable_technology.md
 theme:
   name: 'material'
   logo: 'logo.png'
@@ -23,9 +30,10 @@ theme:
     - navigation.tabs
     - navigation.tabs.sticky
     - navigation.expand
+    - navigation.indexes
+    - toc.integrate
     - search.highlight
     - search.suggest
-    - toc.integrate
     
 
 extra_css:
@@ -33,8 +41,12 @@ extra_css:
 
 markdown_extensions:
   - meta
+  - md_in_html
   - toc:
       permalink: true
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
 
 extra:
   generator: false
