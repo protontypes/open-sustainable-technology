@@ -770,6 +770,7 @@ __A curated list of open technology projects to sustain a stable climate, energy
 - [Global ECMWF Fire Forecasting](https://git.ecmwf.int/projects/CEMSF/repos/geff/browse) - The model is a Fortran program to calculate fire danger indices from atmospheric inputs.
 - [MAAP](https://github.com/MAAP-Project/maap-documentation) - Discover and use biomass relevant data, integrating the data for comparison, analysis, evaluation, and generation.
 - [DynACof](https://github.com/VEZY/DynACof) - Process-based model computes plot-scale Net Primary Productivity, carbon allocation, growth, yield, energy, and water balance of coffee plantations according to management.
+- [EU forest tree point data](https://gitlab.com/openlandmap/eu-forest-tree-point-data) - A compilation of analysis-ready point data for the purpose of vegetation and Potential Natural Vegetation mapping for the EU. 
 
 
 ### Ice and Poles
