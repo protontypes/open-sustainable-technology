@@ -1,3 +1,9 @@
+---
+hide:
+  - navigation
+  - toc
+---
+
 <!--lint ignore awesome-toc awesome-contributing awesome-badge -->
 # Open Educational Resources on Sustainable Technology
 
