@@ -65,7 +65,8 @@ Our research also revealed that many of these initiatives are still hard to find
 
 Now more than ever, free and open source projects allow citizens, scientists, developers, civil society, industry, and government to mitigate climate change. Funders also have an opportunity to play an active role in furthering a larger, more systemic shift towards open, community-owned and operated infrastructure at the institutional level. 
 
-Although this project has received support from various organizations and individuals, it is a purely private and independent initiative. To ensure this for the future we are looking for you. We want to hear from you:
+Although this project has received support from various organizations and individuals, it is a purely private and independent initiative. To ensure this for the future we are looking for you. We want to hear from you:   
+
 - If you have experience developing, supporting or systematically using open source software for sustainability applications; We aim to publish the findings of this research by summer 2022.
 - If you want to contribute to OpenSustain.tech by identifying new and missing projects.
 - If you have experience visualizing or processing data with Python and know how to integrate such data into a new website.
