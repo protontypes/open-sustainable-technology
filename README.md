@@ -482,6 +482,7 @@ __A curated list of open technology projects to sustain a stable climate, energy
 - [Open Modeling Framework](https://github.com/dpinney/omf) - A set of Python libraries for simulating power systems behavior with an emphasis on cost-benefit analysis of emerging technologies.
 - [PSP-UFU](https://github.com/Thales1330/PSP) - Open-Source Software with advanced GUI features and CAD tools for electrical power system studies.
 - [Energy Policy Simulator](https://github.com/Energy-Innovation/eps-us) - The open-source United States Energy Policy Simulator estimates environmental and economic impacts of hundreds of climate and energy policies.
+- [Open Energy Outlook](https://github.com/TemoaProject/oeo) - Examining U.S. energy futures to inform future energy and climate policy efforts.
 
 ### Energy Monitoring and Control
 
