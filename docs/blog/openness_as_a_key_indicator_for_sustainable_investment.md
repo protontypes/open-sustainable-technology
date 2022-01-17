@@ -1,6 +1,6 @@
 # Openness as a key indicator for Sustainable Investment
 
- __Tobias Augspurger __  [:fontawesome-brands-twitter:](https://twitter.com/protontypes) ·                __Alejandro Aristi__ [:fontawesome-brands-twitter:](https://twitter.com/elaristi) · __Tjark              Döring__ · :octicons-calendar-24: January 29, 2021****
+ __Tobias Augspurger __  [:fontawesome-brands-twitter:](https://twitter.com/protontypes) ·                __Alejandro Aristi__ [:fontawesome-brands-twitter:](https://twitter.com/elaristi) · __Tjark              Döring__ · :octicons-calendar-24: January 29, 2021
 
 **An open-source strategy for measuring sustainable investments can fundamentally impact the transition to a carbon-neutral and green economy. Measuring corporate sustainability based on quantitative physical values combined with Open Science practices has the potential to avoid greenwashing as the biggest threat to economical transformation.**
 
