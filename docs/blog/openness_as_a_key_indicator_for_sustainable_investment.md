@@ -10,14 +10,14 @@ In recent years there has been a systematic shift toward evaluating companies no
 
 <figure markdown>
   ![](https://asiaapi.morningstar.com/ods_images/2009esg_en1.png)
-  <figcaption> <a href="https://tw.morningstar.com/tw/news/205292/passive-sustainable-funds-the-global-landscape-2020.aspx">_Figure 1: Global AUM invested in ESG mandates (in USD tn)_</a> </figcaption>
+  <figcaption> <a href="https://tw.morningstar.com/tw/news/205292/passive-sustainable-funds-the-global-landscape-2020.aspx">Figure 1: Global AUM invested in ESG mandates (in USD tn)</a> </figcaption>
 </figure>
 
 Despite this promising development, greenhouse gas emissions like carbon dioxide are still accelerating [[3]](https://ourworldindata.org/co2-emissions). Humanity stand to lose climate stability and biodiversity, and thus our livelihoods, before the end of this century. Why is the trend toward sustainable investment not reflected to the same extent in physically measurable environmental variables? The following figure clearly shows how little CO₂ emissions are influenced by the trend towards sustainable investment. 
 
 <iframe src="https://ourworldindata.org/grapher/annual-co2-emissions-per-country?tab=chart&stackMode=relative&time=1999..latest&country=~OWID_WRL" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
-_Figure 2: Annual CO₂ emissions_
+Figure 2: Annual CO₂ emissions
 
 
 ### _They are not measured on the impact they deliver_
@@ -43,8 +43,8 @@ Since the current methods of ESG ratings are also known to companies, they are t
 
 
 <figure markdown>
-  ![](https://asiaapi.morningstar.com/ods_images/2009esg_en1.png)
-  <figcaption> <a href="https://databricks.com/blog/2021/03/04/how-sp-global-leverages-esg-data-to-make-sustainable-investments.html">_ Figure 3: A Data-driven Approach to Environmental, Social and Governance_</a> </figcaption>
+  ![](https://i.imgur.com/Xc7VjAt.png)
+  <figcaption> <a href="https://databricks.com/blog/2021/03/04/how-sp-global-leverages-esg-data-to-make-sustainable-investments.html"> Figure 3: A Data-driven Approach to Environmental, Social and Governance </a> </figcaption>
 </figure>
 
 Independent scientific analyses and peer reviews of their own reports are the exception here. Each company designs its ESG reports at its own discretion. Also reports from the media are in the rarest cases purely objective nature and it is therefore very questionable to include them. Political and corporate influence on the public media can not be denied in many countries. 
@@ -60,7 +60,7 @@ Open Science and scientific discourse create reproducible knowledge. Open scienc
 
 <figure markdown>
   ![](https://i.imgur.com/EixwrZC.png)
-  <figcaption> <a href="https://openmod-initiative.org/">_Figure 4: Open Data and Open Source creating a transparent energy system modeling_</a> </figcaption>
+  <figcaption> <a href="https://openmod-initiative.org/">Figure 4: Open Data and Open Source creating a transparent energy system modeling</a> </figcaption>
 </figure>
 
 The trend to openness in general is also strongly visible in digital industries creating a new mindset on how to do business. Emerging Business Concept like "Open Core" have led to IPO of $11 Billion just by a single company called Gitlab in 2021 [[14]](https://www.forbes.com/sites/vijaygurbaxani/2021/11/02/what-gitlabs-11-billion-ipo-says-about-in-house-software-development-iterate-to-innovate/?sh=4c327d4658e3). Commercial Open Source Software Companies and Open Source in general is changing the way how data is processed and how we make decision based on the results [[15]](https://docs.google.com/spreadsheets/d/17nKMpi_Dh5slCqzLSFBoWMxNvWiwt2R-t4e_l7LPLhU/edit#gid=0). 85% of software products today stands on the shoulders of the Open Source movement [[16]](https://www.synopsys.com/blogs/software-security/open-source-trends-ossra-report/).
@@ -74,7 +74,7 @@ Although Open Source is known to provide solid and global standardization for th
 
 <figure markdown>
   ![](https://i.imgur.com/iBmY1r7.png)
-  <figcaption> <a href="https://medium.com/@nicolaas.koster/rethinking-esg-creating-a-shared-open-platform-for-esg-data-and-rankings-2733a444a275"> _Figure 5: Nicolaas Koster illustrates how ESG is suffering from a lack of transparency Source_ </a> </figcaption>
+  <figcaption> <a href="https://medium.com/@nicolaas.koster/rethinking-esg-creating-a-shared-open-platform-for-esg-data-and-rankings-2733a444a275"> Figure 5: Nicolaas Koster illustrates how ESG is suffering from a lack of transparency Source </a> </figcaption>
 </figure>
 
 
