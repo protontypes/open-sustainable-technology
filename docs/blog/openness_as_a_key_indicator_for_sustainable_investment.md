@@ -1,6 +1,6 @@
 # Openness as a key indicator for Sustainable Investment
 
-# Openness as a key indicator for Sustainable Investment
+ __Tobias Augspurger __  [:fontawesome-brands-twitter:](https://twitter.com/protontypes) ·                __Alejandro Aristi__ [:fontawesome-brands-twitter:](https://twitter.com/elaristi) · __Tjark              Döring__ · :octicons-calendar-24: January 29, 2021****
 
 **An open-source strategy for measuring sustainable investments can fundamentally impact the transition to a carbon-neutral and green economy. Measuring corporate sustainability based on quantitative physical values combined with Open Science practices has the potential to avoid greenwashing as the biggest threat to economical transformation.**
 
@@ -87,4 +87,4 @@ Unfortunately, recent developments have shown that decisions about the sustainab
 
 ### Conclusion
 
-The Open Source and Open Science movements have changed the way we collaborate on digital product development and science today. Yet there is not a single company in the world that transparently discloses its impact on the environment through Open Science. Such a development, however, is the only way to verify the multitude of climate pledges made by companies. Many countries and civil organizations are already showing how such a development can look like. The question is how to incentivize companies to enable Open Science for their own environmental sustainability. One way would be to measure the openness of ESG reports and their underlying data and models. 
+The Open Source and Open Science movements have changed the way how to collaborate on digital product development and science today. Yet there is not a single company in the world that transparently discloses its impact on the environment through Open Science. Such a development, however, is the only way to verify the multitude of climate pledges made by companies. Many countries and civil organizations are already showing how such a development can look like. The question is how to incentivize companies to enable Open Science for their own environmental sustainability. One way would be to measure the openness of ESG reports and their underlying data and models. 
