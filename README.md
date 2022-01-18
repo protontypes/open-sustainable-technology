@@ -1,7 +1,7 @@
 <!--lint ignore awesome-badge--> <!--lint ignore double-link-->
 # Open Sustainable Technology
 [<img src="earth.gif" align="right" width="350">](https://tabletopwhale.com/)
-__A curated list of open technology projects to sustain a stable climate, energy supply, and vital natural resources.__ <br> <br> Our ambition is to list all sustainable, open and actively maintained technology projects worldwide. Your contribution is necessary to keep this list alive, increase the quality and to expand it. Read more about its origin and how you can participate in the [contribution guide](https://opensustain.tech/contributing/), <!--lint ignore double-link-->[community chat](https://gitter.im/protontypes/), [presentation slides](https://protontypes.eu/protontypes_open_sustainable_technology.pdf) and related [blog post](https://protontypes.eu/blog/2020/10/05/gathering-open-sustainable-technology/). Please [write an email](mailto:tobias.augspurger@protontypes.eu) to give feedback, hints and ideas for [OpenSustain.tech](https://opensustain.tech/) or [create an issue](https://github.com/protontypes/open-sustainable-technology/issues/new). <br><br> [![](https://badgen.net/badge/icon/Follow/009485?icon=twitter&label&scale=1.3)](https://twitter.com/protontypes) [![](https://badgen.net/badge/icon/Chat/009485?icon=gitter&label&scale=1.3)](https://gitter.im/protontypes/community)  [![](https://badgen.net/badge/icon/Contribute/009485?icon=git&label&scale=1.3)](https://github.com/protontypes/open-sustainable-technology/blob/main/CONTRIBUTING.md) 
+__A curated list of open technology projects to sustain a stable climate, energy supply, and vital natural resources.__ <br> <br> Our ambition is to list all sustainable, open and __actively__ maintained technology projects worldwide. Your contribution is necessary to keep this list alive, increase the quality and to expand it. Read more about its origin and how you can participate in the [contribution guide](https://opensustain.tech/contributing/), <!--lint ignore double-link-->[community chat](https://gitter.im/protontypes/), [presentation slides](https://protontypes.eu/protontypes_open_sustainable_technology.pdf) and related [blog post](https://protontypes.eu/blog/2020/10/05/gathering-open-sustainable-technology/). Please [write an email](mailto:tobias.augspurger@protontypes.eu) to give feedback, hints and ideas for [OpenSustain.tech](https://opensustain.tech/) or [create an issue](https://github.com/protontypes/open-sustainable-technology/issues/new). <br><br> [![](https://badgen.net/badge/icon/Follow/009485?icon=twitter&label&scale=1.3)](https://twitter.com/protontypes) [![](https://badgen.net/badge/icon/Chat/009485?icon=gitter&label&scale=1.3)](https://gitter.im/protontypes/community)  [![](https://badgen.net/badge/icon/Contribute/009485?icon=git&label&scale=1.3)](https://github.com/protontypes/open-sustainable-technology/blob/main/CONTRIBUTING.md) 
 
 
 <!--toc-->
@@ -9,8 +9,8 @@ __A curated list of open technology projects to sustain a stable climate, energy
 
 - [Renewable Energy](#renewable-energy)
   - [Photovoltaics and Solar Energy](#photovoltaics-and-solar-energy)
-  - [Wind Turbines](#wind-turbines)
-  - [Hydro Energy](#hydro-energy)
+  - [Wind Power](#wind-power)
+  - [Hydro Power](#hydro-power)
   - [Geothermal Energy](#geothermal-energy)
   - [Bioenergy](#bioenergy)
 - [Energy Storage](#energy-storage)
@@ -112,7 +112,7 @@ __A curated list of open technology projects to sustain a stable climate, energy
 - [pv-system-profiler](https://github.com/slacgismo/pv-system-profiler) - Estimating PV array location and orientation from real-world power datasets.
 - [A Global Inventory of Commerical-, Industrial-, and Utility-Scale Photovoltaic Solar Generating Units](https://github.com/Lkruitwagen/solar-pv-global-inventory) - Used to produce a global inventory of utility-scale solar photvoltaic generating station.
 
-### Wind Turbines
+### Wind Power
 
 - [IEA-15-240-RWT](https://github.com/IEAWindTask37/IEA-15-240-RWT) - A 15 MW reference wind turbine repository developed in conjunction with IEA Wind.
 - [makani](https://github.com/google/makani) - A project to develop a commercial-scale airborne wind turbine, culminating in a flight test of the Makani M600 off the coast of Norway.
@@ -149,7 +149,7 @@ __A curated list of open technology projects to sustain a stable climate, energy
 - [brightwind](https://github.com/brightwind-dev/brightwind) - A Python library aims to empower wind resource analysts and establish a common industry standard toolset.
 
 
-### Hydro Energy
+### Hydro Power
 
 - [WecOptTool](https://github.com/SNL-WaterPower/WecOptTool) - Allows users to perform wave energy converter device design optimization studies with constrained optimal control.
 - [CACTUS](https://github.com/SNL-WaterPower/CACTUS) - A turbine performance simulation code, based on a free wake vortex method, to study wind turbines and marine hydrokinetic devices.
@@ -161,6 +161,7 @@ __A curated list of open technology projects to sustain a stable climate, energy
 - [WEC-Sim](https://github.com/WEC-Sim/WEC-Sim) - Wave Energy Converter Simulator is an open source code for simulating wave energy converters.
 - [BEMRosetta](https://github.com/BEMRosetta/BEMRosetta) - Used to model hydrodynamic forces in offshore devices like ships, offshore wind platforms and wave energy converters.
 - [Capytaine](https://github.com/mancellin/capytaine) - A Python package for the simulation of the interaction between water waves and floating bodies in frequency domain.
+- []()
 
 ### Geothermal Energy
 
