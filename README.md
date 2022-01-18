@@ -1154,6 +1154,7 @@ __A curated list of open technology projects to sustain a stable climate, energy
 - [CWatM](https://github.com/iiasa/CWatM) - Assess water supply, water demand and environmental needs at global and regional level.
 - [WWTP](https://gitlab.com/hotmaps/potential/WWTP) - EU28 Waste Water Treatment Plants.
 - [AWH-Geo](https://github.com/AWH-GlobalPotential-X/AWH-Geo) - Tool and calculations for Global Potential of Harvesting Drinking Water from Air using Solar Energy.
+- [RainfallRescue](https://github.com/ed-hawkins/rainfall-rescue) - Monthly rainfall observations taken in the UK and Ireland, covering the period 1677-1960.
 
 ### Soil and Land
 
