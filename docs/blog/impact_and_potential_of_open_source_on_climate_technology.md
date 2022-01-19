@@ -19,7 +19,7 @@ While we see a broader trend toward open source technology projects, there is no
 
 After a year of intensive mapping of the open source software landscape for climate action on [OpenSustain.tech](https://opensustain.tech/), we will **analyse the health and vibrancy of this emerging ecosystem**. The selection of projects was based on simple rules from the [Contribution Guide](https://opensustain.tech/contributing/). We want to discover: areas where this digital infrastructure is mature; where tools or processes exist that funders should support instead of forging a new path; new possibilities to connect various projects; and general concerns and hurdles that have limited the development of best practice. 
 
-We expect that triangulating these dynamics would shed light on important economic and governance issues that lead us towards a more diverse and well-funded ecosystem for [critical digital infrastructure for planetary sustainability](https://[](https://)medium.com/the-national-lottery-community-fund/infrastructure-for-community-climate-action-efd290b87a7a).
+We expect that triangulating these dynamics would shed light on important economic and governance issues that lead us towards a more diverse and well-funded ecosystem for [critical digital infrastructure for planetary sustainability](https://medium.com/the-national-lottery-community-fund/infrastructure-for-community-climate-action-efd290b87a7a).
 
 ## Our approach
 
