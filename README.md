@@ -1061,6 +1061,7 @@ __A curated list of open technology projects to sustain a stable climate, energy
 - [Meteostat Python](https://github.com/meteostat/meteostat-python) - Access and analyze historical weather and climate data with Python.
 - [ClimateModels.jl](https://github.com/gaelforget/ClimateModels.jl) - Uniform interface to climate models of varying complexity and completeness.
 - [Senses Toolkit](https://github.com/SensesProject/senses-toolkit) - Offers a range of modules to learn about and explore climate change scenarios.
+- [easyclimate](https://github.com/VeruGHub/easyclimate) - Easy access to high-resolution daily climate data for Europe.
 
 ## Natural Resources
 
