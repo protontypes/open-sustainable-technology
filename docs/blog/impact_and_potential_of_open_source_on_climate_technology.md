@@ -21,6 +21,8 @@ After a year of intensive mapping of the open source software landscape for clim
 
 We expect that triangulating these dynamics would shed light on important economic and governance issues that lead us towards a more diverse and well-funded ecosystem for [critical digital infrastructure for planetary sustainability](https://medium.com/the-national-lottery-community-fund/infrastructure-for-community-climate-action-efd290b87a7a).
 
+![](./Ecosystem.png)
+
 ## Our approach
 
 We have collected, crowdsourced and curated ~1000 **actively** developed open source projects. Using this database as a starting point and the GitHub API we will analyse the interrelations & dependencies between key projects as well as the number of contributors, project growth, and key topics and organisations among other metrics. This analysis will highlight thematic gaps and provide a better understanding of the criticality of specific projects. We are using a variety of the [CHAOSS Metrics](https://https://chaoss.community/metrics/) to measure the state of a project. We acknowledge that solely using Github for our quantitative analysis is a limitation of our approach and plan to add more platforms soon.
