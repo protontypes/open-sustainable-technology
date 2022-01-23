@@ -1249,6 +1249,7 @@ __A curated list of open technology projects to sustain a stable climate, energy
 - [fishRman](https://github.com/Shyentist/fish-r-man) - Shiny R Dashboard to easily query, download, analyse and visualise Global Fishing Watch data on fishing effort.
 - [GlobalFishingWatch](https://github.com/GlobalFishingWatch/map-client) - Track commercial fishing activity worldwide on the free, user-friendly, interactive Global Fishing Watch map.
 - [r4ss](https://github.com/r4ss/r4ss) - A fisheries stock assessment model written by Rick Methot.
+- [AgroMo ](https://github.com/hollorol/AgroMo) - An Integrated Assessment and Modelling software that integrates a crop, biogeochemical and a agro-economical model.
 
 ## Business Development 
 
