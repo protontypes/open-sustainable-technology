@@ -41,8 +41,8 @@ __A curated list of open technology projects to sustain a stable climate, energy
   - [Climate and Earth Modeling](#climate-and-earth-modeling)
   - [Earth Climate Datasets and Tools](#earth-climate-datasets-and-tools)
 - [Natural Resources](#natural-resources)
-  - [Air](#air)
-  - [Water](#water)
+  - [Air Quality](#air-quality)
+  - [Water Supply](#water-supply)
   - [Soil and Land](#soil-and-land)
   - [Agriculture and Nutrition](#agriculture-and-nutrition)
 - [Business Development](#business-development)
@@ -1066,7 +1066,7 @@ __A curated list of open technology projects to sustain a stable climate, energy
 
 ## Natural Resources
 
-### Air
+### Air Quality 
 
 - [CMAQ](https://github.com/USEPA/CMAQ) - Code base for the U.S. EPA's Community Multiscale Air Quality Model.
 - [AMET](https://github.com/USEPA/AMET) - A suite of software designed to facilitate the analysis and evaluation of predictions from meteorological and air quality models.
@@ -1095,7 +1095,7 @@ __A curated list of open technology projects to sustain a stable climate, energy
 - [Sensor.Community](https://github.com/opendata-stuttgart/sensor.community) - Making the world a better place through community driven, open environmental data.
 - [openSenseMap](https://github.com/sensebox/openSenseMap) - Wikipedia for environmental data in order to awaken and promote education, environmental and climate protection.
 
-### Water
+### Water Supply
 
 - [Stormwater-Management-Model](https://github.com/USEPA/Stormwater-Management-Model) - Used for single event or long-term (continuous) simulation of runoff quantity and quality from primarily urban areas.
 - [dataRetrieval](https://github.com/USGS-R/dataRetrieval) - This R package is designed to obtain USGS or EPA water quality sample data, streamflow data and metadata directly from web services.
