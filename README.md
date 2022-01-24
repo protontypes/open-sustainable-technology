@@ -1062,6 +1062,7 @@ __A curated list of open technology projects to sustain a stable climate, energy
 - [ClimateModels.jl](https://github.com/gaelforget/ClimateModels.jl) - Uniform interface to climate models of varying complexity and completeness.
 - [Senses Toolkit](https://github.com/SensesProject/senses-toolkit) - Offers a range of modules to learn about and explore climate change scenarios.
 - [easyclimate](https://github.com/VeruGHub/easyclimate) - Easy access to high-resolution daily climate data for Europe.
+- [carbonplan](https://github.com/carbonplan/cmip6-downscaling) - Climate downscaling using CMIP6 data.
 
 ## Natural Resources
 
