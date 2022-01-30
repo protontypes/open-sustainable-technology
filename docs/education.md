@@ -56,3 +56,4 @@ __Looking for resources to get started in Open Sustainable Technology? Here you 
 - [MarineEcosystemsJuliaCon2021.jl](https://github.com/JuliaOcean/MarineEcosystemsJuliaCon2021.jl) - Modeling Marine Ecosystems At Multiple Scales Using Julia.
 - [EDS220_Fall2021](https://github.com/samanthastevenson/EDS220_Fall2021) - Provide an introduction to various environmental data sets, which should give you a good sense of the range of tools out there for manipulating and processing environmental data.
 - [Climate Change Impact Assessment: A practical walk-through](https://claut.gitlab.io/man_ccia/) - Throughout the course of this book, you will learn how to acquire observed historical climate data from Environment and Climate Change Canada, and perform basic analyses of a climate index and meteorological variables.
+- [To Catch The Sun](https://tocatchthesun.com/) - Inspiring stories of communities coming together to harness their own solar energy, and how you can do it too.
