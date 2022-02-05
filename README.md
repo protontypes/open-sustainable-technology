@@ -1065,6 +1065,7 @@ __A curated list of open technology projects to sustain a stable climate, energy
 - [cmip6-downscaling](https://github.com/carbonplan/cmip6-downscaling) - Climate downscaling using CMIP6 data.
 - [ecmwf-opendata](https://github.com/ecmwf/ecmwf-opendata) - A package to simplify the download of ECMWF open data.
 - [weather-tools](https://github.com/google/weather-tools) - A series of command-line tools to make common data engineering tasks easier for researchers in climate and weather.
+- [MeteoInfo](https://github.com/meteoinfo/MeteoInfo) - GIS and scientific computation environment for meteorological community.
 
 
 ## Natural Resources
