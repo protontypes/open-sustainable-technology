@@ -878,6 +878,7 @@ __A curated list of open technology projects to sustain a stable climate, energy
 - [eWaterCycle](https://github.com/eWaterCycle/ewatercycle) - Makes it easier to use hydrological models without having intimate knowledge about how to install and run the models.
 - [RHESSys](https://github.com/RHESSys/RHESSys) - The Regional Hydro-Ecologic Simulation System.
 - [tidyhydat](https://github.com/ropensci/tidyhydat) - An R package to import Water Survey of Canada hydrometric data and make it tidy.
+- [PyCO2SYS](https://github.com/mvdh7/PyCO2SYS) - Marine carbonate system calculations in Python.
 
 
 ### Atmosphere
