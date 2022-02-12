@@ -161,7 +161,7 @@ __A curated list of open technology projects to sustain a stable climate, energy
 - [WEC-Sim](https://github.com/WEC-Sim/WEC-Sim) - Wave Energy Converter Simulator is an open source code for simulating wave energy converters.
 - [BEMRosetta](https://github.com/BEMRosetta/BEMRosetta) - Used to model hydrodynamic forces in offshore devices like ships, offshore wind platforms and wave energy converters.
 - [Capytaine](https://github.com/mancellin/capytaine) - A Python package for the simulation of the interaction between water waves and floating bodies in frequency domain.
-- [reservoir](https://github.com/swd-turner/reservoir) - Tools for Analysis, Design, and Operation of Water Supply Storages
+- [reservoir](https://github.com/swd-turner/reservoir) - Tools for Analysis, Design, and Operation of Water Supply Storages.
 
 
 ### Geothermal Energy
@@ -883,6 +883,7 @@ __A curated list of open technology projects to sustain a stable climate, energy
 - [RHESSys](https://github.com/RHESSys/RHESSys) - The Regional Hydro-Ecologic Simulation System.
 - [tidyhydat](https://github.com/ropensci/tidyhydat) - An R package to import Water Survey of Canada hydrometric data and make it tidy.
 - [PyCO2SYS](https://github.com/mvdh7/PyCO2SYS) - Marine carbonate system calculations in Python.
+- [Pastas](https://github.com/pastas/pastas) - An open-source Python framework for the analysis of groundwater time series.
 
 
 ### Atmosphere
