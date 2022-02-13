@@ -47,11 +47,11 @@ __A curated list of open technology projects to sustain a stable climate, energy
   - [Agriculture and Nutrition](#agriculture-and-nutrition)
 - [Business Development](#business-development)
   - [Sustainable Investment](#sustainable-investment)
-- [Miscellaneous](#miscellaneous)
+- [Environmental Knowledge Platforms](#environmental-knowledge-platforms)
   - [Data and Knowledge Bases](#data-and-knowledge-bases)
   - [Curated Lists](#curated-lists)
-  - [Contributors](#contributors)
-  - [Artwork](#artwork)
+- [Contributors](#contributors)
+- [Artwork](#artwork)
 
 
 <!--toc_end-->
@@ -1291,7 +1291,7 @@ __A curated list of open technology projects to sustain a stable climate, energy
 
 ## Miscellaneous
 
-### Sustainable Knowledge Platforms
+### Environmental Knowledge Platforms
 - [Appropedia](https://www.appropedia.org/Welcome_to_Appropedia) - Shares knowledge to build rich, sustainable lives.
 - [GlobalWindAtlas](https://globalwindatlas.info/) - Immediately start exploring windy areas.
 - [GlobalSolarAtlas](https://globalsolaratlas.info/) - Start exploring solar potential.
@@ -1365,10 +1365,10 @@ __A curated list of open technology projects to sustain a stable climate, energy
 - [awesome-gee-community-datasets](https://github.com/samapriya/awesome-gee-community-datasets/) - Community Datasets & Data Commons in Google Earth Engine.
 - [Urban & Regional Planning Resources](https://github.com/APA-Technology-Division/urban-and-regional-planning-resources) - Community list of data & technology resources concerning the built environment and communities.
 
-### Contributors
+## Contributors
 <a href="https://github.com/protontypes/open-sustainable-technology/graphs/contributors">
   <img width="70%" src="https://contrib.rocks/image?repo=protontypes/open-sustainable-technology" />
 </a>
 
-### Artwork
+## Artwork
 _Animation created with [An Animated Map of the Earth](https://github.com/eleanorlutz/earth_atlas_of_space) by [Eleanor Lutz](https://eleanorlutz.com/)_
