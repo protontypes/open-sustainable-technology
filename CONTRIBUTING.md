@@ -19,7 +19,7 @@
 Additions to the list are done by pull requests.
 
 * Every new project on the list needs to be a new pull request.
-* Create a fork of awesome-sustainable-technology.
+* Create a fork of open-sustainable-technology.
 * Insert the project into one of the categories of your fork. We can discuss later on in the 'Pull Request' comments whether another category fits better or we need to open a new one.
 * Add your project in the following format:          
  ``- [Project Name](Project URL) - A sentence that describes your project and what makes it different from others.``
