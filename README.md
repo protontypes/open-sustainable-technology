@@ -38,8 +38,7 @@ __A curated list of open technology projects to sustain a stable climate, energy
   - [Ice and Poles](#ice-and-poles)
   - [Salt and Fresh Water](#salt-and-fresh-water)
   - [Atmosphere](#atmosphere)
-  - [Climate and Earth Modeling](#climate-and-earth-modeling)
-  - [Earth Climate Datasets and Tools](#earth-climate-datasets-and-tools)
+  - [Climate and Earth Science](#climate-and-earth-science)
 - [Natural Resources](#natural-resources)
   - [Air Quality](#air-quality)
   - [Water Supply](#water-supply)
@@ -922,7 +921,7 @@ __A curated list of open technology projects to sustain a stable climate, energy
 - [met.3D](https://gitlab.com/wxmetvis/met.3d) - Interactive three-dimensional visualization of numerical ensemble weather predictions and similar numerical atmospheric model datasets.
 - [pyvortex](https://github.com/pankajkarman/pyvortex) - Equivalent Latitude and polar vortex edge calculation using Nash criteria.
 
-### Climate and Earth Modeling
+### Climate and Earth Science
 
 - [VIC](https://github.com/UW-Hydro/VIC) - A macroscale hydrologic model that solves full water and energy balances.
 - [global-workflow](https://github.com/NOAA-EMC/global-workflow) - Global Superstructure/Workflow currently supporting the Finite-Volume on a Cubed-Sphere Global Forecast System.
