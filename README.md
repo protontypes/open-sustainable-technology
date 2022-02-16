@@ -578,6 +578,7 @@ __A curated list of open technology projects to sustain a stable climate, energy
 - [eiapy](https://github.com/systemcatch/eiapy) - A simple wrapper for the U.S. Energy Information Administration API. 
 - [Power Station Dictionary](https://github.com/OSUKED/Power-Station-Dictionary) - A power station dictionary that enables mapping between various naming conventions and associated plant metadata.
 - [ElexonDataPortal](https://github.com/OSUKED/ElexonDataPortal) - Wrapper for the Balancing Mechanism Reporting Service API to balance power flowing on to and off from the electricity Transmission System in Great Britain.
+- [KoaVTracker](https://gitlab.com/diw-evu/koavtracker) - Energy targets in the coalition agreement of the German government vs. where we stand today 
 
 
 ## Emissions
