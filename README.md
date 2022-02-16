@@ -578,7 +578,7 @@ __A curated list of open technology projects to sustain a stable climate, energy
 - [eiapy](https://github.com/systemcatch/eiapy) - A simple wrapper for the U.S. Energy Information Administration API. 
 - [Power Station Dictionary](https://github.com/OSUKED/Power-Station-Dictionary) - A power station dictionary that enables mapping between various naming conventions and associated plant metadata.
 - [ElexonDataPortal](https://github.com/OSUKED/ElexonDataPortal) - Wrapper for the Balancing Mechanism Reporting Service API to balance power flowing on to and off from the electricity Transmission System in Great Britain.
-- [KoaVTracker](https://gitlab.com/diw-evu/koavtracker) - Energy targets in the coalition agreement of the German government vs. where we stand today 
+- [KoaVTracker](https://gitlab.com/diw-evu/koavtracker) - Energy targets in the coalition agreement of the German government vs. where we stand today.
 
 
 ## Emissions
@@ -980,10 +980,6 @@ __A curated list of open technology projects to sustain a stable climate, energy
 - [pyOSOAA](https://github.com/fnemina/pyOSOAA) - A python interface for the Ocean Successive Orders with Atmosphere radiative transfer.
 - [ECRAD](https://github.com/ecmwf/ecrad) - A radiation scheme suitable for use in atmospheric weather and climate models.
 - [Acclimate](https://github.com/acclimate/acclimate) - An agent-based model for economic loss propagation.
-
-
-### Earth Climate Datasets and Tools
-
 - [cf-conventions](https://github.com/cf-convention/cf-conventions) - The conventions for CF (Climate and Forecast) metadata are designed to promote the processing and sharing of files created with the NetCDF API.
 - [cf-python](https://github.com/NCAS-CMS/cf-python) - A CF-compliant Earth Science data analysis library.
 - [GHCN](https://www.ncdc.noaa.gov/data-access/land-based-station-data/land-based-datasets/global-historical-climatology-network-ghcn) - An observations database from meteorologic stations around the globe. Daily and monthly resolution data are available with the longest records up to 175 years.
@@ -1082,6 +1078,7 @@ __A curated list of open technology projects to sustain a stable climate, energy
 - [ecmwf-opendata](https://github.com/ecmwf/ecmwf-opendata) - A package to simplify the download of ECMWF open data.
 - [weather-tools](https://github.com/google/weather-tools) - A series of command-line tools to make common data engineering tasks easier for researchers in climate and weather.
 - [MeteoInfo](https://github.com/meteoinfo/MeteoInfo) - GIS and scientific computation environment for meteorological community.
+- [ESDL.jl](https://github.com/esa-esdl/ESDL.jl) - Julia interface for Reading from the Earth System Datacube.
 
 
 ## Natural Resources
