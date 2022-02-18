@@ -7,9 +7,7 @@ base_url: 'https://opensustain.tech/'
 edit_uri: ''
 nav:
   - "Projects": "index.md"
-  - "Community": "community.md"
-  - "Business" : "business.md"
-#  - "Education": "education.md"
+  - "Education": "education.md"
   - "Contribute": "contributing.md"
   - Blog:
       2022:
