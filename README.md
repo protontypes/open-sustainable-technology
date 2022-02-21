@@ -1293,6 +1293,7 @@ __A curated list of open technology projects to sustain a stable climate, energy
 - [SSC](https://github.com/NREL/ssc) - Contains the source code for the technology and financial models contained within the National Renewable Energy Laboratory's System Advisor Model.
 - [OS-Climate Data Commons](https://github.com/os-climate/os_c_data_commons) - Collect, normalize and integrate climate and ESG data from public and private sources.
 - [XDC Model](https://gitlab.com/xdc-model/xdc) - Enable users, or any intereted subject, to understand and familiarize with the basic concepts of the X-Degree Compatibility methodology.
+- [gfer](https://github.com/Yuanchao-Xu/gfer) - Designed for green finance and environmental risk research focused on data collecting and analyzing in green finance and environmental risk research and analysis.
 
 
 ## Miscellaneous
