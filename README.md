@@ -1274,6 +1274,7 @@ __A curated list of open technology projects to sustain a stable climate, energy
 - [GlobalFishingWatch](https://github.com/GlobalFishingWatch/map-client) - Track commercial fishing activity worldwide on the free, user-friendly, interactive Global Fishing Watch map.
 - [r4ss](https://github.com/r4ss/r4ss) - A fisheries stock assessment model written by Rick Methot.
 - [AgroMo](https://github.com/hollorol/AgroMo) - An Integrated Assessment and Modelling software that integrates a crop, biogeochemical and a agro-economical model.
+- [CropHarvest](https://github.com/nasaharvest/cropharvest) - Collects data from a variety of agricultural land use datasets and remote sensing products.
 
 ## Business Development 
 
