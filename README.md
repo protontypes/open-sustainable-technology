@@ -27,7 +27,7 @@ __A curated list of open technology projects to sustain a stable climate, energy
   - [Energy Distribution and Grids](#energy-distribution-and-grids)
   - [Datasets on Energy Systems](#datasets-on-energy-systems)
 - [Emissions](#emissions)
-  - [Carbon Intensity](#carbon-intensity)
+  - [Carbon Intensity and Accounting](#carbon-intensity-and-accounting)
   - [Carbon Capture and Removel](#carbon-capture-and-removel)
   - [Emission Observation and Modeling](#emission-observation-and-modeling)
 - [Ecological Footprint](#ecological-footprint)
@@ -583,7 +583,7 @@ __A curated list of open technology projects to sustain a stable climate, energy
 
 ## Emissions
 
-### Carbon Intensity
+### Carbon Intensity and Accounting 
 
 - [impact](https://github.com/mlco2/impact/) - Compute your ML model's emissions with our calculator and add the results to your paper with our generated LaTeX template.
 - [carbon footprint](https://github.com/protea-earth/carbon_footprint) - Calculate your carbon footprint easily using a command line interface.
@@ -605,6 +605,7 @@ __A curated list of open technology projects to sustain a stable climate, energy
 - [Open-Emission-Factors-DB](https://github.com/climatiq/Open-Emission-Factors-DB) - An open access, contributer-led database of emission factors, validated by the team at Climatiq.
 - [Let's Wait Awhile](https://github.com/dos-group/lets-wait-awhile) - Simulator and datasets to research on carbon-aware temporal workload shifting.
 - [elmada](https://github.com/DrafProject/elmada) - Dynamic electricity carbon emission factors and prices for Europe.
+- [Environmental Footprint Data](https://github.com/Boavizta/environmental-footprint-data) - Aims to reference as much data as possible to help organizations to evaluate the environmental footprint of their information systems, applications and digital services.
 
 
 ### Carbon Capture and Removel
