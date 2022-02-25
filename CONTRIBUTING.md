@@ -19,7 +19,7 @@
 Additions to the list are done by pull requests.
 
 * Every new project on the list needs to be a new pull request.
-* Create a fork of open-sustainable-technology.
+* Create a fork of awesome-sustainable-technology.
 * Insert the project into one of the categories of your fork. We can discuss later on in the 'Pull Request' comments whether another category fits better or we need to open a new one.
 * Add your project in the following format:          
  ``- [Project Name](Project URL) - A sentence that describes your project and what makes it different from others.``
@@ -29,7 +29,7 @@ Additions to the list are done by pull requests.
 * To reorder the list or for creating new categories please open an issue. After a discussion in the issue comments, we can decide on how to reorganize the list based on a pull request from you.
 * Every new project entry will receive a post on Mastodon and [Twitter](https://twitter.com/protontypes) within our network. You can define a custom message for that with your project URL and great people if you like to. Just add `My Tweet:` to the Pull request comment.
 
-Further details on how do `Pull Requests` can be found in the official GitHub [documentation](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request). Don't hesitate to get in touch with us in our [open community chat](https://gitter.im/protontypes/community). 
+Further details on how do `Pull Requests` can be found in the official GitHub [documentation](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
 
 ## Consulting and promotion 
 
@@ -41,4 +41,4 @@ protontypes offers free advice and promotion for projects that are included in O
 
 ## Contribute to listed projects
 
-All the projects listed allow direct and open participation. This is possible in many different ways. From using the open source projects to fixing bugs. Get in touch with the open communities and find out how you can contribute with your skills and knowledge. Most projects have a Contribution Guide like this to get involved in the project and community. [Please contact us](https://gitter.im/protontypes/community) if you need additional support on how to support projects worldwide through simple research or open source contributions.
+All the projects listed allow direct and open participation. This is possible in many different ways. From using the open source projects to fixing bugs. Get in touch with the open communities and find out how you can contribute with your skills and knowledge. Most projects have a Contribution Guide like this to get involved in the project and community. [Please send an email](mailto:tobias.augspurger@protontypes.eu) if you need additional support on how to support projects worldwide through simple research or open source contributions.
