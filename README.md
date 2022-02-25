@@ -491,6 +491,7 @@ __A curated list of open technology projects to sustain a stable climate, energy
 - [Open Energy Outlook](https://github.com/TemoaProject/oeo) - Examining U.S. energy futures to inform future energy and climate policy efforts.
 - [OpenSTEF](https://github.com/OpenSTEF/openstef) - A Python package which is used to make short term forecasts for the energy sector.
 - [EIAdata](https://github.com/Matt-Brigida/EIAdata) - Provides programmatic access to the Energy Information Administration's API.
+- [nempy](https://github.com/UNSW-CEEM/nempy) - A flexible tool kit for modelling Australia's National Electricity Market dispatch procedure.
 
 ### Energy Monitoring and Control
 
