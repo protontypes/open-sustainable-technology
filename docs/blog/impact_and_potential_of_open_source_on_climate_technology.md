@@ -72,7 +72,7 @@ Although this project has received support from various organizations and indivi
 - If you have experience visualizing or processing data with Python and know how to integrate such data into a new website.
 - If you are a funder and want to support these developer communities via open infrastructure funds, consortia-based support or other collaborative models across institutions and regions.
 
-Email [Eirini](mailto:eirinimalliaraki@gmail.com), [Tobi](mailto:tobias.augspurger@protontypes.eu)  and [follow us on twitter](https://https://twitter.com/protontypes)
+Email [Eirini](mailto:eirinimalliaraki@gmail.com), [Tobi](mailto:tobias.augspurger@protontypes.eu)  and [follow us on twitter](https://twitter.com/protontypes)
 
 *This work is partially supported by [Subak](https://climatesubak.org/), the world’s first climate not-for-profit impact accelerator.*
 
