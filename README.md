@@ -1120,6 +1120,7 @@ __A curated list of open technology projects to sustain a stable climate, energy
 - [West Oakland Air Quality Project](https://github.com/openoakland/woeip) - A platform for impacted communities to understand their local air quality and advocate for environmental justice.
 - [Sensor.Community](https://github.com/opendata-stuttgart/sensor.community) - Making the world a better place through community driven, open environmental data.
 - [openSenseMap](https://github.com/sensebox/openSenseMap) - Wikipedia for environmental data in order to awaken and promote education, environmental and climate protection.
+- [rfasst](https://github.com/JGCRI/rfasst) - Estimation of a consistent range of adverse health and agricultural effects attributable to air pollution for a GCAM scenario.
 
 ### Water Supply
 
