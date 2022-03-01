@@ -5,11 +5,8 @@ hide:
 ---
 
 <!--lint ignore awesome-toc awesome-contributing awesome-badge -->
-# Open Educational Resources on Sustainable Technology
+# Open Educational Resources in Sustainable Technology Development
 
-__Looking for resources to get started in Open Sustainable Technology? Here you can find dedicated educational resources as well as best practices for your ideas.__
-
-## Tutorials and Courses
 - [Earth and Environmental Data Science Book](https://github.com/earth-env-data-science/earth-env-data-science-book) - An Introduction to Earth and Environmental Data Science.
 - [Free Earth Data Science Courses & Textbooks](https://github.com/earthlab/earthlab.github.io) - A site dedicated to tutorials, course and other learning materials and resources developed by the Earth Lab team.
 - [ESM-lectures](https://github.com/nworbmot/esm-lectures) - Lecture slides for KIT Energy System Modelling course.
