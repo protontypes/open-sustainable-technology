@@ -1288,6 +1288,7 @@ This project provides a database to analyze the state of the open source ecosyst
 - [r4ss](https://github.com/r4ss/r4ss) - A fisheries stock assessment model written by Rick Methot.
 - [AgroMo](https://github.com/hollorol/AgroMo) - An Integrated Assessment and Modelling software that integrates a crop, biogeochemical and a agro-economical model.
 - [CropHarvest](https://github.com/nasaharvest/cropharvest) - Collects data from a variety of agricultural land use datasets and remote sensing products.
+- [BreizhCrops](https://github.com/dl4sits/BreizhCrops) - A Satellite Time Series Dataset for Crop Type Identification.
 
 ## Business Development 
 
