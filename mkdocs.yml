@@ -19,6 +19,7 @@ nav:
         - "Gathering Open Sustainable Technology": blog/gathering_open_sustainable_technology.md
 theme:
   name: 'material'
+  custom_dir: 'docs/overrides'
   logo: 'logo.png'
   favicon: 'favicon.png'
   palette:

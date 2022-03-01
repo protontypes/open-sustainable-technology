@@ -1,11 +1,11 @@
 <!--lint ignore awesome-badge--> <!--lint ignore double-link-->
 # Open Sustainable Technology
 [<img src="earth.gif" align="right" width="350">](https://tabletopwhale.com/)
-__A curated list of open technology projects to sustain a stable climate, energy supply, and natural resources.__ <br> <br> The purpose of this site is to deliver an index for  __open__, __sustainable__, and __active__ projects worldwide. Follow this project to stay informed about every new entry. Your contribution is essential to keep this list alive, increase the quality and to expand it. Read more about its origin and how you can participate in the [contribution guide](https://opensustain.tech/contributing/), [presentation slides](https://protontypes.eu/protontypes_open_sustainable_technology.pdf) and related [blog post](https://opensustain.tech/blog/gathering_open_sustainable_technology/). Please [write an email](mailto:tobias.augspurger@protontypes.eu) to give feedback, hints and ideas considering [OpenSustain.tech](https://opensustain.tech/) or [create an issue](https://github.com/protontypes/open-sustainable-technology/issues/new).
+__A curated list of open technology projects to sustain a stable climate, energy supply, and natural resources.__ <br> <br> The purpose of this site is to deliver an index for  __open__, __sustainable__, and __active__ projects worldwide. Follow this project to stay informed about every new entry. Your contribution is essential to keep this list alive, increase the quality and to expand it. Read more about its origin and how you can participate in the [contribution guide](https://opensustain.tech/contributing/), [presentation slides](https://protontypes.eu/protontypes_open_sustainable_technology.pdf) and related [blog post](https://opensustain.tech/blog/gathering_open_sustainable_technology/). Please [write an email](mailto:tobias.augspurger@protontypes.eu) to give feedback, hints and ideas considering [OpenSustain.tech](https://opensustain.tech/) or [create an issue](https://github.com/protontypes/open-sustainable-technology/issues/new). <br><br>  [![](https://badgen.net/badge/icon/Follow/009485?icon=twitter&label&scale=1.3)](https://twitter.com/protontypes) [![](https://badgen.net/badge/icon/Add%20a%20Project/009485?icon=git&label&scale=1.3)](https://github.com/protontypes/open-sustainable-technology/blob/main/CONTRIBUTING.md) 
 
-This project provides a database to analyze the state of the open source ecosystem in the sustainable technology domain. For this purpose, additional metadata will be collected from each project. Read more about the ongoing study and the created database in the inital [blog post](https://opensustain.tech/blog/impact_and_potential_of_open_source_on_climate_technology/).
+This list forms the database to analyse the state of the open source ecosystem in the sustainable technology domain. For this purpose, additional metadata will be collected from each project. Here you can find a blog post about the ongoing study and the created database.
 
-[![](https://badgen.net/badge/icon/Follow%20Updates/009485?icon=twitter&label&scale=1.3)](https://twitter.com/protontypes) [![](https://badgen.net/badge/icon/Add%20a%20Project/009485?icon=git&label&scale=1.3)](https://github.com/protontypes/open-sustainable-technology/blob/main/CONTRIBUTING.md)  [![](https://badgen.net/badge/View/Database/009485?scale=1.3)](https://airtable.com/shr9we419r2TkpLkc)  [![](https://badgen.net/badge/Download/Database/009485?scale=1.3)](https://airtable.com/shr9we419r2TkpLkc)
+[![](https://badgen.net/badge/View/Database/009485?scale=1.3)](https://airtable.com/shr9we419r2TkpLkc)  [![](https://badgen.net/badge/Download/Database/009485?scale=1.3)](https://airtable.com/shr9we419r2TkpLkc)  
 
 
 
@@ -496,7 +496,6 @@ This project provides a database to analyze the state of the open source ecosyst
 - [Open Energy Outlook](https://github.com/TemoaProject/oeo) - Examining U.S. energy futures to inform future energy and climate policy efforts.
 - [OpenSTEF](https://github.com/OpenSTEF/openstef) - A Python package which is used to make short term forecasts for the energy sector.
 - [EIAdata](https://github.com/Matt-Brigida/EIAdata) - Provides programmatic access to the Energy Information Administration's API.
-- [Energy System Technology Data](https://github.com/PyPSA/technology-data) - Compilation of assumptions about energy system technologies such as cost, efficiency and lifetime that can be read by energy system modelling software.
 
 
 ### Energy Monitoring and Control
@@ -587,7 +586,6 @@ This project provides a database to analyze the state of the open source ecosyst
 - [Power Station Dictionary](https://github.com/OSUKED/Power-Station-Dictionary) - A power station dictionary that enables mapping between various naming conventions and associated plant metadata.
 - [ElexonDataPortal](https://github.com/OSUKED/ElexonDataPortal) - Wrapper for the Balancing Mechanism Reporting Service API to balance power flowing on to and off from the electricity Transmission System in Great Britain.
 - [KoaVTracker](https://gitlab.com/diw-evu/koavtracker) - Energy targets in the coalition agreement of the German government vs. where we stand today.
-
 
 
 ## Emissions
@@ -1127,7 +1125,6 @@ This project provides a database to analyze the state of the open source ecosyst
 - [West Oakland Air Quality Project](https://github.com/openoakland/woeip) - A platform for impacted communities to understand their local air quality and advocate for environmental justice.
 - [Sensor.Community](https://github.com/opendata-stuttgart/sensor.community) - Making the world a better place through community driven, open environmental data.
 - [openSenseMap](https://github.com/sensebox/openSenseMap) - Wikipedia for environmental data in order to awaken and promote education, environmental and climate protection.
-- [rfasst](https://github.com/JGCRI/rfasst) - Estimation of a consistent range of adverse health and agricultural effects attributable to air pollution for a GCAM scenario.
 
 ### Water Supply
 
