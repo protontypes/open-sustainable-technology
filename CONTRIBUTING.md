@@ -17,9 +17,7 @@ If you just want to give a hint about a missing project, send an email at [tobia
 * Your project should be structured and documented in such a way that it can be reused and extended by others.
 * Larger parts of the project are published under an [open source license](https://choosealicense.com/).
 
-## Contribute to the list
-
-Additions to the list are done by pull requests.    
+## Contribute to the list  
 * Every new project on the list needs to be a new pull request.     
 * Create a fork of awesome-sustainable-technology.       
 * Insert the project into one of the categories of your fork. We can discuss later on in the 'Pull Request' comments whether another category fits better or we need to open a new one.     
