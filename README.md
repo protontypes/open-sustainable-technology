@@ -1366,6 +1366,7 @@ This project provides a database to analyze the state of the open source ecosyst
 - [OGC API - Environmental Data Retrieval](https://github.com/opengeospatial/ogcapi-environmental-data-retrieval) - A Web API that provides a family of lightweight interfaces for accessing Environmental Data resources.
 - [Salish Sea Wiki](https://salishsearestoration.org/) - A wiki oriented around human systems and ecological restoration (usually riparian / watershed) for the Salish Sea area (Northwestern US & BC Canada).
 - [EEA geospatial data catalogue](https://github.com/eea/geonetwork-eea) - Discover and access easily the geospatial data catalogue of the European Environment Agency.
+- [Digital Earth Africa Notebooks](https://github.com/digitalearthafrica/deafrica-sandbox-notebooks) - Using Earth observations to address social, environmental and economic changes on the Africa continent.
 
 
 ### Curated Lists
