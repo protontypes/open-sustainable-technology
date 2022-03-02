@@ -5,7 +5,7 @@ __A curated list of open technology projects to sustain a stable climate, energy
 
 This project provides a database to analyze the state of the open source ecosystem in the sustainable technology domain. For this purpose, additional metadata will be collected from each project. Read more about the ongoing study and the created database in the inital [blog post](https://opensustain.tech/blog/impact_and_potential_of_open_source_on_climate_technology/).
 
-[![](https://badgen.net/badge/icon/Follow%20Updates/009485?icon=twitter&label&scale=1.3)](https://twitter.com/protontypes) [![](https://badgen.net/badge/icon/Add%20a%20Project/009485?icon=git&label&scale=1.3)](https://github.com/protontypes/open-sustainable-technology/blob/main/CONTRIBUTING.md)  [![](https://badgen.net/badge/View/Database/009485?scale=1.3)](https://airtable.com/shr9we419r2TkpLkc)  [![](https://badgen.net/badge/Download/Database/009485?scale=1.3)](https://raw.githubusercontent.com/protontypes/open-sustainable-technology/main/csv/projects.csv)
+[![](https://badgen.net/badge/icon/Follow%20Updates/009485?icon=twitter&label&scale=1.3)](https://twitter.com/protontypes) [![](https://badgen.net/badge/icon/Add%20a%20Project/009485?icon=git&label&scale=1.3)](https://github.com/protontypes/open-sustainable-technology/blob/main/CONTRIBUTING.md)  [![](https://badgen.net/badge/View/Database/009485?scale=1.3)](https://airtable.com/shr9we419r2TkpLkc)  
 
 
 
