@@ -1265,6 +1265,7 @@ This project provides a database to analyze the state of the open source ecosyst
 - [ss3sim](https://github.com/ss3sim/ss3sim) - An R package that facilitates flexible, rapid, and reproducible fisheries stock assessment simulation testing with the widely-used Stock Synthesis statistical age-structured stock assessment framework.
 - [rfisheries](https://github.com/ropensci/rfisheries) - Interacting with fisheries databases at openfisheries.org.
 - [Fisheries Stock Assessment](https://github.com/droglenc/FSA) - Provides R functions to conduct typical introductory fisheries analyses.
+- [RFishBC](https://github.com/fishR-Core-Team/RFishBC) - Helps fisheries scientists collect measurements from calcified structures and back-calculate estimated lengths at previous ages.
 - [mizer](https://github.com/sizespectrum/mizer) - An R package to run dynamic multi-species size-spectrum models of fish communities.
 - [POSEIDON](https://github.com/CarrKnight/POSEIDON) - A fishery agent-based model.
 - [Karrot](https://github.com/karrot-dev/karrot-frontend) - Web application for organization of foodsaving groups worldwide.
