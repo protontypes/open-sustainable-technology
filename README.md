@@ -45,6 +45,7 @@ __A curated list of open technology projects to sustain a stable climate, energy
   - [Water Supply](#water-supply)
   - [Soil and Land](#soil-and-land)
   - [Agriculture and Nutrition](#agriculture-and-nutrition)
+  - [Natural Hazard and Poverty](#natural-hazard-and-poverty)
 - [Business Development](#business-development)
   - [Sustainable Investment](#sustainable-investment)
 - [Miscellaneous](#miscellaneous)
