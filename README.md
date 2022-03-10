@@ -1289,6 +1289,7 @@ __A curated list of open technology projects to sustain a stable climate, energy
 - [Global Flood Database Scripts & Data](https://github.com/cloudtostreet/MODIS_GlobalFloodDatabase) - Used to produce the Global Flood Database and assess changes in population exposed to floods.
 - [LISFLOOD](https://github.com/ec-jrc/lisflood-code) - A spatially distributed water resources model, developed by the Joint Research Centre of the European Commission since 1997.
 - [CanFlood](https://github.com/NRCan/CanFlood) - Flood Risk modelling toolbox for Canada.
+- [HYDRAFloods](https://github.com/Servir-Mekong/hydra-floods) - An open source Python application for downloading, processing, and delivering surface water maps derived from remote sensing data.
 
 
 ## Business Development 
