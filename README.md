@@ -761,7 +761,8 @@ __A curated list of open technology projects to sustain a stable climate, energy
 - [PlanktonIndividuals.jl](https://github.com/JuliaOcean/PlanktonIndividuals.jl) - This package simulates the behaviors of an ensemble of phytoplankton individuals.
 - [redlistr](https://github.com/red-list-ecosystem/redlistr) - An R package that contains a set of tools suitable for calculating the metrics required for making assessments of species and ecosystems against the IUCN Red List of Threatened Species and the IUCN Red List of Ecosystems categories and criteria.
 - [ALA4R](https://github.com/AtlasOfLivingAustralia/ALA4R) - The Atlas of Living Australia provides tools to enable users of biodiversity information to find, access, combine and visualise data on Australian plants and animals.
-- [worldpa](https://github.com/FRBCesab/worldpa) - Interface to the World Database on Protected Areas.
+- [worldpa](https://github.com/FRBCesab/worldpa) - R interface to the World Database on Protected Areas.
+- [pywdpa](https://github.com/ghislainv/pywdpa) - Python interface to the World Database on Protected Areas.
 - [plant](https://github.com/traitecoevo/plant) - A package for modeling forest trait ecology and evolution.
 - [PNVmaps](https://github.com/Envirometrix/PNVmaps) - Global Maps of Potential Natural Vegetation based on Machine Learning.
 - [monitoring-ecosystem-resilience](https://github.com/alan-turing-institute/monitoring-ecosystem-resilience) - The focus is understanding vegetation patterns in semi-arid environments.
