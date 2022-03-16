@@ -1320,6 +1320,7 @@ __A curated list of open technology projects to sustain a stable climate, energy
 ## Miscellaneous
 
 ### Environmental Knowledge Platforms
+- [Linux Foundation Energy Landscape](https://github.com/lf-energy/lfenergy-landscape) - This landscape is intended as a map to explore the open source projects in the energy sector, and also shows the member companies of the LF Energy Foundation.
 - [Appropedia](https://www.appropedia.org/Welcome_to_Appropedia) - Shares knowledge to build rich, sustainable lives.
 - [GlobalWindAtlas](https://globalwindatlas.info/) - Immediately start exploring windy areas.
 - [GlobalSolarAtlas](https://globalsolaratlas.info/) - Start exploring solar potential.
