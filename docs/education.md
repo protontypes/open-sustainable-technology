@@ -55,3 +55,4 @@ hide:
 - [Climate Change Impact Assessment: A practical walk-through](https://claut.gitlab.io/man_ccia/) - Throughout the course of this book, you will learn how to acquire observed historical climate data from Environment and Climate Change Canada, and perform basic analyses of a climate index and meteorological variables.
 - [To Catch The Sun](https://tocatchthesun.com/) - Inspiring stories of communities coming together to harness their own solar energy, and how you can do it too.
 - [ICESat-2 Sea Ice Thickness Data Analysis and Visualization](https://github.com/nicolejkeeney/icesat2-book) - Interactive Jupyter Book for wrangling, visualizing, and analyzing ICESat-2 sea ice thickness data
+- [mebioda](https://github.com/naturalis/mebioda) - This repository contains materials for the MSc course Methods in Biodiversity Analysis.
