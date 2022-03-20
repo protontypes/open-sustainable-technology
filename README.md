@@ -1298,6 +1298,7 @@ __A curated list of open technology projects to sustain a stable climate, energy
 - [LISFLOOD](https://github.com/ec-jrc/lisflood-code) - A spatially distributed water resources model, developed by the Joint Research Centre of the European Commission since 1997.
 - [CanFlood](https://github.com/NRCan/CanFlood) - Flood Risk modelling toolbox for Canada.
 - [HYDRAFloods](https://github.com/Servir-Mekong/hydra-floods) - An open source Python application for downloading, processing, and delivering surface water maps derived from remote sensing data.
+- [OasisLMF](https://github.com/OasisLMF/OasisLMF) - An open source catastrophe modelling platform, free to use by anyone.
 
 
 ## Business Development 
