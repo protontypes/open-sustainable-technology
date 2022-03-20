@@ -1089,6 +1089,7 @@ __A curated list of open technology projects to sustain a stable climate, energy
 - [MeteoInfo](https://github.com/meteoinfo/MeteoInfo) - GIS and scientific computation environment for meteorological community.
 - [ESDL.jl](https://github.com/esa-esdl/ESDL.jl) - Julia interface for Reading from the Earth System Datacube.
 - [Geoclimate](https://github.com/orbisgis/geoclimate) - Geospatial processing toolbox for environmental and climate studies.
+- [UNFCCC emissions data](https://github.com/openclimatedata/unfccc-detailed-data-by-party) - UNFCCC Emissions data from the Detailed Data By Party interface.
 
 
 ## Natural Resources
