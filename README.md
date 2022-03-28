@@ -112,6 +112,7 @@ __A curated list of open technology projects to sustain a stable climate, energy
 - [Solar Forecast Arbiter](https://github.com/SolarArbiter/solarforecastarbiter-core) - Core data gathering, validation, processing, and reporting package for the Solar Forecast Arbiter.
 - [pv-system-profiler](https://github.com/slacgismo/pv-system-profiler) - Estimating PV array location and orientation from real-world power datasets.
 - [A Global Inventory of Commerical-, Industrial-, and Utility-Scale Photovoltaic Solar Generating Units](https://github.com/Lkruitwagen/solar-pv-global-inventory) - Used to produce a global inventory of utility-scale solar photvoltaic generating station.
+- [dGen](https://github.com/NREL/dgen) - Forecast PV adoption based on user specified configurations like electricity rate prices, electricity load growth, solar resource factors, and much more.
 
 ### Wind Power
 
