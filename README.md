@@ -1390,6 +1390,8 @@ __A curated list of open technology projects to sustain a stable climate, energy
 - [Digital Earth Africa Notebooks](https://github.com/digitalearthafrica/deafrica-sandbox-notebooks) - Using Earth observations to address social, environmental and economic changes on the Africa continent.
 - [The Subak Data Catalogue](https://data.climatesubak.org/) - Exists to make climate data more discoverable, more trusted and more connected.
 - [Justice40 Tool](https://github.com/usds/justice40-tool) - A tool to identify disadvantaged communities due to environmental, socioeconomic and health burdens.
+- [Custom Scripts Sentinel Hub](https://github.com/sentinel-hub/custom-scripts) - A repository of custom scripts to be used with Sentinel Hub.
+- [sentinelhub-py](https://github.com/sentinel-hub/sentinelhub-py) - Download and process satellite imagery in Python using Sentinel Hub services.
 
 
 ### Curated Lists
@@ -1414,8 +1416,6 @@ __A curated list of open technology projects to sustain a stable climate, energy
 - [awesome-earth-engine-apps](https://github.com/philippgaertner/awesome-earth-engine-apps) - An awesome list of all available Google Earth Engine Apps and user-specific App Galleries.
 - [awesome-gee-community-datasets](https://github.com/samapriya/awesome-gee-community-datasets/) - Community Datasets & Data Commons in Google Earth Engine.
 - [Urban & Regional Planning Resources](https://github.com/APA-Technology-Division/urban-and-regional-planning-resources) - Community list of data & technology resources concerning the built environment and communities.
-- [Custom Scripts Sentinel Hub](https://github.com/sentinel-hub/custom-scripts) - A repository of custom scripts to be used with Sentinel Hub.
-- [sentinelhub-py](https://github.com/sentinel-hub/sentinelhub-py) - Download and process satellite imagery in Python using Sentinel Hub services.
 
 ## Contributors
 <a href="https://github.com/protontypes/open-sustainable-technology/graphs/contributors">
