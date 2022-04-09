@@ -150,6 +150,7 @@ __A curated list of open technology projects to sustain a stable climate, energy
 - [HAMS](https://github.com/YingyiLiu/HAMS) - An open-source computer program for the analysis of wave diffraction and radiation of three-dimensional floating or submerged structures.
 - [brightwind](https://github.com/brightwind-dev/brightwind) - A Python library aims to empower wind resource analysts and establish a common industry standard toolset.
 - [NRWAL](https://github.com/NREL/NRWAL) - A library of offshore wind cost equations.
+- [welib](https://github.com/ebranlard/welib) - Wind energy library, python and matlab tools for wind turbines analyses.
 
 
 ### Hydro Power
