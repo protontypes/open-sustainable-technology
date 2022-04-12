@@ -130,7 +130,7 @@ __A curated list of open technology projects to sustain a stable climate, energy
 - [windtools](https://github.com/FZJ-IEK3-VSA/windtools) - The Wind Energy Generation Tools provides useful tools to assist in wind energy simulations.
 - [PyWake](https://gitlab.windenergy.dtu.dk/TOPFARM/PyWake) - An AEP calculator for wind farms implemented in Python including a collection of wake models.
 - [WISDEM](https://github.com/WISDEM/WISDEM) - Wind Plant Integrated System Design and Engineering Model.
-- [WOMBAT](https://github.com/WISDEM/WOMBAT) - Windfarm Operations & Maintenance cost-Benefit Analysis Tool
+- [WOMBAT](https://github.com/WISDEM/WOMBAT) - Windfarm Operations & Maintenance cost-Benefit Analysis Tool.
 - [LandBOSSE](https://github.com/WISDEM/LandBOSSE) - The Land-based Balance-of-System Systems Engineering model is a systems engineering tool that estimates the balance-of-system costs associated with installing utility scale wind plants (10, 1.5 MW turbines or larger).
 - [OpenMDAO](https://github.com/OpenMDAO/OpenMDAO) - Optimization of Aerodynamic systems.
 - [TopFarm2](https://gitlab.windenergy.dtu.dk/TOPFARM/TopFarm2) - A Python package developed by DTU Wind Energy to help with wind-farm optimizations.
