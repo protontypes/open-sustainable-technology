@@ -1199,6 +1199,7 @@ __A curated list of open technology projects to sustain a stable climate, energy
 - [reservatoriosBR](https://github.com/brunomioto/reservatoriosBR) - R package for Brazilian reservoirs data.
 - [PyForecast](https://github.com/usbr/PyForecast) - A statistical modeling tool used by Reclamation water managers and reservoir operators to train and build predictive models for seasonal inflows and streamflows.
 - [pyWaPOR](https://bitbucket.org/cioapps/wapor-et-look/) - Data manual and Algorithm to compute the evapotranspiration of large areas using remote sensing data.
+- [HydroSHEDS](https://www.hydrosheds.org/) - Seamless hydrographic data for global and regional applications.
 
 
 ### Soil and Land
