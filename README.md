@@ -811,6 +811,7 @@ __A curated list of open technology projects to sustain a stable climate, energy
 - [ForestTools](https://github.com/andrew-plowright/ForestTools) - Detect and segment individual tree from remotely sensed data.
 - [gfcanalysis](https://github.com/azvoleff/gfcanalysis) - Tools for working with Global Forest Change dataset.
 - [FIREDpy](https://github.com/earthlab/firedpy) - Classifying fire events from the Collection 6 MODIS Burned Area Product.
+- [BioPAL](https://github.com/BioPAL/BioPAL) - The BIOMASS Product Algorithm Laboratory hosts official tools for processing and analysing ESA's BIOMASS mission data.
 
 
 ### Ice and Poles
