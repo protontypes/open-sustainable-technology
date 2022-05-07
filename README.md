@@ -394,6 +394,7 @@ __A curated list of open technology projects to sustain a stable climate, energy
 - [LEAF](https://github.com/dos-group/leaf) - Simulator for modeling energy consumption in cloud, fog, and edge computing environments.
 - [ethereum-nft-activity](https://github.com/kylemcdonald/ethereum-nft-activity) - Estimate the total emissions for popular CryptoArt platforms.
 - [kube-green](https://github.com/kube-green/kube-green) - A k8s operator to reduce CO2 footprint of your clusters.
+- [ecoCode](https://github.com/cnumr/ecoCode) - Reduce the environmental footprint of your software applications with this cutting-edge sonarQube plugin.
 
 ## Energy Systems
 
