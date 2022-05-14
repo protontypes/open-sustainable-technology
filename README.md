@@ -17,7 +17,7 @@ __A curated list of open technology projects to sustain a stable climate, energy
 - [Energy Storage](#energy-storage)
   - [Battery](#battery)
   - [Hydrogen](#hydrogen)
-- [Energy Demand and Efficiency](#energy-demand-and-efficiency)
+- [Consumption of Energy and Resources](#consumption-of-energy-and-resources)
   - [Buildings and Cities](#buildings-and-cities)
   - [Mobility and Transportation](#mobility-and-transportation)
   - [Production and Industry](#production-and-industry)
@@ -236,7 +236,7 @@ __A curated list of open technology projects to sustain a stable climate, energy
 - [Vehicle with Fuel Cell Powertrain](https://github.com/mathworks/Fuel-Cell-Vehicle-Model-Simscape) - Fuel cell electric vehicle with battery model and cooling system.
 - [VirtualFCS](https://github.com/Virtual-FCS/VirtualFCS) - A Modelica library for hybrid hydrogen fuel cell and battery power systems.
 
-## Energy Demand and Efficiency
+## Consumption of Energy and Resources 
 
 ### Buildings and Cities
 
@@ -362,6 +362,8 @@ __A curated list of open technology projects to sustain a stable climate, energy
 - [A/B Street](https://github.com/a-b-street) - A traffic simulation game exploring how small changes to roads affect cyclists, transit users, pedestrians, and drivers.
 - [enviroCar](https://github.com/enviroCar/enviroCar-app) - An Android App for collecting car sensor data for the enviroCar platform.
 - [EVerest](https://github.com/EVerest/everest) - An open source software stack for EV charging infrastructure.
+- [Streetmix](https://github.com/streetmix/streetmix) - makes it easy for people to design public spaces together.
+
 
 ### Production and Industry
 
