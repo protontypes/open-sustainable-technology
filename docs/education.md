@@ -57,3 +57,4 @@ hide:
 - [ICESat-2 Sea Ice Thickness Data Analysis and Visualization](https://github.com/nicolejkeeney/icesat2-book) - Interactive Jupyter Book for wrangling, visualizing, and analyzing ICESat-2 sea ice thickness data
 - [mebioda](https://github.com/naturalis/mebioda) - This repository contains materials for the MSc course Methods in Biodiversity Analysis.
 - [LP DAAC E-Learning](https://lpdaac.usgs.gov/resources/e-learning/) - Frequently updated presentations, webinars, tutorials, and video tips on accessing, managing, and processing LP DAAC data using a variety of software, web applications, custom tools, and scripts.
+- [Copernicus Training](https://github.com/ecmwf-projects/copernicus-training) - Data tutorials for the Copernicus Climate Change and Atmosphere Monitoring Services.
