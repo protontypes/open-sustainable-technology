@@ -17,7 +17,6 @@ jobs:
       - name: Copy content files to docs
         run: |
               cp CONTRIBUTING.md docs/contributing.md
-              cp earth.gif docs/earth.gif
 
       - name: Add meta tags to index.md
         run: cat docs/meta_tags.md | cat - docs/index.md > temp && mv temp docs/index.md
