@@ -1,6 +1,6 @@
 <!--lint ignore awesome-badge--> <!--lint ignore double-link-->
 # Open Sustainable Technology
-[<img src="earth.png" align="right" width="400">](https://tabletopwhale.com/)
+[<img src="earth.png" align="right" width="350">](https://tabletopwhale.com/)
 
 __A curated list of open technology projects to sustain a stable climate, energy supply, and natural resources.__ <br> <br> The purpose of this site is to deliver an index for  __open__, __sustainable__, and __active__ projects worldwide. Follow this project to stay informed about every new entry. Your contribution is essential to keep this list alive, increase the quality and to expand it. Read more about its origin and how you can participate in the [contribution guide](https://opensustain.tech/contributing/), [presentation slides](https://protontypes.eu/protontypes_open_sustainable_technology.pdf) and related [blog post](https://opensustain.tech/blog/gathering_open_sustainable_technology/). Please [write an email](mailto:tobias.augspurger@protontypes.eu) to give feedback, hints and ideas considering [OpenSustain.tech](https://opensustain.tech/) or [create an issue](https://github.com/protontypes/open-sustainable-technology/issues/new).
 
@@ -600,6 +600,7 @@ If you want to get started with topics like renewable energy, climate change, or
 - [kube-green](https://github.com/kube-green/kube-green) - A k8s operator to reduce CO2 footprint of your clusters.
 - [ecoCode](https://github.com/cnumr/ecoCode) - Reduce the environmental footprint of your software applications with this cutting-edge sonarQube plugin.
 - [Kepler](https://github.com/sustainable-computing-io/kepler) - Uses eBPF to probe energy related system stats and exports as Prometheus metrics.
+- [Software Carbon Intensity Specification](https://github.com/Green-Software-Foundation/software_carbon_intensity) - A specification that describes how to calculate a carbon intensity for software applications.
 
 
 ## Emissions
