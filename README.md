@@ -58,6 +58,7 @@ If you want to get started with topics like renewable energy, climate change, or
   - [Curated Lists](#curated-lists)
 - [Contributors](#contributors)
 - [Artwork](#artwork)
+- [License](#license)
 
 
 <!--toc_end-->
