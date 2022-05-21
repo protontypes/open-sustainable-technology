@@ -58,8 +58,6 @@ If you want to get started with topics like renewable energy, climate change, or
   - [Curated Lists](#curated-lists)
 - [Contributors](#contributors)
 - [Artwork](#artwork)
-- [License](#license)
-
 
 <!--toc_end-->
 
@@ -1444,5 +1442,5 @@ If you want to get started with topics like renewable energy, climate change, or
 ## Artwork
 _Animation created with [An Animated Map of the Earth](https://github.com/eleanorlutz/earth_atlas_of_space) by [Eleanor Lutz](https://eleanorlutz.com/)_
 
-## License
+-------------------------
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
