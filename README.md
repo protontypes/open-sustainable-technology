@@ -1260,6 +1260,7 @@ If you want to get started with topics like renewable energy, climate change, or
 - [soils-revealed](https://github.com/Vizzuality/soils-revealed) - Platform for direct visualization, analysis and reporting of soil organic carbon predictions and changes over time.
 - [Soil Erosion Watch](https://github.com/SoilWatch/soil-erosion-watch) - A Google Earth Engine App to explore the state of the world's degraded soils.
 - [Land Matrix](https://github.com/sinnwerkstatt/landmatrix) - Independent global land monitoring initiative that promotes transparency & accountability in decisions over large-scale land acquisitions.
+- [SITS](https://github.com/e-sensing/sits) - Enables users to apply machine learning techniques for classifying image time series obtained from earth observation data cubes.
 
 
 ### Agriculture and Nutrition
