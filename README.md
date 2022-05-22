@@ -1441,6 +1441,8 @@ If you want to get started with topics like renewable energy, climate change, or
 </a>
 
 ## Artwork and License 
-_Animation created with [An Animated Map of the Earth](https://github.com/eleanorlutz/earth_atlas_of_space) by [Eleanor Lutz](https://eleanorlutz.com/)_
+_Animation created with [An Animated Map of the Earth](https://github.com/eleanorlutz/earth_atlas_of_space) by [Eleanor Lutz](https://eleanorlutz.com/)_     
+The artwork included in this repository are shared under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License.
 
-<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
+[![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)     
+This work and all contributions to it are released into terms of the CC0 1.0 Universal Public Domain if not otherwise noted.
