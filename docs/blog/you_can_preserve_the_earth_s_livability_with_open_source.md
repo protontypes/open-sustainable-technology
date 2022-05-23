@@ -1,4 +1,4 @@
-# How you can preserve the Earth's livability with open source
+# You can preserve the Earth's livability with open source
 
 
  __Tobias Augspurger __  [:fontawesome-brands-twitter:](https://twitter.com/protontypes) · :octicons-calendar-24: May 23, 2022
