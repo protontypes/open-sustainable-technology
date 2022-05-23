@@ -1443,9 +1443,11 @@ If you want to get started with topics like renewable energy, climate change, or
   <img width="70%" src="https://contrib.rocks/image?repo=protontypes/open-sustainable-technology" />
 </a>
 
-## Artwork and License 
-_Animation created with [An Animated Map of the Earth](https://github.com/eleanorlutz/earth_atlas_of_space) by [Eleanor Lutz](https://eleanorlutz.com/)_   
+## Artwork and License
+Animation created with [An Animated Map of the Earth](https://github.com/eleanorlutz/earth_atlas_of_space) by [Eleanor Lutz](https://eleanorlutz.com/)
+
 The artwork included in this repository are shared under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License.
 
-[![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)  
 This work and all contributions to it are released into terms of the CC0 1.0 Universal Public Domain if not otherwise noted.
+
+[![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
