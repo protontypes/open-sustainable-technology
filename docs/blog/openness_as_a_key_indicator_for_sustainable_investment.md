@@ -1,6 +1,6 @@
 # Openness as a key indicator for Sustainable Investment
 
- __Tobias Augspurger __  [:fontawesome-brands-twitter:](https://twitter.com/protontypes) · :octicons-calendar-24: January 29, 2021
+ __Tobias Augspurger __  [:fontawesome-brands-twitter:](https://twitter.com/protontypes) · :octicons-calendar-24: January 29, 2022
 
 **An open-source strategy for measuring sustainable investments can fundamentally impact the transition to a carbon-neutral and green economy. Measuring corporate sustainability based on quantitative physical values combined with Open Science practices has the potential to avoid greenwashing as the biggest threat to economical transformation.**
 
@@ -25,7 +25,7 @@ Figure 2: Annual CO₂ emissions
 People in the financial industry are becoming increasingly aware of this inconsistent development. Today's ESG ratings are questioned by insiders from numerous institutions. Kenneth P. Pucker sums up the problem in his blog post "The Trillion-Dollar Fantasy" in a single sentence [[4]](https://www.institutionalinvestor.com/article/b1tkr826880fy2/The-Trillion-Dollar-Fantasy): 
 
 > "They are not measured on the impact they deliver".
- 
+
  Deutsche Bank's former ESG officer, Desiree Fixler, publicly expressed her concerns regarding the legitimacy of the company's claims on the percentage of assets under management that merit an "ESG" or green label. [[5]](https://www.forbes.com/sites/bobeccles/2021/09/19/seven-principles-for-esg-investing-a-conversation-with-desiree-fixler/?sh=5595f2616011). 
 
 Tariq Fancy former Chief Investment Officer for sustainable investing at BlackRock argues his essay "The Secret Diary of a Sustainable Investor" [[6]](https://medium.com/@sosofancy/the-secret-diary-of-a-sustainable-investor-part-1-70b6987fa139):

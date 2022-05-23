@@ -11,6 +11,7 @@ nav:
   - "Contribute": "contributing.md"
   - Blog:
       2022:
+        - "You can preserve the Earth's livability with open source" : blog/you_can_preserve_the_earth_s_livability_with_open_source.md  
         - "Impact and potential of open source on climate technology": blog/impact_and_potential_of_open_source_on_climate_technology.md
         - "Openness as a key indicator for sustainable investment": blog/openness_as_a_key_indicator_for_sustainable_investment.md
       2021:
