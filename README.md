@@ -1125,7 +1125,7 @@ If you want to get started with topics like renewable energy, climate change, or
 - [ropenaq](https://github.com/ropensci/ropenaq) - A community of scientists, software developers and lovers of open environmental data who are building an open, real-time database that provides programmatic and historical access to air quality data.
 - [airQualityMeter](https://github.com/rpanfili/airQualityMeter) - Detects air particulate matter (PM - pm1, pm2.5, pm10) concentrations and sends data to an MQTT server.
 - [Air-Trends-Report](https://github.com/USEPA/Air-Trends-Report) - Source code for EPA's annual air trends report on air quality, emissions and visibility trends.
-- [openaq-api](https://github.com/openaq/openaq-api) - This is the main API for the OpenAQ project written in JavaScript.
+- [openaq-api]([https://github.com/openaq/openaq-api](https://github.com/openaq/openaq-api-v2) - This is the main API for the OpenAQ project written in JavaScript.
 - [OpenAQ Data Ingest Pipeline](https://github.com/openaq/openaq-fetch) - A tool to collect data for OpenAQ platform.
 - [breethe-server](https://github.com/simplabs/breethe-server) - Breethe allows instant access to up to date air quality data for locations in Europe.
 - [SMOKE](https://github.com/CEMPD/SMOKE) - Create emissions inputs for multiple air quality modeling systems with unmatched speed and flexibility.
