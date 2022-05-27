@@ -1387,6 +1387,8 @@ If you want to get started with topics like renewable energy, climate change, or
 - [Salish Sea Wiki](https://salishsearestoration.org/) - A wiki oriented around human systems and ecological restoration (usually riparian / watershed) for the Salish Sea area (Northwestern US & BC Canada).
 - [Justice40 Tool](https://github.com/usds/justice40-tool) - A tool to identify disadvantaged communities due to environmental, socioeconomic and health burdens.
 - [Net Zero Tracker](https://zerotracker.net/) - Create the definitive global resource for collating, assessing and presenting the scale and quality of net zero pledges across nationals, sub-nationals, companies and other entities.
+- [SDGmapR](https://github.com/CMUSustainability/SDGmapR) - R functions and datasets related to the mapping of text to the United Nations 17 Sustainable Development Goals.
+
 
 ### Data Catalogs and Platforms
 - [Food and Agriculture Organization Map Catalog](https://data.apps.fao.org/) - Allows to easily share geographically referenced thematic information between different organizations.
