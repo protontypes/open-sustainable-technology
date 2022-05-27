@@ -26,7 +26,7 @@ If you want to get started with topics like renewable energy, climate change, or
   - [Energy Distribution and Grids](#energy-distribution-and-grids)
   - [Datasets on Energy Systems](#datasets-on-energy-systems)
 - [Consumption of Energy and Resources](#consumption-of-energy-and-resources)
-  - [Buildings and Cities](#buildings-and-cities)
+  - [Buildings and Heating](#buildings-and-heating)
   - [Mobility and Transportation](#mobility-and-transportation)
   - [Production and Industry](#production-and-industry)
   - [Computation and Communication](#computation-and-communication)
@@ -439,7 +439,7 @@ If you want to get started with topics like renewable energy, climate change, or
 
 ## Consumption of Energy and Resources 
 
-### Buildings and Cities
+### Buildings and Heating 
 
 - [hpxml](https://github.com/hpxmlwg/hpxml) - Home Performance XML is a data transfer standard for the home performance industry.
 - [HPXML to Home Energy Score Translator](https://github.com/NREL/hescore-hpxml) - This translator script takes an HPXML file or directory of files as an input and generates HEScore inputs from it.
@@ -493,6 +493,7 @@ If you want to get started with topics like renewable energy, climate change, or
 - [hplib](https://github.com/RE-Lab-Projects/hplib) - Database with efficiency parameters from public Heatpump Keymark datasets as well as parameter-sets and functions in order to simulate heat pumps.
 - [Thermofeel](https://github.com/ecmwf-projects/thermofeel) - A library to calculate human thermal comfort indexes.
 - [CBE Clima Tool](https://github.com/CenterForTheBuiltEnvironment/clima) - A web-based application built to support the need of architects and engineers interested in climate-adapted design.
+- [Kiva](https://github.com/bigladder/kiva) - Used to calculate heat loss and gain on a timestep basis from building foundations.
 
 ### Mobility and Transportation
 
