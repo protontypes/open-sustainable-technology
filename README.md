@@ -49,10 +49,9 @@ If you want to get started with topics like renewable energy, climate change, or
   - [Soil and Land](#soil-and-land)
   - [Agriculture and Nutrition](#agriculture-and-nutrition)
   - [Natural Hazard and Poverty](#natural-hazard-and-poverty)
-- [Business Development](#business-development)
-  - [Sustainable Investment](#sustainable-investment)
-- [Miscellaneous](#miscellaneous)
+- [Sustainable Development](#miscellaneous)
   - [Sustainable Development Goals](#sustainable-development-goals)
+  - [Sustainable Investment](#sustainable-investment)
   - [Knowledge Platforms](#knowledge-platforms)
   - [Data Catalogs and Platforms](#data-catalogs-and-platforms)
   - [Curated Lists](#curated-lists)
@@ -717,7 +716,7 @@ If you want to get started with topics like renewable energy, climate change, or
 
 ## Biosphere
 
-### Life Forms and Biodiversity
+### Nature and Biodiversity
 
 - [ECOSTRESS](https://ecostress.jpl.nasa.gov/) - The images acquired by ECOSTRESS are the most detailed temperature images of the surface ever acquired from space and can be used to measure the temperature of an individual farmers field and plants.
 - [carbon budget](https://github.com/wri/carbon-budget) - This model maps gross greenhouse gas emissions from forests between 2001 and 2015, gross carbon removals by forests between 2001, and the difference between them (net flux).
@@ -1144,6 +1143,7 @@ If you want to get started with topics like renewable energy, climate change, or
 - [rfasst](https://github.com/JGCRI/rfasst) - Estimation of a consistent range of adverse health and agricultural effects attributable to air pollution for a GCAM scenario.
 - [saqgetr](https://github.com/skgrange/saqgetr) - Import Air Quality Monitoring Data in a Fast and Easy Way.
 - [Ozone](https://github.com/Milind220/Ozone) - An open-source package to easily obtain real-time, historical, or forecasted air quality data for anywhere in the world.
+- [Critical Asset Management System](https://github.com/CriticalAssetManagement/CAMS) - An open-source project for good. Helping nations, cities, and communities use local knowledge with cutting edge technology to become climate resilient.
 
 ### Water Supply
 
@@ -1328,7 +1328,16 @@ If you want to get started with topics like renewable energy, climate change, or
 - [OasisLMF](https://github.com/OasisLMF/OasisLMF) - An open source catastrophe modelling platform, free to use by anyone.
 
 
-## Business Development 
+## Sustainable Development
+
+### Sustainable Development Goals 
+- [open-sdg](https://github.com/open-sdg/open-sdg) - A platform for collecting and disseminating data for the Sustainable Development Goal global indicators.
+- [SustainBench](https://github.com/sustainlab-group/sustainbench) - Benchmarks for Monitoring the Sustainable Development Goals with Machine Learning.
+- [OSDG](https://github.com/osdg-ai/osdg-tool) -  Tool that assigns Sustainable Development Goals labels to your input.
+- [US Sustainable Development Goal indicators](https://github.com/GSA/sdg-indicators-usa) - U.S. National Reporting Platform for the Sustainable Development Goals.
+- [SDGIO](https://github.com/SDG-InterfaceOntology/sdgio) - The repository for the Sustainable Development Goals Interface Ontology.
+- [sdgindex](https://www.sdgindex.org/) - International Sustainable Development Reports.
+- [sdg-tracker.org](https://github.com/owid/sdg-tracker.org) - Sustainable Development Goals tracker website.
 
 ### Sustainable Investment 
 
@@ -1347,18 +1356,6 @@ If you want to get started with topics like renewable energy, climate change, or
 - [XDC Model](https://gitlab.com/xdc-model/xdc) - Enable users, or any intereted subject, to understand and familiarize with the basic concepts of the X-Degree Compatibility methodology.
 - [gfer](https://github.com/Yuanchao-Xu/gfer) - Designed for green finance and environmental risk research focused on data collecting and analyzing in green finance and environmental risk research and analysis.
 - [WikiRate](https://github.com/wikirate/wikirate) - Facilitates research and analysis on complex topics in collaboration with partners, to make ESG data open, comparable and useful for all.
-
-
-## Miscellaneous
-
-### Sustainable Development Goals 
-- [open-sdg](https://github.com/open-sdg/open-sdg) - A platform for collecting and disseminating data for the Sustainable Development Goal global indicators.
-- [SustainBench](https://github.com/sustainlab-group/sustainbench) - Benchmarks for Monitoring the Sustainable Development Goals with Machine Learning.
-- [OSDG](https://github.com/osdg-ai/osdg-tool) -  Tool that assigns Sustainable Development Goals labels to your input.
-- [US Sustainable Development Goal indicators](https://github.com/GSA/sdg-indicators-usa) - U.S. National Reporting Platform for the Sustainable Development Goals.
-- [SDGIO](https://github.com/SDG-InterfaceOntology/sdgio) - The repository for the Sustainable Development Goals Interface Ontology.
-- [sdgindex](https://www.sdgindex.org/) - International Sustainable Development Reports.
-- [sdg-tracker.org](https://github.com/owid/sdg-tracker.org) - Sustainable Development Goals tracker website.
 
 ### Knowledge Platforms
 - [Linux Foundation Energy Landscape](https://github.com/lf-energy/lfenergy-landscape) - This landscape is intended as a map to explore the open source projects in the energy sector, and also shows the member companies of the LF Energy Foundation.
