@@ -1338,6 +1338,8 @@ If you want to get started with topics like renewable energy, climate change, or
 - [SDGIO](https://github.com/SDG-InterfaceOntology/sdgio) - The repository for the Sustainable Development Goals Interface Ontology.
 - [sdgindex](https://www.sdgindex.org/) - International Sustainable Development Reports.
 - [sdg-tracker.org](https://github.com/owid/sdg-tracker.org) - Sustainable Development Goals tracker website.
+- [SDGmapR](https://github.com/CMUSustainability/SDGmapR) - R functions and datasets related to the mapping of text to the United Nations 17 Sustainable Development Goals.
+
 
 ### Sustainable Investment 
 
@@ -1360,8 +1362,6 @@ If you want to get started with topics like renewable energy, climate change, or
 ### Knowledge Platforms
 - [Linux Foundation Energy Landscape](https://github.com/lf-energy/lfenergy-landscape) - This landscape is intended as a map to explore the open source projects in the energy sector, and also shows the member companies of the LF Energy Foundation.
 - [Appropedia](https://www.appropedia.org/Welcome_to_Appropedia) - Shares knowledge to build rich, sustainable lives.
-- [GlobalWindAtlas](https://globalwindatlas.info/) - Immediately start exploring windy areas.
-- [GlobalSolarAtlas](https://globalsolaratlas.info/) - Start exploring solar potential.
 - [Open Hardware Observatory](https://en.oho.wiki/wiki/Home) - Search engine and assessment platform for sustainable open hardware.
 - [Open Source Ecology](https://www.opensourceecology.org/) - Developing open source industrial machines that can be made for a fraction of commercial costs, and sharing the designs for free.
 - [ProjectDrawdown](https://github.com/ProjectDrawdown/solutions) - The mission of Project Drawdown is to help the world reach "Drawdown"— the point in the future when levels of greenhouse gases in the atmosphere stop climbing and start to steadily decline, thereby stopping catastrophic climate change — as quickly, safely, and equitably as possible.
@@ -1369,7 +1369,6 @@ If you want to get started with topics like renewable energy, climate change, or
 - [Climatescape](https://climatescape.org/) - Discover the organizations solving climate change.
 - [Airminers](http://www.airminers.org/) - The index of companies and projects mining carbon from the air for entrepreneurs, researchers, and funders to explore opportunities in carbon dioxide.
 - [ENVO](https://github.com/EnvironmentOntology/envo) - A community-driven ontology for the representation of environments.
-- [Global Fishing Watch](https://globalfishingwatch.org/) - We use cutting-edge technology to visualise, track and share data about global fishing activity in near real-time and for free.
 - [Open Climate Knowledge](https://github.com/petermr/climate) - An open research project for data mining Open Access papers related to Climate Change.
 - [OpenClimate](https://github.com/YaleOpenLab/openclimate-demo) - An open source initiative exploring the application of distributed ledger technology and other emerging technologies, such as IoT, big data and machine learning, to the challenge of helping the world keep a transparent climate accounting system towards the climate targets.
 - [ModularSensors](https://github.com/EnviroDIY/ModularSensors) - This Arduino library gives environmental sensors a common interface of functions for use with Arduino-compatible dataloggers.
@@ -1384,10 +1383,12 @@ If you want to get started with topics like renewable energy, climate change, or
 - [Salish Sea Wiki](https://salishsearestoration.org/) - A wiki oriented around human systems and ecological restoration (usually riparian / watershed) for the Salish Sea area (Northwestern US & BC Canada).
 - [Justice40 Tool](https://github.com/usds/justice40-tool) - A tool to identify disadvantaged communities due to environmental, socioeconomic and health burdens.
 - [Net Zero Tracker](https://zerotracker.net/) - Create the definitive global resource for collating, assessing and presenting the scale and quality of net zero pledges across nationals, sub-nationals, companies and other entities.
-- [SDGmapR](https://github.com/CMUSustainability/SDGmapR) - R functions and datasets related to the mapping of text to the United Nations 17 Sustainable Development Goals.
 
 
 ### Data Catalogs and Platforms
+- [Global Fishing Watch](https://globalfishingwatch.org/) - We use cutting-edge technology to visualise, track and share data about global fishing activity in near real-time and for free.
+- [GlobalWindAtlas](https://globalwindatlas.info/) - Immediately start exploring windy areas.
+- [GlobalSolarAtlas](https://globalsolaratlas.info/) - Start exploring solar potential.
 - [Food and Agriculture Organization Map Catalog](https://data.apps.fao.org/) - Allows to easily share geographically referenced thematic information between different organizations.
 - [The Subak Data Catalogue](https://data.climatesubak.org/) - Exists to make climate data more discoverable, more trusted and more connected.
 - [EEA geospatial data catalogue](https://github.com/eea/geonetwork-eea) - Discover and access easily the geospatial data catalogue of the European Environment Agency.
@@ -1416,6 +1417,7 @@ If you want to get started with topics like renewable energy, climate change, or
 - [Planetary Computer Data Catalog](https://github.com/microsoft/PlanetaryComputerDataCatalog) - Combines a multi-petabyte catalog of global environmental data with intuitive APIs and a flexible scientific environment.
 - [Global Energy Monitor](https://globalenergymonitor.org/) - Studies the evolving international energy landscape, creating databases, reports, and interactive tools that enhance understanding.
 - [STAC Index](https://github.com/stac-utils/stac-index) - Find STAC Catalogs, Collections, APIs, Software and Tools.
+- [Eumap](https://gitlab.com/geoharmonizer_inea/eumap) - Comprises environmental, land cover, terrain, climatic, soil and vegetation layers covering the continental Europe at relatively fine spatial resolutions.
 
 ### Curated Lists
 - [Datasets APIs and open source projects related to Climate Change](https://github.com/KKulma/climate-change-data) - A curated list of APIs, open data and ML/AI projects on climate change.
