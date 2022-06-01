@@ -1264,6 +1264,7 @@ If you want to get started with topics like renewable energy, climate change, or
 - [Soil Erosion Watch](https://github.com/SoilWatch/soil-erosion-watch) - A Google Earth Engine App to explore the state of the world's degraded soils.
 - [Land Matrix](https://github.com/sinnwerkstatt/landmatrix) - Independent global land monitoring initiative that promotes transparency & accountability in decisions over large-scale land acquisitions.
 - [SITS](https://github.com/e-sensing/sits) - Enables users to apply machine learning techniques for classifying image time series obtained from earth observation data cubes.
+- [iSDAsoil](https://www.isda-africa.com/isdasoil/) - Open access soil property map with 30m resolution for Africa.
 
 
 ### Agriculture and Nutrition
@@ -1315,7 +1316,6 @@ If you want to get started with topics like renewable energy, climate change, or
 - [Automatic field delineation](https://github.com/sentinel-hub/field-delineation) - Generate automatic contours for agricultural parcels, given Sentinel-2 images.
 
 ### Natural Hazard and Poverty
-
 - [Flood Mapping](https://github.com/mikejohnson51/FloodMapping) - Flood forecasting via the National Water Model.
 - [GLOCOFFS](https://github.com/WPringle/GLOCOFFS) - An ADCIRC-based global storm tide modeling system providing real-time forecasts of coastal flooding.
 - [ML4Floods](https://github.com/spaceml-org/ml4floods) - An ecosystem of data, models and code pipelines to tackle flooding with machine learning.
@@ -1326,10 +1326,9 @@ If you want to get started with topics like renewable energy, climate change, or
 - [CanFlood](https://github.com/NRCan/CanFlood) - Flood Risk modelling toolbox for Canada.
 - [HYDRAFloods](https://github.com/Servir-Mekong/hydra-floods) - An open source Python application for downloading, processing, and delivering surface water maps derived from remote sensing data.
 - [OasisLMF](https://github.com/OasisLMF/OasisLMF) - An open source catastrophe modelling platform, free to use by anyone.
-
+- [CAMS](https://github.com/CriticalAssetManagement/CAMS) - Critical Asset Management and Disaster Resilience for Islands, Cities, and Communities.
 
 ## Sustainable Development
-
 ### Sustainable Development Goals 
 - [open-sdg](https://github.com/open-sdg/open-sdg) - A platform for collecting and disseminating data for the Sustainable Development Goal global indicators.
 - [SustainBench](https://github.com/sustainlab-group/sustainbench) - Benchmarks for Monitoring the Sustainable Development Goals with Machine Learning.
@@ -1342,7 +1341,6 @@ If you want to get started with topics like renewable energy, climate change, or
 
 
 ### Sustainable Investment 
-
 - [Integrated Valuation of Ecosystem Services and Tradeoffs](https://github.com/natcap/invest) - A family of tools for quantifying the values of natural capital in clear, credible, and practical ways.
 - [The REgional Model of INvestments and Development](https://github.com/remindmodel/remind) - A modular open source multi-regional model incorporating the economy, the climate system and a detailed representation of the energy sector.
 - [WHAT-IF](https://github.com/RaphaelPB/WHAT-IF) - Water, Hydropower, Agriculture Tool for Investment and Financing decision support tool.
