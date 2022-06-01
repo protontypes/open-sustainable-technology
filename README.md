@@ -1383,6 +1383,7 @@ If you want to get started with topics like renewable energy, climate change, or
 - [Salish Sea Wiki](https://salishsearestoration.org/) - A wiki oriented around human systems and ecological restoration (usually riparian / watershed) for the Salish Sea area (Northwestern US & BC Canada).
 - [Justice40 Tool](https://github.com/usds/justice40-tool) - A tool to identify disadvantaged communities due to environmental, socioeconomic and health burdens.
 - [Net Zero Tracker](https://zerotracker.net/) - Create the definitive global resource for collating, assessing and presenting the scale and quality of net zero pledges across nationals, sub-nationals, companies and other entities.
+- [Credible Goals Database](https://www.embeddingproject.org/goals-database) - A public goals database containing leading sustainability goals and commitments set by large companies globally.
 
 
 ### Data Catalogs and Platforms
