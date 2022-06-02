@@ -58,3 +58,4 @@ hide:
 - [mebioda](https://github.com/naturalis/mebioda) - This repository contains materials for the MSc course Methods in Biodiversity Analysis.
 - [LP DAAC E-Learning](https://lpdaac.usgs.gov/resources/e-learning/) - Frequently updated presentations, webinars, tutorials, and video tips on accessing, managing, and processing LP DAAC data using a variety of software, web applications, custom tools, and scripts.
 - [Copernicus Training](https://github.com/ecmwf-projects/copernicus-training) - Data tutorials for the Copernicus Climate Change and Atmosphere Monitoring Services.
+- [Africa Soil and Agronomy Data Cube](https://gitlab.com/openlandmap/africa-soil-and-agronomy-data-cube) - Accessing and using soil and agronomy data for Africa.
