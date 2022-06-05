@@ -11,14 +11,13 @@ If you just want to give a hint about a missing project, send an email at [tobia
   <img width="60%" src="https://contrib.rocks/image?repo=protontypes/open-sustainable-technology" />
 </a>
 
-## What criteria must my project meet to be considered?
+## What criteria must a project meet to be listed?
 * The project must comply as closely as possible with the [guideline](#guideline).
 * You need to show that others beyond the project's main developers are using the project. Good indicators are issues or pull requests from external users.
 * Your project should be structured and documented in such a way that it can be reused and extended by others.
 * Larger parts of the project are published under an [open source license](https://choosealicense.com/).
 
 ## Contribute to the list  
-* Every new project on the list needs to be a new pull request.     
 * Create a fork of awesome-sustainable-technology.       
 * Insert the project into one of the categories of your fork. We can discuss later on in the 'Pull Request' comments whether another category fits better or we need to open a new one.     
 * Add your project in the following format:              
