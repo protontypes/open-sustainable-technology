@@ -59,3 +59,4 @@ hide:
 - [LP DAAC E-Learning](https://lpdaac.usgs.gov/resources/e-learning/) - Frequently updated presentations, webinars, tutorials, and video tips on accessing, managing, and processing LP DAAC data using a variety of software, web applications, custom tools, and scripts.
 - [Copernicus Training](https://github.com/ecmwf-projects/copernicus-training) - Data tutorials for the Copernicus Climate Change and Atmosphere Monitoring Services.
 - [Africa Soil and Agronomy Data Cube](https://gitlab.com/openlandmap/africa-soil-and-agronomy-data-cube) - Accessing and using soil and agronomy data for Africa.
+- [Systems' Engineering for Energy Efficiency](http://jfmay.gitlab.io/systemtechnik-fuer-energieeffizienz/) - A Python course on Systems engineering for energy efficiency in German within the Master of Electrical Engineering and Master of Renewable Energy at the Cologne University of Applied Sciences.
