@@ -53,7 +53,7 @@ If you want to get started with topics like renewable energy, climate change, or
   - [Sustainable Development Goals](#sustainable-development-goals)
   - [Sustainable Investment](#sustainable-investment)
   - [Knowledge Platforms](#knowledge-platforms)
-  - [Data Catalogs and Platforms](#data-catalogs-and-platforms)
+  - [Data Catalogs](#data-catalogs)
   - [Curated Lists](#curated-lists)
 - [Contributors](#contributors)
 - [Artwork and License](#artwork-and-license)
@@ -1391,7 +1391,7 @@ If you want to get started with topics like renewable energy, climate change, or
 - [Digital Public Goods](https://github.com/DPGAlliance/publicgoods-candidates) - Accelerate the attainment of the sustainable development goals in low- and middle-income countries by facilitating the discovery, development, use of, and investment in digital public goods.
 
 
-### Data Catalogs and Maps
+### Data Catalogs
 
 - [Global Fishing Watch](https://globalfishingwatch.org/) - We use cutting-edge technology to visualise, track and share data about global fishing activity in near real-time and for free.
 - [GlobalWindAtlas](https://globalwindatlas.info/) - Immediately start exploring windy areas.
