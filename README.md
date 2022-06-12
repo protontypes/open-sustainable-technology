@@ -822,7 +822,8 @@ If you want to get started with topics like renewable energy, climate change, or
 - [gfcanalysis](https://github.com/azvoleff/gfcanalysis) - Tools for working with Global Forest Change dataset.
 - [FIREDpy](https://github.com/earthlab/firedpy) - Classifying fire events from the Collection 6 MODIS Burned Area Product.
 - [BioPAL](https://github.com/BioPAL/BioPAL) - The BIOMASS Product Algorithm Laboratory hosts official tools for processing and analysing ESA's BIOMASS mission data.
-- [phenofit](https://github.com/eco-hydro/phenofit/) - A state-of-the-art remote sensing vegetation phenology extraction package
+- [phenofit](https://github.com/eco-hydro/phenofit/) - A state-of-the-art remote sensing vegetation phenology extraction package.
+- [rnpn](https://github.com/usa-npn/rnpn) - R client for interacting with the USA National Phenology Network data web services.
 
 
 ### Ice and Poles
