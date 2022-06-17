@@ -1345,6 +1345,7 @@ If you want to get started with topics like renewable energy, climate change, or
 - [sdgindex](https://www.sdgindex.org/) - International Sustainable Development Reports.
 - [sdg-tracker.org](https://github.com/owid/sdg-tracker.org) - Sustainable Development Goals tracker website.
 - [SDGmapR](https://github.com/CMUSustainability/SDGmapR) - R functions and datasets related to the mapping of text to the United Nations 17 Sustainable Development Goals.
+- [Europe Sustainable Development ReportS](https://eu-dashboards.sdgindex.org/) - Track the progress of the European Union and European Countries towards the Sustainable Development Goals.
 
 
 ### Sustainable Investment 
