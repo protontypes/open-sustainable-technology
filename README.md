@@ -252,7 +252,6 @@ If you want to get started with topics like renewable energy, climate change, or
 - [Open Energy System Models](https://en.wikipedia.org/wiki/Open_energy_system_models) - Used to explore future energy systems and are often applied to questions involving energy and climate policy.
 - [Open Energy System Databases](https://en.wikipedia.org/wiki/Open_energy_system_databases) - Employ open data methods to collect, clean, and republish energy-related datasets for open use.
 - [Open Models](https://wiki.openmod-initiative.org/wiki/Open_Models) - This page lists energy models published under open source licenses.
-- [GCAM](https://github.com/JGCRI/gcam-core) - A dynamic-recursive model with technology-rich representations of the economy, energy sector, land use and water linked to a climate model that can be used to explore climate change mitigation policies including carbon taxes, carbon trading, regulations and accelerated deployment of energy technology.
 - [System Advisor Model](https://github.com/NREL/SAM) - A simulation program for electricity generation projects. It has models for different kinds of renewable energy systems and financial models for residential, commercial, and utility-scale projects.
 - [openTEPES](https://github.com/IIT-EnergySystemModels/openTEPES) - Determines the investment plans of new facilities (generators, ESS and lines) for supplying the forecasted demand at minimum cost.
 - [PowerGenome](https://github.com/PowerGenome/PowerGenome) - A tool to quickly and easily create inputs for power systems models.
@@ -1036,7 +1035,6 @@ If you want to get started with topics like renewable energy, climate change, or
 - [climatedataguide](https://climatedataguide.ucar.edu/) - Search and access 212 datasets covering the Atmosphere, Ocean, Land and more. Explore climate indices, reanalyses and satellite data and understand their application to climate model metrics.
 - [chirps](https://github.com/ropensci/chirps) - A quasi-global high-resolution rainfall data set, which incorporates satellite imagery and in-situ station data to create gridded rainfall time series for trend analysis and seasonal drought monitoring.
 - [pylandtemp](https://github.com/pylandtemp/pylandtemp) - Global land surface temperature and emissivity from NASA's Landsat satellite images.
-- [GHCN](https://www.ncdc.noaa.gov/data-access/land-based-station-data/land-based-datasets/global-historical-climatology-network-ghcn) - An observations database from meteorologic stations around the globe. Daily and monthly resolution data are available with the longest records up to 175 years.
 - [CRU TS](https://crudata.uea.ac.uk/cru/data/hrg/) - The gridded archive of the Climatic Research Unit (University of East Anglia) and NCAS. The dataset was derived by the interpolation of monthly climate observations from extensive networks of weather stations.
 - [E-OBS](https://www.ecad.eu/download/ensembles/download.php) - The detailed gridded observations data archive for the whole of Europe.
 - [ERA-NUTS](https://github.com/energy-modelling-toolkit/era-nuts-code) - A set of time-series of meteorological variables based on Copernicus Climate Change Service ERA5 reanalysis.
@@ -1117,7 +1115,7 @@ If you want to get started with topics like renewable energy, climate change, or
 - [LPJmL](https://gitlab.pik-potsdam.de/lpjml/LPJmL) - A process-based model that simulates climate and land-use change impacts on the terrestrial biosphere, the water and carbon cycle and on agricultural production.
 - [ENGAGE](https://github.com/iiasa/ENGAGE-netzero-analysis) - Source code for figure generation and analysis of the ENGAGE netzero scenario analysis.
 - [pyam](https://github.com/IAMconsortium/pyam) - A Python package for data-wrangling, analysis and visualization of integrated-assessment scenarios and energy systems modeling results.
-
+- [GCAM](https://github.com/JGCRI/gcam-core) - A dynamic-recursive model with technology-rich representations of the economy, energy sector, land use and water linked to a climate model that can be used to explore climate change mitigation policies including carbon taxes, carbon trading, regulations and accelerated deployment of energy technology.
 
 
 ## Natural Resources
