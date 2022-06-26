@@ -42,7 +42,13 @@ If you want to get started with topics like renewable energy, climate change, or
   - [Ice and Poles](#ice-and-poles)
   - [Salt and Fresh Water](#salt-and-fresh-water)
   - [Atmosphere](#atmosphere)
-  - [Climate and Earth Science](#climate-and-earth-science)
+- [Climate and Earth Science](#climate-and-earth-science)
+  - [Earth and Climate Modeling](#earth-and-climate-modeling)
+  - [Radiative Transfer](#radiative-transfer)
+  - [Earth Observation and Climate Monitoring](#earth-observation-and-climate-monitoring)
+  - [Meteorological Observation](#meteorological-observation) 
+  - [Climate Data Processing and Access](#climate-data-processing-and-access)
+  - [Integrated Assessment](#integrated-assessment)
 - [Natural Resources](#natural-resources)
   - [Air Quality](#air-quality)
   - [Water Supply](#water-supply)
@@ -53,7 +59,7 @@ If you want to get started with topics like renewable energy, climate change, or
   - [Sustainable Development Goals](#sustainable-development-goals)
   - [Sustainable Investment](#sustainable-investment)
   - [Knowledge Platforms](#knowledge-platforms)
-  - [Data Catalogs](#data-catalogs)
+  - [Data Catalogs and Interfaces](#data-catalogs-and-interfaces)
   - [Curated Lists](#curated-lists)
 - [Contributors](#contributors)
 - [Artwork and License](#artwork-and-license)
@@ -311,7 +317,6 @@ If you want to get started with topics like renewable energy, climate change, or
 - [MVS](https://github.com/rl-institut/multi-vector-simulator) - The multi-vector simulator allows the evaluation of local sector-coupled energy systems that include the energy carriers electricity, heat and/or gas.
 - [PowNet](https://github.com/kamal0013/PowNet) - A least-cost optimization model for simulating the Unit Commitment and Economic Dispatch of large-scale (regional to country) power systems.
 - [OpenIPSL](https://github.com/OpenIPSL/OpenIPSL) - A library of power system component models written in the Modelica language that can be used for power system dynamic analysis, such as phasor time-domain simulations.
-- [pyam](https://github.com/IAMconsortium/pyam) - A Python package for data-wrangling, analysis and visualization of integrated-assessment scenarios and energy systems modeling results.
 - [RAMP](https://github.com/RAMP-project/RAMP) - A bottom-up stochastic model for the generation of high-resolution multi-energy profiles, conceived for application in contexts where only rough information about users' behaviour are obtainable.
 - [POMATO](https://github.com/richard-weinhold/pomato) - An easy to use tool for the comprehensive analysis of the modern electricity market.
 - [PowerGAMA](https://bitbucket.org/harald_g_svendsen/powergama/wiki/Home) - A lightweight simulation tool for high level analyses of renewable energy integration in large power systems.
@@ -628,6 +633,8 @@ If you want to get started with topics like renewable energy, climate change, or
 - [Let's Wait Awhile](https://github.com/dos-group/lets-wait-awhile) - Simulator and datasets to research on carbon-aware temporal workload shifting.
 - [elmada](https://github.com/DrafProject/elmada) - Dynamic electricity carbon emission factors and prices for Europe.
 - [Environmental Footprint Data](https://github.com/Boavizta/environmental-footprint-data) - Aims to reference as much data as possible to help organizations to evaluate the environmental footprint of their information systems, applications and digital services.
+- [UNFCCC emissions data](https://github.com/openclimatedata/unfccc-detailed-data-by-party) - UNFCCC Emissions data from the Detailed Data By Party interface.
+
 
 
 ### Carbon Capture and Removel
@@ -860,6 +867,8 @@ If you want to get started with topics like renewable energy, climate change, or
 
 ### Salt and Fresh Water
 
+- [Raven](https://github.com/Ouranosinc/raven) - Made to help scientists run hydrological modeling experiments with climate change projections.
+- [NEMO](https://www.nemo-ocean.eu/) - A state-of-the-art modeling framework for research activities and forecasting services in ocean and climate sciences, developed in a sustainable way by a European consortium.
 - [Bergen Layered Ocean Model](https://github.com/NorESMhub/BLOM) - Employs an isopycnic vertical coordinate, with near-isopycnic interior layers and variable density layers in the surface mixed boundary layer.
 - [Oceananigans.jl](https://github.com/CliMA/Oceananigans.jl) - Fast and friendly fluid dynamics on CPUs and GPUs.
 - [NEMO](https://forge.ipsl.jussieu.fr/nemo/wiki/Users) - Nucleus for European Modelling of the Ocean is a state-of-the-art modeling framework for research activities and forecasting services in ocean and climate sciences, developed in a sustainable way by a European consortium since 2008.
@@ -922,16 +931,18 @@ If you want to get started with topics like renewable energy, climate change, or
 - [PyCO2SYS](https://github.com/mvdh7/PyCO2SYS) - Marine carbonate system calculations in Python.
 - [Pastas](https://github.com/pastas/pastas) - An open-source Python framework for the analysis of groundwater time series.
 - [river-dl](https://github.com/USGS-R/river-dl) - Deep learning model for predicting environmental variables on river systems.
+- [VIC](https://github.com/UW-Hydro/VIC) - A macroscale hydrologic model that solves full water and energy balances.
+- [Badlands](https://github.com/badlands-model/badlands) - Basin and Landscape Dynamics is a long-term surface evolution model built to simulate landscape development, sediment transport and sedimentary basins formation from upstream regions down to marine environments.
+- [qgs](https://github.com/Climdyn/qgs) - Models the dynamics of a 2-layer quasi-geostrophic channel atmosphere on a beta-plane, coupled to a simple land or shallow-water ocean component.
+- [leaflet-velocity](https://github.com/danwild/leaflet-velocity) - Create a canvas visualization layer for direction and intensity of arbitrary velocities (e.g. wind, ocean current).
 
 
 ### Atmosphere
 
-- [RTE+RRTMGP](https://github.com/earth-system-radiation/rte-rrtmgp) - A set of codes for computing radiative fluxes in planetary atmospheres.
 - [pyglow](https://github.com/timduly4/pyglow) - A Python module that wraps several upper atmosphere climatological models written in FORTRAN.
 - [OasisPiWind](https://github.com/OasisLMF/OasisPiWind) - PiWind is a wind storm model for a small area of the UK.
 - [Massive-Parallel Trajectory Calculations](https://github.com/slcs-jsc/mptrac) - A Lagrangian particle dispersion model for the analysis of atmospheric transport processes in the free troposphere and stratosphere.
 - [ICAR](https://github.com/NCAR/icar) - A simplified atmospheric model designed primarily for climate downscaling, atmospheric sensitivity tests, and hopefully educational uses.
-- [LBLRTM](https://github.com/AER-RC/LBLRTM) - Line-By-Line Radiative Transfer Model is an accurate and efficient line-by-line radiative transfer model derived from the Fast Atmospheric Signature Code.
 - [splitr](https://github.com/rich-iannone/splitr) - We can determine, from one or more receptor sites, where arriving air masses originated.
 - [PyCHAM](https://github.com/simonom/PyCHAM) - CHemistry with Aerosol Microphysics in Python box model for Windows, Linux and Mac.
 - [maja](https://github.com/CNES/MAJA) - An atmospheric correction and cloud screening software.
@@ -952,14 +963,15 @@ If you want to get started with topics like renewable energy, climate change, or
 - [RRTMGP.jl](https://github.com/CliMA/RRTMGP.jl) - A Julia implementation of Rapid and accurate Radiative Transfer Model for General Circulation Models.
 - [met.3D](https://gitlab.com/wxmetvis/met.3d) - Interactive three-dimensional visualization of numerical ensemble weather predictions and similar numerical atmospheric model datasets.
 - [pyvortex](https://github.com/pankajkarman/pyvortex) - Equivalent Latitude and polar vortex edge calculation using Nash criteria.
+- [gcpy](https://github.com/geoschem/gcpy) - A Python-based toolkit containing useful functions for working specifically with the GEOS-Chem model of atmospheric chemistry and composition.
 
-### Climate and Earth Science
+## Climate and Earth Science
 
-- [VIC](https://github.com/UW-Hydro/VIC) - A macroscale hydrologic model that solves full water and energy balances.
-- [global-workflow](https://github.com/NOAA-EMC/global-workflow) - Global Superstructure/Workflow currently supporting the Finite-Volume on a Cubed-Sphere Global Forecast System.
-- [sedproxy](https://github.com/EarthSystemDiagnostics/sedproxy) - An R package for modeling sediment archived climate proxy records.
+### Earth and Climate Modeling 
 - [ESMValTool](https://github.com/ESMValGroup/ESMValTool) - A community diagnostic and performance metrics tool for routine evaluation of Earth system models in World Climate Research Programme.
 - [The Flexible Modeling System](https://github.com/NOAA-GFDL/FMS) - A software framework for supporting the efficient development, construction, execution, and scientific interpretation of atmospheric, oceanic, and climate system models.
+- [global-workflow](https://github.com/NOAA-EMC/global-workflow) - Global Superstructure/Workflow currently supporting the Finite-Volume on a Cubed-Sphere Global Forecast System.
+- [sedproxy](https://github.com/EarthSystemDiagnostics/sedproxy) - An R package for modeling sediment archived climate proxy records.
 - [pangeo](https://github.com/pangeo-data/pangeo) - A community platform for Big Data geoscience.
 - [CMEPS](https://github.com/ESCOMP/CMEPS) - The Community Mediator for Earth Prediction Systems (CMEPS) is a NUOPC-compliant Mediator component used for coupling Earth system model component.
 - [E3SM](https://github.com/E3SM-Project/E3SM) - A state-of-the-art fully coupled model of the Earth's climate including important biogeochemical and cryospheric processes.
@@ -967,20 +979,17 @@ If you want to get started with topics like renewable energy, climate change, or
 - [MDTF-diagnostics](https://github.com/NOAA-GFDL/MDTF-diagnostics) - Analysis framework and collection of process-oriented diagnostics for weather and climate simulations.
 - [The Community Earth System Model](https://github.com/ESCOMP/CESM) - Composed of separate models simultaneously simulating the Earth's atmosphere, ocean, land, river run-off, land-ice, and sea-ice, plus one central coupler/moderator component, it allows researchers to conduct fundamental research into the Earth's past, present, and future climate states.
 - [ClimateBase.jl](https://github.com/JuliaClimate/ClimateBase.jl) - A Julia package offering basic functionality for analyzing data that are typically in the form used by climate sciences.
-- [canadaHCD](https://github.com/gavinsimpson/canadaHCD/) - Access Canadian Historical Climate Data from R.
-- [climatedataguide](https://climatedataguide.ucar.edu/) - Search and access 212 datasets covering the Atmosphere, Ocean, Land and more. Explore climate indices, reanalyses and satellite data and understand their application to climate model metrics.
-- [Climate_Indices](https://github.com/monocongo/climate_indices) - Contains Python implementations of various climate index algorithms which provide a geographical and temporal picture of the severity of precipitation and temperature anomalies useful for climate monitoring and research.
 - [CLIMA-Land](https://github.com/CliMA/Land) - Everything within the Land model (Soil Plant Atmosphere Module, Land Hydrology, etc).
-- [Eradiate](https://github.com/eradiate/eradiate) - A next-generation radiative transfer model for Earth observation applications.
 - [TECA](https://github.com/LBL-EESA/TECA) - The Toolkit for Extreme Climate Analysis, contains a collection of climate anlysis algorithms targetted at extreme event detection and analysis.
+- [Climate_Indices](https://github.com/monocongo/climate_indices) - Contains Python implementations of various climate index algorithms which provide a geographical and temporal picture of the severity of precipitation and temperature anomalies useful for climate monitoring and research.
 - [The Global Environmental Multiscale Model](https://gitlab.com/eccc/gem/gem) - An integrated forecasting and data assimilation system developed by the Atmospheric Numerical Prediction Research Section, Meteorological Research Division, of Environment and Climate Change Canada.
 - [ClimateMachine.jl](https://github.com/CliMA/ClimateMachine.jl) - Climate Machine: an Earth System Model that automatically learns from data.
 - [atlas](https://github.com/ecmwf/atlas) - A library for numerical weather prediction and climate modeling.
 - [MOM6](https://github.com/NOAA-GFDL/MOM6) - A numerical representation of the ocean fluid with applications from the process scale to the planetary circulation scale.
 - [MOM5](https://github.com/mom-ocean/MOM5) - A numerical ocean model based on the hydrostatic primitive equations. Development of the model is managed through this GitHub site.
+- [CMIP6 Datasets](https://pcmdi.github.io/CMIP6/) - Provides an access to the outputs of the current phase 6 of the Coupled Model Intercomparison Project (CMIP). CMIP6 global climate models give a base to (almost) all we may know for the climate of the future.
 - [hector](https://github.com/JGCRI/hector) - An open source, object-oriented, simple global climate carbon-cycle model.
 - [pyhector](https://github.com/openclimatedata/pyhector) - A Python interface for the simple global climate carbon-cycle model Hector.
-- [Apache Open Climate Workbench](https://github.com/apache/attic-climate) - An effort to develop software that performs climate model evaluations using model outputs from a variety of different sources.
 - [NorESM](https://github.com/NorESMhub/NorESM) - Norwegian Earth System Model and Documentation.
 - [CliMT](https://github.com/CliMT/climt) - A Toolkit for building Earth system models in Python.
 - [climlab](https://github.com/brian-rose/climlab) - A Python package for process-oriented climate modeling.
@@ -989,88 +998,110 @@ If you want to get started with topics like renewable energy, climate change, or
 - [ClimateMARGO.jl](https://github.com/ClimateMARGO/ClimateMARGO.jl) - A Julia implementation of MARGO, an idealized framework for optimization of climate change control strategies.
 - [ClimateTools.jl](https://github.com/JuliaClimate/ClimateTools.jl) - A collection of commonly-used tools in climate science. Basics of climate field analysis are covered, with some forays into exploratory techniques associated with climate scenarios design.
 - [MetSim](https://github.com/UW-Hydro/MetSim) - A meteorological simulator and forcing disaggregator for hydrologic modeling and climate applications.
-- [DICE.jl](https://github.com/Libbum/DICE.jl) - The Dynamic Integrated model of Climate and the Economy model family are a popular and capable type of simple Integrated Assessment Model of climate change economics pioneered by William Nordhaus.
-- [LPJmL](https://gitlab.pik-potsdam.de/lpjml/LPJmL) - A process-based model that simulates climate and land-use change impacts on the terrestrial biosphere, the water and carbon cycle and on agricultural production.
-- [ipcc_sr15_scenario_analysis](https://github.com/iiasa/ipcc_sr15_scenario_analysis) - Scenario analysis notebooks for the IPCC Special Report on Global Warming of 1.5°C.
-- [Raven](https://github.com/Ouranosinc/raven) - Made to help scientists run hydrological modeling experiments with climate change projections.
-- [NEMO](https://www.nemo-ocean.eu/) - A state-of-the-art modeling framework for research activities and forecasting services in ocean and climate sciences, developed in a sustainable way by a European consortium.
 - [ESMF](https://github.com/esmf-org/esmf) - The Earth System Modeling Framework is a suite of software tools for developing high-performance, multi-component Earth science modeling applications.
 - [RegESM](https://github.com/uturuncoglu/RegESM) - Regional Earth System Model is designed to be a state-of-art coupled modeling system that allows using variety of different earth system model components as well as their integration with co-processing tool.
-- [gospl](https://github.com/Geodels/gospl) - Providing a scalable parallelised Python-based numerical model to simulate landscapes and basins reconstruction at global scale.
 - [gis4wrf](https://github.com/GIS4WRF/gis4wrf) - A free and open source QGIS plug-in to help researchers and practitioners with their Advanced Research Weather Research and Forecasting modeling workflows.
 - [MPAS](https://github.com/MPAS-Dev/MPAS-Model) - The Model for Prediction Across Scales is a collaborative project for developing atmosphere, ocean, and other earth-system simulation components for use in climate, regional climate, and weather studies.
-- [esmtools](https://github.com/bradyrx/esmtools) - A toolbox for Earth System Model analysis.
-- [Badlands](https://github.com/badlands-model/badlands) - Basin and Landscape Dynamics is a long-term surface evolution model built to simulate landscape development, sediment transport and sedimentary basins formation from upstream regions down to marine environments.
-- [qgs](https://github.com/Climdyn/qgs) - Models the dynamics of a 2-layer quasi-geostrophic channel atmosphere on a beta-plane, coupled to a simple land or shallow-water ocean component.
 - [pymt](https://github.com/csdms/pymt) - A Python toolkit for running and coupling Earth surface models.
-- [Landlab](https://github.com/landlab/landlab) - An open source Python package for numerical modeling of Earth surface dynamics.
 - [Dragonfly for Grasshopper](https://github.com/ladybug-tools/dragonfly-legacy) - Legacy dragonfly plugin for large-scale climate and urban heat island modeling.
-- [Juelich Rapid Spectral Simulation Code](https://github.com/slcs-jsc/jurassic) - The Juelich Rapid Spectral Simulation Code (JURASSIC) is a fast infrared radiative transfer model for the analysis of atmospheric remote sensing measurements.
-- [ARTS](https://github.com/atmtools/arts) - A radiative transfer model for the millimeter and sub-millimeter spectral range.
-- [Py6S](https://github.com/robintw/Py6S) - A Python interface to the 6S Radiative Transfer Model.
 - [pyOSOAA](https://github.com/fnemina/pyOSOAA) - A python interface for the Ocean Successive Orders with Atmosphere radiative transfer.
 - [ECRAD](https://github.com/ecmwf/ecrad) - A radiation scheme suitable for use in atmospheric weather and climate models.
-- [Acclimate](https://github.com/acclimate/acclimate) - An agent-based model for economic loss propagation.
-- [cf-conventions](https://github.com/cf-convention/cf-conventions) - The conventions for CF (Climate and Forecast) metadata are designed to promote the processing and sharing of files created with the NetCDF API.
-- [cf-python](https://github.com/NCAS-CMS/cf-python) - A CF-compliant Earth Science data analysis library.
+- [ClimateModels.jl](https://github.com/gaelforget/ClimateModels.jl) - Uniform interface to climate models of varying complexity and completeness.
+- [cmip56_forcing_feedback_ecs](https://github.com/mzelinka/cmip56_forcing_feedback_ecs) - Effective climate sensitivity, effective 2xCO2 radiative forcing, and radiative feedbacks for all CMIP5 and CMIP6 models that have published output from abrupt CO2 quadrupling experiments.
+- [ECMWF Reanalyses](https://www.ecmwf.int/en/forecasts/datasets/browse-reanalysis-datasets) - A collection of reanalysis datasets produced the European Centre for Medium-Range Weather Forecasts (ERA family).
+- [hn2016_falwa](https://github.com/csyhuang/hn2016_falwa) - A Python library for computing Finite-Amplitude Local Wave Activity from climate data.
+- [climpred](https://github.com/pangeo-data/climpred) - Aims to be the primary package used to analyze output from initialized dynamical forecast models, ranging from short-term weather forecasts to long-term climate forecasts.
+- [downscaleR](https://github.com/SantanderMetGroup/downscaleR) - An R package for empirical-statistical downscaling focusing on daily data and covering the most popular approaches (bias correction, Model Output Statistics, Perfect Prognosis) and techniques (e.g. quantile mapping, regression, analogs, neural networks).
+- [DeepDownscaling](https://github.com/SantanderMetGroup/DeepDownscaling) - Deep learning approaches for statistical downscaling in climate.
+- [Pymagicc](https://github.com/openscm/pymagicc) - A Python wrapper around the reduced complexity climate model. 
+- [climateforcing](https://github.com/chrisroadmap/climateforcing) - An incomplete toolbox of scripts and modules used for analysis of climate models and climate data.
+- [xgcm](https://github.com/xgcm/xgcm) - A Python package for analyzing general circulation model output data.
+- [MPAS-Analysis](https://github.com/MPAS-Dev/MPAS-Analysis) - Provides analysis for the MPAS components of ACME.
+
+
+### Radiative Transfer
+- [RadiativeTransfer.jl](https://github.com/RadiativeTransfer/RadiativeTransfer.jl) - A full end-to-end modular software suite for radiative transfer and related atmospheric analysis.
+- [libRadtran](http://www.libradtran.org/) - A collection of C and Fortran functions and programs for calculation of solar and thermal radiation in the Earth's atmosphere.
+- [ARTS](https://github.com/atmtools/arts) - A radiative transfer model for the millimeter and sub-millimeter spectral range.
+- [Py6S](https://github.com/robintw/Py6S) - A Python interface to the 6S Radiative Transfer Model.
+- [RTE+RRTMGP](https://github.com/earth-system-radiation/rte-rrtmgp) - A set of codes for computing radiative fluxes in planetary atmospheres.
+- [LBLRTM](https://github.com/AER-RC/LBLRTM) - Line-By-Line Radiative Transfer Model is an accurate and efficient line-by-line radiative transfer model derived from the Fast Atmospheric Signature Code.
+- [Eradiate](https://github.com/eradiate/eradiate) - A next-generation radiative transfer model for Earth observation applications.
+- [Juelich Rapid Spectral Simulation Code](https://github.com/slcs-jsc/jurassic) - The Juelich Rapid Spectral Simulation Code (JURASSIC) is a fast infrared radiative transfer model for the analysis of atmospheric remote sensing measurements.
+
+### Earth Observation and Climate Monitoring 
+
+- [ClimateSatellite.jl](https://github.com/JuliaClimate/ClimateSatellite.jl) - Julia package that downloads measurements and observational of climate satellite mission data.
+- [canadaHCD](https://github.com/gavinsimpson/canadaHCD/) - Access Canadian Historical Climate Data from R.
+- [climatedataguide](https://climatedataguide.ucar.edu/) - Search and access 212 datasets covering the Atmosphere, Ocean, Land and more. Explore climate indices, reanalyses and satellite data and understand their application to climate model metrics.
+- [chirps](https://github.com/ropensci/chirps) - A quasi-global high-resolution rainfall data set, which incorporates satellite imagery and in-situ station data to create gridded rainfall time series for trend analysis and seasonal drought monitoring.
+- [pylandtemp](https://github.com/pylandtemp/pylandtemp) - Global land surface temperature and emissivity from NASA's Landsat satellite images.
 - [GHCN](https://www.ncdc.noaa.gov/data-access/land-based-station-data/land-based-datasets/global-historical-climatology-network-ghcn) - An observations database from meteorologic stations around the globe. Daily and monthly resolution data are available with the longest records up to 175 years.
 - [CRU TS](https://crudata.uea.ac.uk/cru/data/hrg/) - The gridded archive of the Climatic Research Unit (University of East Anglia) and NCAS. The dataset was derived by the interpolation of monthly climate observations from extensive networks of weather stations.
 - [E-OBS](https://www.ecad.eu/download/ensembles/download.php) - The detailed gridded observations data archive for the whole of Europe.
-- [ECMWF Reanalyses](https://www.ecmwf.int/en/forecasts/datasets/browse-reanalysis-datasets) - A collection of reanalysis datasets produced the European Centre for Medium-Range Weather Forecasts (ERA family).
 - [ERA-NUTS](https://github.com/energy-modelling-toolkit/era-nuts-code) - A set of time-series of meteorological variables based on Copernicus Climate Change Service ERA5 reanalysis.
 - [NOAA PSL Reanalyses](https://psl.noaa.gov/data/gridded/reanalysis/index.html) - A public reanalysis collection of the NOAA Physical Sciences Laboratory (NCEP, NARR, 20th Century Reanalysis).
 - [MERRA- 2 Reanalysis](https://disc.sci.gsfc.nasa.gov/datasets?keywords=%22MERRA-2%22) - Produced by NASA Global Modeling and Assimilation Office (GMAO). Apart of the surface observations assimilates space-based ones as well.
-- [CMIP6 Datasets](https://pcmdi.github.io/CMIP6/) - Provides an access to the outputs of the current phase 6 of the Coupled Model Intercomparison Project (CMIP). CMIP6 global climate models give a base to (almost) all we may know for the climate of the future.
-- [Climate Watch](https://github.com/ClimateWatch-Vizzuality/climate-watch) - Offers open data, visualizations and analysis to help policymakers, researchers and other stakeholders gather insights on countries' climate progress.
-- [EarthEngine](https://earthengine.google.com/) - A planetary-scale platform for Earth science data & analysis.
-- [loadeR](https://github.com/SantanderMetGroup/loadeR) - An R package for climate data access building on the NetCDF-Java API.
-- [climate4R](https://github.com/SantanderMetGroup/climate4R) - A bundle of R packages for transparent climate data access, post-processing (including data collocation and bias correction / downscaling) and visualization.
-- [GSODR](https://github.com/ropensci/GSODR) - Global Surface Summary of the Day Weather Data Client for R.
+- [ForestGEO](https://github.com/forestgeo/Climate) - This public repository is a portal for climate data and information for ForestGEO sites.
+- [esa-climate-from-space](https://github.com/ubilabs/esa-climate-from-space) - The role of the Climate from Space application is to increase the visibility of the Climate Change Initiative programme and the role of ESA satellite data in climate science.
+- [pygac](https://github.com/pytroll/pygac) - A Python package to read and calibrate NOAA and Metop AVHRR GAC and LAC data.
+- [ecmwfr](https://github.com/bluegreen-labs/ecmwfr) - Provides easy access to the European Centre for Medium-Range Weather Forecasts web API services and Copernicus Climate Data Store from within R, matching and expanding upon the ECMWF Python tools.
+
+
+### Meteorological Observation
 - [stationaRy](https://github.com/rich-iannone/stationaRy) - Get hourly meteorological data from one of thousands of global stations.
 - [weathercan](https://github.com/ropensci/weathercan) - This package makes it easier to search for and download multiple months/years of historical weather data from the Environment and Climate Change Canada (ECCC) website.
-- [ForestGEO](https://github.com/forestgeo/Climate) - This public repository is a portal for climate data and information for ForestGEO sites.
-- [hn2016_falwa](https://github.com/csyhuang/hn2016_falwa) - A Python library for computing Finite-Amplitude Local Wave Activity from climate data.
+- [metR](https://github.com/eliocamp/metR) - Several functions and utilities that make R better for handling meteorological data in the tidy data paradigm.
+- [climate](https://github.com/bczernecki/climate) - The goal of the climate R package is to automatize downloading of meteorological and hydrological data from publicly available repositories.
+- [rdwd](https://github.com/brry/rdwd) - An R package to select, download and read climate data from the German Weather Service.
+
+
+### Climate Data Processing and Access
+- [cf-conventions](https://github.com/cf-convention/cf-conventions) - The conventions for CF (Climate and Forecast) metadata are designed to promote the processing and sharing of files created with the NetCDF API.
+- [cf-python](https://github.com/NCAS-CMS/cf-python) - A CF-compliant Earth Science data analysis library.
+- [xCDAT](https://github.com/xCDAT/xcdat) - An extension of xarray for climate data analysis on structured grids.
+- [ipcc_sr15_scenario_analysis](https://github.com/iiasa/ipcc_sr15_scenario_analysis) - Scenario analysis notebooks for the IPCC Special Report on Global Warming of 1.5°C.
+- [Geoclimate](https://github.com/orbisgis/geoclimate) - Geospatial processing toolbox for environmental and climate studies.
+- [Meteostat Python](https://github.com/meteostat/meteostat-python) - Access and analyze historical weather and climate data with Python.
+- [cmip6-downscaling](https://github.com/carbonplan/cmip6-downscaling) - Climate downscaling using CMIP6 data.
+- [weather-tools](https://github.com/google/weather-tools) - A series of command-line tools to make common data engineering tasks easier for researchers in climate and weather.
+- [Senses Toolkit](https://github.com/SensesProject/senses-toolkit) - Offers a range of modules to learn about and explore climate change scenarios.
+- [loadeR](https://github.com/SantanderMetGroup/loadeR) - An R package for climate data access building on the NetCDF-Java API.
+- [climate4R](https://github.com/SantanderMetGroup/climate4R) - A bundle of R packages for transparent climate data access, post-processing (including data collocation and bias correction / downscaling) and visualization.
+- [MeteoInfo](https://github.com/meteoinfo/MeteoInfo) - GIS and scientific computation environment for meteorological community.
+- [GSODR](https://github.com/ropensci/GSODR) - Global Surface Summary of the Day Weather Data Client for R.
+- [easyclimate](https://github.com/VeruGHub/easyclimate) - Easy access to high-resolution daily climate data for Europe.
+- [Climate categories](https://github.com/pik-primap/climate_categories) - Commonly used codes, categories, terminologies, and nomenclatures used in climate policy analysis in a nice Python package.
+- [OpenClimateGIS](https://github.com/NCPP/ocgis) - A set of geoprocessing and calculation tools for CF-compliant climate datasets.
+- [remote_climate_data](https://github.com/aaronspring/remote_climate_data) - A collection of remote climate data accessed via intake cached to disk.
+- [AR6-WG1-Data-Compilation](https://github.com/openscm/AR6-WG1-Data-Compilation) - Compiles the data into a uniform, csv-based data format following the standard established by the Integrated Assessment Modeling Consortium and used by IPCC WG3.
+- [IPCC AR6 Chapter 9 Figures](https://github.com/IPCC-WG1/Chapter-9) - Code and data for all figures from Chapter 9 of the IPCC AR6.
+- [icclim](https://github.com/cerfacs-globc/icclim) - Python library for climate indices and climate indicators calculation.
+- [DeepSphere](https://github.com/deepsphere/deepsphere-pytorch) - Learning on the sphere with a graph-based ConvNet.
+- [JuliaClimate Notebooks](https://juliaclimate.github.io/GlobalOceanNotebooks/) - Notebooks that show Julia packages related to climate working in concert.
+- [clisops](https://github.com/roocs/clisops) - Climate simulation operations.
 - [Climate Data Store Toolbox](https://cds.climate.copernicus.eu/toolbox/doc/index.html) - Dive into this wealth of information about the Earth's past, present and future climate.
 - [ATLAS](https://github.com/SantanderMetGroup/ATLAS) - Datasets, code and virtual workspace for the Climate Change ATLAS.
 - [xclim](https://github.com/Ouranosinc/xclim) - A library of derived climate variables, i.e. climate indicators, based on xarray.
 - [climpact](https://github.com/ARCCSS-extremes/climpact) - Calculate the ET-SCI climate extremes indices.
 - [PRISM](https://github.com/ropensci/prism) - Download data from the Oregon PRISM climate data project.
-- [OpenClimateGIS](https://github.com/NCPP/ocgis) - A set of geoprocessing and calculation tools for CF-compliant climate datasets.
-- [Climate-Change-Datasets](https://github.com/OpenFloodAI/Climate-Change-Datasets) - Here is a list of Climate Change Public Datasets.
-- [climpred](https://github.com/pangeo-data/climpred) - Aims to be the primary package used to analyze output from initialized dynamical forecast models, ranging from short-term weather forecasts to long-term climate forecasts.
-- [metR](https://github.com/eliocamp/metR) - Several functions and utilities that make R better for handling meteorological data in the tidy data paradigm.
-- [downscaleR](https://github.com/SantanderMetGroup/downscaleR) - An R package for empirical-statistical downscaling focusing on daily data and covering the most popular approaches (bias correction, Model Output Statistics, Perfect Prognosis) and techniques (e.g. quantile mapping, regression, analogs, neural networks).
 - [CliFlo](https://github.com/ropensci/clifro) - Easily download and visualise climate data from New Zealand's National Climate Database.
 - [hyfo](https://github.com/Yuanchao-Xu/hyfo) - Mainly focuses on data process and visualization in hydrology and climate forecasting.
-- [climate](https://github.com/bczernecki/climate) - The goal of the climate R package is to automatize downloading of meteorological and hydrological data from publicly available repositories.
-- [rdwd](https://github.com/brry/rdwd) - An R package to select, download and read climate data from the German Weather Service.
 - [rWBclimate](https://github.com/ropensci/rWBclimate) - An R interface for the World Bank climate data used in the World Bank climate knowledge portal.
-- [leaflet-velocity](https://github.com/danwild/leaflet-velocity) - Create a canvas visualization layer for direction and intensity of arbitrary velocities (e.g. wind, ocean current).
-- [gcpy](https://github.com/geoschem/gcpy) - A Python-based toolkit containing useful functions for working specifically with the GEOS-Chem model of atmospheric chemistry and composition.
 - [aospy](https://github.com/spencerahill/aospy) - A Python package for automated analysis and management of gridded climate data.
-- [xgcm](https://github.com/xgcm/xgcm) - A Python package for analyzing general circulation model output data.
-- [MPAS-Analysis](https://github.com/MPAS-Dev/MPAS-Analysis) - Provides analysis for the MPAS components of ACME.
-- [MIT-PraCTES](https://github.com/PraCTES/MIT-PraCTES) - Materials for MIT workshop "Practical Computing Tutorials for Earth Scientists".
 - [NASAaccess](https://github.com/nasa/NASAaccess) - An R package that can generate gridded ASCII tables of climate (CIMP5) and weather data (GPM, TRMM, GLDAS) needed to drive various hydrological models (e.g. SWAT, VIC, RHESSys).
-- [Climate Data Dashboard of the ESA Climate Change Initiative](https://climate.esa.int/en/odp/#/dashboard) - Access global climate data produced through the ESA's Climate Change Initiative.
 - [Cate](https://github.com/CCI-Tools/cate) - A software for ingesting, operating on and visualizing all ESA Climate Change Initiative data.
-- [esa-climate-from-space](https://github.com/ubilabs/esa-climate-from-space) - The role of the Climate from Space application is to increase the visibility of the Climate Change Initiative programme and the role of ESA satellite data in climate science.
 - [climetlab](https://github.com/ecmwf/climetlab) - A Python package aiming at simplifying access to climate and meteorological datasets, allowing users to focus on science instead of technical issues such as data access and data formats.
 - [cdsapi](https://github.com/ecmwf/cdsapi) - Python API to access the Copernicus Climate Data Store.
-- [ODM2](https://github.com/ODM2/ODM2) - An information model and supporting software ecosystem for feature-based earth observations, designed for interoperability among disciplines.
-- [atmospheric_satellite](https://github.com/gusgordon/atmospheric_satellite) - The goal of this project is to determine what the smallest solar plane that can indefinitely sustain flight is.
-- [pygac](https://github.com/pytroll/pygac) - A Python package to read and calibrate NOAA and Metop AVHRR GAC and LAC data.
 - [netcdf-fortran](https://github.com/Unidata/netcdf-fortran) - The Unidata network Common Data Form (netCDF) is an interface for scientific data access and a set of freely-distributed software libraries that provide an implementation of the interface.
-- [SWEET](https://github.com/ESIPFed/sweet) - Official repository for Semantic Web for Earth and Environmental Terminology Ontologies.
-- [PO.DAAC](https://podaac.jpl.nasa.gov/datasetlist) - NASA Earth Observing System Data and Information System data center managed by the Earth Science Data and Information System Project.
-- [ecmwfr](https://github.com/bluegreen-labs/ecmwfr) - Provides easy access to the European Centre for Medium-Range Weather Forecasts web API services and Copernicus Climate Data Store from within R, matching and expanding upon the ECMWF Python tools.
+- [Data wrangling for the "IEA Net Zero by 2050" Roadmap](https://github.com/danielhuppmann/iea-netzero2050-datawrangler) - Transform data supporting the IEA Netzero2050 Roadmap (2021) to the IAMC format.
 - [IceVarFigs](https://github.com/zmlabe/IceVarFigs) - Weather and climate graphics for science communication.
+- [climaemet](https://github.com/rOpenSpain/climaemet) - An interface to download the climatic data of the Spanish Meteorological Agency directly from R using their API and create scientific graphs.
 - [Climate Model Output Rewriter](https://github.com/PCMDI/cmor) - Produce CF-compliant netCDF files that fulfill the requirements of many of the climate community's standard model experiments.
 - [NCL](https://github.com/NCAR/ncl) - The NCAR Command Language is a scripting language for the analysis and visualization of climate and weather data.
 - [xskillscore](https://github.com/xarray-contrib/xskillscore) - An open source project and Python package that provides verification metrics of deterministic (and probabilistic from properscoring) forecasts with xarray.
 - [getCRUCLdata](https://github.com/ropensci/getCRUCLdata) - Provides functions that automate importing CRU CL v. 2.0 climatology data into R.
 - [hockeystick](https://github.com/cortinah/hockeystick) - Make essential Climate Change datasets easily available to non-climate experts.
-- [U.S. Climate Resilience Toolkit](https://toolkit.climate.gov/) - A website designed to help people find and use tools, information, and subject matter expertise to build climate resilience.
 - [cfgrib](https://github.com/ecmwf/cfgrib) - A Python interface to map GRIB files to the NetCDF Common Data Model following the CF Convention using ecCodes.
 - [epwshiftr](https://github.com/ideas-lab-nus/epwshiftr) - Create future EnergyPlus Weather files using CMIP6 data.
 - [bomrang](https://github.com/ropensci/bomrang) - Australian government Bureau of Meteorology (BOM) data client for R.
@@ -1080,43 +1111,14 @@ If you want to get started with topics like renewable energy, climate change, or
 - [NCO](https://github.com/nco/nco) - Manipulates and analyzes data stored in netCDF-accessible formats.
 - [pynco](https://github.com/nco/pynco) - Contains the module python nco, which implements a Python style access to the NetCDF Operators (NCO).
 - [climateR](https://github.com/mikejohnson51/climateR) - An R package for getting point and gridded climate data by AOI.
-- [climaemet](https://github.com/rOpenSpain/climaemet) - An interface to download the climatic data of the Spanish Meteorological Agency directly from R using their API and create scientific graphs.
-- [Data wrangling for the "IEA Net Zero by 2050" Roadmap](https://github.com/danielhuppmann/iea-netzero2050-datawrangler) - Transform data supporting the IEA Netzero2050 Roadmap (2021) to the IAMC format.
-- [cmip56_forcing_feedback_ecs](https://github.com/mzelinka/cmip56_forcing_feedback_ecs) - Tables Effective Radiative Forcing and Radiative Feedbacks.
-- [libRadtran](http://www.libradtran.org/) - A collection of C and Fortran functions and programs for calculation of solar and thermal radiation in the Earth's atmosphere.
-- [DeepDownscaling](https://github.com/SantanderMetGroup/DeepDownscaling) - Deep learning approaches for statistical downscaling in climate.
-- [climateforcing](https://github.com/chrisroadmap/climateforcing) - An incomplete toolbox of scripts and modules used for analysis of climate models and climate data.
-- [clisops](https://github.com/roocs/clisops) - Climate simulation operations.
-- [AR6-WG1-Data-Compilation](https://github.com/openscm/AR6-WG1-Data-Compilation) - Compiles the data into a uniform, csv-based data format following the standard established by the Integrated Assessment Modeling Consortium and used by IPCC WG3.
-- [IPCC AR6 Chapter 9 Figures](https://github.com/IPCC-WG1/Chapter-9) - Code and data for all figures from Chapter 9 of the IPCC AR6.
-- [icclim](https://github.com/cerfacs-globc/icclim) - Python library for climate indices and climate indicators calculation.
-- [DeepSphere](https://github.com/deepsphere/deepsphere-pytorch) - Learning on the sphere with a graph-based ConvNet.
-- [JuliaClimate Notebooks](https://juliaclimate.github.io/GlobalOceanNotebooks/) - Notebooks that show Julia packages related to climate working in concert.
-- [remote_climate_data](https://github.com/aaronspring/remote_climate_data) - A collection of remote climate data accessed via intake cached to disk.
-- [The CEDA Archive](https://archive.ceda.ac.uk/) - We host over 18 Petabytes of data from climate models, satellites, aircraft, met observations, and other sources.
-- [Climate categories](https://github.com/pik-primap/climate_categories) - Commonly used codes, categories, terminologies, and nomenclatures used in climate policy analysis in a nice Python package.
-- [PRISM](https://github.com/WFP-VAM/prism-frontend) - Assesses the potential risk and forecasts the impact of climate hazards on the most vulnerable communities, in order to design risk reduction activities and target disaster responses.
-- [ClimateSatellite.jl](https://github.com/JuliaClimate/ClimateSatellite.jl) - Julia package that downloads measurements and observational of climate satellite mission data.
-- [RadiativeTransfer.jl](https://github.com/RadiativeTransfer/RadiativeTransfer.jl) - A full end-to-end modular software suite for radiative transfer and related atmospheric analysis.
-- [Pymagicc](https://github.com/openscm/pymagicc) - A Python wrapper around the reduced complexity climate model. 
+
+### Integrated Assessment
+- [DICE.jl](https://github.com/Libbum/DICE.jl) - The Dynamic Integrated model of Climate and the Economy model family are a popular and capable type of simple Integrated Assessment Model of climate change economics pioneered by William Nordhaus.
+- [LPJmL](https://gitlab.pik-potsdam.de/lpjml/LPJmL) - A process-based model that simulates climate and land-use change impacts on the terrestrial biosphere, the water and carbon cycle and on agricultural production.
 - [ENGAGE](https://github.com/iiasa/ENGAGE-netzero-analysis) - Source code for figure generation and analysis of the ENGAGE netzero scenario analysis.
-- [pylandtemp](https://github.com/pylandtemp/pylandtemp) - Global land surface temperature and emissivity from NASA's Landsat satellite images.
-- [Meteostat Python](https://github.com/meteostat/meteostat-python) - Access and analyze historical weather and climate data with Python.
-- [ClimateModels.jl](https://github.com/gaelforget/ClimateModels.jl) - Uniform interface to climate models of varying complexity and completeness.
-- [Senses Toolkit](https://github.com/SensesProject/senses-toolkit) - Offers a range of modules to learn about and explore climate change scenarios.
-- [easyclimate](https://github.com/VeruGHub/easyclimate) - Easy access to high-resolution daily climate data for Europe.
-- [cmip6-downscaling](https://github.com/carbonplan/cmip6-downscaling) - Climate downscaling using CMIP6 data.
-- [ecmwf-opendata](https://github.com/ecmwf/ecmwf-opendata) - A package to simplify the download of ECMWF open data.
-- [weather-tools](https://github.com/google/weather-tools) - A series of command-line tools to make common data engineering tasks easier for researchers in climate and weather.
-- [MeteoInfo](https://github.com/meteoinfo/MeteoInfo) - GIS and scientific computation environment for meteorological community.
-- [ESDL.jl](https://github.com/esa-esdl/ESDL.jl) - Julia interface for Reading from the Earth System Datacube.
-- [Geoclimate](https://github.com/orbisgis/geoclimate) - Geospatial processing toolbox for environmental and climate studies.
-- [UNFCCC emissions data](https://github.com/openclimatedata/unfccc-detailed-data-by-party) - UNFCCC Emissions data from the Detailed Data By Party interface.
-- [MODIS](https://github.com/MatMatt/MODIS) - Provides automated access to the global online data archives LP DAAC, LAADS and NSIDC as well as processing capabilities such as file conversion, mosaicking, subsetting and time series.
-- [MODIStsp](https://github.com/ropensci/MODIStsp) - An R package for automatic download and preprocessing of MODIS Land Products Time-Series.
-- [chirps](https://github.com/ropensci/chirps) - A quasi-global high-resolution rainfall data set, which incorporates satellite imagery and in-situ station data to create gridded rainfall time series for trend analysis and seasonal drought monitoring.
-- [xCDAT](https://github.com/xCDAT/xcdat) - An extension of xarray for climate data analysis on structured grids.
-- [Satip](https://github.com/openclimatefix/Satip) - A library for satellite image processing providing all of the functionality necessary for retrieving, and storing EUMETSAT data.
+- [pyam](https://github.com/IAMconsortium/pyam) - A Python package for data-wrangling, analysis and visualization of integrated-assessment scenarios and energy systems modeling results.
+
+
 
 ## Natural Resources
 
@@ -1272,6 +1274,7 @@ If you want to get started with topics like renewable energy, climate change, or
 - [Land Matrix](https://github.com/sinnwerkstatt/landmatrix) - Independent global land monitoring initiative that promotes transparency & accountability in decisions over large-scale land acquisitions.
 - [SITS](https://github.com/e-sensing/sits) - Enables users to apply machine learning techniques for classifying image time series obtained from earth observation data cubes.
 - [iSDAsoil](https://www.isda-africa.com/isdasoil/) - Open access soil property map with 30m resolution for Africa.
+- [Landlab](https://github.com/landlab/landlab) - An open source Python package for numerical modeling of Earth surface dynamics.
 
 
 ### Agriculture and Nutrition
@@ -1324,6 +1327,7 @@ If you want to get started with topics like renewable energy, climate change, or
 
 ### Natural Hazard and Poverty
 
+- [PRISM](https://github.com/WFP-VAM/prism-frontend) - Assesses the potential risk and forecasts the impact of climate hazards on the most vulnerable communities, in order to design risk reduction activities and target disaster responses.
 - [Flood Mapping](https://github.com/mikejohnson51/FloodMapping) - Flood forecasting via the National Water Model.
 - [GLOCOFFS](https://github.com/WPringle/GLOCOFFS) - An ADCIRC-based global storm tide modeling system providing real-time forecasts of coastal flooding.
 - [ML4Floods](https://github.com/spaceml-org/ml4floods) - An ecosystem of data, models and code pipelines to tackle flooding with machine learning.
@@ -1369,8 +1373,10 @@ If you want to get started with topics like renewable energy, climate change, or
 - [gfer](https://github.com/Yuanchao-Xu/gfer) - Designed for green finance and environmental risk research focused on data collecting and analyzing in green finance and environmental risk research and analysis.
 - [WikiRate](https://github.com/wikirate/wikirate) - Facilitates research and analysis on complex topics in collaboration with partners, to make ESG data open, comparable and useful for all.
 
+
 ### Knowledge Platforms
 
+- [Climate Watch](https://github.com/ClimateWatch-Vizzuality/climate-watch) - Offers open data, visualizations and analysis to help policymakers, researchers and other stakeholders gather insights on countries' climate progress.
 - [Linux Foundation Energy Landscape](https://github.com/lf-energy/lfenergy-landscape) - This landscape is intended as a map to explore the open source projects in the energy sector, and also shows the member companies of the LF Energy Foundation.
 - [Appropedia](https://www.appropedia.org/Welcome_to_Appropedia) - Shares knowledge to build rich, sustainable lives.
 - [Open Hardware Observatory](https://en.oho.wiki/wiki/Home) - Search engine and assessment platform for sustainable open hardware.
@@ -1396,9 +1402,10 @@ If you want to get started with topics like renewable energy, climate change, or
 - [Net Zero Tracker](https://zerotracker.net/) - Create the definitive global resource for collating, assessing and presenting the scale and quality of net zero pledges across nationals, sub-nationals, companies and other entities.
 - [Credible Goals Database](https://www.embeddingproject.org/goals-database) - A public goals database containing leading sustainability goals and commitments set by large companies globally.
 - [Digital Public Goods](https://github.com/DPGAlliance/publicgoods-candidates) - Accelerate the attainment of the sustainable development goals in low- and middle-income countries by facilitating the discovery, development, use of, and investment in digital public goods.
+- [SWEET](https://github.com/ESIPFed/sweet) - Official repository for Semantic Web for Earth and Environmental Terminology Ontologies.
+- [U.S. Climate Resilience Toolkit](https://toolkit.climate.gov/) - A website designed to help people find and use tools, information, and subject matter expertise to build climate resilience.
 
-
-### Data Catalogs
+### Data Catalogs and Interfaces
 
 - [Global Fishing Watch](https://globalfishingwatch.org/) - We use cutting-edge technology to visualise, track and share data about global fishing activity in near real-time and for free.
 - [GlobalWindAtlas](https://globalwindatlas.info/) - Immediately start exploring windy areas.
@@ -1433,6 +1440,14 @@ If you want to get started with topics like renewable energy, climate change, or
 - [STAC Index](https://github.com/stac-utils/stac-index) - Find STAC Catalogs, Collections, APIs, Software and Tools.
 - [Eumap](https://gitlab.com/geoharmonizer_inea/eumap) - Comprises environmental, land cover, terrain, climatic, soil and vegetation layers covering the continental Europe at relatively fine spatial resolutions.
 - [Open Data Science Europe Metadata Catalog](https://maps.opendatascience.eu/) - Building the Open Data Science Europe Portal, a freely-accessible viewer containing gridded layers for Europe at spatial resolutions of 30-m or better.
+- [Satip](https://github.com/openclimatefix/Satip) - A library for satellite image processing providing all of the functionality necessary for retrieving, and storing EUMETSAT data.
+- [MODIS](https://github.com/MatMatt/MODIS) - Provides automated access to the global online data archives LP DAAC, LAADS and NSIDC as well as processing capabilities such as file conversion, mosaicking, subsetting and time series.
+- [MODIStsp](https://github.com/ropensci/MODIStsp) - An R package for automatic download and preprocessing of MODIS Land Products Time-Series.
+- [ecmwf-opendata](https://github.com/ecmwf/ecmwf-opendata) - A package to simplify the download of ECMWF open data.
+- [EarthDataLab.jl](https://github.com/JuliaDataCubes/EarthDataLab.jl) - Julia interface for Reading from the Earth System Datacube.
+- [The CEDA Archive](https://archive.ceda.ac.uk/) - We host over 18 Petabytes of data from climate models, satellites, aircraft, met observations, and other sources.
+- [Climate Data Dashboard of the ESA Climate Change Initiative](https://climate.esa.int/en/odp/#/dashboard) - Access global climate data produced through the ESA's Climate Change Initiative.
+
 
 ### Curated Lists
 
@@ -1458,6 +1473,7 @@ If you want to get started with topics like renewable energy, climate change, or
 - [awesome-gee-community-datasets](https://github.com/samapriya/awesome-gee-community-datasets/) - Community Datasets & Data Commons in Google Earth Engine.
 - [Urban & Regional Planning Resources](https://github.com/APA-Technology-Division/urban-and-regional-planning-resources) - Community list of data & technology resources concerning the built environment and communities.
 - [Open Source Python Packages in Hydrology](https://github.com/raoulcollenteur/Python-Hydrology-Tools) - Holds a list of open source Python packages interesting to Hydrologists.
+- [PO.DAAC](https://podaac.jpl.nasa.gov/datasetlist) - NASA Earth Observing System Data and Information System data center managed by the Earth Science Data and Information System Project.
 
 
 ## Contributors
