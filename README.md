@@ -1046,7 +1046,6 @@ If you're looking for an entry point into domains like renewable energy, climate
 - [esa-climate-from-space](https://github.com/ubilabs/esa-climate-from-space) - The role of the Climate from Space application is to increase the visibility of the Climate Change Initiative programme and the role of ESA satellite data in climate science.
 - [pygac](https://github.com/pytroll/pygac) - A Python package to read and calibrate NOAA and Metop AVHRR GAC and LAC data.
 - [ecmwfr](https://github.com/bluegreen-labs/ecmwfr) - Provides easy access to the European Centre for Medium-Range Weather Forecasts web API services and Copernicus Climate Data Store from within R, matching and expanding upon the ECMWF Python tools.
-- [CliFlo](https://github.com/ropensci/clifro) - New Zealand’s National Climate Database holds data from about 6500 climate stations, with observations dating back to 1850.
 
 
 ### Meteorological Observation
@@ -1449,6 +1448,7 @@ If you're looking for an entry point into domains like renewable energy, climate
 - [EarthDataLab.jl](https://github.com/JuliaDataCubes/EarthDataLab.jl) - Julia interface for Reading from the Earth System Datacube.
 - [The CEDA Archive](https://archive.ceda.ac.uk/) - We host over 18 Petabytes of data from climate models, satellites, aircraft, met observations, and other sources.
 - [Climate Data Dashboard of the ESA Climate Change Initiative](https://climate.esa.int/en/odp/#/dashboard) - Access global climate data produced through the ESA's Climate Change Initiative.
+- [USGS](https://github.com/kapadia/usgs) - A python module for interfacing with the US Geological Survey's API.
 
 
 ### Curated Lists
