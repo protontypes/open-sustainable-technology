@@ -37,10 +37,10 @@ If you're looking for an entry point into domains like renewable energy, climate
 - [Ecological Footprint](#ecological-footprint)
   - [Life Cycle Assessment](#life-cycle-assessment)
   - [Circular Economy and Waste](#circular-economy-and-waste)
-- [Biosphere](#biosphere)
-  - [Nature and Biodiversity](#nature-and-biodiversity)
-  - [Ice and Poles](#ice-and-poles)
-  - [Salt and Fresh Water](#salt-and-fresh-water)
+- [Earth Systems](#earth-systems)
+  - [Biosphere](#biosphere)
+  - [Cryosphere](#cryosphere)
+  - [Hydrosphere](#hydrosphere)
   - [Atmosphere](#atmosphere)
 - [Climate and Earth Science](#climate-and-earth-science)
   - [Earth and Climate Modeling](#earth-and-climate-modeling)
@@ -724,9 +724,9 @@ If you're looking for an entry point into domains like renewable energy, climate
 - [MARIDA](https://github.com/marine-debris/marine-debris.github.io) - A marine debris-oriented dataset on Sentinel-2 satellite images.
 - [Detect waste](https://github.com/wimlds-trojmiasto/detect-waste) - Detecting plastic waste in the environment to combat environmental pollution and promote circular economy.
 
-## Biosphere
+## Earth Systems
 
-### Nature and Biodiversity
+### Biosphere
 
 - [ECOSTRESS](https://ecostress.jpl.nasa.gov/) - The images acquired by ECOSTRESS are the most detailed temperature images of the surface ever acquired from space and can be used to measure the temperature of an individual farmers field and plants.
 - [carbon budget](https://github.com/wri/carbon-budget) - This model maps gross greenhouse gas emissions from forests between 2001 and 2015, gross carbon removals by forests between 2001, and the difference between them (net flux).
@@ -836,7 +836,7 @@ If you're looking for an entry point into domains like renewable energy, climate
 - [California Forest Observatory](https://github.com/forestobservatory/cfo-api) - Python wrappers for accessing Forest Observatory data via the Salo API.
 
 
-### Ice and Poles
+### Cryosphere
 
 - [Planet Snowcover](https://github.com/acannistra/planet-snowcover) - A project that pairs airborne lidar and Planet Labs satellite imagery with cutting-edge computer vision techniques to identify snow-covered area at unprecedented spatial and temporal resolutions.
 - [Sea ice drift](https://github.com/nansencenter/sea_ice_drift) - Sea ice drift from Sentinel-1 SAR imagery using open source feature tracking.
@@ -866,7 +866,7 @@ If you're looking for an entry point into domains like renewable energy, climate
 - [QGreenland](https://github.com/nsidc/qgreenland) - A free mapping tool to support interdisciplinary Greenland-focused research, teaching, decision making, and collaboration.
 
 
-### Salt and Fresh Water
+### Hydrosphere
 
 - [Raven](https://github.com/Ouranosinc/raven) - Made to help scientists run hydrological modeling experiments with climate change projections.
 - [NEMO](https://www.nemo-ocean.eu/) - A state-of-the-art modeling framework for research activities and forecasting services in ocean and climate sciences, developed in a sustainable way by a European consortium.
