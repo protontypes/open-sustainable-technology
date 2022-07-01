@@ -1111,6 +1111,7 @@ If you're looking for an entry point into domains like renewable energy, climate
 - [NCO](https://github.com/nco/nco) - Manipulates and analyzes data stored in netCDF-accessible formats.
 - [pynco](https://github.com/nco/pynco) - Contains the module python nco, which implements a Python style access to the NetCDF Operators (NCO).
 - [climateR](https://github.com/mikejohnson51/climateR) - An R package for getting point and gridded climate data by AOI.
+- [esd](https://github.com/metno/esd) - Designed for climate and weather data analysis, empirical-statistical downscaling, and visualisation.
 
 ### Integrated Assessment
 
