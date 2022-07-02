@@ -634,7 +634,7 @@ If you're looking for an entry point into domains like renewable energy, climate
 - [elmada](https://github.com/DrafProject/elmada) - Dynamic electricity carbon emission factors and prices for Europe.
 - [Environmental Footprint Data](https://github.com/Boavizta/environmental-footprint-data) - Aims to reference as much data as possible to help organizations to evaluate the environmental footprint of their information systems, applications and digital services.
 - [UNFCCC emissions data](https://github.com/openclimatedata/unfccc-detailed-data-by-party) - UNFCCC Emissions data from the Detailed Data By Party interface.
-
+- [Silicone](https://github.com/GranthamImperial/silicone) - Automated filling of detail in reported emission scenarios.
 
 
 ### Carbon Capture and Removel
