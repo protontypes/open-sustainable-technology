@@ -350,7 +350,7 @@ If you're looking for an entry point into domains like renewable energy, climate
 - [EIAdata](https://github.com/Matt-Brigida/EIAdata) - Provides programmatic access to the Energy Information Administration's API.
 - [Energy System Technology Data](https://github.com/PyPSA/technology-data) - Compilation of assumptions about energy system technologies such as cost, efficiency and lifetime that can be read by energy system modelling software.
 - [Asset-level Transition Risk in the Global Coal, Oil, and Gas Supply Chains](https://github.com/Lkruitwagen/global-fossil-fuel-supply-chain) - The global fossil fuel supply chain, mapped at the asset-level.
-
+- [draf](https://github.com/DrafProject/draf) - Analysis and decision support framework for local multi-energy hubs focusing on demand response.
 
 ### Energy Monitoring and Control
 
