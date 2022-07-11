@@ -836,6 +836,7 @@ If you're looking for an entry point into domains like renewable energy, climate
 - [phenofit](https://github.com/eco-hydro/phenofit/) - A state-of-the-art remote sensing vegetation phenology extraction package.
 - [rnpn](https://github.com/usa-npn/rnpn) - R client for interacting with the USA National Phenology Network data web services.
 - [California Forest Observatory](https://github.com/forestobservatory/cfo-api) - Python wrappers for accessing Forest Observatory data via the Salo API.
+- [mapme.biodiversity](https://github.com/mapme-initiative/mapme.biodiversity) - Efficient analysis of spatial biodiversity datasets for global portfolios.
 
 
 ### Cryosphere
