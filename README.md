@@ -790,6 +790,7 @@ If you're looking for an entry point into domains like renewable energy, climate
 - [ALA4R](https://github.com/AtlasOfLivingAustralia/ALA4R) - The Atlas of Living Australia provides tools to enable users of biodiversity information to find, access, combine and visualise data on Australian plants and animals.
 - [worldpa](https://github.com/FRBCesab/worldpa) - R interface to the World Database on Protected Areas.
 - [pywdpa](https://github.com/ghislainv/pywdpa) - Python interface to the World Database on Protected Areas.
+- [wdpar](https://github.com/prioritizr/wdpar) - R Interface to the World Database on Protected Areas.
 - [plant](https://github.com/traitecoevo/plant) - A package for modeling forest trait ecology and evolution.
 - [PNVmaps](https://github.com/Envirometrix/PNVmaps) - Global Maps of Potential Natural Vegetation based on Machine Learning.
 - [monitoring-ecosystem-resilience](https://github.com/alan-turing-institute/monitoring-ecosystem-resilience) - The focus is understanding vegetation patterns in semi-arid environments.
@@ -837,6 +838,7 @@ If you're looking for an entry point into domains like renewable energy, climate
 - [rnpn](https://github.com/usa-npn/rnpn) - R client for interacting with the USA National Phenology Network data web services.
 - [California Forest Observatory](https://github.com/forestobservatory/cfo-api) - Python wrappers for accessing Forest Observatory data via the Salo API.
 - [mapme.biodiversity](https://github.com/mapme-initiative/mapme.biodiversity) - Efficient analysis of spatial biodiversity datasets for global portfolios.
+
 
 
 ### Cryosphere
