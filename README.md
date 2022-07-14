@@ -1059,7 +1059,7 @@ If you're looking for an entry point into domains like renewable energy, climate
 - [climate](https://github.com/bczernecki/climate) - The goal of the climate R package is to automatize downloading of meteorological and hydrological data from publicly available repositories.
 - [rdwd](https://github.com/brry/rdwd) - An R package to select, download and read climate data from the German Weather Service.
 - [MetPy](https://github.com/Unidata/MetPy) - A collection of tools in Python for reading, visualizing and performing calculations with weather data.
-
+- [wetterdienst](https://github.com/earthobservations/wetterdienst) - Trying to make access to weather data in Python feel like a warm summer breeze.
 
 ### Climate Data Processing and Access
 - [cf-conventions](https://github.com/cf-convention/cf-conventions) - The conventions for CF (Climate and Forecast) metadata are designed to promote the processing and sharing of files created with the NetCDF API.
