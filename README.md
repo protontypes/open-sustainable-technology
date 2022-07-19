@@ -1459,6 +1459,7 @@ If you're looking for an entry point into domains like renewable energy, climate
 - [The CEDA Archive](https://archive.ceda.ac.uk/) - We host over 18 Petabytes of data from climate models, satellites, aircraft, met observations, and other sources.
 - [Climate Data Dashboard of the ESA Climate Change Initiative](https://climate.esa.int/en/odp/#/dashboard) - Access global climate data produced through the ESA's Climate Change Initiative.
 - [USGS](https://github.com/kapadia/usgs) - A python module for interfacing with the US Geological Survey's API.
+- [getSpatialData](https://github.com/16EAGLE/getSpatialData) - Making it easy to query, preview, download and preprocess multiple kinds of satellite datasets via R.
 
 
 ### Curated Lists
