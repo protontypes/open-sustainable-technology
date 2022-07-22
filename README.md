@@ -13,8 +13,8 @@ If you're looking for an entry point into domains like renewable energy, climate
 
 - [Renewable Energy](#renewable-energy)
   - [Photovoltaics and Solar Energy](#photovoltaics-and-solar-energy)
-  - [Wind Power](#wind-power)
-  - [Hydro Power](#hydro-power)
+  - [Wind Energy](#wind-energy)
+  - [Hydro Energy](#hydro-energy)
   - [Geothermal Energy](#geothermal-energy)
   - [Bioenergy](#bioenergy)
 - [Energy Storage](#energy-storage)
@@ -123,7 +123,7 @@ If you're looking for an entry point into domains like renewable energy, climate
 - [A Global Inventory of Commerical-, Industrial-, and Utility-Scale Photovoltaic Solar Generating Units](https://github.com/Lkruitwagen/solar-pv-global-inventory) - Used to produce a global inventory of utility-scale solar photvoltaic generating station.
 - [dGen](https://github.com/NREL/dgen) - Forecast PV adoption based on user specified configurations like electricity rate prices, electricity load growth, solar resource factors, and much more.
 
-### Wind Power
+### Wind Energy
 
 - [IEA-15-240-RWT](https://github.com/IEAWindTask37/IEA-15-240-RWT) - A 15 MW reference wind turbine repository developed in conjunction with IEA Wind.
 - [makani](https://github.com/google/makani) - A project to develop a commercial-scale airborne wind turbine, culminating in a flight test of the Makani M600 off the coast of Norway.
@@ -163,7 +163,7 @@ If you're looking for an entry point into domains like renewable energy, climate
 - [welib](https://github.com/ebranlard/welib) - Wind energy library, python and matlab tools for wind turbines analyses.
 
 
-### Hydro Power
+### Hydro Energy
 
 - [WecOptTool](https://github.com/SNL-WaterPower/WecOptTool) - Allows users to perform wave energy converter device design optimization studies with constrained optimal control.
 - [CACTUS](https://github.com/SNL-WaterPower/CACTUS) - A turbine performance simulation code, based on a free wake vortex method, to study wind turbines and marine hydrokinetic devices.
