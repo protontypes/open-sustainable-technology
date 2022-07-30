@@ -8,6 +8,7 @@ edit_uri: ''
 nav:
   - "Projects": "index.md"
   - "Education": "education.md"
+  - "Discover": "discover.md"
   - "Contribute": "contributing.md"
   - Blog:
       2022:
@@ -35,7 +36,6 @@ theme:
     - search.highlight
     - search.suggest
     
-
 extra_css:
     - css/extra.css
 
