@@ -34,7 +34,8 @@ I am convinced that the method of our study can be applied to other open source 
 First, you need to clone the GitHub-Repo. Do something like:
 
 ```
-git clone git@github.com:protontypes/AwesomeCure.git
+
+git clone git@github.com:protontypes/open-sustainable-technology.git
 ```
 
 Then, you need to install jupiter notebook:
