@@ -1,5 +1,15 @@
 # Contribution Guide
 
+## Free Support for new Projects
+
+The community behind OpenSustain.tech offers free marketing and consulting for open source projects added to the list. There are several ways to support your project.
+
+* Share the project on all available social media channels. ( Reddit, Twitter, Linkedin, HackerNews ).        
+
+* Collaborative blog post about the project with publication on OpenSustain.tech and OpenSource.com.           
+* Get Feedback on your project.      
+* Guidance on further development strategies and funding for the project.    
+
 ## Fast Lane
 If you just want to give a hint about a missing project, send an email at [tobias.augspurger@protontypes.eu](mailto:tobias.augspurger@protontypes.eu). However, we would be pleased to add you to the list of official contributors via a pull request. 
 
