@@ -17,7 +17,7 @@ jobs:
       - name: Copy content files to docs
         run: |
               cp CONTRIBUTING.md docs/contributing.md
-              cp education.md docs/education.md
+              cp learning.md docs/learning.md
 
       - name: Add meta tags to index.md
         run: cat docs/meta_tags.md | cat - docs/index.md > temp && mv temp docs/index.md
