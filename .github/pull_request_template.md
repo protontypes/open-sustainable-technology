@@ -10,5 +10,3 @@ The community behind OpenSustain.tech offers free marketing and consulting for o
 - [ ]  Collaborative blog post about the project with publication on OpenSustain.tech and OpenSource.com. 
 - [ ]  Get Feedback on your project. 
 - [ ]  Guidance on further development strategies and funding for the project. 
-
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://makeapullrequest.com)
