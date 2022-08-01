@@ -1,7 +1,8 @@
-**Insert URLs to the project(s) here:**
+**Insert URLs to the project(s) here:**      
+[ Your URLs ]
 
-
-**Explain what this list is about and why it should be included here:**
+**Explain what this list is about and why it should be included here:**     
+[ Your Text ]
 
 
 **The community behind OpenSustain.tech offers free marketing and consulting for open source projects added to the list. If you are interested just tick here:**
