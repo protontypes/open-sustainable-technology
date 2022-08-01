@@ -1061,6 +1061,7 @@ If you're looking for an entry point into domains like renewable energy, climate
 
 ### Meteorological Observation
 
+- [Open-Meteo](https://github.com/open-meteo/open-meteo) - Global weather API for non-commercial use with hourly weather forecast.
 - [stationaRy](https://github.com/rich-iannone/stationaRy) - Get hourly meteorological data from one of thousands of global stations.
 - [weathercan](https://github.com/ropensci/weathercan) - This package makes it easier to search for and download multiple months/years of historical weather data from the Environment and Climate Change Canada (ECCC) website.
 - [metR](https://github.com/eliocamp/metR) - Several functions and utilities that make R better for handling meteorological data in the tidy data paradigm.
