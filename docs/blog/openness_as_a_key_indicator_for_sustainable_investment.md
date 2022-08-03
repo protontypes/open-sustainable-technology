@@ -1,4 +1,4 @@
-# Openness as a key indicator for Sustainable Investment
+# Openness as a Key Indicator for Sustainable Investment
 
  __Tobias Augspurger __  [:fontawesome-brands-twitter:](https://twitter.com/protontypes) · :octicons-calendar-24: January 29, 2022
 
