@@ -461,6 +461,7 @@ If you're looking for an entry point into domains like renewable energy, climate
 - [AixLib](https://github.com/RWTH-EBC/AixLib) - A Modelica model library for building performance simulations.
 - [TEASER](https://github.com/RWTH-EBC/TEASER) - Tool for Energy Analysis and Simulation for Efficient Retrofit.
 - [pyCity](https://github.com/RWTH-EBC/pyCity) - A Python package for data handling and scenario generation of city districts and urban energy systems.
+- [IDEAS](https://github.com/open-ideas/IDEAS) - A Modelica model library for integrated building or district energy simulations.
 - [tespy](https://github.com/oemof/tespy) - Provides a powerful simulation toolkit for thermal engineering plants such as power plants, district heating systems or heat pumps.
 - [RC_BuildingSimulator](https://github.com/architecture-building-systems/RC_BuildingSimulator) - A Resistance Capacitance Model for an Energetic Simulation of a Building.
 - [City Energy Analyst](https://github.com/architecture-building-systems/CityEnergyAnalyst) - Helps you to analyze the effects of building retrofits, land-use planning, district heating and cooling and renewable energy on the future costs, emissions and energy consumption of neighborhoods and districts.
