@@ -1241,7 +1241,7 @@ If you're looking for an entry point into domains like renewable energy, climate
 - [PyForecast](https://github.com/usbr/PyForecast) - A statistical modeling tool used by Reclamation water managers and reservoir operators to train and build predictive models for seasonal inflows and streamflows.
 - [pyWaPOR](https://bitbucket.org/cioapps/wapor-et-look/) - Data manual and Algorithm to compute the evapotranspiration of large areas using remote sensing data.
 - [HydroSHEDS](https://www.hydrosheds.org/) - Seamless hydrographic data for global and regional applications.
-
+- [OpenET](https://github.com/Open-ET/openet-ssebop) - Provides Google Earth Engine Python API based implementation of the SSEBop ET model used within OpenET.
 
 ### Soil and Land
 
