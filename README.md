@@ -181,6 +181,7 @@ If you're looking for an entry point into domains like renewable energy, climate
 ### Geothermal Energy
 
 - [pygfunction](https://github.com/MassimoCimmino/pygfunction) - An open source toolbox for the evaluation of thermal response factors of geothermal borehole fields.
+- [GHEtool](https://github.com/wouterpeere/GHEtool) - GHEtool is an open source Python package that contains all the functionalities needed to deal with borefield design.
 - [geothermics](https://github.com/Japhiolite/geothermics) - Educational repository with Jupyter Notebooks all around the topic of geothermal energy.
 - [multiphysics](https://github.com/charxie/multiphysics) - Interactive (Heat Transfer) Simulations for Everyone.
 - [OpenGeoSys 6](https://gitlab.opengeosys.org/ogs/ogs) - A scientific open source project for the development of numerical methods for the simulation of thermo-hydro-mechanical-chemical processes in porous and fractured media.
