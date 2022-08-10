@@ -182,7 +182,6 @@ If you're looking for an entry point into domains like renewable energy, climate
 
 - [pygfunction](https://github.com/MassimoCimmino/pygfunction) - An open source toolbox for the evaluation of thermal response factors of geothermal borehole fields.
 - [GHEtool](https://github.com/wouterpeere/GHEtool) - GHEtool is an open source Python package that contains all the functionalities needed to deal with borefield design.
-- [geothermics](https://github.com/Japhiolite/geothermics) - Educational repository with Jupyter Notebooks all around the topic of geothermal energy.
 - [multiphysics](https://github.com/charxie/multiphysics) - Interactive (Heat Transfer) Simulations for Everyone.
 - [OpenGeoSys 6](https://gitlab.opengeosys.org/ogs/ogs) - A scientific open source project for the development of numerical methods for the simulation of thermo-hydro-mechanical-chemical processes in porous and fractured media.
 - [FEHM](https://github.com/lanl/FEHM) - Has proved to be a valuable asset on a variety of projects of national interest including Environmental Remediation of the Nevada Test Site, the LANL Groundwater Protection Program, geologic CO2 sequestration, Enhanced Geothermal Energy programs, Oil and Gas production, Nuclear Waste Isolation, and Arctic Permafrost.
@@ -275,7 +274,6 @@ If you're looking for an entry point into domains like renewable energy, climate
 - [nempy](https://github.com/UNSW-CEEM/nempy) - Aims to enhance the Australian electricity industries modeling and analytical capabilities.
 - [NEMO](https://github.com/bje-/NEMO) - The National Electricity Market Optimizer is a chronological dispatch model for testing and optimizing different portfolios of conventional and renewable electricity generation technologies.
 - [GlobalEnergyGIS](https://github.com/niclasmattsson/GlobalEnergyGIS) - Generates input data for energy models on renewable energy in arbitrary world regions using public datasets.
-- [IDEAS](https://github.com/open-ideas/IDEAS) - A Modelica library allowing simultaneous transient simulation of thermal and electrical systems at both building and feeder level.
 - [Antares Simulator](https://github.com/AntaresSimulatorTeam/Antares_Simulator) - An Open Source power system simulator to quantify the adequacy or the economic performance of interconnected energy systems, at short or remote time horizons.
 - [Hierarchical Engine for Large-scale Infrastructure Co-Simulation](https://github.com/GMLC-TDC/HELICS) - Today the core uses are in the energy domain, where there is extensive and growing support for a wide-range of electric power system, natural gas, communications and control-schemes, transportation, buildings, and related domain tools.
 - [oemof-solph](https://github.com/oemof/oemof-solph) - A model generator for energy system modeling and optimization.
@@ -1242,6 +1240,7 @@ If you're looking for an entry point into domains like renewable energy, climate
 - [pyWaPOR](https://bitbucket.org/cioapps/wapor-et-look/) - Data manual and Algorithm to compute the evapotranspiration of large areas using remote sensing data.
 - [HydroSHEDS](https://www.hydrosheds.org/) - Seamless hydrographic data for global and regional applications.
 - [OpenET](https://github.com/Open-ET/openet-ssebop) - Provides Google Earth Engine Python API based implementation of the SSEBop ET model used within OpenET.
+- [SPEI](https://github.com/sbegueria/SPEI) - Computing the Standardized Precipitation-Evapotranspiration Index and other reference evapotranspiration.
 
 ### Soil and Land
 
