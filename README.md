@@ -610,6 +610,7 @@ If you're looking for an entry point into domains like renewable energy, climate
 - [Software Carbon Intensity Specification](https://github.com/Green-Software-Foundation/software_carbon_intensity) - A specification that describes how to calculate a carbon intensity for software applications.
 - [Principles of Green Software Engineering](https://github.com/jawache/principles-green) - Are a core set of competencies needed to define, build and run sustainable software applications.
 - [grid-intensity-go](https://github.com/thegreenwebfoundation/grid-intensity-go) - A tool written in go to help you factor carbon intensity into decisions about where and when to run computing jobs.
+- [Eco2AI](https://github.com/sb-ai-lab/Eco2AI) - A Python library which accumulates statistics about power consumption and CO2 emission during running code.
 
 
 ## Emissions
@@ -1002,7 +1003,7 @@ If you're looking for an entry point into domains like renewable energy, climate
 - [pyhector](https://github.com/openclimatedata/pyhector) - A Python interface for the simple global climate carbon-cycle model Hector.
 - [NorESM](https://github.com/NorESMhub/NorESM) - Norwegian Earth System Model and Documentation.
 - [CliMT](https://github.com/CliMT/climt) - A Toolkit for building Earth system models in Python.
-- [climlab](https://github.com/brian-rose/climlab) - A Python package for process-oriented climate modeling.
+- [climlab](https://github.com/climlab/climlab) - A Python package for process-oriented climate modeling.
 - [FAIR](https://github.com/OMS-NetZero/FAIR) - Finite Amplitude Impulse-Response simple climate-carbon-cycle model.
 - [CLIMADA](https://github.com/CLIMADA-project/climada_python) - Stands for CLIMate ADAptation and is a probabilistic natural catastrophe impact model, that also calculates averted damage (benefit) thanks to adaptation measures of any kind (from grey to green infrastructure, behavioural, etc.).
 - [ClimateMARGO.jl](https://github.com/ClimateMARGO/ClimateMARGO.jl) - A Julia implementation of MARGO, an idealized framework for optimization of climate change control strategies.
