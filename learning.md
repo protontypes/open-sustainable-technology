@@ -1,9 +1,3 @@
----
-hide:
-  - navigation
-  - toc
----
-
 <!--lint ignore awesome-toc awesome-contributing awesome-badge -->
 # Learning Open Sustainable Technology
 
@@ -56,7 +50,7 @@ hide:
 - [EO College](https://eo-college.org/) - This course is part of a series of online learning materials that will give you insights on the potential of remote sensing technologies for applications over land surfaces.
 
 
-### Earth Systems 
+## Earth Systems 
 
 ### Atmosphere 
 
