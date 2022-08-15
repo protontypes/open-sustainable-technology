@@ -1428,6 +1428,8 @@ If you're looking for an entry point into domains like renewable energy, climate
 - [Digital Public Goods](https://github.com/DPGAlliance/publicgoods-candidates) - Accelerate the attainment of the sustainable development goals in low- and middle-income countries by facilitating the discovery, development, use of, and investment in digital public goods.
 - [SWEET](https://github.com/ESIPFed/sweet) - Official repository for Semantic Web for Earth and Environmental Terminology Ontologies.
 - [U.S. Climate Resilience Toolkit](https://toolkit.climate.gov/) - A website designed to help people find and use tools, information, and subject matter expertise to build climate resilience.
+- [Climatemind](https://github.com/ClimateMind/climatemind-backend) - Explore how your values and personal interests are being affected by climate change and shows you attractive solutions exist that you may not be aware of.
+
 
 ### Data Catalogs and Interfaces
 
@@ -1473,7 +1475,6 @@ If you're looking for an entry point into domains like renewable energy, climate
 - [Climate Data Dashboard of the ESA Climate Change Initiative](https://climate.esa.int/en/odp/#/dashboard) - Access global climate data produced through the ESA's Climate Change Initiative.
 - [USGS](https://github.com/kapadia/usgs) - A python module for interfacing with the US Geological Survey's API.
 - [getSpatialData](https://github.com/16EAGLE/getSpatialData) - Making it easy to query, preview, download and preprocess multiple kinds of satellite datasets via R.
-
 
 ### Curated Lists
 
