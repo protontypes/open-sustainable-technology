@@ -439,6 +439,7 @@ If you're looking for an entry point into domains like renewable energy, climate
 - [Power Station Dictionary](https://github.com/OSUKED/Power-Station-Dictionary) - A power station dictionary that enables mapping between various naming conventions and associated plant metadata.
 - [ElexonDataPortal](https://github.com/OSUKED/ElexonDataPortal) - Wrapper for the Balancing Mechanism Reporting Service API to balance power flowing on to and off from the electricity Transmission System in Great Britain.
 - [KoaVTracker](https://gitlab.com/diw-evu/koavtracker) - Energy targets in the coalition agreement of the German government vs. where we stand today.
+- [isodata](https://github.com/kmax12/isodata) - Provides standardized API to access energy data from the major Independent System Operators in the United States.
 
 ## Consumption of Energy and Resources 
 
