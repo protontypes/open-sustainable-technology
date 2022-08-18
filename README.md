@@ -445,6 +445,8 @@ If you're looking for an entry point into domains like renewable energy, climate
 
 ### Buildings and Heating 
 
+- [BOPTEST]( https://github.com/ibpsa/project1-boptest) – The Building Optimization Testing (BOPTEST) Framework enables the assessment and benchmarking of control algorithms for building energy management.
+- [BOPTEST-Gym]( https://github.com/ibpsa/project1-boptest-gym) – The OpenAI-Gym interface of the BOPTEST framework facilitates the assessment and benchmarking of RL algorithms for building energy management.
 - [hpxml](https://github.com/hpxmlwg/hpxml) - Home Performance XML is a data transfer standard for the home performance industry.
 - [HPXML to Home Energy Score Translator](https://github.com/NREL/hescore-hpxml) - This translator script takes an HPXML file or directory of files as an input and generates HEScore inputs from it.
 - [LoadProfileGenerator](https://github.com/FZJ-IEK3-VSA/LoadProfileGenerator) - A program for generating load curves for residential consumers. Agent-based and extremely detailed.
