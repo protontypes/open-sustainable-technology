@@ -714,9 +714,8 @@ If you're looking for an entry point into domains like renewable energy, climate
 - [premise](https://github.com/romainsacchi/premise) - Coupling Integrated Assessment Models output with Life Cycle Assessment.
 - [useeior](https://github.com/USEPA/useeior) - Estimating potential environmental impacts of goods and services in the US economy.
 - [fedelemflowlist](https://github.com/USEPA/Federal-LCA-Commons-Elementary-Flow-List) - A Python package that generates and provides a standardized elementary flow list for use in life cycle assessment (LCA) data as well as mappings to convert data from other sources.
-
 - [FORBIO](https://github.com/fineprint-global) - Physical multi-regional input-output model for forestry, wood and paper products.
-- [pymrio](https://github.com/konstantinstadler/pymrio/ - Multi-Regional Input-Output Analysis in Python.
+- [pymrio](https://github.com/konstantinstadler/pymrio/) - Multi-Regional Input-Output Analysis in Python.
 
 ### Circular Economy and Waste
 
