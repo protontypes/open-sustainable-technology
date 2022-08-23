@@ -34,7 +34,7 @@ If you're looking for an entry point into domains like renewable energy, climate
   - [Carbon Intensity and Accounting](#carbon-intensity-and-accounting)
   - [Carbon Capture and Removel](#carbon-capture-and-removel)
   - [Emission Observation and Modeling](#emission-observation-and-modeling)
-- [Ecological Footprint](#ecological-footprint)
+- [Industrial Ecology](#industrial-ecology)
   - [Life Cycle Assessment](#life-cycle-assessment)
   - [Circular Economy and Waste](#circular-economy-and-waste)
 - [Earth Systems](#earth-systems)
@@ -692,7 +692,7 @@ If you're looking for an entry point into domains like renewable energy, climate
 - [Global Database of Cement, Iron and Steel Production Assets](https://www.cgfi.ac.uk/spatial-finance-initiative/geoasset-project/geoasset-databases/) - The Global Database of Cement, Iron and Steel Production Assets provides information on global cement production plants that are operational today.
 
 
-## Ecological Footprint
+## Industrial Ecology
 
 ### Life Cycle Assessment
 
