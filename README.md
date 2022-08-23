@@ -350,6 +350,7 @@ If you're looking for an entry point into domains like renewable energy, climate
 - [Energy System Technology Data](https://github.com/PyPSA/technology-data) - Compilation of assumptions about energy system technologies such as cost, efficiency and lifetime that can be read by energy system modelling software.
 - [Asset-level Transition Risk in the Global Coal, Oil, and Gas Supply Chains](https://github.com/Lkruitwagen/global-fossil-fuel-supply-chain) - The global fossil fuel supply chain, mapped at the asset-level.
 - [draf](https://github.com/DrafProject/draf) - Analysis and decision support framework for local multi-energy hubs focusing on demand response.
+- [GENeSYS-MOD](https://git.tu-berlin.de/genesysmod/genesys-mod-public) - An open-source energy system model, originally based on the Open-Source Energy Modeling System (OSeMOSYS) framework, with various additions.
 
 ### Energy Monitoring and Control
 
@@ -714,6 +715,8 @@ If you're looking for an entry point into domains like renewable energy, climate
 - [useeior](https://github.com/USEPA/useeior) - Estimating potential environmental impacts of goods and services in the US economy.
 - [fedelemflowlist](https://github.com/USEPA/Federal-LCA-Commons-Elementary-Flow-List) - A Python package that generates and provides a standardized elementary flow list for use in life cycle assessment (LCA) data as well as mappings to convert data from other sources.
 
+- [FORBIO](https://github.com/fineprint-global) - Physical multi-regional input-output model for forestry, wood and paper products.
+- [pymrio](https://github.com/konstantinstadler/pymrio/ - Multi-Regional Input-Output Analysis in Python.
 
 ### Circular Economy and Waste
 
@@ -733,6 +736,8 @@ If you're looking for an entry point into domains like renewable energy, climate
 - [MARIDA](https://github.com/marine-debris/marine-debris.github.io) - A marine debris-oriented dataset on Sentinel-2 satellite images.
 - [Detect waste](https://github.com/wimlds-trojmiasto/detect-waste) - Detecting plastic waste in the environment to combat environmental pollution and promote circular economy.
 - [Santiago.jl](https://github.com/santiago-sanitation-systems/Santiago.jl) - A Julia package to generate appropriate sanitation system options.
+- [RaMa-Scene](https://github.com/CMLPlatform/ramascene) - RaMa-Scene a web-platform to analyse Environmentally Extended Input-Output data and generate scenarios.
+- [CircuMat](https://github.com/CMLPlatform/CircuMAT) - RaMa-Scene fork, CircuMat focuses on NUTS2 level classification as opposed to Rama-Scene country level analysis tool.
 
 ## Earth Systems
 
@@ -978,6 +983,7 @@ If you're looking for an entry point into domains like renewable energy, climate
 - [met.3D](https://gitlab.com/wxmetvis/met.3d) - Interactive three-dimensional visualization of numerical ensemble weather predictions and similar numerical atmospheric model datasets.
 - [pyvortex](https://github.com/pankajkarman/pyvortex) - Equivalent Latitude and polar vortex edge calculation using Nash criteria.
 - [gcpy](https://github.com/geoschem/gcpy) - A Python-based toolkit containing useful functions for working specifically with the GEOS-Chem model of atmospheric chemistry and composition.
+- [Fluid Earth](https://github.com/byrd-polar/fluid-earth) - Open-source Visualization of Weather and Climate Data.
 
 ## Climate and Earth Science
 
@@ -1143,6 +1149,7 @@ If you're looking for an entry point into domains like renewable energy, climate
 - [pyam](https://github.com/IAMconsortium/pyam) - A Python package for data-wrangling, analysis and visualization of integrated-assessment scenarios and energy systems modeling results.
 - [GCAM](https://github.com/JGCRI/gcam-core) - A dynamic-recursive model with technology-rich representations of the economy, energy sector, land use and water linked to a climate model that can be used to explore climate change mitigation policies including carbon taxes, carbon trading, regulations and accelerated deployment of energy technology.
 
+- [EXIOMOD](https://github.com/TNO/EXIOMOD-open) - A macro-economic model that predicts the effects of public authority measures, shifts in consumer behaviour and associated enviromnetal impacts.
 
 ## Natural Resources
 
@@ -1303,6 +1310,7 @@ If you're looking for an entry point into domains like renewable energy, climate
 - [Terraso](https://github.com/techmatters/terraso-backend) - Develop an open source technology platform to help local community leaders practice Integrated Landscape Management.
 - [Open Soil Spectral Library](https://soilspectroscopy.github.io/ossl-manual/) - Brings together soil scientists, spectroscopists, informaticians, data scientists and software engineers to overcome some of the current bottlenecks preventing wider and more efficient use of soil spectroscopy.
 
+- [GainForest](https://github.com/GainForest) - A decentralised fund using artificial intelligence to measure and reward sustainable nature stewardship.
 
 ### Agriculture and Nutrition
 
