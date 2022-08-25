@@ -714,7 +714,7 @@ If you're looking for an entry point into domains like renewable energy, climate
 - [premise](https://github.com/romainsacchi/premise) - Coupling Integrated Assessment Models output with Life Cycle Assessment.
 - [useeior](https://github.com/USEPA/useeior) - Estimating potential environmental impacts of goods and services in the US economy.
 - [fedelemflowlist](https://github.com/USEPA/Federal-LCA-Commons-Elementary-Flow-List) - A Python package that generates and provides a standardized elementary flow list for use in life cycle assessment (LCA) data as well as mappings to convert data from other sources.
-- [FORBIO](https://github.com/fineprint-global) - Physical multi-regional input-output model for forestry, wood and paper products.
+- [FORBIO](https://github.com/fineprint-global/forbio) - Physical multi-regional input-output model for forestry, wood and paper products.
 - [pymrio](https://github.com/konstantinstadler/pymrio/) - Multi-Regional Input-Output Analysis in Python.
 
 ### Circular Economy and Waste
@@ -1309,7 +1309,6 @@ If you're looking for an entry point into domains like renewable energy, climate
 - [Terraso](https://github.com/techmatters/terraso-backend) - Develop an open source technology platform to help local community leaders practice Integrated Landscape Management.
 - [Open Soil Spectral Library](https://soilspectroscopy.github.io/ossl-manual/) - Brings together soil scientists, spectroscopists, informaticians, data scientists and software engineers to overcome some of the current bottlenecks preventing wider and more efficient use of soil spectroscopy.
 
-- [GainForest](https://github.com/GainForest) - A decentralised fund using artificial intelligence to measure and reward sustainable nature stewardship.
 
 ### Agriculture and Nutrition
 
@@ -1486,7 +1485,7 @@ If you're looking for an entry point into domains like renewable energy, climate
 - [USGS](https://github.com/kapadia/usgs) - A python module for interfacing with the US Geological Survey's API.
 - [getSpatialData](https://github.com/16EAGLE/getSpatialData) - Making it easy to query, preview, download and preprocess multiple kinds of satellite datasets via R.
 - [sentinelsat](https://github.com/sentinelsat/sentinelsat) - Makes searching, downloading and retrieving the metadata of Sentinel satellite images from the Copernicus Open Access Hub easy.
-- [Smart Data Models](https://github.com/smart-data-models/dataModel.Environment) – A joint collaboration program to support the adoption of a reference architecture and compatible common data models underpinning a digital market of interoperable and replicable smart solutions. These data models describe the main entities involved with smart applications that deal with environmental issues.
+- [Smart Data Models](https://github.com/smart-data-models/dataModel.Environment) - This Models describe the main entities involved with smart applications that deal with environmental issues.
 
 ### Curated Lists
 
