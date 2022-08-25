@@ -1486,6 +1486,7 @@ If you're looking for an entry point into domains like renewable energy, climate
 - [USGS](https://github.com/kapadia/usgs) - A python module for interfacing with the US Geological Survey's API.
 - [getSpatialData](https://github.com/16EAGLE/getSpatialData) - Making it easy to query, preview, download and preprocess multiple kinds of satellite datasets via R.
 - [sentinelsat](https://github.com/sentinelsat/sentinelsat) - Makes searching, downloading and retrieving the metadata of Sentinel satellite images from the Copernicus Open Access Hub easy.
+- [Smart Data Models](https://github.com/smart-data-models/dataModel.Environment) – A joint collaboration program to support the adoption of a reference architecture and compatible common data models underpinning a digital market of interoperable and replicable smart solutions. These data models describe the main entities involved with smart applications that deal with environmental issues.
 
 ### Curated Lists
 
