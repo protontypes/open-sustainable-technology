@@ -504,6 +504,7 @@ If you're looking for an entry point into domains like renewable energy, climate
 - [Kiva](https://github.com/bigladder/kiva) - Used to calculate heat loss and gain on a timestep basis from building foundations.
 - [Macquette](https://gitlab.com/retrofitcoop/macquette) - A whole house energy assessment tool, which models a building to produce a report to help householders under how their home performs now in terms of energy use and how it might be improved.
 - [Urban Multi-scale Environmental Predictor](https://umep-docs.readthedocs.io/en/latest/) - A climate service tool, designed for researchers and service providers presented as a plugin for QGIS.
+- [Urban Weather Generator](https://github.com/ladybug-tools/uwg) - A Python application for modeling the urban heat island effect.
 
 ### Mobility and Transportation
 
