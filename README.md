@@ -837,7 +837,6 @@ If you're looking for an entry point into domains like renewable energy, climate
 - [MAAP](https://github.com/MAAP-Project/maap-documentation) - Discover and use biomass relevant data, integrating the data for comparison, analysis, evaluation, and generation.
 - [DynACof](https://github.com/VEZY/DynACof) - Process-based model computes plot-scale Net Primary Productivity, carbon allocation, growth, yield, energy, and water balance of coffee plantations according to management.
 - [EU forest tree point data](https://gitlab.com/openlandmap/eu-forest-tree-point-data) - A compilation of analysis-ready point data for the purpose of vegetation and Potential Natural Vegetation mapping for the EU. 
-- [iNaturalist](https://github.com/inaturalist/inaturalist) - Helps you identify the plants and animals around you.
 - [Wildbook](https://github.com/WildMeOrg/Wildbook) - Blends structured wildlife research with artificial intelligence, citizen science, and computer vision to speed population analysis and develop new insights to help fight extinction.
 - [Forest Scenario Planner](https://github.com/Ecotrust/forestplanner) - An online tool for forest management scenario planning.
 - [PEcAn](https://github.com/PecanProject/pecan) - The Predictive Ecosystem Analyzer is an integrated ecological bioinformatics toolbox.
@@ -852,7 +851,10 @@ If you're looking for an entry point into domains like renewable energy, climate
 - [California Forest Observatory](https://github.com/forestobservatory/cfo-api) - Python wrappers for accessing Forest Observatory data via the Salo API.
 - [mapme.biodiversity](https://github.com/mapme-initiative/mapme.biodiversity) - Efficient analysis of spatial biodiversity datasets for global portfolios.
 - [prioritizr](https://github.com/prioritizr/prioritizr) - Uses mixed integer linear programming techniques to provide a flexible interface for building and solving conservation planning problems.
-
+- [The Catalogue of Life](https://github.com/CatalogueOfLife/general) - The most complete authoritative list of the world’s species, maintained by hundreds of global taxonomists.
+- [Darwin Core](https://github.com/tdwg/dwc) - Standard for sharing of information about biological diversity.
+- [iNaturalist](https://github.com/inaturalist/inaturalist) - Helps you identify the plants and animals around you.
+- [pyinaturalist](https://github.com/pyinat/pyinaturalist) - Python client for iNaturalist, a community science platform that helps people get involved in the natural world by observing and identifying the living things around them.
 
 
 ### Cryosphere
