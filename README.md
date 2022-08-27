@@ -1143,6 +1143,7 @@ If you're looking for an entry point into domains like renewable energy, climate
 - [climateR](https://github.com/mikejohnson51/climateR) - An R package for getting point and gridded climate data by AOI.
 - [esd](https://github.com/metno/esd) - Designed for climate and weather data analysis, empirical-statistical downscaling, and visualisation.
 - [Climate Data Store Toolbox for MATLAB](https://github.com/mathworks/climatedatastore) - This toolbox allows you to easily access data and download hundreds of data sets associated with climate change for analysis in MATLAB.
+- [semanticClimate](https://github.com/petermr/semanticClimate) - Conversion of IPCC documents into semantic form.
 
 ### Integrated Assessment
 
