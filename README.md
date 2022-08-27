@@ -851,7 +851,7 @@ If you're looking for an entry point into domains like renewable energy, climate
 - [California Forest Observatory](https://github.com/forestobservatory/cfo-api) - Python wrappers for accessing Forest Observatory data via the Salo API.
 - [mapme.biodiversity](https://github.com/mapme-initiative/mapme.biodiversity) - Efficient analysis of spatial biodiversity datasets for global portfolios.
 - [prioritizr](https://github.com/prioritizr/prioritizr) - Uses mixed integer linear programming techniques to provide a flexible interface for building and solving conservation planning problems.
-- [The Catalogue of Life](https://github.com/CatalogueOfLife/general) - The most complete authoritative list of the world’s species, maintained by hundreds of global taxonomists.
+- [The Catalogue of Life](https://github.com/CatalogueOfLife/general) - The most complete authoritative list of the world's species, maintained by hundreds of global taxonomists.
 - [Darwin Core](https://github.com/tdwg/dwc) - Standard for sharing of information about biological diversity.
 - [iNaturalist](https://github.com/inaturalist/inaturalist) - Helps you identify the plants and animals around you.
 - [pyinaturalist](https://github.com/pyinat/pyinaturalist) - Python client for iNaturalist, a community science platform that helps people get involved in the natural world by observing and identifying the living things around them.
@@ -1257,6 +1257,7 @@ If you're looking for an entry point into domains like renewable energy, climate
 - [HydroSHEDS](https://www.hydrosheds.org/) - Seamless hydrographic data for global and regional applications.
 - [OpenET](https://github.com/Open-ET/openet-ssebop) - Provides Google Earth Engine Python API based implementation of the SSEBop ET model used within OpenET.
 - [SPEI](https://github.com/sbegueria/SPEI) - Computing the Standardized Precipitation-Evapotranspiration Index and other reference evapotranspiration.
+- [pipedream](https://github.com/mdbartos/pipedream) - Interactive hydrodynamic solver for sewer/stormwater networks.
 
 ### Soil and Land
 
@@ -1365,6 +1366,7 @@ If you're looking for an entry point into domains like renewable energy, climate
 
 ### Natural Hazard and Poverty
 
+- [InaSAFE](https://github.com/inasafe/inasafe) - QGIS plugin for estimating impact from natural disasters.
 - [PRISM](https://github.com/WFP-VAM/prism-frontend) - Assesses the potential risk and forecasts the impact of climate hazards on the most vulnerable communities, in order to design risk reduction activities and target disaster responses.
 - [Flood Mapping](https://github.com/mikejohnson51/FloodMapping) - Flood forecasting via the National Water Model.
 - [GLOCOFFS](https://github.com/WPringle/GLOCOFFS) - An ADCIRC-based global storm tide modeling system providing real-time forecasts of coastal flooding.
@@ -1377,6 +1379,7 @@ If you're looking for an entry point into domains like renewable energy, climate
 - [HYDRAFloods](https://github.com/Servir-Mekong/hydra-floods) - An open source Python application for downloading, processing, and delivering surface water maps derived from remote sensing data.
 - [OasisLMF](https://github.com/OasisLMF/OasisLMF) - An open source catastrophe modelling platform, free to use by anyone.
 - [CAMS](https://github.com/CriticalAssetManagement/CAMS) - Critical Asset Management and Disaster Resilience for Islands, Cities, and Communities.
+- [pystorms] - Simulation Sandbox for the Design and Evaluation of Stormwater Control Algorithms.
 
 ## Sustainable Development
 
