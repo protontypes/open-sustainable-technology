@@ -676,8 +676,8 @@ If you're looking for an entry point into domains like renewable energy, climate
 - [X-STILT](https://github.com/uataq/X-STILT) - An atmospheric transport model that deals with vertically integrated column CO2 and potentially other trace gases.
 - [stilt](https://github.com/uataq/stilt) - An open source Lagrangian particle dispersion model which is widely used to simulate the transport of pollution and greenhouse gases through the atmosphere.
 - [OPGEE](https://github.com/arbrandt/OPGEE) - Oil Production Greenhouse Gas Emissions Estimator.
-- [OpenGHG](https://github.com/openghg) - A cloud platform for greenhouse gas data analysis and collaboration.
-- [Open Carbon Watch](https://github.com/OpenCarbonWatch) - We monitor greenhouse gases emission reports published by organizations, along with their legal obligations and their own commitments, and track them over time.
+- [OpenGHG](https://github.com/openghg/openghg) - A cloud platform for greenhouse gas data analysis and collaboration.
+- [Open Carbon Watch](https://github.com/OpenCarbonWatch/Website) - We monitor greenhouse gases emission reports published by organizations, along with their legal obligations and their own commitments, and track them over time.
 - [Methane-detection-from-hyperspectral-imagery](https://github.com/satish1901/Methane-detection-from-hyperspectral-imagery) - Deep Learning based Remote Sensing Methods for Methane Detection in Airborne Hyperspectral Imagery.
 - [Methane Source Finder](https://methane.jpl.nasa.gov/) - Explore, analyze, and download methane plumes detected from airborne platforms on an interactive map alongside VISTA infrastructure, gridded methane estimates, and other additional data layers.
 - [deep-smoke-machine](https://github.com/CMU-CREATE-Lab/deep-smoke-machine) - Deep learning models and dataset for recognizing industrial smoke emissions.
