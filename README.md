@@ -588,11 +588,12 @@ If you're looking for an entry point into domains like renewable energy, climate
 
 ### Computation and Communication
 
+- [Scaphandre](https://github.com/hubblo-org/scaphandre) - An open source software agent to track energy consumption of ICT services from the servers.
+- [Tracarbon](https://github.com/fvaleye/tracarbon) - Tracarbon tracks your device's energy consumption and calculates your carbon emissions using your location.
 - [H2020 CATALYST](https://gitlab.com/project-catalyst) - Converting data centres in energy flexibility ecosystems.
 - [Energy-Languages](https://github.com/greensoftwarelab/Energy-Languages) - The complete set of tools for energy consumption analysis of programming languages, using Computer Language Benchmark Game.
 - [energyusage](https://github.com/responsibleproblemsolving/energy-usage) - A Python package that measures the environmental impact of computation.
 - [Green Cost Explorer](https://github.com/thegreenwebfoundation/green-cost-explorer) - See how much of your cloud bill is spent on fossil fuels, so you can do the right thing and switch.
-- [Scaphandre](https://github.com/hubblo-org/scaphandre) - An open source software agent to track energy consumption of ICT services from the servers.
 - [CPU Energy Meter](https://github.com/sosy-lab/cpu-energy-meter) - A Linux tool that allows to monitor power consumption of Intel CPUs at fine time intervals.
 - [PowerAPI](https://github.com/powerapi-ng/powerapi) - A middleware toolkit for building software-defined power meters.
 - [argos](https://github.com/marmelab/argos) - A tool to measure consumption of a given Docker command and see its performance evolution. Argos is able to measure CPU, memory and network usage of Docker containers for a given command. By measuring resource consumption of dockerized E2E tests, Argos allows to compare the consumption of an app between its different versions.
@@ -624,7 +625,6 @@ If you're looking for an entry point into domains like renewable energy, climate
 
 - [impact](https://github.com/mlco2/impact/) - Compute your ML model's emissions with our calculator and add the results to your paper with our generated LaTeX template.
 - [carbon footprint](https://github.com/protea-earth/carbon_footprint) - Calculate your carbon footprint easily using a command line interface.
-- [Tracarbon](https://github.com/fvaleye/tracarbon) - Tracarbon tracks your device's energy consumption and calculates your carbon emissions using your location.
 - [CarbonFootprintEGU](https://github.com/milankl/CarbonFootprintEGU) - Travel carbon footprint of the European Geosciences Union General Assembly 2019.
 - [Bloom](https://github.com/tmrowco/bloom-contrib) - A SaaS that allow companies to become climate leaders, from calculating their climate impact to communicating about their climate efforts. It connects to as many data sources as possible to assess your carbon footprint and find mitigation opportunities.
 - [NMF.earth app](https://github.com/NMF-earth/nmf-app) - iOS & Android app to understand and reduce your carbon footprint.
