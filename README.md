@@ -1044,6 +1044,7 @@ If you're looking for an entry point into domains like renewable energy, climate
 - [xgcm](https://github.com/xgcm/xgcm) - A Python package for analyzing general circulation model output data.
 - [MPAS-Analysis](https://github.com/MPAS-Dev/MPAS-Analysis) - Provides analysis for the MPAS components of ACME.
 - [DALES](https://github.com/dalesteam/dales) - Dutch Atmospheric Large-Eddy Simulation model.
+- [WRF](https://github.com/wrf-model/WRF) - A state-of-the-art atmospheric modeling system designed for both meteorological research and numerical weather prediction.
 
 ### Radiative Transfer
 
