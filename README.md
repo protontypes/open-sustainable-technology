@@ -45,8 +45,7 @@ If you're looking for an entry point into domains like renewable energy, climate
 - [Climate and Earth Science](#climate-and-earth-science)
   - [Earth and Climate Modeling](#earth-and-climate-modeling)
   - [Radiative Transfer](#radiative-transfer)
-  - [Earth Observation and Climate Monitoring](#earth-observation-and-climate-monitoring)
-  - [Meteorological Observation](#meteorological-observation) 
+  - [Meteorological Observation and Forecast](#meteorological-observation-and-forecast) 
   - [Climate Data Processing and Access](#climate-data-processing-and-access)
   - [Integrated Assessment](#integrated-assessment)
 - [Natural Resources](#natural-resources)
@@ -1045,21 +1044,7 @@ If you're looking for an entry point into domains like renewable energy, climate
 - [MPAS-Analysis](https://github.com/MPAS-Dev/MPAS-Analysis) - Provides analysis for the MPAS components of ACME.
 - [DALES](https://github.com/dalesteam/dales) - Dutch Atmospheric Large-Eddy Simulation model.
 - [WRF](https://github.com/wrf-model/WRF) - A state-of-the-art atmospheric modeling system designed for both meteorological research and numerical weather prediction.
-
-### Radiative Transfer
-
-- [RadiativeTransfer.jl](https://github.com/RadiativeTransfer/RadiativeTransfer.jl) - A full end-to-end modular software suite for radiative transfer and related atmospheric analysis.
-- [libRadtran](http://www.libradtran.org/) - A collection of C and Fortran functions and programs for calculation of solar and thermal radiation in the Earth's atmosphere.
-- [ARTS](https://github.com/atmtools/arts) - A radiative transfer model for the millimeter and sub-millimeter spectral range.
-- [Py6S](https://github.com/robintw/Py6S) - A Python interface to the 6S Radiative Transfer Model.
-- [RTE+RRTMGP](https://github.com/earth-system-radiation/rte-rrtmgp) - A set of codes for computing radiative fluxes in planetary atmospheres.
-- [LBLRTM](https://github.com/AER-RC/LBLRTM) - Line-By-Line Radiative Transfer Model is an accurate and efficient line-by-line radiative transfer model derived from the Fast Atmospheric Signature Code.
-- [Eradiate](https://github.com/eradiate/eradiate) - A next-generation radiative transfer model for Earth observation applications.
-- [Juelich Rapid Spectral Simulation Code](https://github.com/slcs-jsc/jurassic) - The Juelich Rapid Spectral Simulation Code (JURASSIC) is a fast infrared radiative transfer model for the analysis of atmospheric remote sensing measurements.
-- [Tenstream](https://github.com/tenstream/tenstream) - A 3D radiative transfer solver for earth system models.
-
-### Earth Observation and Climate Monitoring 
-
+- [wrf-python](https://github.com/NCAR/wrf-python) - A collection of diagnostic and interpolation routines for use with output from the Weather Research and Forecasting Model.
 - [ClimateSatellite.jl](https://github.com/JuliaClimate/ClimateSatellite.jl) - Julia package that downloads measurements and observational of climate satellite mission data.
 - [canadaHCD](https://github.com/gavinsimpson/canadaHCD/) - Access Canadian Historical Climate Data from R.
 - [climatedataguide](https://climatedataguide.ucar.edu/) - Search and access 212 datasets covering the Atmosphere, Ocean, Land and more. Explore climate indices, reanalyses and satellite data and understand their application to climate model metrics.
@@ -1078,8 +1063,20 @@ If you're looking for an entry point into domains like renewable energy, climate
 - [ecmwfr](https://github.com/bluegreen-labs/ecmwfr) - Provides easy access to the European Centre for Medium-Range Weather Forecasts web API services and Copernicus Climate Data Store from within R, matching and expanding upon the ECMWF Python tools.
 
 
-### Meteorological Observation
+### Radiative Transfer
 
+- [RadiativeTransfer.jl](https://github.com/RadiativeTransfer/RadiativeTransfer.jl) - A full end-to-end modular software suite for radiative transfer and related atmospheric analysis.
+- [libRadtran](http://www.libradtran.org/) - A collection of C and Fortran functions and programs for calculation of solar and thermal radiation in the Earth's atmosphere.
+- [ARTS](https://github.com/atmtools/arts) - A radiative transfer model for the millimeter and sub-millimeter spectral range.
+- [Py6S](https://github.com/robintw/Py6S) - A Python interface to the 6S Radiative Transfer Model.
+- [RTE+RRTMGP](https://github.com/earth-system-radiation/rte-rrtmgp) - A set of codes for computing radiative fluxes in planetary atmospheres.
+- [LBLRTM](https://github.com/AER-RC/LBLRTM) - Line-By-Line Radiative Transfer Model is an accurate and efficient line-by-line radiative transfer model derived from the Fast Atmospheric Signature Code.
+- [Eradiate](https://github.com/eradiate/eradiate) - A next-generation radiative transfer model for Earth observation applications.
+- [Juelich Rapid Spectral Simulation Code](https://github.com/slcs-jsc/jurassic) - The Juelich Rapid Spectral Simulation Code (JURASSIC) is a fast infrared radiative transfer model for the analysis of atmospheric remote sensing measurements.
+- [Tenstream](https://github.com/tenstream/tenstream) - A 3D radiative transfer solver for earth system models.
+
+
+### Meteorological Observation and Forecast 
 - [Open-Meteo](https://github.com/open-meteo/open-meteo) - Global weather API for non-commercial use with hourly weather forecast.
 - [stationaRy](https://github.com/rich-iannone/stationaRy) - Get hourly meteorological data from one of thousands of global stations.
 - [weathercan](https://github.com/ropensci/weathercan) - This package makes it easier to search for and download multiple months/years of historical weather data from the Environment and Climate Change Canada (ECCC) website.
@@ -1156,7 +1153,6 @@ If you're looking for an entry point into domains like renewable energy, climate
 - [ENGAGE](https://github.com/iiasa/ENGAGE-netzero-analysis) - Source code for figure generation and analysis of the ENGAGE netzero scenario analysis.
 - [pyam](https://github.com/IAMconsortium/pyam) - A Python package for data-wrangling, analysis and visualization of integrated-assessment scenarios and energy systems modeling results.
 - [GCAM](https://github.com/JGCRI/gcam-core) - A dynamic-recursive model with technology-rich representations of the economy, energy sector, land use and water linked to a climate model that can be used to explore climate change mitigation policies including carbon taxes, carbon trading, regulations and accelerated deployment of energy technology.
-
 - [EXIOMOD](https://github.com/TNO/EXIOMOD-open) - A macro-economic model that predicts the effects of public authority measures, shifts in consumer behaviour and associated enviromnetal impacts.
 
 ## Natural Resources
