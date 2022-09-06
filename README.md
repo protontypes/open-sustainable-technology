@@ -1259,6 +1259,7 @@ If you're looking for an entry point into domains like renewable energy, climate
 - [OpenET](https://github.com/Open-ET/openet-ssebop) - Provides Google Earth Engine Python API based implementation of the SSEBop ET model used within OpenET.
 - [SPEI](https://github.com/sbegueria/SPEI) - Computing the Standardized Precipitation-Evapotranspiration Index and other reference evapotranspiration.
 - [pipedream](https://github.com/mdbartos/pipedream) - Interactive hydrodynamic solver for sewer/stormwater networks.
+- [TADA](https://github.com/USEPA/TADA) - Help developers compile and evaluate water quality data for samples collected from surface water monitoring sites on streams and lakes.
 
 ### Soil and Land
 
