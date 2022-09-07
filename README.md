@@ -858,6 +858,7 @@ If you're looking for an entry point into domains like renewable energy, climate
 - [iNaturalist](https://github.com/inaturalist/inaturalist) - Helps you identify the plants and animals around you.
 - [pyinaturalist](https://github.com/pyinat/pyinaturalist) - Python client for iNaturalist, a community science platform that helps people get involved in the natural world by observing and identifying the living things around them.
 - [TaxonWorks](https://github.com/SpeciesFileGroup/taxonworks) - An integrated web-based workbench for taxonomists and biodiversity scientists.
+- [bioRad](https://github.com/adokter/bioRad) - R package for analysis and visualisation of biological signals in weather radar data.
 
 
 ### Cryosphere
@@ -1077,7 +1078,8 @@ If you're looking for an entry point into domains like renewable energy, climate
 - [Tenstream](https://github.com/tenstream/tenstream) - A 3D radiative transfer solver for earth system models.
 
 
-### Meteorological Observation and Forecast 
+### Meteorological Observation and Forecast
+
 - [Open-Meteo](https://github.com/open-meteo/open-meteo) - Global weather API for non-commercial use with hourly weather forecast.
 - [stationaRy](https://github.com/rich-iannone/stationaRy) - Get hourly meteorological data from one of thousands of global stations.
 - [weathercan](https://github.com/ropensci/weathercan) - This package makes it easier to search for and download multiple months/years of historical weather data from the Environment and Climate Change Canada (ECCC) website.
