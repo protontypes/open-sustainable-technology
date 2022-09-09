@@ -1063,6 +1063,7 @@ If you're looking for an entry point into domains like renewable energy, climate
 - [esa-climate-from-space](https://github.com/ubilabs/esa-climate-from-space) - The role of the Climate from Space application is to increase the visibility of the Climate Change Initiative programme and the role of ESA satellite data in climate science.
 - [pygac](https://github.com/pytroll/pygac) - A Python package to read and calibrate NOAA and Metop AVHRR GAC and LAC data.
 - [ecmwfr](https://github.com/bluegreen-labs/ecmwfr) - Provides easy access to the European Centre for Medium-Range Weather Forecasts web API services and Copernicus Climate Data Store from within R, matching and expanding upon the ECMWF Python tools.
+- [GDESS](https://github.com/E3SM-Project/gdess) - Tool for evaluating atmospheric carbon dioxide concentrations as simulated by Earth system models.
 
 
 ### Radiative Transfer
