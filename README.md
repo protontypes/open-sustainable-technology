@@ -6,7 +6,9 @@ __A curated list of open technology projects to sustain a stable climate, energy
 
 If you're looking for an entry point into domains like renewable energy, climate change, or earth science, check out the collection of tutorials in the [learning section](https://opensustain.tech/learning/). In the [discovery section](https://opensustain.tech/discover/), you can search all projects by metadata such as programming language, first good output, or number of contributors. 
 
-[![](https://badgen.net/badge/icon/Follow%20Updates/009485?icon=twitter&label&scale=1.3)](https://twitter.com/protontypes) [![](https://badgen.net/badge/icon/Add%20a%20Project/009485?icon=git&label&scale=1.3)](https://github.com/protontypes/open-sustainable-technology/blob/main/CONTRIBUTING.md)  [![](https://badgen.net/badge/View/Database/009485?scale=1.3)](https://airtable.com/shr9we419r2TkpLkc)  
+[![](https://badgen.net/badge/icon/Follow%20Updates/009485?icon=twitter&label)](https://twitter.com/protontypes) [![](https://badgen.net/badge/icon/Add%20a%20Project/009485?icon=git&label)](https://github.com/protontypes/open-sustainable-technology/blob/main/CONTRIBUTING.md)  [![](https://badgen.net/badge/View/Database/009485)](https://airtable.com/shr9we419r2TkpLkc)  
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7066539.svg)](https://doi.org/10.5281/zenodo.7066539)
+
 
 <!--toc-->
 ## Contents
