@@ -1,0 +1,22 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  Projects and Organizations in Open Sustainable
+  Technology
+message: >-
+  If you use this dataset, please cite it using the
+  metadata from this file.
+type: dataset
+authors:
+  - given-names: Tobias
+    family-names: Augspurger
+  - given-names: 'Eirini '
+    family-names: Malliaraki
+  - given-names: Josh
+    family-names: Hopkins
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.7066539
+    description: 'First published dataset '
