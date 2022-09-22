@@ -162,6 +162,7 @@ If you're looking for an entry point into domains like renewable energy, climate
 - [brightwind](https://github.com/brightwind-dev/brightwind) - A Python library aims to empower wind resource analysts and establish a common industry standard toolset.
 - [NRWAL](https://github.com/NREL/NRWAL) - A library of offshore wind cost equations.
 - [welib](https://github.com/ebranlard/welib) - Wind energy library, python and matlab tools for wind turbines analyses.
+- [digital_wra_data_standard](https://github.com/IEA-Task-43/digital_wra_data_standard) - This standard data model and associated tools are intended as universal building blocks for Wind Energy Resource Assessment applications.
 
 
 ### Hydro Energy
