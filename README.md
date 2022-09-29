@@ -353,6 +353,7 @@ If you're looking for an entry point into domains like renewable energy, climate
 - [Asset-level Transition Risk in the Global Coal, Oil, and Gas Supply Chains](https://github.com/Lkruitwagen/global-fossil-fuel-supply-chain) - The global fossil fuel supply chain, mapped at the asset-level.
 - [draf](https://github.com/DrafProject/draf) - Analysis and decision support framework for local multi-energy hubs focusing on demand response.
 - [GENeSYS-MOD](https://git.tu-berlin.de/genesysmod/genesys-mod-public) - An open-source energy system model, originally based on the Open-Source Energy Modeling System (OSeMOSYS) framework, with various additions.
+- [PyPSA meets Earth](https://github.com/pypsa-meets-earth/pypsa-earth) - A global energy system model with data in high spatial and temporal resolution.
 
 ### Energy Monitoring and Control
 
