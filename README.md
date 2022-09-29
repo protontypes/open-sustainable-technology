@@ -4,7 +4,7 @@
 
 __A curated list of open technology projects to sustain a stable climate, energy supply, and natural resources.__ <br> <br> Your contribution is essential to keep this list alive. Read more about its origin and how you can participate in the [contribution guide](https://opensustain.tech/contributing/), [presentation slides](https://protontypes.eu/protontypes_open_sustainable_technology.pdf) and related [blog post](https://opensustain.tech/blog/gathering_open_sustainable_technology/). Please [write an email](mailto:tobias.augspurger@protontypes.eu) to give feedback, hints and ideas considering [OpenSustain.tech](https://opensustain.tech/) or [create an issue](https://github.com/protontypes/open-sustainable-technology/issues/new).
 
-If you're looking for an entry point into domains like renewable energy, climate change, or earth science, check out the collection of tutorials in the [learning section](https://opensustain.tech/learning/). In the [discovery section](https://opensustain.tech/discover/), you can search all projects by metadata such as programming language, first good output, or number of contributors. 
+If you're looking for an entry point into domains like renewable energy, climate change, or earth science, check out the collection of tutorials in the [learning section](https://opensustain.tech/learning/). In the [discovery section](https://opensustain.tech/discover/), you can search all projects by metadata such as used programming languages or topics. 
 
 [![](https://badgen.net/badge/icon/Follow%20Updates/009485?icon=twitter&label)](https://twitter.com/protontypes) [![](https://badgen.net/badge/icon/Add%20a%20Project/009485?icon=git&label)](https://github.com/protontypes/open-sustainable-technology/blob/main/CONTRIBUTING.md)  [![](https://badgen.net/badge/View/Database/009485)](https://airtable.com/shr9we419r2TkpLkc)  
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7066539.svg)](https://doi.org/10.5281/zenodo.7066539)
@@ -866,6 +866,7 @@ If you're looking for an entry point into domains like renewable energy, climate
 - [pyinaturalist](https://github.com/pyinat/pyinaturalist) - Python client for iNaturalist, a community science platform that helps people get involved in the natural world by observing and identifying the living things around them.
 - [TaxonWorks](https://github.com/SpeciesFileGroup/taxonworks) - An integrated web-based workbench for taxonomists and biodiversity scientists.
 - [bioRad](https://github.com/adokter/bioRad) - R package for analysis and visualisation of biological signals in weather radar data.
+- [spatialEco](https://github.com/jeffreyevans/spatialEco) - R package for spatial analysis and modelling of ecological systems.
 
 
 ### Cryosphere
