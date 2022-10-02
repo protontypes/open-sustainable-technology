@@ -867,6 +867,7 @@ If you're looking for an entry point into domains like renewable energy, climate
 - [TaxonWorks](https://github.com/SpeciesFileGroup/taxonworks) - An integrated web-based workbench for taxonomists and biodiversity scientists.
 - [bioRad](https://github.com/adokter/bioRad) - R package for analysis and visualisation of biological signals in weather radar data.
 - [spatialEco](https://github.com/jeffreyevans/spatialEco) - R package for spatial analysis and modelling of ecological systems.
+- [allodb](https://github.com/ropensci/allodb) - An R package for biomass estimation at extratropical forest plots.
 
 
 ### Cryosphere
