@@ -1168,6 +1168,9 @@ If you're looking for an entry point into domains like renewable energy, climate
 - [pyam](https://github.com/IAMconsortium/pyam) - A Python package for data-wrangling, analysis and visualization of integrated-assessment scenarios and energy systems modeling results.
 - [GCAM](https://github.com/JGCRI/gcam-core) - A dynamic-recursive model with technology-rich representations of the economy, energy sector, land use and water linked to a climate model that can be used to explore climate change mitigation policies including carbon taxes, carbon trading, regulations and accelerated deployment of energy technology.
 - [EXIOMOD](https://github.com/TNO/EXIOMOD-open) - A macro-economic model that predicts the effects of public authority measures, shifts in consumer behaviour and associated enviromnetal impacts.
+- [remind](https://github.com/pik-piam/remind) - A numerical model that represents the future evolution of the world economies with a special focus on the development of the energy sector and the implications for our world climate. 
+- [mrremind](https://github.com/pik-piam/mrremind) - MadRat REMIND Input Data Package.
+- [edgeTransport](https://github.com/pik-piam/edgeTransport) - Prepare EDGE Transport Data for the REMIND model.
 
 ## Natural Resources
 
