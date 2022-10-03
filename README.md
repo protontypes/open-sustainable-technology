@@ -522,7 +522,7 @@ If you're looking for an entry point into domains like renewable energy, climate
 - [icare](https://github.com/diowa/icare) - An open source carpooling platform used as a basis for our commercial product Company Carpool.
 - [Carpoolear](https://github.com/STS-Rosario/carpoolear) - The first Argentine Facebook app that allows the users of this social network to share car trips with other users.
 - [UTD19](https://utd19.ethz.ch/) - Largest multi-city traffic dataset publicly available.
-- [OpenEVSE](https://github.com/lincomatic/open_evse) - Firmware for OpenEVSE: Open Source Hardware J1772 Electric Vehicle Supply Equipment.
+- [OpenEVSE](https://github.com/OpenEVSE/open_evse) - Firmware for OpenEVSE: Open Source Hardware J1772 Electric Vehicle Supply Equipment.
 - [OpenEVSE WiFi gateway](https://github.com/OpenEVSE/ESP8266_WiFi_v2.x) - Uses an ESP8266 (ESP-12) which communicates with the OpenEVSE controller via serial utilizing the existing RAPI API serial interface.
 - [navitia](https://github.com/CanalTP/navitia) - An open source web API, initially built to provide traveler information on urban transportation networks.
 - [DeepMove](https://github.com/vonfeng/DeepMove) - Predicting Human Mobility with Attentional Recurrent Networks.
