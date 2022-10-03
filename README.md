@@ -971,6 +971,7 @@ If you're looking for an entry point into domains like renewable energy, climate
 - [qgs](https://github.com/Climdyn/qgs) - Models the dynamics of a 2-layer quasi-geostrophic channel atmosphere on a beta-plane, coupled to a simple land or shallow-water ocean component.
 - [leaflet-velocity](https://github.com/danwild/leaflet-velocity) - Create a canvas visualization layer for direction and intensity of arbitrary velocities (e.g. wind, ocean current).
 - [wrfhydropy](https://github.com/NCAR/wrf_hydro_py) - Provides an end-to-end python interface to support reproducible research and construction of workflows involving the WRF-Hydro model.
+- [LAGOSNE](https://github.com/cont-limno/LAGOSNE) - Interface to the LAke multi-scaled GeOSpatial & temporal database.
 
 
 ### Atmosphere
