@@ -163,7 +163,7 @@ If you're looking for an entry point into domains like renewable energy, climate
 - [NRWAL](https://github.com/NREL/NRWAL) - A library of offshore wind cost equations.
 - [welib](https://github.com/ebranlard/welib) - Wind energy library, python and matlab tools for wind turbines analyses.
 - [digital_wra_data_standard](https://github.com/IEA-Task-43/digital_wra_data_standard) - This standard data model and associated tools are intended as universal building blocks for Wind Energy Resource Assessment applications.
-
+- [awebox](https://github.com/awebox/awebox) - Modelling and optimal control of single- and multiple-kite systems for airborne wind energy.
 
 ### Hydro Energy
 
@@ -332,7 +332,6 @@ If you're looking for an entry point into domains like renewable energy, climate
 - [rl-testbed-for-energyplus](https://github.com/IBM/rl-testbed-for-energyplus) - Reinforcement Learning Testbed for Power Consumption Optimization using EnergyPlus.
 - [tsam](https://github.com/FZJ-IEK3-VSA/tsam) - A Python package which uses different machine learning algorithms for the aggregation of time series.
 - [TimeSeriesClustering](https://github.com/holgerteichgraeber/TimeSeriesClustering.jl) - Provides simple integration of multi-dimensional time-series data (e.g. multiple attributes such as wind availability, solar availability, and electricity demand) in a single aggregation process.
-- [MESSAGEix](https://github.com/iiasa/message_ix) - A versatile, dynamic systems-optimization modeling framework developed by the IIASA Energy, Climate, and Environment (ECE) Program since the 1980s.
 - [GridPath](https://github.com/blue-marble/gridpath) - A versatile simulation and optimization platform for power-system planning and operations.
 - [Peaky Finders](https://github.com/kbaranko/peaky-finders) - A Plotly Dash application with helpful peak load visualizations and a day ahead forecasting model for five different ISOs.
 - [Renewcast](https://github.com/derevirn/renewcast) - Forecasting renewable energy generation in EU countries with machine learning algorithms, based on Streamlit and sktime.
@@ -1162,6 +1161,7 @@ If you're looking for an entry point into domains like renewable energy, climate
 
 ### Integrated Assessment
 
+- [MESSAGEix](https://github.com/iiasa/message_ix) - A versatile, dynamic systems-optimization modeling framework developed by the IIASA Energy, Climate, and Environment (ECE) Program since the 1980s.
 - [DICE.jl](https://github.com/Libbum/DICE.jl) - The Dynamic Integrated model of Climate and the Economy model family are a popular and capable type of simple Integrated Assessment Model of climate change economics pioneered by William Nordhaus.
 - [LPJmL](https://gitlab.pik-potsdam.de/lpjml/LPJmL) - A process-based model that simulates climate and land-use change impacts on the terrestrial biosphere, the water and carbon cycle and on agricultural production.
 - [ENGAGE](https://github.com/iiasa/ENGAGE-netzero-analysis) - Source code for figure generation and analysis of the ENGAGE netzero scenario analysis.
