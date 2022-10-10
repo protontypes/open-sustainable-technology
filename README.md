@@ -897,6 +897,7 @@ If you're looking for an entry point into domains like renewable energy, climate
 - [DeepIceDrain](https://github.com/weiji14/deepicedrain) - Mapping and monitoring deep subglacial water activity in Antarctica using remote sensing and machine learning.
 - [cosipy](https://github.com/cryotools/cosipy) - Solves the energy balance at the surface and is coupled to an adaptive vertical multi-layer subsurface module.
 - [QGreenland](https://github.com/nsidc/qgreenland) - A free mapping tool to support interdisciplinary Greenland-focused research, teaching, decision making, and collaboration.
+- [Teaspoon](https://gitlab.com/permafrostnet/teaspoon) - A python library designed to make working with permafrost ground temperature time series data more straightforward, efficient, and reproduceable.
 
 
 ### Hydrosphere
