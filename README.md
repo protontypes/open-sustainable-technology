@@ -867,6 +867,7 @@ If you're looking for an entry point into domains like renewable energy, climate
 - [bioRad](https://github.com/adokter/bioRad) - R package for analysis and visualisation of biological signals in weather radar data.
 - [spatialEco](https://github.com/jeffreyevans/spatialEco) - R package for spatial analysis and modelling of ecological systems.
 - [allodb](https://github.com/ropensci/allodb) - An R package for biomass estimation at extratropical forest plots.
+- [ecoCore](https://github.com/EcologicalSemantics/ecocore) - A standard vocabulary for the ecological community, a need expressed repeatedly over the past few years at workshops focused on ecological, environmental, and population-based semantics.
 
 
 ### Cryosphere
