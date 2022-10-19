@@ -81,7 +81,7 @@
 ### Hydrosphere
 - [MarineEcosystemsJuliaCon2021.jl](https://github.com/JuliaOcean/MarineEcosystemsJuliaCon2021.jl) - Modeling Marine Ecosystems At Multiple Scales Using Julia.
 - [CoastWatch Satellite Course](https://coastwatch.gitbook.io/satellite-course/) - The goal of the course is to familiarize university researchers and students with different types of ocean satellite data, different tools, and teach participants how to use satellite data in their own research using their choice of software (R, python, ArcGIS).
-
+- [The Argo Online School](https://euroargodev.github.io/argoonlineschool/intro.html) - Teach the basic foundations to use and understand Argo an international program that collects information from inside the ocean using a fleet of floats that drift with the ocean currents.
 
 
 ## Natural Resources 
