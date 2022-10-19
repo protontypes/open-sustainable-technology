@@ -7,7 +7,7 @@
 - [geothermics](https://github.com/Japhiolite/geothermics) - Educational repository with Jupyter Notebooks all around the topic of geothermal energy.
 - [Photovoltaics Education Website](https://www.pveducation.org/) - A detailed deep dive to get started with photovolatic technology.
 - [Predicting the Wind: Data Science in Wind Resource Assessment](https://github.com/flrs/predicting_the_wind) - Contains material for a hands-on tutorial and additional content about data science in wind resource assessment.
-- [PVSC48-Python-Tutorial](https://github.com/PVSC-Python-Tutorials/PVSC48-Python-Tutorial) - Computing tutorial with focus on PV computing packages, Python, data wrangling with Pandas, and data viz.
+- [PVSC48-Python-Tutorial](https://pvsc-python-tutorials.github.io/PVSC48-Python-Tutorial) - Computing tutorial with focus on PV computing packages, Python, data wrangling with Pandas, and data viz.
 
 ## Energy Systems 
 
