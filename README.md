@@ -1161,6 +1161,7 @@ If you're looking for an entry point into domains like renewable energy, climate
 - [esd](https://github.com/metno/esd) - Designed for climate and weather data analysis, empirical-statistical downscaling, and visualisation.
 - [Climate Data Store Toolbox for MATLAB](https://github.com/mathworks/climatedatastore) - This toolbox allows you to easily access data and download hundreds of data sets associated with climate change for analysis in MATLAB.
 - [semanticClimate](https://github.com/petermr/semanticClimate) - Conversion of IPCC documents into semantic form.
+- [Miranda](https://github.com/Ouranosinc/miranda) - A modern Python utility library for climate data collection and management.
 
 ### Integrated Assessment
 
