@@ -2,7 +2,7 @@
 # Open Sustainable Technology
 [<img src="earth.png" align="right" width="350">](https://tabletopwhale.com/)
 
-__A curated list of open technology projects to sustain a stable climate, energy supply, and natural resources.__ <br> <br> Your contribution is essential to keep this list alive. Read more about its origin and how you can participate in the [contribution guide](https://opensustain.tech/contributing/), [presentation slides](https://protontypes.eu/protontypes_open_sustainable_technology.pdf) and related [blog post](https://opensustain.tech/blog/gathering_open_sustainable_technology/). Please [write an email](mailto:tobias.augspurger@protontypes.eu) to give feedback, hints and ideas considering [OpenSustain.tech](https://opensustain.tech/) or [create an issue](https://github.com/protontypes/open-sustainable-technology/issues/new).
+__A curated list of open technology projects to sustain a stable climate, energy supply, biodiversity and natural resources.__ <br> <br> Your contribution is essential to keep this list alive. Read more about its origin and how you can participate in the [contribution guide](https://opensustain.tech/contributing/), [presentation slides](https://protontypes.eu/protontypes_open_sustainable_technology.pdf) and related [blog post](https://opensustain.tech/blog/gathering_open_sustainable_technology/). Please [write an email](mailto:tobias.augspurger@protontypes.eu) to give feedback, hints and ideas considering [OpenSustain.tech](https://opensustain.tech/) or [create an issue](https://github.com/protontypes/open-sustainable-technology/issues/new).
 
 If you're looking for an entry point into domains like renewable energy, climate change, or earth science, check out the collection of tutorials in the [learning section](https://opensustain.tech/learning/). In the [discovery section](https://opensustain.tech/discover/), you can search all projects by metadata such as used programming languages or topics. 
 
@@ -448,6 +448,7 @@ If you're looking for an entry point into domains like renewable energy, climate
 
 ### Buildings and Heating 
 
+- [scout](https://github.com/trynthink/scout) - A tool for estimating the future energy use, carbon emissions, and capital and operating cost impacts of energy efficiency and demand flexibility technologies in the U.S. residential and commercial building sectors.
 - [BOPTEST](https://github.com/ibpsa/project1-boptest) - The Building Optimization Testing (BOPTEST) Framework enables the assessment and benchmarking of control algorithms for building energy management.
 - [BOPTEST-Gym](https://github.com/ibpsa/project1-boptest-gym) - The OpenAI-Gym interface of the BOPTEST framework facilitates the assessment and benchmarking of RL algorithms for building energy management.
 - [hpxml](https://github.com/hpxmlwg/hpxml) - Home Performance XML is a data transfer standard for the home performance industry.
