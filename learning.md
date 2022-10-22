@@ -76,6 +76,7 @@
 - [R-ecology-lesson](https://github.com/datacarpentry/R-ecology-lesson) - Data Analysis and Visualization in R for Ecologists.
 - [ECOSTRESS Tutorial](https://git.earthdata.nasa.gov/projects/LPDUR/repos/tutorial-ecostress) - The ECOSTRESS mission is tasked with measuring the temperature of plants to better understand how much water plants need and how they respond to stress.
 - [Tutorial for Working with NASA VIIRS Surface Reflectance Data](https://git.earthdata.nasa.gov/projects/LPDUR/repos/nasa_viirs_surfacereflectance/) - Converting VNP09GA files into quality-filtered vegetation indices and examining the trend in vegetation greenness during July 2018 to observe drought in Europe.
+- [MapBiomas 101](https://github.com/mapbiomas-brazil/mapbiomas-training) - Google Earth Engine Tutorials to produce annual land use and land cover maps from Brazil.
 
 
 ### Hydrosphere
