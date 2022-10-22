@@ -52,7 +52,7 @@ If you're looking for an entry point into domains like renewable energy, climate
   - [Integrated Assessment](#integrated-assessment)
 - [Natural Resources](#natural-resources)
   - [Air Quality](#air-quality)
-  - [Water Supply](#water-supply)
+  - [Water Supply and Quality](#water-supply-and-quality)
   - [Soil and Land](#soil-and-land)
   - [Agriculture and Nutrition](#agriculture-and-nutrition)
   - [Natural Hazard and Poverty](#natural-hazard-and-poverty)
@@ -1212,7 +1212,7 @@ If you're looking for an entry point into domains like renewable energy, climate
 - [saqgetr](https://github.com/skgrange/saqgetr) - Import Air Quality Monitoring Data in a Fast and Easy Way.
 - [Ozone](https://github.com/Milind220/Ozone) - An open-source package to easily obtain real-time, historical, or forecasted air quality data for anywhere in the world.
 
-### Water Supply
+### Water Supply and Quality 
 
 - [Stormwater-Management-Model](https://github.com/USEPA/Stormwater-Management-Model) - Used for single event or long-term (continuous) simulation of runoff quantity and quality from primarily urban areas.
 - [dataRetrieval](https://github.com/USGS-R/dataRetrieval) - This R package is designed to obtain USGS or EPA water quality sample data, streamflow data and metadata directly from web services.
@@ -1283,6 +1283,7 @@ If you're looking for an entry point into domains like renewable energy, climate
 - [SPEI](https://github.com/sbegueria/SPEI) - Computing the Standardized Precipitation-Evapotranspiration Index and other reference evapotranspiration.
 - [pipedream](https://github.com/mdbartos/pipedream) - Interactive hydrodynamic solver for sewer/stormwater networks.
 - [TADA](https://github.com/USEPA/TADA) - Help developers compile and evaluate water quality data for samples collected from surface water monitoring sites on streams and lakes.
+- [wqtrends](https://github.com/tbep-tech/wqtrends) - R package to assess water quality trends with generalized additive models.
 
 ### Soil and Land
 
