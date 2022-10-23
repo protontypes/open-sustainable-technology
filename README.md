@@ -303,7 +303,6 @@ If you're looking for an entry point into domains like renewable energy, climate
 - [reVX](https://github.com/NREL/reVX) - Renewable Energy Potential(V) eXchange Toot.
 - [CapacityExpansion.jl](https://github.com/YoungFaithful/CapacityExpansion.jl) - Future energy system planning (Generation and Transmission Capacity Expansion Planning) in Julia.
 - [DPsim](https://github.com/sogno-platform/dpsim) - A solver library for dynamic power system simulation.
-- [PyPSA meets Africa](https://github.com/pypsa-meets-africa/pypsa-africa) - A free and open source software project aiming to develop a powerful energy system model for Africa.
 - [GenX](https://github.com/GenXProject/GenX) - A highly-configurable, open source electricity resource capacity expansion model that incorporates several state-of-the-art practices in electricity system planning to offer improved decision support for a changing electricity landscape.
 - [Open Energy Platform](https://github.com/OpenEnergyPlatform/oeplatform) - Aims to ensure quality, transparency and reproducibility in energy system research. It is a collection of various tools and information and that help working with energy-related data.
 - [PyPSA](https://github.com/PyPSA/PyPSA) - A free software toolbox for simulating and optimizing modern power systems that include features such as conventional generators with unit commitment, variable wind and solar generation, storage units, coupling to other energy sectors, and mixed alternating and direct current networks.
@@ -352,7 +351,7 @@ If you're looking for an entry point into domains like renewable energy, climate
 - [Asset-level Transition Risk in the Global Coal, Oil, and Gas Supply Chains](https://github.com/Lkruitwagen/global-fossil-fuel-supply-chain) - The global fossil fuel supply chain, mapped at the asset-level.
 - [draf](https://github.com/DrafProject/draf) - Analysis and decision support framework for local multi-energy hubs focusing on demand response.
 - [GENeSYS-MOD](https://git.tu-berlin.de/genesysmod/genesys-mod-public) - An open-source energy system model, originally based on the Open-Source Energy Modeling System (OSeMOSYS) framework, with various additions.
-- [PyPSA meets Earth](https://github.com/pypsa-meets-earth/pypsa-earth) - A global energy system model with data in high spatial and temporal resolution.
+- [PyPSA-Earth](https://github.com/pypsa-meets-earth/pypsa-earth) - An Open Optimisation Model of the Earth Energy System.
 
 ### Energy Monitoring and Control
 
