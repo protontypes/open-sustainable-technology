@@ -974,6 +974,7 @@ If you're looking for an entry point into domains like renewable energy, climate
 - [leaflet-velocity](https://github.com/danwild/leaflet-velocity) - Create a canvas visualization layer for direction and intensity of arbitrary velocities (e.g. wind, ocean current).
 - [wrfhydropy](https://github.com/NCAR/wrf_hydro_py) - Provides an end-to-end python interface to support reproducible research and construction of workflows involving the WRF-Hydro model.
 - [LAGOSNE](https://github.com/cont-limno/LAGOSNE) - Interface to the LAke multi-scaled GeOSpatial & temporal database.
+- [py-wave-runup](https://github.com/chrisleaman/py-wave-runup) - A Python module which makes it easy for coastal engineers and scientists to test and use various empirical wave runup models which have been published in literature.
 
 
 ### Atmosphere
@@ -1550,7 +1551,7 @@ If you're looking for an entry point into domains like renewable energy, climate
 - [Open Source Python Packages in Hydrology](https://github.com/raoulcollenteur/Python-Hydrology-Tools) - Holds a list of open source Python packages interesting to Hydrologists.
 - [PO.DAAC](https://podaac.jpl.nasa.gov/datasetlist) - NASA Earth Observing System Data and Information System data center managed by the Earth Science Data and Information System Project.
 - [Awesome Sentinel](https://github.com/Fernerkundung/awesome-sentinel) - A curated list of awesome tools, tutorials and APIs related to data from the Copernicus Sentinel Satellites.
-- [awesome-coastal](https://github.com/chrisleaman/awesome-coastal) - A curated list of awesome resources for coastal engineers and scientists.
+
 
 ## Contributors
 
