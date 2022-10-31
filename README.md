@@ -580,6 +580,7 @@ If you're looking for an entry point into domains like renewable energy, climate
 - [EVerest](https://github.com/EVerest/everest) - An open source software stack for EV charging infrastructure.
 - [Streetmix](https://github.com/streetmix/streetmix) - Makes it easy for people to design public spaces together.
 - [Transitland](https://github.com/transitland/transitland-atlas) -  An open data platform that collects GTFS, GTFS Realtime, and other open data feeds from transit providers around the world.
+- [cyclestreets](https://github.com/cyclestreets/cyclestreets-r) - The goal of cyclestreets is to provide a simple R interface to the CycleStreets routing service.
 
 
 ### Production and Industry
