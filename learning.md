@@ -13,7 +13,7 @@
 
 - [energy-sparks](https://github.com/Energy-Sparks/energy-sparks) - An open source application that is designed to help schools improve their energy efficiency.
 - [Building DC Energy Systems](https://learn.libre.solar/) - Hosts an Open Educational Resource (OER) for Building DC Energy Systems.
-- [Systems' Engineering for Energy Efficiency](http://jfmay.gitlab.io/systemtechnik-fuer-energieeffizienz/) - A Python course on Systems engineering for energy efficiency in German within the Master of Electrical Engineering and Master of Renewable Energy at the Cologne University of Applied Sciences.
+- [Systems' Engineering for Energy Efficiency](http://oer4renewables.gitlab.io/systemtechnik-fuer-energieeffizienz/) - A Python course on Systems engineering for energy efficiency in German within the Master of Electrical Engineering and Master of Renewable Energy at the Cologne University of Applied Sciences.
 - [ESM-lectures](https://github.com/nworbmot/esm-lectures) - Lecture slides for KIT Energy System Modelling course.
 - [Power Systems Optimization](https://github.com/east-winds/power-systems-optimization) - How to implement and apply linear and mixed integer linear programs to solve such problems using Julia/JuMP, and the practical application of such techniques in energy systems engineering.
 
