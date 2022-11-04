@@ -1414,6 +1414,7 @@ If you're looking for an entry point into domains like renewable energy, climate
 - [OasisLMF](https://github.com/OasisLMF/OasisLMF) - An open source catastrophe modelling platform, free to use by anyone.
 - [CAMS](https://github.com/CriticalAssetManagement/CAMS) - Critical Asset Management and Disaster Resilience for Islands, Cities, and Communities.
 - [pystorms](https://github.com/kLabUM/pystorms) - Simulation Sandbox for the Design and Evaluation of Stormwater Control Algorithms.
+- [StormEvents](https://github.com/oceanmodeling/StormEvents) - Provides Python interfaces for observational data surrounding named storm events.
 
 ## Sustainable Development
 
