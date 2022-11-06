@@ -96,3 +96,5 @@
 - [SDG Academy](https://sdgacademy.org/courses/) - Education platform of the Sustainable Development Solutions Network (SDSN), a global initiative for the United Nations.
 - [Spatial data science for sustainable development](https://sustainability-gis.readthedocs.io/en/latest/) - Introduces geographical and computational analysis approaches to study sustainability related questions.  
 
+## Integrated Assessment Modelling and Climate Econometrics
+- [Practical guide to Climate Econometrics](https://github.com/atrisovic/weather-panel.github.io/) - Better understand the impacts of climate change, disaster risk and responses, resource management, human behavior, and sustainable development.
