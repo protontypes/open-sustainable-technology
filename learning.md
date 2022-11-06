@@ -42,6 +42,7 @@
 - [Copernicus Training](https://github.com/ecmwf-projects/copernicus-training) - Data tutorials for the Copernicus Climate Change and Atmosphere Monitoring Services.
 - [The Environmental Data Science book](https://github.com/alan-turing-institute/environmental-ds-book) - A living, open and community-driven online resource to showcase and support the publication of data, research and open-source tools for collaborative, reproducible and transparent Environmental Data Science.
 - [Earthdata Cloud Cookbook](https://nasa-openscapes.github.io/earthdata-cloud-cookbook/) - This Cookbook is learning-oriented to support scientific researchers using NASA Earthdata from Distributed Active Archive Centers as they migrate their workflows to the cloud.
+- [Project Pythia](https://github.com/ProjectPythia/pythia-foundations) - A community learning resource for Python-based computing in the geosciences.
 
 ## Earth Observation 
 - [Radiant MLHub Tutorials](https://github.com/radiantearth/mlhub-tutorials) - Tutorials to access Radiant MLHub Training Datasets.
