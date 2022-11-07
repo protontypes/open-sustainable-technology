@@ -1529,7 +1529,8 @@ If you're looking for an entry point into domains like renewable energy, climate
 - [getSpatialData](https://github.com/16EAGLE/getSpatialData) - Making it easy to query, preview, download and preprocess multiple kinds of satellite datasets via R.
 - [sentinelsat](https://github.com/sentinelsat/sentinelsat) - Makes searching, downloading and retrieving the metadata of Sentinel satellite images from the Copernicus Open Access Hub easy.
 - [Smart Data Models](https://github.com/smart-data-models/dataModel.Environment) - This Models describe the main entities involved with smart applications that deal with environmental issues.
-- [epair](https://github.com/ropensci/epair) - Use R to get data from the Environmental Protection Agency API. 
+- [epair](https://github.com/ropensci/epair) - Use R to get data from the Environmental Protection Agency API.
+- [Siphon](https://github.com/Unidata/siphon) - A collection of Python utilities for retrieving atmospheric and oceanic data from remote sources, focusing on being able to retrieve data from Unidata data technologies.
 
 ### Curated Lists
 
