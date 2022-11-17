@@ -981,6 +981,7 @@ If you're looking for an entry point into domains like renewable energy, climate
 - [wrfhydropy](https://github.com/NCAR/wrf_hydro_py) - Provides an end-to-end python interface to support reproducible research and construction of workflows involving the WRF-Hydro model.
 - [LAGOSNE](https://github.com/cont-limno/LAGOSNE) - Interface to the LAke multi-scaled GeOSpatial & temporal database.
 - [py-wave-runup](https://github.com/chrisleaman/py-wave-runup) - A Python module which makes it easy for coastal engineers and scientists to test and use various empirical wave runup models which have been published in literature.
+- [RiverREM](https://github.com/OpenTopography/RiverREM) - Make river relative elevation models and REM visualizations from an input digital elevation model.
 
 
 ### Atmosphere
