@@ -34,7 +34,7 @@ If you're looking for an entry point into domains like renewable energy, climate
   - [Computation and Communication](#computation-and-communication)
 - [Emissions](#emissions)
   - [Carbon Intensity and Accounting](#carbon-intensity-and-accounting)
-  - [Carbon Capture and Removel](#carbon-capture-and-removel)
+  - [Carbon Capture and Removal](#carbon-capture-and-removal)
   - [Emission Observation and Modeling](#emission-observation-and-modeling)
 - [Industrial Ecology](#industrial-ecology)
   - [Life Cycle Assessment](#life-cycle-assessment)
@@ -656,7 +656,7 @@ If you're looking for an entry point into domains like renewable energy, climate
 - [OpenClimate](https://github.com/Open-Earth-Foundation/OpenClimate) - Independent Climate Accounting Network in support of Paris Agreement goals.
 
 
-### Carbon Capture and Removel
+### Carbon Capture and Removal
 
 - [Carbon Dioxide Removal Database](https://github.com/carbonplan/cdr-database) - Open science reports on carbon removal projects and technologies.
 - [SimCCS](https://github.com/simccs/SimCCS) - A software platform for carbon capture and storage infrastructure design.
