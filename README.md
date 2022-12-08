@@ -1423,6 +1423,7 @@ If you're looking for an entry point into domains like renewable energy, climate
 - [CAMS](https://github.com/CriticalAssetManagement/CAMS) - Critical Asset Management and Disaster Resilience for Islands, Cities, and Communities.
 - [pystorms](https://github.com/kLabUM/pystorms) - Simulation Sandbox for the Design and Evaluation of Stormwater Control Algorithms.
 - [StormEvents](https://github.com/oceanmodeling/StormEvents) - Provides Python interfaces for observational data surrounding named storm events.
+- [Hagelslag](https://github.com/djgagne/hagelslag) - An object-based severe storm forecasting system that utilizing image processing and machine learning tools to derive calibrated probabilities of severe hazards from convection-allowing numerical weather prediction model output.
 
 ## Sustainable Development
 
