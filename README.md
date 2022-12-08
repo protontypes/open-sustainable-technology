@@ -1112,6 +1112,7 @@ If you're looking for an entry point into domains like renewable energy, climate
 - [wetterdienst](https://github.com/earthobservations/wetterdienst) - Trying to make access to weather data in Python feel like a warm summer breeze.
 - [AWIPS](https://github.com/Unidata/awips2) - The Advanced Weather Interactive Processing System is a meteorological display and analysis package originally developed by the National Weather Service and Raytheon.
 - [Metview Python bindings](https://github.com/ecmwf/metview-python) - Python interface to Metview, a meteorological workstation and batch system for accessing, examining, manipulating and visualising meteorological data.
+- [Herbie](https://github.com/blaylockbk/Herbie) - A python package that downloads recent and archived numerical weather prediction model output from different cloud archive sources.
 
 ### Climate Data Processing and Access
 
