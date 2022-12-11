@@ -917,7 +917,6 @@ If you're looking for an entry point into domains like renewable energy, climate
 - [NEMO](https://forge.ipsl.jussieu.fr/nemo/wiki/Users) - Nucleus for European Modelling of the Ocean is a state-of-the-art modeling framework for research activities and forecasting services in ocean and climate sciences, developed in a sustainable way by a European consortium since 2008.
 - [LESbrary.jl](https://github.com/CliMA/LESbrary.jl) - Generating a library of ocean turbulence large eddy simulation data to train ocean and climate models.
 - [GOLD](https://code.google.com/archive/p/gold-omod/) - Stands for Generalized Ocean Layer Dynamics and is a hybrid coordinate finite volume ocean model code funded by NOAA and developed by the ocean group at NOAA-GFDL and Princeton University.
-- [rrricanes](https://github.com/ropensci/rrricanes) - An R library that extracts information from Atlantic and east Pacific hurricanes and tropical storms.
 - [hydroscoper](https://github.com/ropensci/hydroscoper) - An R interface to the Greek National Data Bank for Hydrometeorological Information.
 - [OpenDrift](https://github.com/OpenDrift/opendrift) - A software for modeling the trajectories and fate of objects or substances drifting in the ocean, or even in the atmosphere.
 - [OceanSpy](https://github.com/hainegroup/oceanspy) - An open source and user-friendly Python package that enables scientists and interested amateurs to analyze and visualize ocean model datasets.
@@ -1424,6 +1423,9 @@ If you're looking for an entry point into domains like renewable energy, climate
 - [pystorms](https://github.com/kLabUM/pystorms) - Simulation Sandbox for the Design and Evaluation of Stormwater Control Algorithms.
 - [StormEvents](https://github.com/oceanmodeling/StormEvents) - Provides Python interfaces for observational data surrounding named storm events.
 - [Hagelslag](https://github.com/djgagne/hagelslag) - An object-based severe storm forecasting system that utilizing image processing and machine learning tools to derive calibrated probabilities of severe hazards from convection-allowing numerical weather prediction model output.
+- [HAFS](https://github.com/hafs-community/HAFS) - Hurricane Analysis and Forecast System.
+- [rrricanes](https://github.com/ropensci/rrricanes) - An R library that extracts information from Atlantic and east Pacific hurricanes and tropical storms.
+
 
 ## Sustainable Development
 
