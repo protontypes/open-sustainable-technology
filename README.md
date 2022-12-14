@@ -1425,6 +1425,7 @@ If you're looking for an entry point into domains like renewable energy, climate
 - [Hagelslag](https://github.com/djgagne/hagelslag) - An object-based severe storm forecasting system that utilizing image processing and machine learning tools to derive calibrated probabilities of severe hazards from convection-allowing numerical weather prediction model output.
 - [HAFS](https://github.com/hafs-community/HAFS) - Hurricane Analysis and Forecast System.
 - [rrricanes](https://github.com/ropensci/rrricanes) - An R library that extracts information from Atlantic and east Pacific hurricanes and tropical storms.
+- [FrEDI](https://github.com/USEPA/FrEDI) - Estimates economic damages and impacts from climate change and sea level rise through the 21st century.
 
 
 ## Sustainable Development
