@@ -352,6 +352,7 @@ If you're looking for an entry point into domains like renewable energy, climate
 - [draf](https://github.com/DrafProject/draf) - Analysis and decision support framework for local multi-energy hubs focusing on demand response.
 - [GENeSYS-MOD](https://git.tu-berlin.de/genesysmod/genesys-mod-public) - An open-source energy system model, originally based on the Open-Source Energy Modeling System (OSeMOSYS) framework, with various additions.
 - [PyPSA-Earth](https://github.com/pypsa-meets-earth/pypsa-earth) - An Open Optimisation Model of the Earth Energy System.
+- [tell](https://github.com/IMMM-SFA/tell) - An open-source Python package to model future hourly total electricity loads.
 
 ### Energy Monitoring and Control
 
