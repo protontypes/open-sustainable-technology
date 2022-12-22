@@ -982,6 +982,7 @@ If you're looking for an entry point into domains like renewable energy, climate
 - [LAGOSNE](https://github.com/cont-limno/LAGOSNE) - Interface to the LAke multi-scaled GeOSpatial & temporal database.
 - [py-wave-runup](https://github.com/chrisleaman/py-wave-runup) - A Python module which makes it easy for coastal engineers and scientists to test and use various empirical wave runup models which have been published in literature.
 - [RiverREM](https://github.com/OpenTopography/RiverREM) - Make river relative elevation models and REM visualizations from an input digital elevation model.
+- [mosartwmpy](https://github.com/IMMM-SFA/mosartwmpy) - A python translation of MOSART-WM, a model for water routing and reservoir management written in Fortran.
 
 
 ### Atmosphere
