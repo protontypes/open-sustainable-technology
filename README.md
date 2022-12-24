@@ -9,6 +9,23 @@ If you're looking for an entry point into domains like renewable energy, climate
 [![](https://badgen.net/badge/icon/Follow%20Updates/009485?icon=twitter&label)](https://twitter.com/protontypes) [![](https://badgen.net/badge/icon/Add%20a%20Project/009485?icon=git&label)](https://github.com/protontypes/open-sustainable-technology/blob/main/CONTRIBUTING.md)  [![](https://badgen.net/badge/View/Database/009485)](https://airtable.com/shr9we419r2TkpLkc)  
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7066539.svg)](https://doi.org/10.5281/zenodo.7066539)
 
+## Analysis
+
+This database is used as part of the study [Open Source in Enviromental Sustainability](https://report.opensustain.tech/). For this purpose, various metadata from the listed repositories are evaluated by tool [AwesomeCure](https://github.com/protontypes/AwesomeCure). The CSVs file can be easily read into a Pandas DataFrame using the following code:
+
+```python
+import pandas as pd
+
+url_github_projects = 'https://github.com/protontypes/open-sustainable-technology/raw/main/analysis/csv/projects.csv'
+df_github_projects = pd.read_csv(url_github_projects)
+df_github_projects.head()
+
+## Another CSV file contains meta data on the associated GitHub organisations for the projects
+url_github_organizations = 'https://github.com/protontypes/open-sustainable-technology/raw/main/analysis/csv/github_organizations.csv'
+df_github_organizations = pd.read_csv(url_github_organizations, sep='\t')
+df_github_organizations.head()
+```
+
 
 <!--toc-->
 ## Contents
