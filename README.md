@@ -19,8 +19,10 @@ import pandas as pd
 url_github_projects = 'https://github.com/protontypes/open-sustainable-technology/raw/main/analysis/csv/projects.csv'
 df_github_projects = pd.read_csv(url_github_projects)
 df_github_projects.head()
+```
 
-## Another CSV file contains meta data on the associated GitHub organisations for the projects
+Another CSV file contains meta data on the associated GitHub organisations of the listed projects.
+```python
 url_github_organizations = 'https://github.com/protontypes/open-sustainable-technology/raw/main/analysis/csv/github_organizations.csv'
 df_github_organizations = pd.read_csv(url_github_organizations, sep='\t')
 df_github_organizations.head()
