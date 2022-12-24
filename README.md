@@ -16,18 +16,10 @@ This database is used as part of the study [Open Source in Enviromental Sustaina
 ```python
 import pandas as pd
 
-url_github_projects = 'https://github.com/protontypes/open-sustainable-technology/raw/main/analysis/csv/projects.csv'
-df_github_projects = pd.read_csv(url_github_projects)
-df_github_projects.head()
+url = 'https://github.com/protontypes/open-sustainable-technology/raw/main/analysis/csv/projects.csv'
+df = pd.read_csv(url)
+df.head()
 ```
-
-Another CSV file contains meta data on the associated GitHub organisations of the listed projects.
-```python
-url_github_organizations = 'https://github.com/protontypes/open-sustainable-technology/raw/main/analysis/csv/github_organizations.csv'
-df_github_organizations = pd.read_csv(url_github_organizations, sep='\t')
-df_github_organizations.head()
-```
-
 
 <!--toc-->
 ## Contents
