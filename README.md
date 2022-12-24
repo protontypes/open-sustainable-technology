@@ -1575,7 +1575,7 @@ If you're looking for an entry point into domains like renewable energy, climate
 - [Open Source Python Packages in Hydrology](https://github.com/raoulcollenteur/Python-Hydrology-Tools) - Holds a list of open source Python packages interesting to Hydrologists.
 - [PO.DAAC](https://podaac.jpl.nasa.gov/datasetlist) - NASA Earth Observing System Data and Information System data center managed by the Earth Science Data and Information System Project.
 - [Awesome Sentinel](https://github.com/Fernerkundung/awesome-sentinel) - A curated list of awesome tools, tutorials and APIs related to data from the Copernicus Sentinel Satellites.
-- [aws-open-data-geo](https://github.com/giswqs/aws-open-data-geo) - A list of open geospatial datasets on AWS.
+- [geospatial-data-catalogs](https://github.com/giswqs/geospatial-data-catalogs) - A list of open geospatial datasets available on AWS, Earth Engine, Planetary Computer, and STAC Index.
 - [Profit and emission database](https://docs.google.com/spreadsheets/d/19MQbZbrCu4HpAWe6NU92CioYQ7KE8FvD9vl-r9qSjJg/) - A free public database on large corporate emissions and profits.
 
 
