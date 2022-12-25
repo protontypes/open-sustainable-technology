@@ -1588,6 +1588,7 @@ df.head()
 - [Awesome Sentinel](https://github.com/Fernerkundung/awesome-sentinel) - A curated list of awesome tools, tutorials and APIs related to data from the Copernicus Sentinel Satellites.
 - [geospatial-data-catalogs](https://github.com/giswqs/geospatial-data-catalogs) - A list of open geospatial datasets available on AWS, Earth Engine, Planetary Computer, and STAC Index.
 - [Profit and emission database](https://docs.google.com/spreadsheets/d/19MQbZbrCu4HpAWe6NU92CioYQ7KE8FvD9vl-r9qSjJg/) - A free public database on large corporate emissions and profits.
+- [Industrial Ecology Dashboard](https://github.com/IndEcol/Dashboard) - A collection of open source projects relevant for industrial ecology practitioners.
 
 
 ## Contributors
