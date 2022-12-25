@@ -1,4 +1,6 @@
-<!--lint ignore awesome-badge awesome-toc double-link-->
+<!--lint ignore awesome-badge -->
+<!--lint ignore awesome-toc -->
+<!--lint ignore double-link -->
 # Open Sustainable Technology
 [<img src="earth.png" align="right" width="350">](https://tabletopwhale.com/)
 
