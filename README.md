@@ -1,5 +1,4 @@
 <!--lint ignore awesome-badge -->
-<!--lint ignore awesome-toc -->
 <!--lint ignore double-link -->
 # Open Sustainable Technology
 [<img src="earth.png" align="right" width="350">](https://tabletopwhale.com/)
@@ -11,6 +10,7 @@ If you're looking for an entry point into domains like renewable energy, climate
 [![](https://badgen.net/badge/icon/Follow%20Updates/009485?icon=twitter&label)](https://twitter.com/protontypes) [![](https://badgen.net/badge/icon/Add%20a%20Project/009485?icon=git&label)](https://github.com/protontypes/open-sustainable-technology/blob/main/CONTRIBUTING.md)  [![](https://badgen.net/badge/View/Database/009485)](https://airtable.com/shr9we419r2TkpLkc)  
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7066539.svg)](https://doi.org/10.5281/zenodo.7066539)
 
+<!--lint ignore awesome-toc -->
 ## Analysis
 
 This database is used as part of the study [Open Source in Enviromental Sustainability](https://report.opensustain.tech/). For this purpose, meta data from the listed repositories are evaluated via the tool [AwesomeCure](https://github.com/protontypes/AwesomeCure). The CSVs file can be easily read into a Pandas DataFrame using the following code:
@@ -24,6 +24,8 @@ df.head()
 ```
 
 <!--toc-->
+
+<!--lint ignore awesome-toc -->
 ## Contents
 
 - [Renewable Energy](#renewable-energy)
