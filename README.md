@@ -1478,6 +1478,7 @@ df.head()
 - [XDC Model](https://gitlab.com/xdc-model/xdc) - Enable users, or any intereted subject, to understand and familiarize with the basic concepts of the X-Degree Compatibility methodology.
 - [gfer](https://github.com/Yuanchao-Xu/gfer) - Designed for green finance and environmental risk research focused on data collecting and analyzing in green finance and environmental risk research and analysis.
 - [WikiRate](https://github.com/wikirate/wikirate) - Facilitates research and analysis on complex topics in collaboration with partners, to make ESG data open, comparable and useful for all.
+- [Equinox](https://github.com/open-risk/equinox) - Supports the holistic risk management of sustainable finance projects.
 
 
 ### Knowledge Platforms
