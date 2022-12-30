@@ -1101,6 +1101,7 @@ df.head()
 - [ecmwfr](https://github.com/bluegreen-labs/ecmwfr) - Provides easy access to the European Centre for Medium-Range Weather Forecasts web API services and Copernicus Climate Data Store from within R, matching and expanding upon the ECMWF Python tools.
 - [GDESS](https://github.com/E3SM-Project/gdess) - Tool for evaluating atmospheric carbon dioxide concentrations as simulated by Earth system models.
 - [Analysis-Ready, Cloud Optimized ERA5](https://github.com/google-research/arco-era5) - A global history of the climate highly accessible in the cloud.
+- [Earthformer](https://github.com/amazon-science/earth-forecasting-transformer) - A space-time Transformer for Earth system forecasting that applies Deep Learning for various Earth system forecasting task.
 
 
 ### Radiative Transfer
