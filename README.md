@@ -1027,6 +1027,7 @@ df.head()
 - [pyvortex](https://github.com/pankajkarman/pyvortex) - Equivalent Latitude and polar vortex edge calculation using Nash criteria.
 - [gcpy](https://github.com/geoschem/gcpy) - A Python-based toolkit containing useful functions for working specifically with the GEOS-Chem model of atmospheric chemistry and composition.
 - [Fluid Earth](https://github.com/byrd-polar/fluid-earth) - Open-source Visualization of Weather and Climate Data.
+- [CloudDrift](https://github.com/Cloud-Drift/clouddrift) - Accelerates the use of Lagrangian data for atmospheric, oceanic, and climate sciences.
 
 ## Climate and Earth Science
 
