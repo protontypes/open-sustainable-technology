@@ -669,6 +669,7 @@ df.head()
 - [Silicone](https://github.com/GranthamImperial/silicone) - Automated filling of detail in reported emission scenarios.
 - [gridemissions](https://github.com/jdechalendar/gridemissions) - Displays the hourly carbon footprint of the US electricity system.
 - [OpenClimate](https://github.com/Open-Earth-Foundation/OpenClimate) - Independent Climate Accounting Network in support of Paris Agreement goals.
+- [Guardian](https://github.com/hashgraph/guardian) - Provides auditable, traceable, reproducible records that document the emission process and lifecycle of carbon credits, which reduce fraud in the ESG market.
 
 
 ### Carbon Capture and Removal
