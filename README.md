@@ -1447,6 +1447,7 @@ df.head()
 - [rrricanes](https://github.com/ropensci/rrricanes) - An R library that extracts information from Atlantic and east Pacific hurricanes and tropical storms.
 - [FrEDI](https://github.com/USEPA/FrEDI) - Estimates economic damages and impacts from climate change and sea level rise through the 21st century.
 - [FACTS](https://github.com/radical-collaboration/facts) - Repository for the Framework for Accessing Changes To Sea-level.
+- [FLOODPY](https://github.com/kleok/FLOODPY) - A free and open-source python toolbox for mapping of floodwater.
 
 
 ## Sustainable Development
