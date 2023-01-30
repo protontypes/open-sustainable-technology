@@ -747,6 +747,7 @@ df.head()
 - [fedelemflowlist](https://github.com/USEPA/Federal-LCA-Commons-Elementary-Flow-List) - A Python package that generates and provides a standardized elementary flow list for use in life cycle assessment (LCA) data as well as mappings to convert data from other sources.
 - [FORBIO](https://github.com/fineprint-global/forbio) - Physical multi-regional input-output model for forestry, wood and paper products.
 - [pymrio](https://github.com/konstantinstadler/pymrio/) - Multi-Regional Input-Output Analysis in Python.
+- [flowsa](https://github.com/USEPA/flowsa) - Library that attributes resource use, waste, emissions, and loss to economic sectors.
 
 ### Circular Economy and Waste
 
