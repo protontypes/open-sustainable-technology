@@ -1198,6 +1198,7 @@ df.head()
 - [Climate Data Store Toolbox for MATLAB](https://github.com/mathworks/climatedatastore) - This toolbox allows you to easily access data and download hundreds of data sets associated with climate change for analysis in MATLAB.
 - [semanticClimate](https://github.com/petermr/semanticClimate) - Conversion of IPCC documents into semantic form.
 - [Miranda](https://github.com/Ouranosinc/miranda) - A modern Python utility library for climate data collection and management.
+- [Paleoclimate](https://github.com/LinkedEarth/Pyleoclim_util) - Analysis of Paleoclimate Data.
 
 ### Integrated Assessment
 
