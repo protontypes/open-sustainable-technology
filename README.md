@@ -929,6 +929,7 @@ df.head()
 - [QGreenland](https://github.com/nsidc/qgreenland) - A free mapping tool to support interdisciplinary Greenland-focused research, teaching, decision making, and collaboration.
 - [Teaspoon](https://gitlab.com/permafrostnet/teaspoon) - A python library designed to make working with permafrost ground temperature time series data more straightforward, efficient, and reproduceable.
 - [BioSNICAR](https://github.com/jmcook1186/biosnicar-py) - Predicts the spectral albedo of snow and glacier ice between 200nm to 5000nm given information about the illumination conditions, ice structure and the type and concentration particulates.
+- [snotelr](https://github.com/bluegreen-labs/snotelr) -  R toolbox to facilitate easy SNOTEL data exploration and downloads through a convenient shiny based GUI.
 
 
 ### Hydrosphere
