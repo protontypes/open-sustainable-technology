@@ -723,6 +723,7 @@ df.head()
 - [The Global Registry of Fossil Fuels](https://github.com/fossilfuelregistry/portal-v2) - Open Source database of oil, gas and coal production and reserves globally, expressed in CO2-equivalent.
 - [Easy-ERA5-Trck](https://github.com/Novarizark/easy-era5-trck) - A super lightweight Lagrangian model for calculating millions of trajectories using ERA5 data. 
 - [GRACED](https://carbonmonitor-graced.com/) - Near-real-time Global Gridded Daily CO2 Emissions Dataset from fossil fuel and cement production with a global spatial resolution of 0.1° by 0.1° and a temporal resolution of 1 day.
+- [ECAM](https://github.com/icra/ecam) - Water and wastewater utility operators can assess their greenhouse gas emissions and energy consumption.
 
 
 ## Industrial Ecology
