@@ -16,6 +16,7 @@
 - [Systems' Engineering for Energy Efficiency](http://oer4renewables.gitlab.io/systemtechnik-fuer-energieeffizienz/) - A Python course on Systems engineering for energy efficiency in German within the Master of Electrical Engineering and Master of Renewable Energy at the Cologne University of Applied Sciences.
 - [ESM-lectures](https://github.com/nworbmot/esm-lectures) - Lecture slides for KIT Energy System Modelling course.
 - [Power Systems Optimization](https://github.com/east-winds/power-systems-optimization) - How to implement and apply linear and mixed integer linear programs to solve such problems using Julia/JuMP, and the practical application of such techniques in energy systems engineering.
+- [Data Science for Energy System Modelling](https://github.com/fneum/data-science-for-esm) - Find practical introductions to many Python packages that are useful for dealing with energy data and building energy system modells.
 
 
 ## Consumption of Energy and Resources 
