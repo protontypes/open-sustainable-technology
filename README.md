@@ -1206,6 +1206,7 @@ df.head()
 - [semanticClimate](https://github.com/petermr/semanticClimate) - Conversion of IPCC documents into semantic form.
 - [Miranda](https://github.com/Ouranosinc/miranda) - A modern Python utility library for climate data collection and management.
 - [Paleoclimate](https://github.com/LinkedEarth/Pyleoclim_util) - Analysis of Paleoclimate Data.
+- [GT4Py](https://github.com/GridTools/gt4py) - Library for generating high-performance implementations of stencil kernels for weather and climate modeling from a domain-specific language.
 
 ### Integrated Assessment
 
