@@ -1127,6 +1127,7 @@ df.head()
 - [Eradiate](https://github.com/eradiate/eradiate) - A next-generation radiative transfer model for Earth observation applications.
 - [Juelich Rapid Spectral Simulation Code](https://github.com/slcs-jsc/jurassic) - The Juelich Rapid Spectral Simulation Code (JURASSIC) is a fast infrared radiative transfer model for the analysis of atmospheric remote sensing measurements.
 - [Tenstream](https://github.com/tenstream/tenstream) - A 3D radiative transfer solver for earth system models.
+- [Ocean Data and Information System](https://github.com/iodepo/odis-arch) - The Ocean InfoHub facilitates access to global oceans information, data and knowledge products for management and sustainable development.
 
 
 ### Meteorological Observation and Forecast
