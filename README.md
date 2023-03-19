@@ -648,7 +648,7 @@ df.head()
 - [Carbon Aware SDK](https://github.com/Green-Software-Foundation/carbon-aware-sdk/) - Helps you build the carbon aware software solutions with the intelligence to use the greenest energy sources.
 - [ecoCode](https://github.com/green-code-initiative/ecoCode) - Reduce the environmental footprint of your programs with this cutting-edge SonarQube plugin.
 - [Solar Protocol](https://github.com/alexnathanson/solar-protocol) - A solar powered network of servers that host a distributed web platform.
-
+- [PowerJoular](https://github.com/joular/powerjoular) - Allows monitoring power consumption of multiple platforms and processes.
 
 ## Emissions
 
