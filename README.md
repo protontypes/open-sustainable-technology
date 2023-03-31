@@ -17,8 +17,10 @@ This database is used as part of the study [Open Source in Enviromental Sustaina
 ```python
 import pandas as pd
 
-url = 'https://github.com/protontypes/open-sustainable-technology/raw/main/analysis/csv/projects.csv'
-df = pd.read_csv(url)
+projects = 'https://raw.githubusercontent.com/protontypes/AwesomeCure/main/csv/projects.csv'
+orgs = 'https://raw.githubusercontent.com/protontypes/AwesomeCure/main/csv/github_organizations.csv'
+
+df = pd.read_csv(orgs)
 df.head()
 ```
 
