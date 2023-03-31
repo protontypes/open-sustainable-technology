@@ -900,6 +900,7 @@ df.head()
 - [Biodiverse](https://github.com/shawnlaffan/biodiverse) - A tool for the spatial analysis of diversity using indices based on taxonomic, phylogenetic, trait and matrix-based relationships, as well as related environmental and temporal variations.
 - [MegaDetector](https://github.com/microsoft/CameraTraps/) - Deep learning tools that accelerate the review of motion-triggered wildlife camera images.
 - [phenor](https://github.com/bluegreen-labs/phenor) - The framework leverages measurements of vegetation phenology from four common phenology observation datasets combined with global retrospective and projected climate data.
+- [EcoSISTEM.jl](https://github.com/EcoJulia/EcoSISTEM.jl) - A Julia package that provides functionality for simulating species undergoing dynamic biological processes such as birth, death, competition and dispersal, as well as environmental changes in climate and habitat.
 
 ### Cryosphere
 
