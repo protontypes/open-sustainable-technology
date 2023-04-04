@@ -1486,6 +1486,7 @@ df.head()
 - [SDGmapR](https://github.com/CMUSustainability/SDGmapR) - R functions and datasets related to the mapping of text to the United Nations 17 Sustainable Development Goals.
 - [Europe Sustainable Development ReportS](https://eu-dashboards.sdgindex.org/) - Track the progress of the European Union and European Countries towards the Sustainable Development Goals.
 - [text2sdg](https://github.com/dwulff/text2sdg) - Multi-system analysis package that identifies SDGs in text, opening up the opportunity to monitor any type of text-based data.
+- [taxonomy4good](https://github.com/GoodDataHub/taxonomy4good) - A sustainability lexicon that provides the freedom to create custom taxonomies in addition to listed taxonomies.
 
 
 ### Sustainable Investment 
