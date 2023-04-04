@@ -1472,6 +1472,7 @@ df.head()
 - [FACTS](https://github.com/radical-collaboration/facts) - Repository for the Framework for Accessing Changes To Sea-level.
 - [FLOODPY](https://github.com/kleok/FLOODPY) - A free and open-source python toolbox for mapping of floodwater.
 - [Tropical Cyclone Risk Model](https://github.com/GeoscienceAustralia/tcrm) - A statistical-parametric model for assessing wind hazard from tropical cyclones.
+- [OpenQuake](https://github.com/gem/oq-engine) - Allows users to compute seismic hazard and seismic risk of earthquakes on a global scale.
 
 
 ## Sustainable Development
