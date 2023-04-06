@@ -1200,6 +1200,7 @@ df.head()
 - [AWIPS](https://github.com/Unidata/awips2) - The Advanced Weather Interactive Processing System is a meteorological display and analysis package originally developed by the National Weather Service and Raytheon.
 - [Metview Python bindings](https://github.com/ecmwf/metview-python) - Python interface to Metview, a meteorological workstation and batch system for accessing, examining, manipulating and visualising meteorological data.
 - [Herbie](https://github.com/blaylockbk/Herbie) - A python package that downloads recent and archived numerical weather prediction model output from different cloud archive sources.
+- [MEWS](https://github.com/sandialabs/MEWS) - A Python package designed to add extreme weather events to existing weather data or projections.
 
 ### Radiative Transfer
 
@@ -1472,7 +1473,7 @@ df.head()
 - [FACTS](https://github.com/radical-collaboration/facts) - Repository for the Framework for Accessing Changes To Sea-level.
 - [FLOODPY](https://github.com/kleok/FLOODPY) - A free and open-source python toolbox for mapping of floodwater.
 - [Tropical Cyclone Risk Model](https://github.com/GeoscienceAustralia/tcrm) - A statistical-parametric model for assessing wind hazard from tropical cyclones.
-- [OpenQuake](https://github.com/gem/oq-engine) - Allows users to compute seismic hazard and seismic risk of earthquakes on a global scale.
+- [OpenQuake](https://github.com/gem/oq-engine) - Allows users to compute seismic hazard and seismic risk of earthquakes on a global scale. 
 
 
 ## Sustainable Development
