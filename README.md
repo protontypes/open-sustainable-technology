@@ -1045,6 +1045,7 @@ df.head()
 - [Fluid Earth](https://github.com/byrd-polar/fluid-earth) - Open-source Visualization of Weather and Climate Data.
 - [CloudDrift](https://github.com/Cloud-Drift/clouddrift) - Accelerates the use of Lagrangian data for atmospheric, oceanic, and climate sciences.
 - [freva](https://github.com/FREVA-CLINT/freva) - A data search and analysis platform developed by the atmospheric science community.
+- [ClimaAtmos.jl](https://github.com/CliMA/ClimaAtmos.jl) - A library for building atmospheric circulation models that is designed from the outset to leverage data assimilation and machine learning tools.
 
 ## Climate and Earth Science
 
