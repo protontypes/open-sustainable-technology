@@ -12,7 +12,7 @@ If you're looking for an entry point into domains like renewable energy, climate
 
 <strong> Analysis </strong>
 
-This database is used as part of the study [Open Source in Enviromental Sustainability](https://report.opensustain.tech/). For this purpose, meta data from the listed repositories are evaluated via the tool [AwesomeCure](https://github.com/protontypes/AwesomeCure). The CSVs file can be easily read into a Pandas DataFrame using the following code:
+This database is used as part of the study [Open Source in Enviromental Sustainability](https://report.opensustain.tech/). For this purpose, meta data from the listed repositories are evaluated via the tool [AwesomeCure](https://github.com/protontypes/AwesomeCure). To make browsing and sorting easier, here is the table with all the metadata for the [projects](https://baserow.io/public/grid/5Cyy_1a3fMOveJeRMsy6QEOo_mG569Et_iNk0G52Dmo) and the related [organizations](https://baserow.io/public/grid/QiZmt6fMEuRlQNF1YrrpGa5-Z45s0Khg5i6d654L5AY). The CSVs file can be easily read into a Pandas DataFrame using the following code:
 
 ```python
 import pandas as pd
