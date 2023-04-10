@@ -1182,6 +1182,9 @@ df.head()
 - [Paleoclimate](https://github.com/LinkedEarth/Pyleoclim_util) - Analysis of Paleoclimate Data.
 - [GT4Py](https://github.com/GridTools/gt4py) - Library for generating high-performance implementations of stencil kernels for weather and climate modeling from a domain-specific language.
 - [Fluid Earth](https://github.com/byrd-polar/fluid-earth) - Open-source Visualization of Weather and Climate Data.
+- [downscaleCMIP6](https://github.com/ClimateImpactLab/downscaleCMIP6) - Global Downscaled Projections for Climate Impacts Research.
+- [scikit-downscale](https://github.com/pangeo-data/scikit-downscale) - Statistical downscaling and postprocessing models for climate and weather model simulations.
+
 
 ### Meteorological Observation and Forecast
 
@@ -1199,7 +1202,6 @@ df.head()
 - [MEWS](https://github.com/sandialabs/MEWS) - A Python package designed to add extreme weather events to existing weather data or projections.
 - [eeweather](https://github.com/openeemeter/eeweather) - Fetch NCDC ISD, TMY3, or CZ2010 weather data that corresponds to ZIP Code Tabulation Areas or Latitude/Longitude.
 - [met.3D](https://gitlab.com/wxmetvis/met.3d) - Interactive three-dimensional visualization of numerical ensemble weather predictions and similar numerical atmospheric model datasets.
-- [downscaleCMIP6](https://github.com/ClimateImpactLab/downscaleCMIP6) - Global Downscaled Projections for Climate Impacts Research
 
 
 ### Radiative Transfer
