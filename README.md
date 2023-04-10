@@ -1122,6 +1122,7 @@ df.head()
 - [Analysis-Ready, Cloud Optimized ERA5](https://github.com/google-research/arco-era5) - A global history of the climate highly accessible in the cloud.
 - [Earthformer](https://github.com/amazon-science/earth-forecasting-transformer) - A space-time Transformer for Earth system forecasting that applies Deep Learning for various Earth system forecasting task.
 - [ClimateLearn](https://github.com/aditya-grover/climate-learn) - A Python library for accessing state-of-the-art climate data and machine learning models in a standardized, straightforward way.
+- [KrigR](https://github.com/ErikKusch/KrigR) - An R Package for downloading, preprocessing, and statistical downscaling of the European ERA5 dataset.
 
 ### Climate Data Processing and Access
 
@@ -1396,7 +1397,7 @@ df.head()
 - [Terraso](https://github.com/techmatters/terraso-backend) - Develop an open source technology platform to help local community leaders practice Integrated Landscape Management.
 - [Open Soil Spectral Library](https://soilspectroscopy.github.io/ossl-manual/) - Brings together soil scientists, spectroscopists, informaticians, data scientists and software engineers to overcome some of the current bottlenecks preventing wider and more efficient use of soil spectroscopy.
 - [OpenLand](https://github.com/reginalexavier/OpenLand) - Tool for Quantitative Analysis and Visualization of Land Use and Land Cover Change.
-- [cultionet](https://github.com/jgrss/cultionet) - A library for semantic segmentation of cultivated land using a neural network.#
+- [cultionet](https://github.com/jgrss/cultionet) - A library for semantic segmentation of cultivated land using a neural network.
 - [pygef](https://github.com/cemsbv/pygef) - Simple parser for soil properties measurements.
 
 
