@@ -143,7 +143,6 @@ df.head()
 ### Wind Energy
 
 - [IEA-15-240-RWT](https://github.com/IEAWindTask37/IEA-15-240-RWT) - A 15 MW reference wind turbine repository developed in conjunction with IEA Wind.
-- [makani](https://github.com/google/makani) - A project to develop a commercial-scale airborne wind turbine, culminating in a flight test of the Makani M600 off the coast of Norway.
 - [windpowerlib](https://github.com/wind-python/windpowerlib) - A library to model the output of wind turbines and farms.
 - [turbinesFoam](https://github.com/turbinesFoam/turbinesFoam) - A library for simulating wind and marine hydrokinetic turbines in OpenFOAM using the actuator line method.
 - [nalu-wind](https://github.com/Exawind/nalu-wind) - Solver for wind farm simulations targeting exascale computational platforms.
@@ -180,6 +179,7 @@ df.head()
 - [welib](https://github.com/ebranlard/welib) - Wind energy library, python and matlab tools for wind turbines analyses.
 - [digital_wra_data_standard](https://github.com/IEA-Task-43/digital_wra_data_standard) - This standard data model and associated tools are intended as universal building blocks for Wind Energy Resource Assessment applications.
 - [awebox](https://github.com/awebox/awebox) - Modelling and optimal control of single- and multiple-kite systems for airborne wind energy.
+- [CCBlade.jl](https://github.com/byuflowlab/CCBlade.jl) - A blade element momentum method for propellers and turbines.
 
 ### Hydro Energy
 
