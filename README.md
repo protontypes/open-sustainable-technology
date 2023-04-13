@@ -1185,6 +1185,7 @@ df.head()
 - [Fluid Earth](https://github.com/byrd-polar/fluid-earth) - Open-source Visualization of Weather and Climate Data.
 - [downscaleCMIP6](https://github.com/ClimateImpactLab/downscaleCMIP6) - Global Downscaled Projections for Climate Impacts Research.
 - [scikit-downscale](https://github.com/pangeo-data/scikit-downscale) - Statistical downscaling and postprocessing models for climate and weather model simulations.
+- [PyESD](https://github.com/Dan-Boat/PyESD) - Downscale any climate variables e.g. precipitation and temperature using predictors from reanalysis datasets to point scale.
 
 
 ### Meteorological Observation and Forecast
