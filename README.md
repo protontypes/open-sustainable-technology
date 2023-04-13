@@ -1454,6 +1454,7 @@ df.head()
 - [FarmVibes.AI](https://github.com/microsoft/farmvibes-ai) - Can develop rich geospatial insights for agriculture and sustainability.
 - [agrolib](https://github.com/ARPA-SIMC/agrolib) - A set of libraries for agrometeorological modeling and climate analysis.
 - [FIELDimageR](https://github.com/OpenDroneMap/FIELDimageR) - A Tool to Analyze Images From Agricultural Field Trials and Lab in R.
+- [AquaCrop](https://github.com/aquacropos/aquacrop) - A free open-source tool for assessing climate and water impacts on agriculture.
 
 ### Natural Hazard and Storm
 
