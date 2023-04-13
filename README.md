@@ -207,6 +207,7 @@ df.head()
 - [waiwera](https://github.com/waiwera/waiwera) - A parallel, open-source geothermal flow simulator.
 - [fractoolbox](https://github.com/ICWallis/fractoolbox) - Python tools for structural geology and borehole image analysis which includes data handling, frequency and geometric analysis, and reservoir geomechanics.
 - [GeoThermalCloud.jl](https://github.com/SmartTensors/GeoThermalCloud.jl) - A repository containing all the data and codes required to demonstrate applications of machine learning methods for geothermal exploration.
+- [GOLEM](https://github.com/ajacquey/golem) - A numerical simulator for modelling coupled Thermo-Hydro-Mechanical processes in faulted geothermal reservoirs.
 
 
 ### Bioenergy
