@@ -1021,6 +1021,7 @@ df.head()
 
 ### Atmosphere
 
+- [PySDM](https://github.com/open-atmos/PySDM) - Pythonic particle-based warm-rain/aqueous-chemistry cloud microphysics package.
 - [PartMC](https://github.com/compdyn/partmc) - Particle-resolved Monte Carlo code for atmospheric aerosol simulation.
 - [pyglow](https://github.com/timduly4/pyglow) - A Python module that wraps several upper atmosphere climatological models written in FORTRAN.
 - [Massive-Parallel Trajectory Calculations](https://github.com/slcs-jsc/mptrac) - A Lagrangian particle dispersion model for the analysis of atmospheric transport processes in the free troposphere and stratosphere.
