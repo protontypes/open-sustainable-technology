@@ -525,7 +525,7 @@ df.head()
 - [CBE Clima Tool](https://github.com/CenterForTheBuiltEnvironment/clima) - A web-based application built to support the need of architects and engineers interested in climate-adapted design.
 - [Kiva](https://github.com/bigladder/kiva) - Used to calculate heat loss and gain on a timestep basis from building foundations.
 - [Macquette](https://gitlab.com/retrofitcoop/macquette) - A whole house energy assessment tool, which models a building to produce a report to help householders under how their home performs now in terms of energy use and how it might be improved.
-- [Urban Multi-scale Environmental Predictor](https://umep-docs.readthedocs.io/en/latest/) - A climate service tool, designed for researchers and service providers presented as a plugin for QGIS.
+- [Urban Multi-scale Environmental Predictor](https://github.com/UMEP-dev/UMEP) - A climate service tool, designed for researchers and service providers presented as a plugin for QGIS.
 - [Urban Weather Generator](https://github.com/ladybug-tools/uwg) - A Python application for modeling the urban heat island effect.
 
 ### Mobility and Transportation
@@ -1119,6 +1119,7 @@ df.head()
 - [Earthformer](https://github.com/amazon-science/earth-forecasting-transformer) - A space-time Transformer for Earth system forecasting that applies Deep Learning for various Earth system forecasting task.
 - [ClimateLearn](https://github.com/aditya-grover/climate-learn) - A Python library for accessing state-of-the-art climate data and machine learning models in a standardized, straightforward way.
 - [KrigR](https://github.com/ErikKusch/KrigR) - An R Package for downloading, preprocessing, and statistical downscaling of the European ERA5 dataset.
+- [SUEWS](https://github.com/UMEP-dev/SUEWS) - Surface Urban Energy and Water Balance Scheme.
 
 ### Climate Data Processing and Access
 
