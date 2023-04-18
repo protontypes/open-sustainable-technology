@@ -1189,6 +1189,7 @@ df.head()
 - [scikit-downscale](https://github.com/pangeo-data/scikit-downscale) - Statistical downscaling and postprocessing models for climate and weather model simulations.
 - [PyESD](https://github.com/Dan-Boat/PyESD) - Downscale any climate variables e.g. precipitation and temperature using predictors from reanalysis datasets to point scale.
 - [PRIMAP2](https://github.com/pik-primap/primap2) - The next generation climate policy analysis suite.
+- [ClimoPy](https://github.com/climopy-dev/climopy) - A succinct toolset for analyzing climate data.
 
 
 ### Meteorological Observation and Forecast
