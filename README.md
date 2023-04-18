@@ -1228,6 +1228,7 @@ df.head()
 - [Tenstream](https://github.com/tenstream/tenstream) - A 3D radiative transfer solver for earth system models.
 - [Ocean Data and Information System](https://github.com/iodepo/odis-arch) - The Ocean InfoHub facilitates access to global oceans information, data and knowledge products for management and sustainable development.
 - [reflective-potential](https://github.com/ReflectiveEarth/reflective-potential) - An empirical analysis of Earth's annual-average surface reflectivity potential.
+- [radis](https://github.com/radis/radis) - A fast line-by-line code for high-resolution infrared molecular spectra.
 
 
 ### Integrated Assessment
