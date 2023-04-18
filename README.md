@@ -1134,7 +1134,6 @@ df.head()
 - [Senses Toolkit](https://github.com/SensesProject/senses-toolkit) - Offers a range of modules to learn about and explore climate change scenarios.
 - [loadeR](https://github.com/SantanderMetGroup/loadeR) - An R package for climate data access building on the NetCDF-Java API.
 - [climate4R](https://github.com/SantanderMetGroup/climate4R) - A bundle of R packages for transparent climate data access, post-processing (including data collocation and bias correction / downscaling) and visualization.
-- [MeteoInfo](https://github.com/meteoinfo/MeteoInfo) - GIS and scientific computation environment for meteorological community.
 - [GSODR](https://github.com/ropensci/GSODR) - Global Surface Summary of the Day Weather Data Client for R.
 - [easyclimate](https://github.com/VeruGHub/easyclimate) - Easy access to high-resolution daily climate data for Europe.
 - [Climate categories](https://github.com/pik-primap/climate_categories) - Commonly used codes, categories, terminologies, and nomenclatures used in climate policy analysis in a nice Python package.
@@ -1189,6 +1188,7 @@ df.head()
 - [downscaleCMIP6](https://github.com/ClimateImpactLab/downscaleCMIP6) - Global Downscaled Projections for Climate Impacts Research.
 - [scikit-downscale](https://github.com/pangeo-data/scikit-downscale) - Statistical downscaling and postprocessing models for climate and weather model simulations.
 - [PyESD](https://github.com/Dan-Boat/PyESD) - Downscale any climate variables e.g. precipitation and temperature using predictors from reanalysis datasets to point scale.
+- [PRIMAP2](https://github.com/pik-primap/primap2) - The next generation climate policy analysis suite.
 
 
 ### Meteorological Observation and Forecast
@@ -1208,6 +1208,7 @@ df.head()
 - [eeweather](https://github.com/openeemeter/eeweather) - Fetch NCDC ISD, TMY3, or CZ2010 weather data that corresponds to ZIP Code Tabulation Areas or Latitude/Longitude.
 - [met.3D](https://gitlab.com/wxmetvis/met.3d) - Interactive three-dimensional visualization of numerical ensemble weather predictions and similar numerical atmospheric model datasets.
 - [agera5tools](https://github.com/ajwdewit/agera5tools) - Tools for mirroring, manipulating  and serving Global Weather for Agriculture data (AgERA5).
+- [MeteoInfo](https://github.com/meteoinfo/MeteoInfo) - GIS and scientific computation environment for meteorological community.
 
 
 ### Radiative Transfer
