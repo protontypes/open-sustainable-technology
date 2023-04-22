@@ -1193,6 +1193,7 @@ df.head()
 - [PRIMAP2](https://github.com/pik-primap/primap2) - The next generation climate policy analysis suite.
 - [Climate Policy Radar Open Data](https://github.com/climatepolicyradar/open-data) - The full text of thousands of climate laws and policies from around the world.
 - [ClimoPy](https://github.com/climopy-dev/climopy) - A succinct toolset for analyzing climate data.
+- [tempestextremes](https://github.com/ClimateGlobalChange/tempestextremes) - Extreme weather detection and characterization.
 
 
 ### Meteorological Observation and Forecast
