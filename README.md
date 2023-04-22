@@ -939,6 +939,7 @@ df.head()
 - [Teaspoon](https://gitlab.com/permafrostnet/teaspoon) - A python library designed to make working with permafrost ground temperature time series data more straightforward, efficient, and reproduceable.
 - [BioSNICAR](https://github.com/jmcook1186/biosnicar-py) - Predicts the spectral albedo of snow and glacier ice between 200nm to 5000nm given information about the illumination conditions, ice structure and the type and concentration particulates.
 - [snotelr](https://github.com/bluegreen-labs/snotelr) -  R toolbox to facilitate easy SNOTEL data exploration and downloads through a convenient shiny based GUI.
+- [IUCNN](https://github.com/IUCNN/IUCNN) - Environmental data and existing IUCN Red List assessments to predict the conservation status of "Not Evaluated" species, for any taxon or geographic region of interest.
 
 
 ### Hydrosphere
