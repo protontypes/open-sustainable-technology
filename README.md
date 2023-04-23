@@ -371,6 +371,8 @@ df.head()
 - [GENeSYS-MOD](https://git.tu-berlin.de/genesysmod/genesys-mod-public) - An open-source energy system model, originally based on the Open-Source Energy Modeling System (OSeMOSYS) framework, with various additions.
 - [PyPSA-Earth](https://github.com/pypsa-meets-earth/pypsa-earth) - An Open Optimisation Model of the Earth Energy System.
 - [tell](https://github.com/IMMM-SFA/tell) - An open-source Python package to model future hourly total electricity loads.
+- [AMIRIS](https://gitlab.com/dlr-ve/esy/amiris/amiris) - An agent-based simulation of electricity markets and their actors enabeling researchers to analyse and evaluate energy policy instruments and their impact on the actors.
+- [AMIRIS-Py](https://gitlab.com/dlr-ve/esy/amiris/amiris-py) - Python tools for the electricity market model AMIRIS.
 
 ### Energy Monitoring and Control
 
