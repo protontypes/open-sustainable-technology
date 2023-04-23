@@ -1536,6 +1536,7 @@ df.head()
 - [gfer](https://github.com/Yuanchao-Xu/gfer) - Designed for green finance and environmental risk research focused on data collecting and analyzing in green finance and environmental risk research and analysis.
 - [WikiRate](https://github.com/wikirate/wikirate) - Facilitates research and analysis on complex topics in collaboration with partners, to make ESG data open, comparable and useful for all.
 - [Equinox](https://github.com/open-risk/equinox) - Supports the holistic risk management of sustainable finance projects.
+- [PACTA](https://github.com/RMI-PACTA/PACTA_analysis) - Measuring the alignment of financial portfolios with climate scenarios.
 
 
 ### Knowledge Platforms
