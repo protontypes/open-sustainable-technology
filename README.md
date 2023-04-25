@@ -1022,6 +1022,7 @@ df.head()
 - [mosartwmpy](https://github.com/IMMM-SFA/mosartwmpy) - A python translation of MOSART-WM, a model for water routing and reservoir management written in Fortran.
 - [CoastSat](https://github.com/kvos/CoastSat) - Enables users to obtain time-series of shoreline position at any coastline worldwide from 30+ years of publicly available satellite imagery.
 - [mHM](https://git.ufz.de/mhm/mhm) - The mesoscale Hydrological Model.
+- [OceansDB](https://github.com/castelao/oceansdb) - A database of marine reference data like climatologies and bathymetry.
 
 
 ### Atmosphere
