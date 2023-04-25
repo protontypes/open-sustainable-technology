@@ -180,6 +180,7 @@ df.head()
 - [digital_wra_data_standard](https://github.com/IEA-Task-43/digital_wra_data_standard) - This standard data model and associated tools are intended as universal building blocks for Wind Energy Resource Assessment applications.
 - [awebox](https://github.com/awebox/awebox) - Modelling and optimal control of single- and multiple-kite systems for airborne wind energy.
 - [CCBlade.jl](https://github.com/byuflowlab/CCBlade.jl) - A blade element momentum method for propellers and turbines.
+- [lidarwind](https://github.com/jdiasn/lidarwind) - Retrieve wind speed and direction profiles from Doppler lidar observations from the WindCube-200s.
 
 ### Hydro Energy
 
