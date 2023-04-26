@@ -1,6 +1,10 @@
 <!--lint ignore awesome-toc awesome-contributing awesome-badge -->
 # Learning Open Sustainable Technology
 
+## Geocomputation
+- [Geocomputation with Python](https://github.com/geocompx/geocompy/) - An open source book and online resource for getting started in this space with Python.
+- [Geocomputation with R](https://github.com/geocompx/geocompr) - A book on geographic data analysis, visualization and modeling with R.
+
 ## Renewable Energy
 
 - [To Catch The Sun](https://tocatchthesun.com/) - Inspiring stories of communities coming together to harness their own solar energy, and how you can do it too.
