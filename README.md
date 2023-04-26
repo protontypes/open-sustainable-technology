@@ -1474,6 +1474,7 @@ df.head()
 - [AquaCrop](https://github.com/aquacropos/aquacrop) - A free open-source tool for assessing climate and water impacts on agriculture.
 - [AquaCropR](https://bitbucket.org/anyelacamargo/aquacropr/) - Implementation of the AquaCrop crop growth model developed by FAO to address food security and assess the effect of the environment and management on crop production.
 - [PCSE](https://github.com/ajwdewit/pcse) - A framework developed for implementing crop simulation models developed in Wageningen.
+- [climatrends](https://github.com/AgrDataSci/climatrends) - Provides methods to compute precipitation and temperature indices for climate models in ecology.
 
 
 ### Natural Hazard and Storm
