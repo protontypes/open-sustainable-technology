@@ -1024,6 +1024,7 @@ df.head()
 - [CoastSat](https://github.com/kvos/CoastSat) - Enables users to obtain time-series of shoreline position at any coastline worldwide from 30+ years of publicly available satellite imagery.
 - [mHM](https://git.ufz.de/mhm/mhm) - The mesoscale Hydrological Model.
 - [OceansDB](https://github.com/castelao/oceansdb) - A database of marine reference data like climatologies and bathymetry.
+- [LISF](https://github.com/NASA-LIS/LISF) - A software framework for high performance terrestrial hydrology modeling and data assimilation developed with the goal of integrating satellite and ground-based observational data products.
 
 
 ### Atmosphere
