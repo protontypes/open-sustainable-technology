@@ -605,6 +605,7 @@ df.head()
 - [cyclestreets](https://github.com/cyclestreets/cyclestreets-r) - The goal of cyclestreets is to provide a simple R interface to the CycleStreets routing service.
 - [Transportation Fuels Reporting System](https://github.com/bcgov/tfrs) - An online application for fuel suppliers to manage their compliance obligations under the Greenhouse Gas Reduction.
 - [pycontrails](https://github.com/contrailcirrus/pycontrails) - Python library for modeling aviation climate impacts.
+- [EV Footprint](https://github.com/Traace-co/ev-footprint) - A simulation of the true impact on climate and CO2 emissions of an electric car vs a traditional gasoline car.
 
 
 ### Production and Industry
