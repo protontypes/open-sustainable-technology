@@ -5,7 +5,7 @@
 
 __A curated list of open technology projects to sustain a stable climate, energy supply, biodiversity and natural resources.__ <br> <br> Your contribution is essential to keep this list alive. Read more about its origin and how you can participate in the [contribution guide](https://opensustain.tech/contributing/), [presentation slides](https://protontypes.eu/protontypes_open_sustainable_technology.pdf) and related [blog post](https://opensustain.tech/blog/gathering_open_sustainable_technology/). Please [write an email](mailto:tobias.augspurger@protontypes.eu) to give feedback, hints and ideas considering [OpenSustain.tech](https://opensustain.tech/) or [create an issue](https://github.com/protontypes/open-sustainable-technology/issues/new).
 
-If you're looking for an entry point into domains like renewable energy, climate change, or earth science, check out the collection of tutorials in the [learning section](https://opensustain.tech/learning/). In the [discovery section](https://opensustain.tech/discover/), you can search all projects by metadata such as used programming languages or topics. 
+If you're looking for an entry point into domains like renewable energy, climate change, or earth science, check out the collection of tutorials in the [learning section](https://opensustain.tech/learning/). 
 
 [![](https://badgen.net/badge/icon/Follow%20Updates/009485?icon=twitter&label)](https://twitter.com/protontypes) [![](https://badgen.net/badge/icon/Add%20a%20Project/009485?icon=git&label)](https://github.com/protontypes/open-sustainable-technology/blob/main/CONTRIBUTING.md)  [![](https://badgen.net/badge/View/Database/009485)](https://airtable.com/shr9we419r2TkpLkc)  
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7066539.svg)](https://doi.org/10.5281/zenodo.7066539) [![Join the chat at https://gitter.im/protontypes/community](https://badges.gitter.im/protontypes/community.svg)](https://gitter.im/protontypes/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
@@ -374,6 +374,8 @@ df.head()
 - [tell](https://github.com/IMMM-SFA/tell) - An open-source Python package to model future hourly total electricity loads.
 - [AMIRIS](https://gitlab.com/dlr-ve/esy/amiris/amiris) - An agent-based simulation of electricity markets and their actors enabeling researchers to analyse and evaluate energy policy instruments and their impact on the actors.
 - [AMIRIS-Py](https://gitlab.com/dlr-ve/esy/amiris/amiris-py) - Python tools for the electricity market model AMIRIS.
+- [PREP-SHOT](https://github.com/PREP-NexT/PREP-SHOT) - A transparent, modular, and open-source Energy Capacity Expansion Model.
+
 
 ### Energy Monitoring and Control
 
