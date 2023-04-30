@@ -1051,6 +1051,7 @@ df.head()
 - [CloudDrift](https://github.com/Cloud-Drift/clouddrift) - Accelerates the use of Lagrangian data for atmospheric, oceanic, and climate sciences.
 - [freva](https://github.com/FREVA-CLINT/freva) - A data search and analysis platform developed by the atmospheric science community.
 - [ClimaAtmos.jl](https://github.com/CliMA/ClimaAtmos.jl) - A library for building atmospheric circulation models that is designed from the outset to leverage data assimilation and machine learning tools.
+- [WaveBreaking](https://github.com/skaderli/WaveBreaking) -  A python package that provides detection, classification and tracking of Rossby Wave Breaking in weather and climate data.
 
 ## Climate and Earth Science
 
