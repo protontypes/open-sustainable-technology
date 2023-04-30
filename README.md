@@ -1026,6 +1026,7 @@ df.head()
 - [mHM](https://git.ufz.de/mhm/mhm) - The mesoscale Hydrological Model.
 - [OceansDB](https://github.com/castelao/oceansdb) - A database of marine reference data like climatologies and bathymetry.
 - [LISF](https://github.com/NASA-LIS/LISF) - A software framework for high performance terrestrial hydrology modeling and data assimilation developed with the goal of integrating satellite and ground-based observational data products.
+- [elapid](https://github.com/earth-chris/elapid) - Species distribution modeling tools, including a python implementation of Maxent.
 
 
 ### Atmosphere
