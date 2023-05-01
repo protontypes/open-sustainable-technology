@@ -918,6 +918,7 @@ df.head()
 - [IPT](https://github.com/gbif/ipt) - Global Biodiversity Information Facility and used to publish and share biodiversity datasets through the GBIF network. 
 - [enmSdmX](https://github.com/adamlilith/enmSdmX) - A set of tools in R for implementing species distribution models and ecological niche models.
 - [sdmTMB](https://github.com/pbs-assess/sdmTMB/) - An R package that fits spatial and spatiotemporal predictive-processes for species distribution models.
+- [Forest Vegetation Simulator](https://github.com/USDAForestService/ForestVegetationSimulator) - A family of individual-tree, distance-independent, forest growth simulation models.
 
 ### Cryosphere
 
