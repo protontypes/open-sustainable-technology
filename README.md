@@ -1137,6 +1137,7 @@ df.head()
 - [ClimateLearn](https://github.com/aditya-grover/climate-learn) - A Python library for accessing state-of-the-art climate data and machine learning models in a standardized, straightforward way.
 - [KrigR](https://github.com/ErikKusch/KrigR) - An R Package for downloading, preprocessing, and statistical downscaling of the European ERA5 dataset.
 - [SUEWS](https://github.com/UMEP-dev/SUEWS) - Surface Urban Energy and Water Balance Scheme.
+- [ClimaX](https://github.com/microsoft/climax) - The first foundation model for weather and climate science.
 
 ### Climate Data Processing and Access
 
