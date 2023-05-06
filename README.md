@@ -660,6 +660,7 @@ df.head()
 - [ecoCode](https://github.com/green-code-initiative/ecoCode) - Reduce the environmental footprint of your programs with this cutting-edge SonarQube plugin.
 - [Solar Protocol](https://github.com/alexnathanson/solar-protocol) - A solar powered network of servers that host a distributed web platform.
 - [PowerJoular](https://github.com/joular/powerjoular) - Allows monitoring power consumption of multiple platforms and processes.
+- [Green Algorithms](https://github.com/GreenAlgorithms/green-algorithms-tool) - Aims at promoting more environmentally sustainable computational science.
 
 ## Emissions
 
