@@ -84,6 +84,7 @@
 - [ECOSTRESS Tutorial](https://git.earthdata.nasa.gov/projects/LPDUR/repos/tutorial-ecostress) - The ECOSTRESS mission is tasked with measuring the temperature of plants to better understand how much water plants need and how they respond to stress.
 - [Tutorial for Working with NASA VIIRS Surface Reflectance Data](https://git.earthdata.nasa.gov/projects/LPDUR/repos/nasa_viirs_surfacereflectance/) - Converting VNP09GA files into quality-filtered vegetation indices and examining the trend in vegetation greenness during July 2018 to observe drought in Europe.
 - [MapBiomas 101](https://github.com/mapbiomas-brazil/mapbiomas-training) - Google Earth Engine Tutorials to produce annual land use and land cover maps from Brazil.
+- [Gedi Tutorials](https://github.com/ornldaac/gedi_tutorials) - Tutorials on producing high resolution laser ranging observations based on data of the Global Ecosystem Dynamics Investigation.
 
 
 ### Hydrosphere
