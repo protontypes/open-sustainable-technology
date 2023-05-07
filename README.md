@@ -1140,7 +1140,7 @@ df.head()
 - [KrigR](https://github.com/ErikKusch/KrigR) - An R Package for downloading, preprocessing, and statistical downscaling of the European ERA5 dataset.
 - [SUEWS](https://github.com/UMEP-dev/SUEWS) - Surface Urban Energy and Water Balance Scheme.
 - [ClimaX](https://github.com/microsoft/climax) - The first foundation model for weather and climate science.
-- [MAPL](https://github.com/GEOS-ESM/MAPL) - A foundation layer of the GEOS architecture, whose original purpose is to supplement the Earth System Modeling Framework
+- [MAPL](https://github.com/GEOS-ESM/MAPL) - A foundation layer of the GEOS architecture, whose original purpose is to supplement the Earth System Modeling Framework.
 
 ### Climate Data Processing and Access
 
@@ -1403,7 +1403,10 @@ df.head()
 - [pipedream](https://github.com/mdbartos/pipedream) - Interactive hydrodynamic solver for sewer/stormwater networks.
 - [TADA](https://github.com/USEPA/TADA) - Help developers compile and evaluate water quality data for samples collected from surface water monitoring sites on streams and lakes.
 - [wqtrends](https://github.com/tbep-tech/wqtrends) - R package to assess water quality trends with generalized additive models.
-- [pyet](https://github.com/pyet-org/pyet)
+- [pyet](https://github.com/pyet-org/pyet) -  Estimate reference and potential evaporation.
+- [SPEI](https://github.com/martinvonk/SPEI) - Calculate and visualize some popular drought indices such as the SPI, SPEI and SGI.
+
+
 
 ### Soil and Land
 
