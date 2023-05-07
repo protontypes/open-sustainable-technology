@@ -1403,6 +1403,7 @@ df.head()
 - [pipedream](https://github.com/mdbartos/pipedream) - Interactive hydrodynamic solver for sewer/stormwater networks.
 - [TADA](https://github.com/USEPA/TADA) - Help developers compile and evaluate water quality data for samples collected from surface water monitoring sites on streams and lakes.
 - [wqtrends](https://github.com/tbep-tech/wqtrends) - R package to assess water quality trends with generalized additive models.
+- [pyet](https://github.com/pyet-org/pyet)
 
 ### Soil and Land
 
