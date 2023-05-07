@@ -1465,6 +1465,7 @@ df.head()
 - [OpenLand](https://github.com/reginalexavier/OpenLand) - Tool for Quantitative Analysis and Visualization of Land Use and Land Cover Change.
 - [cultionet](https://github.com/jgrss/cultionet) - A library for semantic segmentation of cultivated land using a neural network.
 - [pygef](https://github.com/cemsbv/pygef) - Simple parser for soil properties measurements.
+- [pydov](https://github.com/DOV-Vlaanderen/pydov) - Aggregates data about soil, subsoil and groundwater of Flanders and makes them publicly available.
 
 
 ### Agriculture and Nutrition
