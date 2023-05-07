@@ -1140,6 +1140,7 @@ df.head()
 - [KrigR](https://github.com/ErikKusch/KrigR) - An R Package for downloading, preprocessing, and statistical downscaling of the European ERA5 dataset.
 - [SUEWS](https://github.com/UMEP-dev/SUEWS) - Surface Urban Energy and Water Balance Scheme.
 - [ClimaX](https://github.com/microsoft/climax) - The first foundation model for weather and climate science.
+- [MAPL](https://github.com/GEOS-ESM/MAPL) - A foundation layer of the GEOS architecture, whose original purpose is to supplement the Earth System Modeling Framework
 
 ### Climate Data Processing and Access
 
