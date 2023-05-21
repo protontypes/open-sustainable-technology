@@ -49,6 +49,7 @@
 - [Earthdata Cloud Cookbook](https://nasa-openscapes.github.io/earthdata-cloud-cookbook/) - This Cookbook is learning-oriented to support scientific researchers using NASA Earthdata from Distributed Active Archive Centers as they migrate their workflows to the cloud.
 - [Project Pythia](https://github.com/ProjectPythia/pythia-foundations) - A community learning resource for Python-based computing in the geosciences.
 - [MOOC Machine Learning in Weather & Climate](https://github.com/ecmwf-projects/mooc-machine-learning-weather-climate) - Explore the application of Machine Learning across the main stages of numerical weather and climate prediction.
+- [HPC4WC](https://github.com/ofuhrer/HPC4WC) - High Performance Computing for Weather and Climate Course.
 
 ## Earth Observation 
 - [Radiant MLHub Tutorials](https://github.com/radiantearth/mlhub-tutorials) - Tutorials to access Radiant MLHub Training Datasets.
