@@ -1,5 +1,5 @@
 <!--lint ignore awesome-toc awesome-contributing awesome-badge -->
-# Learning Open Sustainable Technology
+# Open Educational and Training Resources in Sustainable Technologies
 
 ## Geocomputation
 - [Geocomputation with Python](https://github.com/geocompx/geocompy/) - An open source book and online resource for getting started in this space with Python.
