@@ -139,6 +139,7 @@ df.head()
 - [pv-system-profiler](https://github.com/slacgismo/pv-system-profiler) - Estimating PV array location and orientation from real-world power datasets.
 - [A Global Inventory of Commerical-, Industrial-, and Utility-Scale Photovoltaic Solar Generating Units](https://github.com/Lkruitwagen/solar-pv-global-inventory) - Used to produce a global inventory of utility-scale solar photvoltaic generating station.
 - [dGen](https://github.com/NREL/dgen) - Forecast PV adoption based on user specified configurations like electricity rate prices, electricity load growth, solar resource factors, and much more.
+- [SOLECTRUS](https://github.com/solectrus/solectrus) - An alternative photovoltaic dashboard that visualizes the yield and consumption.
 
 ### Wind Energy
 
