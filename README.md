@@ -1062,6 +1062,7 @@ df.head()
 - [WaveBreaking](https://github.com/skaderli/WaveBreaking) -  A python package that provides detection, classification and tracking of Rossby Wave Breaking in weather and climate data.
 - [typhon](https://github.com/atmtools/typhon) - A collection of tools for atmospheric research with Python 3.
 - [Pace](https://github.com/ai2cm/pace) - A implementation of the FV3GFS / SHiELD atmospheric model developed by NOAA/GFDL using the GT4Py domain-specific language in Python.
+- [IPART](https://github.com/ihesp/IPART) - A Python package for automated Atmospheric River (AR) detection, axis finding and AR tracking from gridded Integrated Vapor Transport data.
 
 ## Climate and Earth Science
 
