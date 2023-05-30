@@ -663,6 +663,7 @@ df.head()
 - [PowerJoular](https://github.com/joular/powerjoular) - Allows monitoring power consumption of multiple platforms and processes.
 - [Green Algorithms](https://github.com/GreenAlgorithms/green-algorithms-tool) - Aims at promoting more environmentally sustainable computational science.
 - [Camunda Carbon Reductor](https://github.com/envite-consulting/camunda-carbon-reductor) - Allows you to time shift your processes' carbon emissions when energy is clean while still fulfilling the requested service level agreemen.
+- [Quell](https://github.com/rollthecloudinc/quell) - The Content Management Software that combats climate change stopping web carbon production in its tracks.
 
 ## Emissions
 
