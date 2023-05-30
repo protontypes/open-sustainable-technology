@@ -5,7 +5,7 @@
 
 __A curated list of open technology projects to sustain a stable climate, energy supply, biodiversity and natural resources.__ <br> <br> Your contribution is essential to keep this list alive. Read more about its origin and how you can participate in the [contribution guide](https://opensustain.tech/contributing/), [presentation slides](https://protontypes.eu/protontypes_open_sustainable_technology.pdf) and related [blog post](https://opensustain.tech/blog/gathering_open_sustainable_technology/). Please [write an email](mailto:tobias.augspurger@protontypes.eu) to give feedback, hints and ideas considering [OpenSustain.tech](https://opensustain.tech/) or [create an issue](https://github.com/protontypes/open-sustainable-technology/issues/new).
 
-If you're looking for an entry point into domains like renewable energy, climate change, or earth science, check out the collection of tutorials in the [learning section](https://opensustain.tech/learning/). 
+If you're looking for an entry point into domains like renewable energy, climate change, or earth science, check out the collection of tutorials in the [education section](https://opensustain.tech/education/). 
 
 [![](https://badgen.net/badge/icon/Follow%20Updates/009485?icon=twitter&label)](https://twitter.com/protontypes) [![](https://badgen.net/badge/icon/Add%20a%20Project/009485?icon=git&label)](https://github.com/protontypes/open-sustainable-technology/blob/main/CONTRIBUTING.md)  [![](https://badgen.net/badge/View/Database/009485)](https://airtable.com/shr9we419r2TkpLkc)  
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7066539.svg)](https://doi.org/10.5281/zenodo.7066539) [![Join the chat at https://gitter.im/protontypes/community](https://badges.gitter.im/protontypes/community.svg)](https://gitter.im/protontypes/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
@@ -924,7 +924,8 @@ df.head()
 - [enmSdmX](https://github.com/adamlilith/enmSdmX) - A set of tools in R for implementing species distribution models and ecological niche models.
 - [sdmTMB](https://github.com/pbs-assess/sdmTMB/) - An R package that fits spatial and spatiotemporal predictive-processes for species distribution models.
 - [Forest Vegetation Simulator](https://github.com/USDAForestService/ForestVegetationSimulator) - A family of individual-tree, distance-independent, forest growth simulation models.
-- [icesDatras](https://github.com/ices-tools-prod/icesDatras) - R interface to DATRAS trawl database web services.
+- [icesDatras](https://github.com/ices-tools-prod/icesDatras) - R interface to Database of Trawl Surveys web services.
+- [icesTAF](https://github.com/ices-tools-prod/icesTAF) - Functions to support the International Council for the Exploration of the Sea Transparent Assessment Framework.
 
 ### Cryosphere
 
