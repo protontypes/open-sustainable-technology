@@ -50,7 +50,7 @@ df.head()
   - [Computation and Communication](#computation-and-communication)
 - [Emissions](#emissions)
   - [Carbon Intensity and Accounting](#carbon-intensity-and-accounting)
-  - [Carbon Capture and Removal](#carbon-capture-and-removal)
+  - [Carbon Credits and Capture](#carbon-credits-and-capture)
   - [Emission Observation and Modeling](#emission-observation-and-modeling)
 - [Industrial Ecology](#industrial-ecology)
   - [Life Cycle Assessment](#life-cycle-assessment)
@@ -676,30 +676,30 @@ df.head()
 - [Bloom](https://github.com/tmrowco/bloom-contrib) - A SaaS that allow companies to become climate leaders, from calculating their climate impact to communicating about their climate efforts. It connects to as many data sources as possible to assess your carbon footprint and find mitigation opportunities.
 - [NMF.earth app](https://github.com/NMF-earth/nmf-app) - iOS & Android app to understand and reduce your carbon footprint.
 - [EnergyPATHWAYS](https://github.com/energyPATHWAYS/EnergyPATHWAYS) - The energyPATHWAYS Model is a professional, open source energy and carbon planning tool for use in evaluating long-term, economy-wide greenhouse gas mitigation scenarios.
-- [CarbonFootprint](https://gitlab.com/aossie/CarbonFootprint) - A browser extension that displays carbon footprint information in multiple map services.
 - [blockchain-carbon-accounting](https://github.com/opentaps/blockchain-carbon-accounting) - Code of the Carbon Accounting and Certification Working Group.
 - [footprint](https://github.com/acircleda/footprint) - An R package to calculate carbon footprints from air travel based on IATA airport codes or latitude and longitude.
 - [intensegRid](https://github.com/KKulma/intensegRid) - Provides information on national and regional carbon intensity, the amount of carbon emitted per unit of energy consumed, for the UK.
 - [Carbonfact Models](https://github.com/kansoapp/carbonfact-models) - The carbon footprint models used by carbonfact.co.
 - [CAMx](https://www.camx.com/) - A multi-scale photochemical modeling system for gas and particulate air pollution.
-- [Open-Emission-Factors-DB](https://github.com/climatiq/Open-Emission-Factors-DB) - An open access, contributer-led database of emission factors, validated by the team at Climatiq.
+- [Open-Emission-Factors-DB](https://github.com/climatiq/python-oefdb-sdk) - Tools for interacting with and contributing to the Open Emission Factors DB.
 - [elmada](https://github.com/DrafProject/elmada) - Dynamic electricity carbon emission factors and prices for Europe.
 - [UNFCCC emissions data](https://github.com/openclimatedata/unfccc-detailed-data-by-party) - UNFCCC Emissions data from the Detailed Data By Party interface.
 - [Silicone](https://github.com/GranthamImperial/silicone) - Automated filling of detail in reported emission scenarios.
 - [gridemissions](https://github.com/jdechalendar/gridemissions) - Displays the hourly carbon footprint of the US electricity system.
 - [OpenClimate](https://github.com/Open-Earth-Foundation/OpenClimate) - Independent Climate Accounting Network in support of Paris Agreement goals.
-- [Guardian](https://github.com/hashgraph/guardian) - Provides auditable, traceable, reproducible records that document the emission process and lifecycle of carbon credits, which reduce fraud in the ESG market.
 
 
-### Carbon Capture and Removal
+### Carbon Credits and Capture 
 
 - [Carbon Dioxide Removal Database](https://github.com/carbonplan/cdr-database) - Open science reports on carbon removal projects and technologies.
-- [SimCCS](https://github.com/simccs/SimCCS) - A software platform for carbon capture and storage infrastructure design.
 - [FOQUS](https://github.com/CCSI-Toolset/FOQUS) - Framework for Optimization and Quantification of Uncertainty and Surrogates.
-- [Carbon Capture and Storage](https://github.com/yohanesnuwara/carbon-capture-and-storage) - This is a complete modeling workflow that integrates reservoir simulation data, rock physics, time-lapse seismic and geomechanics of CO2 injection in carbonate rock. <!--lint ignore awesome-spell-check-->
 - [GEOSX](https://github.com/GEOSX/GEOSX) - A simulation framework for modeling coupled flow, transport, and geomechanics in the subsurface.
 - [OpenIAM](https://gitlab.com/NRAP/OpenIAM) - An open source integrated assessment model developed by National Risk Assessment Partnership Phase II to facilitate risk assessment, management and containment assurance for geologic carbon sequestration projects.
 - [CDRMEx](https://github.com/hsbay/cdrmex) - Carbon Dioxide Removal Modeling Experiments.
+- [National Carbon Credit Registry](https://github.com/undp/carbon-registry) - As an online database using national and international standards for quantifying and verifying greenhouse gas emissions reductions by programmes.
+- [forest-risks](https://github.com/carbonplan/forest-risks) - Statistical models of forest carbon potential and risks.
+- [Guardian](https://github.com/hashgraph/guardian) - Provides auditable, traceable, reproducible records that document the emission process and lifecycle of carbon credits, which reduce fraud in the ESG market.
+
 
 ### Emission Observation and Modeling
 
@@ -740,6 +740,7 @@ df.head()
 - [Easy-ERA5-Trck](https://github.com/Novarizark/easy-era5-trck) - A super lightweight Lagrangian model for calculating millions of trajectories using ERA5 data. 
 - [GRACED](https://carbonmonitor-graced.com/) - Near-real-time Global Gridded Daily CO2 Emissions Dataset from fossil fuel and cement production with a global spatial resolution of 0.1° by 0.1° and a temporal resolution of 1 day.
 - [ECAM](https://github.com/icra/ecam) - Water and wastewater utility operators can assess their greenhouse gas emissions and energy consumption.
+
 
 
 ## Industrial Ecology
@@ -874,7 +875,6 @@ df.head()
 - [Sentinel-Tree-Cover](https://github.com/wri/sentinel-tree-cover) - This project maps tree extent at the ten-meter scale using open source artificial intelligence and satellite imagery.
 - [Bioverse Labs](https://github.com/Bioverse-Labs/deep-learning) - Python scripts using usual frameworks in Deep Learning for pattern recognition on forest environments.
 - [Tree Tracker](https://github.com/protect-earth/TreeTracker) - Used by people who plant trees so they don't have to manually type coordinates with pictures they took.
-- [forest-risks](https://github.com/carbonplan/forest-risks) - Statistical models of forest carbon potential and risks.
 - [rGEDI](https://github.com/carlos-alberto-silva/rGEDI) - An R Package for NASA's Global Ecosystem Dynamics Investigation (GEDI) Data Visualization and Processing.
 - [Wildfire Predictive Services](https://github.com/bcgov/wps) - Wildfire Predictive Services to support decision making in prevention, preparedness, response and recovery.
 - [detectreeRGB](https://github.com/shmh40/detectreeRGB) - Tree crown delineation from RGB imagery, coupled with methods to delineate tree crowns from LiDAR data.
