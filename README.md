@@ -923,6 +923,7 @@ df.head()
 - [enmSdmX](https://github.com/adamlilith/enmSdmX) - A set of tools in R for implementing species distribution models and ecological niche models.
 - [sdmTMB](https://github.com/pbs-assess/sdmTMB/) - An R package that fits spatial and spatiotemporal predictive-processes for species distribution models.
 - [Forest Vegetation Simulator](https://github.com/USDAForestService/ForestVegetationSimulator) - A family of individual-tree, distance-independent, forest growth simulation models.
+- [icesDatras](https://github.com/ices-tools-prod/icesDatras) - R interface to DATRAS trawl database web services.
 
 ### Cryosphere
 
