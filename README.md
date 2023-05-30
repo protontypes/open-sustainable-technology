@@ -768,6 +768,7 @@ df.head()
 - [FORBIO](https://github.com/fineprint-global/forbio) - Physical multi-regional input-output model for forestry, wood and paper products.
 - [pymrio](https://github.com/konstantinstadler/pymrio/) - Multi-Regional Input-Output Analysis in Python.
 - [flowsa](https://github.com/USEPA/flowsa) - Library that attributes resource use, waste, emissions, and loss to economic sectors.
+- [LCIA formatter](https://github.com/USEPA/LCIAformatter) - A Python tool for standardizing the format and flows of life cycle impact assessment data.
 
 ### Circular Economy and Waste
 
