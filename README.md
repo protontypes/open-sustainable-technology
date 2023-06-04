@@ -1658,6 +1658,7 @@ df.head()
 - [Siphon](https://github.com/Unidata/siphon) - A collection of Python utilities for retrieving atmospheric and oceanic data from remote sources, focusing on being able to retrieve data from Unidata data technologies.
 - [NEON](https://github.com/NEONScience/NEON-utilities) - The National Ecological Observatory Network provides open data to understand changing ecosystems.
 - [SynopticPy](https://github.com/blaylockbk/SynopticPy) - Gives you access to real-time and historical surface-based weather and environmental observations for thousands of stations.
+- [NASA CMR STAC](https://github.com/nasa/cmr-stac) - NASA's Common Metadata Repository is a metadata catalog of NASA Earth Science data.
 
 ### Curated Lists
 
