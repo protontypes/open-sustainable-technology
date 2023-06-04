@@ -1070,6 +1070,8 @@ df.head()
 - [typhon](https://github.com/atmtools/typhon) - A collection of tools for atmospheric research with Python 3.
 - [Pace](https://github.com/ai2cm/pace) - A implementation of the FV3GFS / SHiELD atmospheric model developed by NOAA/GFDL using the GT4Py domain-specific language in Python.
 - [IPART](https://github.com/ihesp/IPART) - A Python package for automated Atmospheric River (AR) detection, axis finding and AR tracking from gridded Integrated Vapor Transport data.
+- [Project Horus](https://github.com/projecthorus/radiosonde_auto_rx) - A Amateur Radio High Altitude Ballooning project.
+
 
 ## Climate and Earth Science
 
