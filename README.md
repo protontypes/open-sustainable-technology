@@ -1246,6 +1246,7 @@ df.head()
 - [met.3D](https://gitlab.com/wxmetvis/met.3d) - Interactive three-dimensional visualization of numerical ensemble weather predictions and similar numerical atmospheric model datasets.
 - [agera5tools](https://github.com/ajwdewit/agera5tools) - Tools for mirroring, manipulating  and serving Global Weather for Agriculture data (AgERA5).
 - [MeteoInfo](https://github.com/meteoinfo/MeteoInfo) - GIS and scientific computation environment for meteorological community.
+- [thundeR](https://github.com/bczernecki/thundeR) - Rapid computation and visualisation of convective parameters from rawinsonde and Numerical weather prediction data.
 
 ### Natural Hazard and Storm
 
