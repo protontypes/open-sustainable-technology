@@ -182,6 +182,7 @@ df.head()
 - [awebox](https://github.com/awebox/awebox) - Modelling and optimal control of single- and multiple-kite systems for airborne wind energy.
 - [CCBlade.jl](https://github.com/byuflowlab/CCBlade.jl) - A blade element momentum method for propellers and turbines.
 - [lidarwind](https://github.com/jdiasn/lidarwind) - Retrieve wind speed and direction profiles from Doppler lidar observations from the WindCube-200s.
+- [FLOWUnsteady](https://github.com/byuflowlab/FLOWUnsteady) - An interactional aerodynamics and acoustics solver for multirotor aircraft and wind energy.
 
 ### Hydro Energy
 
