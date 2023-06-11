@@ -928,6 +928,7 @@ df.head()
 - [Forest Vegetation Simulator](https://github.com/USDAForestService/ForestVegetationSimulator) - A family of individual-tree, distance-independent, forest growth simulation models.
 - [icesDatras](https://github.com/ices-tools-prod/icesDatras) - R interface to Database of Trawl Surveys web services.
 - [icesTAF](https://github.com/ices-tools-prod/icesTAF) - Functions to support the International Council for the Exploration of the Sea Transparent Assessment Framework.
+- [PYFOREST](https://github.com/cp-PYFOREST/Land-Use-Assessment) - Informing Forest Conservation Regulations in Paraguay.
 
 ### Cryosphere
 
@@ -1481,6 +1482,7 @@ df.head()
 - [pygef](https://github.com/cemsbv/pygef) - Simple parser for soil properties measurements.
 - [pydov](https://github.com/DOV-Vlaanderen/pydov) - Aggregates data about soil, subsoil and groundwater of Flanders and makes them publicly available.
 - [ILAMB](https://github.com/rubisco-sfa/ILAMB) - Python software used in the International Land Model Benchmarking project.
+
 
 
 ### Agriculture and Nutrition
