@@ -767,7 +767,6 @@ df.head()
 - [premise](https://github.com/romainsacchi/premise) - Coupling Integrated Assessment Models output with Life Cycle Assessment.
 - [useeior](https://github.com/USEPA/useeior) - Estimating potential environmental impacts of goods and services in the US economy.
 - [fedelemflowlist](https://github.com/USEPA/Federal-LCA-Commons-Elementary-Flow-List) - A Python package that generates and provides a standardized elementary flow list for use in life cycle assessment (LCA) data as well as mappings to convert data from other sources.
-- [FORBIO](https://github.com/fineprint-global/forbio) - Physical multi-regional input-output model for forestry, wood and paper products.
 - [pymrio](https://github.com/konstantinstadler/pymrio/) - Multi-Regional Input-Output Analysis in Python.
 - [flowsa](https://github.com/USEPA/flowsa) - Library that attributes resource use, waste, emissions, and loss to economic sectors.
 - [LCIA formatter](https://github.com/USEPA/LCIAformatter) - A Python tool for standardizing the format and flows of life cycle impact assessment data.
@@ -998,7 +997,7 @@ df.head()
 - [GOTM](https://github.com/gotm-model/code) - The General Ocean Turbulence Model is an ambitious name for a one-dimensional water column model for marine and limnological applications.
 - [pyroms](https://github.com/ESMG/pyroms) - A collection of tools to process input and output files from the Regional Ocean Modeling System.
 - [Intro to Physical Oceanography](https://github.com/rabernat/intro_to_physical_oceanography) - Course materials for Introduction to Physical Oceanography.
-- [TSG-QC](https://git.outils-is.ird.fr/grelet/TSG-QC) - Analysis and validation of underway Sea Surface Temperature and Sea Surface Salinity measurements from a SeaBird Thermosalinograph.
+- [TSG-QC]([https://git.outils-is.ird.fr/grelet/TSG-QC](https://forge.ird.fr/us191/TSG-QC)) - Analysis and validation of underway Sea Surface Temperature and Sea Surface Salinity measurements from a SeaBird Thermosalinograph.
 - [WRF-Hydro](https://github.com/NCAR/wrf_hydro_nwm_public) - A community modeling system and framework for hydrologic modeling and model coupling.
 - [rwrfhydro](https://github.com/NCAR/rwrfhydro) - A community-contributed tool box for managing, analyzing, and visualizing WRF Hydro (and HydroDART) input and output files in R.
 - [PCR-GLOBWB_model](https://github.com/UU-Hydro/PCR-GLOBWB_model) - A large-scale hydrological model intended for global to regional studies.
@@ -1179,7 +1178,6 @@ df.head()
 - [IPCC AR6 Chapter 9 Figures](https://github.com/IPCC-WG1/Chapter-9) - Code and data for all figures from Chapter 9 of the IPCC AR6.
 - [icclim](https://github.com/cerfacs-globc/icclim) - Python library for climate indices and climate indicators calculation.
 - [DeepSphere](https://github.com/deepsphere/deepsphere-pytorch) - Learning on the sphere with a graph-based ConvNet.
-- [JuliaClimate Notebooks](https://juliaclimate.github.io/GlobalOceanNotebooks/) - Notebooks that show Julia packages related to climate working in concert.
 - [clisops](https://github.com/roocs/clisops) - Climate simulation operations.
 - [Climate Data Store Toolbox](https://cds.climate.copernicus.eu/toolbox/doc/index.html) - Dive into this wealth of information about the Earth's past, present and future climate.
 - [ATLAS](https://github.com/SantanderMetGroup/ATLAS) - Datasets, code and virtual workspace for the Climate Change ATLAS.
@@ -1385,7 +1383,7 @@ df.head()
 - [VICRes](https://github.com/thanhiwer/VICRes) - The model simulates key hydrological processes occurring in a river basin (e.g. water and energy balances, streamflow routing), but does not account for the operations of artificial water reservoirs.
 - [AWSM](https://github.com/USDA-ARS-NWRC/awsm) - Automated Water Supply Model was developed at the USDA Agricultural Research Service.
 - [AED2](https://github.com/AquaticEcoDynamics/libaed2) - A community-driven library of modules and algorithms for simulation of "aquatic ecodynamics": water quality, aquatic biogeochemsitry, biotic habitat and aquatic ecosystem dynamics.
-- [DORiE](https://ts-gitlab.iup.uni-heidelberg.de/dorie/dorie) - A Discontinuous Galerkin Solver for Soil Water Flow and Passive Solute Transport Based on DUNE.
+- [DORiE](https://gitlab.dune-project.org/dorie/dorie) - A Discontinuous Galerkin Solver for Soil Water Flow and Passive Solute Transport Based on DUNE.
 - [wqbc](https://github.com/bcgov/wqbc) - An R package for water quality thresholds and index calculation for British Columbia.
 - [Model My Watershed](https://github.com/WikiWatershed/model-my-watershed) - A watershed-modeling web app for citizens, conservation practitioners, municipal decision-makers, educators, and students.
 - [AquaSat](https://github.com/GlobalHydrologyLab/AquaSat) - A data set to enable remote sensing of water quality for inland waters.
@@ -1536,7 +1534,6 @@ df.head()
 - [agrolib](https://github.com/ARPA-SIMC/agrolib) - A set of libraries for agrometeorological modeling and climate analysis.
 - [FIELDimageR](https://github.com/OpenDroneMap/FIELDimageR) - A Tool to Analyze Images From Agricultural Field Trials and Lab in R.
 - [AquaCrop](https://github.com/aquacropos/aquacrop) - A free open-source tool for assessing climate and water impacts on agriculture.
-- [AquaCropR](https://bitbucket.org/anyelacamargo/aquacropr/) - Implementation of the AquaCrop crop growth model developed by FAO to address food security and assess the effect of the environment and management on crop production.
 - [PCSE](https://github.com/ajwdewit/pcse) - A framework developed for implementing crop simulation models developed in Wageningen.
 - [climatrends](https://github.com/AgrDataSci/climatrends) - Provides methods to compute precipitation and temperature indices for climate models in ecology.
 - [Agroecology-Map](https://github.com/marcelo-soares-souza/Agroecology-Map) -  A technological platform that allows the mapping and exchange of Agroecological and Agroforestry experiences.
