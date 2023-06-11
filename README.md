@@ -967,7 +967,7 @@ df.head()
 
 ### Hydrosphere
 
-- [Raven](https://github.com/Ouranosinc/raven) - Made to help scientists run hydrological modeling experiments with climate change projections..
+- [Raven](https://github.com/Ouranosinc/raven) - Made to help scientists run hydrological modeling experiments with climate change projections.
 - [Bergen Layered Ocean Model](https://github.com/NorESMhub/BLOM) - Employs an isopycnic vertical coordinate, with near-isopycnic interior layers and variable density layers in the surface mixed boundary layer.
 - [Oceananigans.jl](https://github.com/CliMA/Oceananigans.jl) - Fast and friendly fluid dynamics on CPUs and GPUs.
 - [NEMO](https://forge.nemo-ocean.eu/nemo/nemo) - Nucleus for European Modelling of the Ocean is a state-of-the-art modeling framework for research activities and forecasting services in ocean and climate sciences.
@@ -1305,6 +1305,7 @@ df.head()
 - [remind](https://github.com/pik-piam/remind) - A numerical model that represents the future evolution of the world economies with a special focus on the development of the energy sector and the implications for our world climate. 
 - [mrremind](https://github.com/pik-piam/mrremind) - MadRat REMIND Input Data Package.
 - [edgeTransport](https://github.com/pik-piam/edgeTransport) - Prepare EDGE Transport Data for the REMIND model.
+- [META 2021](https://github.com/openmodels/META-2021) - Advanced integrated assessment model (SC-IAM), designed as a model-based meta-analysis of the effects of tipping points on the social cost of carbon.
 
 ## Natural Resources
 
