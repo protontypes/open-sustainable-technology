@@ -1247,6 +1247,7 @@ df.head()
 - [agera5tools](https://github.com/ajwdewit/agera5tools) - Tools for mirroring, manipulating  and serving Global Weather for Agriculture data (AgERA5).
 - [MeteoInfo](https://github.com/meteoinfo/MeteoInfo) - GIS and scientific computation environment for meteorological community.
 - [thundeR](https://github.com/bczernecki/thundeR) - Rapid computation and visualisation of convective parameters from rawinsonde and Numerical weather prediction data.
+- [AtmoSwing](https://github.com/atmoswing/atmoswing) - Allow predicting local meteorological variables of interest, such as the daily precipitation, based on synoptic variables
 
 ### Natural Hazard and Storm
 
