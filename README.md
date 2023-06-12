@@ -252,8 +252,6 @@ df.head()
 - [LIONSIMBA](https://github.com/lionsimbatoolbox/LIONSIMBA) - A Matlab framework based on a finite volume model suitable for Li-ion battery design, simulation, and control.
 - [emobpy](https://gitlab.com/diw-evu/emobpy/emobpy) - An open tool for creating battery-electric vehicle time series from empirical data.
 - [BattMo](https://github.com/BattMoTeam/BattMo) - The Battery Modelling Toolbox (BattMo) is a resource for continuum modelling of electrochemical devices in MATLAB.
-- [Battery Archive](https://github.com/battery-lcf/batteryarchive) -  Easy visualization, analysis, and comparison of battery data across institutions.
-
 
 ### Hydrogen
 
