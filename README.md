@@ -931,6 +931,7 @@ df.head()
 - [icesDatras](https://github.com/ices-tools-prod/icesDatras) - R interface to Database of Trawl Surveys web services.
 - [icesTAF](https://github.com/ices-tools-prod/icesTAF) - Functions to support the International Council for the Exploration of the Sea Transparent Assessment Framework.
 - [PYFOREST](https://github.com/cp-PYFOREST/Land-Use-Assessment) - Informing Forest Conservation Regulations in Paraguay.
+- [ENMwizard](https://github.com/HemingNM/ENMwizard) - Advanced Tecniques for Ecological Niche Modeling Made Easy.
 
 ### Cryosphere
 
