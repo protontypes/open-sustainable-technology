@@ -380,6 +380,7 @@ df.head()
 
 ### Energy Monitoring and Control
 
+- [Open Energy Dashboard](https://github.com/OpenEnergyDashboard/OED) - Open Energy Dashboard is a user-friendly way to display energy information from smart energy meter
 - [OpenEMS](https://github.com/OpenEMS/openems) - Open Source Energy Management System.
 - [eemeter](https://github.com/openeemeter/eemeter) - An open source Python package for implementing and developing standard methods for calculating normalized metered energy consumption and avoided energy use.
 - [OperatorFabric](https://github.com/opfab/operatorfabric-core) - A modular, extensible, industrial-strength and field-tested platform for use in electricity, water and other utility operations.
