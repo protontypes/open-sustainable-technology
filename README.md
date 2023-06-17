@@ -744,6 +744,7 @@ df.head()
 - [GRACED](https://carbonmonitor-graced.com/) - Near-real-time Global Gridded Daily CO2 Emissions Dataset from fossil fuel and cement production with a global spatial resolution of 0.1° by 0.1° and a temporal resolution of 1 day.
 - [ECAM](https://github.com/icra/ecam) - Water and wastewater utility operators can assess their greenhouse gas emissions and energy consumption.
 - [Emissions Modeling Framework](https://github.com/USEPA/emf) - A client-server system designed to store information related to emissions modeling, with integrated quality control processes.
+- [MOVES](https://github.com/USEPA/EPA_MOVES_Model) - A state-of-the-science emission modeling system that estimates emissions for mobile sources at the national, county, and project level for criteria air pollutants, greenhouse gases, and air toxics, available under EPA's Open Source Software policy.
 
 
 ## Industrial Ecology
