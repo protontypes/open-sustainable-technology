@@ -1050,6 +1050,7 @@ df.head()
 - [LISF](https://github.com/NASA-LIS/LISF) - A software framework for high performance terrestrial hydrology modeling and data assimilation developed with the goal of integrating satellite and ground-based observational data products.
 - [elapid](https://github.com/earth-chris/elapid) - Species distribution modeling tools, including a python implementation of Maxent.
 - [stglib](https://github.com/USGS-CMG/stglib) - Routines used by the USGS Coastal/Marine Hazards & Resources Program to process oceanographic time-series data.
+- [Conceptual Functional Equivalent](https://github.com/NOAA-OWP/cfe) - A conceptual rainfall-runoff model with an implementation of the Basic Model Interface.
 
 
 ### Atmosphere
