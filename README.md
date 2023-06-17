@@ -1231,6 +1231,7 @@ df.head()
 - [tempestextremes](https://github.com/ClimateGlobalChange/tempestextremes) - Extreme weather detection and characterization.
 - [xmip](https://github.com/jbusecke/xMIP) - Analysis ready CMIP6 data in python the easy way with pangeo tools.
 - [daymetr](https://github.com/bluegreen-labs/daymetr) - Allows for easy downloads of Daymet climate data directly to your R workspace or your computer.
+- [ClimDown](https://github.com/pacificclimate/ClimDown) -  A Climate Downscaling package for the R statistical programming language.
 
 
 ### Meteorological Observation and Forecast
