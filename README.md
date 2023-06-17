@@ -688,6 +688,7 @@ df.head()
 - [gridemissions](https://github.com/jdechalendar/gridemissions) - Displays the hourly carbon footprint of the US electricity system.
 - [OpenClimate](https://github.com/Open-Earth-Foundation/OpenClimate) - Independent Climate Accounting Network in support of Paris Agreement goals.
 - [Scope3](https://github.com/scope3data/methodology) - Build a framework where the media and advertising industry can collaborate on best practices for measuring emissions from the advertising value chain.
+- [World Carbon Pricing Database](https://github.com/g-dolphin/WorldCarbonPricingDatabase) - This dataset contains information on carbon pricing mechanisms (carbon taxes or cap-and-trade) introduced around the world since 1990.
 
 
 ### Carbon Credits and Capture 
