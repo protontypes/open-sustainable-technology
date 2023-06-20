@@ -380,7 +380,7 @@ df.head()
 
 ### Energy Monitoring and Control
 
-- [Open Energy Dashboard](https://github.com/OpenEnergyDashboard/OED) - Open Energy Dashboard is a user-friendly way to display energy information from smart energy meter
+- [Open Energy Dashboard](https://github.com/OpenEnergyDashboard/OED) - Open Energy Dashboard is a user-friendly way to display energy information from smart energy meter.
 - [OpenEMS](https://github.com/OpenEMS/openems) - Open Source Energy Management System.
 - [eemeter](https://github.com/openeemeter/eemeter) - An open source Python package for implementing and developing standard methods for calculating normalized metered energy consumption and avoided energy use.
 - [OperatorFabric](https://github.com/opfab/operatorfabric-core) - A modular, extensible, industrial-strength and field-tested platform for use in electricity, water and other utility operations.
@@ -1055,6 +1055,8 @@ df.head()
 - [elapid](https://github.com/earth-chris/elapid) - Species distribution modeling tools, including a python implementation of Maxent.
 - [stglib](https://github.com/USGS-CMG/stglib) - Routines used by the USGS Coastal/Marine Hazards & Resources Program to process oceanographic time-series data.
 - [Conceptual Functional Equivalent](https://github.com/NOAA-OWP/cfe) - A conceptual rainfall-runoff model with an implementation of the Basic Model Interface.
+- [Near Real-Time Survey Progress and Temperature Maps](https://github.com/afsc-gap-products/survey-live-temperature-map) - Create daily survey station daily temperature and anomaly plots as the ships work their way through the Bering Sea.
+- [cold pool index](https://github.com/afsc-gap-products/coldpool) - Calculate the cold pool index, mean sea surface temperature, and mean bottom temperature using temperature data collected during bottom trawl surveys of the eastern Bering Sea.
 
 
 ### Atmosphere
