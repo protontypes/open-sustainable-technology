@@ -693,6 +693,7 @@ df.head()
 - [World Carbon Pricing Database](https://github.com/g-dolphin/WorldCarbonPricingDatabase) - This dataset contains information on carbon pricing mechanisms (carbon taxes or cap-and-trade) introduced around the world since 1990.
 - [NEMED](https://github.com/UNSW-CEEM/NEMED) - A python package to retrieve and process historical emissions data of the National Electricity Market, reproduced by datasets published by the Australian Energy Market Operator.
 - [Steel Emissions Reporting Guidance](https://github.com/RMI/steel-guidance) - RMI's steel emissions accounting and data exchange guidance.
+- [carbonr](https://github.com/IDEMSInternational/carbonr) - A package in R to conveniently calculate carbon-equivalent emissions.
 
 
 ### Carbon Credits and Capture 
