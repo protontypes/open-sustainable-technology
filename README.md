@@ -610,6 +610,7 @@ df.head()
 - [Transportation Fuels Reporting System](https://github.com/bcgov/tfrs) - An online application for fuel suppliers to manage their compliance obligations under the Greenhouse Gas Reduction.
 - [pycontrails](https://github.com/contrailcirrus/pycontrails) - Python library for modeling aviation climate impacts.
 - [EV Footprint](https://github.com/Traace-co/ev-footprint) - A simulation of the true impact on climate and CO2 emissions of an electric car vs a traditional gasoline car.
+- [Mobility](https://github.com/mobility-team/mobility) - An open-source solution to compute the carbon emissions due to the mobility of a local population.
 
 
 ### Production and Industry
