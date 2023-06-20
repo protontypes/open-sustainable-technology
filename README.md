@@ -749,6 +749,7 @@ df.head()
 - [MOVES](https://github.com/USEPA/EPA_MOVES_Model) - A state-of-the-science emission modeling system that estimates emissions for mobile sources at the national, county, and project level for criteria air pollutants, greenhouse gases, and air toxics, available under EPA's Open Source Software policy.
 - [EPA_ALPHA_Model](https://github.com/USEPA/EPA_ALPHA_Model) - Evaluate the Greenhouse Gas emissions of Light-Duty vehicles.
 - [gtfs2emis](https://github.com/ipeaGIT/gtfs2emis) - Estimating public transport emissions from GTFS data.
+- [HEMCO](https://github.com/geoschem/HEMCO) -  Computing atmospheric emissions from different sources, regions, and species on a user-defined grid.
 
 
 ## Industrial Ecology
