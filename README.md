@@ -939,6 +939,7 @@ df.head()
 - [icesTAF](https://github.com/ices-tools-prod/icesTAF) - Functions to support the International Council for the Exploration of the Sea Transparent Assessment Framework.
 - [PYFOREST](https://github.com/cp-PYFOREST/Land-Use-Assessment) - Informing Forest Conservation Regulations in Paraguay.
 - [ENMwizard](https://github.com/HemingNM/ENMwizard) - Advanced Tecniques for Ecological Niche Modeling Made Easy.
+- [qgis2fds](https://github.com/firetools/qgis2fds) - Export terrain elevation, landuse, and georeferencing for computational fluid dynamics wildfire or atmospheric pollutants dispersion simulations.
 
 ### Cryosphere
 
