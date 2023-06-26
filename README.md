@@ -1246,6 +1246,7 @@ df.head()
 - [xmip](https://github.com/jbusecke/xMIP) - Analysis ready CMIP6 data in python the easy way with pangeo tools.
 - [daymetr](https://github.com/bluegreen-labs/daymetr) - Allows for easy downloads of Daymet climate data directly to your R workspace or your computer.
 - [ClimDown](https://github.com/pacificclimate/ClimDown) -  A Climate Downscaling package for the R statistical programming language.
+- [ClimSim](https://github.com/leap-stc/ClimSim/) - An open large-scale dataset for training high-resolution physics emulators in hybrid multi-scale climate simulators.
 
 
 ### Meteorological Observation and Forecast
