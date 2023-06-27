@@ -183,6 +183,7 @@ df.head()
 - [CCBlade.jl](https://github.com/byuflowlab/CCBlade.jl) - A blade element momentum method for propellers and turbines.
 - [lidarwind](https://github.com/jdiasn/lidarwind) - Retrieve wind speed and direction profiles from Doppler lidar observations from the WindCube-200s.
 - [FLOWUnsteady](https://github.com/byuflowlab/FLOWUnsteady) - An interactional aerodynamics and acoustics solver for multirotor aircraft and wind energy.
+- [stochLAB](https://github.com/HiDef-Aerial-Surveying/stochLAB) - A tool to run collision risk models for seabirds on offshore wind farms.
 
 ### Hydro Energy
 
