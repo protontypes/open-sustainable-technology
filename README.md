@@ -942,6 +942,7 @@ df.head()
 - [PYFOREST](https://github.com/cp-PYFOREST/Land-Use-Assessment) - Informing Forest Conservation Regulations in Paraguay.
 - [ENMwizard](https://github.com/HemingNM/ENMwizard) - Advanced Tecniques for Ecological Niche Modeling Made Easy.
 - [qgis2fds](https://github.com/firetools/qgis2fds) - Export terrain elevation, landuse, and georeferencing for computational fluid dynamics wildfire or atmospheric pollutants dispersion simulations.
+- [Detectree2](https://github.com/PatBall1/detectree2) - Automatic tree crown delineation based on the Detectron2 implementation of Mask R-CNN.
 
 ### Cryosphere
 
