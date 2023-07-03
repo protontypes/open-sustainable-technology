@@ -1061,6 +1061,7 @@ df.head()
 - [Conceptual Functional Equivalent](https://github.com/NOAA-OWP/cfe) - A conceptual rainfall-runoff model with an implementation of the Basic Model Interface.
 - [Near Real-Time Survey Progress and Temperature Maps](https://github.com/afsc-gap-products/survey-live-temperature-map) - Create daily survey station daily temperature and anomaly plots as the ships work their way through the Bering Sea.
 - [cold pool index](https://github.com/afsc-gap-products/coldpool) - Calculate the cold pool index, mean sea surface temperature, and mean bottom temperature using temperature data collected during bottom trawl surveys of the eastern Bering Sea.
+- [Ocean Health Index Scores](https://github.com/OHI-Science/ohi-global) - Provide invaluable, comprehensive, and quantitative assessments of progress towards healthy and sustainable oceans.
 
 
 ### Atmosphere
