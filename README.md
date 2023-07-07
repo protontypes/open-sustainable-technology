@@ -1496,7 +1496,7 @@ df.head()
 - [PyLandStats](https://github.com/martibosch/pylandstats) - An open-source Pythonic library to compute landscape metrics.
 - [NLMR](https://github.com/ropensci/NLMR) - R package to simulate neutral landscape models.
 - [LT-GEE](https://github.com/eMapR/LT-GEE) - Google Earth Engine implementation of the LandTrendr spectral-temporal segmentation algorithm.
-- [Full Lands INtegration Tool](https://github.com/moja-global/About_moja_global) - A modular system to estimate greenhouse gas emissions and removals by the land sector.
+- [Full Lands INtegration Tool](https://github.com/moja-global/FLINT) - A modular system to estimate greenhouse gas emissions and removals by the land sector.
 - [ismn](https://github.com/TUW-GEO/ismn) - Readers for the data from the International Soil Moisture Database.
 - [soils-revealed](https://github.com/Vizzuality/soils-revealed) - Platform for direct visualization, analysis and reporting of soil organic carbon predictions and changes over time.
 - [Soil Erosion Watch](https://github.com/SoilWatch/soil-erosion-watch) - A Google Earth Engine App to explore the state of the world's degraded soils.
