@@ -1064,6 +1064,7 @@ df.head()
 - [Ocean Health Index Scores](https://github.com/OHI-Science/ohi-global) - Provide invaluable, comprehensive, and quantitative assessments of progress towards healthy and sustainable oceans.
 - [PlanktoScope](https://github.com/PlanktoScope/PlanktoScope) - A modular, open-source hardware and software platform that allows for high-throughput quantitative imaging of plankton samples in aquatic biology and ecology.
 - [wavespectra](https://github.com/wavespectra/wavespectra) - An open source project for working with ocean wave spectral data.
+- [PhytoFit](https://github.com/BIO-RSG/PhytoFit) - Used to display satellite chlorophyll concentration, and calculate statistics and model phytoplankton blooms for regions within custom polygons.
 
 
 ### Atmosphere
