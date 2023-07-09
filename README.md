@@ -754,6 +754,7 @@ df.head()
 - [EPA_ALPHA_Model](https://github.com/USEPA/EPA_ALPHA_Model) - Evaluate the Greenhouse Gas emissions of Light-Duty vehicles.
 - [gtfs2emis](https://github.com/ipeaGIT/gtfs2emis) - Estimating public transport emissions from GTFS data.
 - [HEMCO](https://github.com/geoschem/HEMCO) -  Computing atmospheric emissions from different sources, regions, and species on a user-defined grid.
+- [MethaneMapper](https://github.com/UCSB-VRL/MethaneMapper-Spectral-Absorption-aware-Hyperspectral-Transformer-for-Methane-Detection) - A fast and accurate deep learning based solution for methane detection from airborne hyperspectral imagery.
 
 
 ## Industrial Ecology
