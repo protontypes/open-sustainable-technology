@@ -63,6 +63,7 @@
 
 ### Atmosphere 
 
+- [Copernicus Atmosphere Monitoring Service Data Tutorials](https://ecmwf-projects.github.io/copernicus-training-cams/) - Copernicus Atmosphere Monitoring Service Data Tutorials.
 - [The General Circulation of the Atmosphere](https://nordicesmhub.github.io/GEO4962/) - The course gives a broad overview about the general circulation of the atmosphere, including the tropospheric and stratospheric circulations. 
 - [LTPy](https://gitlab.eumetsat.int/eumetlab/atmosphere/atmosphere) - Learning tool for Python on Atmospheric Composition Data.
 - [Objective Analysis in Atmospheric Sciences](https://github.com/eabarnes1010/ats655-coursematerial) - The course provides an overview of the methods used to interpret data sets in the atmospheric and oceanic sciences.
