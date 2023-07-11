@@ -378,7 +378,7 @@ df.head()
 - [AMIRIS-Py](https://gitlab.com/dlr-ve/esy/amiris/amiris-py) - Python tools for the electricity market model AMIRIS.
 - [PREP-SHOT](https://github.com/PREP-NexT/PREP-SHOT) - A transparent, modular, and open-source Energy Capacity Expansion Model.
 - [HYBRID](https://github.com/idaholab/HYBRID) - A modeling toolset to assess the integration and economic viability of Integrated Energy Systems.
-
+- [FAME](https://gitlab.com/fame-framework/fame-core) - Its purpose is supporting the rapid development and fast execution of complex agent-based energy system simulations.
 
 ### Energy Monitoring and Control
 
