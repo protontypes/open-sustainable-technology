@@ -184,6 +184,7 @@ df.head()
 - [lidarwind](https://github.com/jdiasn/lidarwind) - Retrieve wind speed and direction profiles from Doppler lidar observations from the WindCube-200s.
 - [FLOWUnsteady](https://github.com/byuflowlab/FLOWUnsteady) - An interactional aerodynamics and acoustics solver for multirotor aircraft and wind energy.
 - [stochLAB](https://github.com/HiDef-Aerial-Surveying/stochLAB) - A tool to run collision risk models for seabirds on offshore wind farms.
+- [Energy Research and Forecasting](https://github.com/erf-model/ERF) - Designed to provide a flexible computational framework for the exploration and investigation of different physics parameterizations and numerical strategies, and to characterize the flow field that impacts the ability of wind turbines to extract wind energy.
 
 ### Hydro Energy
 
@@ -1179,6 +1180,7 @@ df.head()
 - [ClimaX](https://github.com/microsoft/climax) - The first foundation model for weather and climate science.
 - [MAPL](https://github.com/GEOS-ESM/MAPL) - A foundation layer of the GEOS architecture, whose original purpose is to supplement the Earth System Modeling Framework.
 - [MESMER](https://github.com/MESMER-group/mesmer) - Stochastically creates Earth System Model-specific spatio-temporally correlated climate variable field realizations at a negligible computational cost.
+
 
 ### Climate Data Processing and Access
 
