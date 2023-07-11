@@ -1067,6 +1067,7 @@ df.head()
 - [PlanktoScope](https://github.com/PlanktoScope/PlanktoScope) - A modular, open-source hardware and software platform that allows for high-throughput quantitative imaging of plankton samples in aquatic biology and ecology.
 - [wavespectra](https://github.com/wavespectra/wavespectra) - An open source project for working with ocean wave spectral data.
 - [PhytoFit](https://github.com/BIO-RSG/PhytoFit) - Used to display satellite chlorophyll concentration, and calculate statistics and model phytoplankton blooms for regions within custom polygons.
+- [pyafscgap](https://github.com/SchmidtDSE/afscgap) - Community contributed Python-based tools for working with public bottom trawl surveys data from the NOAA Alaska Fisheries Science Center Groundfish Assessment Program.
 
 
 ### Atmosphere
