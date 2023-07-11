@@ -1512,6 +1512,7 @@ df.head()
 - [pygef](https://github.com/cemsbv/pygef) - Simple parser for soil properties measurements.
 - [pydov](https://github.com/DOV-Vlaanderen/pydov) - Aggregates data about soil, subsoil and groundwater of Flanders and makes them publicly available.
 - [ILAMB](https://github.com/rubisco-sfa/ILAMB) - Python software used in the International Land Model Benchmarking project.
+- [QA4SM](https://github.com/awst-austria/qa4sm) - Provides an operational online validation service for soil moisture products.
 
 
 
