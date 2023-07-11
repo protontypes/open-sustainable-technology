@@ -1574,6 +1574,7 @@ df.head()
 - [PCSE](https://github.com/ajwdewit/pcse) - A framework developed for implementing crop simulation models developed in Wageningen.
 - [climatrends](https://github.com/AgrDataSci/climatrends) - Provides methods to compute precipitation and temperature indices for climate models in ecology.
 - [Agroecology-Map](https://github.com/marcelo-soares-souza/Agroecology-Map) -  A technological platform that allows the mapping and exchange of Agroecological and Agroforestry experiences.
+- [osiris](https://github.com/JGCRI/osiris) - A R package to process climate impacts on agricultural yields for the Global Change Analysis Model.
 
 
 ## Sustainable Development
