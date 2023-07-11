@@ -979,6 +979,7 @@ df.head()
 - [snotelr](https://github.com/bluegreen-labs/snotelr) -  R toolbox to facilitate easy SNOTEL data exploration and downloads through a convenient shiny based GUI.
 - [LIVVkit](https://github.com/LIVVkit/LIVVkit) - The land ice verification and validation toolkit.
 - [Permamodel](https://github.com/permamodel/permamodel) - A collection of numerical permafrost models with a range of capability and complexity.
+- [pypromice](https://github.com/GEUS-Glaciology-and-Climate/pypromice) - Deliver data about the mass balance of the Greenland ice sheet in near real-time.
 
 
 ### Hydrosphere
