@@ -756,7 +756,7 @@ df.head()
 - [gtfs2emis](https://github.com/ipeaGIT/gtfs2emis) - Estimating public transport emissions from GTFS data.
 - [HEMCO](https://github.com/geoschem/HEMCO) -  Computing atmospheric emissions from different sources, regions, and species on a user-defined grid.
 - [MethaneMapper](https://github.com/UCSB-VRL/MethaneMapper-Spectral-Absorption-aware-Hyperspectral-Transformer-for-Methane-Detection) - A fast and accurate deep learning based solution for methane detection from airborne hyperspectral imagery.
-- [Pyra](https://github.com/tum-esm/pyra) - Automated EM27/SUN Greenhouse Gas Measurement Software
+- [Pyra](https://github.com/tum-esm/pyra) - Automated EM27/SUN Greenhouse Gas Measurement Software.
 
 ## Industrial Ecology
 
@@ -980,6 +980,7 @@ df.head()
 - [LIVVkit](https://github.com/LIVVkit/LIVVkit) - The land ice verification and validation toolkit.
 - [Permamodel](https://github.com/permamodel/permamodel) - A collection of numerical permafrost models with a range of capability and complexity.
 - [pypromice](https://github.com/GEUS-Glaciology-and-Climate/pypromice) - Deliver data about the mass balance of the Greenland ice sheet in near real-time.
+- [GLAFT](https://github.com/whyjz/GLAFT) - Python module for assessing glacier velocity maps using statistics- and physics-based metrics.
 
 
 ### Hydrosphere
