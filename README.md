@@ -981,7 +981,8 @@ df.head()
 - [Permamodel](https://github.com/permamodel/permamodel) - A collection of numerical permafrost models with a range of capability and complexity.
 - [pypromice](https://github.com/GEUS-Glaciology-and-Climate/pypromice) - Deliver data about the mass balance of the Greenland ice sheet in near real-time.
 - [GLAFT](https://github.com/whyjz/GLAFT) - Python module for assessing glacier velocity maps using statistics- and physics-based metrics.
-
+- [ACCESS-OM2](https://github.com/COSIMA/access-om2) - Global ocean-sea ice coupled model configurations.
+- [SNOWPACK](https://code.wsl.ch/snow-models/snowpack) - A multi-purpose snow and land-surface model, which focuses on a detailed description of the mass and energy exchange between the snow, the atmosphere and optionally with the vegetation cover and the soil.
 
 ### Hydrosphere
 
@@ -1070,7 +1071,6 @@ df.head()
 - [wavespectra](https://github.com/wavespectra/wavespectra) - An open source project for working with ocean wave spectral data.
 - [PhytoFit](https://github.com/BIO-RSG/PhytoFit) - Used to display satellite chlorophyll concentration, and calculate statistics and model phytoplankton blooms for regions within custom polygons.
 - [pyafscgap](https://github.com/SchmidtDSE/afscgap) - Community contributed Python-based tools for working with public bottom trawl surveys data from the NOAA Alaska Fisheries Science Center Groundfish Assessment Program.
-- [ACCESS-OM2](https://github.com/COSIMA/access-om2) - Global ocean-sea ice coupled model configurations.
 
 
 ### Atmosphere
