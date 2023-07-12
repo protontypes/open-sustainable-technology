@@ -983,6 +983,7 @@ df.head()
 - [GLAFT](https://github.com/whyjz/GLAFT) - Python module for assessing glacier velocity maps using statistics- and physics-based metrics.
 - [ACCESS-OM2](https://github.com/COSIMA/access-om2) - Global ocean-sea ice coupled model configurations.
 - [SNOWPACK](https://code.wsl.ch/snow-models/snowpack) - A multi-purpose snow and land-surface model, which focuses on a detailed description of the mass and energy exchange between the snow, the atmosphere and optionally with the vegetation cover and the soil.
+- [ITS_LIVE](https://github.com/nasa-jpl/its_live) - Provide automated, low latency, global glacier flow and elevation change datasets.
 
 ### Hydrosphere
 
