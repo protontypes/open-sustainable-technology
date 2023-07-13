@@ -1312,6 +1312,7 @@ df.head()
 - [Climate & Disaster Risk Screening Tools](https://github.com/GFDRR/CCDR-tools) - Geoanalytics for climate and disaster risk screening.
 - [ThinkHazard!](https://github.com/GFDRR/thinkhazard) - Provides a general view of the hazards, for a given location, that should be considered in project design and implementation to promote disaster and climate resilience.
 - [Tropycal](https://github.com/tropycal/tropycal) - A Python package intended to simplify the process of retrieving and analyzing tropical cyclone data, both for past storms and in real time.
+- [tcpyPI](https://github.com/dgilford/tcpyPI) - A set of scripts and notebooks that compute and validate tropical cyclone (TC) potential intensity (PI) calculations in Python.
 
 ### Radiative Transfer
 
