@@ -57,6 +57,7 @@
 - [Fundamentals of Remote Sensing](https://appliedsciences.nasa.gov/join-mission/training/english/fundamentals-remote-sensing) - Participants will have a basic understanding of NASA satellites, sensors, data, tools, portals and applications to environmental monitoring and management.
 - [Open Source Geoprocessing Tutorial](https://github.com/patrickcgray/open-geo-tutorial) - Tutorial of fundamental remote sensing and GIS methodologies using open source software in python.
 - [EO College](https://eo-college.org/) - This course is part of a series of online learning materials that will give you insights on the potential of remote sensing technologies for applications over land surfaces.
+- [LPDAAC-Data-Resource](https://github.com/nasa/LPDAAC-Data-Resources) - This repository is a place to find data user resources that demonstrate how to use NASA Land Processes Distributed Active Archive Center (LP DAAC) tools, services, and data. 
 
 
 ## Earth Systems 
