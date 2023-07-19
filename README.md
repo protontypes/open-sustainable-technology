@@ -757,6 +757,7 @@ df.head()
 - [HEMCO](https://github.com/geoschem/HEMCO) -  Computing atmospheric emissions from different sources, regions, and species on a user-defined grid.
 - [MethaneMapper](https://github.com/UCSB-VRL/MethaneMapper-Spectral-Absorption-aware-Hyperspectral-Transformer-for-Methane-Detection) - A fast and accurate deep learning based solution for methane detection from airborne hyperspectral imagery.
 - [Pyra](https://github.com/tum-esm/pyra) - Automated EM27/SUN Greenhouse Gas Measurement Software.
+- [EMIT-Data-Resources](https://github.com/nasa/EMIT-Data-Resources) - Built to help scientists understand how dust affects climate, the EMIT can also pinpoint emissions of the potent greenhouse gas.
 
 ## Industrial Ecology
 
