@@ -953,6 +953,7 @@ df.head()
 - [rWCVP](https://github.com/matildabrown/rWCVP) - A package for accessing and using plant name and distribution data from the World Checklist of Vascular Plants.
 - [KSO](https://github.com/ocean-data-factory-sweden/kso) - The Koster Seafloor Observatory is an open-source, citizen science and machine learning approach to analyse subsea movies.
 - [Wallace](https://github.com/wallaceEcoMod/wallace) - A modular platform for reproducible modeling of species niches and distributions, written in R.
+- [ENMeval](https://github.com/jamiemkass/ENMeval) - R package for automated runs and evaluations of ecological niche models.
 
 
 ### Cryosphere
