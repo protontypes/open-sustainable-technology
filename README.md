@@ -952,6 +952,7 @@ df.head()
 - [bdc](https://github.com/brunobrr/bdc) - A toolkit for standardizing, integrating, and cleaning biodiversity data.
 - [rWCVP](https://github.com/matildabrown/rWCVP) - A package for accessing and using plant name and distribution data from the World Checklist of Vascular Plants.
 - [KSO](https://github.com/ocean-data-factory-sweden/kso) - The Koster Seafloor Observatory is an open-source, citizen science and machine learning approach to analyse subsea movies.
+- [Wallace](https://github.com/wallaceEcoMod/wallace) - A modular platform for reproducible modeling of species niches and distributions, written in R.
 
 
 ### Cryosphere
