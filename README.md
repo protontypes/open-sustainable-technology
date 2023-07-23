@@ -949,6 +949,7 @@ df.head()
 - [oneimpact](https://github.com/NINAnor/oneimpact) - Provides tools for the assessment of cumulative impacts of multiple infrastructure and land use modifications in ecological studies.
 - [flexsdm](https://github.com/sjevelazco/flexsdm) - Useful tools for constructing species distribution models.
 - [ENMTML](https://github.com/andrefaa/ENMTML) - An R package for an integrated construction of Ecological Niche Models.
+- [bdc](https://github.com/brunobrr/bdc) - A toolkit for standardizing, integrating, and cleaning biodiversity data.
 
 ### Cryosphere
 
