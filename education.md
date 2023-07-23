@@ -89,6 +89,7 @@
 - [Tutorial for Working with NASA VIIRS Surface Reflectance Data](https://git.earthdata.nasa.gov/projects/LPDUR/repos/nasa_viirs_surfacereflectance/) - Converting VNP09GA files into quality-filtered vegetation indices and examining the trend in vegetation greenness during July 2018 to observe drought in Europe.
 - [MapBiomas 101](https://github.com/mapbiomas-brazil/mapbiomas-training) - Google Earth Engine Tutorials to produce annual land use and land cover maps from Brazil.
 - [Gedi Tutorials](https://github.com/ornldaac/gedi_tutorials) - Tutorials on producing high resolution laser ranging observations based on data of the Global Ecosystem Dynamics Investigation.
+- [Ecological Forecasting](https://github.com/EcoForecast/EF_Activities) - Hands-on activities associated with the Ecological Forecasting book and graduate class.
 
 
 ### Hydrosphere
