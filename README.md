@@ -950,6 +950,7 @@ df.head()
 - [flexsdm](https://github.com/sjevelazco/flexsdm) - Useful tools for constructing species distribution models.
 - [ENMTML](https://github.com/andrefaa/ENMTML) - An R package for an integrated construction of Ecological Niche Models.
 - [bdc](https://github.com/brunobrr/bdc) - A toolkit for standardizing, integrating, and cleaning biodiversity data.
+- [rWCVP](https://github.com/matildabrown/rWCVP) - A package for accessing and using plant name and distribution data from the World Checklist of Vascular Plants.
 
 ### Cryosphere
 
