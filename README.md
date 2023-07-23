@@ -957,7 +957,7 @@ df.head()
 - [LandR](https://github.com/PredictiveEcology/LandR) - These models simulate forest vegetation dynamics based on LANDIS-II, and incorporate fire and insect disturbance, as well as other important ecological processes.
 - [kewr](https://github.com/barnabywalker/kewr) - Meant to make accessing data from one of Royal Botanic Gardenn Kew easier and to provide a consistent interface their public APIs.
 - [grainscape](https://github.com/achubaty/grainscape) - Efficient Modelling of Landscape Connectivity, Habitat, and Protected Area Networks.
-- [Plants of the World Online](https://github.com/RBGKew/powop) - An international collaborative programme that has as a primary aim to make available digitized data of the world’s flora gathered from the past 250 years of botanical exploration and research.
+- [Plants of the World Online](https://github.com/RBGKew/powop) - An international collaborative programme that has as a primary aim to make available digitized data of the world's flora gathered from the past 250 years of botanical exploration and research.
 
 
 ### Cryosphere
