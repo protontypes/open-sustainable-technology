@@ -946,7 +946,8 @@ df.head()
 - [ENMwizard](https://github.com/HemingNM/ENMwizard) - Advanced Tecniques for Ecological Niche Modeling Made Easy.
 - [qgis2fds](https://github.com/firetools/qgis2fds) - Export terrain elevation, landuse, and georeferencing for computational fluid dynamics wildfire or atmospheric pollutants dispersion simulations.
 - [Detectree2](https://github.com/PatBall1/detectree2) - Automatic tree crown delineation based on the Detectron2 implementation of Mask R-CNN.
-- [oneimpact](https://github.com/NINAnor/oneimpact) - Provides tools for the assessment of cumulative impacts of multiple infrastructure and land use modifications in ecological studies. 
+- [oneimpact](https://github.com/NINAnor/oneimpact) - Provides tools for the assessment of cumulative impacts of multiple infrastructure and land use modifications in ecological studies.
+- [flexsdm](https://github.com/sjevelazco/flexsdm) - Useful tools for constructing species distribution models.
 
 ### Cryosphere
 
