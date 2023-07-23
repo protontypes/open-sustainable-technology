@@ -954,6 +954,7 @@ df.head()
 - [KSO](https://github.com/ocean-data-factory-sweden/kso) - The Koster Seafloor Observatory is an open-source, citizen science and machine learning approach to analyse subsea movies.
 - [Wallace](https://github.com/wallaceEcoMod/wallace) - A modular platform for reproducible modeling of species niches and distributions, written in R.
 - [ENMeval](https://github.com/jamiemkass/ENMeval) - R package for automated runs and evaluations of ecological niche models.
+- [LandR](https://github.com/PredictiveEcology/LandR) - These models simulate forest vegetation dynamics based on LANDIS-II, and incorporate fire and insect disturbance, as well as other important ecological processes.
 
 
 ### Cryosphere
