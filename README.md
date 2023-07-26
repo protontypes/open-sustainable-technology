@@ -1673,7 +1673,7 @@ df.head()
 
 ### Data Catalogs and Interfaces
 
-- [Berkeley Lab Building Performance Database](https://buildings.lbl.gov/cbs/bpd) -  publicly-available source of measured energy performance data for over 1 million commercial and residential buildings in the United States.
+- [Berkeley Lab Building Performance Database](https://buildings.lbl.gov/cbs/bpd) - Publicly-available source of measured energy performance data for over 1 million commercial and residential buildings in the United States.
 - [Global Fishing Watch](https://globalfishingwatch.org/) - We use cutting-edge technology to visualise, track and share data about global fishing activity in near real-time and for free.
 - [Global Wind Atlas](https://globalwindatlas.info/) - Immediately start exploring windy areas.
 - [Global Solar Atlas](https://globalsolaratlas.info/) - Start exploring solar potential.
