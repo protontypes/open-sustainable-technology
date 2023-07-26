@@ -1754,7 +1754,7 @@ df.head()
 - [Profit and emission database](https://docs.google.com/spreadsheets/d/19MQbZbrCu4HpAWe6NU92CioYQ7KE8FvD9vl-r9qSjJg/) - A free public database on large corporate emissions and profits.
 - [Industrial Ecology Dashboard](https://github.com/IndEcol/Dashboard) - A collection of open source projects relevant for industrial ecology practitioners.
 - [Low-Voltage Load Forecasting Datasets](https://github.com/low-voltage-loadforecasting/low-voltage-loadforecasting.github.io) - An overview and review of load forecasting datasets.
-- [Energy Systems and Informatics Collection by ACM SIGEnergy](https://energy.acm.org/resources/) - a collection of publicly available datasets, models, and software for researchers and professionals who study energy systems and informatics.
+- [Energy Systems and Informatics Collection by ACM SIGEnergy](https://energy.acm.org/resources/) - a curated list of publicly available datasets, models, and software for researchers and professionals who study energy systems and informatics.
 
 ## Contributors
 
