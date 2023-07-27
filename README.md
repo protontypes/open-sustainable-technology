@@ -625,6 +625,8 @@ df.head()
 
 ### Computation and Communication
 
+- [Eco-CI](https://github.com/green-coding-berlin/eco-ci-energy-estimation) - Estimating the energy consumption of CI / CD pipelines on Github and Gitlab
+- [Green Metrics Tool](https://github.com/green-coding-berlin/green-metrics-tool) - An open source suite to measure, display and compare software energy and CO2 consumption for containerized software. External power meters as well as RAPL and also ML-estimation models are supported.
 - [Scaphandre](https://github.com/hubblo-org/scaphandre) - An open source software agent to track energy consumption of ICT services from the servers.
 - [Tracarbon](https://github.com/fvaleye/tracarbon) - Tracarbon tracks your device's energy consumption and calculates your carbon emissions using your location.
 - [H2020 CATALYST](https://gitlab.com/project-catalyst) - Converting data centres in energy flexibility ecosystems.
