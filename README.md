@@ -960,6 +960,7 @@ df.head()
 - [kewr](https://github.com/barnabywalker/kewr) - Meant to make accessing data from one of Royal Botanic Gardenn Kew easier and to provide a consistent interface their public APIs.
 - [grainscape](https://github.com/achubaty/grainscape) - Efficient Modelling of Landscape Connectivity, Habitat, and Protected Area Networks.
 - [Plants of the World Online](https://github.com/RBGKew/powop) - An international collaborative programme that has as a primary aim to make available digitized data of the world's flora gathered from the past 250 years of botanical exploration and research.
+- [ERSEM](https://github.com/pmlmodelling/ersem) - A marine biogeochemical and ecosystem model that describes the cycling of carbon, nitrogen, phosphorus, silicon, oxygen and iron through the lower trophic level pelagic and benthic ecosystems.
 
 
 ### Cryosphere
