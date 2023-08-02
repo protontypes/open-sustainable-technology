@@ -1480,6 +1480,7 @@ df.head()
 - [wqtrends](https://github.com/tbep-tech/wqtrends) - R package to assess water quality trends with generalized additive models.
 - [pyet](https://github.com/pyet-org/pyet) -  Estimate reference and potential evaporation.
 - [SPEI](https://github.com/martinvonk/SPEI) - Calculate and visualize some popular drought indices such as the SPI, SPEI and SGI.
+- [GISWATER](https://github.com/Giswater/giswater_qgis_plugin) - This software connects different IT solutions and pre-existent databases allowing you to setup a high performance water management system in combination with hydraulic software.
 
 
 ### Soil and Land
