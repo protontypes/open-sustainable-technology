@@ -42,7 +42,7 @@ df.head()
   - [Energy Modeling and Optimization](#energy-modeling-and-optimization)
   - [Energy Monitoring and Control](#energy-monitoring-and-control)
   - [Energy Distribution and Grids](#energy-distribution-and-grids)
-  - [Datasets on Energy Systems](#datasets-on-energy-systems)
+  - [Energy System Data Access](#energy-system-data-access)
 - [Consumption of Energy and Resources](#consumption-of-energy-and-resources)
   - [Buildings and Heating](#buildings-and-heating)
   - [Mobility and Transportation](#mobility-and-transportation)
@@ -396,6 +396,9 @@ df.head()
 
 ### Energy Distribution and Grids
 
+- [Electricity Maps](https://github.com/tmrowco/electricitymap-contrib) - A real-time visualization of the CO2 emissions from electricity consumption.
+- [Open Grid Emissions Initiative](https://github.com/singularity-energy/open-grid-emissions) - Seeks to fill a critical need for high-quality, publicly-accessible, hourly grid emissions data that can be used for GHG accounting, policymaking, academic research, and energy attribute certificate markets.
+- [gridemissions](https://github.com/jdechalendar/gridemissions) - Displays the hourly carbon footprint of the US electricity system.
 - [SimBench](https://github.com/e2nIEE/simbench) - The objective of the research project SimBench is the development of a benchmark dataset to support research in grid planning and operation.
 - [Egret](https://github.com/grid-parity-exchange/Egret) - A Python-based package for electrical grid optimization based on the Pyomo optimization modeling language.
 - [PyPSA-Eur](https://github.com/PyPSA/pypsa-eur) - An Open Optimization Model of the European Transmission System.
@@ -436,7 +439,7 @@ df.head()
 - [Power Grid Model](https://github.com/PowerGridModel/power-grid-model) -  A library for steady-state distribution power system analysis distributed for Python and C.
 
 
-### Datasets on Energy Systems
+### Energy System Data Access
 
 - [OpenNEM](https://github.com/opennem/opennem-fe) - Aims to make the wealth of public Australian Electricity Market data more accessible to a wider audience.
 - [Open Power System Data](https://open-power-system-data.org/data-sources) - A list of primary data sources that are helpful for power system modeling of Europe.
@@ -469,7 +472,7 @@ df.head()
 - [Power Station Dictionary](https://github.com/OSUKED/Power-Station-Dictionary) - A power station dictionary that enables mapping between various naming conventions and associated plant metadata.
 - [ElexonDataPortal](https://github.com/OSUKED/ElexonDataPortal) - Wrapper for the Balancing Mechanism Reporting Service API to balance power flowing on to and off from the electricity Transmission System in Great Britain.
 - [Open Energy Tracker](https://gitlab.com/diw-evu/oet/openenergytracker) - An open data platform for monitoring and visualizing energy policy targets.
-- [isodata](https://github.com/kmax12/isodata) - Provides standardized API to access energy data from the major Independent System Operators in the United States.
+- [gridstatus](https://github.com/kmax12/gridstatus) - Provides standardized API to access energy data from the major Independent System Operators in the United States.
 - [sup3r](https://github.com/NREL/sup3r) - The Super Resolution for Renewable Resource Data software uses generative adversarial networks to create synthetic high-resolution wind and solar spatiotemporal data from coarse low-resolution inputs.
 - [EnergyData.Info](https://energydata.info/) - An open data platform from the World Bank Group providing access to datasets and data analytics that are relevant to the energy sector.
 
@@ -676,8 +679,6 @@ df.head()
 
 ### Carbon Intensity and Accounting 
 
-- [Electricity Maps](https://github.com/tmrowco/electricitymap-contrib) - A real-time visualization of the CO2 emissions from electricity consumption.
-- [Open Grid Emissions Initiative](https://github.com/singularity-energy/open-grid-emissions) - Seeks to fill a critical need for high-quality, publicly-accessible, hourly grid emissions data that can be used for GHG accounting, policymaking, academic research, and energy attribute certificate markets.
 - [carbon footprint](https://github.com/protea-earth/carbon_footprint) - Calculate your carbon footprint easily using a command line interface.
 - [CarbonFootprintEGU](https://github.com/milankl/CarbonFootprintEGU) - Travel carbon footprint of the European Geosciences Union General Assembly 2019.
 - [Bloom](https://github.com/tmrowco/bloom-contrib) - A SaaS that allow companies to become climate leaders, from calculating their climate impact to communicating about their climate efforts. It connects to as many data sources as possible to assess your carbon footprint and find mitigation opportunities.
@@ -687,12 +688,10 @@ df.head()
 - [footprint](https://github.com/acircleda/footprint) - An R package to calculate carbon footprints from air travel based on IATA airport codes or latitude and longitude.
 - [intensegRid](https://github.com/KKulma/intensegRid) - Provides information on national and regional carbon intensity, the amount of carbon emitted per unit of energy consumed, for the UK.
 - [Carbonfact Models](https://github.com/kansoapp/carbonfact-models) - The carbon footprint models used by carbonfact.co.
-- [CAMx](https://www.camx.com/) - A multi-scale photochemical modeling system for gas and particulate air pollution.
 - [Open-Emission-Factors-DB](https://github.com/climatiq/python-oefdb-sdk) - Tools for interacting with and contributing to the Open Emission Factors DB.
 - [elmada](https://github.com/DrafProject/elmada) - Dynamic electricity carbon emission factors and prices for Europe.
 - [UNFCCC emissions data](https://github.com/openclimatedata/unfccc-detailed-data-by-party) - UNFCCC Emissions data from the Detailed Data By Party interface.
 - [Silicone](https://github.com/GranthamImperial/silicone) - Automated filling of detail in reported emission scenarios.
-- [gridemissions](https://github.com/jdechalendar/gridemissions) - Displays the hourly carbon footprint of the US electricity system.
 - [OpenClimate](https://github.com/Open-Earth-Foundation/OpenClimate) - Independent Climate Accounting Network in support of Paris Agreement goals.
 - [Scope3](https://github.com/scope3data/methodology) - Build a framework where the media and advertising industry can collaborate on best practices for measuring emissions from the advertising value chain.
 - [World Carbon Pricing Database](https://github.com/g-dolphin/WorldCarbonPricingDatabase) - This dataset contains information on carbon pricing mechanisms (carbon taxes or cap-and-trade) introduced around the world since 1990.
@@ -1372,6 +1371,7 @@ df.head()
 
 ### Air Quality 
 
+- [CAMx](https://www.camx.com/) - A multi-scale photochemical modeling system for gas and particulate air pollution.
 - [CMAQ](https://github.com/USEPA/CMAQ) - Code base for the U.S. EPA's Community Multiscale Air Quality Model.
 - [AMET](https://github.com/USEPA/AMET) - A suite of software designed to facilitate the analysis and evaluation of predictions from meteorological and air quality models.
 - [MLAir](https://gitlab.version.fz-juelich.de/esde/machine-learning/mlair) - Machine Learning on Air data is an environment that simplifies and accelerates the creation of new machine learning models for the analysis and forecasting of meteorological and air quality time-series.
