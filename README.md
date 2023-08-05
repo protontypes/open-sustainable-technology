@@ -1304,6 +1304,7 @@ df.head()
 - [MeteoInfo](https://github.com/meteoinfo/MeteoInfo) - GIS and scientific computation environment for meteorological community.
 - [thundeR](https://github.com/bczernecki/thundeR) - Rapid computation and visualisation of convective parameters from rawinsonde and Numerical weather prediction data.
 - [AtmoSwing](https://github.com/atmoswing/atmoswing) - Allow predicting local meteorological variables of interest, such as the daily precipitation, based on synoptic variables.
+- [ufs-weather-model](https://github.com/ufs-community/ufs-weather-model) - Contains the model code and external links needed to build the Unified Forecast System atmosphere model and associated components, including the WaveWatch III model.
 
 ### Natural Hazard and Storm
 
