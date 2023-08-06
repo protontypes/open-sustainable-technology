@@ -1122,6 +1122,7 @@ df.head()
 - [IPART](https://github.com/ihesp/IPART) - A Python package for automated Atmospheric River (AR) detection, axis finding and AR tracking from gridded Integrated Vapor Transport data.
 - [Project Horus](https://github.com/projecthorus/radiosonde_auto_rx) - A Amateur Radio High Altitude Ballooning project.
 - [ANEMOI](https://github.com/moulin1024/ANEMOI) - Large-eddy simulation code written in CUDA Fortran for simulating atmospheric boundary layer flows.
+- [uDALES](https://github.com/uDALES/u-dales) - Large-eddy-simulation software for urban flow, dispersion and microclimate modelling.
 
 
 ## Climate and Earth Science
