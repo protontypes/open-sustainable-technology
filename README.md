@@ -617,6 +617,7 @@ df.head()
 - [pycontrails](https://github.com/contrailcirrus/pycontrails) - Python library for modeling aviation climate impacts.
 - [EV Footprint](https://github.com/Traace-co/ev-footprint) - A simulation of the true impact on climate and CO2 emissions of an electric car vs a traditional gasoline car.
 - [Mobility](https://github.com/mobility-team/mobility) - An open-source solution to compute the carbon emissions due to the mobility of a local population.
+- [SpiceEV](https://github.com/rl-institut/spice_ev) - Simulation Program for Individual Charging Events of Electric Vehicles.
 
 
 ### Production and Industry
