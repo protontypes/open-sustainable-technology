@@ -13,6 +13,7 @@ If you just want to give a hint about a missing project, send an email at [tobia
 
 ## What criteria must a project meet to be listed?
 * The project must comply as closely as possible with the [guideline](#guideline).
+* The projects must be activly be used or developed at the time of listing.
 * You need to show that others beyond the project's main developers are using the project. Good indicators are issues or pull requests from external users.
 * Your project should be structured and documented in such a way that it can be reused and extended by others.
 * Larger parts of the project are published under an [open source license](https://choosealicense.com/).
