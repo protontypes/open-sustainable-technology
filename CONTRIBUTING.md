@@ -16,6 +16,7 @@ If you just want to give a hint about a missing project, send an email at [tobia
 * The projects must be activly be used or developed at the time of listing.
 * You need to show that others beyond the project's main developers are using the project. Good indicators are issues or pull requests from external users.
 * Your project should be structured and documented in such a way that it can be reused and extended by others.
+* If possible, the Git Link of the projects should be used for listing since this allows meta data analysis of the project. Thus, the project can become part of the data analysis and recurring report. 
 * Larger parts of the project are published under an [open source license](https://choosealicense.com/).
 
 ## Contribute to the list  
