@@ -1766,6 +1766,7 @@ df.head()
 - [Industrial Ecology Dashboard](https://github.com/IndEcol/Dashboard) - A collection of open source projects relevant for industrial ecology practitioners.
 - [Low-Voltage Load Forecasting Datasets](https://github.com/low-voltage-loadforecasting/low-voltage-loadforecasting.github.io) - An overview and review of load forecasting datasets.
 - [Energy Systems and Informatics Collection by ACM SIGEnergy](https://energy.acm.org/resources/) - A curated list of publicly available datasets, models, and software for researchers and professionals who study energy systems and informatics.
+- [Awesome-Earth-Artificial-Intelligence](https://github.com/ESIPFed/Awesome-Earth-Artificial-Intelligence) - A curated list of tutorials, notebooks, software, datasets, courses, books, video lectures and papers specifically for Artificial Intelligence use cases in Earth Science.
 
 ## Contributors
 
