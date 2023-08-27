@@ -12,7 +12,7 @@ If you're looking for an entry point into domains like renewable energy, climate
 
 <strong> Analysis </strong>
 
-This database is used as part of the study [Open Source in Enviromental Sustainability](https://report.opensustain.tech/). For this purpose, meta data from the listed repositories are evaluated via the tool [AwesomeCure](https://github.com/protontypes/AwesomeCure). To make browsing and sorting easier, here is the table with all the metadata for the [projects](https://baserow.io/public/grid/5Cyy_1a3fMOveJeRMsy6QEOo_mG569Et_iNk0G52Dmo) and the related [organizations](https://baserow.io/public/grid/QiZmt6fMEuRlQNF1YrrpGa5-Z45s0Khg5i6d654L5AY). The CSVs file can be easily read into a Pandas DataFrame using the following code:
+This database is used as part of the study [Open Source in Environmental Sustainability](https://report.opensustain.tech/). For this purpose, meta data from the listed repositories are evaluated via the tool [AwesomeCure](https://github.com/protontypes/AwesomeCure). To make browsing and sorting easier, here is the table with all the metadata for the [projects](https://baserow.io/public/grid/5Cyy_1a3fMOveJeRMsy6QEOo_mG569Et_iNk0G52Dmo) and the related [organizations](https://baserow.io/public/grid/QiZmt6fMEuRlQNF1YrrpGa5-Z45s0Khg5i6d654L5AY). The CSVs file can be easily read into a Pandas DataFrame using the following code:
 
 ```python
 import pandas as pd
@@ -137,7 +137,7 @@ df.head()
 - [Solar electricity Nowcasting](https://github.com/openclimatefix/nowcasting) - Build the world's best near-term forecasting system for solar electricity generation.
 - [Solar Forecast Arbiter](https://github.com/SolarArbiter/solarforecastarbiter-core) - Core data gathering, validation, processing, and reporting package for the Solar Forecast Arbiter.
 - [pv-system-profiler](https://github.com/slacgismo/pv-system-profiler) - Estimating PV array location and orientation from real-world power datasets.
-- [A Global Inventory of Commerical-, Industrial-, and Utility-Scale Photovoltaic Solar Generating Units](https://github.com/Lkruitwagen/solar-pv-global-inventory) - Used to produce a global inventory of utility-scale solar photvoltaic generating station.
+- [A Global Inventory of Commercial-, Industrial-, and Utility-Scale Photovoltaic Solar Generating Units](https://github.com/Lkruitwagen/solar-pv-global-inventory) - Used to produce a global inventory of utility-scale solar photovoltaic generating station.
 - [dGen](https://github.com/NREL/dgen) - Forecast PV adoption based on user specified configurations like electricity rate prices, electricity load growth, solar resource factors, and much more.
 - [SOLECTRUS](https://github.com/solectrus/solectrus) - An alternative photovoltaic dashboard that visualizes the yield and consumption.
 
@@ -374,7 +374,7 @@ df.head()
 - [GENeSYS-MOD](https://git.tu-berlin.de/genesysmod/genesys-mod-public) - An open-source energy system model, originally based on the Open-Source Energy Modeling System (OSeMOSYS) framework, with various additions.
 - [PyPSA-Earth](https://github.com/pypsa-meets-earth/pypsa-earth) - An Open Optimisation Model of the Earth Energy System.
 - [tell](https://github.com/IMMM-SFA/tell) - An open-source Python package to model future hourly total electricity loads.
-- [AMIRIS](https://gitlab.com/dlr-ve/esy/amiris/amiris) - An agent-based simulation of electricity markets and their actors enabeling researchers to analyse and evaluate energy policy instruments and their impact on the actors.
+- [AMIRIS](https://gitlab.com/dlr-ve/esy/amiris/amiris) - An agent-based simulation of electricity markets and their actors enabling researchers to analyse and evaluate energy policy instruments and their impact on the actors.
 - [AMIRIS-Py](https://gitlab.com/dlr-ve/esy/amiris/amiris-py) - Python tools for the electricity market model AMIRIS.
 - [PREP-SHOT](https://github.com/PREP-NexT/PREP-SHOT) - A transparent, modular, and open-source Energy Capacity Expansion Model.
 - [HYBRID](https://github.com/idaholab/HYBRID) - A modeling toolset to assess the integration and economic viability of Integrated Energy Systems.
@@ -407,7 +407,7 @@ df.head()
 - [Open Smart Grid Platform](https://github.com/OSGP/open-smart-grid-platform) - An open, generic, scalable and independent 'Internet of Things' platform, which enables various connected smart objects in the public space to be easily controlled and monitored.
 - [PowerModels.jl](https://github.com/lanl-ansi/PowerModels.jl) - Designed to enable computational evaluation of emerging power network formulations and algorithms in a common platform.
 - [PowerModelsAnnex.jl](https://github.com/lanl-ansi/PowerModelsAnnex.jl) - An extension of PowerModels.jl that provides a home for open source sharing of preliminary and/or exploratory methods in power system optimization.
-- [Power Grid Lib](https://github.com/power-grid-lib/pglib-opf) - This benchmark library is curated and maintained by the IEEE PES Task Force on Benchmarks for Validation of Emerging Power System Algorithms and is designed to evaluate a well established version of the the AC Optimal Power Flow problem.
+- [Power Grid Lib](https://github.com/power-grid-lib/pglib-opf) - This benchmark library is curated and maintained by the IEEE PES Task Force on Benchmarks for Validation of Emerging Power System Algorithms and is designed to evaluate a well established version of the AC Optimal Power Flow problem.
 - [pypownet](https://github.com/MarvinLer/pypownet) - A power network simulator with a Reinforcement Learning-focused usage.
 - [Grid2Op](https://github.com/rte-france/Grid2Op) - A testbed platform to model sequential decision making in power systems.
 - [eDisGo](https://github.com/openego/eDisGo/) - Optimization of flexibility options and grid expansion for distribution grids based on PyPSA.
@@ -551,7 +551,7 @@ df.head()
 - [docile-charge-point](https://github.com/NewMotion/docile-charge-point) - Scriptable OCPP charge point simulator and test tool.
 - [MaaS Global](https://github.com/maasglobal/maas-schemas) - Mobility as a Service API - data model, tests and validation.
 - [CoopCycle](https://github.com/coopcycle/coopcycle-web) - A self-hosted platform to order meals in your neighborhood and get them delivered by bike couriers.
-- [EVNotify](https://github.com/EVNotify/EVNotify) - Allows you to monitor your electric vehicle and let you notify when the specified preset state of charge has been achieved.
+- [EVNotify](https://github.com/EVNotify/EVNotify) - Allows you to monitor your electric vehicle and lets you notify when the specified preset state of charge has been achieved.
 - [icare](https://github.com/diowa/icare) - An open source carpooling platform used as a basis for our commercial product Company Carpool.
 - [Carpoolear](https://github.com/STS-Rosario/carpoolear) - The first Argentine Facebook app that allows the users of this social network to share car trips with other users.
 - [UTD19](https://utd19.ethz.ch/) - Largest multi-city traffic dataset publicly available.
@@ -673,7 +673,7 @@ df.head()
 - [Solar Protocol](https://github.com/alexnathanson/solar-protocol) - A solar powered network of servers that host a distributed web platform.
 - [PowerJoular](https://github.com/joular/powerjoular) - Allows monitoring power consumption of multiple platforms and processes.
 - [Green Algorithms](https://github.com/GreenAlgorithms/green-algorithms-tool) - Aims at promoting more environmentally sustainable computational science.
-- [Camunda Carbon Reductor](https://github.com/envite-consulting/camunda-carbon-reductor) - Allows you to time shift your processes' carbon emissions when energy is clean while still fulfilling the requested service level agreemen.
+- [Camunda Carbon Reductor](https://github.com/envite-consulting/camunda-carbon-reductor) - Allows you to time shift your processes' carbon emissions when energy is clean while still fulfilling the requested service level agreement.
 - [Quell](https://github.com/rollthecloudinc/quell) - The Content Management Software that combats climate change stopping web carbon production in its tracks.
 
 ## Emissions
@@ -718,7 +718,7 @@ df.head()
 - [Carbon Mapper](https://carbonmapperdata.org/) - Accelerate local climate action globally by locating, quantifying and tracking methane leaks and CO2 point-sources from space.
 - [ghg emissions indicator](https://github.com/bcgov/ghg-emissions-indicator) - R scripts for a greenhouse gases emissions indicator published on Environmental Reporting British Columbia.
 - [DuMux](https://git.iws.uni-stuttgart.de/dumux-repositories/dumux) - Based on the DUNE framework and aims to provide a multitude of numerical models as well as flexible discretization methods for complex non-linear phenomena, such as CO2 sequestration, soil remediation, drug delivery in cancer therapy and more.
-- [oco2peak](https://github.com/dataforgoodfr/batch7_satellite_ges/) - The goal of our project is to localize CO2 emissions on Earth based on the the carbon concentration data measured by the OCO-2 Satellite from NASA.
+- [oco2peak](https://github.com/dataforgoodfr/batch7_satellite_ges/) - The goal of our project is to localize CO2 emissions on Earth based on the carbon concentration data measured by the OCO-2 Satellite from NASA.
 - [CO2 Emission Datasets](https://www.che-project.eu/data-portal) - The CHE Data Portal provides an interface to the distributed data used and made available through the project, either as input data sets or as resulting data sets.
 - [Global Carbon Budget](https://github.com/openclimatedata/global-carbon-budget) - An annual living data publication of carbon cycle sources and sinks, generated from multiple data sources and by multiple organisations and research groups.
 - [emissions-api](https://github.com/emissions-api/emissions-api) - A solution that provides simple access to emissions data of climate-relevant gases.
