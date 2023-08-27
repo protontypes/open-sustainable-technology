@@ -1095,6 +1095,7 @@ df.head()
 - [NeuralHydrology](https://github.com/neuralhydrology/neuralhydrology) - Python library to train neural networks with a strong focus on hydrological applications.
 - [ERSEM](https://github.com/pmlmodelling/ersem) - A marine biogeochemical and ecosystem model that describes the cycling of carbon, nitrogen, phosphorus, silicon, oxygen and iron through the lower trophic level pelagic and benthic ecosystems.
 - [OSMOSE](https://github.com/osmose-model/osmose) - A multispecies and individual-based model which focuses on fish species.
+- [AutoQC](https://github.com/IQuOD/AutoQC) - A testing suite for automatic quality control checks of subsurface ocean temperature observations.
 
 
 
@@ -1290,8 +1291,6 @@ df.head()
 - [ClimSim](https://github.com/leap-stc/ClimSim/) - An open large-scale dataset for training high-resolution physics emulators in hybrid multi-scale climate simulators.
 - [CLIMaCCF](https://github.com/dlr-pa/climaccf) - Provide an open-source, easy-to-use, and flexible software tool that efficiently calculates spatially and temporally resolved climate impact of aviation emissions by using algorithmic climate change functions.
 - [geomet-climate](https://github.com/ECCC-CCCS/geomet-climate) - Geospatial web services for Canadian climate data.
-- [CMOR](https://github.com/PCMDI/cmor) - Climate Model Output Rewriter.
-
 
 
 
