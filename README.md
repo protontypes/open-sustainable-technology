@@ -1290,6 +1290,9 @@ df.head()
 - [ClimSim](https://github.com/leap-stc/ClimSim/) - An open large-scale dataset for training high-resolution physics emulators in hybrid multi-scale climate simulators.
 - [CLIMaCCF](https://github.com/dlr-pa/climaccf) - Provide an open-source, easy-to-use, and flexible software tool that efficiently calculates spatially and temporally resolved climate impact of aviation emissions by using algorithmic climate change functions.
 - [geomet-climate](https://github.com/ECCC-CCCS/geomet-climate) - Geospatial web services for Canadian climate data.
+- [CMOR](https://github.com/PCMDI/cmor) - Climate Model Output Rewriter.
+
+
 
 
 ### Meteorological Observation and Forecast
