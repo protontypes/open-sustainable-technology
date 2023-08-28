@@ -1096,6 +1096,7 @@ df.head()
 - [ERSEM](https://github.com/pmlmodelling/ersem) - A marine biogeochemical and ecosystem model that describes the cycling of carbon, nitrogen, phosphorus, silicon, oxygen and iron through the lower trophic level pelagic and benthic ecosystems.
 - [OSMOSE](https://github.com/osmose-model/osmose) - A multispecies and individual-based model which focuses on fish species.
 - [AutoQC](https://github.com/IQuOD/AutoQC) - A testing suite for automatic quality control checks of subsurface ocean temperature observations.
+- [m_mhw](https://github.com/ZijieZhaoMMHW/m_mhw1.0) - Detect and analyse spatial marine heatwaves.
 
 
 
