@@ -1745,6 +1745,7 @@ df.head()
 - [NEON](https://github.com/NEONScience/NEON-utilities) - The National Ecological Observatory Network provides open data to understand changing ecosystems.
 - [SynopticPy](https://github.com/blaylockbk/SynopticPy) - Gives you access to real-time and historical surface-based weather and environmental observations for thousands of stations.
 - [NASA CMR STAC](https://github.com/nasa/cmr-stac) - NASA's Common Metadata Repository is a metadata catalog of NASA Earth Science data.
+- [satlas](https://github.com/allenai/satlas) - Aims to provide open AI-generated geospatial data that is highly accurate, available globally, and updated on a frequent (monthly) basis.
 
 ### Curated Lists
 
