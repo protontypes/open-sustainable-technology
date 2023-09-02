@@ -12,20 +12,6 @@ If you're looking for an entry point into domains like renewable energy, climate
 
 [![](https://badgen.net/badge/icon/Add%20a%20Project/009485?icon=git&label)](https://github.com/protontypes/open-sustainable-technology/blob/main/CONTRIBUTING.md)  [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7066539.svg)](https://doi.org/10.5281/zenodo.7066539) [![Join the chat at https://gitter.im/protontypes/community](https://badges.gitter.im/protontypes/community.svg)](https://gitter.im/protontypes/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge) [![](https://badgen.net/badge/icon/Follow%20Updates/009485?icon=twitter&label)](https://twitter.com/protontypes)
 
-<strong> Analysis </strong>
-
-This database is used as part of the study [Open Source in Environmental Sustainability](https://report.opensustain.tech/). For this purpose, meta data from the listed repositories are evaluated via the tool [AwesomeCure](https://github.com/protontypes/AwesomeCure). To make browsing and sorting easier, here is the table with all the metadata for the [projects](https://baserow.io/public/grid/5Cyy_1a3fMOveJeRMsy6QEOo_mG569Et_iNk0G52Dmo) and the related [organizations](https://baserow.io/public/grid/QiZmt6fMEuRlQNF1YrrpGa5-Z45s0Khg5i6d654L5AY). The CSVs file can be easily read into a Pandas DataFrame using the following code:
-
-```python
-import pandas as pd
-
-projects = 'https://raw.githubusercontent.com/protontypes/AwesomeCure/main/csv/projects.csv'
-orgs = 'https://raw.githubusercontent.com/protontypes/AwesomeCure/main/csv/github_organizations.csv'
-
-df = pd.read_csv(orgs)
-df.head()
-```
-
 <!--toc-->
 
 <!--lint ignore awesome-toc -->
