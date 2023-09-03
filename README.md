@@ -3,9 +3,9 @@
 # Open Sustainable Technology
 [<img src="earth.png" align="right" width="350">](https://tabletopwhale.com/)
 
-__A curated list of open technology projects to sustain a stable climate, energy supply, biodiversity and natural resources.__ <br> <br> Your contribution is essential to keep this list alive. Read more about its origin and how you can participate in the [contribution guide](https://opensustain.tech/contributing/), [presentation slides](https://protontypes.eu/protontypes_open_sustainable_technology.pdf) and related [blog post](https://opensustain.tech/blog/gathering_open_sustainable_technology/). Please [write an email](mailto:tobias.augspurger@protontypes.eu) to give feedback, hints and ideas considering [OpenSustain.tech](https://opensustain.tech/) or [create an issue](https://github.com/protontypes/open-sustainable-technology/issues/new).
+__A curated list of open technology projects to sustain a stable climate, energy supply, biodiversity and natural resources.__ <br> <br> Your contribution is essential to keep this list alive. Please [write an email](mailto:tobias.augspurger@protontypes.eu) to give feedback, hints and ideas considering [OpenSustain.tech](https://opensustain.tech/) or [create an issue](https://github.com/protontypes/open-sustainable-technology/issues/new).
 
-If you're looking for an entry point into domains like renewable energy, climate change, or earth science, check out the collection of tutorials in the [education section](https://opensustain.tech/education/). 
+If you're looking for an entry point into domains like renewable energy, climate change, or earth science, check out the collection of tutorials in the [Education](https://opensustain.tech/education/) section. 
 
 [![](https://badgen.net/badge/View/Spreadsheet/009485?scale=1.4)](https://airtable.com/shr9we419r2TkpLkc)
 [![](https://badgen.net/badge/Download/Report%202023/009485?scale=1.4)](https://raw.githubusercontent.com/protontypes/open-source-in-environmental-sustainability/main/OpenSourceSustainabilityEcosystem_080423.pdf) [![](https://badgen.net/badge/icon/Add%20a%20Project/009485?icon=git&label&scale=1.4)](https://github.com/protontypes/open-sustainable-technology/blob/main/CONTRIBUTING.md)  
