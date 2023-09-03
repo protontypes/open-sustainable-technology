@@ -7,6 +7,7 @@ base_url: 'https://opensustain.tech/'
 edit_uri: ''
 nav:
   - Projects: index.md
+  - Spreadsheet: spreadsheet.md
   - Reports:
       2023: https://report.opensustain.tech 
   - Education: education.md
