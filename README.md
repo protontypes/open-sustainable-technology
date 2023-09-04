@@ -1119,6 +1119,7 @@ If you're looking for an entry point into domains like renewable energy, climate
 - [uDALES](https://github.com/uDALES/u-dales) - Large-eddy-simulation software for urban flow, dispersion and microclimate modelling.
 - [METplus](https://github.com/dtcenter/METplus) - A verification framework that spans a wide range of temporal (warn-on-forecast to climate) and spatial (storm to global) scales.
 - [AMBS](https://gitlab.jsc.fz-juelich.de/esde/machine-learning/ambs) - The Atmopsheric Machine Learning Benchmarking System aims to provide state-of-the-art video prediction methods applied to the meteorological domain.
+- [CIS](https://github.com/cedadev/cis) - An open source command-line tool for easy collocation, visualization, analysis, and comparison of diverse gridded and ungridded datasets used in the atmospheric science.
 
 
 ## Climate and Earth Science
@@ -1284,8 +1285,6 @@ If you're looking for an entry point into domains like renewable energy, climate
 - [CLIMaCCF](https://github.com/dlr-pa/climaccf) - Provide an open-source, easy-to-use, and flexible software tool that efficiently calculates spatially and temporally resolved climate impact of aviation emissions by using algorithmic climate change functions.
 - [geomet-climate](https://github.com/ECCC-CCCS/geomet-climate) - Geospatial web services for Canadian climate data.
 - [IPCC-WG1-Code](https://github.com/IPCC-WG1) - Code and Data of the Physical Science Basis Working Group (WG1) as part of Intergovernmental Panel on Climate Change (IPCC).
-
-
 
 
 
