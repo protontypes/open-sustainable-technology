@@ -1120,6 +1120,7 @@ If you're looking for an entry point into domains like renewable energy, climate
 - [METplus](https://github.com/dtcenter/METplus) - A verification framework that spans a wide range of temporal (warn-on-forecast to climate) and spatial (storm to global) scales.
 - [AMBS](https://gitlab.jsc.fz-juelich.de/esde/machine-learning/ambs) - The Atmopsheric Machine Learning Benchmarking System aims to provide state-of-the-art video prediction methods applied to the meteorological domain.
 - [CIS](https://github.com/cedadev/cis) - An open source command-line tool for easy collocation, visualization, analysis, and comparison of diverse gridded and ungridded datasets used in the atmospheric science.
+- [EMC²](https://github.com/columncolab/EMC2) - An open source framework for atmospheric model and observational column comparison.
 
 
 ## Climate and Earth Science
