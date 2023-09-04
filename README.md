@@ -1282,6 +1282,9 @@ If you're looking for an entry point into domains like renewable energy, climate
 - [ClimSim](https://github.com/leap-stc/ClimSim/) - An open large-scale dataset for training high-resolution physics emulators in hybrid multi-scale climate simulators.
 - [CLIMaCCF](https://github.com/dlr-pa/climaccf) - Provide an open-source, easy-to-use, and flexible software tool that efficiently calculates spatially and temporally resolved climate impact of aviation emissions by using algorithmic climate change functions.
 - [geomet-climate](https://github.com/ECCC-CCCS/geomet-climate) - Geospatial web services for Canadian climate data.
+- [IPCC-WG1-Code](https://github.com/IPCC-WG1) - Code and Data of the Physical Science Basis Working Group (WG1) as part of Intergovernmental Panel on Climate Change (IPCC).
+
+
 
 
 
@@ -1679,6 +1682,7 @@ If you're looking for an entry point into domains like renewable energy, climate
 - [Climatemind](https://github.com/ClimateMind/climatemind-backend) - Explore how your values and personal interests are being affected by climate change and shows you attractive solutions exist that you may not be aware of.
 - [Decarb My State](https://github.com/chihacknight/decarbonize-my-state) - What does it take to decarbonize your state.
 - [STRESS Tool](https://github.com/mit-jp/climate-risk-map) - Show climate risk on a map of the US, with the MIT Joint Program data.
+- [Climate Change Tracker](https://climatechangetracker.org/) - Empower individuals and communities to take action against the global threat of climate change by providing a reliable, user-friendly platform for tracking and understanding its progression.
 
 
 ### Data Catalogs and Interfaces
@@ -1687,7 +1691,6 @@ If you're looking for an entry point into domains like renewable energy, climate
 - [Global Wind Atlas](https://globalwindatlas.info/) - Immediately start exploring windy areas.
 - [Global Solar Atlas](https://globalsolaratlas.info/) - Start exploring solar potential.
 - [Food and Agriculture Organization Map Catalog](https://data.apps.fao.org/) - Allows to easily share geographically referenced thematic information between different organizations.
-- [Climate Change Tracker](https://climatechangetracker.org/) - Empower individuals and communities to take action against the global threat of climate change by providing a reliable, user-friendly platform for tracking and understanding its progression.
 - [The Subak Data Catalogue](https://data.climatesubak.org/) - Exists to make climate data more discoverable, more trusted and more connected.
 - [EEA geospatial data catalogue](https://github.com/eea/geonetwork-eea) - Discover and access easily the geospatial data catalogue of the European Environment Agency.
 - [Radiant MLHub Python Client](https://github.com/radiantearth/radiant-mlhub) - Open community commons for geospatial training data, machine learning models, and standards to encourage collaboration and share information.
