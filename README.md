@@ -28,7 +28,7 @@ If you're looking for an entry point into domains like renewable energy, climate
   - [Hydrogen](#hydrogen)
 - [Energy Systems](#energy-systems)
   - [Energy Modeling and Optimization](#energy-modeling-and-optimization)
-  - [Energy Monitoring and Control](#energy-monitoring-and-control)
+  - [Energy Monitoring and Management](#energy-monitoring-and-management)
   - [Energy Distribution and Grids](#energy-distribution-and-grids)
   - [Energy System Data Access](#energy-system-data-access)
 - [Consumption of Energy and Resources](#consumption-of-energy-and-resources)
@@ -369,7 +369,7 @@ If you're looking for an entry point into domains like renewable energy, climate
 - [HYBRID](https://github.com/idaholab/HYBRID) - A modeling toolset to assess the integration and economic viability of Integrated Energy Systems.
 - [FAME](https://gitlab.com/fame-framework/fame-core) - Its purpose is supporting the rapid development and fast execution of complex agent-based energy system simulations.
 
-### Energy Monitoring and Control
+### Energy Monitoring and Management 
 
 - [Open Energy Dashboard](https://github.com/OpenEnergyDashboard/OED) - Open Energy Dashboard is a user-friendly way to display energy information from smart energy meter.
 - [OpenEMS](https://github.com/OpenEMS/openems) - Open Source Energy Management System.
@@ -381,6 +381,7 @@ If you're looking for an entry point into domains like renewable energy, climate
 - [Emoncms](https://github.com/emoncms/emoncms) - A powerful open source web application for processing, logging and visualizing energy, temperature and other environmental data.
 - [FlexMeasures](https://github.com/SeitaBV/flexmeasures) - A platform for building energy flexibility services with forecasting and scheduling, written in Python & offering a USEF-conform API.
 - [STM32 Energy Monitoring](https://github.com/openenergymonitor/STM32) - The following resources are a work in progress guide to using the STM32 platform for energy monitoring, being written as part of development work into the next generation of OpenEnergyMonitor hardware.
+- [EHMASS](https://github.com/davidusb-geek/emhass) - Energy Management for Home Assistant, is a Python module designed to optimize your home energy interfacing with Home Assistant.
 
 
 ### Energy Distribution and Grids
