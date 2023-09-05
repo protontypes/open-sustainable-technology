@@ -128,6 +128,7 @@ If you're looking for an entry point into domains like renewable energy, climate
 - [A Global Inventory of Commercial-, Industrial-, and Utility-Scale Photovoltaic Solar Generating Units](https://github.com/Lkruitwagen/solar-pv-global-inventory) - Used to produce a global inventory of utility-scale solar photovoltaic generating station.
 - [dGen](https://github.com/NREL/dgen) - Forecast PV adoption based on user specified configurations like electricity rate prices, electricity load growth, solar resource factors, and much more.
 - [SOLECTRUS](https://github.com/solectrus/solectrus) - An alternative photovoltaic dashboard that visualizes the yield and consumption.
+- [pvdeg](https://github.com/NREL/PVDegradationTools) - Set of tools to calculate degradation responses and degradation related parameters for PV.
 
 ### Wind Energy
 
