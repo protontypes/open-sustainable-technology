@@ -778,6 +778,7 @@ If you're looking for an entry point into domains like renewable energy, climate
 - [pymrio](https://github.com/konstantinstadler/pymrio/) - Multi-Regional Input-Output Analysis in Python.
 - [flowsa](https://github.com/USEPA/flowsa) - Library that attributes resource use, waste, emissions, and loss to economic sectors.
 - [LCIA formatter](https://github.com/USEPA/LCIAformatter) - A Python tool for standardizing the format and flows of life cycle impact assessment data.
+- [LCAx](https://github.com/ocni-dtu/lcax) - The goal for LCAx is to make an open, machine and human-readable data format for exchanging LCA results, EPD's and assemblies.
 
 ### Circular Economy and Waste
 
