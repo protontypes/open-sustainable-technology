@@ -413,6 +413,7 @@ If you're looking for an entry point into domains like renewable energy, climate
 - [SIMONA](https://github.com/ie3-institute/simona) - Provides a simulation toolbox to run and implement large-scale agent-based electricity grid simulations with focus on distribution grids.
 - [Power Grid Model](https://github.com/PowerGridModel/power-grid-model) -  A library for steady-state distribution power system analysis distributed for Python and C.
 - [ElectricGrid.jl](https://github.com/upb-lea/ElectricGrid.jl) - A time domain electrical energy grid modeling and simulation tool with a focus on the control of power electronics converters.
+- [PowerModelsACDC.jl](https://github.com/Electa-Git/PowerModelsACDC.jl) - A a Julia/JuMP/PowerModels package with models for DC lines, meshed DC networks, and AC DC converters.
 
 ### Energy Monitoring and Management 
 
