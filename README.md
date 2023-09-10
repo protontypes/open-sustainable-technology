@@ -1092,7 +1092,7 @@ If you're looking for an entry point into domains like renewable energy, climate
 - [m_mhw](https://github.com/ZijieZhaoMMHW/m_mhw1.0) - Detect and analyse spatial marine heatwaves.
 - [Open Acidification Project](https://github.com/Open-Acidification/AlkalinityTitrator) - Apparatus to determine total alkalinity in sea water using an open-cell titration.
 - [PySAMOSA](https://github.com/floschl/pysamosa) - A Python-based software for processing open ocean and coastal waveforms from SAR satellite altimetry to measure sea surface heights, wave heights, and wind speed for the oceans and inland waters.
-
+- [GPM-API](https://github.com/ghiggi/gpm_api) - Provides an easy-to-use python interface to download, read, process and visualize most of the products of the Global Precipitation Measurement Mission (GPM) data archive.
 
 
 ### Atmosphere
