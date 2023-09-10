@@ -3,7 +3,7 @@
 # Open Sustainable Technology
 [<img src="earth.png" align="right" width="350">](https://tabletopwhale.com/)
 
-__A curated list of open technology projects to sustain a stable climate, energy supply, biodiversity and natural resources.__ <br> <br> Your contribution is essential to keep this list alive. Please [write an email](mailto:tobias.augspurger@protontypes.eu) to give feedback, hints and ideas considering [OpenSustain.tech](https://opensustain.tech/) or [create an issue](https://github.com/protontypes/open-sustainable-technology/issues/new).
+__A curated list of open technology projects to sustain a stable climate, energy supply, biodiversity and natural resources.__ <br> <br> Your contribution is essential to keep this list alive. Please [write an email](mailto:tobias.augspurger@protontypes.eu) or [create an issue](https://github.com/protontypes/open-sustainable-technology/issues/new) to give feedback, hints and ideas considering [OpenSustain.tech](https://opensustain.tech/). 
 
 If you're looking for an entry point into domains like renewable energy, climate change, or earth science, check out the collection of tutorials in the [Education](https://opensustain.tech/education/) section. 
 
@@ -1747,6 +1747,7 @@ If you're looking for an entry point into domains like renewable energy, climate
 - [SynopticPy](https://github.com/blaylockbk/SynopticPy) - Gives you access to real-time and historical surface-based weather and environmental observations for thousands of stations.
 - [NASA CMR STAC](https://github.com/nasa/cmr-stac) - NASA's Common Metadata Repository is a metadata catalog of NASA Earth Science data.
 - [satlas](https://github.com/allenai/satlas) - Aims to provide open AI-generated geospatial data that is highly accurate, available globally, and updated on a frequent (monthly) basis.
+- [landsatxplore](https://github.com/yannforget/landsatxplore) - Provides an interface to the EarthExplorer portal to search and download Landsat Collections scenes through a command-line interface or a Python API.
 
 ### Curated Lists
 
