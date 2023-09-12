@@ -1,7 +1,7 @@
 # You can preserve the Earth's livability with open source
 
 
- __Tobias Augspurger __  [:fontawesome-brands-twitter:](https://twitter.com/protontypes) · :octicons-calendar-24: May 23, 2022
+ _Tobias Augspurger _  [:fontawesome-brands-twitter:](https://twitter.com/protontypes) · :octicons-calendar-24: May 23, 2022
 
 **Why actions rooted in open source culture can make a big impact.**
 
