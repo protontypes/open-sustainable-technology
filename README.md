@@ -964,6 +964,9 @@ energy system designs and analysis of interactions between technologies.
 - [FishGlob_data](https://github.com/AquaAuma/FishGlob_data) - This repository contains the FishGlob database, including the methods to load, clean, and process the public bottom trawl surveys in it.
 - [Global Names Verifier](https://github.com/gnames/gnverifier) - Verifies scientific names against more than 100 biodiversity databases.
 - [DISPLACE_GUI](https://github.com/frabas/DISPLACE_GUI) - A Scientific Research Software for Spatial Fisheries and Natural Resource Management.
+- [FSAdata](https://github.com/fishR-Core-Team/FSAdata) - Contains data for use in common fisheries stock analyses. See installation instructions further below.
+
+
 
 
 ### Cryosphere
