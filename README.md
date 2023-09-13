@@ -968,8 +968,6 @@ energy system designs and analysis of interactions between technologies.
 - [FSAdata](https://github.com/fishR-Core-Team/FSAdata) - Contains data for use in common fisheries stock analyses. See installation instructions further below.
 
 
-
-
 ### Cryosphere
 
 - [Planet Snowcover](https://github.com/acannistra/planet-snowcover) - A project that pairs airborne lidar and Planet Labs satellite imagery with cutting-edge computer vision techniques to identify snow-covered area at unprecedented spatial and temporal resolutions.
@@ -1332,6 +1330,7 @@ energy system designs and analysis of interactions between technologies.
 - [AtmoSwing](https://github.com/atmoswing/atmoswing) - Allow predicting local meteorological variables of interest, such as the daily precipitation, based on synoptic variables.
 - [ufs-weather-model](https://github.com/ufs-community/ufs-weather-model) - Contains the model code and external links needed to build the Unified Forecast System atmosphere model and associated components, including the WaveWatch III model.
 - [WeatherBench 2](https://github.com/google-research/weatherbench2) - A framework for evaluating and comparing data-driven and traditional numerical weather forecasting models.
+- [MeteoHist](https://github.com/yotkadata/meteo_hist) - A Streamlit app to create interactive temperature and precipitation graphs for places around the world.
 
 ### Natural Hazard and Storm
 
