@@ -813,6 +813,7 @@ energy system designs and analysis of interactions between technologies.
 - [RaMa-Scene](https://github.com/CMLPlatform/ramascene) - RaMa-Scene a web-platform to analyse Environmentally Extended Input-Output data and generate scenarios.
 - [CircuMat](https://github.com/CMLPlatform/CircuMAT) - RaMa-Scene fork, CircuMat focuses on NUTS2 level classification as opposed to Rama-Scene country level analysis tool.
 - [SwolfPy](https://github.com/SwolfPy-Project/swolfpy) - A free, multi-platform, Python-based, open-source, SWM LCA optimization framework with built-in parametric and Monte Carlo sensitivity and uncertainty analysis capabilities.
+- [TrashMob](https://github.com/TrashMob-eco/TrashMob) - A website dedicated to organizing groups of people to clean up the world we live in. Users create cleanup events, publicize them, and recruit people to join up, as well as ask for assistance from communities and partners.
 
 ## Earth Systems
 
