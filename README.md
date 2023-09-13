@@ -1342,6 +1342,7 @@ energy system designs and analysis of interactions between technologies.
 - [ufs-weather-model](https://github.com/ufs-community/ufs-weather-model) - Contains the model code and external links needed to build the Unified Forecast System atmosphere model and associated components, including the WaveWatch III model.
 - [WeatherBench 2](https://github.com/google-research/weatherbench2) - A framework for evaluating and comparing data-driven and traditional numerical weather forecasting models.
 - [MeteoHist](https://github.com/yotkadata/meteo_hist) - A Streamlit app to create interactive temperature and precipitation graphs for places around the world.
+- [ecPoint-Calibrate](https://github.com/ecmwf/ecpoint-calibrate) - A software that uses conditional verification tools to compare numerical weather prediction model outputs against point observations and, in this way, anticipate sub-grid variability and identify biases at grid scale.
 
 ### Natural Hazard and Storm
 
@@ -1373,7 +1374,7 @@ energy system designs and analysis of interactions between technologies.
 - [Tropycal](https://github.com/tropycal/tropycal) - A Python package intended to simplify the process of retrieving and analyzing tropical cyclone data, both for past storms and in real time.
 - [tcpyPI](https://github.com/dgilford/tcpyPI) - A set of scripts and notebooks that compute and validate tropical cyclone (TC) potential intensity (PI) calculations in Python.
 - [SFINCS](https://github.com/Deltares/SFINCS) - Super-fast modelling of dynamic compound flooding in Coastal Systems.
-- [ecPoint-Calibrate](https://github.com/ecmwf/ecpoint-calibrate) - A software that uses conditional verification tools to compare numerical weather prediction model outputs against point observations and, in this way, anticipate sub-grid variability and identify biases at grid scale.
+- [RAS2FIM](https://github.com/NOAA-OWP/ras2fim) - Creation of flood inundation raster libraries and rating curves from HEC-RAS models.
 
 ### Radiative Transfer
 
