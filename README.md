@@ -1704,6 +1704,7 @@ energy system designs and analysis of interactions between technologies.
 - [Decarb My State](https://github.com/chihacknight/decarbonize-my-state) - What does it take to decarbonize your state.
 - [STRESS Tool](https://github.com/mit-jp/climate-risk-map) - Show climate risk on a map of the US, with the MIT Joint Program data.
 - [Climate Change Tracker](https://climatechangetracker.org/) - Empower individuals and communities to take action against the global threat of climate change by providing a reliable, user-friendly platform for tracking and understanding its progression.
+- [NATUR'ADAPT](https://naturadapt.com/) - A community interested in climate change and its impacts on nature, especially in protected natural areas.
 
 
 ### Data Catalogs and Interfaces
