@@ -129,6 +129,7 @@ If you're looking for an entry point into domains like renewable energy, climate
 - [dGen](https://github.com/NREL/dgen) - Forecast PV adoption based on user specified configurations like electricity rate prices, electricity load growth, solar resource factors, and much more.
 - [SOLECTRUS](https://github.com/solectrus/solectrus) - An alternative photovoltaic dashboard that visualizes the yield and consumption.
 - [pvdeg](https://github.com/NREL/PVDegradationTools) - Set of tools to calculate degradation responses and degradation related parameters for PV.
+- [solarthing](https://github.com/wildmountainfarms/solarthing) - An application that can monitor data from a variety of solar charge controllers and inverters.
 
 ### Wind Energy
 
