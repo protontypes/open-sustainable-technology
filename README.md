@@ -700,6 +700,7 @@ energy system designs and analysis of interactions between technologies.
 - [NEMED](https://github.com/UNSW-CEEM/NEMED) - A python package to retrieve and process historical emissions data of the National Electricity Market, reproduced by datasets published by the Australian Energy Market Operator.
 - [Steel Emissions Reporting Guidance](https://github.com/RMI/steel-guidance) - RMI's steel emissions accounting and data exchange guidance.
 - [carbonr](https://github.com/IDEMSInternational/carbonr) - A package in R to conveniently calculate carbon-equivalent emissions.
+- [Pledge4Future](https://github.com/pledge4future/WePledge) - Allows you to calculate your work related CO2e emissions from heating and electricity consumptions as well as business trips and commuting.
 
 
 ### Carbon Credits and Capture 
