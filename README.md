@@ -1303,7 +1303,7 @@ energy system designs and analysis of interactions between technologies.
 - [geomet-climate](https://github.com/ECCC-CCCS/geomet-climate) - Geospatial web services for Canadian climate data.
 - [IPCC-WG1-Code](https://github.com/IPCC-WG1) - Code and Data of the Physical Science Basis Working Group (WG1) as part of Intergovernmental Panel on Climate Change (IPCC).
 - [gecevar](https://github.com/ghislainv/gecevar) - Contains functions for downloading climate and environmental data from open and free online datasets for any region of the world.
-
+- [weatherOz](https://github.com/DPIRD-FSI/weatherOz) - Aims to facilitate access and download weather and climate data for Australia from Australian data sources.
 
 
 ### Meteorological Observation and Forecast
