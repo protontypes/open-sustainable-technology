@@ -966,6 +966,7 @@ energy system designs and analysis of interactions between technologies.
 - [Global Names Verifier](https://github.com/gnames/gnverifier) - Verifies scientific names against more than 100 biodiversity databases.
 - [DISPLACE_GUI](https://github.com/frabas/DISPLACE_GUI) - A Scientific Research Software for Spatial Fisheries and Natural Resource Management.
 - [FSAdata](https://github.com/fishR-Core-Team/FSAdata) - Contains data for use in common fisheries stock analyses. See installation instructions further below.
+- [dataaimsr](https://github.com/ropensci/dataaimsr) - Australian Institute of Marine Science (AIMS) Data Platform API Client which provides easy access to AIMS Data Platform scientific data and information.
 
 
 ### Cryosphere
