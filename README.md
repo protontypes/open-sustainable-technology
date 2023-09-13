@@ -1353,6 +1353,7 @@ energy system designs and analysis of interactions between technologies.
 - [ThinkHazard!](https://github.com/GFDRR/thinkhazard) - Provides a general view of the hazards, for a given location, that should be considered in project design and implementation to promote disaster and climate resilience.
 - [Tropycal](https://github.com/tropycal/tropycal) - A Python package intended to simplify the process of retrieving and analyzing tropical cyclone data, both for past storms and in real time.
 - [tcpyPI](https://github.com/dgilford/tcpyPI) - A set of scripts and notebooks that compute and validate tropical cyclone (TC) potential intensity (PI) calculations in Python.
+- [SFINCS](https://github.com/Deltares/SFINCS) - Super-fast modelling of dynamic compound flooding in Coastal Systems.
 
 ### Radiative Transfer
 
