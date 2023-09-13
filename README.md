@@ -1223,6 +1223,7 @@ energy system designs and analysis of interactions between technologies.
 - [MESMER](https://github.com/MESMER-group/mesmer) - Stochastically creates Earth System Model-specific spatio-temporally correlated climate variable field realizations at a negligible computational cost.
 - [CMIP6_CVs](https://github.com/WCRP-CMIP/CMIP6_CVs) - Core Controlled Vocabularies for use in CMIP6.
 - [CleF](https://github.com/coecms/clef) - Searches the Earth System Grid Federation datasets stored at the Australian National Computational Infrastructure, both data published on the NCI ESGF node as well as files that are locally replicated from other ESGF nodes.
+- [XCast](https://github.com/kjhall01/xcast) - A free and open source climate forecasting toolkit written by Kyle Hall & Nachiketa Acharya, designed to help forecasters and earth scientists apply state-of-the-art postprocessing techniques to gridded data sets.
 
 
 ### Climate Data Processing and Access
