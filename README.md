@@ -1097,6 +1097,7 @@ energy system designs and analysis of interactions between technologies.
 - [PySAMOSA](https://github.com/floschl/pysamosa) - A Python-based software for processing open ocean and coastal waveforms from SAR satellite altimetry to measure sea surface heights, wave heights, and wind speed for the oceans and inland waters.
 - [GPM-API](https://github.com/ghiggi/gpm_api) - Provides an easy-to-use python interface to download, read, process and visualize most of the products of the Global Precipitation Measurement Mission (GPM) data archive.
 - [Surface water network](https://github.com/mwtoews/surface-water-network) - A Python package to create and analyze surface water networks.
+- [Lekan](https://github.com/vcloarec/ReosProject) - Provide a software that assists the user doing hydrological and hydraulic studies for flood mapping and forecasting, hydraulic structure design, or other tasks linked to natural surface flow
 
 
 ### Atmosphere
