@@ -1356,6 +1356,7 @@ energy system designs and analysis of interactions between technologies.
 - [Tropycal](https://github.com/tropycal/tropycal) - A Python package intended to simplify the process of retrieving and analyzing tropical cyclone data, both for past storms and in real time.
 - [tcpyPI](https://github.com/dgilford/tcpyPI) - A set of scripts and notebooks that compute and validate tropical cyclone (TC) potential intensity (PI) calculations in Python.
 - [SFINCS](https://github.com/Deltares/SFINCS) - Super-fast modelling of dynamic compound flooding in Coastal Systems.
+- [ecPoint-Calibrate](https://github.com/ecmwf/ecpoint-calibrate) - A software that uses conditional verification tools to compare numerical weather prediction model outputs against point observations and, in this way, anticipate sub-grid variability and identify biases at grid scale.
 
 ### Radiative Transfer
 
@@ -1626,7 +1627,7 @@ energy system designs and analysis of interactions between technologies.
 - [osiris](https://github.com/JGCRI/osiris) - A R package to process climate impacts on agricultural yields for the Global Change Analysis Model.
 - [PoPS](https://github.com/ncsu-landscape-dynamics/rpops) - This is the R package for simulating spread of pests and pathogens.
 - [DiCRA](https://github.com/undpindia/dicra) - Provides open access to key geospatial datasets pertinent to climate resilient agriculture.
-- [OpenOlitor](https://github.com/OpenOlitor/openolitor-server) - Administration platform for Community Supported Agriculture and for direct selling farming projects based on a subscription model
+- [OpenOlitor](https://github.com/OpenOlitor/openolitor-server) - Administration platform for Community Supported Agriculture and for direct selling farming projects based on a subscription model.
 
 
 
