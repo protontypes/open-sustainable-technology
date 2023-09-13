@@ -762,6 +762,8 @@ energy system designs and analysis of interactions between technologies.
 - [MethaneMapper](https://github.com/UCSB-VRL/MethaneMapper-Spectral-Absorption-aware-Hyperspectral-Transformer-for-Methane-Detection) - A fast and accurate deep learning based solution for methane detection from airborne hyperspectral imagery.
 - [Pyra](https://github.com/tum-esm/pyra) - Automated EM27/SUN Greenhouse Gas Measurement Software.
 - [EMIT-Data-Resources](https://github.com/nasa/EMIT-Data-Resources) - Built to help scientists understand how dust affects climate, the EMIT can also pinpoint emissions of the potent greenhouse gas.
+- [Integrated Methane Inversion](https://github.com/geoschem/integrated_methane_inversion) - Contains the source code for setting up and running the Integrated Methane Inversion with GEOS-Chem.
+
 
 ## Industrial Ecology
 
@@ -1150,7 +1152,7 @@ energy system designs and analysis of interactions between technologies.
 - [CIS](https://github.com/cedadev/cis) - An open source command-line tool for easy collocation, visualization, analysis, and comparison of diverse gridded and ungridded datasets used in the atmospheric science.
 - [EMC²](https://github.com/columncolab/EMC2) - An open source framework for atmospheric model and observational column comparison.
 - [Unidata Science Gateway](https://github.com/Unidata/science-gateway) - Provide the academic and research community an environment they can employ to access, analyze and visualize real-time and case study Earth system science data.
-- [Integrated Methane Inversion](https://github.com/geoschem/integrated_methane_inversion) - Contains the source code for setting up and running the Integrated Methane Inversion with GEOS-Chem.
+
 
 ## Climate and Earth Science
 
