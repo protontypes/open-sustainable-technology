@@ -272,7 +272,7 @@ If you're looking for an entry point into domains like renewable energy, climate
 - [PowerGenome](https://github.com/PowerGenome/PowerGenome) - A tool to quickly and easily create inputs for power systems models.
 - [load_forecasting](https://github.com/pyaf/load_forecasting) - Load forecasting on Delhi area electric power load using ARIMA, RNN, LSTM and GRU models.
 - [REopt_Lite_API](https://github.com/NREL/REopt_Lite_API) - Offers a subset of features from NREL's more comprehensive REopt model. Both models provide concurrent, multiple technology integration and optimization capabilities to help organizations meet their cost savings and energy performance goals.
-- [pandapower](http://www.pandapower.org/) - An easy to use open source tool for power system modeling, analysis and optimization with a high degree of automation.
+- [pandapower](https://github.com/e2nIEE/pandapower) - An easy to use open source tool for power system modeling, analysis and optimization with a high degree of automation.
 - [urbs](https://github.com/tum-ens/urbs) - A linear optimization model for distributed energy systems.
 - [Dispa-SET](https://github.com/energy-modelling-toolkit/Dispa-SET) - Allows to model a power system at any level of detail e.g. micro-grid, region, country, continent.
 - [Calliope](https://github.com/calliope-project/calliope) - A framework to develop energy system models, with a focus on flexibility, high spatial and temporal resolution, the ability to execute many runs based on the same base model, and a clear separation of framework and model.
