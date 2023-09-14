@@ -978,6 +978,7 @@ energy system designs and analysis of interactions between technologies.
 - [GeoPressureR](https://github.com/Rafnuss/GeoPressureR) - R package which help researchers construct the trajectory of a bird equiped with an atmospheric pressure sensor.
 - [GBIF Alert](https://github.com/riparias/gbif-alert) - A GBIF-based early alert system for invasive species.
 - [allometric](https://github.com/allometric/allometric) - Thousands of allometric models exist in the scientific and technical forestry literature, and allometric is a platform for archiving and using this vast array of models in a robust and structured format.
+- [python-dwca-reader] - A Python package to read and parse Darwin Core Archive (DwC-A) files, as produced by the GBIF website, the IPT and many other biodiversity informatics tools.
 
 
 ### Cryosphere
