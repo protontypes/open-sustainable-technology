@@ -1116,6 +1116,7 @@ energy system designs and analysis of interactions between technologies.
 - [Surface water network](https://github.com/mwtoews/surface-water-network) - A Python package to create and analyze surface water networks.
 - [Lekan](https://github.com/vcloarec/ReosProject) - Provide a software that assists the user doing hydrological and hydraulic studies for flood mapping and forecasting, hydraulic structure design, or other tasks linked to natural surface flow.
 - [cbsyst](https://github.com/oscarbranson/cbsyst) - A Python module for calculating seawater carbon and boron chemistry.
+- [OceanBioME.jl](https://github.com/OceanBioME/OceanBioME.jl) - A fast and flexible modelling environment written in Julia for modelling the coupled interactions between ocean biogeochemistry, carbonate chemistry, and physics.
 
 
 ### Atmosphere
