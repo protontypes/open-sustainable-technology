@@ -107,7 +107,7 @@
 - [Africa Soil and Agronomy Data Cube](https://gitlab.com/openlandmap/africa-soil-and-agronomy-data-cube) - Accessing and using soil and agronomy data for Africa.
 - [Water Productivity and Water Accounting using WaPOR](https://github.com/wateraccounting/WAPOROCW) - Jupyter notebooks for Water Accounting and Water Productivity using WaPOR course.
 - [stats_for_soil_survey](https://ncss-tech.github.io/stats_for_soil_survey/) - Lecture material on "Statistics for Pedologists".
-
+- [r4wrds](https://github.com/r4wrds/r4wrds) - Water Resources Data Science R course website.
 
 ## Sustainable Development Goals
 - [SDG Academy](https://sdgacademy.org/courses/) - Education platform of the Sustainable Development Solutions Network (SDSN), a global initiative for the United Nations.
