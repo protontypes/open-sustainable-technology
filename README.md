@@ -979,6 +979,7 @@ energy system designs and analysis of interactions between technologies.
 - [GBIF Alert](https://github.com/riparias/gbif-alert) - A GBIF-based early alert system for invasive species.
 - [allometric](https://github.com/allometric/allometric) - Thousands of allometric models exist in the scientific and technical forestry literature, and allometric is a platform for archiving and using this vast array of models in a robust and structured format.
 - [python-dwca-reader](https://github.com/BelgianBiodiversityPlatform/python-dwca-reader) - A Python package to read and parse Darwin Core Archive (DwC-A) files, as produced by the GBIF website, the IPT and many other biodiversity informatics tools.
+- [Pyronear API](https://github.com/pyronear/pyro-api) - Alert Management API for wildfire prevention, detection & monitoring.
 
 
 ### Cryosphere
