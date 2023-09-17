@@ -420,6 +420,7 @@ energy system designs and analysis of interactions between technologies.
 - [ElectricGrid.jl](https://github.com/upb-lea/ElectricGrid.jl) - A time domain electrical energy grid modeling and simulation tool with a focus on the control of power electronics converters.
 - [PowerModelsACDC.jl](https://github.com/Electa-Git/PowerModelsACDC.jl) - A a Julia/JuMP/PowerModels package with models for DC lines, meshed DC networks, and AC DC converters.
 - [FlexPlan.jl](https://github.com/Electa-Git/FlexPlan.jl) - An open-source Julia tool for transmission and distribution expansion planning considering storage and demand flexibility.
+- [Easy SimAuto](https://github.com/mzy2240/ESA) - An easy-to-use Power System Analysis Automation Platform atop PowerWorld's Simulator Automation Server.
 
 ### Energy Monitoring and Management 
 
