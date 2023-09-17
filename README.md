@@ -1021,6 +1021,7 @@ energy system designs and analysis of interactions between technologies.
 - [ACCESS-OM2](https://github.com/COSIMA/access-om2) - Global ocean-sea ice coupled model configurations.
 - [SNOWPACK](https://code.wsl.ch/snow-models/snowpack) - A multi-purpose snow and land-surface model, which focuses on a detailed description of the mass and energy exchange between the snow, the atmosphere and optionally with the vegetation cover and the soil.
 - [ITS_LIVE](https://github.com/nasa-jpl/its_live) - Provide automated, low latency, global glacier flow and elevation change datasets.
+- [ODINN.jl](https://github.com/ODINN-SciML/ODINN.jl) - Global glacier model using Universal Differential Equations for climate-glacier interactions.
 
 ### Hydrosphere
 
