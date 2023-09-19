@@ -1391,6 +1391,7 @@ energy system designs and analysis of interactions between technologies.
 - [SFINCS](https://github.com/Deltares/SFINCS) - Super-fast modelling of dynamic compound flooding in Coastal Systems.
 - [RAS2FIM](https://github.com/NOAA-OWP/ras2fim) - Creation of flood inundation raster libraries and rating curves from HEC-RAS models.
 - [BG_Flood](https://github.com/CyprienBosserelle/BG_Flood) - The model is designed to simulate flood/inundation caused by tsunami, river, rain, tide or storm surge (from wind stress or atm pressure differential) or any combination of these.
+- [TATHU](https://github.com/uba/tathu) - A Python package for tracking and analyzing the life cycle of thunderstorms.
 
 ### Radiative Transfer
 
