@@ -1390,6 +1390,7 @@ energy system designs and analysis of interactions between technologies.
 - [tcpyPI](https://github.com/dgilford/tcpyPI) - A set of scripts and notebooks that compute and validate tropical cyclone (TC) potential intensity (PI) calculations in Python.
 - [SFINCS](https://github.com/Deltares/SFINCS) - Super-fast modelling of dynamic compound flooding in Coastal Systems.
 - [RAS2FIM](https://github.com/NOAA-OWP/ras2fim) - Creation of flood inundation raster libraries and rating curves from HEC-RAS models.
+- [BG_Flood](https://github.com/CyprienBosserelle/BG_Flood) - The model is designed to simulate flood/inundation caused by tsunami, river, rain, tide or storm surge (from wind stress or atm pressure differential) or any combination of these.
 
 ### Radiative Transfer
 
