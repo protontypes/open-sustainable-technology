@@ -1125,6 +1125,7 @@ energy system designs and analysis of interactions between technologies.
 - [cbsyst](https://github.com/oscarbranson/cbsyst) - A Python module for calculating seawater carbon and boron chemistry.
 - [OceanBioME.jl](https://github.com/OceanBioME/OceanBioME.jl) - A fast and flexible modelling environment written in Julia for modelling the coupled interactions between ocean biogeochemistry, carbonate chemistry, and physics.
 - [WHOI HABhub Data Portal](https://github.com/WHOIGit/whoi-hab-hub) - Is being developed as a data access and visualization portal for the New England Harmful Algal Bloom Observing Network.
+- [RUBEM](https://github.com/LabSid-USP/RUBEM) - A distributed hydrological model to calculate monthly flows with changes in land use over time.
 
 
 ### Atmosphere
