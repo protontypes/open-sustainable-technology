@@ -422,6 +422,7 @@ energy system designs and analysis of interactions between technologies.
 - [FlexPlan.jl](https://github.com/Electa-Git/FlexPlan.jl) - An open-source Julia tool for transmission and distribution expansion planning considering storage and demand flexibility.
 - [Easy SimAuto](https://github.com/mzy2240/ESA) - An easy-to-use Power System Analysis Automation Platform atop PowerWorld's Simulator Automation Server.
 - [GElectrical](https://github.com/manuvarkey/GElectrical) - A free and opensource electrical system analysis software for LV/MV electrical distribution networks.
+- [Electra](https://github.com/Alkia/electra) - Sovereign blockchain solution that enables local micro-grid to operate smoothly between trustless actors enabling a real circular economy based on the exchange of electricity units.
 
 ### Energy Monitoring and Management 
 
