@@ -1356,6 +1356,7 @@ energy system designs and analysis of interactions between technologies.
 - [WeatherBench 2](https://github.com/google-research/weatherbench2) - A framework for evaluating and comparing data-driven and traditional numerical weather forecasting models.
 - [MeteoHist](https://github.com/yotkadata/meteo_hist) - A Streamlit app to create interactive temperature and precipitation graphs for places around the world.
 - [ecPoint-Calibrate](https://github.com/ecmwf/ecpoint-calibrate) - A software that uses conditional verification tools to compare numerical weather prediction model outputs against point observations and, in this way, anticipate sub-grid variability and identify biases at grid scale.
+- [Risk Data Library Standard](https://github.com/GFDRR/rdl-standard) - Provides a common description of the data used and produced in risk assessments, including hazard, exposure, vulnerability, and modelled loss, or impact, data.
 
 ### Natural Hazard and Storm
 
