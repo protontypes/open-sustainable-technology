@@ -1663,6 +1663,7 @@ energy system designs and analysis of interactions between technologies.
 - [PoPS](https://github.com/ncsu-landscape-dynamics/rpops) - This is the R package for simulating spread of pests and pathogens.
 - [DiCRA](https://github.com/undpindia/dicra) - Provides open access to key geospatial datasets pertinent to climate resilient agriculture.
 - [OpenOlitor](https://github.com/OpenOlitor/openolitor-server) - Administration platform for Community Supported Agriculture and for direct selling farming projects based on a subscription model.
+- [Grimgrains](https://github.com/hundredrabbits/Grimgrains) - A Plant-based cooking website.
 
 
 
