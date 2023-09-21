@@ -1338,6 +1338,7 @@ energy system designs and analysis of interactions between technologies.
 - [weatherOz](https://github.com/DPIRD-FSI/weatherOz) - Aims to facilitate access and download weather and climate data for Australia from Australian data sources.
 - [Climate Data Rescue](https://github.com/open-data-rescue/climate-data-rescue) - This application seeks to aid in the digitization of paper records through the crowd-sourced transcription of scanned image files, particularly documents ill-suited for Optical Character Recognition.
 - [Finch](https://github.com/bird-house/finch) - A Web Processing Service for Climate Indicators.
+- [era5cli](https://github.com/eWaterCycle/era5cli) - Command Line Interface to download ERA5 from Copernicus Climate Data Service.
 
 
 ### Meteorological Observation and Forecast
