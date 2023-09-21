@@ -131,6 +131,7 @@ If you're looking for an entry point into domains like renewable energy, climate
 - [pvdeg](https://github.com/NREL/PVDegradationTools) - Set of tools to calculate degradation responses and degradation related parameters for PV.
 - [solarthing](https://github.com/wildmountainfarms/solarthing) - An application that can monitor data from a variety of solar charge controllers and inverters.
 - [solXpect](https://github.com/woheller69/solxpect) - Android app to forecast the output of your photovoltaic system (PV) or balcony pv using data from Open-Meteo.com.
+- [Solar Stations](https://github.com/AssessingSolar/solarstations) - A catalog of high-quality solar radiation monitoring stations.
 
 ### Wind Energy
 
