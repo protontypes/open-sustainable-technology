@@ -25,6 +25,7 @@
 
 ## Consumption of Energy and Resources 
 
+- [Learn Brightway](https://github.com/brightway-lca/brightway-book) - The interactive learning and teaching documentation for the Brightway life-cycle assessment software package.
 - [openlca-python-tutorial](https://github.com/GreenDelta/openlca-python-tutorial) - Explains the usage of the openLCA API from Python.
 - [GreenCity](https://github.com/ita-social-projects/GreenCity) - Teach people in a playful and challenging way to have an eco-friendly lifestyle.
 - [Advanced Urban Analytics](https://github.com/gboeing/ppd599) - This course series takes a computational social science approach to working with urban data.
