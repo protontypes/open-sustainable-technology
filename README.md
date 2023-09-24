@@ -1405,6 +1405,7 @@ energy system designs and analysis of interactions between technologies.
 - [BG_Flood](https://github.com/CyprienBosserelle/BG_Flood) - The model is designed to simulate flood/inundation caused by tsunami, river, rain, tide or storm surge (from wind stress or atm pressure differential) or any combination of these.
 - [TATHU](https://github.com/uba/tathu) - A Python package for tracking and analyzing the life cycle of thunderstorms.
 - [Risk Data Library Standard](https://github.com/GFDRR/rdl-standard) - Provides a common description of the data used and produced in risk assessments, including hazard, exposure, vulnerability, and modelled loss, or impact, data.
+- [Global Flood Monitor](https://github.com/jensdebruijn/Global-Flood-Monitor) - A global database of historic and real-time flood events based on social media.
 
 ### Radiative Transfer
 
