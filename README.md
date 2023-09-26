@@ -995,6 +995,7 @@ energy system designs and analysis of interactions between technologies.
 - [mermaidr](https://github.com/data-mermaid/mermaidr) - An open-source data platform developed to help you collect, analyze, and share coral reef monitoring data.
 - [datazoom.amazonia](https://github.com/datazoompuc/datazoom.amazonia) - Facilitates access to official Brazilian Amazon data, including agriculture, deforestation, production.
 - [RSP](https://github.com/YuriNiella/RSP) - Refining the Shortest Paths of animals tracked with acoustic transmitters in estuarine regions.
+- [hydrobr](https://github.com/hydroversebr/hydrobr) - Help users select, download and clean data from pluvio- and fluviometric stations from the Brazilian National Water Agency.
 
 
 
