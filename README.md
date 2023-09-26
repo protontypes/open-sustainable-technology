@@ -1139,6 +1139,7 @@ energy system designs and analysis of interactions between technologies.
 - [RUBEM](https://github.com/LabSid-USP/RUBEM) - A distributed hydrological model to calculate monthly flows with changes in land use over time.
 - [pywatershed](https://github.com/EC-USGS/pywatershed) - A sustainable integrated, hydrologic modeling framework for the U.S. Geological Survey.
 - [hddtools](https://github.com/ropensci/hddtools) - An open source project designed to facilitate access to a variety of online open data sources relevant for hydrologists and, in general, environmental scientists and practitioners.
+- [pygetm](https://github.com/BoldingBruggeman/getm-rewrite) - A Python rewrite of the General Estuarine Transport Model.
 
 
 ### Atmosphere
