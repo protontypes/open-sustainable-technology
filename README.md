@@ -1141,6 +1141,7 @@ energy system designs and analysis of interactions between technologies.
 - [hddtools](https://github.com/ropensci/hddtools) - An open source project designed to facilitate access to a variety of online open data sources relevant for hydrologists and, in general, environmental scientists and practitioners.
 - [pygetm](https://github.com/BoldingBruggeman/getm-rewrite) - A Python rewrite of the General Estuarine Transport Model.
 - [Digital Earth Australia Coastlines](https://github.com/GeoscienceAustralia/dea-coastlines) - Extracting tidally-constrained annual shorelines and robust rates of coastal change from freely available Earth observation data at continental scale.
+- [Thetis](https://github.com/thetisproject/thetis) - An unstructured grid coastal ocean model built using the Firedrake finite element framework.
 
 
 ### Atmosphere
