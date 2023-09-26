@@ -1411,6 +1411,7 @@ energy system designs and analysis of interactions between technologies.
 - [TATHU](https://github.com/uba/tathu) - A Python package for tracking and analyzing the life cycle of thunderstorms.
 - [Risk Data Library Standard](https://github.com/GFDRR/rdl-standard) - Provides a common description of the data used and produced in risk assessments, including hazard, exposure, vulnerability, and modelled loss, or impact, data.
 - [Global Flood Monitor](https://github.com/jensdebruijn/Global-Flood-Monitor) - A global database of historic and real-time flood events based on social media.
+- [ASGS](https://github.com/StormSurgeLive/asgs) - Provides software infrastructure for automating coastal ocean modelling for real time hurricane decision support.
 
 ### Radiative Transfer
 
