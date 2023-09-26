@@ -993,7 +993,7 @@ energy system designs and analysis of interactions between technologies.
 - [3D Forest](https://github.com/VUKOZ-OEL/3d-forest) - Visualization, processing and analysis of Lidar point clouds, mainly focused on forest environment.
 - [mermaidr](https://github.com/data-mermaid/mermaidr) - An open-source data platform developed to help you collect, analyze, and share coral reef monitoring data.
 - [datazoom.amazonia](https://github.com/datazoompuc/datazoom.amazonia) - Facilitates access to official Brazilian Amazon data, including agriculture, deforestation, production.
-- [RSP](https://github.com/YuriNiella/RSP) - Refining the Shortest Paths of animals tracked with acoustic transmitters in estuarine regions
+- [RSP](https://github.com/YuriNiella/RSP) - Refining the Shortest Paths of animals tracked with acoustic transmitters in estuarine regions.
 
 
 ### Cryosphere
@@ -1140,6 +1140,7 @@ energy system designs and analysis of interactions between technologies.
 - [pywatershed](https://github.com/EC-USGS/pywatershed) - A sustainable integrated, hydrologic modeling framework for the U.S. Geological Survey.
 - [hddtools](https://github.com/ropensci/hddtools) - An open source project designed to facilitate access to a variety of online open data sources relevant for hydrologists and, in general, environmental scientists and practitioners.
 - [pygetm](https://github.com/BoldingBruggeman/getm-rewrite) - A Python rewrite of the General Estuarine Transport Model.
+- [Digital Earth Australia Coastlines](https://github.com/GeoscienceAustralia/dea-coastlines) - Extracting tidally-constrained annual shorelines and robust rates of coastal change from freely available Earth observation data at continental scale.
 
 
 ### Atmosphere
