@@ -248,6 +248,7 @@ If you're looking for an entry point into domains like renewable energy, climate
 - [emobpy](https://gitlab.com/diw-evu/emobpy/emobpy) - An open tool for creating battery-electric vehicle time series from empirical data.
 - [BattMo](https://github.com/BattMoTeam/BattMo) - The Battery Modelling Toolbox (BattMo) is a resource for continuum modelling of electrochemical devices in MATLAB.
 - [LiBRA](https://github.com/BradyPlanden/LiiBRA.jl) - Create reduced-order state-space models for lithium-ion batteries utilising realisation algorithms.
+- [PyBOP](https://github.com/pybop-team/PyBOP) - Provides a comprehensive suite of tools for parameterisation and optimisation of battery models.
 
 ### Hydrogen
 
