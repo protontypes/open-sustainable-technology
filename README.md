@@ -993,6 +993,7 @@ energy system designs and analysis of interactions between technologies.
 - [3D Forest](https://github.com/VUKOZ-OEL/3d-forest) - Visualization, processing and analysis of Lidar point clouds, mainly focused on forest environment.
 - [mermaidr](https://github.com/data-mermaid/mermaidr) - An open-source data platform developed to help you collect, analyze, and share coral reef monitoring data.
 - [datazoom.amazonia](https://github.com/datazoompuc/datazoom.amazonia) - Facilitates access to official Brazilian Amazon data, including agriculture, deforestation, production.
+- [RSP](https://github.com/YuriNiella/RSP) - Refining the Shortest Paths of animals tracked with acoustic transmitters in estuarine regions
 
 
 ### Cryosphere
