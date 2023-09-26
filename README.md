@@ -991,7 +991,8 @@ energy system designs and analysis of interactions between technologies.
 - [python-dwca-reader](https://github.com/BelgianBiodiversityPlatform/python-dwca-reader) - A Python package to read and parse Darwin Core Archive (DwC-A) files, as produced by the GBIF website, the IPT and many other biodiversity informatics tools.
 - [Pyronear API](https://github.com/pyronear/pyro-api) - Alert Management API for wildfire prevention, detection & monitoring.
 - [3D Forest](https://github.com/VUKOZ-OEL/3d-forest) - Visualization, processing and analysis of Lidar point clouds, mainly focused on forest environment.
-- [mermaidr](https://github.com/data-mermaid/mermaidr) - An open-source data platform developed to help you collect, analyze, and share coral reef monitoring data. 
+- [mermaidr](https://github.com/data-mermaid/mermaidr) - An open-source data platform developed to help you collect, analyze, and share coral reef monitoring data.
+- [datazoom.amazonia](https://github.com/datazoompuc/datazoom.amazonia) - Facilitates access to official Brazilian Amazon data, including agriculture, deforestation, production.
 
 
 ### Cryosphere
