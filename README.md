@@ -1836,6 +1836,7 @@ energy system designs and analysis of interactions between technologies.
 - [NASA CMR STAC](https://github.com/nasa/cmr-stac) - NASA's Common Metadata Repository is a metadata catalog of NASA Earth Science data.
 - [satlas](https://github.com/allenai/satlas) - Aims to provide open AI-generated geospatial data that is highly accurate, available globally, and updated on a frequent (monthly) basis.
 - [landsatxplore](https://github.com/yannforget/landsatxplore) - Provides an interface to the EarthExplorer portal to search and download Landsat Collections scenes through a command-line interface or a Python API.
+- [env_canada](https://github.com/michaeldavie/env_canada) - Provides access to various data sources published by Environment and Climate Change Canada.
 
 ### Curated Lists
 
