@@ -1148,6 +1148,7 @@ energy system designs and analysis of interactions between technologies.
 - [Thetis](https://github.com/thetisproject/thetis) - An unstructured grid coastal ocean model built using the Firedrake finite element framework.
 - [CWWED](https://github.com/flackdl/cwwed) - Serves as an interactive GIS database for hosting and disseminating post-storm assessment data created by the Named Storm Event Model.
 - [OceanMesh2D](https://github.com/CHLNDDEV/OceanMesh2D) - Precise distance-based two-dimensional automated mesh generation toolbox intended for coastal ocean/shallow water flow models.
+- [MuSA](https://github.com/ealonsogzl/MuSA) - A flexible data assimilation toolbox for experimental and operational snowpack reanalysis development.
 
 
 ### Atmosphere
