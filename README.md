@@ -1702,7 +1702,7 @@ energy system designs and analysis of interactions between technologies.
 - [OpenOlitor](https://github.com/OpenOlitor/openolitor-server) - Administration platform for Community Supported Agriculture and for direct selling farming projects based on a subscription model.
 - [Grimgrains](https://github.com/hundredrabbits/Grimgrains) - A Plant-based cooking website.
 - [extractOz](https://github.com/DPIRD-FSI/extractOz) - Extract the Global Runoff Data Centre agroecological zone, major soil order and weather data from your GPS sampling points.
-- [PyAEZ](https://github.com/gicait/PyAEZ) - A python package consisted of many algorithms related to Agro-ecalogical zoning (AEZ) framework.
+- [PyAEZ](https://github.com/gicait/PyAEZ) - A python package consisted of many algorithms related to Agro-ecological zoning (AEZ) framework.
 
 
 
