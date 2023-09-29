@@ -1386,6 +1386,7 @@ energy system designs and analysis of interactions between technologies.
 - [WeatherBench 2](https://github.com/google-research/weatherbench2) - A framework for evaluating and comparing data-driven and traditional numerical weather forecasting models.
 - [MeteoHist](https://github.com/yotkadata/meteo_hist) - A Streamlit app to create interactive temperature and precipitation graphs for places around the world.
 - [ecPoint-Calibrate](https://github.com/ecmwf/ecpoint-calibrate) - A software that uses conditional verification tools to compare numerical weather prediction model outputs against point observations and, in this way, anticipate sub-grid variability and identify biases at grid scale.
+- [imdlib](https://github.com/iamsaswata/imdlib) - Download and handle binary grided data from Indian Meterological department.
 
 
 ### Natural Hazard and Storm
