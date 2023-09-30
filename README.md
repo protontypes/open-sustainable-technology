@@ -998,6 +998,7 @@ energy system designs and analysis of interactions between technologies.
 - [RSP](https://github.com/YuriNiella/RSP) - Refining the Shortest Paths of animals tracked with acoustic transmitters in estuarine regions.
 - [hydrobr](https://github.com/hydroversebr/hydrobr) - Help users select, download and clean data from pluvio- and fluviometric stations from the Brazilian National Water Agency.
 - [ROMS](https://github.com/myroms/roms) - A free-surface, terrain-following, primitive equations ocean model widely used by the scientific community for a diverse range of applications.
+- [gbifdb](https://github.com/ropensci/gbifdb) - Provide a relational database interface to a parquet based serializations of gbif’s AWS snapshots of its public data.
 
 
 ### Cryosphere
