@@ -1002,6 +1002,7 @@ energy system designs and analysis of interactions between technologies.
 - [ROMS](https://github.com/myroms/roms) - A free-surface, terrain-following, primitive equations ocean model widely used by the scientific community for a diverse range of applications.
 - [gbifdb](https://github.com/ropensci/gbifdb) - Provide a relational database interface to a parquet based serializations of gbif's AWS snapshots of its public data.
 - [diversitree](https://github.com/richfitz/diversitree) - Includes a number of comparative phylogenetic methods, mostly focussing on analysing diversification and character evolution.
+- [aspe](https://github.com/PascalIrz/aspe) - An R package to analyse and visualise river fish data in France.
 
 
 ### Cryosphere
