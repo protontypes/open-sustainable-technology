@@ -687,6 +687,7 @@ energy system designs and analysis of interactions between technologies.
 - [Camunda Carbon Reductor](https://github.com/envite-consulting/camunda-carbon-reductor) - Allows you to time shift your processes' carbon emissions when energy is clean while still fulfilling the requested service level agreement.
 - [Quell](https://github.com/rollthecloudinc/quell) - The Content Management Software that combats climate change stopping web carbon production in its tracks.
 - [Vessim](https://github.com/dos-group/vessim) - It lets users connect domain-specific simulators for energy system components like renewable power generation, energy storage, and power flow analysis with real software and hardware.
+- [Ecoindex_cli](https://github.com/cnumr/ecoindex_cli) - This tool provides an easy way to analyze websites with Ecoindex from your local computer using multi-threading.
 
 ## Emissions
 
