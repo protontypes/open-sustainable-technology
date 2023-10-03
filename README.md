@@ -1846,6 +1846,7 @@ energy system designs and analysis of interactions between technologies.
 - [landsatxplore](https://github.com/yannforget/landsatxplore) - Provides an interface to the EarthExplorer portal to search and download Landsat Collections scenes through a command-line interface or a Python API.
 - [env_canada](https://github.com/michaeldavie/env_canada) - Provides access to various data sources published by Environment and Climate Change Canada.
 - [EML](https://github.com/NCEAS/eml) - An open source, community oriented project dedicated to providing a high-quality metadata specification for describing data relevant to diverse disciplines that involve observational research like ecology, earth, and environmental science.
+- [DataONE](https://github.com/DataONEorg/d1_python) - A community driven project providing access to data across multiple member repositories, supporting enhanced search and discovery of Earth and environmental data.
 
 ### Curated Lists
 
