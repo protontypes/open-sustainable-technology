@@ -242,7 +242,6 @@ If you're looking for an entry point into domains like renewable energy, climate
 - [long-live-the-battery](https://github.com/dsr-18/long-live-the-battery) - Predicting total battery cycle life time with machine learning.
 - [ISEAFramework](https://git.rwth-aachen.de/isea/framework) - Allows coupled electrical-thermal simulations of single storage systems (e.g. lithium ion batteries or double layer capacitors) or complete storage system packs.
 - [Ampere](https://github.com/nealde/Ampere) - Advanced Model Package for ElectRochemical Experiments.
-- [StorageVET](https://github.com/epri-dev/StorageVET) - A valuation model for analysis of energy storage technologies and some other energy resources paired with storage.
 - [offgridsystems](https://github.com/offgridsystems/Documents) - Data sheet and assembly manual, component data sheets, busbars and files needed to build no-weld wireless BMS DKblock style battery packs.
 - [3d_milp](https://github.com/ElektrikAkar/3d_milp) - Energy Arbitrage Optimization With Battery Storage.
 - [LIONSIMBA](https://github.com/lionsimbatoolbox/LIONSIMBA) - A Matlab framework based on a finite volume model suitable for Li-ion battery design, simulation, and control.
@@ -377,6 +376,8 @@ If you're looking for an entry point into domains like renewable energy, climate
 - [FAME](https://gitlab.com/fame-framework/fame-core) - Its purpose is supporting the rapid development and fast execution of complex agent-based energy system simulations.
 - [REMix](https://gitlab.com/dlr-ve/esy/remix/framework) - The main focus is on the broad techno-economical assessment of possible future
 energy system designs and analysis of interactions between technologies.
+- [StorageVET](https://github.com/epri-dev/StorageVET) - A valuation model for analysis of energy storage technologies and some other energy resources paired with storage.
+- [OpenDER](https://github.com/epri-dev/OpenDER) - Aims to accurately represent steady-state and dynamic behaviors of inverter-based distributed energy resources.
 
 ### Energy Distribution and Grids
 
