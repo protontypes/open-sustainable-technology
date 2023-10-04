@@ -133,6 +133,7 @@ If you're looking for an entry point into domains like renewable energy, climate
 - [solXpect](https://github.com/woheller69/solxpect) - Android app to forecast the output of your photovoltaic system (PV) or balcony pv using data from Open-Meteo.com.
 - [Solar Stations](https://github.com/AssessingSolar/solarstations) - A catalog of high-quality solar radiation monitoring stations.
 - [OTSun](https://github.com/bielcardona/OTSun) - A python package that uses the Monte Carlo Forward Ray Tracing for the optical analysis of Solar Thermal Collectors and Solar Cells.
+- [pvOps](https://github.com/sandialabs/pvOps) - Contains a series of functions to facilitate fusion of text-based data with time series production data collected at photovoltaic sites.
 
 ### Wind Energy
 
@@ -1544,7 +1545,7 @@ energy system designs and analysis of interactions between technologies.
 - [aguaclara](https://github.com/AguaClara/aguaclara) - A Python package for designing and performing research on AguaClara water treatment plants.
 - [RTC-Tools](https://gitlab.com/deltares/rtc-tools) - A toolbox for control and optimization of water systems.
 - [EPANET](https://github.com/OpenWaterAnalytics/EPANET) - The Water Distribution System Hydraulic and Water Quality Analysis Toolkit.
-- [EPANET-RTX Library](https://github.com/OpenWaterAnalytics/epanet-rtx) - the real-time extension to the EPANET Hydraulic Toolkit.
+- [EPANET-RTX Library](https://github.com/OpenWaterAnalytics/epanet-rtx) - The real-time extension to the EPANET Hydraulic Toolkit.
 - [EPyT](https://github.com/OpenWaterAnalytics/EPyT) - A Common programming framework for research and development in the growing field of smart water networks.
 - [pyswmm](https://github.com/OpenWaterAnalytics/pyswmm) - Python Wrapper for Stormwater Management Model.
 - [SWMM5plus](https://github.com/CIMM-ORG/SWMM5plus) - Prototype Fortran 2008 engine for the EPA Storm Water Management Model.
