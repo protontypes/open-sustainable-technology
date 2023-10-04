@@ -1587,6 +1587,7 @@ energy system designs and analysis of interactions between technologies.
 - [SPEI](https://github.com/martinvonk/SPEI) - Calculate and visualize some popular drought indices such as the SPI, SPEI and SGI.
 - [GISWATER](https://github.com/Giswater/giswater_qgis_plugin) - This software connects different IT solutions and pre-existent databases allowing you to setup a high performance water management system in combination with hydraulic software.
 - [Ribasim](https://github.com/Deltares/Ribasim) - A water resources model, designed to be the replacement of the regional surface water modules Mozart and SIMRES in the Netherlands Hydrological Instrument.
+- [EPyT](https://github.com/OpenWaterAnalytics/EPyT) - A Common programming framework for research and development in the growing field of smart water networks.
 
 
 ### Soil and Land
