@@ -1399,6 +1399,8 @@ energy system designs and analysis of interactions between technologies.
 - [MeteoHist](https://github.com/yotkadata/meteo_hist) - A Streamlit app to create interactive temperature and precipitation graphs for places around the world.
 - [ecPoint-Calibrate](https://github.com/ecmwf/ecpoint-calibrate) - A software that uses conditional verification tools to compare numerical weather prediction model outputs against point observations and, in this way, anticipate sub-grid variability and identify biases at grid scale.
 - [imdlib](https://github.com/iamsaswata/imdlib) - Download and handle binary grided data from Indian Meterological department.
+- [goes2go](https://github.com/blaylockbk/goes2go) - Download and process GOES-16 and GOES-17 data from NOAA's archive on AWS using Python.
+
 
 
 ### Natural Hazard and Storm
@@ -1590,7 +1592,7 @@ energy system designs and analysis of interactions between technologies.
 - [SPEI](https://github.com/martinvonk/SPEI) - Calculate and visualize some popular drought indices such as the SPI, SPEI and SGI.
 - [GISWATER](https://github.com/Giswater/giswater_qgis_plugin) - This software connects different IT solutions and pre-existent databases allowing you to setup a high performance water management system in combination with hydraulic software.
 - [Ribasim](https://github.com/Deltares/Ribasim) - A water resources model, designed to be the replacement of the regional surface water modules Mozart and SIMRES in the Netherlands Hydrological Instrument.
-- [Pywr](https://github.com/pywr/pywr) - Simulates customisable water allocation and operation rules throughout complex multi-purpose managed water systems at each user-defined time-step
+- [Pywr](https://github.com/pywr/pywr) - Simulates customisable water allocation and operation rules throughout complex multi-purpose managed water systems at each user-defined time-step.
 
 
 ### Soil and Land
