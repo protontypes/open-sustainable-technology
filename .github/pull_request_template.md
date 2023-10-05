@@ -1,5 +1,5 @@
-**Insert URLs to the project(s) here:**      
+**Insert URLs to the project here:**      
 [ Your URLs ]
 
-**Explain what this list is about and why it should be included here:**     
+**In one sentence, explain what the project is about:**
 [ Your Text ]
