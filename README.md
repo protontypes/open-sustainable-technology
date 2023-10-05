@@ -168,6 +168,7 @@ If you're looking for an entry point into domains like renewable energy, climate
 - [SHARPy](https://github.com/ImperialCollegeLondon/sharpy) - Simulation of High Aspect Ratio aeroplanes and wind turbines in Python.
 - [WindSE](https://github.com/NREL/WindSE) - A Python package that uses a FEniCS backend to perform wind farm simulations and optimization.
 - [WEIS](https://github.com/WISDEM/WEIS) - WEIS is a framework that combines multiple tools to enable design optimization of floating offshore wind turbines.
+- [pyNuMAD](https://github.com/sandialabs/pyNuMAD) - pyNuMAD is an object-oriented, open-source software written in Python which facilitates the creation and analysis of three-dimensional models of wind turbine blades. 
 - [HAMS](https://github.com/YingyiLiu/HAMS) - An open-source computer program for the analysis of wave diffraction and radiation of three-dimensional floating or submerged structures.
 - [brightwind](https://github.com/brightwind-dev/brightwind) - A Python library aims to empower wind resource analysts and establish a common industry standard toolset.
 - [NRWAL](https://github.com/NREL/NRWAL) - A library of offshore wind cost equations.
