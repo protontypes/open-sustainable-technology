@@ -1011,6 +1011,7 @@ energy system designs and analysis of interactions between technologies.
 - [diversitree](https://github.com/richfitz/diversitree) - Includes a number of comparative phylogenetic methods, mostly focussing on analysing diversification and character evolution.
 - [aspe](https://github.com/PascalIrz/aspe) - An R package to analyse and visualise river fish data in France.
 - [sgsR](https://github.com/tgoodbody/sgsR) - A structurally guided sampling toolbox for LiDAR-based forest inventories.
+- [forest-risks](https://github.com/carbonplan/forest-risks) - Mapping forest carbon potential and risks.
 
 
 ### Cryosphere
@@ -1659,8 +1660,7 @@ energy system designs and analysis of interactions between technologies.
 - [QA4SM](https://github.com/awst-austria/qa4sm) - Provides an operational online validation service for soil moisture products.
 - [envalysis](https://github.com/zsteinmetz/envalysis) - An R package containing miscellaneous functions for data analysis in environmental chemistry and ecotoxicolog.
 - [Statistics for Soil Survey](https://github.com/ncss-tech/stats_for_soil_survey) - Develop solutions to investigate soil survey correlation problems and update activities.
-- [CRITERIA3D](https://github.com/ARPA-SIMC/CRITERIA3D) - Includes a numerical solution for three-dimensional water and heat flow in the soil, coupled surface and subsurface flow, meteorological data interpolation, radiation budget, crop development and crop water uptake.
-- [CRITERIA1D](https://github.com/ARPA-SIMC/CRITERIA1D) - Agro-hydrological model that simulates one-dimensional water flow in variable saturation soils, crop development, root water extraction and irrigation water needs.
+
 
 ### Agriculture and Nutrition
 
@@ -1724,7 +1724,8 @@ energy system designs and analysis of interactions between technologies.
 - [Grimgrains](https://github.com/hundredrabbits/Grimgrains) - A Plant-based cooking website.
 - [extractOz](https://github.com/DPIRD-FSI/extractOz) - Extract the Global Runoff Data Centre agroecological zone, major soil order and weather data from your GPS sampling points.
 - [PyAEZ](https://github.com/gicait/PyAEZ) - A python package consisted of many algorithms related to Agro-ecological zoning (AEZ) framework.
-- []()
+- [CRITERIA3D](https://github.com/ARPA-SIMC/CRITERIA3D) - Includes a numerical solution for three-dimensional water and heat flow in the soil, coupled surface and subsurface flow, meteorological data interpolation, radiation budget, crop development and crop water uptake.
+- [CRITERIA1D](https://github.com/ARPA-SIMC/CRITERIA1D) - Agro-hydrological model that simulates one-dimensional water flow in variable saturation soils, crop development, root water extraction and irrigation water needs.
 
 
 
