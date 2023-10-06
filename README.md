@@ -1536,7 +1536,6 @@ energy system designs and analysis of interactions between technologies.
 - [Imod-Python](https://gitlab.com/deltares/imod/imod-python) - Designed to help you in your MODFLOW groundwater modeling efforts.
 - [pysheds](https://github.com/mdbartos/pysheds) - Simple and fast watershed delineation in Python.
 - [WhiteboxTools](https://github.com/jblindsay/whitebox-tools) - WhiteboxTools is an advanced geospatial data analysis platform.
-- [CRITERIA3D](https://github.com/ARPA-SIMC/CRITERIA3D) - Includes a numerical solution for three-dimensional water and heat flow in the soil, coupled surface and subsurface flow, meteorological data interpolation, radiation budget, crop development and crop water uptake.
 - [Water Network Tool for Resilience](https://github.com/USEPA/WNTR) - A Python package designed to simulate and analyze resilience of water distribution networks.
 - [fasstr](https://github.com/bcgov/fasstr) - An R package to analyze, summarize, and visualize daily streamflow data.
 - [KnowFlow](https://github.com/KnowFlow/KnowFlow_AWM) - KnowFlow Automatic Water Monitoring device is an open source tool enabling everyone to have access to first hand water quality data with low cost.
@@ -1660,7 +1659,8 @@ energy system designs and analysis of interactions between technologies.
 - [QA4SM](https://github.com/awst-austria/qa4sm) - Provides an operational online validation service for soil moisture products.
 - [envalysis](https://github.com/zsteinmetz/envalysis) - An R package containing miscellaneous functions for data analysis in environmental chemistry and ecotoxicolog.
 - [Statistics for Soil Survey](https://github.com/ncss-tech/stats_for_soil_survey) - Develop solutions to investigate soil survey correlation problems and update activities.
-
+- [CRITERIA3D](https://github.com/ARPA-SIMC/CRITERIA3D) - Includes a numerical solution for three-dimensional water and heat flow in the soil, coupled surface and subsurface flow, meteorological data interpolation, radiation budget, crop development and crop water uptake.
+- [CRITERIA1D](https://github.com/ARPA-SIMC/CRITERIA1D) - Agro-hydrological model that simulates one-dimensional water flow in variable saturation soils, crop development, root water extraction and irrigation water needs.
 
 ### Agriculture and Nutrition
 
@@ -1724,6 +1724,7 @@ energy system designs and analysis of interactions between technologies.
 - [Grimgrains](https://github.com/hundredrabbits/Grimgrains) - A Plant-based cooking website.
 - [extractOz](https://github.com/DPIRD-FSI/extractOz) - Extract the Global Runoff Data Centre agroecological zone, major soil order and weather data from your GPS sampling points.
 - [PyAEZ](https://github.com/gicait/PyAEZ) - A python package consisted of many algorithms related to Agro-ecological zoning (AEZ) framework.
+- []()
 
 
 
