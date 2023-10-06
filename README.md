@@ -550,6 +550,7 @@ energy system designs and analysis of interactions between technologies.
 - [Urban Multi-scale Environmental Predictor](https://github.com/UMEP-dev/UMEP) - A climate service tool, designed for researchers and service providers presented as a plugin for QGIS.
 - [Urban Weather Generator](https://github.com/ladybug-tools/uwg) - A Python application for modeling the urban heat island effect.
 - [eensight](https://github.com/hebes-io/eensight) - This Python package implements the measurement and verification (M&V) methodology that has been developed by the H2020 project SENSEI - Smart Energy Services to Improve the Energy Efficiency of the European Building Stock.
+- [PointER](https://github.com/kdmayer/PointER) - A LiDAR-Derived Point Cloud Dataset of One Million English Buildings Linked to Energy Characteristics.
 
 ### Mobility and Transportation
 
