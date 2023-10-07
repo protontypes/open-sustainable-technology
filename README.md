@@ -1766,6 +1766,7 @@ energy system designs and analysis of interactions between technologies.
 - [WikiRate](https://github.com/wikirate/wikirate) - Facilitates research and analysis on complex topics in collaboration with partners, to make ESG data open, comparable and useful for all.
 - [Equinox](https://github.com/open-risk/equinox) - Supports the holistic risk management of sustainable finance projects.
 - [PACTA](https://github.com/RMI-PACTA/pactaverse) - Measuring the alignment of financial portfolios with climate scenarios.
+- [Dataland](https://github.com/d-fine/Dataland) - A decentralized ecosystem for raw ESG-data where market participants exchange ESG-data in a transparent way.
 
 
 ### Knowledge Platforms
