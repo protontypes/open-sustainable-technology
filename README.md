@@ -1011,7 +1011,6 @@ energy system designs and analysis of interactions between technologies.
 - [diversitree](https://github.com/richfitz/diversitree) - Includes a number of comparative phylogenetic methods, mostly focussing on analysing diversification and character evolution.
 - [aspe](https://github.com/PascalIrz/aspe) - An R package to analyse and visualise river fish data in France.
 - [sgsR](https://github.com/tgoodbody/sgsR) - A structurally guided sampling toolbox for LiDAR-based forest inventories.
-- [forest-risks](https://github.com/carbonplan/forest-risks) - Mapping forest carbon potential and risks.
 
 
 ### Cryosphere
@@ -1288,6 +1287,7 @@ energy system designs and analysis of interactions between technologies.
 - [CMIP6_CVs](https://github.com/WCRP-CMIP/CMIP6_CVs) - Core Controlled Vocabularies for use in CMIP6.
 - [CleF](https://github.com/coecms/clef) - Searches the Earth System Grid Federation datasets stored at the Australian National Computational Infrastructure, both data published on the NCI ESGF node as well as files that are locally replicated from other ESGF nodes.
 - [XCast](https://github.com/kjhall01/xcast) - A free and open source climate forecasting toolkit written by Kyle Hall & Nachiketa Acharya, designed to help forecasters and earth scientists apply state-of-the-art postprocessing techniques to gridded data sets.
+- [earth2mip](https://github.com/NVIDIA/earth2mip) - A python framework that enables climate researchers and scientists to explore and experiment with AI models for weather and climate.
 
 
 ### Climate Data Processing and Access
