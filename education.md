@@ -61,6 +61,7 @@
 - [EO College](https://eo-college.org/) - This course is part of a series of online learning materials that will give you insights on the potential of remote sensing technologies for applications over land surfaces.
 - [LPDAAC-Data-Resource](https://github.com/nasa/LPDAAC-Data-Resources) - This repository is a place to find data user resources that demonstrate how to use NASA Land Processes Distributed Active Archive Center (LP DAAC) tools, services, and data.
 - [E-TRAINEE](https://github.com/3dgeo-heidelberg/etrainee) - Course on Time Series Analysis in Remote Sensing for Understanding Human-Environment Interactions
+- [GALUP](https://github.com/SERVIR-WA/GALUP) - Build local capacity in the region of Ghana regarding remote sensing and GIS, and transfer the land use planning framework for continued planning.
 
 
 ## Earth Systems 
