@@ -194,7 +194,7 @@ If you're looking for developer tutorials on topics such as renewable energy, cl
 - [BEMRosetta](https://github.com/BEMRosetta/BEMRosetta) - Used to model hydrodynamic forces in offshore devices like ships, offshore wind platforms and wave energy converters.
 - [Capytaine](https://github.com/mancellin/capytaine) - A Python package for the simulation of the interaction between water waves and floating bodies in frequency domain.
 - [reservoir](https://github.com/swd-turner/reservoir) - Tools for Analysis, Design, and Operation of Water Supply Storages.
-- [DOLPHYN](https://github.com/macroenergy/DOLPHYN) - evaluates investments and operations across the bulk supply chain for electricity and Hydrogen including production, storage, transmission, conditioning, and end-use consumption.
+- [DOLPHYN](https://github.com/macroenergy/DOLPHYN) - Evaluates investments and operations across the bulk supply chain for electricity and Hydrogen including production, storage, transmission, conditioning, and end-use consumption.
 
 
 ### Geothermal Energy
@@ -1021,6 +1021,7 @@ energy system designs and analysis of interactions between technologies.
 - [aspe](https://github.com/PascalIrz/aspe) - An R package to analyse and visualise river fish data in France.
 - [sgsR](https://github.com/tgoodbody/sgsR) - A structurally guided sampling toolbox for LiDAR-based forest inventories.
 - [Mesogeos](https://github.com/Orion-AI-Lab/mesogeos) - A multi-purpose dataset for data-driven wildfire modeling in the Mediterranean.
+- [BirdNET-Analyzer](https://github.com/kahst/BirdNET-Analyzer) - A deep learning solution for avian diversity monitoring.
 
 
 ### Cryosphere
