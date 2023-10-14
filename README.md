@@ -1178,6 +1178,7 @@ energy system designs and analysis of interactions between technologies.
 - [MuSA](https://github.com/ealonsogzl/MuSA) - A flexible data assimilation toolbox for experimental and operational snowpack reanalysis development.
 - [oceanmesh](https://github.com/CHLNDDEV/oceanmesh) - A Python package for the development of unstructured triangular meshes that are used in the simulation of coastal ocean circulation.
 - [AeoLiS](https://github.com/openearth/aeolis-python) - Simulating aeolian sediment transport in situations where supply-limiting factors are important, like in coastal environments.
+- [REEF3D](https://github.com/REEF3D/REEF3D) - An efficiently parallelized hydrodynamics framework with a focus on coastal, marine and hydraulic engineering flows.
 
 
 ### Atmosphere
