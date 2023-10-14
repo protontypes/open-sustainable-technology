@@ -1391,6 +1391,7 @@ energy system designs and analysis of interactions between technologies.
 - [era5cli](https://github.com/eWaterCycle/era5cli) - Command Line Interface to download ERA5 from Copernicus Climate Data Service.
 - [TopoPyScale](https://github.com/ArcticSnow/TopoPyScale) - Perform topography-based downscaling of climate data to the hillslope scale.
 - [Sacpy](https://github.com/ZiluM/sacpy) - An effecient Statistical Analysis tool (e.g. regression, EOF, MCA) for Climate and Meteorology data.
+- [SpatIndex](https://github.com/obaezvil/SpatIndex) - This R package provides a simple way of computing spatially-distributed drought and extreme indices.
 
 
 ### Meteorological Observation and Forecast
