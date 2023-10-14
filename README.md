@@ -1024,6 +1024,7 @@ energy system designs and analysis of interactions between technologies.
 - [BirdNET-Analyzer](https://github.com/kahst/BirdNET-Analyzer) - A deep learning solution for avian diversity monitoring.
 - [r3PG](https://github.com/trotsiuk/r3PG) - An R package for forest growth simulation using the 3-PG process-based model.
 - [restoptr](https://github.com/dimitri-justeau/restoptr) - Aims to identify priority areas for restoration efforts using optimization algorithms.
+- [EcoAssist](https://github.com/PetervanLunteren/EcoAssist) - An open-source application designed to streamline the work of ecologists dealing with camera trap images.
 
 
 ### Cryosphere
