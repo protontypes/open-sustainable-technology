@@ -1023,6 +1023,7 @@ energy system designs and analysis of interactions between technologies.
 - [Mesogeos](https://github.com/Orion-AI-Lab/mesogeos) - A multi-purpose dataset for data-driven wildfire modeling in the Mediterranean.
 - [BirdNET-Analyzer](https://github.com/kahst/BirdNET-Analyzer) - A deep learning solution for avian diversity monitoring.
 - [r3PG](https://github.com/trotsiuk/r3PG) - An R package for forest growth simulation using the 3-PG process-based model.
+- [restoptr](https://github.com/dimitri-justeau/restoptr) - Aims to identify priority areas for restoration efforts using optimization algorithms.
 
 
 ### Cryosphere
