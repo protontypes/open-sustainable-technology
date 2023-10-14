@@ -696,6 +696,7 @@ energy system designs and analysis of interactions between technologies.
 - [Vessim](https://github.com/dos-group/vessim) - It lets users connect domain-specific simulators for energy system components like renewable power generation, energy storage, and power flow analysis with real software and hardware.
 - [Ecoindex_cli](https://github.com/cnumr/ecoindex_cli) - This tool provides an easy way to analyze websites with Ecoindex from your local computer using multi-threading.
 - [Zeus](https://github.com/ml-energy/zeus) - A Framework for Deep Learning Energy Measurement and Optimization.
+- [perun](https://github.com/Helmholtz-AI-Energy/perun) - Calculates the energy consumption of Python scripts by sampling usage statistics from your hardware components.
 
 ## Emissions
 
