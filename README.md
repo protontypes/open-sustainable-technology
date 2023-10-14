@@ -381,6 +381,8 @@ energy system designs and analysis of interactions between technologies.
 - [StorageVET](https://github.com/epri-dev/StorageVET) - A valuation model for analysis of energy storage technologies and some other energy resources paired with storage.
 - [OpenDER](https://github.com/epri-dev/OpenDER) - Aims to accurately represent steady-state and dynamic behaviors of inverter-based distributed energy resources.
 - [HOPP](https://github.com/NREL/HOPP) - Assesses optimal designs for the deployment of utility-scale hybrid energy plants, particularly considering wind, solar and storage.
+- [ETM Pro](https://github.com/quintel/etmodel) - Professional interface of the Energy Transition model.
+- [MESMO](https://github.com/mesmo-dev/mesmo) - An open-source Python tool for the modeling, simulation and optimization of multi-scale electric and thermal distribution systems along with distributed energy resources.
 
 ### Energy Distribution and Grids
 
@@ -391,7 +393,6 @@ energy system designs and analysis of interactions between technologies.
 - [Egret](https://github.com/grid-parity-exchange/Egret) - A Python-based package for electrical grid optimization based on the Pyomo optimization modeling language.
 - [PyPSA-Eur](https://github.com/PyPSA/pypsa-eur) - An Open Optimization Model of the European Transmission System.
 - [Energy Transition Engine](https://github.com/quintel/etengine) - Calculation engine for the Energy Transition Model.
-- [ETM Pro](https://github.com/quintel/etmodel) - Professional interface of the Energy Transition model.
 - [Open Smart Grid Platform](https://github.com/OSGP/open-smart-grid-platform) - An open, generic, scalable and independent 'Internet of Things' platform, which enables various connected smart objects in the public space to be easily controlled and monitored.
 - [PowerModels.jl](https://github.com/lanl-ansi/PowerModels.jl) - Designed to enable computational evaluation of emerging power network formulations and algorithms in a common platform.
 - [PowerModelsAnnex.jl](https://github.com/lanl-ansi/PowerModelsAnnex.jl) - An extension of PowerModels.jl that provides a home for open source sharing of preliminary and/or exploratory methods in power system optimization.
@@ -631,7 +632,6 @@ energy system designs and analysis of interactions between technologies.
 - [Mobility](https://github.com/mobility-team/mobility) - An open-source solution to compute the carbon emissions due to the mobility of a local population.
 - [SpiceEV](https://github.com/rl-institut/spice_ev) - Simulation Program for Individual Charging Events of Electric Vehicles.
 - [EV Fleet Simulator](https://gitlab.com/eputs/ev-fleet-sim) - Predict the energy usage of a fleet of electric vehicles.
-- [WWCP_OCPP](https://github.com/OpenChargingCloud/WWCP_OCPP) - Connectivity between the World Wide Charging Protocol (WWCP) and the Open Charge Point Protocol (OCPP).
 
 
 ### Production and Industry
