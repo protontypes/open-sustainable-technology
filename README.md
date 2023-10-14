@@ -434,6 +434,7 @@ energy system designs and analysis of interactions between technologies.
 - [Electra](https://github.com/Alkia/electra) - Sovereign blockchain solution that enables local micro-grid to operate smoothly between trustless actors enabling a real circular economy based on the exchange of electricity units.
 - [SESMG](https://github.com/SESMG/SESMG) - An energy system model generator with the focus on the optimization of urban energy systems.
 - [GridPACK](https://github.com/GridOPTICS/GridPACK) - An open-source high-performance package for simulation of large-scale electrical grids.
+- [CLOVER](https://github.com/CLOVER-energy/CLOVER) - A minigrid simulation and optimisation for supporting rural electrification in developing countries.
 
 ### Energy Monitoring and Management 
 
