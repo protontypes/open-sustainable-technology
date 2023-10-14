@@ -380,6 +380,7 @@ If you're looking for developer tutorials on topics such as renewable energy, cl
 energy system designs and analysis of interactions between technologies.
 - [StorageVET](https://github.com/epri-dev/StorageVET) - A valuation model for analysis of energy storage technologies and some other energy resources paired with storage.
 - [OpenDER](https://github.com/epri-dev/OpenDER) - Aims to accurately represent steady-state and dynamic behaviors of inverter-based distributed energy resources.
+- [HOPP](https://github.com/NREL/HOPP) - Assesses optimal designs for the deployment of utility-scale hybrid energy plants, particularly considering wind, solar and storage.
 
 ### Energy Distribution and Grids
 
