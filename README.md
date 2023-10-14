@@ -1747,7 +1747,7 @@ energy system designs and analysis of interactions between technologies.
 - [CRITERIA3D](https://github.com/ARPA-SIMC/CRITERIA3D) - Includes a numerical solution for three-dimensional water and heat flow in the soil, coupled surface and subsurface flow, meteorological data interpolation, radiation budget, crop development and crop water uptake.
 - [CRITERIA1D](https://github.com/ARPA-SIMC/CRITERIA1D) - Agro-hydrological model that simulates one-dimensional water flow in variable saturation soils, crop development, root water extraction and irrigation water needs.
 - [S4A](https://github.com/Orion-AI-Lab/S4A) - A Sentinel-2 multi-year, multi-country benchmark dataset for crop classification and segmentation with deep learning.
-
+- [LiteFarm](https://github.com/LiteFarmOrg/LiteFarm) - A platform joining farmers and scientists together for participatory assessment of social, environmental and economic outputs of farming systems.
 
 
 
