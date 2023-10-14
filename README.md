@@ -433,6 +433,7 @@ energy system designs and analysis of interactions between technologies.
 - [GElectrical](https://github.com/manuvarkey/GElectrical) - A free and opensource electrical system analysis software for LV/MV electrical distribution networks.
 - [Electra](https://github.com/Alkia/electra) - Sovereign blockchain solution that enables local micro-grid to operate smoothly between trustless actors enabling a real circular economy based on the exchange of electricity units.
 - [SESMG](https://github.com/SESMG/SESMG) - An energy system model generator with the focus on the optimization of urban energy systems.
+- [GridPACK](https://github.com/GridOPTICS/GridPACK) - An open-source high-performance package for simulation of large-scale electrical grids.
 
 ### Energy Monitoring and Management 
 
