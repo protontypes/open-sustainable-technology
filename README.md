@@ -1176,7 +1176,8 @@ energy system designs and analysis of interactions between technologies.
 - [CWWED](https://github.com/flackdl/cwwed) - Serves as an interactive GIS database for hosting and disseminating post-storm assessment data created by the Named Storm Event Model.
 - [OceanMesh2D](https://github.com/CHLNDDEV/OceanMesh2D) - Precise distance-based two-dimensional automated mesh generation toolbox intended for coastal ocean/shallow water flow models.
 - [MuSA](https://github.com/ealonsogzl/MuSA) - A flexible data assimilation toolbox for experimental and operational snowpack reanalysis development.
-- [oceanmesh](https://github.com/CHLNDDEV/oceanmesh) - A Python package for the development of unstructured triangular meshes that are used in the simulation of coastal ocean circulation-
+- [oceanmesh](https://github.com/CHLNDDEV/oceanmesh) - A Python package for the development of unstructured triangular meshes that are used in the simulation of coastal ocean circulation.
+- [AeoLiS](https://github.com/openearth/aeolis-python) - Simulating aeolian sediment transport in situations where supply-limiting factors are important, like in coastal environments.
 
 
 ### Atmosphere
