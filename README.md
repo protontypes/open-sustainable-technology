@@ -1210,6 +1210,7 @@ energy system designs and analysis of interactions between technologies.
 - [MICM Chemistry](https://github.com/NCAR/micm) - A unique chemistry module that can be implemented in any atmosphere model used at NCAR.
 - [ACT](https://github.com/ARM-DOE/ACT) - The Atmospheric data Community Toolkit is an open source Python toolkit for working with atmospheric time-series datasets of varying dimensions.
 - [Freva](https://gitlab.dkrz.de/freva/evaluation_system) - A data search and analysis platform developed by the atmospheric science community for the atmospheric science community.
+- [SNAP](https://github.com/metno/snap) - A lagrangian type atmospheric dispersion model specialized on modelling dispersion of radioactive debris.
 
 
 ## Climate and Earth Science
