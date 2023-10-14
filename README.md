@@ -1022,6 +1022,7 @@ energy system designs and analysis of interactions between technologies.
 - [sgsR](https://github.com/tgoodbody/sgsR) - A structurally guided sampling toolbox for LiDAR-based forest inventories.
 - [Mesogeos](https://github.com/Orion-AI-Lab/mesogeos) - A multi-purpose dataset for data-driven wildfire modeling in the Mediterranean.
 - [BirdNET-Analyzer](https://github.com/kahst/BirdNET-Analyzer) - A deep learning solution for avian diversity monitoring.
+- [r3PG](https://github.com/trotsiuk/r3PG) - An R package for forest growth simulation using the 3-PG process-based model.
 
 
 ### Cryosphere
