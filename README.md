@@ -8,9 +8,9 @@ __A curated list of open technology projects to sustain a stable climate, energy
 If you're looking for developer tutorials on topics such as renewable energy, climate change or earth science, check out the [Education](https://opensustain.tech/education/) section. 
 
 [![](https://badgen.net/badge/View/Spreadsheets/009485?scale=1.4)](https://airtable.com/app5xF6beX5EYn3b9/shr9we419r2TkpLkc/)
-[![](https://badgen.net/badge/Download/Report%202023/009485?scale=1.4)](https://raw.githubusercontent.com/protontypes/open-source-in-environmental-sustainability/main/OpenSourceSustainabilityEcosystem_080423.pdf) [![](https://badgen.net/badge/icon/Add%20a%20Project/009485?icon=git&label&scale=1.4)](https://github.com/protontypes/open-sustainable-technology/blob/main/CONTRIBUTING.md)  
+[![](https://badgen.net/badge/Download/Report/009485?scale=1.4)](https://raw.githubusercontent.com/protontypes/open-source-in-environmental-sustainability/main/OpenSourceSustainabilityEcosystem_080423.pdf) 
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7066539.svg)](https://doi.org/10.5281/zenodo.7066539) [![Join the chat at https://gitter.im/protontypes/community](https://badges.gitter.im/protontypes/community.svg)](https://gitter.im/protontypes/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge) [![](https://badgen.net/badge/icon/Follow%20Updates/009485?icon=twitter&label)](https://twitter.com/protontypes)
+[![](https://badgen.net/badge/icon/Add%20Project/009485?icon=git&label&scale=1.2)](https://github.com/protontypes/open-sustainable-technology/blob/main/CONTRIBUTING.md) [![](https://badgen.net/badge/Chat/on%20Slack/009485?scale=1.2)](https://app.slack.com/client/TLU68MTML/C05S64LPQSX)
 
 <!--toc-->
 
