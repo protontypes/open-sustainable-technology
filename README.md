@@ -1026,6 +1026,7 @@ energy system designs and analysis of interactions between technologies.
 - [restoptr](https://github.com/dimitri-justeau/restoptr) - Aims to identify priority areas for restoration efforts using optimization algorithms.
 - [EcoAssist](https://github.com/PetervanLunteren/EcoAssist) - An open-source application designed to streamline the work of ecologists dealing with camera trap images.
 - [specify6](https://github.com/specify/specify6) - Offers related technical services for processing the data associated with specimens and samples in biological research collections.
+- [rmangal](https://github.com/ropensci/rmangal) - Retrieve and explore data from the ecological interactions database MANGAL.
 
 
 ### Cryosphere
