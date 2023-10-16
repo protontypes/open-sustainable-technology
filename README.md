@@ -1432,7 +1432,7 @@ energy system designs and analysis of interactions between technologies.
 - [imdlib](https://github.com/iamsaswata/imdlib) - Download and handle binary grided data from Indian Meterological department.
 - [goes2go](https://github.com/blaylockbk/goes2go) - Download and process GOES-16 and GOES-17 data from NOAA's archive on AWS using Python.
 - [MetNet](https://github.com/openclimatefix/metnet) - A neural network that forecasts precipitation up to 8 hours into the future at the high spatial resolution of 1 km² and at the temporal resolution of 2 minutes with a latency in the order of second.
-
+- [jmastats](https://github.com/uribo/jmastats) - Download Weather Data from Japan Meteorological Agency Website.
 
 
 ### Natural Hazard and Storm
