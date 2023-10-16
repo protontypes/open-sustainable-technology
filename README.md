@@ -1029,6 +1029,7 @@ energy system designs and analysis of interactions between technologies.
 - [rmangal](https://github.com/ropensci/rmangal) - Retrieve and explore data from the ecological interactions database MANGAL.
 - [Our Forests Tomorrow](https://github.com/developmentseed/our-forests-tomorrow) - Visualizing European forests future.
 - [GeoNature-citizen](https://github.com/PnX-SI/GeoNature-citizen) - A free and Open Source web solution for citizen science projects for biodiversity data collection.
+- [Cifonauta](https://github.com/bruvellu/cifonauta) - Marine biology image database by CEBIMar/USP.
 
 
 ### Cryosphere
