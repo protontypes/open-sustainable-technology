@@ -1689,6 +1689,7 @@ energy system designs and analysis of interactions between technologies.
 - [envalysis](https://github.com/zsteinmetz/envalysis) - An R package containing miscellaneous functions for data analysis in environmental chemistry and ecotoxicolog.
 - [Statistics for Soil Survey](https://github.com/ncss-tech/stats_for_soil_survey) - Develop solutions to investigate soil survey correlation problems and update activities.
 - [LWFBrook90R](https://github.com/pschmidtwalter/LWFBrook90R) - Simulates daily transpiration, interception, soil and snow evaporation, streamflow and soil water fluxes through a soil profile covered with vegetation.
+- [downscalr](https://github.com/tkrisztin/downscalr) - An R package for downscaling of land-use and land-use change projections.
 
 
 ### Agriculture and Nutrition
