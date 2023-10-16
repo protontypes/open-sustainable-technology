@@ -1072,6 +1072,7 @@ energy system designs and analysis of interactions between technologies.
 - [ITS_LIVE](https://github.com/nasa-jpl/its_live) - Provide automated, low latency, global glacier flow and elevation change datasets.
 - [ODINN.jl](https://github.com/ODINN-SciML/ODINN.jl) - Global glacier model using Universal Differential Equations for climate-glacier interactions.
 - [Yelmo](https://github.com/palma-ice/yelmo) - A 3D ice-sheet-shelf model solving for the coupled dynamics and thermodynamics of the ice sheet system.
+- [WAVI.jl](https://github.com/RJArthern/WAVI.jl) - A fast and friendly ice sheet model, written in Julia.
 
 ### Hydrosphere
 
