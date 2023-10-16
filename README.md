@@ -1223,6 +1223,7 @@ energy system designs and analysis of interactions between technologies.
 - [Freva](https://gitlab.dkrz.de/freva/evaluation_system) - A data search and analysis platform developed by the atmospheric science community for the atmospheric science community.
 - [SNAP](https://github.com/metno/snap) - A lagrangian type atmospheric dispersion model specialized on modelling dispersion of radioactive debris.
 - [GasDispersion.jl](https://github.com/aefarrell/GasDispersion.jl) - A set of tools for atmospheric dispersion modeling of gaseous releases, such as might occur during an emergency at a chemical plant or more routinely from a stack.
+- [galah](https://github.com/AtlasOfLivingAustralia/galah-R) - An R interface to biodiversity data hosted by the living atlases; a set of organisations that share a common codebase, and act as nodes of the Global Biodiversity Information Facility.
 
 
 ## Climate and Earth Science
