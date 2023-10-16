@@ -1028,6 +1028,7 @@ energy system designs and analysis of interactions between technologies.
 - [specify6](https://github.com/specify/specify6) - Offers related technical services for processing the data associated with specimens and samples in biological research collections.
 - [rmangal](https://github.com/ropensci/rmangal) - Retrieve and explore data from the ecological interactions database MANGAL.
 - [Our Forests Tomorrow](https://github.com/developmentseed/our-forests-tomorrow) - Visualizing European forests future.
+- [GeoNature-citizen](https://github.com/PnX-SI/GeoNature-citizen) - A free and Open Source web solution for citizen science projects for biodiversity data collection.
 
 
 ### Cryosphere
