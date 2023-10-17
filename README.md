@@ -1408,6 +1408,7 @@ energy system designs and analysis of interactions between technologies.
 - [SpatIndex](https://github.com/obaezvil/SpatIndex) - This R package provides a simple way of computing spatially-distributed drought and extreme indices.
 - [s2spy](https://github.com/AI4S2S/s2spy) - A high-level python package integrating expert knowledge and artificial intelligence to boost (sub) seasonal forecasting.
 - [xscen](https://github.com/Ouranosinc/xscen) - A climate change scenario-building analysis framework, built with Intake-esm catalogs and xarray-based packages such as xclim and xESMF.
+- [w2w](https://github.com/matthiasdemuzere/w2w) - A WUDAPT-to-WRF python tool that injects World Urban Database and Access Portal Tools (WUDAPT)'s  Local Climate Zone information into WRF.
 
 ### Meteorological Observation and Forecast
 
@@ -1915,7 +1916,6 @@ energy system designs and analysis of interactions between technologies.
 - [awesome-transit](https://github.com/CUTR-at-USF/awesome-transit) - Community list of transit APIs, apps, datasets, research, and software.
 - [Awesome Coastal](https://github.com/chrisleaman/awesome-coastal) - A curated list of awesome resources for coastal engineers and scientists.
 - [Awesome Agriculture](https://github.com/brycejohnston/awesome-agriculture) - Open source technology for agriculture, farming, and gardening.
-- [Awesome ERDDAP](https://github.com/IrishMarineInstitute/awesome-erddap) - A data server that gives you a simple, consistent way to download subsets of gridded and tabular scientific datasets in common file formats and make graphs and maps.
 - [Cryosphere Software, Data and Tools](https://github.com/awesome-cryosphere/cryosphere-links) - A prototype of a curated list of awesome data sources, models, tools and organizations related to the Cryosphere and its subspheres.
 - [Awesome Clean Tech](https://github.com/nglgzz/awesome-clean-tech) - Clean technology is any process, product, or service that reduces negative environmental impacts through significant energy efficiency improvements, the sustainable use of resources, or environmental protection activities.
 - [Awesome Open Climate Science](https://github.com/pangeo-data/awesome-open-climate-science) - Awesome Open Atmospheric, Ocean, and Climate Science.
