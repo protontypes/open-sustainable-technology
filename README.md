@@ -1033,6 +1033,7 @@ energy system designs and analysis of interactions between technologies.
 - [Cifonauta](https://github.com/bruvellu/cifonauta) - Marine biology image database by CEBIMar/USP.
 - [galah](https://github.com/AtlasOfLivingAustralia/galah-R) - An R interface to biodiversity data hosted by the living atlases; a set of organisations that share a common codebase, and act as nodes of the Global Biodiversity Information Facility.
 - [ADRIA.jl](https://github.com/open-AIMS/ADRIA.jl) -  A multi-criteria decision support platform for informing reef restoration and adaptation interventions.
+- [nasa-wildfires](https://github.com/datadesk/nasa-wildfires) - Download wildfire hotspots detected by NASA satellites and the Fire Information for Resource Management System.
 
 
 
