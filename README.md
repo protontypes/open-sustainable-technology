@@ -739,6 +739,7 @@ energy system designs and analysis of interactions between technologies.
 - [Guardian](https://github.com/hashgraph/guardian) - Provides auditable, traceable, reproducible records that document the emission process and lifecycle of carbon credits, which reduce fraud in the ESG market.
 - [NCX Harvest Deferral Methodology](https://github.com/ncx-co/ifm_deferred_harvest) - Documents, Data, and Code for the NCX Methodology For Improved Forest Management Through Short-Term Harvest Deferral.
 - [SimCCS Map Tool](https://github.com/SciGaP/simccs-maptool) - Online maptool that provides novel decision-support capabilities for evaluating carbon capture, utilization and storage technologies.
+- [OceanBioME.jl](https://github.com/OceanBioME/OceanBioME.jl) - a tool to study the effectiveness and impacts of ocean carbon dioxide removal strategies.
 
 
 ### Emission Observation and Modeling
