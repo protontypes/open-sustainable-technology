@@ -557,7 +557,7 @@ energy system designs and analysis of interactions between technologies.
 - [Urban Weather Generator](https://github.com/ladybug-tools/uwg) - A Python application for modeling the urban heat island effect.
 - [eensight](https://github.com/hebes-io/eensight) - This Python package implements the measurement and verification (M&V) methodology that has been developed by the H2020 project SENSEI - Smart Energy Services to Improve the Energy Efficiency of the European Building Stock.
 - [PointER](https://github.com/kdmayer/PointER) - A LiDAR-Derived Point Cloud Dataset of One Million English Buildings Linked to Energy Characteristics.
-- [predyce](https://gitlab.com/polito-edyce-prelude/predyce) - Is the natural evolution of the conventional Energy Performance Certification into real time optimization of building performance and comfort, by capturing the building’s dynamic behaviour, and at the same time providing transparent feedback, through an intuitive interface.
+- [predyce](https://gitlab.com/polito-edyce-prelude/predyce) - Is the natural evolution of the conventional Energy Performance Certification into real time optimization of building performance and comfort, by capturing the building's dynamic behaviour, and at the same time providing transparent feedback, through an intuitive interface.
 
 ### Mobility and Transportation
 
@@ -1036,6 +1036,7 @@ energy system designs and analysis of interactions between technologies.
 - [ADRIA.jl](https://github.com/open-AIMS/ADRIA.jl) -  A multi-criteria decision support platform for informing reef restoration and adaptation interventions.
 - [nasa-wildfires](https://github.com/datadesk/nasa-wildfires) - Download wildfire hotspots detected by NASA satellites and the Fire Information for Resource Management System (FIRMS).
 - [eu_cbm_hat](https://gitlab.com/bioeconomy/eu_cbm/eu_cbm_hat) - Enables the assessment of forest CO2 emissions and removals under scenarios of forest management, natural disturbances and forest-related land use changes.
+- [EcoReleve](https://gitlab.com/natural-solutions/reneco/ecoreleve-data) - A free and open source biodiversity data entry software.
 
 
 ### Cryosphere
