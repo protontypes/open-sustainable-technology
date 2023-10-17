@@ -1938,6 +1938,7 @@ energy system designs and analysis of interactions between technologies.
 - [Energy Systems and Informatics Collection by ACM SIGEnergy](https://energy.acm.org/resources/) - A curated list of publicly available datasets, models, and software for researchers and professionals who study energy systems and informatics.
 - [Awesome-Earth-Artificial-Intelligence](https://github.com/ESIPFed/Awesome-Earth-Artificial-Intelligence) - A curated list of tutorials, notebooks, software, datasets, courses, books, video lectures and papers specifically for Artificial Intelligence use cases in Earth Science.
 - [Callisto-Dataset-Collection](https://github.com/Agri-Hub/Callisto-Dataset-Collection) - A list of datasets aiming to enable Artificial Intelligence applications that use Earth Observation, satellite and other data.
+- [Awesome ERDDAP](https://github.com/IrishMarineInstitute/awesome-erddap) - A curated list of awesome Environmental Research Division's Data Access Program (ERDDAP) projects and deployments.
 
 ## Contributors
 
