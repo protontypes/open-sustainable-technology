@@ -268,7 +268,7 @@ If you're looking for developer tutorials on topics such as renewable energy, cl
 - [VirtualFCS](https://github.com/Virtual-FCS/VirtualFCS) - A Modelica library for hybrid hydrogen fuel cell and battery power systems.
 
 ### Thermal Energy Storage 
-- [OpenTerrace](https://github.com/OpenTerrace/openterrace-python) - A pure Python framework for thermal energy storage packed bed simulations
+- [OpenTerrace](https://github.com/OpenTerrace/openterrace-python) - A pure Python framework for thermal energy storage packed bed simulations.
 
 ## Energy Systems
 
@@ -389,6 +389,7 @@ energy system designs and analysis of interactions between technologies.
 - [ETM Pro](https://github.com/quintel/etmodel) - Professional interface of the Energy Transition model.
 - [MESMO](https://github.com/mesmo-dev/mesmo) - An open-source Python tool for the modeling, simulation and optimization of multi-scale electric and thermal distribution systems along with distributed energy resources.
 - [ASSUME](https://github.com/assume-framework/assume) - An open-source toolbox for agent-based simulations of European electricity markets, with a primary focus on the German market setup.
+- [NemoMod.jl](https://github.com/sei-international/NemoMod.jl) - A high performance, open-source energy system optimization modeling tool developed in Julia.
 
 ### Energy Distribution and Grids
 
