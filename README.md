@@ -892,6 +892,21 @@ energy system designs and analysis of interactions between technologies.
 - [bdc](https://github.com/brunobrr/bdc) - A toolkit for standardizing, integrating, and cleaning biodiversity data.
 - [Wallace](https://github.com/wallaceEcoMod/wallace) - A modular platform for reproducible modeling of species niches and distributions, written in R.
 - [ENMeval](https://github.com/jamiemkass/ENMeval) - R package for automated runs and evaluations of ecological niche models.
+- [BioDiversityHub BC](https://github.com/bcgov/biohubbc) - The source of British Columbia's species inventory data.
+- [Global Names Verifier](https://github.com/gnames/gnverifier) - Verifies scientific names against more than 100 biodiversity databases.
+- [DISPLACE_GUI](https://github.com/frabas/DISPLACE_GUI) - A Scientific Research Software for Spatial Fisheries and Natural Resource Management.
+- [GBIF Alert](https://github.com/riparias/gbif-alert) - A GBIF-based early alert system for invasive species.
+- [python-dwca-reader](https://github.com/BelgianBiodiversityPlatform/python-dwca-reader) - A Python package to read and parse Darwin Core Archive (DwC-A) files, as produced by the GBIF website, the IPT and many other biodiversity informatics tools.
+- [BirdNET-Analyzer](https://github.com/kahst/BirdNET-Analyzer) - A deep learning solution for avian diversity monitoring.
+- [specify7](https://github.com/specify/specify7) - A biological collections data management platform.
+- [gbifdb](https://github.com/ropensci/gbifdb) - Provide a relational database interface to a parquet based serializations of gbif's AWS snapshots of its public data.
+- [diversitree](https://github.com/richfitz/diversitree) - Includes a number of comparative phylogenetic methods, mostly focussing on analysing diversification and character evolution.
+- [rmangal](https://github.com/ropensci/rmangal) - Retrieve and explore data from the ecological interactions database MANGAL.
+- [EcoReleve](https://gitlab.com/natural-solutions/reneco/ecoreleve-data) - A free and open source biodiversity data entry software.
+- [SpeciesDistributionToolkit](https://github.com/PoisotLab/SpeciesDistributionToolkit.jl) - A collection of Julia packages forming a toolkit meant to deal with species distribution data.
+- [tidysdm](https://github.com/EvolEcolGroup/tidysdm) -  A Species Distribution Models in R.
+- [GeoNature-citizen](https://github.com/PnX-SI/GeoNature-citizen) - A free and Open Source web solution for citizen science projects for biodiversity data collection.
+- [galah](https://github.com/AtlasOfLivingAustralia/galah-R) - An R interface to biodiversity data hosted by the living atlases; a set of organisations that share a common codebase, and act as nodes of the Global Biodiversity Information Facility.
 
 ### Conservation and Restoration
 - [CART](https://github.com/jneme910/CART) - The Conservation Assessment Ranking Tool is designed for use in the conservation planning process to assess resource concerns, planned practices and site vulnerability.
@@ -915,6 +930,8 @@ energy system designs and analysis of interactions between technologies.
 - [EcoSISTEM.jl](https://github.com/EcoJulia/EcoSISTEM.jl) - A Julia package that provides functionality for simulating species undergoing dynamic biological processes such as birth, death, competition and dispersal, as well as environmental changes in climate and habitat.
 - [oneimpact](https://github.com/NINAnor/oneimpact) - Provides tools for the assessment of cumulative impacts of multiple infrastructure and land use modifications in ecological studies.
 - [grainscape](https://github.com/achubaty/grainscape) - Efficient Modelling of Landscape Connectivity, Habitat, and Protected Area Networks.
+- [restoptr](https://github.com/dimitri-justeau/restoptr) - Aims to identify priority areas for restoration efforts using optimization algorithms.
+- [ADRIA.jl](https://github.com/open-AIMS/ADRIA.jl) -  A multi-criteria decision support platform for informing reef restoration and adaptation interventions.
 
 
 ### Forest
@@ -956,6 +973,13 @@ energy system designs and analysis of interactions between technologies.
 - [Forest Vegetation Simulator](https://github.com/USDAForestService/ForestVegetationSimulator) - A family of individual-tree, distance-independent, forest growth simulation models.
 - [PYFOREST](https://github.com/cp-PYFOREST/Land-Use-Assessment) - Informing Forest Conservation Regulations in Paraguay.
 - [Detectree2](https://github.com/PatBall1/detectree2) - Automatic tree crown delineation based on the Detectron2 implementation of Mask R-CNN.
+- [allometric](https://github.com/allometric/allometric) - Thousands of allometric models exist in the scientific and technical forestry literature, and allometric is a platform for archiving and using this vast array of models in a robust and structured format.
+- [3D Forest](https://github.com/VUKOZ-OEL/3d-forest) - Visualization, processing and analysis of Lidar point clouds, mainly focused on forest environment.
+- [datazoom.amazonia](https://github.com/datazoompuc/datazoom.amazonia) - Facilitates access to official Brazilian Amazon data, including agriculture, deforestation, production.
+- [sgsR](https://github.com/tgoodbody/sgsR) - A structurally guided sampling toolbox for LiDAR-based forest inventories.
+- [r3PG](https://github.com/trotsiuk/r3PG) - An R package for forest growth simulation using the 3-PG process-based model.
+- [Our Forests Tomorrow](https://github.com/developmentseed/our-forests-tomorrow) - Visualizing European forests future.
+- [eu_cbm_hat](https://gitlab.com/bioeconomy/eu_cbm/eu_cbm_hat) - Enables the assessment of forest CO2 emissions and removals under scenarios of forest management, natural disturbances and forest-related land use changes.
 
 
 ### Plants and Vegetation 
@@ -974,6 +998,7 @@ energy system designs and analysis of interactions between technologies.
 - [rWCVP](https://github.com/matildabrown/rWCVP) - A package for accessing and using plant name and distribution data from the World Checklist of Vascular Plants.
 - [kewr](https://github.com/barnabywalker/kewr) - Meant to make accessing data from one of Royal Botanic Gardenn Kew easier and to provide a consistent interface their public APIs.
 - [Plants of the World Online](https://github.com/RBGKew/powop) - An international collaborative programme that has as a primary aim to make available digitized data of the world's flora gathered from the past 250 years of botanical exploration and research.
+- [dvm-dos-tem](https://github.com/uaf-arctic-eco-modeling/dvm-dos-tem) - A process based Dynamic Vegetation, Dynamic Organic Soil, Terrestrial Ecosystem Model.
 
 
 ### Biomass
@@ -997,6 +1022,8 @@ energy system designs and analysis of interactions between technologies.
 - [Global ECMWF Fire Forecasting](https://git.ecmwf.int/projects/CEMSF/repos/geff/browse) - The model is a Fortran program to calculate fire danger indices from atmospheric inputs.
 - [FIREDpy](https://github.com/earthlab/firedpy) - Classifying fire events from the Collection 6 MODIS Burned Area Product.
 - [qgis2fds](https://github.com/firetools/qgis2fds) - Export terrain elevation, landuse, and georeferencing for computational fluid dynamics wildfire or atmospheric pollutants dispersion simulations.
+- [Mesogeos](https://github.com/Orion-AI-Lab/mesogeos) - A multi-purpose dataset for data-driven wildfire modeling in the Mediterranean.
+- [nasa-wildfires](https://github.com/datadesk/nasa-wildfires) - Download wildfire hotspots detected by NASA satellites and the Fire Information for Resource Management System (FIRMS).
 
 
 ### Marine Life and Fishery
@@ -1009,7 +1036,14 @@ energy system designs and analysis of interactions between technologies.
 - [icesDatras](https://github.com/ices-tools-prod/icesDatras) - R interface to Database of Trawl Surveys web services.
 - [icesTAF](https://github.com/ices-tools-prod/icesTAF) - Functions to support the International Council for the Exploration of the Sea Transparent Assessment Framework.
 - [KSO](https://github.com/ocean-data-factory-sweden/kso) - The Koster Seafloor Observatory is an open-source, citizen science and machine learning approach to analyse subsea movies.
-
+- [FishGlob_data](https://github.com/AquaAuma/FishGlob_data) - This repository contains the FishGlob database, including the methods to load, clean, and process the public bottom trawl surveys in it.
+- [FSAdata](https://github.com/fishR-Core-Team/FSAdata) - Contains data for use in common fisheries stock analyses. See installation instructions further below.
+- [dataaimsr](https://github.com/ropensci/dataaimsr) - Australian Institute of Marine Science (AIMS) Data Platform API Client which provides easy access to AIMS Data Platform scientific data and information.
+- [mermaid-dash](https://github.com/data-mermaid/mermaid-dash) - Transform your underwater insights into data-driven actions that save coral reefs.
+- [mermaidr](https://github.com/data-mermaid/mermaidr) - An open-source data platform developed to help you collect, analyze, and share coral reef monitoring data.
+- [RSP](https://github.com/YuriNiella/RSP) - Refining the Shortest Paths of animals tracked with acoustic transmitters in estuarine regions.
+- [aspe](https://github.com/PascalIrz/aspe) - An R package to analyse and visualise river fish data in France.
+- [Cifonauta](https://github.com/bruvellu/cifonauta) - Marine biology image database by CEBIMar/USP.
 
   
 ### Terrestrial Animals
@@ -1020,58 +1054,8 @@ energy system designs and analysis of interactions between technologies.
 - [bioRad](https://github.com/adokter/bioRad) - R package for analysis and visualisation of biological signals in weather radar data.
 - [MegaDetector](https://github.com/microsoft/CameraTraps/) - Deep learning tools that accelerate the review of motion-triggered wildlife camera images.
 - [ebirdst](https://github.com/ebird/ebirdst) - Access and Analyze eBird Status and Trends Data.
-
-
-### Ecosystem Models
-- [dvm-dos-tem](https://github.com/uaf-arctic-eco-modeling/dvm-dos-tem) - A process based Dynamic Vegetation, Dynamic Organic Soil, Terrestrial Ecosystem Model.
-
-
-
-
-
-
-
-
-- [BioDiversityHub BC](https://github.com/bcgov/biohubbc) - The source of British Columbia's species inventory data.
-- [FishGlob_data](https://github.com/AquaAuma/FishGlob_data) - This repository contains the FishGlob database, including the methods to load, clean, and process the public bottom trawl surveys in it.
-- [Global Names Verifier](https://github.com/gnames/gnverifier) - Verifies scientific names against more than 100 biodiversity databases.
-- [DISPLACE_GUI](https://github.com/frabas/DISPLACE_GUI) - A Scientific Research Software for Spatial Fisheries and Natural Resource Management.
-- [FSAdata](https://github.com/fishR-Core-Team/FSAdata) - Contains data for use in common fisheries stock analyses. See installation instructions further below.
-- [dataaimsr](https://github.com/ropensci/dataaimsr) - Australian Institute of Marine Science (AIMS) Data Platform API Client which provides easy access to AIMS Data Platform scientific data and information.
 - [GeoPressureR](https://github.com/Rafnuss/GeoPressureR) - R package which help researchers construct the trajectory of a bird equiped with an atmospheric pressure sensor.
-- [GBIF Alert](https://github.com/riparias/gbif-alert) - A GBIF-based early alert system for invasive species.
-- [allometric](https://github.com/allometric/allometric) - Thousands of allometric models exist in the scientific and technical forestry literature, and allometric is a platform for archiving and using this vast array of models in a robust and structured format.
-- [python-dwca-reader](https://github.com/BelgianBiodiversityPlatform/python-dwca-reader) - A Python package to read and parse Darwin Core Archive (DwC-A) files, as produced by the GBIF website, the IPT and many other biodiversity informatics tools.
-- [Pyronear API](https://github.com/pyronear/pyro-api) - Alert Management API for wildfire prevention, detection & monitoring.
-- [3D Forest](https://github.com/VUKOZ-OEL/3d-forest) - Visualization, processing and analysis of Lidar point clouds, mainly focused on forest environment.
-- [mermaid-dash](https://github.com/data-mermaid/mermaid-dash) - Transform your underwater insights into data-driven actions that save coral reefs.
-- [mermaidr](https://github.com/data-mermaid/mermaidr) - An open-source data platform developed to help you collect, analyze, and share coral reef monitoring data.
-- [datazoom.amazonia](https://github.com/datazoompuc/datazoom.amazonia) - Facilitates access to official Brazilian Amazon data, including agriculture, deforestation, production.
-- [RSP](https://github.com/YuriNiella/RSP) - Refining the Shortest Paths of animals tracked with acoustic transmitters in estuarine regions.
-- [hydrobr](https://github.com/hydroversebr/hydrobr) - Help users select, download and clean data from pluvio- and fluviometric stations from the Brazilian National Water Agency.
-- [ROMS](https://github.com/myroms/roms) - A free-surface, terrain-following, primitive equations ocean model widely used by the scientific community for a diverse range of applications.
-- [gbifdb](https://github.com/ropensci/gbifdb) - Provide a relational database interface to a parquet based serializations of gbif's AWS snapshots of its public data.
-- [diversitree](https://github.com/richfitz/diversitree) - Includes a number of comparative phylogenetic methods, mostly focussing on analysing diversification and character evolution.
-- [aspe](https://github.com/PascalIrz/aspe) - An R package to analyse and visualise river fish data in France.
-- [sgsR](https://github.com/tgoodbody/sgsR) - A structurally guided sampling toolbox for LiDAR-based forest inventories.
-- [Mesogeos](https://github.com/Orion-AI-Lab/mesogeos) - A multi-purpose dataset for data-driven wildfire modeling in the Mediterranean.
-- [BirdNET-Analyzer](https://github.com/kahst/BirdNET-Analyzer) - A deep learning solution for avian diversity monitoring.
-- [r3PG](https://github.com/trotsiuk/r3PG) - An R package for forest growth simulation using the 3-PG process-based model.
-- [restoptr](https://github.com/dimitri-justeau/restoptr) - Aims to identify priority areas for restoration efforts using optimization algorithms.
 - [EcoAssist](https://github.com/PetervanLunteren/EcoAssist) - An open-source application designed to streamline the work of ecologists dealing with camera trap images.
-- [specify7](https://github.com/specify/specify7) - A biological collections data management platform.
-- [rmangal](https://github.com/ropensci/rmangal) - Retrieve and explore data from the ecological interactions database MANGAL.
-- [Our Forests Tomorrow](https://github.com/developmentseed/our-forests-tomorrow) - Visualizing European forests future.
-- [GeoNature-citizen](https://github.com/PnX-SI/GeoNature-citizen) - A free and Open Source web solution for citizen science projects for biodiversity data collection.
-- [Cifonauta](https://github.com/bruvellu/cifonauta) - Marine biology image database by CEBIMar/USP.
-- [galah](https://github.com/AtlasOfLivingAustralia/galah-R) - An R interface to biodiversity data hosted by the living atlases; a set of organisations that share a common codebase, and act as nodes of the Global Biodiversity Information Facility.
-- [ADRIA.jl](https://github.com/open-AIMS/ADRIA.jl) -  A multi-criteria decision support platform for informing reef restoration and adaptation interventions.
-- [nasa-wildfires](https://github.com/datadesk/nasa-wildfires) - Download wildfire hotspots detected by NASA satellites and the Fire Information for Resource Management System (FIRMS).
-- [eu_cbm_hat](https://gitlab.com/bioeconomy/eu_cbm/eu_cbm_hat) - Enables the assessment of forest CO2 emissions and removals under scenarios of forest management, natural disturbances and forest-related land use changes.
-- [EcoReleve](https://gitlab.com/natural-solutions/reneco/ecoreleve-data) - A free and open source biodiversity data entry software.
-- [SpeciesDistributionToolkit](https://github.com/PoisotLab/SpeciesDistributionToolkit.jl) - A collection of Julia packages forming a toolkit meant to deal with species distribution data.
-- [tidysdm](https://github.com/EvolEcolGroup/tidysdm) -  A Species Distribution Models in R.
-
 
 ### Cryosphere
 
@@ -1227,6 +1211,8 @@ energy system designs and analysis of interactions between technologies.
 - [AeoLiS](https://github.com/openearth/aeolis-python) - Simulating aeolian sediment transport in situations where supply-limiting factors are important, like in coastal environments.
 - [REEF3D](https://github.com/REEF3D/REEF3D) - An efficiently parallelized hydrodynamics framework with a focus on coastal, marine and hydraulic engineering flows.
 - [pyMETRIC](https://github.com/WSWUP/pymetric) - A set of Python based tools developed for estimating and mapping evapotranspiration for large areas, utilizing the Landsat image archive.
+- [hydrobr](https://github.com/hydroversebr/hydrobr) - Help users select, download and clean data from pluvio- and fluviometric stations from the Brazilian National Water Agency.
+- [ROMS](https://github.com/myroms/roms) - A free-surface, terrain-following, primitive equations ocean model widely used by the scientific community for a diverse range of applications.
 
 
 
