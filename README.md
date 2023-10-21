@@ -10,7 +10,7 @@ If you're looking for developer tutorials on topics such as renewable energy, cl
 [![](https://badgen.net/badge/View/Spreadsheets/009485?scale=1.6)](https://airtable.com/app5xF6beX5EYn3b9/shr9we419r2TkpLkc/)
 [![](https://badgen.net/badge/Download/Report/009485?scale=1.6)](https://raw.githubusercontent.com/protontypes/open-source-in-environmental-sustainability/main/OpenSourceSustainabilityEcosystem_080423.pdf) 
 
-[![](https://badgen.net/badge/icon/Add%20Project/009485?icon=git&label&scale=1.2)](https://github.com/protontypes/open-sustainable-technology/blob/main/CONTRIBUTING.md) [![](https://badgen.net/badge/icon/Chat/009485?icon=slack&label&scale=1.2)](https://app.slack.com/client/TLU68MTML/C05S64LPQSX)
+[![](https://badgen.net/badge/icon/Add%20Project/009485?icon=git&label&scale=1.2)](https://github.com/protontypes/open-sustainable-technology/blob/main/CONTRIBUTING.md)
 
 <!--toc-->
 
@@ -265,6 +265,9 @@ If you're looking for developer tutorials on topics such as renewable energy, cl
 - [SciGRID_gas](https://www.gas.scigrid.de/) - Methods to create an automated network model of the European gas transportation network.
 - [Vehicle with Fuel Cell Powertrain](https://github.com/mathworks/Fuel-Cell-Vehicle-Model-Simscape) - Fuel cell electric vehicle with battery model and cooling system.
 - [VirtualFCS](https://github.com/Virtual-FCS/VirtualFCS) - A Modelica library for hybrid hydrogen fuel cell and battery power systems.
+
+### Thermal Energy Storage 
+- [OpenTerrace](https://github.com/OpenTerrace/openterrace-python) - A pure Python framework for thermal energy storage packed bed simulations
 
 ## Energy Systems
 
