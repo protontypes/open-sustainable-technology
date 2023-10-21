@@ -10,7 +10,7 @@ If you're looking for developer tutorials on topics such as renewable energy, cl
 [![](https://badgen.net/badge/View/Spreadsheets/009485?scale=1.6)](https://airtable.com/app5xF6beX5EYn3b9/shr9we419r2TkpLkc/)
 [![](https://badgen.net/badge/Download/Report/009485?scale=1.6)](https://raw.githubusercontent.com/protontypes/open-source-in-environmental-sustainability/main/OpenSourceSustainabilityEcosystem_080423.pdf) 
 
-[![](https://badgen.net/badge/icon/Add%20Project/009485?icon=git&label&scale=1.2)](https://github.com/protontypes/open-sustainable-technology/blob/main/CONTRIBUTING.md) [![](https://badgen.net/badge/icon/Chat/009485?icon=slack&label&scale=1.2)](https://app.slack.com/client/TLU68MTML/C05S64LPQSX)
+[![](https://badgen.net/badge/icon/Add%20Project/009485?icon=git&label&scale=1.2)](https://github.com/protontypes/open-sustainable-technology/blob/main/CONTRIBUTING.md)
 
 <!--toc-->
 
@@ -26,6 +26,7 @@ If you're looking for developer tutorials on topics such as renewable energy, cl
 - [Energy Storage](#energy-storage)
   - [Battery](#battery)
   - [Hydrogen](#hydrogen)
+  - [Thermal Energy Storage](#thermal-energy-storage)
 - [Energy Systems](#energy-systems)
   - [Energy Modeling and Optimization](#energy-modeling-and-optimization)
   - [Energy Distribution and Grids](#energy-distribution-and-grids)
@@ -266,6 +267,9 @@ If you're looking for developer tutorials on topics such as renewable energy, cl
 - [Vehicle with Fuel Cell Powertrain](https://github.com/mathworks/Fuel-Cell-Vehicle-Model-Simscape) - Fuel cell electric vehicle with battery model and cooling system.
 - [VirtualFCS](https://github.com/Virtual-FCS/VirtualFCS) - A Modelica library for hybrid hydrogen fuel cell and battery power systems.
 
+### Thermal Energy Storage 
+- [OpenTerrace](https://github.com/OpenTerrace/openterrace-python) - A pure Python framework for thermal energy storage packed bed simulations.
+
 ## Energy Systems
 
 ### Energy Modeling and Optimization
@@ -385,6 +389,7 @@ energy system designs and analysis of interactions between technologies.
 - [ETM Pro](https://github.com/quintel/etmodel) - Professional interface of the Energy Transition model.
 - [MESMO](https://github.com/mesmo-dev/mesmo) - An open-source Python tool for the modeling, simulation and optimization of multi-scale electric and thermal distribution systems along with distributed energy resources.
 - [ASSUME](https://github.com/assume-framework/assume) - An open-source toolbox for agent-based simulations of European electricity markets, with a primary focus on the German market setup.
+- [NemoMod.jl](https://github.com/sei-international/NemoMod.jl) - A high performance, open-source energy system optimization modeling tool developed in Julia.
 
 ### Energy Distribution and Grids
 
@@ -558,6 +563,7 @@ energy system designs and analysis of interactions between technologies.
 - [eensight](https://github.com/hebes-io/eensight) - This Python package implements the measurement and verification (M&V) methodology that has been developed by the H2020 project SENSEI - Smart Energy Services to Improve the Energy Efficiency of the European Building Stock.
 - [PointER](https://github.com/kdmayer/PointER) - A LiDAR-Derived Point Cloud Dataset of One Million English Buildings Linked to Energy Characteristics.
 - [predyce](https://gitlab.com/polito-edyce-prelude/predyce) - Is the natural evolution of the conventional Energy Performance Certification into real time optimization of building performance and comfort, by capturing the building's dynamic behaviour, and at the same time providing transparent feedback, through an intuitive interface.
+- [EUReCA](https://github.com/BETALAB-team/EUReCA) - Provides an efficient and reliable Urban Building Energy Modeling platform, entirely developed in Python, aiming at simulating and predicting cities and urban areas energy consumption.
 
 ### Mobility and Transportation
 
@@ -793,6 +799,7 @@ energy system designs and analysis of interactions between technologies.
 - [Integrated Methane Inversion](https://github.com/geoschem/integrated_methane_inversion) - Contains the source code for setting up and running the Integrated Methane Inversion with GEOS-Chem.
 - [eCalc](https://github.com/equinor/ecalc) - A software tool for calculation of energy demand and greenhouse gas emissions from oil and gas production and processing.
 - [forest-offsets](https://github.com/carbonplan/forest-offsets) - Includes our libraries and scripts for analyzing California's compliance forest carbon offsets program.
+- [OceanSODA](https://github.com/JamieLab/OceanSODA) - Methods for evaluating and using empirical approaches for studying the surface marine carbonate system.
 
 
 ## Industrial Ecology
@@ -1037,6 +1044,8 @@ energy system designs and analysis of interactions between technologies.
 - [nasa-wildfires](https://github.com/datadesk/nasa-wildfires) - Download wildfire hotspots detected by NASA satellites and the Fire Information for Resource Management System (FIRMS).
 - [eu_cbm_hat](https://gitlab.com/bioeconomy/eu_cbm/eu_cbm_hat) - Enables the assessment of forest CO2 emissions and removals under scenarios of forest management, natural disturbances and forest-related land use changes.
 - [EcoReleve](https://gitlab.com/natural-solutions/reneco/ecoreleve-data) - A free and open source biodiversity data entry software.
+- [SpeciesDistributionToolkit](https://github.com/PoisotLab/SpeciesDistributionToolkit.jl) - A collection of Julia packages forming a toolkit meant to deal with species distribution data.
+- [tidysdm](https://github.com/EvolEcolGroup/tidysdm) -  A Species Distribution Models in R.
 
 
 ### Cryosphere
@@ -1942,6 +1951,7 @@ energy system designs and analysis of interactions between technologies.
 - [Awesome-Earth-Artificial-Intelligence](https://github.com/ESIPFed/Awesome-Earth-Artificial-Intelligence) - A curated list of tutorials, notebooks, software, datasets, courses, books, video lectures and papers specifically for Artificial Intelligence use cases in Earth Science.
 - [Callisto-Dataset-Collection](https://github.com/Agri-Hub/Callisto-Dataset-Collection) - A list of datasets aiming to enable Artificial Intelligence applications that use Earth Observation, satellite and other data.
 - [Awesome ERDDAP](https://github.com/IrishMarineInstitute/awesome-erddap) - A curated list of awesome Environmental Research Division's Data Access Program (ERDDAP) projects and deployments.
+- [OGD@MeteoSwiss](https://github.com/MeteoSwiss/publication-opendata) - Open Data products released by the Federal Office of Meteorology and Climatology MeteoSwiss.
 
 ## Contributors
 
