@@ -26,6 +26,7 @@ If you're looking for developer tutorials on topics such as renewable energy, cl
 - [Energy Storage](#energy-storage)
   - [Battery](#battery)
   - [Hydrogen](#hydrogen)
+  - [Thermal Energy Storage](#thermal-energy-storage)
 - [Energy Systems](#energy-systems)
   - [Energy Modeling and Optimization](#energy-modeling-and-optimization)
   - [Energy Distribution and Grids](#energy-distribution-and-grids)
