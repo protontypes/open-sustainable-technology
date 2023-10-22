@@ -1054,6 +1054,7 @@ energy system designs and analysis of interactions between technologies.
 - [RSP](https://github.com/YuriNiella/RSP) - Refining the Shortest Paths of animals tracked with acoustic transmitters in estuarine regions.
 - [aspe](https://github.com/PascalIrz/aspe) - An R package to analyse and visualise river fish data in France.
 - [Cifonauta](https://github.com/bruvellu/cifonauta) - Marine biology image database by CEBIMar/USP.
+- [CoralNet](https://github.com/beijbom/coralnet) - A repository and resource for benthic image analysis.
 
   
 ### Terrestrial Animals
@@ -1069,6 +1070,7 @@ energy system designs and analysis of interactions between technologies.
 
 ## Cryosphere
 ### Sea Ice
+  - [COSIMA](https://github.com/COSIMA/cosima-cookbook) - Ocean and sea-ice model analysis tools and examples.
   - [ACCESS-OM2](https://github.com/COSIMA/access-om2) - Global ocean-sea ice coupled model configurations.
   - [Sea ice drift](https://github.com/nansencenter/sea_ice_drift) - Sea ice drift from Sentinel-1 SAR imagery using open source feature tracking.
   - [CICE](https://github.com/CICE-Consortium/CICE) - A computationally efficient model for simulating the growth, melting, and movement of polar sea ice.
@@ -1113,58 +1115,69 @@ energy system designs and analysis of interactions between technologies.
   - [SNOWPACK](https://code.wsl.ch/snow-models/snowpack) - A multi-purpose snow and land-surface model, which focuses on a detailed description of the mass and energy exchange between the snow, the atmosphere and optionally with the vegetation cover and the soil.
 
 
-### Hydrosphere
+## Hydrosphere
 
+### Freshwater and Groundwater
 - [Raven](https://github.com/Ouranosinc/raven) - Made to help scientists run hydrological modeling experiments with climate change projections.
+- [hydroscoper](https://github.com/ropensci/hydroscoper) - An R interface to the Greek National Data Bank for Hydrometeorological Information.
+- [WRF-Hydro](https://github.com/NCAR/wrf_hydro_nwm_public) - A community modeling system and framework for hydrologic modeling and model coupling.
+- [rwrfhydro](https://github.com/NCAR/rwrfhydro) - A community-contributed tool box for managing, analyzing, and visualizing WRF Hydro (and HydroDART) input and output files in R.
+- [PCR-GLOBWB_model](https://github.com/UU-Hydro/PCR-GLOBWB_model) - A large-scale hydrological model intended for global to regional studies.
+- [HydroShare](https://github.com/hydroshare/hydroshare) - A collaborative website for better access to data and models in the hydrologic sciences.
+- [SOILWAT2](https://github.com/DrylandEcology/SOILWAT2) - An ecosystem water balance simulation model.
+- [RivGraph](https://github.com/jonschwenk/RivGraph) - Extracting and quantifying graphical representations of river and delta channel networks from binary masks.
+- [WaterDetect](https://github.com/cordmaur/WaterDetect) - End-to-end algorithm to generate open water cover mask, specially conceived for L2A Sentinel 2 imagery from MAJA1 processor, without any a priori knowledge on the scene.
+- [FLAREr](https://github.com/FLARE-forecast/FLAREr) - Flexible, scalable, robust, and near-real time iterative ecological forecasts in lakes and reservoirs.
+- [Buhayra](https://github.com/jmigueldelgado/buhayra) - Obtaining water extent of small reservoirs in semi-arid regions from satellite data in real-time.
+- [Wflow](https://github.com/Deltares/Wflow.jl) - A Julia package that provides a hydrological modeling framework, as well as several different vertical and lateral concepts that can be used to run hydrological simulations.
+- [ParFlow](https://github.com/parflow/parflow) - An open-source, modular, parallel watershed flow model. 
+- [River Runner](https://github.com/sdl60660/river-runner) - Visualize the path of a rain droplet from any point in the contiguous United States to its end point.
+
+
+### Oceans Models
 - [Bergen Layered Ocean Model](https://github.com/NorESMhub/BLOM) - Employs an isopycnic vertical coordinate, with near-isopycnic interior layers and variable density layers in the surface mixed boundary layer.
+- [LESbrary.jl](https://github.com/CliMA/LESbrary.jl) - Generating a library of ocean turbulence large eddy simulation data to train ocean and climate models.
 - [Oceananigans.jl](https://github.com/CliMA/Oceananigans.jl) - Fast and friendly fluid dynamics on CPUs and GPUs.
 - [NEMO](https://forge.nemo-ocean.eu/nemo/nemo) - Nucleus for European Modelling of the Ocean is a state-of-the-art modeling framework for research activities and forecasting services in ocean and climate sciences.
-- [LESbrary.jl](https://github.com/CliMA/LESbrary.jl) - Generating a library of ocean turbulence large eddy simulation data to train ocean and climate models.
 - [GOLD](https://code.google.com/archive/p/gold-omod/) - Stands for Generalized Ocean Layer Dynamics and is a hybrid coordinate finite volume ocean model code funded by NOAA and developed by the ocean group at NOAA-GFDL and Princeton University.
-- [hydroscoper](https://github.com/ropensci/hydroscoper) - An R interface to the Greek National Data Bank for Hydrometeorological Information.
-- [OpenDrift](https://github.com/OpenDrift/opendrift) - A software for modeling the trajectories and fate of objects or substances drifting in the ocean, or even in the atmosphere.
 - [OceanSpy](https://github.com/hainegroup/oceanspy) - An open source and user-friendly Python package that enables scientists and interested amateurs to analyze and visualize ocean model datasets.
 - [Iris](https://github.com/SciTools/iris) - A powerful, format-agnostic, community-driven Python package for analyzing and visualizing Earth science data.
 - [Veros](https://github.com/team-ocean/veros) - Powerful tool that makes high-performance ocean modeling approachable and fun.
 - [oce](https://github.com/dankelley/oce) - An R package for oceanographic processing.
-- [podaacpy](https://github.com/nasa/podaacpy) - A Python utility library for interacting with NASA JPL's Physical Oceanography Distributed Active Archive Center.
 - [Ocean-Data-Map-Project](https://github.com/DFO-Ocean-Navigator/Ocean-Data-Map-Project) - A Data Visualization tool that enables users to discover and view 3D ocean model output quickly and easily.
-- [marineHeatWaves](https://github.com/ecjoliver/marineHeatWaves) - A module for Python which implements the Marine Heatwave definition of Hobday et al. (2016).
-- [heatwaveR](https://github.com/robwschlegel/heatwaveR) - Contains the original functions from the RmarineHeatWaves package that calculate and display marine heatwaves according to the definition of Hobday et al. (2016).
 - [MITgcm](https://github.com/MITgcm/MITgcm) - A flexible non-hydrostatic formulation that efficiently simulates fluid phenomena over a wide range of scales.
 - [VAPOR](https://github.com/NCAR/VAPOR) - The Visualization and Analysis Platform for Ocean, Atmosphere and Solar Researchers.
-- [CoralNet](https://github.com/beijbom/coralnet) - A repository and resource for benthic image analysis.
 - [Ferret](https://github.com/NOAA-PMEL/Ferret) - An interactive computer visualization and analysis environment designed to meet the needs of oceanographers and meteorologists analyzing large and complex gridded datasets.
 - [ccpp-physics](https://github.com/NCAR/ccpp-physics) - The Common Community Physics Package is designed to facilitate the implementation of physics innovations in state-of-the-art atmospheric models, the use of various models to develop physics, and the acceleration of transition of physics innovations to operational NOAA models.
-- [rnoaa](https://github.com/ropensci/rnoaa) - An R interface to many National Oceanic and Atmospheric Administration data sources.
-- [parcels](https://github.com/OceanParcels/parcels) - Can be used to track passive and active particulates such as water, plankton, plastic and fish.
 - [MOHID-Lagrangian](https://github.com/Mohid-Water-Modelling-System/MOHID-Lagrangian) - Mainly developed for oceanographic and fluvial modeling, application to atmospheric and other planetary settings should be trivial.
 - [Mohid](https://github.com/Mohid-Water-Modelling-System/Mohid) - A modular finite volumes water-modeling system written in ANSI-Fortran95 using an Object-oriented programming philosophy, integrating diverse mathematical models and supporting graphical user interfaces that manage all the pre- and post-processing.
 - [AIBECS.jl](https://github.com/JuliaOcean/AIBECS.jl) - A Julia package that provides ocean biogeochemistry modelers with an easy-to-use interface for creating and running models of the ocean system.
 - [CDFTOOLS](https://github.com/meom-group/CDFTOOLS) - A Fortran package for analysis and diagnostics on NEMO ocean model output.
 - [GOTM](https://github.com/gotm-model/code) - The General Ocean Turbulence Model is an ambitious name for a one-dimensional water column model for marine and limnological applications.
 - [pyroms](https://github.com/ESMG/pyroms) - A collection of tools to process input and output files from the Regional Ocean Modeling System.
-- [TSG-QC](https://forge.ird.fr/us191/TSG-QC) - Analysis and validation of underway Sea Surface Temperature and Sea Surface Salinity measurements from a SeaBird Thermosalinograph.
-- [WRF-Hydro](https://github.com/NCAR/wrf_hydro_nwm_public) - A community modeling system and framework for hydrologic modeling and model coupling.
-- [rwrfhydro](https://github.com/NCAR/rwrfhydro) - A community-contributed tool box for managing, analyzing, and visualizing WRF Hydro (and HydroDART) input and output files in R.
-- [PCR-GLOBWB_model](https://github.com/UU-Hydro/PCR-GLOBWB_model) - A large-scale hydrological model intended for global to regional studies.
-- [HydroShare](https://github.com/hydroshare/hydroshare) - A collaborative website for better access to data and models in the hydrologic sciences.
-- [SOILWAT2](https://github.com/DrylandEcology/SOILWAT2) - An ecosystem water balance simulation model.
-- [dorado](https://github.com/passaH2O/dorado) - Simulating passive Lagrangian particle transport over flow-fields from any 2D shallow-water hydrodynamic model using a weighted random walk methodology.
 - [Blueant](https://github.com/AustralianAntarcticDivision/blueant) - Environmental data for Antarctic and Southern Ocean science.
 - [CO2SYS](https://github.com/jamesorr/CO2SYS-MATLAB) -  A MATLAB (or Octave) project to compute variables of ocean CO2 systems.
 - [mocsy](https://github.com/jamesorr/mocsy) - Routines to model ocean carbonate system thermodynamics.
 - [seacarb](https://github.com/jpgattuso/seacarb-git) - An R package that calculates various parameters of the carbonate system in seawater.
-- [RivGraph](https://github.com/jonschwenk/RivGraph) - Extracting and quantifying graphical representations of river and delta channel networks from binary masks.
 - [noaa_coops](https://github.com/GClunies/noaa_coops) -  A Python wrapper for the NOAA CO-OPS Tides & Currents Data and Metadata APIs.
-- [COSIMA](https://github.com/COSIMA/cosima-cookbook) - Ocean and sea-ice model analysis tools and examples.
-- [WaterDetect](https://github.com/cordmaur/WaterDetect) - End-to-end algorithm to generate open water cover mask, specially conceived for L2A Sentinel 2 imagery from MAJA1 processor, without any a priori knowledge on the scene.
-- [FLAREr](https://github.com/FLARE-forecast/FLAREr) - Flexible, scalable, robust, and near-real time iterative ecological forecasts in lakes and reservoirs.
+
+
+- [marineHeatWaves](https://github.com/ecjoliver/marineHeatWaves) - A module for Python which implements the Marine Heatwave definition of Hobday et al. (2016).
+- [heatwaveR](https://github.com/robwschlegel/heatwaveR) - Contains the original functions from the RmarineHeatWaves package that calculate and display marine heatwaves according to the definition of Hobday et al. (2016).  
+- [TSG-QC](https://forge.ird.fr/us191/TSG-QC) - Analysis and validation of underway Sea Surface Temperature and Sea Surface Salinity measurements from a SeaBird Thermosalinograph.
+
+
+- [OpenDrift](https://github.com/OpenDrift/opendrift) - A software for modeling the trajectories and fate of objects or substances drifting in the ocean, or even in the atmosphere.
+- [dorado](https://github.com/passaH2O/dorado) - Simulating passive Lagrangian particle transport over flow-fields from any 2D shallow-water hydrodynamic model using a weighted random walk methodology.
+- [parcels](https://github.com/OceanParcels/parcels) - Can be used to track passive and active particulates such as water, plankton, plastic and fish.
+
+### Ocean Data
 - [HyRiver](https://github.com/cheginit/HyRiver) - A Python software stack for retrieving hydroclimate data from web services.
-- [Buhayra](https://github.com/jmigueldelgado/buhayra) - Obtaining water extent of small reservoirs in semi-arid regions from satellite data in real-time.
-- [Wflow](https://github.com/Deltares/Wflow.jl) - A Julia package that provides a hydrological modeling framework, as well as several different vertical and lateral concepts that can be used to run hydrological simulations.
-- [ParFlow](https://github.com/parflow/parflow) - An open-source, modular, parallel watershed flow model. 
-- [River Runner](https://github.com/sdl60660/river-runner) - Visualize the path of a rain droplet from any point in the contiguous United States to its end point.
+
+### Coastal and Reefs
+
+
+
 - [visGWDB](https://code.usgs.gov/map/gw/visGWDBmrva) - A framework for groundwater-level informatics.
 - [LakePy](https://github.com/ESIPFed/LakePy) - Pythonic user-centered front-end to the Global Lake Level Database.
 - [rivr](https://github.com/mkoohafkan/rivr) - Designed as an educational tool for students and instructors of undergraduate and graduate courses in open channel hydraulics.
@@ -1329,7 +1342,6 @@ energy system designs and analysis of interactions between technologies.
 - [DALES](https://github.com/dalesteam/dales) - Dutch Atmospheric Large-Eddy Simulation model.
 - [ClimateSatellite.jl](https://github.com/JuliaClimate/ClimateSatellite.jl) - Julia package that downloads measurements and observational of climate satellite mission data.
 - [canadaHCD](https://github.com/gavinsimpson/canadaHCD/) - Access Canadian Historical Climate Data from R.
-- [climatedataguide](https://climatedataguide.ucar.edu/) - Search and access 212 datasets covering the Atmosphere, Ocean, Land and more. Explore climate indices, reanalyses and satellite data and understand their application to climate model metrics.
 - [ClimateSERV](https://github.com/SERVIR/ClimateSERV2) - This web application allows development practitioners, scientists/researchers, and government decision-makers to visualize and download historical rainfall data, vegetation condition data, and 180-day forecasts of rainfall and temperature to improve understanding of, and make improved decisions for, issues related to agriculture and water availability.
 - [ClimateSERVpy](https://github.com/SERVIR/ClimateSERVpy) - Enables access to the ClimateSERV API where many types of climate data can be subset by area of interest, and time range, then either downloaded as tif, or NetCDf files, or the data can be statistically processed to render json values or csv.
 - [chirps](https://github.com/ropensci/chirps) - A quasi-global high-resolution rainfall data set, which incorporates satellite imagery and in-situ station data to create gridded rainfall time series for trend analysis and seasonal drought monitoring.
@@ -1363,6 +1375,8 @@ energy system designs and analysis of interactions between technologies.
 - [cf-conventions](https://github.com/cf-convention/cf-conventions) - The conventions for CF (Climate and Forecast) metadata are designed to promote the processing and sharing of files created with the NetCDF API.
 - [cf-python](https://github.com/NCAS-CMS/cf-python) - A CF-compliant Earth Science data analysis library.
 - [CF Checker](https://github.com/cedadev/cf-checker) - The CF Checker is a utility that checks the contents of a NetCDF file complies with the Climate and Forecasts (CF) Metadata Convention.
+- [climatedataguide](https://climatedataguide.ucar.edu/) - Search and access 212 datasets covering the Atmosphere, Ocean, Land and more. Explore climate indices, reanalyses and satellite data and understand their application to climate model metrics.
+- [rnoaa](https://github.com/ropensci/rnoaa) - An R interface to many National Oceanic and Atmospheric Administration data sources.
 - [xCDAT](https://github.com/xCDAT/xcdat) - An extension of xarray for climate data analysis on structured grids.
 - [ipcc_sr15_scenario_analysis](https://github.com/iiasa/ipcc_sr15_scenario_analysis) - Scenario analysis notebooks for the IPCC Special Report on Global Warming of 1.5°C.
 - [Geoclimate](https://github.com/orbisgis/geoclimate) - Geospatial processing toolbox for environmental and climate studies.
