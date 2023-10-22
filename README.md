@@ -44,11 +44,18 @@ If you're looking for developer tutorials on topics such as renewable energy, cl
 - [Industrial Ecology](#industrial-ecology)
   - [Life Cycle Assessment](#life-cycle-assessment)
   - [Circular Economy and Waste](#circular-economy-and-waste)
-- [Earth Systems](#earth-systems)
-  - [Biosphere](#biosphere)
-  - [Cryosphere](#cryosphere)
-  - [Hydrosphere](#hydrosphere)
-  - [Atmosphere](#atmosphere)
+- [Biosphere](#biosphere)
+  - [Biodiversity and Species Distribution](#biodiversity-and-species-distribution)
+  - [Conservation and Restoration](#conservation-and-restoration)
+  - [Forest Observation and Management](#forest-observation-and-management)
+  - [Plants and Vegetation](#plants-and-vegetation)
+  - [Biomass](#biomass)
+  - [Wildfire](#wildfire)
+  - [Marine Life and Fishery](#marine-life-and-fishery)
+  - [Terrestrial Animals](#terrestrial-animals)
+- [Cryosphere](#cryosphere)
+- [Hydrosphere](#hydrosphere)
+- [Atmosphere](#atmosphere)
 - [Climate and Earth Science](#climate-and-earth-science)
   - [Earth and Climate Modeling](#earth-and-climate-modeling)
   - [Climate Data Processing and Access](#climate-data-processing-and-access)
@@ -858,7 +865,7 @@ energy system designs and analysis of interactions between technologies.
 
 ## Biosphere
 
-### Biodiversity and Distribution
+### Biodiversity and Species Distribution
 - [rgbif](https://github.com/ropensci/rgbif) - Interface to the Global Biodiversity Information Facility API.
 - [taxize](https://github.com/ropensci/taxize) - Allows users to search over many taxonomic data sources for species names (scientific and common) and download up and downstream taxonomic hierarchical information.
 - [Global Biotic Interactions](https://github.com/globalbioticinteractions/globalbioticinteractions) - Global Biotic Interactions provides access to existing species interaction datasets.
@@ -934,7 +941,7 @@ energy system designs and analysis of interactions between technologies.
 - [ADRIA.jl](https://github.com/open-AIMS/ADRIA.jl) -  A multi-criteria decision support platform for informing reef restoration and adaptation interventions.
 
 
-### Forest
+### Forest Observation and Management
 - [ECOSTRESS](https://ecostress.jpl.nasa.gov/) - The images acquired by ECOSTRESS are the most detailed temperature images of the surface ever acquired from space and can be used to measure the temperature of an individual farmers field and plants.
 - [treeseg](https://github.com/apburt/treeseg/) - Developed to near-automatically extract tree-level point clouds from high-density larger-area lidar point clouds acquired in forests.
 - [fgeo](https://github.com/forestgeo/fgeo) - Analyze forest diversity and dynamics.
