@@ -54,6 +54,9 @@ If you're looking for developer tutorials on topics such as renewable energy, cl
   - [Marine Life and Fishery](#marine-life-and-fishery)
   - [Terrestrial Animals](#terrestrial-animals)
 - [Cryosphere](#cryosphere)
+  - [Sea Ice](#sea-ice)
+  - [Glacier and Ice Sheets](#glacier-and-ice-sheets)
+  - [Snow and Permafrost](#snow-and-permafrost)
 - [Hydrosphere](#hydrosphere)
 - [Atmosphere](#atmosphere)
 - [Climate and Earth Science](#climate-and-earth-science)
@@ -1065,46 +1068,50 @@ energy system designs and analysis of interactions between technologies.
 - [EcoAssist](https://github.com/PetervanLunteren/EcoAssist) - An open-source application designed to streamline the work of ecologists dealing with camera trap images.
 
 ### Cryosphere
+- [Sea Ice](#sea-ice)
+  - [ACCESS-OM2](https://github.com/COSIMA/access-om2) - Global ocean-sea ice coupled model configurations.
+  - [Sea ice drift](https://github.com/nansencenter/sea_ice_drift) - Sea ice drift from Sentinel-1 SAR imagery using open source feature tracking.
+  - [CICE](https://github.com/CICE-Consortium/CICE) - A computationally efficient model for simulating the growth, melting, and movement of polar sea ice.
+  - [OSSP](https://github.com/wrightni/OSSP) - Open Source Algorithm for Detecting Sea Ice Surface Features in High Resolution Optical Imagery.
+  - [sea-ice](https://github.com/vannizhang/sea-ice) - Displays the monthly mean sea ice extent for the Arctic and Antarctic along with the historical median extent.
 
-- [Planet Snowcover](https://github.com/acannistra/planet-snowcover) - A project that pairs airborne lidar and Planet Labs satellite imagery with cutting-edge computer vision techniques to identify snow-covered area at unprecedented spatial and temporal resolutions.
-- [Sea ice drift](https://github.com/nansencenter/sea_ice_drift) - Sea ice drift from Sentinel-1 SAR imagery using open source feature tracking.
-- [smrt](https://github.com/smrt-model/smrt) - Snow Microwave Radiative Transfer model to compute thermal emission and backscatter from snowpack.
-- [OGGM](https://github.com/OGGM/oggm) - A modular open source model for glacier dynamics.
-- [CICE](https://github.com/CICE-Consortium/CICE) - A computationally efficient model for simulating the growth, melting, and movement of polar sea ice.
-- [PISM](https://github.com/pism/pism) - The Parallel Ice Sheet Model is an open source, parallel, high-resolution ice sheet model.
-- [icepack](https://github.com/CICE-Consortium/Icepack) - Finite element modeling of glaciers and ice sheets.
-- [DeepBedMap](https://github.com/weiji14/deepbedmap) - Using a deep neural network to better resolve the bed topography of Antarctica.
-- [OSSP](https://github.com/wrightni/OSSP) - Open Source Algorithm for Detecting Sea Ice Surface Features in High Resolution Optical Imagery.
-- [captoolkit](https://github.com/fspaolo/captoolkit) - NASA's Cryosphere Altimetry Processing Toolkit.
-- [sea-ice](https://github.com/vannizhang/sea-ice) - Displays the monthly mean sea ice extent for the Arctic and Antarctic along with the historical median extent.
-- [SIS2](https://github.com/NOAA-GFDL/SIS2) - Calculates the concentration, thickness, temperature, brine content and snow cover of an arbitrary number of ice thickness categories (including open water) as well as the motion of the complete pack.
-- [FSM2](https://github.com/RichardEssery/FSM2) - The Flexible Snow Model is a multi-physics energy balance model of snow accumulation and melt, extending the Factorial Snow Model (Essery, 2015) with additional physics, driving and output options.
-- [freshwater](https://github.com/GEUS-PROMICE/freshwater) - Greenland liquid water runoff from 1958 through 2019.
-- [PyTrx](https://github.com/PennyHow/PyTrx) - Its primary purpose is to obtain velocities, surface areas, and distances from oblique, optical imagery of glacial environments.
-- [ECCO-v4-Python-Tutorial](https://github.com/ECCO-GROUP/ECCO-v4-Python-Tutorial) - Contains several tutorials for using the ECCO Central Production Version 4 ocean and sea-ice state estimate.
-- [icepyx](https://github.com/icesat2py/icepyx) - Python tools for obtaining and working with ICESat-2 data.
-- [BedMachine](https://github.com/chadagreene/BedMachine) - Matlab tools for loading, interpolating, and displaying BedMachine ice sheet topography.
-- [Iceberg Locations](https://github.com/Joel-hanson/Iceberg-locations) - Antarctic large iceberg positions derived from ASCAT and OSCAT-2.
-- [GlaThiDa](https://gitlab.com/wgms/glathida) - Glacier Thickness Database.
-- [SICOPOLIS](https://gitlab.awi.de/sicopolis/sicopolis) - A 3-d dynamic/thermodynamic model that simulates the evolution of large ice sheets and ice caps.
-- [ALPGM](https://github.com/JordiBolibar/ALPGM) - Regional glacier evolution model based on deep learning and parametrizations.
-- [Glacier Mapping From Satellite Imagery](https://github.com/krisrs1128/glacier_mapping) - Use computer vision to automatically segment debris and ice glaciers from satellite images.
-- [DeepIceDrain](https://github.com/weiji14/deepicedrain) - Mapping and monitoring deep subglacial water activity in Antarctica using remote sensing and machine learning.
-- [cosipy](https://github.com/cryotools/cosipy) - Solves the energy balance at the surface and is coupled to an adaptive vertical multi-layer subsurface module.
-- [QGreenland](https://github.com/nsidc/qgreenland) - A free mapping tool to support interdisciplinary Greenland-focused research, teaching, decision making, and collaboration.
-- [Teaspoon](https://gitlab.com/permafrostnet/teaspoon) - A python library designed to make working with permafrost ground temperature time series data more straightforward, efficient, and reproduceable.
-- [BioSNICAR](https://github.com/jmcook1186/biosnicar-py) - Predicts the spectral albedo of snow and glacier ice between 200nm to 5000nm given information about the illumination conditions, ice structure and the type and concentration particulates.
-- [snotelr](https://github.com/bluegreen-labs/snotelr) -  R toolbox to facilitate easy SNOTEL data exploration and downloads through a convenient shiny based GUI.
-- [LIVVkit](https://github.com/LIVVkit/LIVVkit) - The land ice verification and validation toolkit.
-- [Permamodel](https://github.com/permamodel/permamodel) - A collection of numerical permafrost models with a range of capability and complexity.
-- [pypromice](https://github.com/GEUS-Glaciology-and-Climate/pypromice) - Deliver data about the mass balance of the Greenland ice sheet in near real-time.
-- [GLAFT](https://github.com/whyjz/GLAFT) - Python module for assessing glacier velocity maps using statistics- and physics-based metrics.
-- [ACCESS-OM2](https://github.com/COSIMA/access-om2) - Global ocean-sea ice coupled model configurations.
-- [SNOWPACK](https://code.wsl.ch/snow-models/snowpack) - A multi-purpose snow and land-surface model, which focuses on a detailed description of the mass and energy exchange between the snow, the atmosphere and optionally with the vegetation cover and the soil.
-- [ITS_LIVE](https://github.com/nasa-jpl/its_live) - Provide automated, low latency, global glacier flow and elevation change datasets.
-- [ODINN.jl](https://github.com/ODINN-SciML/ODINN.jl) - Global glacier model using Universal Differential Equations for climate-glacier interactions.
-- [Yelmo](https://github.com/palma-ice/yelmo) - A 3D ice-sheet-shelf model solving for the coupled dynamics and thermodynamics of the ice sheet system.
-- [WAVI.jl](https://github.com/RJArthern/WAVI.jl) - A fast and friendly ice sheet model, written in Julia.
+- [Glacier and Ice Sheets](#glacier-and-ice-sheets)
+  - [PyTrx](https://github.com/PennyHow/PyTrx) - Its primary purpose is to obtain velocities, surface areas, and distances from oblique, optical imagery of glacial environments.
+  - [OGGM](https://github.com/OGGM/oggm) - A modular open source model for glacier dynamics.
+  - [GlaThiDa](https://gitlab.com/wgms/glathida) - Glacier Thickness Database.
+  - [ALPGM](https://github.com/JordiBolibar/ALPGM) - Regional glacier evolution model based on deep learning and parametrizations.
+  - [Glacier Mapping From Satellite Imagery](https://github.com/krisrs1128/glacier_mapping) - Use computer vision to automatically segment debris and ice glaciers from satellite images.
+  - [captoolkit](https://github.com/fspaolo/captoolkit) - NASA's Cryosphere Altimetry Processing Toolkit.
+  - [PISM](https://github.com/pism/pism) - The Parallel Ice Sheet Model is an open source, parallel, high-resolution ice sheet model.
+  - [icepack](https://github.com/CICE-Consortium/Icepack) - Finite element modeling of glaciers and ice sheets.
+  - [DeepBedMap](https://github.com/weiji14/deepbedmap) - Using a deep neural network to better resolve the bed topography of Antarctica.
+  - [SIS2](https://github.com/NOAA-GFDL/SIS2) - Calculates the concentration, thickness, temperature, brine content and snow cover of an arbitrary number of ice thickness categories (including open water) as well as the motion of the complete pack.
+  - [freshwater](https://github.com/GEUS-PROMICE/freshwater) - Greenland liquid water runoff from 1958 through 2019.
+  - [ECCO-v4-Python-Tutorial](https://github.com/ECCO-GROUP/ECCO-v4-Python-Tutorial) - Contains several tutorials for using the ECCO Central Production Version 4 ocean and sea-ice state estimate.
+  - [icepyx](https://github.com/icesat2py/icepyx) - Python tools for obtaining and working with ICESat-2 data.
+  - [BedMachine](https://github.com/chadagreene/BedMachine) - Matlab tools for loading, interpolating, and displaying BedMachine ice sheet topography.
+  - [Iceberg Locations](https://github.com/Joel-hanson/Iceberg-locations) - Antarctic large iceberg positions derived from ASCAT and OSCAT-2.
+  - [SICOPOLIS](https://gitlab.awi.de/sicopolis/sicopolis) - A 3-d dynamic/thermodynamic model that simulates the evolution of large ice sheets and ice caps.
+  - [cosipy](https://github.com/cryotools/cosipy) - Solves the energy balance at the surface and is coupled to an adaptive vertical multi-layer subsurface module.
+  - [QGreenland](https://github.com/nsidc/qgreenland) - A free mapping tool to support interdisciplinary Greenland-focused research, teaching, decision making, and collaboration.
+  - [DeepIceDrain](https://github.com/weiji14/deepicedrain) - Mapping and monitoring deep subglacial water activity in Antarctica using remote sensing and machine learning.
+  - [LIVVkit](https://github.com/LIVVkit/LIVVkit) - The land ice verification and validation toolkit.
+  - [pypromice](https://github.com/GEUS-Glaciology-and-Climate/pypromice) - Deliver data about the mass balance of the Greenland ice sheet in near real-time.
+  - [GLAFT](https://github.com/whyjz/GLAFT) - Python module for assessing glacier velocity maps using statistics- and physics-based metrics.
+  - [ITS_LIVE](https://github.com/nasa-jpl/its_live) - Provide automated, low latency, global glacier flow and elevation change datasets.
+  - [ODINN.jl](https://github.com/ODINN-SciML/ODINN.jl) - Global glacier model using Universal Differential Equations for climate-glacier interactions.
+  - [Yelmo](https://github.com/palma-ice/yelmo) - A 3D ice-sheet-shelf model solving for the coupled dynamics and thermodynamics of the ice sheet system.
+  - [WAVI.jl](https://github.com/RJArthern/WAVI.jl) - A fast and friendly ice sheet model, written in Julia.
+
+- [Snow and Permafrost](#snow-and-permafrost)
+  - [Planet Snowcover](https://github.com/acannistra/planet-snowcover) - A project that pairs airborne lidar and Planet Labs satellite imagery with cutting-edge computer vision techniques to identify snow-covered area at unprecedented spatial and temporal resolutions.
+  - [smrt](https://github.com/smrt-model/smrt) - Snow Microwave Radiative Transfer model to compute thermal emission and backscatter from snowpack.
+  - [FSM2](https://github.com/RichardEssery/FSM2) - The Flexible Snow Model is a multi-physics energy balance model of snow accumulation and melt, extending the Factorial Snow Model (Essery, 2015) with additional physics, driving and output options.
+  - [Teaspoon](https://gitlab.com/permafrostnet/teaspoon) - A python library designed to make working with permafrost ground temperature time series data more straightforward, efficient, and reproduceable.
+  - [BioSNICAR](https://github.com/jmcook1186/biosnicar-py) - Predicts the spectral albedo of snow and glacier ice between 200nm to 5000nm given information about the illumination conditions, ice structure and the type and concentration particulates.
+  - [Permamodel](https://github.com/permamodel/permamodel) - A collection of numerical permafrost models with a range of capability and complexity.
+  - [SNOWPACK](https://code.wsl.ch/snow-models/snowpack) - A multi-purpose snow and land-surface model, which focuses on a detailed description of the mass and energy exchange between the snow, the atmosphere and optionally with the vegetation cover and the soil.
+
 
 ### Hydrosphere
 
@@ -1441,6 +1448,8 @@ energy system designs and analysis of interactions between technologies.
 - [xscen](https://github.com/Ouranosinc/xscen) - A climate change scenario-building analysis framework, built with Intake-esm catalogs and xarray-based packages such as xclim and xESMF.
 - [w2w](https://github.com/matthiasdemuzere/w2w) - A WUDAPT-to-WRF python tool that injects World Urban Database and Access Portal Tools (WUDAPT)'s  Local Climate Zone information into WRF.
 - [Climate Tool](https://gitlab.com/then-try-this/climate-tool) - A tool for connecting together scientific information across climate, health and policy in the UK.
+- [snotelr](https://github.com/bluegreen-labs/snotelr) -  R toolbox to facilitate easy SNOTEL data exploration and downloads through a convenient shiny based GUI.
+
 
 ### Meteorological Observation and Forecast
 
