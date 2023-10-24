@@ -75,7 +75,7 @@ If you're looking for developer tutorials on topics such as renewable energy, cl
   - [Integrated Assessment](#integrated-assessment)
 - [Natural Resources](#natural-resources)
   - [Air Quality](#air-quality)
-  - [Water Supply and Quality](#water-supply-and-quality)
+  - [Water Supply](#water-supply)
   - [Soil and Land](#soil-and-land)
   - [Agriculture and Nutrition](#agriculture-and-nutrition)
 - [Sustainable Development](#sustainable-development)
@@ -1617,7 +1617,7 @@ energy system designs and analysis of interactions between technologies.
 - [qualR](https://github.com/ropensci/qualR) - Download of air pollutants and meteorological information from CETESB QUALAR System for São Paulo, and MonitorAr Program, for Rio de Janeiro.
 
 
-### Water Supply and Quality 
+### Water Supply
 
 - [Stormwater-Management-Model](https://github.com/USEPA/Stormwater-Management-Model) - Used for single event or long-term (continuous) simulation of runoff quantity and quality from primarily urban areas.
 - [dataRetrieval](https://github.com/USGS-R/dataRetrieval) - This R package is designed to obtain USGS or EPA water quality sample data, streamflow data and metadata directly from web services.
