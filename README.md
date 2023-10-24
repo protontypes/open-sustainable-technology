@@ -3,7 +3,7 @@
 # Open Sustainable Technology
 [<img src="earth.png" align="right" width="350">](https://tabletopwhale.com/)
 
-__A curated list of open technology projects to sustain a stable climate, energy supply, biodiversity and natural resources.__ <br> <br> Your contribution is essential to keep this list alive. Please [write an email](mailto:tobias.augspurger@protontypes.eu) or [create an issue](https://github.com/protontypes/open-sustainable-technology/issues/new) to give feedback, hints and ideas considering [OpenSustain.tech](https://opensustain.tech/). 
+__A directory of all active open source projects for the sustainability of climate, energy supply, biodiversity and natural resources.__ <br> <br> Your contribution is essential to keep this list alive. Please [write an email](mailto:tobias.augspurger@protontypes.eu) or [create an issue](https://github.com/protontypes/open-sustainable-technology/issues/new) to give feedback, hints and ideas considering [OpenSustain.tech](https://opensustain.tech/). 
 
 If you're looking for developer tutorials on topics such as renewable energy, climate change or earth science, check out the [Education](https://opensustain.tech/education/) section. 
 
@@ -64,7 +64,7 @@ If you're looking for developer tutorials on topics such as renewable energy, cl
   - [Ocean Data Processing and Access](#ocean-data-processing-and-access)
 - [Atmosphere](#atmosphere)
   - [Atmospheric Composition and Dynamics](#atmospheric-composition-and-dynamics)
-  - [Atmosphere Dispersion and Transport](#atmosphere-dispersion-and-transport]
+  - [Atmospheric Dispersion and Transport](#atmospheric-dispersion-and-transport)
   - [Atmospheric Chemistry and Aerosol](#atmospheric-chemistry-and-aerosol)
 - [Climate and Earth Science](#climate-and-earth-science)
   - [Earth and Climate Modeling](#earth-and-climate-modeling)
@@ -1266,7 +1266,7 @@ energy system designs and analysis of interactions between technologies.
 - [ACT](https://github.com/ARM-DOE/ACT) - The Atmospheric data Community Toolkit is an open source Python toolkit for working with atmospheric time-series datasets of varying dimensions.
 - [Freva](https://gitlab.dkrz.de/freva/evaluation_system) - A data search and analysis platform developed by the atmospheric science community for the atmospheric science community.
 
-### Atmosphere Dispersion and Transport
+### Atmospheric Dispersion and Transport
 - [Massive-Parallel Trajectory Calculations](https://github.com/slcs-jsc/mptrac) - A Lagrangian particle dispersion model for the analysis of atmospheric transport processes in the free troposphere and stratosphere.
 - [GRAL](https://github.com/GralDispersionModel/GRAL) - A Lagrangian dispersion model with reasonable demands on computational times and sensible accuracy. 
 - [SNAP](https://github.com/metno/snap) - A lagrangian type atmospheric dispersion model specialized on modelling dispersion of radioactive debris.
