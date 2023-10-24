@@ -59,6 +59,7 @@ If you're looking for developer tutorials on topics such as renewable energy, cl
   - [Freshwater and Hydrology](#freshwater-and-hydrology)
   - [Ocean Circulation Models](#ocean-circulation-models)
   - [Waves and Currents](#waves-and-currents)
+  - [Ocean Carbon and Temperature](#ocean-carbon-and-temperature)
   - [Coastal and Reefs](#coastal-and-reefs)
   - [Ocean Data Processing and Access](#ocean-data-processing-and-access)
 - [Atmosphere](#atmosphere)
