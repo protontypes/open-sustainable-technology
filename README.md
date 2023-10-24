@@ -1062,6 +1062,7 @@ energy system designs and analysis of interactions between technologies.
 - [PhytoFit](https://github.com/BIO-RSG/PhytoFit) - Used to display satellite chlorophyll concentration, and calculate statistics and model phytoplankton blooms for regions within custom polygons.
 - [Echopype](https://github.com/OSOceanAcoustics/echopype) - A package built to enable interoperability and scalability in ocean sonar data processing.
 - [OSMOSE](https://github.com/osmose-model/osmose) - A multispecies and individual-based model which focuses on fish species.
+- [WHOI HABhub Data Portal](https://github.com/WHOIGit/whoi-hab-hub) - Is being developed as a data access and visualization portal for the New England Harmful Algal Bloom Observing Network.
 
   
 ### Terrestrial Animals
@@ -1120,6 +1121,7 @@ energy system designs and analysis of interactions between technologies.
   - [BioSNICAR](https://github.com/jmcook1186/biosnicar-py) - Predicts the spectral albedo of snow and glacier ice between 200nm to 5000nm given information about the illumination conditions, ice structure and the type and concentration particulates.
   - [Permamodel](https://github.com/permamodel/permamodel) - A collection of numerical permafrost models with a range of capability and complexity.
   - [SNOWPACK](https://code.wsl.ch/snow-models/snowpack) - A multi-purpose snow and land-surface model, which focuses on a detailed description of the mass and energy exchange between the snow, the atmosphere and optionally with the vegetation cover and the soil.
+  - [MuSA](https://github.com/ealonsogzl/MuSA) - A flexible data assimilation toolbox for experimental and operational snowpack reanalysis development.
 
 
 ## Hydrosphere
@@ -1154,6 +1156,11 @@ energy system designs and analysis of interactions between technologies.
 - [LISF](https://github.com/NASA-LIS/LISF) - A software framework for high performance terrestrial hydrology modeling and data assimilation developed with the goal of integrating satellite and ground-based observational data products.
 - [Conceptual Functional Equivalent](https://github.com/NOAA-OWP/cfe) - A conceptual rainfall-runoff model with an implementation of the Basic Model Interface.
 - [NeuralHydrology](https://github.com/neuralhydrology/neuralhydrology) - Python library to train neural networks with a strong focus on hydrological applications.
+- [Surface water network](https://github.com/mwtoews/surface-water-network) - A Python package to create and analyze surface water networks.
+- [Lekan](https://github.com/vcloarec/ReosProject) - Provide a software that assists the user doing hydrological and hydraulic studies for flood mapping and forecasting, hydraulic structure design, or other tasks linked to natural surface flow.
+- [RUBEM](https://github.com/LabSid-USP/RUBEM) - A distributed hydrological model to calculate monthly flows with changes in land use over time.
+- [pywatershed](https://github.com/EC-USGS/pywatershed) - A sustainable integrated, hydrologic modeling framework for the U.S. Geological Survey.
+- [pyMETRIC](https://github.com/WSWUP/pymetric) - A set of Python based tools developed for estimating and mapping evapotranspiration for large areas, utilizing the Landsat image archive.
 
 
 ### Ocean Circulation Models
@@ -1172,7 +1179,8 @@ energy system designs and analysis of interactions between technologies.
 - [pyroms](https://github.com/ESMG/pyroms) - A collection of tools to process input and output files from the Regional Ocean Modeling System.
 - [wrfhydropy](https://github.com/NCAR/wrf_hydro_py) - Provides an end-to-end python interface to support reproducible research and construction of workflows involving the WRF-Hydro model.
 
-### Integrated Ocean Modeling
+
+### Ocean Carbon and Temperature
 - [CO2SYS](https://github.com/jamesorr/CO2SYS-MATLAB) -  A MATLAB (or Octave) project to compute variables of ocean CO2 systems.  
 - [PyCO2SYS](https://github.com/mvdh7/PyCO2SYS) - Marine carbonate system calculations in Python.
 - [seacarb](https://github.com/jpgattuso/seacarb-git) - An R package that calculates various parameters of the carbonate system in seawater.
@@ -1181,8 +1189,8 @@ energy system designs and analysis of interactions between technologies.
 - [ERSEM](https://github.com/pmlmodelling/ersem) - A marine biogeochemical and ecosystem model that describes the cycling of carbon, nitrogen, phosphorus, silicon, oxygen and iron through the lower trophic level pelagic and benthic ecosystems.
 - [AIBECS.jl](https://github.com/JuliaOcean/AIBECS.jl) - A Julia package that provides ocean biogeochemistry modelers with an easy-to-use interface for creating and running models of the ocean system.
 - [mocsy](https://github.com/jamesorr/mocsy) - Routines to model ocean carbonate system thermodynamics.
-
-
+- [cbsyst](https://github.com/oscarbranson/cbsyst) - A Python module for calculating seawater carbon and boron chemistry.
+- [Open Acidification Project](https://github.com/Open-Acidification/AlkalinityTitrator) - Apparatus to determine total alkalinity in sea water using an open-cell titration.
 - [m_mhw](https://github.com/ZijieZhaoMMHW/m_mhw1.0) - Detect and analyse spatial marine heatwaves.
 - [AutoQC](https://github.com/IQuOD/AutoQC) - A testing suite for automatic quality control checks of subsurface ocean temperature observations.
 - [marineHeatWaves](https://github.com/ecjoliver/marineHeatWaves) - A module for Python which implements the Marine Heatwave definition of Hobday et al. (2016).
@@ -1195,6 +1203,19 @@ energy system designs and analysis of interactions between technologies.
 - [parcels](https://github.com/OceanParcels/parcels) - Can be used to track passive and active particulates such as water, plankton, plastic and fish.
 - [wavespectra](https://github.com/wavespectra/wavespectra) - An open source project for working with ocean wave spectral data.
 - [LESbrary.jl](https://github.com/CliMA/LESbrary.jl) - Generating a library of ocean turbulence large eddy simulation data to train ocean and climate models.
+
+
+### Coastal and Reefs
+- [py-wave-runup](https://github.com/chrisleaman/py-wave-runup) - A Python module which makes it easy for coastal engineers and scientists to test and use various empirical wave runup models which have been published in literature.
+- [CoastSat](https://github.com/kvos/CoastSat) - Enables users to obtain time-series of shoreline position at any coastline worldwide from 30+ years of publicly available satellite imagery.
+- [PySAMOSA](https://github.com/floschl/pysamosa) - A Python-based software for processing open ocean and coastal waveforms from SAR satellite altimetry to measure sea surface heights, wave heights, and wind speed for the oceans and inland waters.
+- [Digital Earth Australia Coastlines](https://github.com/GeoscienceAustralia/dea-coastlines) - Extracting tidally-constrained annual shorelines and robust rates of coastal change from freely available Earth observation data at continental scale.
+- [Thetis](https://github.com/thetisproject/thetis) - An unstructured grid coastal ocean model built using the Firedrake finite element framework.
+- [OceanMesh2D](https://github.com/CHLNDDEV/OceanMesh2D) - Precise distance-based two-dimensional automated mesh generation toolbox intended for coastal ocean/shallow water flow models.
+- [oceanmesh](https://github.com/CHLNDDEV/oceanmesh) - A Python package for the development of unstructured triangular meshes that are used in the simulation of coastal ocean circulation.
+- [AeoLiS](https://github.com/openearth/aeolis-python) - Simulating aeolian sediment transport in situations where supply-limiting factors are important, like in coastal environments.
+- [REEF3D](https://github.com/REEF3D/REEF3D) - An efficiently parallelized hydrodynamics framework with a focus on coastal, marine and hydraulic engineering flows.
+- [pygetm](https://github.com/BoldingBruggeman/getm-rewrite) - A Python rewrite of the General Estuarine Transport Model.
 
 
 ### Ocean Data Processing and Access
@@ -1210,37 +1231,9 @@ energy system designs and analysis of interactions between technologies.
 - [Ocean-Data-Map-Project](https://github.com/DFO-Ocean-Navigator/Ocean-Data-Map-Project) - A Data Visualization tool that enables users to discover and view 3D ocean model output quickly and easily.
 - [OceanSpy](https://github.com/hainegroup/oceanspy) - An open source and user-friendly Python package that enables scientists and interested amateurs to analyze and visualize ocean model datasets.
 - [oce](https://github.com/dankelley/oce) - An R package for oceanographic processing.
-
-
-### Coastal and Reefs
-- [py-wave-runup](https://github.com/chrisleaman/py-wave-runup) - A Python module which makes it easy for coastal engineers and scientists to test and use various empirical wave runup models which have been published in literature.
-- [CoastSat](https://github.com/kvos/CoastSat) - Enables users to obtain time-series of shoreline position at any coastline worldwide from 30+ years of publicly available satellite imagery.
-
-### Ocean Acidification
-- [Open Acidification Project](https://github.com/Open-Acidification/AlkalinityTitrator) - Apparatus to determine total alkalinity in sea water using an open-cell titration.
-
-
-- [PySAMOSA](https://github.com/floschl/pysamosa) - A Python-based software for processing open ocean and coastal waveforms from SAR satellite altimetry to measure sea surface heights, wave heights, and wind speed for the oceans and inland waters.
 - [GPM-API](https://github.com/ghiggi/gpm_api) - Provides an easy-to-use python interface to download, read, process and visualize most of the products of the Global Precipitation Measurement Mission (GPM) data archive.
-- [Surface water network](https://github.com/mwtoews/surface-water-network) - A Python package to create and analyze surface water networks.
-- [Lekan](https://github.com/vcloarec/ReosProject) - Provide a software that assists the user doing hydrological and hydraulic studies for flood mapping and forecasting, hydraulic structure design, or other tasks linked to natural surface flow.
-- [cbsyst](https://github.com/oscarbranson/cbsyst) - A Python module for calculating seawater carbon and boron chemistry.
-- [WHOI HABhub Data Portal](https://github.com/WHOIGit/whoi-hab-hub) - Is being developed as a data access and visualization portal for the New England Harmful Algal Bloom Observing Network.
-- [RUBEM](https://github.com/LabSid-USP/RUBEM) - A distributed hydrological model to calculate monthly flows with changes in land use over time.
-- [pywatershed](https://github.com/EC-USGS/pywatershed) - A sustainable integrated, hydrologic modeling framework for the U.S. Geological Survey.
 - [hddtools](https://github.com/ropensci/hddtools) - An open source project designed to facilitate access to a variety of online open data sources relevant for hydrologists and, in general, environmental scientists and practitioners.
-- [pygetm](https://github.com/BoldingBruggeman/getm-rewrite) - A Python rewrite of the General Estuarine Transport Model.
-- [Digital Earth Australia Coastlines](https://github.com/GeoscienceAustralia/dea-coastlines) - Extracting tidally-constrained annual shorelines and robust rates of coastal change from freely available Earth observation data at continental scale.
-- [Thetis](https://github.com/thetisproject/thetis) - An unstructured grid coastal ocean model built using the Firedrake finite element framework.
-- [CWWED](https://github.com/flackdl/cwwed) - Serves as an interactive GIS database for hosting and disseminating post-storm assessment data created by the Named Storm Event Model.
-- [OceanMesh2D](https://github.com/CHLNDDEV/OceanMesh2D) - Precise distance-based two-dimensional automated mesh generation toolbox intended for coastal ocean/shallow water flow models.
-- [MuSA](https://github.com/ealonsogzl/MuSA) - A flexible data assimilation toolbox for experimental and operational snowpack reanalysis development.
-- [oceanmesh](https://github.com/CHLNDDEV/oceanmesh) - A Python package for the development of unstructured triangular meshes that are used in the simulation of coastal ocean circulation.
-- [AeoLiS](https://github.com/openearth/aeolis-python) - Simulating aeolian sediment transport in situations where supply-limiting factors are important, like in coastal environments.
-- [REEF3D](https://github.com/REEF3D/REEF3D) - An efficiently parallelized hydrodynamics framework with a focus on coastal, marine and hydraulic engineering flows.
-- [pyMETRIC](https://github.com/WSWUP/pymetric) - A set of Python based tools developed for estimating and mapping evapotranspiration for large areas, utilizing the Landsat image archive.
 - [hydrobr](https://github.com/hydroversebr/hydrobr) - Help users select, download and clean data from pluvio- and fluviometric stations from the Brazilian National Water Agency.
-
 
 
 ### Atmosphere
@@ -1539,6 +1532,8 @@ energy system designs and analysis of interactions between technologies.
 - [ASGS](https://github.com/StormSurgeLive/asgs) - Provides software infrastructure for automating coastal ocean modelling for real time hurricane decision support.
 - [StormR](https://github.com/umr-amap/StormR) - An R package allowing to easily extract storm track data for given locations or areas of interests, to generate wind speed and direction fields, and to compute summary statistics characterising the behaviour of winds generated by tropical storms and cyclones.
 - [TREC](https://github.com/tsdataclinic/TREC) - Allows users to efficiently assess the climate risk for transit stations within the context of the access it provides to vital services and regions.
+- [CWWED](https://github.com/flackdl/cwwed) - Serves as an interactive GIS database for hosting and disseminating post-storm assessment data created by the Named Storm Event Model.
+
 
 ### Radiative Transfer
 
