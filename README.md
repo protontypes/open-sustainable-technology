@@ -63,6 +63,9 @@ If you're looking for developer tutorials on topics such as renewable energy, cl
   - [Coastal and Reefs](#coastal-and-reefs)
   - [Ocean Data Processing and Access](#ocean-data-processing-and-access)
 - [Atmosphere](#atmosphere)
+  - [Atmospheric Composition and Dynamics](#atmospheric-composition-and-dynamics)
+  - [Atmosphere Dispersion and Transport](#atmosphere-dispersion-and-transport]
+  - [Atmospheric Chemistry and Aerosol](#atmospheric-chemistry-and-aerosol)
 - [Climate and Earth Science](#climate-and-earth-science)
   - [Earth and Climate Modeling](#earth-and-climate-modeling)
   - [Climate Data Processing and Access](#climate-data-processing-and-access)
