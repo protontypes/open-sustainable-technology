@@ -10,8 +10,6 @@ If you're looking for developer tutorials on topics such as renewable energy, cl
 [![](https://badgen.net/badge/View/Spreadsheets/009485?scale=1.6)](https://airtable.com/app5xF6beX5EYn3b9/shr9we419r2TkpLkc/)
 [![](https://badgen.net/badge/Download/Report/009485?scale=1.6)](https://raw.githubusercontent.com/protontypes/open-source-in-environmental-sustainability/main/OpenSourceSustainabilityEcosystem_080423.pdf) 
 
-[![](https://badgen.net/badge/icon/Add%20Project/009485?icon=git&label&scale=1.2)](https://github.com/protontypes/open-sustainable-technology/blob/main/CONTRIBUTING.md)
-
 <!--toc-->
 
 <!--lint ignore awesome-toc -->
@@ -58,6 +56,11 @@ If you're looking for developer tutorials on topics such as renewable energy, cl
   - [Glacier and Ice Sheets](#glacier-and-ice-sheets)
   - [Snow and Permafrost](#snow-and-permafrost)
 - [Hydrosphere](#hydrosphere)
+  - [Freshwater and Hydrology](#freshwater-and-hydrology)
+  - [Ocean Circulation Models](#ocean-circulation-models)
+  - [Waves and Currents](#waves-and-currents)
+  - [Coastal and Reefs](#coastal-and-reefs)
+  - [Ocean Data Processing and Access](#ocean-data-processing-and-access)
 - [Atmosphere](#atmosphere)
 - [Climate and Earth Science](#climate-and-earth-science)
   - [Earth and Climate Modeling](#earth-and-climate-modeling)
@@ -1126,7 +1129,7 @@ energy system designs and analysis of interactions between technologies.
 
 ## Hydrosphere
 
-### Freshwater
+### Freshwater and Hydrology
 - [Raven](https://github.com/Ouranosinc/raven) - Made to help scientists run hydrological modeling experiments with climate change projections.
 - [hydroscoper](https://github.com/ropensci/hydroscoper) - An R interface to the Greek National Data Bank for Hydrometeorological Information.
 - [WRF-Hydro](https://github.com/NCAR/wrf_hydro_nwm_public) - A community modeling system and framework for hydrologic modeling and model coupling.
@@ -1179,6 +1182,13 @@ energy system designs and analysis of interactions between technologies.
 - [pyroms](https://github.com/ESMG/pyroms) - A collection of tools to process input and output files from the Regional Ocean Modeling System.
 - [wrfhydropy](https://github.com/NCAR/wrf_hydro_py) - Provides an end-to-end python interface to support reproducible research and construction of workflows involving the WRF-Hydro model.
 
+### Waves and Currents 
+- [leaflet-velocity](https://github.com/danwild/leaflet-velocity) - Create a canvas visualization layer for direction and intensity of arbitrary velocities (e.g. wind, ocean current).
+- [OpenDrift](https://github.com/OpenDrift/opendrift) - A software for modeling the trajectories and fate of objects or substances drifting in the ocean, or even in the atmosphere.
+- [dorado](https://github.com/passaH2O/dorado) - Simulating passive Lagrangian particle transport over flow-fields from any 2D shallow-water hydrodynamic model using a weighted random walk methodology.
+- [parcels](https://github.com/OceanParcels/parcels) - Can be used to track passive and active particulates such as water, plankton, plastic and fish.
+- [wavespectra](https://github.com/wavespectra/wavespectra) - An open source project for working with ocean wave spectral data.
+- [LESbrary.jl](https://github.com/CliMA/LESbrary.jl) - Generating a library of ocean turbulence large eddy simulation data to train ocean and climate models.
 
 ### Ocean Carbon and Temperature
 - [CO2SYS](https://github.com/jamesorr/CO2SYS-MATLAB) -  A MATLAB (or Octave) project to compute variables of ocean CO2 systems.  
@@ -1195,14 +1205,6 @@ energy system designs and analysis of interactions between technologies.
 - [AutoQC](https://github.com/IQuOD/AutoQC) - A testing suite for automatic quality control checks of subsurface ocean temperature observations.
 - [marineHeatWaves](https://github.com/ecjoliver/marineHeatWaves) - A module for Python which implements the Marine Heatwave definition of Hobday et al. (2016).
 - [heatwaveR](https://github.com/robwschlegel/heatwaveR) - Contains the original functions from the RmarineHeatWaves package that calculate and display marine heatwaves according to the definition of Hobday et al. (2016).
-
-### Waves and Currents 
-- [leaflet-velocity](https://github.com/danwild/leaflet-velocity) - Create a canvas visualization layer for direction and intensity of arbitrary velocities (e.g. wind, ocean current).
-- [OpenDrift](https://github.com/OpenDrift/opendrift) - A software for modeling the trajectories and fate of objects or substances drifting in the ocean, or even in the atmosphere.
-- [dorado](https://github.com/passaH2O/dorado) - Simulating passive Lagrangian particle transport over flow-fields from any 2D shallow-water hydrodynamic model using a weighted random walk methodology.
-- [parcels](https://github.com/OceanParcels/parcels) - Can be used to track passive and active particulates such as water, plankton, plastic and fish.
-- [wavespectra](https://github.com/wavespectra/wavespectra) - An open source project for working with ocean wave spectral data.
-- [LESbrary.jl](https://github.com/CliMA/LESbrary.jl) - Generating a library of ocean turbulence large eddy simulation data to train ocean and climate models.
 
 
 ### Coastal and Reefs
