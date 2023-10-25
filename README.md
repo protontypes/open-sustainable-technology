@@ -86,6 +86,7 @@ If you're looking for developer tutorials on topics such as renewable energy, cl
   - [Sustainable Investment](#sustainable-investment)
   - [Knowledge Platforms](#knowledge-platforms)
   - [Data Catalogs and Interfaces](#data-catalogs-and-interfaces)
+  - [Environmental Satellites](#environmental-satellites)
   - [Taxonomy and Ontology](#taxonomy-and-ontology)
   - [Curated Lists](#curated-lists)
 - [Contributors](#contributors)
@@ -1454,6 +1455,7 @@ energy system designs and analysis of interactions between technologies.
 - [get-station-data](https://github.com/scotthosking/get-station-data) - A set of Python tools to make it easier to extract weather station data (e.g., temperature, precipitation) from the Global Historical Climatology Network Daily.
 - [OGD@MeteoSwiss](https://github.com/MeteoSwiss/publication-opendata) - Open Data products released by the Federal Office of Meteorology and Climatology MeteoSwiss.
 - [ESGF PyClient](https://github.com/ESGF/esgf-pyclient) -  A Python package designed for interacting with the Earth System Grid Federation system.
+- [ecmwf-opendata](https://github.com/ecmwf/ecmwf-opendata) - A package to simplify the download of ECMWF open data.
 
 
 ### Climate Data Processing and Analysis
@@ -1587,6 +1589,7 @@ energy system designs and analysis of interactions between technologies.
 - [WorldDynamics.jl](https://github.com/worlddynamics/WorldDynamics.jl) - Aims to provide a modern framework to investigate integrated assessment models of sustainable development, based on current software engineering and scientific machine learning techniques.
 - [ipcc_sr15_scenario_analysis](https://github.com/iiasa/ipcc_sr15_scenario_analysis) - Scenario analysis notebooks for the IPCC Special Report on Global Warming of 1.5°C.
 - [Climate categories](https://github.com/pik-primap/climate_categories) - Commonly used codes, categories, terminologies, and nomenclatures used in climate policy analysis in a nice Python package.
+- [rwlts](https://github.com/brazil-data-cube/rwlts) - Support governments in making decisions about the impact of human activities on the environment, planning the use of natural resources, conserving biodiversity and monitoring climate change.
 
 
 ## Natural Resources
@@ -1940,32 +1943,23 @@ energy system designs and analysis of interactions between technologies.
 - [eurostat R package](https://github.com/rOpenGov/eurostat) - R tools to access open data from Eurostat, the statistical office of the European Union.
 - [giscoR](https://github.com/rOpenGov/giscoR) - An R API package that helps to retrieve data from Eurostat Geographic Information System of the Commission.
 - [Digital Earth Africa Notebooks](https://github.com/digitalearthafrica/deafrica-sandbox-notebooks) - Using Earth observations to address social, environmental and economic changes on the Africa continent.
-- [openEO](https://github.com/Open-EO/openeo-python-client) - Provides intuitive programming libraries to process a wide variety of earth observation datasets.
 - [MeCCO](http://sciencepolicy.colorado.edu/icecaps/research/media_coverage/) - Open Database on the Media Coverage of Climate Change and Global Warming.
 - [Climate Action Plans](https://github.com/mysociety/caps) - A simple, open database of local government climate action plan documents and emissions data.
 - [earthdata](https://github.com/betolink/earthdata) - A Python library to search and access NASA datasets.
 - [AI for Earth Data Sets](https://github.com/microsoft/AIforEarthDataSets) - Notebooks and documentation for AI-for-Earth-managed datasets on Azure.
 - [wopr](https://github.com/wpgp/wopr) - An R package and Shiny application to provide API access to the WorldPop Open Population Repository.
-- [rwlts](https://github.com/brazil-data-cube/rwlts) - Support governments in making decisions about the impact of human activities on the environment, planning the use of natural resources, conserving biodiversity and monitoring climate change.
 - [The POWER Project](https://power.larc.nasa.gov/) - Provides solar and meteorological data sets from NASA research for support of renewable energy, building energy efficiency and agricultural needs.
 - [Earthdata Search](https://github.com/nasa/earthdata-search) - A web application developed by NASA EOSDIS to enable data discovery, search, comparison, visualization, and access across EOSDIS' Earth Science data holdings.
-- [sentinelhub-py](https://github.com/sentinel-hub/sentinelhub-py) - Download and process satellite imagery in Python using Sentinel Hub services.
 - [Planetary Computer Data Catalog](https://github.com/microsoft/PlanetaryComputerDataCatalog) - Combines a multi-petabyte catalog of global environmental data with intuitive APIs and a flexible scientific environment.
 - [Global Energy Monitor](https://globalenergymonitor.org/) - Studies the evolving international energy landscape, creating databases, reports, and interactive tools that enhance understanding.
 - [STAC Index](https://github.com/stac-utils/stac-index) - Find STAC Catalogs, Collections, APIs, Software and Tools.
 - [Eumap](https://gitlab.com/geoharmonizer_inea/eumap) - Comprises environmental, land cover, terrain, climatic, soil and vegetation layers covering the continental Europe at relatively fine spatial resolutions.
 - [Open Data Science Europe Metadata Catalog](https://maps.opendatascience.eu/) - Building the Open Data Science Europe Portal, a freely-accessible viewer containing gridded layers for Europe at spatial resolutions of 30-m or better.
-- [Satip](https://github.com/openclimatefix/Satip) - A library for satellite image processing providing all of the functionality necessary for retrieving, and storing EUMETSAT data.
-- [MODIS](https://github.com/MatMatt/MODIS) - Provides automated access to the global online data archives LP DAAC, LAADS and NSIDC as well as processing capabilities such as file conversion, mosaicking, subsetting and time series.
-- [MODIStsp](https://github.com/ropensci/MODIStsp) - An R package for automatic download and preprocessing of MODIS Land Products Time-Series.
-- [MODISTools](https://github.com/bluegreen-labs/MODISTools) - Interface to the MODIS Land Products Subsets Web Services.
-- [ecmwf-opendata](https://github.com/ecmwf/ecmwf-opendata) - A package to simplify the download of ECMWF open data.
 - [EarthDataLab.jl](https://github.com/JuliaDataCubes/EarthDataLab.jl) - Julia interface for Reading from the Earth System Datacube.
 - [The CEDA Archive](https://archive.ceda.ac.uk/) - We host over 18 Petabytes of data from climate models, satellites, aircraft, met observations, and other sources.
 - [Climate Data Dashboard of the ESA Climate Change Initiative](https://climate.esa.int/en/odp/#/dashboard) - Access global climate data produced through the ESA's Climate Change Initiative.
 - [USGS](https://github.com/kapadia/usgs) - A python module for interfacing with the US Geological Survey's API.
 - [getSpatialData](https://github.com/16EAGLE/getSpatialData) - Making it easy to query, preview, download and preprocess multiple kinds of satellite datasets via R.
-- [sentinelsat](https://github.com/sentinelsat/sentinelsat) - Makes searching, downloading and retrieving the metadata of Sentinel satellite images from the Copernicus Open Access Hub easy.
 - [Smart Data Models](https://github.com/smart-data-models/dataModel.Environment) - This Models describe the main entities involved with smart applications that deal with environmental issues.
 - [epair](https://github.com/ropensci/epair) - Use R to get data from the Environmental Protection Agency API.
 - [Siphon](https://github.com/Unidata/siphon) - A collection of Python utilities for retrieving atmospheric and oceanic data from remote sources, focusing on being able to retrieve data from Unidata data technologies.
@@ -1973,11 +1967,21 @@ energy system designs and analysis of interactions between technologies.
 - [SynopticPy](https://github.com/blaylockbk/SynopticPy) - Gives you access to real-time and historical surface-based weather and environmental observations for thousands of stations.
 - [NASA CMR STAC](https://github.com/nasa/cmr-stac) - NASA's Common Metadata Repository is a metadata catalog of NASA Earth Science data.
 - [satlas](https://github.com/allenai/satlas) - Aims to provide open AI-generated geospatial data that is highly accurate, available globally, and updated on a frequent (monthly) basis.
-- [landsatxplore](https://github.com/yannforget/landsatxplore) - Provides an interface to the EarthExplorer portal to search and download Landsat Collections scenes through a command-line interface or a Python API.
 - [env_canada](https://github.com/michaeldavie/env_canada) - Provides access to various data sources published by Environment and Climate Change Canada.
 - [DataONE](https://github.com/DataONEorg/d1_python) - A community driven project providing access to data across multiple member repositories, supporting enhanced search and discovery of Earth and environmental data.
 - [rdataone](https://github.com/DataONEorg/rdataone) - R package for reading and writing data at DataONE data repositories.
+
+### Environmental Satellites
+- [landsatxplore](https://github.com/yannforget/landsatxplore) - Provides an interface to the EarthExplorer portal to search and download Landsat Collections scenes through a command-line interface or a Python API.
+- [sentinelhub-py](https://github.com/sentinel-hub/sentinelhub-py) - Download and process satellite imagery in Python using Sentinel Hub services.
+- [sentinelsat](https://github.com/sentinelsat/sentinelsat) - Makes searching, downloading and retrieving the metadata of Sentinel satellite images from the Copernicus Open Access Hub easy.
+- [MODIS](https://github.com/MatMatt/MODIS) - Provides automated access to the global online data archives LP DAAC, LAADS and NSIDC as well as processing capabilities such as file conversion, mosaicking, subsetting and time series.
+- [MODIStsp](https://github.com/ropensci/MODIStsp) - An R package for automatic download and preprocessing of MODIS Land Products Time-Series.
+- [MODISTools](https://github.com/bluegreen-labs/MODISTools) - Interface to the MODIS Land Products Subsets Web Services.
 - [pyModis](https://github.com/lucadelu/pyModis) - A Python library to download and process MODIS data from NASA server.
+- [Satip](https://github.com/openclimatefix/Satip) - A library for satellite image processing providing all of the functionality necessary for retrieving, and storing EUMETSAT data.
+- [openEO](https://github.com/Open-EO/openeo-python-client) - Provides intuitive programming libraries to process a wide variety of earth observation datasets.
+
 
 ### Taxonomy and Ontology
 
