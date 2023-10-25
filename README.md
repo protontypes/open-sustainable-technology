@@ -1177,6 +1177,7 @@ energy system designs and analysis of interactions between technologies.
 - [SWAT](https://bitbucket.org/blacklandgrasslandmodels/swat_development/src/master/) - The Soil & Water Assessment Tool is a small watershed to river basin-scale model used to simulate the quality and quantity of surface and ground water and predict the environmental impact of land use, land management practices, and climate change.
 - [HydroMap](https://github.com/peterson-tim-j/HydroMap) - Mapping of groundwater level for realistic flow flowpaths using semi-automated kriging.
 - [HydroSight](https://github.com/peterson-tim-j/HydroSight) - A statistical toolbox for data-driven insights into groundwater dynamics and aquifer properties. Many hundreds of bores can be easily analysed, all without any programming
+- [basin3d](https://github.com/BASIN-3D/basin3d) - A generalized data synthesis model that applies across a variety of earth science observation types (hydrology, geochemistry, climate etc.).
 
 ### Ocean Circulation Models
 - [MOM6](https://github.com/NOAA-GFDL/MOM6) - A numerical representation of the ocean fluid with applications from the process scale to the planetary circulation scale.
