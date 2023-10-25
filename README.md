@@ -1178,6 +1178,7 @@ energy system designs and analysis of interactions between technologies.
 - [HydroMap](https://github.com/peterson-tim-j/HydroMap) - Mapping of groundwater level for realistic flow flowpaths using semi-automated kriging.
 - [HydroSight](https://github.com/peterson-tim-j/HydroSight) - A statistical toolbox for data-driven insights into groundwater dynamics and aquifer properties. Many hundreds of bores can be easily analysed, all without any programming
 - [basin3d](https://github.com/BASIN-3D/basin3d) - A generalized data synthesis model that applies across a variety of earth science observation types (hydrology, geochemistry, climate etc.).
+- [hspfbintoolbox](https://github.com/timcera/hspfbintoolbox) - A Python script and library of functions to read Hydrological Simulation Program Fortran (HSPF) binary files and print to screen.
 
 ### Ocean Circulation Models
 - [MOM6](https://github.com/NOAA-GFDL/MOM6) - A numerical representation of the ocean fluid with applications from the process scale to the planetary circulation scale.
