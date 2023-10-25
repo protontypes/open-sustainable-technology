@@ -1176,7 +1176,7 @@ energy system designs and analysis of interactions between technologies.
 - [pyMETRIC](https://github.com/WSWUP/pymetric) - A set of Python based tools developed for estimating and mapping evapotranspiration for large areas, utilizing the Landsat image archive.
 - [SWAT](https://bitbucket.org/blacklandgrasslandmodels/swat_development/src/master/) - The Soil & Water Assessment Tool is a small watershed to river basin-scale model used to simulate the quality and quantity of surface and ground water and predict the environmental impact of land use, land management practices, and climate change.
 - [HydroMap](https://github.com/peterson-tim-j/HydroMap) - Mapping of groundwater level for realistic flow flowpaths using semi-automated kriging.
-- [HydroSight](https://github.com/peterson-tim-j/HydroSight) - A statistical toolbox for data-driven insights into groundwater dynamics and aquifer properties. Many hundreds of bores can be easily analysed, all without any programming
+- [HydroSight](https://github.com/peterson-tim-j/HydroSight) - A statistical toolbox for data-driven insights into groundwater dynamics and aquifer properties. Many hundreds of bores can be easily analysed, all without any programming.
 - [basin3d](https://github.com/BASIN-3D/basin3d) - A generalized data synthesis model that applies across a variety of earth science observation types (hydrology, geochemistry, climate etc.).
 - [hspfbintoolbox](https://github.com/timcera/hspfbintoolbox) - A Python script and library of functions to read Hydrological Simulation Program Fortran (HSPF) binary files and print to screen.
 
@@ -1278,7 +1278,7 @@ energy system designs and analysis of interactions between technologies.
 - [Freva](https://gitlab.dkrz.de/freva/evaluation_system) - A data search and analysis platform developed by the atmospheric science community for the atmospheric science community.
 
 ### Atmospheric Dispersion and Transport
-- [Massive-Parallel Trajectory Calculations](https://github.com/slcs-jsc/mptrac) - A Lagrangian particle dispersion model for the analysis of atmospheric transport processes in the free troposphere and stratosphere.
+- [MPTRAC](https://github.com/slcs-jsc/mptrac) - A Lagrangian particle dispersion model for the analysis of atmospheric transport processes in the free troposphere and stratosphere.
 - [GRAL](https://github.com/GralDispersionModel/GRAL) - A Lagrangian dispersion model with reasonable demands on computational times and sensible accuracy. 
 - [SNAP](https://github.com/metno/snap) - A lagrangian type atmospheric dispersion model specialized on modelling dispersion of radioactive debris.
 - [GasDispersion.jl](https://github.com/aefarrell/GasDispersion.jl) - A set of tools for atmospheric dispersion modeling of gaseous releases, such as might occur during an emergency at a chemical plant or more routinely from a stack.
@@ -1295,6 +1295,7 @@ energy system designs and analysis of interactions between technologies.
 - [PyBox](https://github.com/loftytopping/PyBox) - A Python based box-model generator and simulator designed for atmospheric chemistry and aerosol studies.
 - [MICM Chemistry](https://github.com/NCAR/micm) - A unique chemistry module that can be implemented in any atmosphere model used at NCAR.
 - [PySDM](https://github.com/open-atmos/PySDM) - Pythonic particle-based warm-rain/aqueous-chemistry cloud microphysics package.
+- [pyrcel](https://github.com/darothen/pyrcel) - An implementation of a simple, adiabatic cloud parcel model for use in aerosol-cloud interaction studies
 
 ### Meteorological Observation and Forecast
 
