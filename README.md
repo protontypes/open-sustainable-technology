@@ -1981,7 +1981,7 @@ energy system designs and analysis of interactions between technologies.
 - [pyModis](https://github.com/lucadelu/pyModis) - A Python library to download and process MODIS data from NASA server.
 - [Satip](https://github.com/openclimatefix/Satip) - A library for satellite image processing providing all of the functionality necessary for retrieving, and storing EUMETSAT data.
 - [openEO](https://github.com/Open-EO/openeo-python-client) - Provides intuitive programming libraries to process a wide variety of earth observation datasets.
-
+- [xarray-sentinel](https://github.com/bopen/xarray-sentinel) - Easily access and explore the SAR data products of the Copernicus Sentinel-1 satellite mission in Python.
 
 ### Taxonomy and Ontology
 
