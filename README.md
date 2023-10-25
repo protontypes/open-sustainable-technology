@@ -751,6 +751,7 @@ energy system designs and analysis of interactions between technologies.
 - [carbonr](https://github.com/IDEMSInternational/carbonr) - A package in R to conveniently calculate carbon-equivalent emissions.
 - [Pledge4Future](https://github.com/pledge4future/WePledge) - Allows you to calculate your work related CO2e emissions from heating and electricity consumptions as well as business trips and commuting.
 - [Travel Impact Model](https://github.com/google/travel-impact-model) - Describes the modeling assumptions and input specifications behind the Travel Impact Model (TIM), a state of the art emission estimation model that Google's Travel Sustainability team has compiled from several external data source.
+- [Profit and emission database](https://docs.google.com/spreadsheets/d/19MQbZbrCu4HpAWe6NU92CioYQ7KE8FvD9vl-r9qSjJg/) - A free public database on large corporate emissions and profits.
 
 
 ### Carbon Credits and Capture 
@@ -1451,6 +1452,8 @@ energy system designs and analysis of interactions between technologies.
 - [Intake-esm](https://github.com/intake/intake-esm) - An intake plugin for parsing an Earth System Model catalog and loading assets into xarray datasets.
 - [GHCNData.jl](https://github.com/willtebbutt/GHCNData.jl) - Helps access the Global Historical Climatological Network's daily data.
 - [get-station-data](https://github.com/scotthosking/get-station-data) - A set of Python tools to make it easier to extract weather station data (e.g., temperature, precipitation) from the Global Historical Climatology Network Daily.
+- [OGD@MeteoSwiss](https://github.com/MeteoSwiss/publication-opendata) - Open Data products released by the Federal Office of Meteorology and Climatology MeteoSwiss.
+
 
 ### Climate Data Processing and Analysis
 - [Iris](https://github.com/SciTools/iris) - A powerful, format-agnostic, community-driven Python package for analyzing and visualizing Earth science data.
@@ -2013,14 +2016,13 @@ energy system designs and analysis of interactions between technologies.
 - [PO.DAAC](https://podaac.jpl.nasa.gov/datasetlist) - NASA Earth Observing System Data and Information System data center managed by the Earth Science Data and Information System Project.
 - [Awesome Sentinel](https://github.com/Fernerkundung/awesome-sentinel) - A curated list of awesome tools, tutorials and APIs related to data from the Copernicus Sentinel Satellites.
 - [geospatial-data-catalogs](https://github.com/giswqs/geospatial-data-catalogs) - A list of open geospatial datasets available on AWS, Earth Engine, Planetary Computer, and STAC Index.
-- [Profit and emission database](https://docs.google.com/spreadsheets/d/19MQbZbrCu4HpAWe6NU92CioYQ7KE8FvD9vl-r9qSjJg/) - A free public database on large corporate emissions and profits.
 - [Industrial Ecology Dashboard](https://github.com/IndEcol/Dashboard) - A collection of open source projects relevant for industrial ecology practitioners.
 - [Low-Voltage Load Forecasting Datasets](https://github.com/low-voltage-loadforecasting/low-voltage-loadforecasting.github.io) - An overview and review of load forecasting datasets.
 - [Energy Systems and Informatics Collection by ACM SIGEnergy](https://energy.acm.org/resources/) - A curated list of publicly available datasets, models, and software for researchers and professionals who study energy systems and informatics.
 - [Awesome-Earth-Artificial-Intelligence](https://github.com/ESIPFed/Awesome-Earth-Artificial-Intelligence) - A curated list of tutorials, notebooks, software, datasets, courses, books, video lectures and papers specifically for Artificial Intelligence use cases in Earth Science.
 - [Callisto-Dataset-Collection](https://github.com/Agri-Hub/Callisto-Dataset-Collection) - A list of datasets aiming to enable Artificial Intelligence applications that use Earth Observation, satellite and other data.
 - [Awesome ERDDAP](https://github.com/IrishMarineInstitute/awesome-erddap) - A curated list of awesome Environmental Research Division's Data Access Program (ERDDAP) projects and deployments.
-- [OGD@MeteoSwiss](https://github.com/MeteoSwiss/publication-opendata) - Open Data products released by the Federal Office of Meteorology and Climatology MeteoSwiss.
+
 
 ## Contributors
 
