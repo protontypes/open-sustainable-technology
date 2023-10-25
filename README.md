@@ -1921,7 +1921,6 @@ energy system designs and analysis of interactions between technologies.
 - [Climate Change Tracker](https://climatechangetracker.org/) - Empower individuals and communities to take action against the global threat of climate change by providing a reliable, user-friendly platform for tracking and understanding its progression.
 - [NATUR'ADAPT](https://naturadapt.com/) - A community interested in climate change and its impacts on nature, especially in protected natural areas.
 - [The Climate Tech Handbook](https://github.com/climate-tech-handbook/climate-tech-handbook) - Help us build the most accessible and accurate climate tech resource on the planet.
-- [ecoCore](https://github.com/EcologicalSemantics/ecocore) - A standard vocabulary for the ecological community, a need expressed repeatedly over the past few years at workshops focused on ecological, environmental, and population-based semantics.
 - [esa-climate-from-space](https://github.com/ubilabs/esa-climate-from-space) - The role of the Climate from Space application is to increase the visibility of the Climate Change Initiative programme and the role of ESA satellite data in climate science.
 
 
@@ -1993,6 +1992,7 @@ energy system designs and analysis of interactions between technologies.
 - [ENVO](https://github.com/EnvironmentOntology/envo) - A community-driven ontology for the representation of environments.
 - [EML](https://github.com/NCEAS/eml) - An open source, community oriented project dedicated to providing a high-quality metadata specification for describing data relevant to diverse disciplines that involve observational research like ecology, earth, and environmental science.
 - [taxonomy4good](https://github.com/GoodDataHub/taxonomy4good) - A sustainability lexicon that provides the freedom to create custom taxonomies in addition to listed taxonomies.
+- [ecoCore](https://github.com/EcologicalSemantics/ecocore) - A standard vocabulary for the ecological community, a need expressed repeatedly over the past few years at workshops focused on ecological, environmental, and population-based semantics.
 
 
 ### Curated Lists
