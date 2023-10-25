@@ -929,6 +929,7 @@ energy system designs and analysis of interactions between technologies.
 - [GeoNature-citizen](https://github.com/PnX-SI/GeoNature-citizen) - A free and Open Source web solution for citizen science projects for biodiversity data collection.
 - [galah](https://github.com/AtlasOfLivingAustralia/galah-R) - An R interface to biodiversity data hosted by the living atlases; a set of organisations that share a common codebase, and act as nodes of the Global Biodiversity Information Facility.
 - [elapid](https://github.com/earth-chris/elapid) - Species distribution modeling tools, including a python implementation of Maxent.
+- [ReMobidyc](https://github.com/ReMobidyc/ReMobidyc) - A multi-agent simulator for individual-based modeling in population dynamics and ecotoxicology.
 
 
 ### Conservation and Restoration
