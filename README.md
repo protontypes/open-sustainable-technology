@@ -1336,6 +1336,7 @@ energy system designs and analysis of interactions between technologies.
 - [forest](https://github.com/MetOffice/forest) - Forecast and Observation Research and Evaluation Survey Tool.
 - [AMBS](https://gitlab.jsc.fz-juelich.de/esde/machine-learning/ambs) - The Atmopsheric Machine Learning Benchmarking System aims to provide state-of-the-art video prediction methods applied to the meteorological domain.
 - [gis4wrf](https://github.com/GIS4WRF/gis4wrf) - A free and open source QGIS plug-in to help researchers and practitioners with their Advanced Research Weather Research and Forecasting modeling workflows.
+- [Weather Stations](https://github.com/meteostat/weather-stations) - A list of public weather stations everyone can edit and share.
 
 ### Radiative Transfer
 
