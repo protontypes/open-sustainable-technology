@@ -1075,7 +1075,7 @@ energy system designs and analysis of interactions between technologies.
 - [Echopype](https://github.com/OSOceanAcoustics/echopype) - A package built to enable interoperability and scalability in ocean sonar data processing.
 - [OSMOSE](https://github.com/osmose-model/osmose) - A multispecies and individual-based model which focuses on fish species.
 - [WHOI HABhub Data Portal](https://github.com/WHOIGit/whoi-hab-hub) - Is being developed as a data access and visualization portal for the New England Harmful Algal Bloom Observing Network.
-
+- [nwfscSurvey](https://github.com/pfmc-assessments/nwfscSurvey) - Tool to pull and process NWFSC West Coast groundfish survey data for use in PFMC groundfish stock assessments.
   
 ### Terrestrial Animals
 - [auk](https://github.com/CornellLabofOrnithology/auk) - eBird Data Extraction and Processing in R.
