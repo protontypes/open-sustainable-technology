@@ -6,6 +6,7 @@ on:
   push:
     branches:
       - main
+      - split_fields_climate
 jobs:
   Awesome_Lint:
     runs-on: ubuntu-latest
