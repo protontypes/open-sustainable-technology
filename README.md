@@ -3,7 +3,7 @@
 # Open Sustainable Technology
 [<img src="earth.png" align="right" width="350">](https://tabletopwhale.com/)
 
-__A directory of all active open source projects for the sustainability of climate, energy supply, biodiversity and natural resources.__ <br> <br> Your contribution is essential to keep this list alive. Please [write an email](mailto:tobias.augspurger@protontypes.eu) or [create an issue](https://github.com/protontypes/open-sustainable-technology/issues/new) to give feedback, hints and ideas considering [OpenSustain.tech](https://opensustain.tech/). 
+__The inventory and analysis of the open source ecosystem in the areas of climate change, energy, biodiversity and natural resources.__ <br> <br> Your contribution is essential to keep this list alive. Please [write an email](mailto:tobias.augspurger@protontypes.eu) or [create an issue](https://github.com/protontypes/open-sustainable-technology/issues/new) to give feedback, hints and ideas considering [OpenSustain.tech](https://opensustain.tech/). 
 
 If you're looking for developer tutorials on topics such as renewable energy, climate change or earth science, check out the [Education](https://opensustain.tech/education/) section. 
 
