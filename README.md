@@ -1295,7 +1295,8 @@ energy system designs and analysis of interactions between technologies.
 - [PyBox](https://github.com/loftytopping/PyBox) - A Python based box-model generator and simulator designed for atmospheric chemistry and aerosol studies.
 - [MICM Chemistry](https://github.com/NCAR/micm) - A unique chemistry module that can be implemented in any atmosphere model used at NCAR.
 - [PySDM](https://github.com/open-atmos/PySDM) - Pythonic particle-based warm-rain/aqueous-chemistry cloud microphysics package.
-- [pyrcel](https://github.com/darothen/pyrcel) - An implementation of a simple, adiabatic cloud parcel model for use in aerosol-cloud interaction studies
+- [pyrcel](https://github.com/darothen/pyrcel) - An implementation of a simple, adiabatic cloud parcel model for use in aerosol-cloud interaction studies.
+- [ORAC](https://github.com/ORAC-CC/orac) - An optimal estimation retrieval scheme for the estimation of aerosol and cloud properties from a wide range of visible-infrared imaging satellites, such as MODIS, AATSR, AVHRR and SEVIRI
 
 ### Meteorological Observation and Forecast
 
