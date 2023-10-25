@@ -1096,6 +1096,7 @@ energy system designs and analysis of interactions between technologies.
 - [CICE](https://github.com/CICE-Consortium/CICE) - A computationally efficient model for simulating the growth, melting, and movement of polar sea ice.
 - [OSSP](https://github.com/wrightni/OSSP) - Open Source Algorithm for Detecting Sea Ice Surface Features in High Resolution Optical Imagery.
 - [sea-ice](https://github.com/vannizhang/sea-ice) - Displays the monthly mean sea ice extent for the Arctic and Antarctic along with the historical median extent.
+- [FESOM2](https://github.com/FESOM/fesom2) - Multi-resolution ocean general circulation model that solves the equations of motion describing the ocean and sea ice using finite-element and finite-volume methods on unstructured computational grids.
 
 ### Glacier and Ice Sheets
 - [PyTrx](https://github.com/PennyHow/PyTrx) - Its primary purpose is to obtain velocities, surface areas, and distances from oblique, optical imagery of glacial environments.
@@ -1297,7 +1298,7 @@ energy system designs and analysis of interactions between technologies.
 - [MICM Chemistry](https://github.com/NCAR/micm) - A unique chemistry module that can be implemented in any atmosphere model used at NCAR.
 - [PySDM](https://github.com/open-atmos/PySDM) - Pythonic particle-based warm-rain/aqueous-chemistry cloud microphysics package.
 - [pyrcel](https://github.com/darothen/pyrcel) - An implementation of a simple, adiabatic cloud parcel model for use in aerosol-cloud interaction studies.
-- [ORAC](https://github.com/ORAC-CC/orac) - An optimal estimation retrieval scheme for the estimation of aerosol and cloud properties from a wide range of visible-infrared imaging satellites, such as MODIS, AATSR, AVHRR and SEVIRI
+- [ORAC](https://github.com/ORAC-CC/orac) - An optimal estimation retrieval scheme for the estimation of aerosol and cloud properties from a wide range of visible-infrared imaging satellites, such as MODIS, AATSR, AVHRR and SEVIRI.
 
 ### Meteorological Observation and Forecast
 
