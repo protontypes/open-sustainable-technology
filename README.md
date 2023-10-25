@@ -66,13 +66,16 @@ If you're looking for developer tutorials on topics such as renewable energy, cl
   - [Atmospheric Composition and Dynamics](#atmospheric-composition-and-dynamics)
   - [Atmospheric Dispersion and Transport](#atmospheric-dispersion-and-transport)
   - [Atmospheric Chemistry and Aerosol](#atmospheric-chemistry-and-aerosol)
+  - [Meteorological Observation and Forecast](#meteorological-observation-and-forecast)
+  - [Radiative Transfer](#radiative-transfer)
 - [Climate and Earth Science](#climate-and-earth-science)
   - [Earth and Climate Modeling](#earth-and-climate-modeling)
-  - [Climate Data Processing and Access](#climate-data-processing-and-access)
-  - [Meteorological Observation and Forecast](#meteorological-observation-and-forecast)
+  - [Climate Data Standards](#climate-data-standards)
+  - [Climate Data Visualization and Access](#climate-data-visualization-and-access)
+  - [Climate Data Processing and Analysis](#climate-data-processing-and-analysis)
+  - [Climate Model Downscaling](#climate-model-downscaling)
   - [Natural Hazard and Storm](#natural-hazard-and-storm)
-  - [Radiative Transfer](#radiative-transfer)
-  - [Integrated Assessment](#integrated-assessment)
+  - [Integrated Assessment and Climate Policy](#integrated-assessment-and-climate-policy)
 - [Natural Resources](#natural-resources)
   - [Air Quality](#air-quality)
   - [Water Supply](#water-supply)
@@ -1288,6 +1291,61 @@ energy system designs and analysis of interactions between technologies.
 - [MICM Chemistry](https://github.com/NCAR/micm) - A unique chemistry module that can be implemented in any atmosphere model used at NCAR.
 - [PySDM](https://github.com/open-atmos/PySDM) - Pythonic particle-based warm-rain/aqueous-chemistry cloud microphysics package.
 
+### Meteorological Observation and Forecast
+
+- [METplus](https://github.com/dtcenter/METplus) - A verification framework that spans a wide range of temporal (warn-on-forecast to climate) and spatial (storm to global) scales.
+- [WRF-ARW](https://github.com/wrf-model/WRF) - The official repository for the Weather Research and Forecasting model.
+- [wrf-python](https://github.com/NCAR/wrf-python) - A collection of diagnostic and interpolation routines for use with output from the Weather Research and Forecasting Model.
+- [Open-Meteo](https://github.com/open-meteo/open-meteo) - Global weather API for non-commercial use with hourly weather forecast.
+- [stationaRy](https://github.com/rich-iannone/stationaRy) - Get hourly meteorological data from one of thousands of global stations.
+- [weathercan](https://github.com/ropensci/weathercan) - This package makes it easier to search for and download multiple months/years of historical weather data from the Environment and Climate Change Canada (ECCC) website.
+- [metR](https://github.com/eliocamp/metR) - Several functions and utilities that make R better for handling meteorological data in the tidy data paradigm.
+- [climate](https://github.com/bczernecki/climate) - The goal of the climate R package is to automatize downloading of meteorological and hydrological data from publicly available repositories.
+- [rdwd](https://github.com/brry/rdwd) - An R package to select, download and read climate data from the German Weather Service.
+- [MetPy](https://github.com/Unidata/MetPy) - A collection of tools in Python for reading, visualizing and performing calculations with weather data.
+- [wetterdienst](https://github.com/earthobservations/wetterdienst) - Trying to make access to weather data in Python feel like a warm summer breeze.
+- [AWIPS](https://github.com/Unidata/awips2) - The Advanced Weather Interactive Processing System is a meteorological display and analysis package originally developed by the National Weather Service and Raytheon.
+- [Metview Python bindings](https://github.com/ecmwf/metview-python) - Python interface to Metview, a meteorological workstation and batch system for accessing, examining, manipulating and visualising meteorological data.
+- [Herbie](https://github.com/blaylockbk/Herbie) - A python package that downloads recent and archived numerical weather prediction model output from different cloud archive sources.
+- [MEWS](https://github.com/sandialabs/MEWS) - A Python package designed to add extreme weather events to existing weather data or projections.
+- [eeweather](https://github.com/openeemeter/eeweather) - Fetch NCDC ISD, TMY3, or CZ2010 weather data that corresponds to ZIP Code Tabulation Areas or Latitude/Longitude.
+- [met.3D](https://gitlab.com/wxmetvis/met.3d) - Interactive three-dimensional visualization of numerical ensemble weather predictions and similar numerical atmospheric model datasets.
+- [agera5tools](https://github.com/ajwdewit/agera5tools) - Tools for mirroring, manipulating  and serving Global Weather for Agriculture data (AgERA5).
+- [MeteoInfo](https://github.com/meteoinfo/MeteoInfo) - GIS and scientific computation environment for meteorological community.
+- [thundeR](https://github.com/bczernecki/thundeR) - Rapid computation and visualisation of convective parameters from rawinsonde and Numerical weather prediction data.
+- [AtmoSwing](https://github.com/atmoswing/atmoswing) - Allow predicting local meteorological variables of interest, such as the daily precipitation, based on synoptic variables.
+- [ufs-weather-model](https://github.com/ufs-community/ufs-weather-model) - Contains the model code and external links needed to build the Unified Forecast System atmosphere model and associated components, including the WaveWatch III model.
+- [WeatherBench 2](https://github.com/google-research/weatherbench2) - A framework for evaluating and comparing data-driven and traditional numerical weather forecasting models.
+- [MeteoHist](https://github.com/yotkadata/meteo_hist) - A Streamlit app to create interactive temperature and precipitation graphs for places around the world.
+- [ecPoint-Calibrate](https://github.com/ecmwf/ecpoint-calibrate) - A software that uses conditional verification tools to compare numerical weather prediction model outputs against point observations and, in this way, anticipate sub-grid variability and identify biases at grid scale.
+- [imdlib](https://github.com/iamsaswata/imdlib) - Download and handle binary grided data from Indian Meterological department.
+- [goes2go](https://github.com/blaylockbk/goes2go) - Download and process GOES-16 and GOES-17 data from NOAA's archive on AWS using Python.
+- [MetNet](https://github.com/openclimatefix/metnet) - A neural network that forecasts precipitation up to 8 hours into the future at the high spatial resolution of 1 km² and at the temporal resolution of 2 minutes with a latency in the order of second.
+- [jmastats](https://github.com/uribo/jmastats) - Download Weather Data from Japan Meteorological Agency Website.
+- [pyIEM](https://github.com/akrherz/pyIEM) - A collection of python support things that make my weather processing work, work.
+- [forest](https://github.com/MetOffice/forest) - Forecast and Observation Research and Evaluation Survey Tool.
+- [AMBS](https://gitlab.jsc.fz-juelich.de/esde/machine-learning/ambs) - The Atmopsheric Machine Learning Benchmarking System aims to provide state-of-the-art video prediction methods applied to the meteorological domain.
+- [gis4wrf](https://github.com/GIS4WRF/gis4wrf) - A free and open source QGIS plug-in to help researchers and practitioners with their Advanced Research Weather Research and Forecasting modeling workflows.
+
+### Radiative Transfer
+
+- [lowtran](https://github.com/space-physics/lowtran) - Atmospheric absorption extinction, scatter and irradiance model in Python and Matlab.
+- [RadiativeTransfer.jl](https://github.com/RadiativeTransfer/RadiativeTransfer.jl) - A full end-to-end modular software suite for radiative transfer and related atmospheric analysis.
+- [libRadtran](http://www.libradtran.org/) - A collection of C and Fortran functions and programs for calculation of solar and thermal radiation in the Earth's atmosphere.
+- [ARTS](https://github.com/atmtools/arts) - A radiative transfer model for the millimeter and sub-millimeter spectral range.
+- [Py6S](https://github.com/robintw/Py6S) - A Python interface to the 6S Radiative Transfer Model.
+- [RTE+RRTMGP](https://github.com/earth-system-radiation/rte-rrtmgp) - A set of codes for computing radiative fluxes in planetary atmospheres.
+- [LBLRTM](https://github.com/AER-RC/LBLRTM) - Line-By-Line Radiative Transfer Model is an accurate and efficient line-by-line radiative transfer model derived from the Fast Atmospheric Signature Code.
+- [RRTMGP.jl](https://github.com/CliMA/RRTMGP.jl) - A Julia implementation of Rapid and accurate Radiative Transfer Model for General Circulation Models.
+- [Eradiate](https://github.com/eradiate/eradiate) - A next-generation radiative transfer model for Earth observation applications.
+- [Juelich Rapid Spectral Simulation Code](https://github.com/slcs-jsc/jurassic) - The Juelich Rapid Spectral Simulation Code (JURASSIC) is a fast infrared radiative transfer model for the analysis of atmospheric remote sensing measurements.
+- [Tenstream](https://github.com/tenstream/tenstream) - A 3D radiative transfer solver for earth system models.
+- [Ocean Data and Information System](https://github.com/iodepo/odis-arch) - The Ocean InfoHub facilitates access to global oceans information, data and knowledge products for management and sustainable development.
+- [reflective-potential](https://github.com/ReflectiveEarth/reflective-potential) - An empirical analysis of Earth's annual-average surface reflectivity potential.
+- [radis](https://github.com/radis/radis) - A fast line-by-line code for high-resolution infrared molecular spectra.
+- [pyOSOAA](https://github.com/fnemina/pyOSOAA) - A python interface for the Ocean Successive Orders with Atmosphere radiative transfer.
+- [ECRAD](https://github.com/ecmwf/ecrad) - A radiation scheme suitable for use in atmospheric weather and climate models.
+
 
 ## Climate and Earth Science
 
@@ -1330,25 +1388,6 @@ energy system designs and analysis of interactions between technologies.
 - [uDALES](https://github.com/uDALES/u-dales) - Large-eddy-simulation software for urban flow, dispersion and microclimate modelling.
 - [SUEWS](https://github.com/UMEP-dev/SUEWS) - Surface Urban Energy and Water Balance Scheme.
 - [Dragonfly for Grasshopper](https://github.com/ladybug-tools/dragonfly-legacy) - Legacy dragonfly plugin for large-scale climate and urban heat island modeling.
-
-### Radiative Transfer
-
-- [lowtran](https://github.com/space-physics/lowtran) - Atmospheric absorption extinction, scatter and irradiance model in Python and Matlab.
-- [RadiativeTransfer.jl](https://github.com/RadiativeTransfer/RadiativeTransfer.jl) - A full end-to-end modular software suite for radiative transfer and related atmospheric analysis.
-- [libRadtran](http://www.libradtran.org/) - A collection of C and Fortran functions and programs for calculation of solar and thermal radiation in the Earth's atmosphere.
-- [ARTS](https://github.com/atmtools/arts) - A radiative transfer model for the millimeter and sub-millimeter spectral range.
-- [Py6S](https://github.com/robintw/Py6S) - A Python interface to the 6S Radiative Transfer Model.
-- [RTE+RRTMGP](https://github.com/earth-system-radiation/rte-rrtmgp) - A set of codes for computing radiative fluxes in planetary atmospheres.
-- [LBLRTM](https://github.com/AER-RC/LBLRTM) - Line-By-Line Radiative Transfer Model is an accurate and efficient line-by-line radiative transfer model derived from the Fast Atmospheric Signature Code.
-- [RRTMGP.jl](https://github.com/CliMA/RRTMGP.jl) - A Julia implementation of Rapid and accurate Radiative Transfer Model for General Circulation Models.
-- [Eradiate](https://github.com/eradiate/eradiate) - A next-generation radiative transfer model for Earth observation applications.
-- [Juelich Rapid Spectral Simulation Code](https://github.com/slcs-jsc/jurassic) - The Juelich Rapid Spectral Simulation Code (JURASSIC) is a fast infrared radiative transfer model for the analysis of atmospheric remote sensing measurements.
-- [Tenstream](https://github.com/tenstream/tenstream) - A 3D radiative transfer solver for earth system models.
-- [Ocean Data and Information System](https://github.com/iodepo/odis-arch) - The Ocean InfoHub facilitates access to global oceans information, data and knowledge products for management and sustainable development.
-- [reflective-potential](https://github.com/ReflectiveEarth/reflective-potential) - An empirical analysis of Earth's annual-average surface reflectivity potential.
-- [radis](https://github.com/radis/radis) - A fast line-by-line code for high-resolution infrared molecular spectra.
-- [pyOSOAA](https://github.com/fnemina/pyOSOAA) - A python interface for the Ocean Successive Orders with Atmosphere radiative transfer.
-- [ECRAD](https://github.com/ecmwf/ecrad) - A radiation scheme suitable for use in atmospheric weather and climate models.
 
 
 ### Climate Data Standards 
@@ -1469,42 +1508,6 @@ energy system designs and analysis of interactions between technologies.
 - [climate4R](https://github.com/SantanderMetGroup/climate4R) - A bundle of R packages for transparent climate data access, post-processing (including data collocation and bias correction / downscaling) and visualization.
 - [downscaleCMIP6](https://github.com/ClimateImpactLab/downscaleCMIP6) - Global Downscaled Projections for Climate Impacts Research.
 - [PyESD](https://github.com/Dan-Boat/PyESD) - Downscale any climate variables e.g. precipitation and temperature using predictors from reanalysis datasets to point scale.
-
-### Meteorological Observation and Forecast
-
-- [METplus](https://github.com/dtcenter/METplus) - A verification framework that spans a wide range of temporal (warn-on-forecast to climate) and spatial (storm to global) scales.
-- [WRF-ARW](https://github.com/wrf-model/WRF) - The official repository for the Weather Research and Forecasting model.
-- [wrf-python](https://github.com/NCAR/wrf-python) - A collection of diagnostic and interpolation routines for use with output from the Weather Research and Forecasting Model.
-- [Open-Meteo](https://github.com/open-meteo/open-meteo) - Global weather API for non-commercial use with hourly weather forecast.
-- [stationaRy](https://github.com/rich-iannone/stationaRy) - Get hourly meteorological data from one of thousands of global stations.
-- [weathercan](https://github.com/ropensci/weathercan) - This package makes it easier to search for and download multiple months/years of historical weather data from the Environment and Climate Change Canada (ECCC) website.
-- [metR](https://github.com/eliocamp/metR) - Several functions and utilities that make R better for handling meteorological data in the tidy data paradigm.
-- [climate](https://github.com/bczernecki/climate) - The goal of the climate R package is to automatize downloading of meteorological and hydrological data from publicly available repositories.
-- [rdwd](https://github.com/brry/rdwd) - An R package to select, download and read climate data from the German Weather Service.
-- [MetPy](https://github.com/Unidata/MetPy) - A collection of tools in Python for reading, visualizing and performing calculations with weather data.
-- [wetterdienst](https://github.com/earthobservations/wetterdienst) - Trying to make access to weather data in Python feel like a warm summer breeze.
-- [AWIPS](https://github.com/Unidata/awips2) - The Advanced Weather Interactive Processing System is a meteorological display and analysis package originally developed by the National Weather Service and Raytheon.
-- [Metview Python bindings](https://github.com/ecmwf/metview-python) - Python interface to Metview, a meteorological workstation and batch system for accessing, examining, manipulating and visualising meteorological data.
-- [Herbie](https://github.com/blaylockbk/Herbie) - A python package that downloads recent and archived numerical weather prediction model output from different cloud archive sources.
-- [MEWS](https://github.com/sandialabs/MEWS) - A Python package designed to add extreme weather events to existing weather data or projections.
-- [eeweather](https://github.com/openeemeter/eeweather) - Fetch NCDC ISD, TMY3, or CZ2010 weather data that corresponds to ZIP Code Tabulation Areas or Latitude/Longitude.
-- [met.3D](https://gitlab.com/wxmetvis/met.3d) - Interactive three-dimensional visualization of numerical ensemble weather predictions and similar numerical atmospheric model datasets.
-- [agera5tools](https://github.com/ajwdewit/agera5tools) - Tools for mirroring, manipulating  and serving Global Weather for Agriculture data (AgERA5).
-- [MeteoInfo](https://github.com/meteoinfo/MeteoInfo) - GIS and scientific computation environment for meteorological community.
-- [thundeR](https://github.com/bczernecki/thundeR) - Rapid computation and visualisation of convective parameters from rawinsonde and Numerical weather prediction data.
-- [AtmoSwing](https://github.com/atmoswing/atmoswing) - Allow predicting local meteorological variables of interest, such as the daily precipitation, based on synoptic variables.
-- [ufs-weather-model](https://github.com/ufs-community/ufs-weather-model) - Contains the model code and external links needed to build the Unified Forecast System atmosphere model and associated components, including the WaveWatch III model.
-- [WeatherBench 2](https://github.com/google-research/weatherbench2) - A framework for evaluating and comparing data-driven and traditional numerical weather forecasting models.
-- [MeteoHist](https://github.com/yotkadata/meteo_hist) - A Streamlit app to create interactive temperature and precipitation graphs for places around the world.
-- [ecPoint-Calibrate](https://github.com/ecmwf/ecpoint-calibrate) - A software that uses conditional verification tools to compare numerical weather prediction model outputs against point observations and, in this way, anticipate sub-grid variability and identify biases at grid scale.
-- [imdlib](https://github.com/iamsaswata/imdlib) - Download and handle binary grided data from Indian Meterological department.
-- [goes2go](https://github.com/blaylockbk/goes2go) - Download and process GOES-16 and GOES-17 data from NOAA's archive on AWS using Python.
-- [MetNet](https://github.com/openclimatefix/metnet) - A neural network that forecasts precipitation up to 8 hours into the future at the high spatial resolution of 1 km² and at the temporal resolution of 2 minutes with a latency in the order of second.
-- [jmastats](https://github.com/uribo/jmastats) - Download Weather Data from Japan Meteorological Agency Website.
-- [pyIEM](https://github.com/akrherz/pyIEM) - A collection of python support things that make my weather processing work, work.
-- [forest](https://github.com/MetOffice/forest) - Forecast and Observation Research and Evaluation Survey Tool.
-- [AMBS](https://gitlab.jsc.fz-juelich.de/esde/machine-learning/ambs) - The Atmopsheric Machine Learning Benchmarking System aims to provide state-of-the-art video prediction methods applied to the meteorological domain.
-- [gis4wrf](https://github.com/GIS4WRF/gis4wrf) - A free and open source QGIS plug-in to help researchers and practitioners with their Advanced Research Weather Research and Forecasting modeling workflows.
 
 ### Natural Hazard and Storm
 
