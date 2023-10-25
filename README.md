@@ -1968,6 +1968,7 @@ energy system designs and analysis of interactions between technologies.
 - [EML](https://github.com/NCEAS/eml) - An open source, community oriented project dedicated to providing a high-quality metadata specification for describing data relevant to diverse disciplines that involve observational research like ecology, earth, and environmental science.
 - [DataONE](https://github.com/DataONEorg/d1_python) - A community driven project providing access to data across multiple member repositories, supporting enhanced search and discovery of Earth and environmental data.
 - [rdataone](https://github.com/DataONEorg/rdataone) - R package for reading and writing data at DataONE data repositories.
+- [pyModis](https://github.com/lucadelu/pyModis) - A Python library to download and process MODIS data from NASA server.
 
 ### Curated Lists
 
