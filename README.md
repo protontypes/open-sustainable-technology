@@ -73,7 +73,7 @@ If you're looking for developer tutorials on topics such as renewable energy, cl
   - [Climate Data Standards](#climate-data-standards)
   - [Climate Data Visualization and Access](#climate-data-visualization-and-access)
   - [Climate Data Processing and Analysis](#climate-data-processing-and-analysis)
-  - [Climate Model Downscaling](#climate-model-downscaling)
+  - [Climate Downscaling](#climate-downscaling)
   - [Natural Hazard and Storm](#natural-hazard-and-storm)
   - [Integrated Assessment and Climate Policy](#integrated-assessment-and-climate-policy)
 - [Natural Resources](#natural-resources)
@@ -1508,7 +1508,7 @@ energy system designs and analysis of interactions between technologies.
 - [xclim](https://github.com/Ouranosinc/xclim) - A library of derived climate variables, i.e. climate indicators, based on xarray.
 - [climpact](https://github.com/ARCCSS-extremes/climpact) - Calculate the ET-SCI climate extremes indices.
 
-### Climate Model Downscaling
+### Climate Downscaling
 - [ICAR](https://github.com/NCAR/icar) - A simplified atmospheric model designed primarily for climate downscaling, atmospheric sensitivity tests, and hopefully educational uses.
 - [downscaleR](https://github.com/SantanderMetGroup/downscaleR) - An R package for empirical-statistical downscaling focusing on daily data and covering the most popular approaches (bias correction, Model Output Statistics, Perfect Prognosis) and techniques (e.g. quantile mapping, regression, analogs, neural networks).
 - [DeepDownscaling](https://github.com/SantanderMetGroup/DeepDownscaling) - Deep learning approaches for statistical downscaling in climate.
