@@ -7,7 +7,7 @@ __A directory and analysis of the open source ecosystem in the areas of climate 
 
 If you're looking for developer tutorials on topics such as renewable energy, climate change or earth science, check out the [Education](https://opensustain.tech/education/) section. 
 
-[![](https://badgen.net/badge/View/Spreadsheets/009485?scale=1.6)](https://airtable.com/app5xF6beX5EYn3b9/shr9we419r2TkpLkc/)
+[![](https://badgen.net/badge/View/Spreadsheets/009485?scale=1.6)](https://docs.getgrist.com/gSscJkc5Rb1R/OpenSustaintech)
 [![](https://badgen.net/badge/Download/Report/009485?scale=1.6)](https://raw.githubusercontent.com/protontypes/open-source-in-environmental-sustainability/main/OpenSourceSustainabilityEcosystem_080423.pdf) 
 
 <!--toc-->
