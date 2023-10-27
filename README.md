@@ -1588,7 +1588,6 @@ energy system designs and analysis of interactions between technologies.
 - [META 2021](https://github.com/openmodels/META-2021) - Advanced integrated assessment model (SC-IAM), designed as a model-based meta-analysis of the effects of tipping points on the social cost of carbon.
 - [WorldDynamics.jl](https://github.com/worlddynamics/WorldDynamics.jl) - Aims to provide a modern framework to investigate integrated assessment models of sustainable development, based on current software engineering and scientific machine learning techniques.
 - [ipcc_sr15_scenario_analysis](https://github.com/iiasa/ipcc_sr15_scenario_analysis) - Scenario analysis notebooks for the IPCC Special Report on Global Warming of 1.5°C.
-- [Climate categories](https://github.com/pik-primap/climate_categories) - Commonly used codes, categories, terminologies, and nomenclatures used in climate policy analysis in a nice Python package.
 - [rwlts](https://github.com/brazil-data-cube/rwlts) - Support governments in making decisions about the impact of human activities on the environment, planning the use of natural resources, conserving biodiversity and monitoring climate change.
 
 
@@ -1992,6 +1991,7 @@ energy system designs and analysis of interactions between technologies.
 - [EML](https://github.com/NCEAS/eml) - An open source, community oriented project dedicated to providing a high-quality metadata specification for describing data relevant to diverse disciplines that involve observational research like ecology, earth, and environmental science.
 - [taxonomy4good](https://github.com/GoodDataHub/taxonomy4good) - A sustainability lexicon that provides the freedom to create custom taxonomies in addition to listed taxonomies.
 - [ecoCore](https://github.com/EcologicalSemantics/ecocore) - A standard vocabulary for the ecological community, a need expressed repeatedly over the past few years at workshops focused on ecological, environmental, and population-based semantics.
+- [Climate categories](https://github.com/pik-primap/climate_categories) - Commonly used codes, categories, terminologies, and nomenclatures used in climate policy analysis in a nice Python package.
 
 
 ### Curated Lists
