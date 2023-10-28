@@ -1413,6 +1413,7 @@ energy system designs and analysis of interactions between technologies.
 - [netcdf-python](https://github.com/Unidata/netcdf4-python) - The Unidata network Common Data Form (netCDF) in Python is an interface for scientific data access and a set of freely-distributed software libraries that provide an implementation of the interface.
 - [Climate Model Output Rewriter](https://github.com/PCMDI/cmor) - Produce CF-compliant netCDF files that fulfill the requirements of many of the climate community's standard model experiments.
 - [h5netcdf](https://github.com/h5netcdf/h5netcdf) - A Python interface for the netCDF4 file format that reads and writes local or remote HDF5 files directly via h5py or h5pyd, without relying on the Unidata netCDF library.
+- [cf-xarray](https://github.com/xarray-contrib/cf-xarray) - An accessor for xarray objects that interprets CF attributes.
 
 
 ### Climate Data Visualization and Access 
