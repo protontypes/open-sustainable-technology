@@ -1970,6 +1970,7 @@ energy system designs and analysis of interactions between technologies.
 - [env_canada](https://github.com/michaeldavie/env_canada) - Provides access to various data sources published by Environment and Climate Change Canada.
 - [DataONE](https://github.com/DataONEorg/d1_python) - A community driven project providing access to data across multiple member repositories, supporting enhanced search and discovery of Earth and environmental data.
 - [rdataone](https://github.com/DataONEorg/rdataone) - R package for reading and writing data at DataONE data repositories.
+- [eeExtra](https://github.com/r-earthengine/ee_extra) - A ninja python package that unifies the Google Earth Engine ecosystem.
 
 ### Environmental Satellites
 - [landsatxplore](https://github.com/yannforget/landsatxplore) - Provides an interface to the EarthExplorer portal to search and download Landsat Collections scenes through a command-line interface or a Python API.
