@@ -585,6 +585,7 @@ energy system designs and analysis of interactions between technologies.
 - [PointER](https://github.com/kdmayer/PointER) - A LiDAR-Derived Point Cloud Dataset of One Million English Buildings Linked to Energy Characteristics.
 - [predyce](https://gitlab.com/polito-edyce-prelude/predyce) - Is the natural evolution of the conventional Energy Performance Certification into real time optimization of building performance and comfort, by capturing the building's dynamic behaviour, and at the same time providing transparent feedback, through an intuitive interface.
 - [EUReCA](https://github.com/BETALAB-team/EUReCA) - Provides an efficient and reliable Urban Building Energy Modeling platform, entirely developed in Python, aiming at simulating and predicting cities and urban areas energy consumption.
+- [ebcpy](https://github.com/RWTH-EBC/ebcpy) - Provides generic functions and classes commonly used for the analysis and optimization of energy systems, buildings and indoor climate.
 
 ### Mobility and Transportation
 
