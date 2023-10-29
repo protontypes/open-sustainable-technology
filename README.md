@@ -761,7 +761,7 @@ energy system designs and analysis of interactions between technologies.
 - [forest-risks](https://github.com/carbonplan/forest-risks) - Statistical models of forest carbon potential and risks.
 - [Guardian](https://github.com/hashgraph/guardian) - Provides auditable, traceable, reproducible records that document the emission process and lifecycle of carbon credits, which reduce fraud in the ESG market.
 - [NCX Harvest Deferral Methodology](https://github.com/ncx-co/ifm_deferred_harvest) - Documents, Data, and Code for the NCX Methodology For Improved Forest Management Through Short-Term Harvest Deferral.
-- [PRTR](https://github.com/sykefi/PRTR) - A project for handling the European Pollutant Release and Transfer Register (E-PRTR) data and publishing it as a national web service
+- [PRTR](https://github.com/sykefi/PRTR) - A project for handling the European Pollutant Release and Transfer Register (E-PRTR) data and publishing it as a national web service.
 - [ETS-Watch](https://github.com/OSUKED/ETS-Watch) - Provides a Python client for retrieving the latest data on the EU Emissions Trading System market and its participants.
 
 
@@ -896,6 +896,7 @@ energy system designs and analysis of interactions between technologies.
 - [DiversiTree](https://github.com/DiversiTree/TreeDiversity) - Help urban foresters, planners, greeners, and ecologists in quantifying tree ecosystem diversity in cities.
 - [mobr](https://github.com/MoBiodiv/mobr) - Tools for analyzing changes in biodiversity across scales.
 - [Wildbook](https://github.com/WildMeOrg/Wildbook) - Blends structured wildlife research with artificial intelligence, citizen science, and computer vision to speed population analysis and develop new insights to help fight extinction.
+- [WildBook-ia](https://github.com/WildMeOrg/wildbook-ia) -  Builds open software and artificial intelligence for the conservation research community.
 - [PEcAn](https://github.com/PecanProject/pecan) - The Predictive Ecosystem Analyzer is an integrated ecological bioinformatics toolbox.
 - [mapme.biodiversity](https://github.com/mapme-initiative/mapme.biodiversity) - Efficient analysis of spatial biodiversity datasets for global portfolios.
 - [spatialEco](https://github.com/jeffreyevans/spatialEco) - R package for spatial analysis and modelling of ecological systems.
