@@ -765,7 +765,7 @@ energy system designs and analysis of interactions between technologies.
 - [ETS-Watch](https://github.com/OSUKED/ETS-Watch) - Provides a Python client for retrieving the latest data on the EU Emissions Trading System market and its participants.
 
 
-## Carbon Capture
+### Carbon Capture
 - [ClimateMARGO.jl](https://github.com/ClimateMARGO/ClimateMARGO.jl) - A Julia implementation of MARGO, an idealized framework for optimization of climate change control strategies.
 - [OceanBioME.jl](https://github.com/OceanBioME/OceanBioME.jl) - A tool to study the effectiveness and impacts of ocean carbon dioxide removal strategies.
 - [SimCCS Map Tool](https://github.com/SciGaP/simccs-maptool) - Online maptool that provides novel decision-support capabilities for evaluating carbon capture, utilization and storage technologies.
@@ -802,7 +802,6 @@ energy system designs and analysis of interactions between technologies.
 - [FIRECAM](https://github.com/tianjialiu/FIRECAM) - An online app for end-users to diagnose and explore regional differences in fire emissions from five global fire emissions inventories.
 - [ESTA](https://github.com/mmb-carb/ESTA) - A command-line tool for processing raw emissions data into spatially and temporally-allocated emissions inventories, suitable for photochemicaly modeling or other analysis.
 - [FlyingClimate](https://github.com/milankl/FlyingClimate) - Model the CO2 and non-CO2 effects like nitrogen oxide emissions and contrail formation to analyse aviation's total warming footprint.
-- [ETS-Watch](https://github.com/OSUKED/ETS-Watch) - Provides a Python client for retrieving the latest data on the EU Emissions Trading System market and its participants.
 - [Industrial Smoke Plume Detection](https://github.com/HSG-AIML/IndustrialSmokePlumeDetection) - Characterization of Industrial Smoke Plumes from Remote Sensing Data.
 - [EDGAR](https://edgar.jrc.ec.europa.eu/) - Emissions Database for Global Atmospheric Research.
 - [OpenGHGMap](https://openghgmap.net/) - A city-level CO2 emissions inventory for Europe.
