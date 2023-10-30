@@ -3,9 +3,9 @@
 # Open Sustainable Technology
 [<img src="earth.png" align="right" width="350">](https://tabletopwhale.com/)
 
-__A directory and analysis of the open source ecosystem in the areas of climate change, energy, biodiversity and natural resources.__ <br> <br> Your contribution is essential to keep this list alive. Please [write an email](mailto:tobias.augspurger@protontypes.eu) or [create an issue](https://github.com/protontypes/open-sustainable-technology/issues/new) to give feedback, hints and ideas considering [OpenSustain.tech](https://opensustain.tech/). 
+__A directory and analysis of the open source ecosystem in the areas of climate change, energy, biodiversity and natural resources.__ <br> <br> Your contribution is essential to keep this list alive. Please [write an email](mailto:tobias.augspurger@protontypes.eu) or [create an issue](https://github.com/protontypes/open-sustainable-technology/issues/new) to give feedback, hints and ideas considering [OpenSustain.tech](https://opensustain.tech/). If you're looking for developer tutorials on topics such as renewable energy, climate change or earth science, check out the [Education](https://opensustain.tech/education/) section. 
 
-If you're looking for developer tutorials on topics such as renewable energy, climate change or earth science, check out the [Education](https://opensustain.tech/education/) section. The metadata of the listed projects and organizations are used in several studies and reports to understand the role and potential of open source for environmental sustainability:
+The metadata of the listed projects and organizations are used in several studies and reports to understand the role and potential of open source for environmental sustainability:
 
 [![](https://badgen.net/badge/View/Spreadsheets/009485?scale=1.6)](https://docs.getgrist.com/gSscJkc5Rb1R/OpenSustaintech)
 [![](https://badgen.net/badge/Download/Report/009485?scale=1.6)](https://raw.githubusercontent.com/protontypes/open-source-in-environmental-sustainability/main/OpenSourceSustainabilityEcosystem_080423.pdf) 
@@ -62,7 +62,7 @@ If you're looking for developer tutorials on topics such as renewable energy, cl
   - [Waves and Currents](#waves-and-currents)
   - [Ocean Carbon and Temperature](#ocean-carbon-and-temperature)
   - [Coastal and Reefs](#coastal-and-reefs)
-  - [Ocean Data Processing and Access](#ocean-data-processing-and-access)
+  - [Ocean and Hydrology Data Access](#ocean-and-hydrology-data-access)
 - [Atmosphere](#atmosphere)
   - [Atmospheric Composition and Dynamics](#atmospheric-composition-and-dynamics)
   - [Atmospheric Dispersion and Transport](#atmospheric-dispersion-and-transport)
@@ -1245,8 +1245,7 @@ energy system designs and analysis of interactions between technologies.
 - [REEF3D](https://github.com/REEF3D/REEF3D) - An efficiently parallelized hydrodynamics framework with a focus on coastal, marine and hydraulic engineering flows.
 - [pygetm](https://github.com/BoldingBruggeman/getm-rewrite) - A Python rewrite of the General Estuarine Transport Model.
 
-
-### Ocean Data Processing and Access
+### Ocean and Hydrology Data Access
 - [HyRiver](https://github.com/cheginit/HyRiver) - A Python software stack for retrieving hydroclimate data from web services.
 - [argopy](https://github.com/euroargodev/argopy) - A global network of nearly 4000 autonomous probes measuring pressure, temperature and salinity from the surface to 2000m depth every 10 days.
 - [tidyhydat](https://github.com/ropensci/tidyhydat) - An R package to import Water Survey of Canada hydrometric data and make it tidy.
@@ -1262,6 +1261,7 @@ energy system designs and analysis of interactions between technologies.
 - [GPM-API](https://github.com/ghiggi/gpm_api) - Provides an easy-to-use python interface to download, read, process and visualize most of the products of the Global Precipitation Measurement Mission (GPM) data archive.
 - [hddtools](https://github.com/ropensci/hddtools) - An open source project designed to facilitate access to a variety of online open data sources relevant for hydrologists and, in general, environmental scientists and practitioners.
 - [hydrobr](https://github.com/hydroversebr/hydrobr) - Help users select, download and clean data from pluvio- and fluviometric stations from the Brazilian National Water Agency.
+- [EMODnetWFS](https://github.com/EMODnet/EMODnetWFS) - Allow interrogation of and access to EMODnet(European Marine Observation and Data Network) geographic vector data in R though the EMODnet Web Feature Services.
 
 ## Atmosphere
 ### Atmospheric Composition and Dynamics
