@@ -1028,6 +1028,7 @@ energy system designs and analysis of interactions between technologies.
 - [kewr](https://github.com/barnabywalker/kewr) - Meant to make accessing data from one of Royal Botanic Gardenn Kew easier and to provide a consistent interface their public APIs.
 - [Plants of the World Online](https://github.com/RBGKew/powop) - An international collaborative programme that has as a primary aim to make available digitized data of the world's flora gathered from the past 250 years of botanical exploration and research.
 - [dvm-dos-tem](https://github.com/uaf-arctic-eco-modeling/dvm-dos-tem) - A process based Dynamic Vegetation, Dynamic Organic Soil, Terrestrial Ecosystem Model.
+- [blsp](https://github.com/ncsuSEAL/Bayesian_LSP) - A Bayesian hierarchical model that quantifies long-term annual land surface phenology from sparse time series of vegetation indices.
 
 ### Biomass
 - [fgeo.biomass](https://github.com/forestgeo/fgeo.biomass) - Calculate biomass with allometric equations from the allodb package and ForestGEO data.
@@ -1784,7 +1785,8 @@ energy system designs and analysis of interactions between technologies.
 - [Statistics for Soil Survey](https://github.com/ncss-tech/stats_for_soil_survey) - Develop solutions to investigate soil survey correlation problems and update activities.
 - [LWFBrook90R](https://github.com/pschmidtwalter/LWFBrook90R) - Simulates daily transpiration, interception, soil and snow evaporation, streamflow and soil water fluxes through a soil profile covered with vegetation.
 - [downscalr](https://github.com/tkrisztin/downscalr) - An R package for downscaling of land-use and land-use change projections.
-- [droughtR](https://github.com/mammask/droughtR) - An R package for non-stationary meteorological drought monitoring
+- [droughtR](https://github.com/mammask/droughtR) - An R package for non-stationary meteorological drought monitoring.
+
 
 
 ### Agriculture and Nutrition
