@@ -1366,7 +1366,7 @@ energy system designs and analysis of interactions between technologies.
 - [radis](https://github.com/radis/radis) - A fast line-by-line code for high-resolution infrared molecular spectra.
 - [pyOSOAA](https://github.com/fnemina/pyOSOAA) - A python interface for the Ocean Successive Orders with Atmosphere radiative transfer.
 - [ECRAD](https://github.com/ecmwf/ecrad) - A radiation scheme suitable for use in atmospheric weather and climate models.
-
+- [RT1](https://github.com/TUW-GEO/rt1) - A first order radiative transfer model for soil- and vegetation related parameter retrievals from radar-data.
 
 ## Climate and Earth Science
 
