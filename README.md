@@ -1719,7 +1719,7 @@ energy system designs and analysis of interactions between technologies.
 - [Ribasim](https://github.com/Deltares/Ribasim) - A water resources model, designed to be the replacement of the regional surface water modules Mozart and SIMRES in the Netherlands Hydrological Instrument.
 - [Pywr](https://github.com/pywr/pywr) - Simulates customisable water allocation and operation rules throughout complex multi-purpose managed water systems at each user-defined time-step.
 - [mosartwmpy](https://github.com/IMMM-SFA/mosartwmpy) - A python translation of MOSART-WM, a model for water routing and reservoir management written in Fortran.
-
+- [ClearWater Modules](https://github.com/EcohydrologyTeam/ClearWater-modules) - A collection of water quality and vegetation process simulation modules designed to couple with water transport models.
 
 ### Soil and Land
 
