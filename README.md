@@ -1784,6 +1784,7 @@ energy system designs and analysis of interactions between technologies.
 - [Statistics for Soil Survey](https://github.com/ncss-tech/stats_for_soil_survey) - Develop solutions to investigate soil survey correlation problems and update activities.
 - [LWFBrook90R](https://github.com/pschmidtwalter/LWFBrook90R) - Simulates daily transpiration, interception, soil and snow evaporation, streamflow and soil water fluxes through a soil profile covered with vegetation.
 - [downscalr](https://github.com/tkrisztin/downscalr) - An R package for downscaling of land-use and land-use change projections.
+- [droughtR](https://github.com/mammask/droughtR) - An R package for non-stationary meteorological drought monitoring
 
 
 ### Agriculture and Nutrition
