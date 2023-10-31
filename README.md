@@ -824,8 +824,7 @@ energy system designs and analysis of interactions between technologies.
 - [Integrated Methane Inversion](https://github.com/geoschem/integrated_methane_inversion) - Contains the source code for setting up and running the Integrated Methane Inversion with GEOS-Chem.
 - [eCalc](https://github.com/equinor/ecalc) - A software tool for calculation of energy demand and greenhouse gas emissions from oil and gas production and processing.
 - [forest-offsets](https://github.com/carbonplan/forest-offsets) - Includes our libraries and scripts for analyzing California's compliance forest carbon offsets program.
-- [OceanSODA](https://github.com/JamieLab/OceanSODA) - Methods for evaluating and using empirical approaches for studying the surface marine carbonate system.
-
+- [Fossil Shipment Tracker](https://github.com/energyandcleanair/fossil_shipment_tracker) - A data platform that provides decision-makers, journalists and campaigning organizations with information that helps identify fossil fuel shipments from Russia.
 
 ## Industrial Ecology
 
@@ -1233,6 +1232,7 @@ energy system designs and analysis of interactions between technologies.
 - [AutoQC](https://github.com/IQuOD/AutoQC) - A testing suite for automatic quality control checks of subsurface ocean temperature observations.
 - [marineHeatWaves](https://github.com/ecjoliver/marineHeatWaves) - A module for Python which implements the Marine Heatwave definition of Hobday et al. (2016).
 - [heatwaveR](https://github.com/robwschlegel/heatwaveR) - Contains the original functions from the RmarineHeatWaves package that calculate and display marine heatwaves according to the definition of Hobday et al. (2016).
+- [OceanSODA](https://github.com/JamieLab/OceanSODA) - Methods for evaluating and using empirical approaches for studying the surface marine carbonate system.
 
 
 ### Coastal and Reefs
