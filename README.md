@@ -1189,6 +1189,7 @@ energy system designs and analysis of interactions between technologies.
 - [hspfbintoolbox](https://github.com/timcera/hspfbintoolbox) - A Python script and library of functions to read Hydrological Simulation Program Fortran (HSPF) binary files and print to screen.
 - [Download Water Data](https://github.com/mentaljam/download_water_data) - Downloader for the Global Surface Water Data of the Copernicus Programme.
 - [pyOpenRiverCam](https://github.com/localdevices/pyorc) - Surface velocity, object tracking, and river flow measurements in an open-source API.
+- [SHUD](https://github.com/SHUD-System/SHUD) - A multi-process, multi-scale integrated hydrological model using the semi-discrete Finite Volume Method.
 
 ### Ocean Circulation Models
 - [MOM6](https://github.com/NOAA-GFDL/MOM6) - A numerical representation of the ocean fluid with applications from the process scale to the planetary circulation scale.
