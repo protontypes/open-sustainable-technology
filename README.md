@@ -1787,7 +1787,7 @@ energy system designs and analysis of interactions between technologies.
 - [LWFBrook90R](https://github.com/pschmidtwalter/LWFBrook90R) - Simulates daily transpiration, interception, soil and snow evaporation, streamflow and soil water fluxes through a soil profile covered with vegetation.
 - [downscalr](https://github.com/tkrisztin/downscalr) - An R package for downscaling of land-use and land-use change projections.
 - [droughtR](https://github.com/mammask/droughtR) - An R package for non-stationary meteorological drought monitoring.
-
+- [meteoland](https://github.com/emf-creaf/meteoland) - Functions to estimate weather variables at any position of a landscape.
 
 
 ### Agriculture and Nutrition
