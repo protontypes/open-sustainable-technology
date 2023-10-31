@@ -1010,6 +1010,7 @@ energy system designs and analysis of interactions between technologies.
 - [Our Forests Tomorrow](https://github.com/developmentseed/our-forests-tomorrow) - Visualizing European forests future.
 - [eu_cbm_hat](https://gitlab.com/bioeconomy/eu_cbm/eu_cbm_hat) - Enables the assessment of forest CO2 emissions and removals under scenarios of forest management, natural disturbances and forest-related land use changes.
 - [A high-resolution canopy height model of the Earth](https://github.com/langnico/global-canopy-height-model) - The model estimates canopy top height for every Sentinel-2 image pixel and was trained using sparse GEDI LIDAR data as a reference.
+- [medfate](https://github.com/emf-creaf/medfate) - Functions to simulate Mediterranean forest functioning and dynamics using cohort-based description of vegetation.
 
 ### Plants and Vegetation 
 - [OpenPlantPathology](https://github.com/openplantpathology/OpenPlantPathology) - Open Plant Pathology is an initiative that supports and promotes the spread of all open, transparent and reproducible practices in the field of plant pathology.
