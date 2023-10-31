@@ -1859,7 +1859,7 @@ energy system designs and analysis of interactions between technologies.
 - [biotrade](https://gitlab.com/bioeconomy/forobs/biotrade/) - Analyses international trade of bio-based products with a focus on the agriculture and forestry sectors.
 - [PyETo](https://github.com/woodcrafty/PyETo) - A Python library for calculating reference crop evapotranspiration, sometimes referred to as potential evapotranspiration.
 - [DynACof](https://github.com/VEZY/DynACof) - Process-based model computes plot-scale Net Primary Productivity, carbon allocation, growth, yield, energy, and water balance of coffee plantations according to management.
-
+- [WorldCereal](https://github.com/WorldCereal/worldcereal-classification) - An efficient, agile and robust EO based system for timely global crop monitoring at field scale. 
 
 ## Sustainable Development
 
@@ -1996,7 +1996,6 @@ energy system designs and analysis of interactions between technologies.
 - [xarray-sentinel](https://github.com/bopen/xarray-sentinel) - Easily access and explore the SAR data products of the Copernicus Sentinel-1 satellite mission in Python.
 
 ### Taxonomy and Ontology
-
 - [Digital Twins Definition Language ontology for Energy Grid](https://github.com/Azure/opendigitaltwins-energygrid) - A global standard for energy grid assets management, power system operations modeling and physical energy commodity market.
 - [The Open Energy Ontology](https://github.com/OpenEnergyPlatform/ontology) - A domain ontology of the energy-system modeling context.
 - [ECTO](https://github.com/EnvironmentOntology/environmental-exposure-ontology) - Modular environmental exposures ontology.
