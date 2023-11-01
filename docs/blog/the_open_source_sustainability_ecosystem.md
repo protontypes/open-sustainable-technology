@@ -11,7 +11,7 @@ Open source software (OSS) accelerates the transition to a sustainable economy b
 
 Opensustain.tech has recently published a study providing the first analysis of the health and vibrancy of OSS in sustainability and climate technology. The analysis covered multiple dimensions, including technical, social, and organizational. The report also highlights key risks and challenges for users, developers, and decision-makers, as well as opportunities for more systemic collaboration.
 
-For the past two years, more than one thousand actively developed open source projects and organizations were collected and systematically analyzed using qualitative and quantitative methods as part of the Open Sustainable Technology project and the [associated database](https://airtable.com/shr9we419r2TkpLkc).
+For the past two years, more than one thousand actively developed open source projects and organizations were collected and systematically analyzed using qualitative and quantitative methods as part of the Open Sustainable Technology project and the [associated database](https://docs.getgrist.com/gSscJkc5Rb1R/OpenSustaintech).
 
 ## Community engagement
 Opensustain.tech found 996 active project repositories on GitHub that had at least one commit or a closed issue in the last year. Although stars are not a perfect metric, we counted 127,038 stars across these projects. Still, a search on GitHub revealed 27 projects have more stars than the entire software in environmental sustainability combined! This is one indicator that open source still plays a minor role as a long-term transformation strategy in sustainability compared to other domains.
