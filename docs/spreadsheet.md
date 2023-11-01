@@ -3,8 +3,17 @@ hide:
   - navigation
   - toc
 ---
-<iframe class="airtable-embed" src="https://airtable.com/embed/shr9we419r2TkpLkc?backgroundColor=teal" seamless frameborder="0" onmousewheel="" width="100%" height="1000" allowfullscreen style="background: transparent; border: 1px solid #ccc; top:0; left:0, position:absolute"></iframe>
 <style>
+body {
+    margin: 0;            /* Reset default margin */
+}
+iframe {
+    display: block;       /* iframes are inline by default */
+    background: #000;
+    border: none;         /* Reset default border */
+    height: 100vh;        /* Viewport-relative units */
+    width: 100vw;
+}
   .md-grid {
     max-width: initial;
   }
@@ -13,3 +22,8 @@ hide:
     display: none;
   }
 </style>
+
+<iframe src="https://docs.getgrist.com/gSscJkc5Rb1R/OpenSustaintech" 
+        height="100%" width="100%" frameborder="0">
+</iframe>
+
