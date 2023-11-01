@@ -3,17 +3,8 @@ hide:
   - navigation
   - toc
 ---
+
 <style>
-body {
-    margin: 0;            /* Reset default margin */
-}
-iframe {
-    display: block;       /* iframes are inline by default */
-    background: #000;
-    border: none;         /* Reset default border */
-    height: 100vh;        /* Viewport-relative units */
-    width: 100vw;
-}
   .md-grid {
     max-width: initial;
   }
@@ -23,7 +14,19 @@ iframe {
   }
 </style>
 
-<iframe src="https://docs.getgrist.com/gSscJkc5Rb1R/OpenSustaintech" 
-        height="100%" width="100%" frameborder="0">
+<iframe
+  src="https://docs.getgrist.com/gSscJkc5Rb1R/OpenSustaintech"
+  style="
+    position: fixed;
+    top: 110px;
+    bottom: 0px;
+    right: 0px;
+    width: 100%;
+    border: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    height: 100%;
+  ">
 </iframe>
 
