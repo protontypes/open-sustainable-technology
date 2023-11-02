@@ -6,9 +6,6 @@ hide:
 ---
 
 <style>
-  .md-grid {
-    max-width: initial;
-  }
   .md-typeset h1,
   .md-content__button {
     display: none;
@@ -20,7 +17,7 @@ hide:
   style="
     position: fixed;
     top: 15vp;
-    bottom:110px;
+    bottom:0;
     right: 0px;
     width: 100%;
     border: none;
