@@ -8,8 +8,7 @@ edit_uri: ''
 nav:
   - Projects: index.md
   - Spreadsheet: spreadsheet.md
-  - Report:
-      Open Source in Environmental Sustainability: open_source_in_environmental_sustainability.md 
+  - Report: open_source_in_environmental_sustainability.md 
   - Education: education.md
   - Contribute: contributing.md
   - Blog:

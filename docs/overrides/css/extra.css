@@ -1,6 +1,6 @@
 .iframestyle {
   position: fixed;
-  top: 100px;
+  top: 4.8rem;
   bottom: 110px;
   right: 0px;
   width: 100%;
@@ -13,6 +13,6 @@
 
 @media (max-width: 1219px) {
   .iframestyle {
-    top: 50px;
+    top: 2.4rem;
   }
 }
