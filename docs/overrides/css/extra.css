@@ -8,12 +8,12 @@
   margin: 0;
   padding: 0;
   overflow: hidden;
-  height: 80%;
+  height: 90%;
 }
 
 @media (max-width: 1219px) {
   .iframestyle {
     top: 2.4rem;
-    height: 85%;
+    height: 95%;
   }
 }
