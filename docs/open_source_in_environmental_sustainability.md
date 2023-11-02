@@ -2,12 +2,10 @@
 hide:
   - navigation
   - toc
+  - footer
 ---
 
 <style>
-  .md-grid {
-    max-width: initial;
-  }
   .md-typeset h1,
   .md-content__button {
     display: none;
@@ -16,15 +14,14 @@ hide:
 
 <iframe src="https://report.opensustain.tech/chapters/index.html"   style="
     position: fixed;
-    top: 110px;
-    bottom: 0px;
+    top: 15vh;
+    bottom: 110px;
     right: 0px;
     width: 100%;
     border: none;
     margin: 0;
     padding: 0;
     overflow: hidden;
-    height: 100%;
+    height: 85%;
   ">
 </iframe>
-

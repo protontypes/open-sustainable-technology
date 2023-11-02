@@ -40,6 +40,7 @@ theme:
     - toc.integrate
     - search.highlight
     - search.suggest
+    - navigation.top
     
 extra_css:
     - css/extra.css

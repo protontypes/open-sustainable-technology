@@ -2,6 +2,7 @@
 hide:
   - navigation
   - toc
+  - footer
 ---
 
 <style>
@@ -18,15 +19,15 @@ hide:
   src="https://docs.getgrist.com/gSscJkc5Rb1R/OpenSustaintech"
   style="
     position: fixed;
-    top: 110px;
-    bottom: 0px;
+    top: 15vp;
+    bottom:110px;
     right: 0px;
     width: 100%;
     border: none;
     margin: 0;
     padding: 0;
     overflow: hidden;
-    height: 100%;
+    height: 85%;
   ">
 </iframe>
 
