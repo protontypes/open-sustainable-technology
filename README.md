@@ -1013,7 +1013,7 @@ energy system designs and analysis of interactions between technologies.
 
 ### Plants and Vegetation 
 - [OpenPlantPathology](https://github.com/openplantpathology/OpenPlantPathology) - Open Plant Pathology is an initiative that supports and promotes the spread of all open, transparent and reproducible practices in the field of plant pathology.
-- [CRootBox](https://github.com/Plant-Root-Soil-Interactions-Modelling/CRootBox) - The focus of CRootBox is the simulation of different types of root architecture, and to provide a generic interface for coupling with arbitrary soil/environmental models, e.g., in order to determine the impact of specific root architectures on function.
+- [CRootBox](https://github.com/Plant-Root-Soil-Interactions-Modelling/CPlantBox) - The focus of CRootBox is the simulation of different types of root architecture, and to provide a generic interface for coupling with arbitrary soil/environmental models, e.g., in order to determine the impact of specific root architectures on function.
 - [PlantCV](https://github.com/danforthcenter/plantcv) - Plant phenotyping using computer vision.
 - [Deep Plant Phenomics](https://github.com/p2irc/deepplantphenomics) - A platform for plant phenotyping using deep learning.
 - [plant](https://github.com/traitecoevo/plant) - A package for modeling forest trait ecology and evolution.
