@@ -1053,6 +1053,7 @@ energy system designs and analysis of interactions between technologies.
 - [qgis2fds](https://github.com/firetools/qgis2fds) - Export terrain elevation, landuse, and georeferencing for computational fluid dynamics wildfire or atmospheric pollutants dispersion simulations.
 - [Mesogeos](https://github.com/Orion-AI-Lab/mesogeos) - A multi-purpose dataset for data-driven wildfire modeling in the Mediterranean.
 - [nasa-wildfires](https://github.com/datadesk/nasa-wildfires) - Download wildfire hotspots detected by NASA satellites and the Fire Information for Resource Management System (FIRMS).
+- [WindNinja](https://github.com/firelab/windninja) - Computes spatially-varying wind fields for wildland fire and other applications requiring high-resolution wind predictions in complex terrain.
 
 
 ### Marine Life and Fishery
