@@ -1324,7 +1324,7 @@ energy system designs and analysis of interactions between technologies.
 - [PySDM](https://github.com/open-atmos/PySDM) - Pythonic particle-based warm-rain/aqueous-chemistry cloud microphysics package.
 - [pyrcel](https://github.com/darothen/pyrcel) - An implementation of a simple, adiabatic cloud parcel model for use in aerosol-cloud interaction studies.
 - [ORAC](https://github.com/ORAC-CC/orac) - An optimal estimation retrieval scheme for the estimation of aerosol and cloud properties from a wide range of visible-infrared imaging satellites, such as MODIS, AATSR, AVHRR and SEVIRI.
-
+- [CAMP](https://github.com/open-atmos/camp) - Allows a given chemical mechanism to be solved in atmospheric models with different aerosol representations.
 
 ### Meteorological Observation and Forecast
 - [METplus](https://github.com/dtcenter/METplus) - A verification framework that spans a wide range of temporal (warn-on-forecast to climate) and spatial (storm to global) scales.
