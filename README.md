@@ -1864,6 +1864,8 @@ energy system designs and analysis of interactions between technologies.
 - [PyETo](https://github.com/woodcrafty/PyETo) - A Python library for calculating reference crop evapotranspiration, sometimes referred to as potential evapotranspiration.
 - [DynACof](https://github.com/VEZY/DynACof) - Process-based model computes plot-scale Net Primary Productivity, carbon allocation, growth, yield, energy, and water balance of coffee plantations according to management.
 - [WorldCereal](https://github.com/WorldCereal/worldcereal-classification) - An efficient, agile and robust EO based system for timely global crop monitoring at field scale. 
+- [AgML](https://github.com/Project-AgML/AgML) - Provides access to public agricultural datasets for common agricultural deep learning tasks, with standard benchmarks and pretrained models, as well the ability to generate synthetic data and annotations.
+
 
 ## Sustainable Development
 
