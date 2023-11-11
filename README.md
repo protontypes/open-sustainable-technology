@@ -2062,7 +2062,7 @@ Animation created with [An Animated Map of the Earth](https://github.com/eleanor
 
 The artwork included in this repository are shared under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License.
 
-This work and all contributions to it are released into terms of the CC0 1.0 Universal Public Domain if not otherwise noted.
+This work and all contributions to it are released into terms of the Creative Commons Attribution 4.0 International if not otherwise noted.
 
-[![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
+[![CC-BY-4.0 license](https://licensebuttons.net/l/by-sa/4.0/88x31.png)](https://creativecommons.org/licenses/by-sa/4.0/)
 
