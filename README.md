@@ -1305,6 +1305,7 @@ energy system designs and analysis of interactions between technologies.
 - [ACT](https://github.com/ARM-DOE/ACT) - The Atmospheric data Community Toolkit is an open source Python toolkit for working with atmospheric time-series datasets of varying dimensions.
 - [Freva](https://gitlab.dkrz.de/freva/evaluation_system) - A data search and analysis platform developed by the atmospheric science community for the atmospheric science community.
 - [SpeedyWeather.jl](https://github.com/SpeedyWeather/SpeedyWeather.jl) - A global spectral atmospheric model with simple physics which is developed as a research playground with an everything-flexible attitude as long as it is speedy.
+- [A-Profiles](https://github.com/AugustinMortier/a-profiles) - A python library dedicated to the analysis of atmospheric profilers measurements.
 
 ### Atmospheric Dispersion and Transport
 - [MPTRAC](https://github.com/slcs-jsc/mptrac) - A Lagrangian particle dispersion model for the analysis of atmospheric transport processes in the free troposphere and stratosphere.
@@ -1328,6 +1329,7 @@ energy system designs and analysis of interactions between technologies.
 - [ORAC](https://github.com/ORAC-CC/orac) - An optimal estimation retrieval scheme for the estimation of aerosol and cloud properties from a wide range of visible-infrared imaging satellites, such as MODIS, AATSR, AVHRR and SEVIRI.
 - [CAMP](https://github.com/open-atmos/camp) - Allows a given chemical mechanism to be solved in atmospheric models with different aerosol representations.
 - [pyaerocom](https://github.com/metno/pyaerocom) - An open international initiative of scientists interested in the advancement of the understanding of the global aerosol and its impact on climate.
+- [py-smps](https://github.com/quant-aq/py-smps) - Python package for analyzing and visualizing size-resolved aerosol data from a variety of aerosol sizing instruments. 
 
 ### Meteorological Observation and Forecast
 - [METplus](https://github.com/dtcenter/METplus) - A verification framework that spans a wide range of temporal (warn-on-forecast to climate) and spatial (storm to global) scales.
@@ -2063,7 +2065,7 @@ Animation created with [An Animated Map of the Earth](https://github.com/eleanor
 
 The artwork included in this repository are shared under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License.
 
-This work and all contributions to it are released into terms of the CC0 1.0 Universal Public Domain if not otherwise noted.
+This work and all contributions to it are released into terms of the Creative Commons Attribution 4.0 International if not otherwise noted.
 
-[![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
+[![CC-BY-4.0 license](https://licensebuttons.net/l/by-sa/4.0/88x31.png)](https://creativecommons.org/licenses/by-sa/4.0/)
 
