@@ -1328,6 +1328,7 @@ energy system designs and analysis of interactions between technologies.
 - [pyrcel](https://github.com/darothen/pyrcel) - An implementation of a simple, adiabatic cloud parcel model for use in aerosol-cloud interaction studies.
 - [ORAC](https://github.com/ORAC-CC/orac) - An optimal estimation retrieval scheme for the estimation of aerosol and cloud properties from a wide range of visible-infrared imaging satellites, such as MODIS, AATSR, AVHRR and SEVIRI.
 - [CAMP](https://github.com/open-atmos/camp) - Allows a given chemical mechanism to be solved in atmospheric models with different aerosol representations.
+- [pyaerocom](https://github.com/metno/pyaerocom) - An open international initiative of scientists interested in the advancement of the understanding of the global aerosol and its impact on climate.
 - [py-smps](https://github.com/quant-aq/py-smps) - Python package for analyzing and visualizing size-resolved aerosol data from a variety of aerosol sizing instruments. 
 
 ### Meteorological Observation and Forecast
