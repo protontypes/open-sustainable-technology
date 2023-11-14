@@ -26,8 +26,7 @@ jobs:
         with:
           python-version: 3.x
       - run: |
-              pip install git+https://${GH_TOKEN}@github.com/protontypes/mkdocs-material-insiders.git
-              pip install jinja2==3.0.3
+              pip install mkdocs-material-insiders
       
       - name: Build with mkdocs and deploy
         run: mkdocs gh-deploy --force
