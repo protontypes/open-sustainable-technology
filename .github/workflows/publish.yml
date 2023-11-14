@@ -26,7 +26,7 @@ jobs:
         with:
           python-version: 3.x
       - run: |
-              pip install mkdocs-material-insiders
+              pip install mkdocs-material
       
       - name: Build with mkdocs and deploy
         run: mkdocs gh-deploy --force
