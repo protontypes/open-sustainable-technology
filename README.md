@@ -276,6 +276,7 @@ The metadata of the listed projects and organizations are used in several studie
 - [BattMo](https://github.com/BattMoTeam/BattMo) - The Battery Modelling Toolbox (BattMo) is a resource for continuum modelling of electrochemical devices in MATLAB.
 - [LiBRA](https://github.com/BradyPlanden/LiiBRA.jl) - Create reduced-order state-space models for lithium-ion batteries utilising realisation algorithms.
 - [PyBOP](https://github.com/pybop-team/PyBOP) - Provides a comprehensive suite of tools for parameterisation and optimisation of battery models.
+- [MPET](https://github.com/TRI-AMDD/mpet) - Run simulations of batteries with porous electrodes using porous electrode theory, which is a volume-averaged, multiscale approach to capture the coupled behavior of electrolyte and active material within electrodes.
 
 ### Hydrogen
 
@@ -743,12 +744,9 @@ energy system designs and analysis of interactions between technologies.
 - [footprint](https://github.com/acircleda/footprint) - An R package to calculate carbon footprints from air travel based on IATA airport codes or latitude and longitude.
 - [intensegRid](https://github.com/KKulma/intensegRid) - Provides information on national and regional carbon intensity, the amount of carbon emitted per unit of energy consumed, for the UK.
 - [Carbonfact Models](https://github.com/kansoapp/carbonfact-models) - The carbon footprint models used by carbonfact.co.
-- [elmada](https://github.com/DrafProject/elmada) - Dynamic electricity carbon emission factors and prices for Europe.
-- [UNFCCC emissions data](https://github.com/openclimatedata/unfccc-detailed-data-by-party) - UNFCCC Emissions data from the Detailed Data By Party interface.
 - [Silicone](https://github.com/GranthamImperial/silicone) - Automated filling of detail in reported emission scenarios.
 - [OpenClimate](https://github.com/Open-Earth-Foundation/OpenClimate) - Independent Climate Accounting Network in support of Paris Agreement goals.
 - [Scope3](https://github.com/scope3data/methodology) - Build a framework where the media and advertising industry can collaborate on best practices for measuring emissions from the advertising value chain.
-- [World Carbon Pricing Database](https://github.com/g-dolphin/WorldCarbonPricingDatabase) - This dataset contains information on carbon pricing mechanisms (carbon taxes or cap-and-trade) introduced around the world since 1990.
 - [NEMED](https://github.com/UNSW-CEEM/NEMED) - A python package to retrieve and process historical emissions data of the National Electricity Market, reproduced by datasets published by the Australian Energy Market Operator.
 - [Steel Emissions Reporting Guidance](https://github.com/RMI/steel-guidance) - RMI's steel emissions accounting and data exchange guidance.
 - [carbonr](https://github.com/IDEMSInternational/carbonr) - A package in R to conveniently calculate carbon-equivalent emissions.
@@ -766,9 +764,12 @@ energy system designs and analysis of interactions between technologies.
 - [NCX Harvest Deferral Methodology](https://github.com/ncx-co/ifm_deferred_harvest) - Documents, Data, and Code for the NCX Methodology For Improved Forest Management Through Short-Term Harvest Deferral.
 - [PRTR](https://github.com/sykefi/PRTR) - A project for handling the European Pollutant Release and Transfer Register (E-PRTR) data and publishing it as a national web service.
 - [ETS-Watch](https://github.com/OSUKED/ETS-Watch) - Provides a Python client for retrieving the latest data on the EU Emissions Trading System market and its participants.
+- [World Carbon Pricing Database](https://github.com/g-dolphin/WorldCarbonPricingDatabase) - This dataset contains information on carbon pricing mechanisms (carbon taxes or cap-and-trade) introduced around the world since 1990.
+- [elmada](https://github.com/DrafProject/elmada) - Dynamic electricity carbon emission factors and prices for Europe.
 
 
 ### Carbon Capture
+
 - [ClimateMARGO.jl](https://github.com/ClimateMARGO/ClimateMARGO.jl) - A Julia implementation of MARGO, an idealized framework for optimization of climate change control strategies.
 - [OceanBioME.jl](https://github.com/OceanBioME/OceanBioME.jl) - A tool to study the effectiveness and impacts of ocean carbon dioxide removal strategies.
 - [SimCCS Map Tool](https://github.com/SciGaP/simccs-maptool) - Online maptool that provides novel decision-support capabilities for evaluating carbon capture, utilization and storage technologies.
@@ -827,6 +828,8 @@ energy system designs and analysis of interactions between technologies.
 - [eCalc](https://github.com/equinor/ecalc) - A software tool for calculation of energy demand and greenhouse gas emissions from oil and gas production and processing.
 - [forest-offsets](https://github.com/carbonplan/forest-offsets) - Includes our libraries and scripts for analyzing California's compliance forest carbon offsets program.
 - [Fossil Shipment Tracker](https://github.com/energyandcleanair/fossil_shipment_tracker) - A data platform that provides decision-makers, journalists and campaigning organizations with information that helps identify fossil fuel shipments from Russia.
+- [UNFCCC emissions data](https://github.com/openclimatedata/unfccc-detailed-data-by-party) - UNFCCC Emissions data from the Detailed Data By Party interface.
+
 
 ## Industrial Ecology
 
@@ -1013,7 +1016,7 @@ energy system designs and analysis of interactions between technologies.
 - [A high-resolution canopy height model of the Earth](https://github.com/langnico/global-canopy-height-model) - The model estimates canopy top height for every Sentinel-2 image pixel and was trained using sparse GEDI LIDAR data as a reference.
 - [medfate](https://github.com/emf-creaf/medfate) - Functions to simulate Mediterranean forest functioning and dynamics using cohort-based description of vegetation.
 
-### Plants and Vegetation 
+### Plants and Vegetation
 - [OpenPlantPathology](https://github.com/openplantpathology/OpenPlantPathology) - Open Plant Pathology is an initiative that supports and promotes the spread of all open, transparent and reproducible practices in the field of plant pathology.
 - [CRootBox](https://github.com/Plant-Root-Soil-Interactions-Modelling/CPlantBox) - The focus of CRootBox is the simulation of different types of root architecture, and to provide a generic interface for coupling with arbitrary soil/environmental models, e.g., in order to determine the impact of specific root architectures on function.
 - [PlantCV](https://github.com/danforthcenter/plantcv) - Plant phenotyping using computer vision.
@@ -1369,6 +1372,8 @@ energy system designs and analysis of interactions between technologies.
 - [Weather Stations](https://github.com/meteostat/weather-stations) - A list of public weather stations everyone can edit and share.
 - [GEMPAK](https://github.com/Unidata/gempak) - Analysis and product generation for meteorological data.
 - [PostWRF](https://github.com/anikfal/PostWRF) - Visualization and postprocessing of the WRF and ERA5 data.
+- [GraphCast](https://github.com/google-deepmind/graphcast) - Learning skillful medium-range global weather forecasting.
+
 
 ### Radiative Transfer
 
@@ -1624,6 +1629,7 @@ energy system designs and analysis of interactions between technologies.
 - [ipcc_sr15_scenario_analysis](https://github.com/iiasa/ipcc_sr15_scenario_analysis) - Scenario analysis notebooks for the IPCC Special Report on Global Warming of 1.5°C.
 - [rwlts](https://github.com/brazil-data-cube/rwlts) - Support governments in making decisions about the impact of human activities on the environment, planning the use of natural resources, conserving biodiversity and monitoring climate change.
 - [AI for Global Climate Cooperation](https://github.com/mila-iqia/climate-cooperation-competition) - Modeling global cooperation in the RICE-N Integrated Assessment Model.
+- [Future Technology Transformation](https://github.com/cpmodel/FTT_StandAlone) - Integrated assessment model with a realistic treatment of technology diffusion.
 
 
 ## Natural Resources
