@@ -860,6 +860,7 @@ energy system designs and analysis of interactions between technologies.
 - [ecobalyse](https://github.com/MTES-MCT/ecobalyse) - Ecobalyse makes it possible to understand and calculate the ecological impacts of the products distributed in France.
 - [lca_algebraic](https://github.com/oie-mines-paristech/lca_algebraic) - This library is a small layer above brightway2, designed for the definition of parametric inventories with fast computation of LCA impacts, suitable for monte-carlo analyis.
 - [pyLCAIO](https://github.com/maximeagez/pylcaio) - An object class to hybridize lifecycle assessment and environmentally extended input-output (EEIO) databases.
+- [UN/CEFACT CRM](https://github.com/uncefact/project-crm) - Critical raw materials traceability & transparency project.
 
 ### Circular Economy and Waste
 
