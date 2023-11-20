@@ -276,6 +276,7 @@ The metadata of the listed projects and organizations are used in several studie
 - [BattMo](https://github.com/BattMoTeam/BattMo) - The Battery Modelling Toolbox (BattMo) is a resource for continuum modelling of electrochemical devices in MATLAB.
 - [LiBRA](https://github.com/BradyPlanden/LiiBRA.jl) - Create reduced-order state-space models for lithium-ion batteries utilising realisation algorithms.
 - [PyBOP](https://github.com/pybop-team/PyBOP) - Provides a comprehensive suite of tools for parameterisation and optimisation of battery models.
+- [MPET](https://github.com/TRI-AMDD/mpet) - Run simulations of batteries with porous electrodes using porous electrode theory, which is a volume-averaged, multiscale approach to capture the coupled behavior of electrolyte and active material within electrodes.
 
 ### Hydrogen
 
