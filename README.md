@@ -1434,6 +1434,7 @@ energy system designs and analysis of interactions between technologies.
 - [SUEWS](https://github.com/UMEP-dev/SUEWS) - Surface Urban Energy and Water Balance Scheme.
 - [Dragonfly for Grasshopper](https://github.com/ladybug-tools/dragonfly-legacy) - Legacy dragonfly plugin for large-scale climate and urban heat island modeling.
 - [pycontrails](https://github.com/contrailcirrus/pycontrails) - Python library for modeling aviation climate impacts.
+- [GraphCast](https://github.com/google-deepmind/graphcast) - Learning skillful medium-range global weather forecasting.
 
 
 ### Climate Data Standards 
