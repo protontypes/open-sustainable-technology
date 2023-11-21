@@ -942,6 +942,9 @@ energy system designs and analysis of interactions between technologies.
 - [ReMobidyc](https://github.com/ReMobidyc/ReMobidyc) - A multi-agent simulator for individual-based modeling in population dynamics and ecotoxicology.
 - [TSX](https://github.com/nesp-tsr3-1/tsx) - Provides reliable and robust measures of change in the relative abundance of Australia's threatened and near-threatened species at national, state and regional levels.
 - [vak](https://github.com/vocalpy/vak) - A neural network framework for animal acoustic communication and bioacoustics.
+- [scikit-maad](https://github.com/scikit-maad/scikit-maad) - Estimating animal acoustic diversity in tropical environments using unsupervised multiresolution analysis.
+- [SMBD](https://github.com/ioos/bio_data_guide) - Facilitate a community of practice for aligning marine biological data to Darwin Core for sharing to Ocean Biodiversity Information System (OBIS).
+
 
 ### Conservation and Restoration
 - [CART](https://github.com/jneme910/CART) - The Conservation Assessment Ranking Tool is designed for use in the conservation planning process to assess resource concerns, planned practices and site vulnerability.
@@ -1100,6 +1103,7 @@ energy system designs and analysis of interactions between technologies.
 - [POSEIDON](https://github.com/CarrKnight/POSEIDON) - A fishery agent-based model.
 - [gfwr](https://github.com/GlobalFishingWatch/gfwr) - R package for accessing data from Global Fishing Watch APIs.
 - [r4ss](https://github.com/r4ss/r4ss) - A fisheries stock assessment model written by Rick Methot.
+- [OrcaHello](https://github.com/orcasound/aifororcas-livesystem) - A real-time AI-assisted killer whale notification system.
   
 ### Terrestrial Animals
 - [auk](https://github.com/CornellLabofOrnithology/auk) - eBird Data Extraction and Processing in R.
