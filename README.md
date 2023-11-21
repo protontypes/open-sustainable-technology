@@ -828,8 +828,7 @@ energy system designs and analysis of interactions between technologies.
 - [eCalc](https://github.com/equinor/ecalc) - A software tool for calculation of energy demand and greenhouse gas emissions from oil and gas production and processing.
 - [forest-offsets](https://github.com/carbonplan/forest-offsets) - Includes our libraries and scripts for analyzing California's compliance forest carbon offsets program.
 - [Fossil Shipment Tracker](https://github.com/energyandcleanair/fossil_shipment_tracker) - A data platform that provides decision-makers, journalists and campaigning organizations with information that helps identify fossil fuel shipments from Russia.
-- [UNFCCC emissions data](https://github.com/openclimatedata/unfccc-detailed-data-by-party) - UNFCCC Emissions data from the Detailed Data By Party interface.
-
+- [UNFCCC DI API](https://github.com/pik-primap/unfccc_di_api) - Data access to the total greenhouse gas emissions by country reported to the United Nations Framework Convention on Climate Change (UNFCCC).
 
 ## Industrial Ecology
 
