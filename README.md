@@ -942,7 +942,7 @@ energy system designs and analysis of interactions between technologies.
 - [ReMobidyc](https://github.com/ReMobidyc/ReMobidyc) - A multi-agent simulator for individual-based modeling in population dynamics and ecotoxicology.
 - [TSX](https://github.com/nesp-tsr3-1/tsx) - Provides reliable and robust measures of change in the relative abundance of Australia's threatened and near-threatened species at national, state and regional levels.
 - [vak](https://github.com/vocalpy/vak) - A neural network framework for animal acoustic communication and bioacoustics.
-- [scikit-maad](https://github.com/scikit-maad/scikit-maad) - Estimating animal acoustic diversity in tropical environments using unsupervised multiresolution analysis.
+- [scikit-maad](https://github.com/scikit-maad/scikit-maad) - Enables quantitative analysis of environmental audio, offering tools for processing, segmenting, and computing acoustic features.
 - [SMBD](https://github.com/ioos/bio_data_guide) - Facilitate a community of practice for aligning marine biological data to Darwin Core for sharing to Ocean Biodiversity Information System (OBIS).
 
 
