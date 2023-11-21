@@ -941,6 +941,7 @@ energy system designs and analysis of interactions between technologies.
 - [elapid](https://github.com/earth-chris/elapid) - Species distribution modeling tools, including a python implementation of Maxent.
 - [ReMobidyc](https://github.com/ReMobidyc/ReMobidyc) - A multi-agent simulator for individual-based modeling in population dynamics and ecotoxicology.
 - [TSX](https://github.com/nesp-tsr3-1/tsx) - Provides reliable and robust measures of change in the relative abundance of Australia's threatened and near-threatened species at national, state and regional levels.
+- [scikit-maad](https://github.com/scikit-maad/scikit-maad) - Estimating animal acoustic diversity in tropical environments using unsupervised multiresolution analysis.
 - [SMBD](https://github.com/ioos/bio_data_guide) - Facilitate a community of practice for aligning marine biological data to Darwin Core for sharing to Ocean Biodiversity Information System (OBIS).
 
 
