@@ -1101,6 +1101,7 @@ energy system designs and analysis of interactions between technologies.
 - [POSEIDON](https://github.com/CarrKnight/POSEIDON) - A fishery agent-based model.
 - [gfwr](https://github.com/GlobalFishingWatch/gfwr) - R package for accessing data from Global Fishing Watch APIs.
 - [r4ss](https://github.com/r4ss/r4ss) - A fisheries stock assessment model written by Rick Methot.
+- [OrcaHello](https://github.com/orcasound/aifororcas-livesystem) - A real-time AI-assisted killer whale notification system.
   
 ### Terrestrial Animals
 - [auk](https://github.com/CornellLabofOrnithology/auk) - eBird Data Extraction and Processing in R.
