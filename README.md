@@ -1315,6 +1315,7 @@ energy system designs and analysis of interactions between technologies.
 - [Freva](https://gitlab.dkrz.de/freva/evaluation_system) - A data search and analysis platform developed by the atmospheric science community for the atmospheric science community.
 - [SpeedyWeather.jl](https://github.com/SpeedyWeather/SpeedyWeather.jl) - A global spectral atmospheric model with simple physics which is developed as a research playground with an everything-flexible attitude as long as it is speedy.
 - [A-Profiles](https://github.com/AugustinMortier/a-profiles) - A python library dedicated to the analysis of atmospheric profilers measurements.
+- [LROSE](https://github.com/ncar/lrose-core) - The Lidar Radar Open Software Environment for Atmospheric Science.
 
 ### Atmospheric Dispersion and Transport
 - [MPTRAC](https://github.com/slcs-jsc/mptrac) - A Lagrangian particle dispersion model for the analysis of atmospheric transport processes in the free troposphere and stratosphere.
