@@ -2024,6 +2024,7 @@ energy system designs and analysis of interactions between technologies.
 - [Satip](https://github.com/openclimatefix/Satip) - A library for satellite image processing providing all of the functionality necessary for retrieving, and storing EUMETSAT data.
 - [openEO](https://github.com/Open-EO/openeo-python-client) - Provides intuitive programming libraries to process a wide variety of earth observation datasets.
 - [xarray-sentinel](https://github.com/bopen/xarray-sentinel) - Easily access and explore the SAR data products of the Copernicus Sentinel-1 satellite mission in Python.
+- [noaa-apt](https://github.com/martinber/noaa-apt) - Receive and decode images from weather satellites via radio signals. 
 
 ### Taxonomy and Ontology
 - [Digital Twins Definition Language ontology for Energy Grid](https://github.com/Azure/opendigitaltwins-energygrid) - A global standard for energy grid assets management, power system operations modeling and physical energy commodity market.
