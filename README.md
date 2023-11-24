@@ -29,11 +29,12 @@ The metadata of the listed projects and organizations are used in several studie
   - [Energy Distribution and Grids](#energy-distribution-and-grids)
   - [Energy Monitoring and Management](#energy-monitoring-and-management)
   - [Energy System Data Access](#energy-system-data-access)
-- [Consumption of Energy and Resources](#consumption-of-energy-and-resources)
+- [Consumption](#consumption)
   - [Buildings and Heating](#buildings-and-heating)
   - [Mobility and Transportation](#mobility-and-transportation)
   - [Production and Industry](#production-and-industry)
   - [Computation and Communication](#computation-and-communication)
+  - [Agriculture and Nutrition](#agriculture-and-nutrition)
 - [Emissions](#emissions)
   - [Carbon Intensity and Accounting](#carbon-intensity-and-accounting)
   - [Carbon Offsets and Trading](#carbon-offsets-and-trading)
@@ -68,7 +69,7 @@ The metadata of the listed projects and organizations are used in several studie
   - [Atmospheric Chemistry and Aerosol](#atmospheric-chemistry-and-aerosol)
   - [Meteorological Observation and Forecast](#meteorological-observation-and-forecast)
   - [Radiative Transfer](#radiative-transfer)
-- [Climate and Earth Science](#climate-and-earth-science)
+- [Climate Change](#climate-change)
   - [Earth and Climate Modeling](#earth-and-climate-modeling)
   - [Climate Data Standards](#climate-data-standards)
   - [Climate Data Visualization and Access](#climate-data-visualization-and-access)
@@ -80,7 +81,6 @@ The metadata of the listed projects and organizations are used in several studie
   - [Air Quality](#air-quality)
   - [Water Supply](#water-supply)
   - [Soil and Land](#soil-and-land)
-  - [Agriculture and Nutrition](#agriculture-and-nutrition)
 - [Sustainable Development](#sustainable-development)
   - [Sustainable Development Goals](#sustainable-development-goals)
   - [Sustainable Investment](#sustainable-investment)
@@ -516,7 +516,7 @@ energy system designs and analysis of interactions between technologies.
 - [sup3r](https://github.com/NREL/sup3r) - The Super Resolution for Renewable Resource Data software uses generative adversarial networks to create synthetic high-resolution wind and solar spatiotemporal data from coarse low-resolution inputs.
 - [EnergyData.Info](https://energydata.info/) - An open data platform from the World Bank Group providing access to datasets and data analytics that are relevant to the energy sector.
 
-## Consumption of Energy and Resources 
+## Consumption
 
 ### Buildings and Heating 
 
@@ -726,6 +726,68 @@ energy system designs and analysis of interactions between technologies.
 - [Ecoindex_cli](https://github.com/cnumr/ecoindex_cli) - This tool provides an easy way to analyze websites with Ecoindex from your local computer using multi-threading.
 - [Zeus](https://github.com/ml-energy/zeus) - A Framework for Deep Learning Energy Measurement and Optimization.
 - [perun](https://github.com/Helmholtz-AI-Energy/perun) - Calculates the energy consumption of Python scripts by sampling usage statistics from your hardware components.
+
+### Agriculture and Nutrition
+
+- [Farmbot](https://github.com/FarmBot/Farmbot-Web-App) - Humanity's open-source CNC farming machine.
+- [MudPi](https://github.com/mudpi/mudpi-core) - A scalable smart garden system that allows you to maintain controls, monitor conditions, and sustainably manage resources of your garden.
+- [OBIA4RTM](https://github.com/lukasValentin/OBIA4RTM) - Aims for plant parameter retrieval - relevant in smart farming applications - by using radiative transfer models and object-based image analysis that directly addresses actual user needs and policy demands in a highly efficient, flexible and scalable way.
+- [Crop-Classification](https://github.com/bhavesh907/Crop-Classification) - Provides codes for crop classification using multi temporal satellite images.
+- [DSSAT Cropping System Model](https://github.com/DSSAT/dssat-csm-os) - Has been used for many applications ranging from on-farm and precision management to regional assessments of the impact of climate variability and climate change.
+- [MAgPIE](https://github.com/magpiemodel/magpie) - Model of Agricultural Production and its Impact on the Environment.
+- [OBI](https://github.com/AgroCares/Open-Bodem-Index-Calculator) - The Open-Bodem-Index-Calculator is a tool that evaluates the soil of agricultural fields based on four main criteria: chemical, physical, biological and management.
+- [Cycles](https://github.com/PSUmodeling/Cycles) - A daily time-step agroecosystem model that simulates the biophysical processes and management practices occurring within cropping systems and other land uses.
+- [ApsimX](https://github.com/APSIMInitiative/ApsimX) - An agricultural modeling framework used extensively worldwide.
+- [Resilience Atlas](https://github.com/ConservationInternational/resilienceatlas) - An interactive analytical tool for building understanding of the extent and severity of some of the key stressors and shocks that are affecting rural livelihoods, production systems, and ecosystems in the Sahel, Horn of Africa and South and Southeast Asia.
+- [rice-awd-shb](https://github.com/adamhsparks/rice-awd-shb) - Research compendium for a report on the effects of using alternate wetting and drying irrigation techniques and nitrogen rates on sheath blight disease in rice paddies.
+- [monica](https://github.com/zalf-rpm/monica) - A dynamic, process-based simulation model which describes transport and bio-chemical turn-over of carbon, nitrogen and water in agro-ecosystems.
+- [OpenFarm](https://github.com/openfarmcc/OpenFarm) - A free and open database and web application for farming and gardening knowledge.
+- [Agridat](https://github.com/kwstat/agridat) - An extensive collection of datasets from agricultural experiments.
+- [Karrot](https://github.com/karrot-dev/karrot-frontend) - Web application for organization of foodsaving groups worldwide.
+- [openfoodnetwork](https://github.com/openfoodfoundation/openfoodnetwork) - An online marketplace for local food. It enables a network of independent online food stores that connects farmers and food hubs with individuals and local businesses.
+- [powerplant](https://github.com/Ecohackerfarm/powerplant) - Provides intelligent planting suggestions which maximize positive crop interaction for the mutual benefit of all your crops.
+- [Trefle](https://github.com/treflehq/trefle-api) - A botanical JSON REST API for plants species, allowing you to search and query over all the registered species, and build the next gardening apps and farming robots.
+- [HappyPlants](https://github.com/morkro/happy-plants) - Creating your own plant database in a visual way.
+- [dormancyR](https://github.com/EduardoFernandezC/dormancyR) - Provide alternatives to common chill models used in horticulture to compute chill metrics in deciduous fruit tree orchards as well as functions to handle weather data.
+- [seedr](https://github.com/efernandezpascual/seedr) - An R package that provides functions to fit hydro and thermal time germination models.
+- [plantFEM](https://github.com/kazulagi/plantFEM) - A plant simulator based on Finite Element Method, which targets crops in fields. This software provides multi-physical simulations of agriculture for canopies, plants, and organs for farmers, breeders, and agronomists.
+- [openfoodfacts-server](https://github.com/openfoodfacts/openfoodfacts-server) - Open Food Facts is a collaborative, free and open database of food products from around the world.
+- [ramlegacy](https://www.ramlegacy.org/) - A compilation of stock assessment results for commercially exploited marine populations from around the world.
+- [FABIO](https://github.com/fineprint-global/fabio) - Forestry and Agriculture Biomass Input-Output Tables.
+- [Food and Agriculture Organization Corporate Statistical Database](http://www.fao.org/faostat/en/#data) - Disseminates statistical data collected and maintained by the Food and Agriculture Organization.
+- [Growstuff](https://github.com/Growstuff/growstuff) - Open source and open data platform that can predict when your plantings will be ready to harvest.
+- [FarmOS](https://farmos.org/) - Open source web-based application for farm management, planning, and record keeping.
+- [Is-Vegan](https://github.com/hmontazeri/is-vegan) - Helps you to find out which food ingredients are vegan / non-vegan.
+- [AgroMo](https://github.com/hollorol/AgroMo) - An Integrated Assessment and Modelling software that integrates a crop, biogeochemical and a agro-economical model.
+- [CropHarvest](https://github.com/nasaharvest/cropharvest) - Collects data from a variety of agricultural land use datasets and remote sensing products.
+- [BreizhCrops](https://github.com/dl4sits/BreizhCrops) - A Satellite Time Series Dataset for Crop Type Identification.
+- [VeganCheck.me](https://github.com/JokeNetwork/vegancheck.me) - A multilingual progressive web app, which scans the EAN or UPC codes of over 3.000.000 food- or non-food-products and simply tells you if it they're vegan or not. 
+- [Sentinels for Common Agriculture Policy](https://github.com/Sen2Agri/Sen2Agri-System) - Aims at providing to the European and national stakeholders validated algorithms, products, workflows and best practices for agriculture monitoring relevant for the management. 
+- [Automatic field delineation](https://github.com/sentinel-hub/field-delineation) - Generate automatic contours for agricultural parcels, given Sentinel-2 images.
+- [EuroCrops](https://github.com/maja601/EuroCrops) - A dataset collection combining all publicly available self-declared crop reporting datasets from countries of the European Union.
+- [FarmVibes.AI](https://github.com/microsoft/farmvibes-ai) - Can develop rich geospatial insights for agriculture and sustainability.
+- [agrolib](https://github.com/ARPA-SIMC/agrolib) - A set of libraries for agrometeorological modeling and climate analysis.
+- [FIELDimageR](https://github.com/OpenDroneMap/FIELDimageR) - A Tool to Analyze Images From Agricultural Field Trials and Lab in R.
+- [AquaCrop](https://github.com/aquacropos/aquacrop) - A free open-source tool for assessing climate and water impacts on agriculture.
+- [PCSE](https://github.com/ajwdewit/pcse) - A framework developed for implementing crop simulation models developed in Wageningen.
+- [climatrends](https://github.com/AgrDataSci/climatrends) - Provides methods to compute precipitation and temperature indices for climate models in ecology.
+- [Agroecology-Map](https://github.com/marcelo-soares-souza/Agroecology-Map) -  A technological platform that allows the mapping and exchange of Agroecological and Agroforestry experiences.
+- [osiris](https://github.com/JGCRI/osiris) - A R package to process climate impacts on agricultural yields for the Global Change Analysis Model.
+- [PoPS](https://github.com/ncsu-landscape-dynamics/rpops) - This is the R package for simulating spread of pests and pathogens.
+- [DiCRA](https://github.com/undpindia/dicra) - Provides open access to key geospatial datasets pertinent to climate resilient agriculture.
+- [OpenOlitor](https://github.com/OpenOlitor/openolitor-server) - Administration platform for Community Supported Agriculture and for direct selling farming projects based on a subscription model.
+- [Grimgrains](https://github.com/hundredrabbits/Grimgrains) - A Plant-based cooking website.
+- [extractOz](https://github.com/DPIRD-FSI/extractOz) - Extract the Global Runoff Data Centre agroecological zone, major soil order and weather data from your GPS sampling points.
+- [PyAEZ](https://github.com/gicait/PyAEZ) - A python package consisted of many algorithms related to Agro-ecological zoning (AEZ) framework.
+- [CRITERIA3D](https://github.com/ARPA-SIMC/CRITERIA3D) - Includes a numerical solution for three-dimensional water and heat flow in the soil, coupled surface and subsurface flow, meteorological data interpolation, radiation budget, crop development and crop water uptake.
+- [CRITERIA1D](https://github.com/ARPA-SIMC/CRITERIA1D) - Agro-hydrological model that simulates one-dimensional water flow in variable saturation soils, crop development, root water extraction and irrigation water needs.
+- [S4A](https://github.com/Orion-AI-Lab/S4A) - A Sentinel-2 multi-year, multi-country benchmark dataset for crop classification and segmentation with deep learning.
+- [LiteFarm](https://github.com/LiteFarmOrg/LiteFarm) - A platform joining farmers and scientists together for participatory assessment of social, environmental and economic outputs of farming systems.
+- [biotrade](https://gitlab.com/bioeconomy/forobs/biotrade/) - Analyses international trade of bio-based products with a focus on the agriculture and forestry sectors.
+- [PyETo](https://github.com/woodcrafty/PyETo) - A Python library for calculating reference crop evapotranspiration, sometimes referred to as potential evapotranspiration.
+- [DynACof](https://github.com/VEZY/DynACof) - Process-based model computes plot-scale Net Primary Productivity, carbon allocation, growth, yield, energy, and water balance of coffee plantations according to management.
+- [WorldCereal](https://github.com/WorldCereal/worldcereal-classification) - An efficient, agile and robust EO based system for timely global crop monitoring at field scale. 
+- [AgML](https://github.com/Project-AgML/AgML) - Provides access to public agricultural datasets for common agricultural deep learning tasks, with standard benchmarks and pretrained models, as well the ability to generate synthetic data and annotations.
 
 ## Emissions
 
@@ -1397,7 +1459,7 @@ energy system designs and analysis of interactions between technologies.
 - [ECRAD](https://github.com/ecmwf/ecrad) - A radiation scheme suitable for use in atmospheric weather and climate models.
 - [RT1](https://github.com/TUW-GEO/rt1) - A first order radiative transfer model for soil- and vegetation related parameter retrievals from radar-data.
 
-## Climate and Earth Science
+## Climate Change
 
 ### Earth and Climate Modeling 
 
@@ -1820,69 +1882,6 @@ energy system designs and analysis of interactions between technologies.
 - [downscalr](https://github.com/tkrisztin/downscalr) - An R package for downscaling of land-use and land-use change projections.
 - [droughtR](https://github.com/mammask/droughtR) - An R package for non-stationary meteorological drought monitoring.
 - [meteoland](https://github.com/emf-creaf/meteoland) - Functions to estimate weather variables at any position of a landscape.
-
-
-### Agriculture and Nutrition
-
-- [Farmbot](https://github.com/FarmBot/Farmbot-Web-App) - Humanity's open-source CNC farming machine.
-- [MudPi](https://github.com/mudpi/mudpi-core) - A scalable smart garden system that allows you to maintain controls, monitor conditions, and sustainably manage resources of your garden.
-- [OBIA4RTM](https://github.com/lukasValentin/OBIA4RTM) - Aims for plant parameter retrieval - relevant in smart farming applications - by using radiative transfer models and object-based image analysis that directly addresses actual user needs and policy demands in a highly efficient, flexible and scalable way.
-- [Crop-Classification](https://github.com/bhavesh907/Crop-Classification) - Provides codes for crop classification using multi temporal satellite images.
-- [DSSAT Cropping System Model](https://github.com/DSSAT/dssat-csm-os) - Has been used for many applications ranging from on-farm and precision management to regional assessments of the impact of climate variability and climate change.
-- [MAgPIE](https://github.com/magpiemodel/magpie) - Model of Agricultural Production and its Impact on the Environment.
-- [OBI](https://github.com/AgroCares/Open-Bodem-Index-Calculator) - The Open-Bodem-Index-Calculator is a tool that evaluates the soil of agricultural fields based on four main criteria: chemical, physical, biological and management.
-- [Cycles](https://github.com/PSUmodeling/Cycles) - A daily time-step agroecosystem model that simulates the biophysical processes and management practices occurring within cropping systems and other land uses.
-- [ApsimX](https://github.com/APSIMInitiative/ApsimX) - An agricultural modeling framework used extensively worldwide.
-- [Resilience Atlas](https://github.com/ConservationInternational/resilienceatlas) - An interactive analytical tool for building understanding of the extent and severity of some of the key stressors and shocks that are affecting rural livelihoods, production systems, and ecosystems in the Sahel, Horn of Africa and South and Southeast Asia.
-- [rice-awd-shb](https://github.com/adamhsparks/rice-awd-shb) - Research compendium for a report on the effects of using alternate wetting and drying irrigation techniques and nitrogen rates on sheath blight disease in rice paddies.
-- [monica](https://github.com/zalf-rpm/monica) - A dynamic, process-based simulation model which describes transport and bio-chemical turn-over of carbon, nitrogen and water in agro-ecosystems.
-- [OpenFarm](https://github.com/openfarmcc/OpenFarm) - A free and open database and web application for farming and gardening knowledge.
-- [Agridat](https://github.com/kwstat/agridat) - An extensive collection of datasets from agricultural experiments.
-- [Karrot](https://github.com/karrot-dev/karrot-frontend) - Web application for organization of foodsaving groups worldwide.
-- [openfoodnetwork](https://github.com/openfoodfoundation/openfoodnetwork) - An online marketplace for local food. It enables a network of independent online food stores that connects farmers and food hubs with individuals and local businesses.
-- [powerplant](https://github.com/Ecohackerfarm/powerplant) - Provides intelligent planting suggestions which maximize positive crop interaction for the mutual benefit of all your crops.
-- [Trefle](https://github.com/treflehq/trefle-api) - A botanical JSON REST API for plants species, allowing you to search and query over all the registered species, and build the next gardening apps and farming robots.
-- [HappyPlants](https://github.com/morkro/happy-plants) - Creating your own plant database in a visual way.
-- [dormancyR](https://github.com/EduardoFernandezC/dormancyR) - Provide alternatives to common chill models used in horticulture to compute chill metrics in deciduous fruit tree orchards as well as functions to handle weather data.
-- [seedr](https://github.com/efernandezpascual/seedr) - An R package that provides functions to fit hydro and thermal time germination models.
-- [plantFEM](https://github.com/kazulagi/plantFEM) - A plant simulator based on Finite Element Method, which targets crops in fields. This software provides multi-physical simulations of agriculture for canopies, plants, and organs for farmers, breeders, and agronomists.
-- [openfoodfacts-server](https://github.com/openfoodfacts/openfoodfacts-server) - Open Food Facts is a collaborative, free and open database of food products from around the world.
-- [ramlegacy](https://www.ramlegacy.org/) - A compilation of stock assessment results for commercially exploited marine populations from around the world.
-- [FABIO](https://github.com/fineprint-global/fabio) - Forestry and Agriculture Biomass Input-Output Tables.
-- [Food and Agriculture Organization Corporate Statistical Database](http://www.fao.org/faostat/en/#data) - Disseminates statistical data collected and maintained by the Food and Agriculture Organization.
-- [Growstuff](https://github.com/Growstuff/growstuff) - Open source and open data platform that can predict when your plantings will be ready to harvest.
-- [FarmOS](https://farmos.org/) - Open source web-based application for farm management, planning, and record keeping.
-- [Is-Vegan](https://github.com/hmontazeri/is-vegan) - Helps you to find out which food ingredients are vegan / non-vegan.
-- [AgroMo](https://github.com/hollorol/AgroMo) - An Integrated Assessment and Modelling software that integrates a crop, biogeochemical and a agro-economical model.
-- [CropHarvest](https://github.com/nasaharvest/cropharvest) - Collects data from a variety of agricultural land use datasets and remote sensing products.
-- [BreizhCrops](https://github.com/dl4sits/BreizhCrops) - A Satellite Time Series Dataset for Crop Type Identification.
-- [VeganCheck.me](https://github.com/JokeNetwork/vegancheck.me) - A multilingual progressive web app, which scans the EAN or UPC codes of over 3.000.000 food- or non-food-products and simply tells you if it they're vegan or not. 
-- [Sentinels for Common Agriculture Policy](https://github.com/Sen2Agri/Sen2Agri-System) - Aims at providing to the European and national stakeholders validated algorithms, products, workflows and best practices for agriculture monitoring relevant for the management. 
-- [Automatic field delineation](https://github.com/sentinel-hub/field-delineation) - Generate automatic contours for agricultural parcels, given Sentinel-2 images.
-- [EuroCrops](https://github.com/maja601/EuroCrops) - A dataset collection combining all publicly available self-declared crop reporting datasets from countries of the European Union.
-- [FarmVibes.AI](https://github.com/microsoft/farmvibes-ai) - Can develop rich geospatial insights for agriculture and sustainability.
-- [agrolib](https://github.com/ARPA-SIMC/agrolib) - A set of libraries for agrometeorological modeling and climate analysis.
-- [FIELDimageR](https://github.com/OpenDroneMap/FIELDimageR) - A Tool to Analyze Images From Agricultural Field Trials and Lab in R.
-- [AquaCrop](https://github.com/aquacropos/aquacrop) - A free open-source tool for assessing climate and water impacts on agriculture.
-- [PCSE](https://github.com/ajwdewit/pcse) - A framework developed for implementing crop simulation models developed in Wageningen.
-- [climatrends](https://github.com/AgrDataSci/climatrends) - Provides methods to compute precipitation and temperature indices for climate models in ecology.
-- [Agroecology-Map](https://github.com/marcelo-soares-souza/Agroecology-Map) -  A technological platform that allows the mapping and exchange of Agroecological and Agroforestry experiences.
-- [osiris](https://github.com/JGCRI/osiris) - A R package to process climate impacts on agricultural yields for the Global Change Analysis Model.
-- [PoPS](https://github.com/ncsu-landscape-dynamics/rpops) - This is the R package for simulating spread of pests and pathogens.
-- [DiCRA](https://github.com/undpindia/dicra) - Provides open access to key geospatial datasets pertinent to climate resilient agriculture.
-- [OpenOlitor](https://github.com/OpenOlitor/openolitor-server) - Administration platform for Community Supported Agriculture and for direct selling farming projects based on a subscription model.
-- [Grimgrains](https://github.com/hundredrabbits/Grimgrains) - A Plant-based cooking website.
-- [extractOz](https://github.com/DPIRD-FSI/extractOz) - Extract the Global Runoff Data Centre agroecological zone, major soil order and weather data from your GPS sampling points.
-- [PyAEZ](https://github.com/gicait/PyAEZ) - A python package consisted of many algorithms related to Agro-ecological zoning (AEZ) framework.
-- [CRITERIA3D](https://github.com/ARPA-SIMC/CRITERIA3D) - Includes a numerical solution for three-dimensional water and heat flow in the soil, coupled surface and subsurface flow, meteorological data interpolation, radiation budget, crop development and crop water uptake.
-- [CRITERIA1D](https://github.com/ARPA-SIMC/CRITERIA1D) - Agro-hydrological model that simulates one-dimensional water flow in variable saturation soils, crop development, root water extraction and irrigation water needs.
-- [S4A](https://github.com/Orion-AI-Lab/S4A) - A Sentinel-2 multi-year, multi-country benchmark dataset for crop classification and segmentation with deep learning.
-- [LiteFarm](https://github.com/LiteFarmOrg/LiteFarm) - A platform joining farmers and scientists together for participatory assessment of social, environmental and economic outputs of farming systems.
-- [biotrade](https://gitlab.com/bioeconomy/forobs/biotrade/) - Analyses international trade of bio-based products with a focus on the agriculture and forestry sectors.
-- [PyETo](https://github.com/woodcrafty/PyETo) - A Python library for calculating reference crop evapotranspiration, sometimes referred to as potential evapotranspiration.
-- [DynACof](https://github.com/VEZY/DynACof) - Process-based model computes plot-scale Net Primary Productivity, carbon allocation, growth, yield, energy, and water balance of coffee plantations according to management.
-- [WorldCereal](https://github.com/WorldCereal/worldcereal-classification) - An efficient, agile and robust EO based system for timely global crop monitoring at field scale. 
-- [AgML](https://github.com/Project-AgML/AgML) - Provides access to public agricultural datasets for common agricultural deep learning tasks, with standard benchmarks and pretrained models, as well the ability to generate synthetic data and annotations.
 
 
 ## Sustainable Development
