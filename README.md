@@ -1438,6 +1438,7 @@ energy system designs and analysis of interactions between technologies.
 - [GEMPAK](https://github.com/Unidata/gempak) - Analysis and product generation for meteorological data.
 - [PostWRF](https://github.com/anikfal/PostWRF) - Visualization and postprocessing of the WRF and ERA5 data.
 - [GraphCast](https://github.com/google-deepmind/graphcast) - Learning skillful medium-range global weather forecasting.
+- [Graph Weather](https://github.com/openclimatefix/graph_weather) - Data-driven approach for forecasting global weather using graph neural network.
 
 
 ### Radiative Transfer
