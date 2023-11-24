@@ -24,7 +24,6 @@ The metadata of the listed projects and organizations are used in several studie
 - [Energy Storage](#energy-storage)
   - [Battery](#battery)
   - [Hydrogen](#hydrogen)
-  - [Thermal Energy Storage](#thermal-energy-storage)
 - [Energy Systems](#energy-systems)
   - [Energy Modeling and Optimization](#energy-modeling-and-optimization)
   - [Energy Distribution and Grids](#energy-distribution-and-grids)
@@ -290,9 +289,6 @@ The metadata of the listed projects and organizations are used in several studie
 - [SciGRID_gas](https://www.gas.scigrid.de/) - Methods to create an automated network model of the European gas transportation network.
 - [Vehicle with Fuel Cell Powertrain](https://github.com/mathworks/Fuel-Cell-Vehicle-Model-Simscape) - Fuel cell electric vehicle with battery model and cooling system.
 - [VirtualFCS](https://github.com/Virtual-FCS/VirtualFCS) - A Modelica library for hybrid hydrogen fuel cell and battery power systems.
-
-### Thermal Energy Storage 
-- [OpenTerrace](https://github.com/OpenTerrace/openterrace-python) - A pure Python framework for thermal energy storage packed bed simulations.
 
 ## Energy Systems
 
