@@ -2023,6 +2023,7 @@ energy system designs and analysis of interactions between technologies.
 - [openEO](https://github.com/Open-EO/openeo-python-client) - Provides intuitive programming libraries to process a wide variety of earth observation datasets.
 - [xarray-sentinel](https://github.com/bopen/xarray-sentinel) - Easily access and explore the SAR data products of the Copernicus Sentinel-1 satellite mission in Python.
 - [noaa-apt](https://github.com/martinber/noaa-apt) - Receive and decode images from weather satellites via radio signals. 
+- [harp](https://github.com/stcorp/harp) - Data harmonization toolset for scientific earth observation data.
 
 ### Taxonomy and Ontology
 - [Digital Twins Definition Language ontology for Energy Grid](https://github.com/Azure/opendigitaltwins-energygrid) - A global standard for energy grid assets management, power system operations modeling and physical energy commodity market.
