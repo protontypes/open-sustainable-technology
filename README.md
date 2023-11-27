@@ -1400,6 +1400,7 @@ energy system designs and analysis of interactions between technologies.
 - [CAMP](https://github.com/open-atmos/camp) - Allows a given chemical mechanism to be solved in atmospheric models with different aerosol representations.
 - [pyaerocom](https://github.com/metno/pyaerocom) - An open international initiative of scientists interested in the advancement of the understanding of the global aerosol and its impact on climate.
 - [py-smps](https://github.com/quant-aq/py-smps) - Python package for analyzing and visualizing size-resolved aerosol data from a variety of aerosol sizing instruments. 
+- [MONET](https://github.com/noaa-oar-arl/MONET) - An open-source project and Python package that aims to create a common platform for atmospheric composition data analysis for weather and air quality models.
 
 ### Meteorological Observation and Forecast
 - [METplus](https://github.com/dtcenter/METplus) - A verification framework that spans a wide range of temporal (warn-on-forecast to climate) and spatial (storm to global) scales.
@@ -1428,7 +1429,6 @@ energy system designs and analysis of interactions between technologies.
 - [MeteoHist](https://github.com/yotkadata/meteo_hist) - A Streamlit app to create interactive temperature and precipitation graphs for places around the world.
 - [ecPoint-Calibrate](https://github.com/ecmwf/ecpoint-calibrate) - A software that uses conditional verification tools to compare numerical weather prediction model outputs against point observations and, in this way, anticipate sub-grid variability and identify biases at grid scale.
 - [imdlib](https://github.com/iamsaswata/imdlib) - Download and handle binary grided data from Indian Meterological department.
-- [goes2go](https://github.com/blaylockbk/goes2go) - Download and process GOES-16 and GOES-17 data from NOAA's archive on AWS using Python.
 - [MetNet](https://github.com/openclimatefix/metnet) - A neural network that forecasts precipitation up to 8 hours into the future at the high spatial resolution of 1 km² and at the temporal resolution of 2 minutes with a latency in the order of second.
 - [jmastats](https://github.com/uribo/jmastats) - Download Weather Data from Japan Meteorological Agency Website.
 - [pyIEM](https://github.com/akrherz/pyIEM) - A collection of python support things that make my weather processing work, work.
@@ -2012,6 +2012,7 @@ energy system designs and analysis of interactions between technologies.
 
 ### Environmental Satellites
 - [satpy](https://github.com/pytroll/satpy) - A python library for reading and manipulating meteorological remote sensing data and writing it to various image and data file formats.
+- [goes2go](https://github.com/blaylockbk/goes2go) - Download and process GOES-16 and GOES-17 data from NOAA's archive on AWS using Python.
 - [landsatxplore](https://github.com/yannforget/landsatxplore) - Provides an interface to the EarthExplorer portal to search and download Landsat Collections scenes through a command-line interface or a Python API.
 - [sentinelhub-py](https://github.com/sentinel-hub/sentinelhub-py) - Download and process satellite imagery in Python using Sentinel Hub services.
 - [sentinelsat](https://github.com/sentinelsat/sentinelsat) - Makes searching, downloading and retrieving the metadata of Sentinel satellite images from the Copernicus Open Access Hub easy.
@@ -2024,6 +2025,7 @@ energy system designs and analysis of interactions between technologies.
 - [xarray-sentinel](https://github.com/bopen/xarray-sentinel) - Easily access and explore the SAR data products of the Copernicus Sentinel-1 satellite mission in Python.
 - [noaa-apt](https://github.com/martinber/noaa-apt) - Receive and decode images from weather satellites via radio signals. 
 - [harp](https://github.com/stcorp/harp) - Data harmonization toolset for scientific earth observation data.
+- [ccplot](https://github.com/peterkuma/ccplot) - Command-line application for visualizing data from CloudSat and CALIPSO satellites.
 
 ### Taxonomy and Ontology
 - [Digital Twins Definition Language ontology for Energy Grid](https://github.com/Azure/opendigitaltwins-energygrid) - A global standard for energy grid assets management, power system operations modeling and physical energy commodity market.
