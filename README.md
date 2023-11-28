@@ -157,6 +157,7 @@ The metadata of the listed projects and organizations are used in several studie
 - [Solar Stations](https://github.com/AssessingSolar/solarstations) - A catalog of high-quality solar radiation monitoring stations.
 - [OTSun](https://github.com/bielcardona/OTSun) - A python package that uses the Monte Carlo Forward Ray Tracing for the optical analysis of Solar Thermal Collectors and Solar Cells.
 - [pvOps](https://github.com/sandialabs/pvOps) - Contains a series of functions to facilitate fusion of text-based data with time series production data collected at photovoltaic sites.
+- [CSP.guru](https://github.com/repolicy/csp-guru) - An open-source database of concentrating solar power plants of the world for energy modellers and analysts.
 
 ### Wind Energy
 
