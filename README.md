@@ -589,6 +589,7 @@ energy system designs and analysis of interactions between technologies.
 - [ebcpy](https://github.com/RWTH-EBC/ebcpy) - Provides generic functions and classes commonly used for the analysis and optimization of energy systems, buildings and indoor climate.
 - [nmecr](https://github.com/kW-Labs/nmecr) - Builds upon the energy efficiency community's past efforts to model complex and nuanced building energy use profiles.
 - [SAM](https://github.com/HoareLea/SAM) - An open-source software designed to help engineers create analytical models of energy-efficient buildings.
+- [Meirim](https://github.com/meirim-org/meirim) - A open-source smart city application that facilitates transparency in urban planning.
 
 ### Mobility and Transportation
 
