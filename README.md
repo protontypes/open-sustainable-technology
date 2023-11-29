@@ -2020,6 +2020,7 @@ energy system designs and analysis of interactions between technologies.
 - [DataONE](https://github.com/DataONEorg/d1_python) - A community driven project providing access to data across multiple member repositories, supporting enhanced search and discovery of Earth and environmental data.
 - [rdataone](https://github.com/DataONEorg/rdataone) - R package for reading and writing data at DataONE data repositories.
 - [eeExtra](https://github.com/r-earthengine/ee_extra) - A ninja python package that unifies the Google Earth Engine ecosystem.
+- [earthaccess](https://github.com/nsidc/earthaccess) - Search, download or stream NASA Earth science data with just a few lines of code.
 
 ### Environmental Satellites
 - [satpy](https://github.com/pytroll/satpy) - A python library for reading and manipulating meteorological remote sensing data and writing it to various image and data file formats.
