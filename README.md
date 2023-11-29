@@ -661,6 +661,7 @@ energy system designs and analysis of interactions between technologies.
 - [enviroCar](https://github.com/enviroCar/enviroCar-app) - An Android App for collecting car sensor data for the enviroCar platform.
 - [EVerest](https://github.com/EVerest/everest) - An open source software stack for EV charging infrastructure from firmware to cloud: OCPP, ISO 15118, SunSpec, Modbus, energy management and load balancing and an entire flexible middle-ware framework based on MQTT. Part of the Linux Foundation Energy ecosystem.
 - [Streetmix](https://github.com/streetmix/streetmix) - Makes it easy for people to design public spaces together.
+- [3Dstreet](https://github.com/3DStreet/3dstreet) - Creates 3D visualizations of your 2D Streetmix.net streets.
 - [Transitland](https://github.com/transitland/transitland-atlas) -  An open data platform that collects GTFS, GTFS Realtime, and other open data feeds from transit providers around the world.
 - [cyclestreets](https://github.com/cyclestreets/cyclestreets-r) - The goal of cyclestreets is to provide a simple R interface to the CycleStreets routing service.
 - [Transportation Fuels Reporting System](https://github.com/bcgov/tfrs) - An online application for fuel suppliers to manage their compliance obligations under the Greenhouse Gas Reduction.
