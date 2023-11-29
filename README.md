@@ -1406,6 +1406,7 @@ energy system designs and analysis of interactions between technologies.
 - [pyaerocom](https://github.com/metno/pyaerocom) - An open international initiative of scientists interested in the advancement of the understanding of the global aerosol and its impact on climate.
 - [py-smps](https://github.com/quant-aq/py-smps) - Python package for analyzing and visualizing size-resolved aerosol data from a variety of aerosol sizing instruments. 
 - [MONET](https://github.com/noaa-oar-arl/MONET) - An open-source project and Python package that aims to create a common platform for atmospheric composition data analysis for weather and air quality models.
+- [APCEMM](https://github.com/MIT-LAE/APCEMM) - Aims to assess the chemical and microphysical perturbations introduced by a conventional aircraft, equipped with gas turbine engines.
 
 ### Meteorological Observation and Forecast
 - [METplus](https://github.com/dtcenter/METplus) - A verification framework that spans a wide range of temporal (warn-on-forecast to climate) and spatial (storm to global) scales.
