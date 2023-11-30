@@ -1299,6 +1299,7 @@ energy system designs and analysis of interactions between technologies.
 - [pyroms](https://github.com/ESMG/pyroms) - A collection of tools to process input and output files from the Regional Ocean Modeling System.
 - [wrfhydropy](https://github.com/NCAR/wrf_hydro_py) - Provides an end-to-end python interface to support reproducible research and construction of workflows involving the WRF-Hydro model.
 - [HYCOM](https://github.com/HYCOM/HYCOM-src) - A three-dimensional depiction of the ocean state at fine resolution in real time, provision of boundary conditions for coastal and regional models, and provision of oceanic boundary conditions for a global coupled ocean-atmosphere prediction model.
+- [TrackEddy](https://github.com/josuemtzmo/trackeddy) - Used to investigate trends of eddy kinetic energy in the ocean using satellite sea surface height anomaly.
 
 ### Waves and Currents 
 - [leaflet-velocity](https://github.com/danwild/leaflet-velocity) - Create a canvas visualization layer for direction and intensity of arbitrary velocities (e.g. wind, ocean current).
