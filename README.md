@@ -1106,6 +1106,7 @@ energy system designs and analysis of interactions between technologies.
 - [dvm-dos-tem](https://github.com/uaf-arctic-eco-modeling/dvm-dos-tem) - A process based Dynamic Vegetation, Dynamic Organic Soil, Terrestrial Ecosystem Model.
 - [blsp](https://github.com/ncsuSEAL/Bayesian_LSP) - A Bayesian hierarchical model that quantifies long-term annual land surface phenology from sparse time series of vegetation indices.
 - [austraits](https://github.com/traitecoevo/austraits) - R package for accessing the AusTraits Plant database, an open-source, harmonized database of Australian plant trait data.
+- [vegperiod](https://rnuske.github.io/vegperiod/) - Provides methods to calculate climatological or thermal growing seasons solely based on daily mean temperatures and the day of the year.
 
 ### Biomass
 - [fgeo.biomass](https://github.com/forestgeo/fgeo.biomass) - Calculate biomass with allometric equations from the allodb package and ForestGEO data.
