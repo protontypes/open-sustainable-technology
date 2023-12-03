@@ -1688,6 +1688,7 @@ energy system designs and analysis of interactions between technologies.
 - [CWWED](https://github.com/flackdl/cwwed) - Serves as an interactive GIS database for hosting and disseminating post-storm assessment data created by the Named Storm Event Model.
 - [TECA](https://github.com/LBL-EESA/TECA) - The Toolkit for Extreme Climate Analysis, contains a collection of climate anlysis algorithms targetted at extreme event detection and analysis.
 - [Inundation Mapping](https://github.com/NOAA-OWP/inundation-mapping) - Flood inundation mapping and evaluation software configured to work with U.S. National Water Model.
+- [Intensity duration frequency analysis](https://github.com/MarkusPic/intensity_duration_frequency_analysis) - Reads the measurement data of the rainfall and calculates the distribution of the rainfall as a function of the return period and the duration for duration steps up to 12 hours.
 
 
 ### Integrated Assessment and Climate Policy 
