@@ -1327,6 +1327,7 @@ energy system designs and analysis of interactions between technologies.
 - [marineHeatWaves](https://github.com/ecjoliver/marineHeatWaves) - A module for Python which implements the Marine Heatwave definition of Hobday et al. (2016).
 - [heatwaveR](https://github.com/robwschlegel/heatwaveR) - Contains the original functions from the RmarineHeatWaves package that calculate and display marine heatwaves according to the definition of Hobday et al. (2016).
 - [OceanSODA](https://github.com/JamieLab/OceanSODA) - Methods for evaluating and using empirical approaches for studying the surface marine carbonate system.
+- [GSW-Python](https://github.com/TEOS-10/GSW-Python) - This Python implementation of the Thermodynamic Equation of Seawater 2010.
 
 
 ### Coastal and Reefs
