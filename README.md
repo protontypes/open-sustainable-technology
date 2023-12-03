@@ -1452,6 +1452,7 @@ energy system designs and analysis of interactions between technologies.
 - [PostWRF](https://github.com/anikfal/PostWRF) - Visualization and postprocessing of the WRF and ERA5 data.
 - [GraphCast](https://github.com/google-deepmind/graphcast) - Learning skillful medium-range global weather forecasting.
 - [Graph Weather](https://github.com/openclimatefix/graph_weather) - Data-driven approach for forecasting global weather using graph neural network.
+- [brightsky](https://github.com/jdemaeyer/brightsky) - The Deutscher Wetterdienst, as Germany's meteorological service, publishes a myriad of meteorological observations and calculations as part of their Open Data program.
 
 
 ### Radiative Transfer
