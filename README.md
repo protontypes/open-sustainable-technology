@@ -1360,6 +1360,7 @@ energy system designs and analysis of interactions between technologies.
 - [hddtools](https://github.com/ropensci/hddtools) - An open source project designed to facilitate access to a variety of online open data sources relevant for hydrologists and, in general, environmental scientists and practitioners.
 - [hydrobr](https://github.com/hydroversebr/hydrobr) - Help users select, download and clean data from pluvio- and fluviometric stations from the Brazilian National Water Agency.
 - [EMODnetWFS](https://github.com/EMODnet/EMODnetWFS) - Allow interrogation of and access to EMODnet(European Marine Observation and Data Network) geographic vector data in R though the EMODnet Web Feature Services.
+- [STOQS](https://github.com/stoqs/stoqs) - Geospatial database visualization software for oceanographic measurement data.
 
 ## Atmosphere
 ### Atmospheric Composition and Dynamics
