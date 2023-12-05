@@ -591,6 +591,7 @@ energy system designs and analysis of interactions between technologies.
 - [nmecr](https://github.com/kW-Labs/nmecr) - Builds upon the energy efficiency community's past efforts to model complex and nuanced building energy use profiles.
 - [SAM](https://github.com/HoareLea/SAM) - An open-source software designed to help engineers create analytical models of energy-efficient buildings.
 - [Meirim](https://github.com/meirim-org/meirim) - A open-source smart city application that facilitates transparency in urban planning.
+- [Better Thermostat](https://github.com/KartoffelToby/better_thermostat) - This custom component for Home Assistant will add crucial features to your climate-controlling Thermostatic Radiator Valves to save you the work of creating automations to make it smart.
 
 ### Mobility and Transportation
 
