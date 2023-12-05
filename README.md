@@ -480,6 +480,7 @@ energy system designs and analysis of interactions between technologies.
 - [Open Energy View](https://github.com/JPHutchins/open-energy-view) - The goal of this project is to analyze and present resource consumption data to users empowering them to conserve and save money.
 - [SolarNetwork](https://github.com/SolarNetwork/solarnetwork-node) - Flexible platform for the monitoring and control of energy assets, meters, sensors, weather stations, EV chargers, market pricing, load optimization, and more.
 - [PowerCalc](https://github.com/bramstroker/homeassistant-powercalc) - Custom component for Home Assistant to estimate the power consumption (as virtual meters) of lights, fans, smart speakers and other devices, which don't have a built-in power meter.
+- [homeassistant-alphaESS](https://github.com/CharlesGillanders/homeassistant-alphaESS) - Monitor your energy generation, storage, and usage data using the official Open API from Alpha ESS.
 
 ### Energy System Data Access
 
@@ -592,6 +593,7 @@ energy system designs and analysis of interactions between technologies.
 - [nmecr](https://github.com/kW-Labs/nmecr) - Builds upon the energy efficiency community's past efforts to model complex and nuanced building energy use profiles.
 - [SAM](https://github.com/HoareLea/SAM) - An open-source software designed to help engineers create analytical models of energy-efficient buildings.
 - [Meirim](https://github.com/meirim-org/meirim) - A open-source smart city application that facilitates transparency in urban planning.
+- [Better Thermostat](https://github.com/KartoffelToby/better_thermostat) - This custom component for Home Assistant will add crucial features to your climate-controlling Thermostatic Radiator Valves to save you the work of creating automations to make it smart.
 
 ### Mobility and Transportation
 
