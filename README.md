@@ -479,6 +479,7 @@ energy system designs and analysis of interactions between technologies.
 - [EHMASS](https://github.com/davidusb-geek/emhass) - Energy Management for Home Assistant, is a Python module designed to optimize your home energy interfacing with Home Assistant.
 - [Open Energy View](https://github.com/JPHutchins/open-energy-view) - The goal of this project is to analyze and present resource consumption data to users empowering them to conserve and save money.
 - [SolarNetwork](https://github.com/SolarNetwork/solarnetwork-node) - Flexible platform for the monitoring and control of energy assets, meters, sensors, weather stations, EV chargers, market pricing, load optimization, and more.
+- [homeassistant-alphaESS](https://github.com/CharlesGillanders/homeassistant-alphaESS) - Monitor your energy generation, storage, and usage data using the official Open API from Alpha ESS.
 
 ### Energy System Data Access
 
