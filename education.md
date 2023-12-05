@@ -53,6 +53,7 @@
 - [HPC4WC](https://github.com/ofuhrer/HPC4WC) - High Performance Computing for Weather and Climate Course.
 - [ARSET Fundamentals of Machine Learning for Earth Science](https://github.com/NASAARSET/ARSET_ML_Fundamentals) - This training will provide attendees an overview of machine learning in regards to Earth Science, and how to apply these algorithms and techniques to remote sensing data in a meaningful way.
 - [Applied Environmental Statistics](https://github.com/mdietze/EE509) - Applied Environmental Statistics course of the Boston University.
+- [ClimateMatch Academy Computational Climate Science syllabus](https://academy.climatematch.io/) - A wide-reaching, inclusive and approachable program aimed to introduce computational methods for climate science.
 
 ## Earth Observation 
 - [Radiant MLHub Tutorials](https://github.com/radiantearth/mlhub-tutorials) - Tutorials to access Radiant MLHub Training Datasets.
