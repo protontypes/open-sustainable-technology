@@ -1757,6 +1757,7 @@ energy system designs and analysis of interactions between technologies.
 - [Ozone](https://github.com/Milind220/Ozone) - An open-source package to easily obtain real-time, historical, or forecasted air quality data for anywhere in the world.
 - [RAQSAPI](https://github.com/USEPA/RAQSAPI) - Retrieve data from the United States Environmental Protection Agency's Air Quality Systems.
 - [qualR](https://github.com/ropensci/qualR) - Download of air pollutants and meteorological information from CETESB QUALAR System for São Paulo, and MonitorAr Program, for Rio de Janeiro.
+- [AirQo](https://github.com/airqo-platform/AirQo-api) - Develop hardware and software tools to help deliver Clean Air for All African Cities.
 
 
 ### Water Supply
