@@ -821,6 +821,7 @@ energy system designs and analysis of interactions between technologies.
 - [Pledge4Future](https://github.com/pledge4future/WePledge) - Allows you to calculate your work related CO2e emissions from heating and electricity consumptions as well as business trips and commuting.
 - [Travel Impact Model](https://github.com/google/travel-impact-model) - Describes the modeling assumptions and input specifications behind the Travel Impact Model (TIM), a state of the art emission estimation model that Google's Travel Sustainability team has compiled from several external data source.
 - [Profit and emission database](https://docs.google.com/spreadsheets/d/19MQbZbrCu4HpAWe6NU92CioYQ7KE8FvD9vl-r9qSjJg/) - A free public database on large corporate emissions and profits.
+- [ec0lint](https://github.com/ec0lint/ec0lint-style) - A static code analysis tool that provides users with hints on how to reduce the carbon footprint of their websites during the development process.
 
 
 ### Carbon Offsets and Trading 
