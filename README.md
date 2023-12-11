@@ -1525,6 +1525,9 @@ energy system designs and analysis of interactions between technologies.
 - [Dragonfly for Grasshopper](https://github.com/ladybug-tools/dragonfly-legacy) - Legacy dragonfly plugin for large-scale climate and urban heat island modeling.
 - [Urban Weather Generator](https://github.com/ladybug-tools/uwg) - A Python application for modeling the urban heat island effect.
 - [pycontrails](https://github.com/contrailcirrus/pycontrails) - Python library for modeling aviation climate impacts.
+- [LCZ4r](https://github.com/ByMaxAnjos/LCZ4r) - An R Package for Local Climate Zones and Urban Heat Island Analysis.
+
+
 
 
 ### Climate Data Standards 
