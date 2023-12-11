@@ -1948,6 +1948,7 @@ energy system designs and analysis of interactions between technologies.
 - [PACTA](https://github.com/RMI-PACTA/pactaverse) - Measuring the alignment of financial portfolios with climate scenarios.
 - [Dataland](https://github.com/d-fine/Dataland) - A decentralized ecosystem for raw ESG-data where market participants exchange ESG-data in a transparent way.
 - [physrisk](https://github.com/os-climate/physrisk) - Primarily designed to run 'bottom-up' calculations that model the impact of climate hazards on large numbers of individual assets including natural and operations.
+- [climate-finance](https://github.com/ONEcampaign/climate-finance-package) - Is the python package to get, clean, and work with international public climate finance.
 
 ### Knowledge Platforms
 
