@@ -594,6 +594,7 @@ energy system designs and analysis of interactions between technologies.
 - [SAM](https://github.com/HoareLea/SAM) - An open-source software designed to help engineers create analytical models of energy-efficient buildings.
 - [Meirim](https://github.com/meirim-org/meirim) - A open-source smart city application that facilitates transparency in urban planning.
 - [Better Thermostat](https://github.com/KartoffelToby/better_thermostat) - This custom component for Home Assistant will add crucial features to your climate-controlling Thermostatic Radiator Valves to save you the work of creating automations to make it smart.
+- [A Carbon Tool](https://github.com/arup-group/a-carbon-tool) - An open source web application that enables users to estimate embodied carbon equivalent content from Building Information Models.
 
 ### Mobility and Transportation
 
