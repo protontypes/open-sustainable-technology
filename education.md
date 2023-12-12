@@ -96,6 +96,7 @@
 - [MapBiomas 101](https://github.com/mapbiomas-brazil/mapbiomas-training) - Google Earth Engine Tutorials to produce annual land use and land cover maps from Brazil.
 - [Gedi Tutorials](https://github.com/ornldaac/gedi_tutorials) - Tutorials on producing high resolution laser ranging observations based on data of the Global Ecosystem Dynamics Investigation.
 - [Ecological Forecasting](https://github.com/EcoForecast/EF_Activities) - Hands-on activities associated with the Ecological Forecasting book and graduate class.
+- [Terrestrial Carbon: modelling and monitoring](https://github.com/UCL-EO/geog0133) - The role of vegetation in the carbon cycle and the wider climate system.
 
 
 ### Hydrosphere
