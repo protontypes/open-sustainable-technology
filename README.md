@@ -1176,6 +1176,7 @@ energy system designs and analysis of interactions between technologies.
 - [gfwr](https://github.com/GlobalFishingWatch/gfwr) - R package for accessing data from Global Fishing Watch APIs.
 - [r4ss](https://github.com/r4ss/r4ss) - A fisheries stock assessment model written by Rick Methot.
 - [OrcaHello](https://github.com/orcasound/aifororcas-livesystem) - A real-time AI-assisted killer whale notification system.
+- [planktonr](https://github.com/PlanktonTeam/planktonr) - R package that facilitates the download, analysis and visualisation of phytoplankton and zooplankton data.
 - [worrms](https://github.com/ropensci/worrms) - A R client for the World Register of Marine Species.
   
 ### Terrestrial Animals
