@@ -1176,6 +1176,7 @@ energy system designs and analysis of interactions between technologies.
 - [gfwr](https://github.com/GlobalFishingWatch/gfwr) - R package for accessing data from Global Fishing Watch APIs.
 - [r4ss](https://github.com/r4ss/r4ss) - A fisheries stock assessment model written by Rick Methot.
 - [OrcaHello](https://github.com/orcasound/aifororcas-livesystem) - A real-time AI-assisted killer whale notification system.
+- [worrms](https://github.com/ropensci/worrms) - A R client for the World Register of Marine Species.
   
 ### Terrestrial Animals
 - [auk](https://github.com/CornellLabofOrnithology/auk) - eBird Data Extraction and Processing in R.
@@ -1368,6 +1369,7 @@ energy system designs and analysis of interactions between technologies.
 - [EMODnetWFS](https://github.com/EMODnet/EMODnetWFS) - Allow interrogation of and access to EMODnet(European Marine Observation and Data Network) geographic vector data in R though the EMODnet Web Feature Services.
 - [STOQS](https://github.com/stoqs/stoqs) - Geospatial database visualization software for oceanographic measurement data.
 - [odp_sdk](https://github.com/C4IROcean/odp-sdk-python) - Download queried ocean data easily and efficiently into data frames, for easy exploring and further processing in your data science project.
+- [AODN Portal](https://github.com/aodn/aodn-portal) - The gateway to Australian marine and climate science data.
 
 ## Atmosphere
 ### Atmospheric Composition and Dynamics
