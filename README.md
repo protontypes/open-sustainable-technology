@@ -737,6 +737,7 @@ energy system designs and analysis of interactions between technologies.
 - [Ecoindex_cli](https://github.com/cnumr/ecoindex_cli) - This tool provides an easy way to analyze websites with Ecoindex from your local computer using multi-threading.
 - [Zeus](https://github.com/ml-energy/zeus) - A Framework for Deep Learning Energy Measurement and Optimization.
 - [perun](https://github.com/Helmholtz-AI-Energy/perun) - Calculates the energy consumption of Python scripts by sampling usage statistics from your hardware components.
+- [Web Sustainability Guidelines](https://github.com/w3c/sustyweb) - The draft specification for our Web Sustainability Guidelines and any supplementary documentation, including our introduction to Web Sustainability.
 - [GEOPM](https://github.com/geopm/geopm) - Serves as a framework for investigating energy and power optimizations geared towards heterogeneous high performance computing platforms.
 
 ### Agriculture and Nutrition
