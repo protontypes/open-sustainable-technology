@@ -557,7 +557,6 @@ energy system designs and analysis of interactions between technologies.
 - [MPCPy](https://github.com/lbl-srg/MPCPy) - The Python-based open source platform for model predictive control in buildings.
 - [obc](https://github.com/lbl-srg/obc) - Performance Evaluation, Specification, Deployment and Verification of Building Control Sequences.
 - [The Application Domain Extension](https://github.com/cstb/citygml-energy) - Defines a standardized data model based on CityGML format for urban energy analyses, aiming to be a reference exchange data format between different urban modeling tools and expert databases.
-- [PLANHEAT Tool](https://github.com/Planheat/Planheat-Tool) - A QGIS plug-in based on an open source code, whose goal is to analyze, plan and simulate low carbon Heating & Cooling scenarios.
 - [Energy Signature Analyser](https://gitlab.com/energyincities/energy-signature-analyser) - A toolbox to analyze energy signatures of buildings and compare the signatures of all buildings within an entire building stock.
 - [BuildingSystems](https://github.com/UdK-VPT/BuildingSystems) - The Modelica open source BuildingSystems library is developed for dynamic simulation of the energetic behavior of single rooms, buildings and whole districts.
 - [modelica-ibpsa](https://github.com/ibpsa/modelica-ibpsa) - A Modelica library for building and district energy systems developed within IBPSA Project 1.
