@@ -1291,6 +1291,7 @@ energy system designs and analysis of interactions between technologies.
 - [pyOpenRiverCam](https://github.com/localdevices/pyorc) - Surface velocity, object tracking, and river flow measurements in an open-source API.
 - [SHUD](https://github.com/SHUD-System/SHUD) - A multi-process, multi-scale integrated hydrological model using the semi-discrete Finite Volume Method.
 - [PyFlowline](https://github.com/changliao1025/pyflowline) - A mesh independent river network generator for hydrologic models.
+- [rabpro](https://github.com/VeinsOfTheEarth/rabpro) - Delineating watershed basins and computing attribute statistics using Google Earth Engine.
 
 ### Ocean Circulation Models
 - [MOM6](https://github.com/NOAA-GFDL/MOM6) - A numerical representation of the ocean fluid with applications from the process scale to the planetary circulation scale.
