@@ -1372,6 +1372,7 @@ energy system designs and analysis of interactions between technologies.
 - [STOQS](https://github.com/stoqs/stoqs) - Geospatial database visualization software for oceanographic measurement data.
 - [odp_sdk](https://github.com/C4IROcean/odp-sdk-python) - Download queried ocean data easily and efficiently into data frames, for easy exploring and further processing in your data science project.
 - [AODN Portal](https://github.com/aodn/aodn-portal) - The gateway to Australian marine and climate science data.
+- [Sea-level monitor](https://github.com/openearth/sealevel) - Tools and applications used to monitor sea-level rise.
 
 ## Atmosphere
 ### Atmospheric Composition and Dynamics
