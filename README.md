@@ -410,6 +410,7 @@ energy system designs and analysis of interactions between technologies.
 - [MESMO](https://github.com/mesmo-dev/mesmo) - An open-source Python tool for the modeling, simulation and optimization of multi-scale electric and thermal distribution systems along with distributed energy resources.
 - [ASSUME](https://github.com/assume-framework/assume) - An open-source toolbox for agent-based simulations of European electricity markets, with a primary focus on the German market setup.
 - [NemoMod.jl](https://github.com/sei-international/NemoMod.jl) - A high performance, open-source energy system optimization modeling tool developed in Julia.
+- [ReEDS](https://github.com/NREL/ReEDS-2.0) - A capacity planning and dispatch model for the North American electricity system.
 
 ### Energy Distribution and Grids
 
