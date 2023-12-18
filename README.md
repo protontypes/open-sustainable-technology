@@ -158,6 +158,7 @@ The metadata of the listed projects and organizations are used in several studie
 - [OTSun](https://github.com/bielcardona/OTSun) - A python package that uses the Monte Carlo Forward Ray Tracing for the optical analysis of Solar Thermal Collectors and Solar Cells.
 - [pvOps](https://github.com/sandialabs/pvOps) - Contains a series of functions to facilitate fusion of text-based data with time series production data collected at photovoltaic sites.
 - [CSP.guru](https://github.com/repolicy/csp-guru) - An open-source database of concentrating solar power plants of the world for energy modellers and analysts.
+- [Quartz Solar Forecast](https://github.com/openclimatefix/Open-Source-Quartz-Solar-Forecast) - The aim of the project is to build an open source PV forecast that is free and easy to use.
 
 ### Wind Energy
 
@@ -217,7 +218,6 @@ The metadata of the listed projects and organizations are used in several studie
 - [WEC-Sim](https://github.com/WEC-Sim/WEC-Sim) - Wave Energy Converter Simulator is an open source code for simulating wave energy converters.
 - [BEMRosetta](https://github.com/BEMRosetta/BEMRosetta) - Used to model hydrodynamic forces in offshore devices like ships, offshore wind platforms and wave energy converters.
 - [Capytaine](https://github.com/mancellin/capytaine) - A Python package for the simulation of the interaction between water waves and floating bodies in frequency domain.
-- [reservoir](https://github.com/swd-turner/reservoir) - Tools for Analysis, Design, and Operation of Water Supply Storages.
 - [DOLPHYN](https://github.com/macroenergy/DOLPHYN) - Evaluates investments and operations across the bulk supply chain for electricity and Hydrogen including production, storage, transmission, conditioning, and end-use consumption.
 
 
@@ -411,6 +411,7 @@ energy system designs and analysis of interactions between technologies.
 - [MESMO](https://github.com/mesmo-dev/mesmo) - An open-source Python tool for the modeling, simulation and optimization of multi-scale electric and thermal distribution systems along with distributed energy resources.
 - [ASSUME](https://github.com/assume-framework/assume) - An open-source toolbox for agent-based simulations of European electricity markets, with a primary focus on the German market setup.
 - [NemoMod.jl](https://github.com/sei-international/NemoMod.jl) - A high performance, open-source energy system optimization modeling tool developed in Julia.
+- [ReEDS](https://github.com/NREL/ReEDS-2.0) - A capacity planning and dispatch model for the North American electricity system.
 
 ### Energy Distribution and Grids
 
@@ -557,7 +558,6 @@ energy system designs and analysis of interactions between technologies.
 - [MPCPy](https://github.com/lbl-srg/MPCPy) - The Python-based open source platform for model predictive control in buildings.
 - [obc](https://github.com/lbl-srg/obc) - Performance Evaluation, Specification, Deployment and Verification of Building Control Sequences.
 - [The Application Domain Extension](https://github.com/cstb/citygml-energy) - Defines a standardized data model based on CityGML format for urban energy analyses, aiming to be a reference exchange data format between different urban modeling tools and expert databases.
-- [PLANHEAT Tool](https://github.com/Planheat/Planheat-Tool) - A QGIS plug-in based on an open source code, whose goal is to analyze, plan and simulate low carbon Heating & Cooling scenarios.
 - [Energy Signature Analyser](https://gitlab.com/energyincities/energy-signature-analyser) - A toolbox to analyze energy signatures of buildings and compare the signatures of all buildings within an entire building stock.
 - [BuildingSystems](https://github.com/UdK-VPT/BuildingSystems) - The Modelica open source BuildingSystems library is developed for dynamic simulation of the energetic behavior of single rooms, buildings and whole districts.
 - [modelica-ibpsa](https://github.com/ibpsa/modelica-ibpsa) - A Modelica library for building and district energy systems developed within IBPSA Project 1.
@@ -801,6 +801,7 @@ energy system designs and analysis of interactions between technologies.
 - [DynACof](https://github.com/VEZY/DynACof) - Process-based model computes plot-scale Net Primary Productivity, carbon allocation, growth, yield, energy, and water balance of coffee plantations according to management.
 - [WorldCereal](https://github.com/WorldCereal/worldcereal-classification) - An efficient, agile and robust EO based system for timely global crop monitoring at field scale. 
 - [AgML](https://github.com/Project-AgML/AgML) - Provides access to public agricultural datasets for common agricultural deep learning tasks, with standard benchmarks and pretrained models, as well the ability to generate synthetic data and annotations.
+- [Broccoli](https://github.com/flauschtrud/broccoli) - A free eco-friendly recipe app for building your recipe collection, distraction free cooking and seasonal ingredients.
 
 ## Emissions
 
@@ -1114,6 +1115,7 @@ energy system designs and analysis of interactions between technologies.
 - [blsp](https://github.com/ncsuSEAL/Bayesian_LSP) - A Bayesian hierarchical model that quantifies long-term annual land surface phenology from sparse time series of vegetation indices.
 - [austraits](https://github.com/traitecoevo/austraits) - R package for accessing the AusTraits Plant database, an open-source, harmonized database of Australian plant trait data.
 - [vegperiod](https://rnuske.github.io/vegperiod/) - Provides methods to calculate climatological or thermal growing seasons solely based on daily mean temperatures and the day of the year.
+- [pyrealm](https://github.com/ImperialCollegeLondon/pyrealm) - Providing an integrated toolbox for modelling plant productivity, growth and demography using Python.
 
 ### Biomass
 - [fgeo.biomass](https://github.com/forestgeo/fgeo.biomass) - Calculate biomass with allometric equations from the allodb package and ForestGEO data.
@@ -1292,6 +1294,10 @@ energy system designs and analysis of interactions between technologies.
 - [SHUD](https://github.com/SHUD-System/SHUD) - A multi-process, multi-scale integrated hydrological model using the semi-discrete Finite Volume Method.
 - [PyFlowline](https://github.com/changliao1025/pyflowline) - A mesh independent river network generator for hydrologic models.
 - [rabpro](https://github.com/VeinsOfTheEarth/rabpro) - Delineating watershed basins and computing attribute statistics using Google Earth Engine.
+- [imod](https://github.com/Deltares/imod-python) - An open source project to make working with MODFLOW groundwater models in Python easier.
+- [SuperflexPy](https://github.com/dalmo1991/superflexPy) - An open-source framework written in Python for constructing flexible, conceptual, distributed hydrological models.
+- [HydPy](https://github.com/hydpy-dev/hydpy) - An interactive framework for developing and applying different types of hydrological models, originally developed at the Ruhr-University Bochum for specific research purposes.
+- [Xanthos](https://github.com/JGCRI/xanthos) - An open-source hydrologic model, written in Python, designed to quantify and analyze global water availability.
 
 ### Ocean Circulation Models
 - [MOM6](https://github.com/NOAA-GFDL/MOM6) - A numerical representation of the ocean fluid with applications from the process scale to the planetary circulation scale.
@@ -1375,6 +1381,7 @@ energy system designs and analysis of interactions between technologies.
 - [STOQS](https://github.com/stoqs/stoqs) - Geospatial database visualization software for oceanographic measurement data.
 - [odp_sdk](https://github.com/C4IROcean/odp-sdk-python) - Download queried ocean data easily and efficiently into data frames, for easy exploring and further processing in your data science project.
 - [AODN Portal](https://github.com/aodn/aodn-portal) - The gateway to Australian marine and climate science data.
+- [Sea-level monitor](https://github.com/openearth/sealevel) - Tools and applications used to monitor sea-level rise.
 
 ## Atmosphere
 ### Atmospheric Composition and Dynamics
@@ -1469,6 +1476,7 @@ energy system designs and analysis of interactions between technologies.
 - [Graph Weather](https://github.com/openclimatefix/graph_weather) - Data-driven approach for forecasting global weather using graph neural network.
 - [brightsky](https://github.com/jdemaeyer/brightsky) - A JSON API for Germany's meteorological service as part of their Open Data program.
 - [IEM](https://github.com/akrherz/iem) - A website that provides weather data and forecasts for Iowa and the world.
+- [IMPROVER](https://github.com/metoppv/improver) - A library of algorithms for meteorological post-processing and verification.
 
 ### Radiative Transfer
 
