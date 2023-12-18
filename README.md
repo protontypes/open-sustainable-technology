@@ -1293,11 +1293,11 @@ energy system designs and analysis of interactions between technologies.
 - [pyOpenRiverCam](https://github.com/localdevices/pyorc) - Surface velocity, object tracking, and river flow measurements in an open-source API.
 - [SHUD](https://github.com/SHUD-System/SHUD) - A multi-process, multi-scale integrated hydrological model using the semi-discrete Finite Volume Method.
 - [PyFlowline](https://github.com/changliao1025/pyflowline) - A mesh independent river network generator for hydrologic models.
+- [rabpro](https://github.com/VeinsOfTheEarth/rabpro) - Delineating watershed basins and computing attribute statistics using Google Earth Engine.
 - [imod](https://github.com/Deltares/imod-python) - An open source project to make working with MODFLOW groundwater models in Python easier.
 - [SuperflexPy](https://github.com/dalmo1991/superflexPy) - An open-source framework written in Python for constructing flexible, conceptual, distributed hydrological models.
 - [HydPy](https://github.com/hydpy-dev/hydpy) - An interactive framework for developing and applying different types of hydrological models, originally developed at the Ruhr-University Bochum for specific research purposes.
 - [Xanthos](https://github.com/JGCRI/xanthos) - An open-source hydrologic model, written in Python, designed to quantify and analyze global water availability.
-
 
 ### Ocean Circulation Models
 - [MOM6](https://github.com/NOAA-GFDL/MOM6) - A numerical representation of the ocean fluid with applications from the process scale to the planetary circulation scale.
