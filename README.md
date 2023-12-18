@@ -1476,6 +1476,7 @@ energy system designs and analysis of interactions between technologies.
 - [Graph Weather](https://github.com/openclimatefix/graph_weather) - Data-driven approach for forecasting global weather using graph neural network.
 - [brightsky](https://github.com/jdemaeyer/brightsky) - A JSON API for Germany's meteorological service as part of their Open Data program.
 - [IEM](https://github.com/akrherz/iem) - A website that provides weather data and forecasts for Iowa and the world.
+- [IMPROVER](https://github.com/metoppv/improver) - A library of algorithms for meteorological post-processing and verification.
 
 ### Radiative Transfer
 
