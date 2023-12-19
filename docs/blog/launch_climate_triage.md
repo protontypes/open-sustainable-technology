@@ -13,3 +13,8 @@ Projects that are looking for contributors can visit the main repository at [Ope
 Whether you are a seasoned developer or a newcomer eager to contribute, ClimateTriage.com provides a curated directory of impactful projects and a pathway to making your first meaningful contribution to open sustainable technology. Simply visit [the website](https://climatetriage.com/) and search for projects of interest to you to view what types of contributions they are seeking, then start contributing.
 
 ClimateTriage.com is a collaboration of [Codeshark](https://codeshark.net/), [Ecosyste.ms](https://ecosyste.ms/), [Open Sustainable Technology](https://opensustain.tech/), [Open Corridor](https://opencorridor.org/) and [Linux Foundation Energy](https://lfenergy.org/).
+
+<figure markdown>
+  ![](climate_triage.png){ width="600" }
+  <figcaption> The ClimateTriage.com landing page at the launch date. </figcaption>
+</figure>
