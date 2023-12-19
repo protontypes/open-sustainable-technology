@@ -1,6 +1,6 @@
 # Connect Developers with Impactful Sustainability Projects
 
- _Thomas Gram_  [:fontawesome-brands-linkedin:](https://www.linkedin.com/in/thomasegebrandgram/) · _Dan Brown_ [:fontawesome-brands-linkedin:](https://www.linkedin.com/in/dbrownusc/) · _Andrew Nesbitt_ [:fontawesome-solid-globe:](https://nesbitt.io/) · _Tobias Augspurger_ [:fontawesome-brands-linkedin:](https://www.linkedin.com/in/tobias-augspurger/) · _Josh Hopkins_ [:fontawesome-brands-linkedin:](https://www.linkedin.com/in/hopkins-josh/) · _John Metric_
+ _Thomas Gram_  [:fontawesome-brands-linkedin:](https://www.linkedin.com/in/thomasegebrandgram/) · _Dan Brown_ [:fontawesome-brands-linkedin:](https://www.linkedin.com/in/dbrownusc/) · _Andrew Nesbitt_ [:fontawesome-brands-github:](https://github.com/andrew) · _Tobias Augspurger_ [:fontawesome-brands-linkedin:](https://www.linkedin.com/in/tobias-augspurger/) · _Josh Hopkins_ [:fontawesome-brands-linkedin:](https://www.linkedin.com/in/hopkins-josh/) · _John Metric_
  [:fontawesome-brands-linkedin:](https://www.linkedin.com/in/jmertic/) <br>
 :octicons-calendar-24: December 19, 2023
 
