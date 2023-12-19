@@ -1,7 +1,8 @@
-# The Open Source Sustainability Ecosystem - Report Release 2023
+# Connect Developers with Impactful Sustainability Projects
 
- _Thomas Gram_  [:fontawesome-brands-linkedin:](https://www.linkedin.com/in/thomasegebrandgram/) · _Dan Brown_ · _Andrew Nesbitt_ · _Tobias Augspurger_ · _Josh Hopkins_ · _John Metric_
-· :octicons-calendar-24: January 11, 2023
+ _Thomas Gram_  [:fontawesome-brands-linkedin:](https://www.linkedin.com/in/thomasegebrandgram/) · _Dan Brown_ [:fontawesome-brands-linkedin:](https://www.linkedin.com/in/dbrownusc/) · _Andrew Nesbitt_ [:fontawesome-solid-globe:](https://nesbitt.io/) · _Tobias Augspurger_ [:fontawesome-brands-linkedin:](https://www.linkedin.com/in/tobias-augspurger/) · _Josh Hopkins_ [:fontawesome-brands-linkedin:](https://www.linkedin.com/in/hopkins-josh/) · _John Metric_
+ [:fontawesome-brands-linkedin:](https://www.linkedin.com/in/jmertic/) <br>
+:octicons-calendar-24: December 19, 2023
 
 Countless talented developers around the world are looking for ways that their talents can contribute to sustainability. The [LF Energy Open Sustainable Technology](https://lfenergy.org/projects/open-sustainable-technology/) project already offers a directory and analysis of the open source ecosystem in the areas of climate change, energy, biodiversity and natural resources. Despite this information being available on the wide range of open source sustainability projects, it can still be difficult for potential contributors to understand how they can get involved with these projects.
 

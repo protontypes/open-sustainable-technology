@@ -13,6 +13,7 @@ nav:
   - Contribute: contributing.md
   - Blog:
       2023: 
+        - "Connect Developers with Impactful Sustainability Projects" : blog/launch_climate_triage.md
         - "The Open Source Sustainability Ecosystem"  : blog/the_open_source_sustainability_ecosystem.md
       2022:
         - "You can preserve the Earth's livability with open source" : blog/you_can_preserve_the_earth_s_livability_with_open_source.md  
