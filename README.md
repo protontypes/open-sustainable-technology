@@ -2075,6 +2075,7 @@ energy system designs and analysis of interactions between technologies.
 - [harp](https://github.com/stcorp/harp) - Data harmonization toolset for scientific earth observation data.
 - [ccplot](https://github.com/peterkuma/ccplot) - Command-line application for visualizing data from CloudSat and CALIPSO satellites.
 - [goestools](https://github.com/pietern/goestools) - Tools to work with signals and files from GOES satellites.
+- [SlideRule Earth](https://github.com/ICESat2-SlideRule/sliderule) - Process ICESat2 datasets in the cloud through REST API calls to SlideRule web services.
 
 ### Taxonomy and Ontology
 - [Digital Twins Definition Language ontology for Energy Grid](https://github.com/Azure/opendigitaltwins-energygrid) - A global standard for energy grid assets management, power system operations modeling and physical energy commodity market.
