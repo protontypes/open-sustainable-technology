@@ -241,8 +241,6 @@ The metadata of the listed projects and organizations are used in several studie
 - [biosteam](https://github.com/BioSTEAMDevelopmentGroup/biosteam) - The Biorefinery Simulation and Techno-Economic Analysis Modules.
 - [Multiscale_Ulva](https://github.com/alexliberzonlab/Multiscale_Ulva) - A multi-reactor, algae farm, simulation base function that will be solved in time.
 - [BETYdb](https://github.com/PecanProject/bety) - Web-interface to the Biofuel Ecophysiological Traits and Yields Database.
-- [portalcasting](https://github.com/weecology/portalcasting) - Provides a model development, deployment, and evaluation system for forecasting how ecological systems change through time, with a focus on a widely used long-term study of mammal population and community dynamics.
-
 
 ## Energy Storage
 
@@ -1020,6 +1018,8 @@ energy system designs and analysis of interactions between technologies.
 - [scikit-maad](https://github.com/scikit-maad/scikit-maad) - Enables quantitative analysis of environmental audio, offering tools for processing, segmenting, and computing acoustic features.
 - [SMBD](https://github.com/ioos/bio_data_guide) - Facilitate a community of practice for aligning marine biological data to Darwin Core for sharing to Ocean Biodiversity Information System (OBIS).
 - [Diversity.jl](https://github.com/EcoJulia/Diversity.jl) - Provides functionality for measuring alpha, beta and gamma diversity of metacommunities (e.g. ecosystems) and their constituent subcommunities.
+- [portalcasting](https://github.com/weecology/portalcasting) - Provides a model development, deployment, and evaluation system for forecasting how ecological systems change through time, with a focus on a widely used long-term study of mammal population and community dynamics.
+
 
 ### Conservation and Restoration
 - [CART](https://github.com/jneme910/CART) - The Conservation Assessment Ranking Tool is designed for use in the conservation planning process to assess resource concerns, planned practices and site vulnerability.
