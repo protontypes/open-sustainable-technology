@@ -241,8 +241,6 @@ The metadata of the listed projects and organizations are used in several studie
 - [biosteam](https://github.com/BioSTEAMDevelopmentGroup/biosteam) - The Biorefinery Simulation and Techno-Economic Analysis Modules.
 - [Multiscale_Ulva](https://github.com/alexliberzonlab/Multiscale_Ulva) - A multi-reactor, algae farm, simulation base function that will be solved in time.
 - [BETYdb](https://github.com/PecanProject/bety) - Web-interface to the Biofuel Ecophysiological Traits and Yields Database.
-- [portalcasting](https://github.com/weecology/portalcasting) - Provides a model development, deployment, and evaluation system for forecasting how ecological systems change through time, with a focus on a widely used long-term study of mammal population and community dynamics.
-
 
 ## Energy Storage
 
@@ -815,6 +813,7 @@ energy system designs and analysis of interactions between technologies.
 - [blockchain-carbon-accounting](https://github.com/opentaps/blockchain-carbon-accounting) - Code of the Carbon Accounting and Certification Working Group.
 - [footprint](https://github.com/acircleda/footprint) - An R package to calculate carbon footprints from air travel based on IATA airport codes or latitude and longitude.
 - [intensegRid](https://github.com/KKulma/intensegRid) - Provides information on national and regional carbon intensity, the amount of carbon emitted per unit of energy consumed, for the UK.
+- [carbonintensity-api](https://github.com/jnioche/carbonintensity-api) - Rust library to retrieve regional carbon intensity data from the UK National Grid.
 - [Carbonfact Models](https://github.com/kansoapp/carbonfact-models) - The carbon footprint models used by carbonfact.co.
 - [Silicone](https://github.com/GranthamImperial/silicone) - Automated filling of detail in reported emission scenarios.
 - [OpenClimate](https://github.com/Open-Earth-Foundation/OpenClimate) - Independent Climate Accounting Network in support of Paris Agreement goals.
@@ -1020,6 +1019,10 @@ energy system designs and analysis of interactions between technologies.
 - [scikit-maad](https://github.com/scikit-maad/scikit-maad) - Enables quantitative analysis of environmental audio, offering tools for processing, segmenting, and computing acoustic features.
 - [SMBD](https://github.com/ioos/bio_data_guide) - Facilitate a community of practice for aligning marine biological data to Darwin Core for sharing to Ocean Biodiversity Information System (OBIS).
 - [Diversity.jl](https://github.com/EcoJulia/Diversity.jl) - Provides functionality for measuring alpha, beta and gamma diversity of metacommunities (e.g. ecosystems) and their constituent subcommunities.
+- [entropart](https://github.com/EricMarcon/entropart) - An R package that provides functions to calculate alpha, beta and gamma diversity of communities, including phylogenetic and functional diversity.
+- [portalcasting](https://github.com/weecology/portalcasting) - Provides a model development, deployment, and evaluation system for forecasting how ecological systems change through time, with a focus on a widely used long-term study of mammal population and community dynamics.
+- [OpenSoundscape](https://github.com/kitzeslab/opensoundscape) - A free and open source Python utility library analyzing bioacoustic data.
+
 
 ### Conservation and Restoration
 - [CART](https://github.com/jneme910/CART) - The Conservation Assessment Ranking Tool is designed for use in the conservation planning process to assess resource concerns, planned practices and site vulnerability.
@@ -1543,6 +1546,7 @@ energy system designs and analysis of interactions between technologies.
 - [Dragonfly for Grasshopper](https://github.com/ladybug-tools/dragonfly-legacy) - Legacy dragonfly plugin for large-scale climate and urban heat island modeling.
 - [Urban Weather Generator](https://github.com/ladybug-tools/uwg) - A Python application for modeling the urban heat island effect.
 - [pycontrails](https://github.com/contrailcirrus/pycontrails) - Python library for modeling aviation climate impacts.
+- [PCMDI Metrics Package](https://github.com/PCMDI/pcmdi_metrics) - Open-source Python package for Systematic Evaluation of Climate and Earth System Models.
 
 
 ### Climate Data Standards 
@@ -1715,6 +1719,7 @@ energy system designs and analysis of interactions between technologies.
 - [TECA](https://github.com/LBL-EESA/TECA) - The Toolkit for Extreme Climate Analysis, contains a collection of climate anlysis algorithms targetted at extreme event detection and analysis.
 - [Inundation Mapping](https://github.com/NOAA-OWP/inundation-mapping) - Flood inundation mapping and evaluation software configured to work with U.S. National Water Model.
 - [Intensity duration frequency analysis](https://github.com/MarkusPic/intensity_duration_frequency_analysis) - Reads the measurement data of the rainfall and calculates the distribution of the rainfall as a function of the return period and the duration for duration steps up to 12 hours.
+- [FwDET](https://github.com/csdms-contrib/fwdet) - Calculates floodwater depths using a digital elevation model and a flood extent polygon.
 
 
 ### Integrated Assessment and Climate Policy 
@@ -2071,6 +2076,7 @@ energy system designs and analysis of interactions between technologies.
 - [ccplot](https://github.com/peterkuma/ccplot) - Command-line application for visualizing data from CloudSat and CALIPSO satellites.
 - [goestools](https://github.com/pietern/goestools) - Tools to work with signals and files from GOES satellites.
 - [eodash](https://github.com/eurodatacube/eodash) - Combines the resources, technical knowledge and expertise of three partner agencies ESA, JAXA, and NASA to strengthen our global understanding of global environmental changes and other societal challenges impacting our planet.
+- [SlideRule Earth](https://github.com/ICESat2-SlideRule/sliderule) - Process ICESat2 datasets in the cloud through REST API calls to SlideRule web services.
 
 ### Taxonomy and Ontology
 - [Digital Twins Definition Language ontology for Energy Grid](https://github.com/Azure/opendigitaltwins-energygrid) - A global standard for energy grid assets management, power system operations modeling and physical energy commodity market.
