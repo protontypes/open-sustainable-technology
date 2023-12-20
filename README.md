@@ -2075,6 +2075,7 @@ energy system designs and analysis of interactions between technologies.
 - [harp](https://github.com/stcorp/harp) - Data harmonization toolset for scientific earth observation data.
 - [ccplot](https://github.com/peterkuma/ccplot) - Command-line application for visualizing data from CloudSat and CALIPSO satellites.
 - [goestools](https://github.com/pietern/goestools) - Tools to work with signals and files from GOES satellites.
+- [eodash](https://github.com/eurodatacube/eodash) - Combines the resources, technical knowledge and expertise of three partner agencies ESA, JAXA, and NASA to strengthen our global understanding of global environmental changes and other societal challenges impacting our planet.
 - [SlideRule Earth](https://github.com/ICESat2-SlideRule/sliderule) - Process ICESat2 datasets in the cloud through REST API calls to SlideRule web services.
 
 ### Taxonomy and Ontology
