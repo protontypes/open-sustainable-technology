@@ -1045,7 +1045,7 @@ energy system designs and analysis of interactions between technologies.
 - [grainscape](https://github.com/achubaty/grainscape) - Efficient Modelling of Landscape Connectivity, Habitat, and Protected Area Networks.
 - [restoptr](https://github.com/dimitri-justeau/restoptr) - Aims to identify priority areas for restoration efforts using optimization algorithms.
 - [ADRIA.jl](https://github.com/open-AIMS/ADRIA.jl) -  A multi-criteria decision support platform for informing reef restoration and adaptation interventions.
-- [lterdatasampler](https://github.com/lter/lterdatasampler) - Provide the scientific community, policy makers, and society with the knowledge and predictive understanding necessary to conserve, protect, and manage the nation’s ecosystems, their biodiversity, and the services they provide.
+- [lterdatasampler](https://github.com/lter/lterdatasampler) - Provide the scientific community, policy makers, and society with the knowledge and predictive understanding necessary to conserve, protect, and manage the nation's ecosystems, their biodiversity, and the services they provide.
 
 ### Forest Observation and Management
 - [ECOSTRESS](https://ecostress.jpl.nasa.gov/) - The images acquired by ECOSTRESS are the most detailed temperature images of the surface ever acquired from space and can be used to measure the temperature of an individual farmers field and plants.
