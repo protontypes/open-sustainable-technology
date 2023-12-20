@@ -1019,6 +1019,7 @@ energy system designs and analysis of interactions between technologies.
 - [scikit-maad](https://github.com/scikit-maad/scikit-maad) - Enables quantitative analysis of environmental audio, offering tools for processing, segmenting, and computing acoustic features.
 - [SMBD](https://github.com/ioos/bio_data_guide) - Facilitate a community of practice for aligning marine biological data to Darwin Core for sharing to Ocean Biodiversity Information System (OBIS).
 - [Diversity.jl](https://github.com/EcoJulia/Diversity.jl) - Provides functionality for measuring alpha, beta and gamma diversity of metacommunities (e.g. ecosystems) and their constituent subcommunities.
+- [entropart](https://github.com/EricMarcon/entropart) - An R package that provides functions to calculate alpha, beta and gamma diversity of communities, including phylogenetic and functional diversity.
 - [portalcasting](https://github.com/weecology/portalcasting) - Provides a model development, deployment, and evaluation system for forecasting how ecological systems change through time, with a focus on a widely used long-term study of mammal population and community dynamics.
 - [OpenSoundscape](https://github.com/kitzeslab/opensoundscape) - A free and open source Python utility library analyzing bioacoustic data.
 
