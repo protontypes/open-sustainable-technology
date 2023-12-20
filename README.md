@@ -1718,6 +1718,7 @@ energy system designs and analysis of interactions between technologies.
 - [TECA](https://github.com/LBL-EESA/TECA) - The Toolkit for Extreme Climate Analysis, contains a collection of climate anlysis algorithms targetted at extreme event detection and analysis.
 - [Inundation Mapping](https://github.com/NOAA-OWP/inundation-mapping) - Flood inundation mapping and evaluation software configured to work with U.S. National Water Model.
 - [Intensity duration frequency analysis](https://github.com/MarkusPic/intensity_duration_frequency_analysis) - Reads the measurement data of the rainfall and calculates the distribution of the rainfall as a function of the return period and the duration for duration steps up to 12 hours.
+- [FwDET](https://github.com/csdms-contrib/fwdet) - Calculates floodwater depths using a digital elevation model and a flood extent polygon.
 
 
 ### Integrated Assessment and Climate Policy 
