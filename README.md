@@ -672,6 +672,7 @@ energy system designs and analysis of interactions between technologies.
 - [Mobility](https://github.com/mobility-team/mobility) - An open-source solution to compute the carbon emissions due to the mobility of a local population.
 - [SpiceEV](https://github.com/rl-institut/spice_ev) - Simulation Program for Individual Charging Events of Electric Vehicles.
 - [EV Fleet Simulator](https://gitlab.com/eputs/ev-fleet-sim) - Predict the energy usage of a fleet of electric vehicles.
+- [motulator](https://github.com/aalto-electric-drives/motulator) - Simulation models for an induction motor, a synchronous reluctance motor, and a permanent-magnet synchronous motor.
 
 
 ### Production and Industry
