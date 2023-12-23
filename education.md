@@ -1,9 +1,10 @@
 <!--lint ignore awesome-toc awesome-contributing awesome-badge -->
 # Open Educational Resources in Sustainable Technologies
 
-## Geocomputation
+## Geocomputation and Geospatial
 - [Geocomputation with Python](https://github.com/geocompx/geocompy/) - An open source book and online resource for getting started in this space with Python.
 - [Geocomputation with R](https://github.com/geocompx/geocompr) - A book on geographic data analysis, visualization and modeling with R.
+- [Intro to R for Geospatial data](https://github.com/datacarpentry/r-intro-geospatial) - Provides an introduction to R for learners working with geospatial data.
 
 ## Renewable Energy
 
