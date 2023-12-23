@@ -9,6 +9,7 @@ The metadata of the listed projects and organizations are used in several studie
 
 [![](https://badgen.net/badge/View/Spreadsheets/009485?scale=1.6)](https://docs.getgrist.com/gSscJkc5Rb1R/OpenSustaintech)
 [![](https://badgen.net/badge/Download/Report/009485?scale=1.6)](https://raw.githubusercontent.com/protontypes/open-source-in-environmental-sustainability/main/OpenSourceSustainabilityEcosystem_080423.pdf) 
+[![](https://badgen.net/badge/Add/Project/009485?scale=1.6)]([https://raw.githubusercontent.com/protontypes/open-source-in-environmental-sustainability/main/OpenSourceSustainabilityEcosystem_080423.pdf](https://github.com/protontypes/open-sustainable-technology/blob/main/CONTRIBUTING.md)) 
 
 <!--toc-->
 
