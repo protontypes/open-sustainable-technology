@@ -1100,6 +1100,7 @@ energy system designs and analysis of interactions between technologies.
 - [A high-resolution canopy height model of the Earth](https://github.com/langnico/global-canopy-height-model) - The model estimates canopy top height for every Sentinel-2 image pixel and was trained using sparse GEDI LIDAR data as a reference.
 - [medfate](https://github.com/emf-creaf/medfate) - Functions to simulate Mediterranean forest functioning and dynamics using cohort-based description of vegetation.
 - [OpenTrees.org](https://github.com/stevage/OpenTrees) - A data visualisation of millions of publicly maintained trees around the world.
+- [Seedlot Selection Tool](https://github.com/consbio/seedlot-selection-tool) - A GIS mapping program designed to help forest managers match seedlots with planting sites based on climatic information.
 
 ### Plants and Vegetation
 - [OpenPlantPathology](https://github.com/openplantpathology/OpenPlantPathology) - Open Plant Pathology is an initiative that supports and promotes the spread of all open, transparent and reproducible practices in the field of plant pathology.
