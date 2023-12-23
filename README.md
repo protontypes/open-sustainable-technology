@@ -1201,6 +1201,7 @@ energy system designs and analysis of interactions between technologies.
 - [ebirdst](https://github.com/ebird/ebirdst) - Access and Analyze eBird Status and Trends Data.
 - [GeoPressureR](https://github.com/Rafnuss/GeoPressureR) - R package which help researchers construct the trajectory of a bird equiped with an atmospheric pressure sensor.
 - [EcoAssist](https://github.com/PetervanLunteren/EcoAssist) - An open-source application designed to streamline the work of ecologists dealing with camera trap images.
+- [BirdFlowR](https://github.com/birdflow-science/BirdFlowR) - Predict changes in bird distributions and generate synthetic migration routes.
 
 ## Cryosphere
 ### Sea Ice
