@@ -1191,6 +1191,7 @@ energy system designs and analysis of interactions between technologies.
 - [OrcaHello](https://github.com/orcasound/aifororcas-livesystem) - A real-time AI-assisted killer whale notification system.
 - [planktonr](https://github.com/PlanktonTeam/planktonr) - R package that facilitates the download, analysis and visualisation of phytoplankton and zooplankton data.
 - [worrms](https://github.com/ropensci/worrms) - A R client for the World Register of Marine Species.
+- [FIMS](https://github.com/NOAA-FIMS/FIMS) - A software system designed and architected to support next-generation fisheries stock assessment, ecosystem, and socioeconomic modeling.
   
 ### Terrestrial Animals
 - [auk](https://github.com/CornellLabofOrnithology/auk) - eBird Data Extraction and Processing in R.
