@@ -8,8 +8,7 @@ __A directory and analysis of the open source ecosystem in the areas of climate 
 If you're looking for developer tutorials on topics such as renewable energy, climate change or earth science, check out the [education](https://opensustain.tech/education/) section.The metadata of the listed projects and organizations are used in several studies and [reports](https://raw.githubusercontent.com/protontypes/open-source-in-environmental-sustainability/main/OpenSourceSustainabilityEcosystem_080423.pdf) to understand the role and potential of open source for environmental sustainability.
 
 [![](https://badgen.net/badge/View/Spreadsheets/009485?scale=1.6)](https://docs.getgrist.com/gSscJkc5Rb1R/OpenSustaintech)
-[![](https://badgen.net/badge/Download/Report/009485?scale=1.6)](https://raw.githubusercontent.com/protontypes/open-source-in-environmental-sustainability/main/OpenSourceSustainabilityEcosystem_080423.pdf) <!--lint ignore double-link -->
-[![](https://badgen.net/badge/Add/Project/009485?scale=1.6)]([https://raw.githubusercontent.com/protontypes/open-source-in-environmental-sustainability/main/OpenSourceSustainabilityEcosystem_080423.pdf](https://github.com/protontypes/open-sustainable-technology/blob/main/CONTRIBUTING.md)) 
+[![](https://badgen.net/badge/Download/Report/009485?scale=1.6)](https://raw.githubusercontent.com/protontypes/open-source-in-environmental-sustainability/main/OpenSourceSustainabilityEcosystem_080423.pdf) <!--lint ignore double-link --> [![](https://badgen.net/badge/Add/Project/009485?scale=1.6)]([https://raw.githubusercontent.com/protontypes/open-source-in-environmental-sustainability/main/OpenSourceSustainabilityEcosystem_080423.pdf](https://github.com/protontypes/open-sustainable-technology/blob/main/CONTRIBUTING.md)) 
 
 <!--toc-->
 
