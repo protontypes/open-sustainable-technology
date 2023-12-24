@@ -1789,6 +1789,7 @@ energy system designs and analysis of interactions between technologies.
 - [RAQSAPI](https://github.com/USEPA/RAQSAPI) - Retrieve data from the United States Environmental Protection Agency's Air Quality Systems.
 - [qualR](https://github.com/ropensci/qualR) - Download of air pollutants and meteorological information from CETESB QUALAR System for São Paulo, and MonitorAr Program, for Rio de Janeiro.
 - [AirQo](https://github.com/airqo-platform/AirQo-api) - Develop hardware and software tools to help deliver Clean Air for All African Cities.
+- [AirMonitor](https://github.com/MazamaScience/AirMonitor) - Utilities for working with hourly air quality monitoring data with a focus on small particulates PM2.5.
 
 
 ### Water Supply
