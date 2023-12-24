@@ -6,9 +6,9 @@
 __A directory and analysis of the open source ecosystem in the areas of climate change, sustainable energy, biodiversity and natural resources.__ <br> <br> Your contribution is essential to keep this list alive. [Create a pull request](https://opensustain.tech/contributing/) to add a new project or [send an email](mailto:tobias.augspurger@protontypes.eu) to give feedback, tips and ideas considering [OpenSustain.tech](https://opensustain.tech/). All _Good First Issue_ labelled issues of the listed projects will be visible on [ClimateTriage.com](https://climatetriage.com/).
 
 If you're looking for developer tutorials on topics such as renewable energy, climate change or earth science, check out the [education](https://opensustain.tech/education/) section.The metadata of the listed projects and organizations are used in several studies and [reports](https://raw.githubusercontent.com/protontypes/open-source-in-environmental-sustainability/main/OpenSourceSustainabilityEcosystem_080423.pdf) to understand the role and potential of open source for environmental sustainability.
-<!--lint ignore double-link -->
+
 [![](https://badgen.net/badge/View/Spreadsheets/009485?scale=1.6)](https://docs.getgrist.com/gSscJkc5Rb1R/OpenSustaintech)
-[![](https://badgen.net/badge/Download/Report/009485?scale=1.6)](https://raw.githubusercontent.com/protontypes/open-source-in-environmental-sustainability/main/OpenSourceSustainabilityEcosystem_080423.pdf) 
+[![](https://badgen.net/badge/Download/Report/009485?scale=1.6)](https://raw.githubusercontent.com/protontypes/open-source-in-environmental-sustainability/main/OpenSourceSustainabilityEcosystem_080423.pdf) <!--lint ignore double-link -->
 [![](https://badgen.net/badge/Add/Project/009485?scale=1.6)]([https://raw.githubusercontent.com/protontypes/open-source-in-environmental-sustainability/main/OpenSourceSustainabilityEcosystem_080423.pdf](https://github.com/protontypes/open-sustainable-technology/blob/main/CONTRIBUTING.md)) 
 
 <!--toc-->
