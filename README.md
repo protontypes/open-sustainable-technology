@@ -1941,6 +1941,7 @@ energy system designs and analysis of interactions between technologies.
 - [droughtR](https://github.com/mammask/droughtR) - An R package for non-stationary meteorological drought monitoring.
 - [meteoland](https://github.com/emf-creaf/meteoland) - Functions to estimate weather variables at any position of a landscape.
 - [ausplotsR](https://github.com/ternaustralia/ausplotsR) - Directly access plot-based data on vegetation and soils across Australia, with simple function calls to extract the data and merge them into species occurrence matrices for analysis or to calculate things like basal area and fractional cover.
+- [PyLUSAT](https://github.com/chjch/pylusat) - Intends to provide users with tools that can be used to conduct land-use suitability analysis.
 
 
 ## Sustainable Development
