@@ -1312,6 +1312,7 @@ energy system designs and analysis of interactions between technologies.
 - [SuperflexPy](https://github.com/dalmo1991/superflexPy) - An open-source framework written in Python for constructing flexible, conceptual, distributed hydrological models.
 - [HydPy](https://github.com/hydpy-dev/hydpy) - An interactive framework for developing and applying different types of hydrological models, originally developed at the Ruhr-University Bochum for specific research purposes.
 - [Xanthos](https://github.com/JGCRI/xanthos) - An open-source hydrologic model, written in Python, designed to quantify and analyze global water availability.
+- [nlmod](https://github.com/gwmod/nlmod) - Python package to build, run and visualize MODFLOW 6 groundwater models in the Netherlands.
 
 ### Ocean Circulation Models
 - [MOM6](https://github.com/NOAA-GFDL/MOM6) - A numerical representation of the ocean fluid with applications from the process scale to the planetary circulation scale.
