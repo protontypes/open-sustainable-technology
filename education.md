@@ -77,6 +77,7 @@
 - [Objective Analysis in Atmospheric Sciences](https://github.com/eabarnes1010/ats655-coursematerial) - The course provides an overview of the methods used to interpret data sets in the atmospheric and oceanic sciences.
 - [Python for Atmosphere and Ocean Scientists](https://github.com/carpentrieslab/python-aos-lesson) - Contains the Data Carpentry lesson materials for a single day workshop on using python in the atmosphere and ocean sciences.
 - [How to work with meteorological ECMWF data](https://github.com/ecmwf/notebook-examples) - A good starting point how you can work with European Centre for Medium-Range Weather Forecasts (ECMWF) services and data through Python using Jupyter notebooks.
+- [WEkEO4Atmosphere](https://github.com/wekeo/wekeo4atmosphere) - With the help of cases studies about the monitoring of wildfires and air quality, Copernicus atmosphere data from the Copernicus Programme are introduced.
 
 
 ### Cryosphere 
