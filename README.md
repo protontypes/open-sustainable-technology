@@ -1423,6 +1423,7 @@ energy system designs and analysis of interactions between technologies.
 - [A-Profiles](https://github.com/AugustinMortier/a-profiles) - A python library dedicated to the analysis of atmospheric profilers measurements.
 - [LROSE](https://github.com/ncar/lrose-core) - The Lidar Radar Open Software Environment for Atmospheric Science.
 - [CalibrateEDMF.jl](https://github.com/CliMA/CalibrateEDMF.jl) - Calibrate atmospheric turbulence and convection parameterizations using gradient-free ensemble Kalman methods.
+- [jsmetrics](https://github.com/topics/jet-stream) - An open-source Python package containing implementations of various statistics and algorithms which have been developed to identify or characterise jet streams.
 
 ### Atmospheric Dispersion and Transport
 - [MPTRAC](https://github.com/slcs-jsc/mptrac) - A Lagrangian particle dispersion model for the analysis of atmospheric transport processes in the free troposphere and stratosphere.
