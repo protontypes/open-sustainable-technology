@@ -1396,6 +1396,7 @@ energy system designs and analysis of interactions between technologies.
 - [odp_sdk](https://github.com/C4IROcean/odp-sdk-python) - Download queried ocean data easily and efficiently into data frames, for easy exploring and further processing in your data science project.
 - [AODN Portal](https://github.com/aodn/aodn-portal) - The gateway to Australian marine and climate science data.
 - [Sea-level monitor](https://github.com/openearth/sealevel) - Tools and applications used to monitor sea-level rise.
+- [Ocean Networks Canada](https://github.com/oceannetworkscanada/api-python-client) - Provides easy access to Ocean Networks Canada data in Python.
 
 ## Atmosphere
 ### Atmospheric Composition and Dynamics
