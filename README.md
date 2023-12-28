@@ -1028,6 +1028,7 @@ energy system designs and analysis of interactions between technologies.
 - [OpenSoundscape](https://github.com/kitzeslab/opensoundscape) - A free and open source Python utility library analyzing bioacoustic data.
 - [wildRtrax](https://github.com/ABbiodiversity/wildRtrax) - An R package for environmental sensor data management and analytics.
 - [SSDM](https://github.com/sylvainschmitt/SSDM) - A package to map species richness and endemism based on stacked species distribution models.
+- [rotl](https://github.com/ropensci/rotl) - An R package to interact with the Open Tree of Life data APIs
 
 
 ### Conservation and Restoration
