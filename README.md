@@ -1419,6 +1419,7 @@ energy system designs and analysis of interactions between technologies.
 - [EMC²](https://github.com/columncolab/EMC2) - An open source framework for atmospheric model and observational column comparison.
 - [Unidata Science Gateway](https://github.com/Unidata/science-gateway) - Provide the academic and research community an environment they can employ to access, analyze and visualize real-time and case study Earth system science data.
 - [SounderPy](https://github.com/kylejgillett/sounderpy) - A python package that helps you to access and plot vertical profile data for meteorological analysis.
+- [SHARPpy](https://github.com/sharppy/SHARPpy) - A collection of open source sounding and hodograph analysis routines, a sounding plotting package, and an interactive, cross-platform application for analyzing real-time soundings all written in Python.
 - [AC_tools](https://github.com/tsherwen/AC_tools) - Contains functions and scripts used for working with atmospheric model output and observational data.
 - [ACT](https://github.com/ARM-DOE/ACT) - The Atmospheric data Community Toolkit is an open source Python toolkit for working with atmospheric time-series datasets of varying dimensions.
 - [Freva](https://gitlab.dkrz.de/freva/evaluation_system) - A data search and analysis platform developed by the atmospheric science community for the atmospheric science community.
