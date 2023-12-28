@@ -963,7 +963,7 @@ energy system designs and analysis of interactions between technologies.
 - [TrashMob](https://github.com/TrashMob-eco/TrashMob) - A website dedicated to organizing groups of people to clean up the world we live in. Users create cleanup events, publicize them, and recruit people to join up, as well as ask for assistance from communities and partners.
 - [Haztrak](https://github.com/USEPA/haztrak) - A web application that aims to illustrate how hazardous waste management software can interface with EPA's e-Manifest systems to track hazardous waste electronically from cradle-to-grave.
 - [OpenSpecy](https://github.com/wincowgerDEV/OpenSpecy-package) - Raman and (FT)IR spectral analysis tool for plastic particles and other environmental samples.
-
+- [waste_flow](https://github.com/xapple/waste_flow) - A python package for retrieving and analyzing data concerning the waste management of European countries.
 
 ## Biosphere
 
