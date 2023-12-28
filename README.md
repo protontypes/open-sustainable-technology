@@ -905,6 +905,7 @@ energy system designs and analysis of interactions between technologies.
 - [Fossil Shipment Tracker](https://github.com/energyandcleanair/fossil_shipment_tracker) - A data platform that provides decision-makers, journalists and campaigning organizations with information that helps identify fossil fuel shipments from Russia.
 - [UNFCCC DI API](https://github.com/pik-primap/unfccc_di_api) - Data access to the total greenhouse gas emissions by country reported to the United Nations Framework Convention on Climate Change (UNFCCC).
 - [STARCOP](https://github.com/spaceml-org/STARCOP) - Semantic Segmentation of Methane Plumes with Hyperspectral Machine Learning models.
+- [Clean Air Markets API Portal](https://github.com/USEPA/cam-api-portal) - A suite of API's that EPA's Clean Air Markets Division provides to access the data collected to run programs designed to reduce air pollution from power plants.
 
 ## Industrial Ecology
 
