@@ -2075,6 +2075,7 @@ energy system designs and analysis of interactions between technologies.
 - [eeExtra](https://github.com/r-earthengine/ee_extra) - A ninja python package that unifies the Google Earth Engine ecosystem.
 - [earthaccess](https://github.com/nsidc/earthaccess) - Search, download or stream NASA Earth science data with just a few lines of code.
 - [EODAG](https://github.com/CS-SI/eodag) - Gives you an easy way to access products from more than 10 earth observation providers, with more than 50 different product types (Sentinel 1, Sentinel 2, Sentinel 3, Landsat, etc.) that can be searched and downloaded.
+- [leafmap](https://github.com/opengeos/leafmap) - A Python package for geospatial analysis and interactive mapping in a Jupyter environment.
 
 ### Environmental Satellites
 - [satpy](https://github.com/pytroll/satpy) - A python library for reading and manipulating meteorological remote sensing data and writing it to various image and data file formats.
