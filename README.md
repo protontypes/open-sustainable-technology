@@ -412,6 +412,8 @@ energy system designs and analysis of interactions between technologies.
 - [NemoMod.jl](https://github.com/sei-international/NemoMod.jl) - A high performance, open-source energy system optimization modeling tool developed in Julia.
 - [ReEDS](https://github.com/NREL/ReEDS-2.0) - A capacity planning and dispatch model for the North American electricity system.
 - [24/7 CFE](https://github.com/PyPSA/247-cfe) - This project explores the means, costs and impacts of 24/7 Carbon-Free Energy procurement in Europe.
+- [pypsa-usa](https://github.com/PyPSA/pypsa-usa) - An open-source power systems model of the bulk transmission systems in the United States.
+- [Dynaωo](https://github.com/dynawo/dynawo) - Aims at providing power system stakeholders with a transparent, flexible, interoperable and robust suite of simulation tools that could ease collaboration and cooperation in the power system community.
 
 ### Energy Distribution and Grids
 
@@ -595,6 +597,7 @@ energy system designs and analysis of interactions between technologies.
 - [Meirim](https://github.com/meirim-org/meirim) - A open-source smart city application that facilitates transparency in urban planning.
 - [Better Thermostat](https://github.com/KartoffelToby/better_thermostat) - This custom component for Home Assistant will add crucial features to your climate-controlling Thermostatic Radiator Valves to save you the work of creating automations to make it smart.
 - [A Carbon Tool](https://github.com/arup-group/a-carbon-tool) - An open source web application that enables users to estimate embodied carbon equivalent content from Building Information Models.
+- [Ground Heat Exchanger Design Tool](https://github.com/j-c-cook/ghedt) - A package with the novel capability of automatically selecting ground heat exchanger configurations based on polygonal land constraints.
 
 ### Mobility and Transportation
 
@@ -963,7 +966,7 @@ energy system designs and analysis of interactions between technologies.
 - [TrashMob](https://github.com/TrashMob-eco/TrashMob) - A website dedicated to organizing groups of people to clean up the world we live in. Users create cleanup events, publicize them, and recruit people to join up, as well as ask for assistance from communities and partners.
 - [Haztrak](https://github.com/USEPA/haztrak) - A web application that aims to illustrate how hazardous waste management software can interface with EPA's e-Manifest systems to track hazardous waste electronically from cradle-to-grave.
 - [OpenSpecy](https://github.com/wincowgerDEV/OpenSpecy-package) - Raman and (FT)IR spectral analysis tool for plastic particles and other environmental samples.
-
+- [waste_flow](https://github.com/xapple/waste_flow) - A python package for retrieving and analyzing data concerning the waste management of European countries.
 
 ## Biosphere
 
@@ -1029,6 +1032,7 @@ energy system designs and analysis of interactions between technologies.
 - [OpenSoundscape](https://github.com/kitzeslab/opensoundscape) - A free and open source Python utility library analyzing bioacoustic data.
 - [wildRtrax](https://github.com/ABbiodiversity/wildRtrax) - An R package for environmental sensor data management and analytics.
 - [SSDM](https://github.com/sylvainschmitt/SSDM) - A package to map species richness and endemism based on stacked species distribution models.
+- [rotl](https://github.com/ropensci/rotl) - An R package to interact with the Open Tree of Life data APIs.
 
 
 ### Conservation and Restoration
@@ -1153,6 +1157,7 @@ energy system designs and analysis of interactions between technologies.
 - [Mesogeos](https://github.com/Orion-AI-Lab/mesogeos) - A multi-purpose dataset for data-driven wildfire modeling in the Mediterranean.
 - [nasa-wildfires](https://github.com/datadesk/nasa-wildfires) - Download wildfire hotspots detected by NASA satellites and the Fire Information for Resource Management System (FIRMS).
 - [WindNinja](https://github.com/firelab/windninja) - Computes spatially-varying wind fields for wildland fire and other applications requiring high-resolution wind predictions in complex terrain.
+- [SimFire](https://github.com/mitrefireline/simfire) - An open-source wildfire simulator written in Python and meant to be used to train reinforcement learning agents.
 
 
 ### Marine Life and Fishery
@@ -1421,6 +1426,7 @@ energy system designs and analysis of interactions between technologies.
 - [EMC²](https://github.com/columncolab/EMC2) - An open source framework for atmospheric model and observational column comparison.
 - [Unidata Science Gateway](https://github.com/Unidata/science-gateway) - Provide the academic and research community an environment they can employ to access, analyze and visualize real-time and case study Earth system science data.
 - [SounderPy](https://github.com/kylejgillett/sounderpy) - A python package that helps you to access and plot vertical profile data for meteorological analysis.
+- [SHARPpy](https://github.com/sharppy/SHARPpy) - A collection of open source sounding and hodograph analysis routines, a sounding plotting package, and an interactive, cross-platform application for analyzing real-time soundings all written in Python.
 - [AC_tools](https://github.com/tsherwen/AC_tools) - Contains functions and scripts used for working with atmospheric model output and observational data.
 - [ACT](https://github.com/ARM-DOE/ACT) - The Atmospheric data Community Toolkit is an open source Python toolkit for working with atmospheric time-series datasets of varying dimensions.
 - [Freva](https://gitlab.dkrz.de/freva/evaluation_system) - A data search and analysis platform developed by the atmospheric science community for the atmospheric science community.
@@ -1953,6 +1959,7 @@ energy system designs and analysis of interactions between technologies.
 - [meteoland](https://github.com/emf-creaf/meteoland) - Functions to estimate weather variables at any position of a landscape.
 - [ausplotsR](https://github.com/ternaustralia/ausplotsR) - Directly access plot-based data on vegetation and soils across Australia, with simple function calls to extract the data and merge them into species occurrence matrices for analysis or to calculate things like basal area and fractional cover.
 - [PyLUSAT](https://github.com/chjch/pylusat) - Intends to provide users with tools that can be used to conduct land-use suitability analysis.
+- [earthlib](https://github.com/earth-chris/earthlib-legacy) - Contains several thousand unique spectral endmembers representing green vegetation, soil, non-photosynthetic vegetation, urban materials, and burned materials.
 
 
 ## Sustainable Development
