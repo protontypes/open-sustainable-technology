@@ -411,6 +411,7 @@ energy system designs and analysis of interactions between technologies.
 - [ASSUME](https://github.com/assume-framework/assume) - An open-source toolbox for agent-based simulations of European electricity markets, with a primary focus on the German market setup.
 - [NemoMod.jl](https://github.com/sei-international/NemoMod.jl) - A high performance, open-source energy system optimization modeling tool developed in Julia.
 - [ReEDS](https://github.com/NREL/ReEDS-2.0) - A capacity planning and dispatch model for the North American electricity system.
+- [24/7 CFE](https://github.com/PyPSA/247-cfe) - This project explores the means, costs and impacts of 24/7 Carbon-Free Energy procurement in Europe.
 
 ### Energy Distribution and Grids
 
