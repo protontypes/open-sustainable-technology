@@ -237,7 +237,6 @@ If you're looking for developer tutorials on topics such as renewable energy, cl
 
 - [biogas](https://github.com/sashahafner/biogas) - Tools for biogas research in R: process biogas data and predict biogas production.
 - [biosteam](https://github.com/BioSTEAMDevelopmentGroup/biosteam) - The Biorefinery Simulation and Techno-Economic Analysis Modules.
-- [Multiscale_Ulva](https://github.com/alexliberzonlab/Multiscale_Ulva) - A multi-reactor, algae farm, simulation base function that will be solved in time.
 - [BETYdb](https://github.com/PecanProject/bety) - Web-interface to the Biofuel Ecophysiological Traits and Yields Database.
 
 ## Energy Storage
@@ -245,7 +244,6 @@ If you're looking for developer tutorials on topics such as renewable energy, cl
 ### Battery
 
 - [bslib](https://github.com/FZJ-IEK3-VSA/bslib) - Database with battery parameters based on PerMod as well as functions in order to simulate battery storages. 
-- [foxBMS](https://github.com/foxBMS/foxbms) - A free, open and flexible development environment to design battery management systems. It is the first modular open source BMS development platform.
 - [impedance.py](https://github.com/ECSHackWeek/impedance.py) - A Python package for working with electro-chemical impedance data.
 - [PyBaMM](https://github.com/pybamm-team/PyBaMM) - Fast and flexible physics-based battery models in Python.
 - [liionpack](https://github.com/pybamm-team/liionpack) - A battery pack simulation tool that uses the PyBaMM framework.
@@ -528,7 +526,6 @@ energy system designs and analysis of interactions between technologies.
 - [scout](https://github.com/trynthink/scout) - A tool for estimating the future energy use, carbon emissions, and capital and operating cost impacts of energy efficiency and demand flexibility technologies in the U.S. residential and commercial building sectors.
 - [BOPTEST](https://github.com/ibpsa/project1-boptest) - The Building Optimization Testing (BOPTEST) Framework enables the assessment and benchmarking of control algorithms for building energy management.
 - [BOPTEST-Gym](https://github.com/ibpsa/project1-boptest-gym) - The OpenAI-Gym interface of the BOPTEST framework facilitates the assessment and benchmarking of RL algorithms for building energy management.
-- [hpxml](https://github.com/hpxmlwg/hpxml) - Home Performance XML is a data transfer standard for the home performance industry.
 - [HPXML to Home Energy Score Translator](https://github.com/NREL/hescore-hpxml) - This translator script takes an HPXML file or directory of files as an input and generates HEScore inputs from it.
 - [LoadProfileGenerator](https://github.com/FZJ-IEK3-VSA/LoadProfileGenerator) - A program for generating load curves for residential consumers. Agent-based and extremely detailed.
 - [The-building-data-genome-project](https://github.com/buds-lab/the-building-data-genome-project) - A collection of non-residential buildings for performance analysis and algorithm benchmarking.
@@ -629,7 +626,6 @@ energy system designs and analysis of interactions between technologies.
 - [OpenMobility](https://openmobility.eclipse.org/) - Driving the Evolution and Broad Adoption of Open Source Mobility Modeling and Simulation Technologies.
 - [NoiseModelling](https://github.com/Ifsttar/NoiseModelling) - A free and open source model to compute noise maps.
 - [NoiseCapture](https://github.com/Ifsttar/NoiseCapture) - Android App dedicated to the measurement of environmental noise.
-- [bikedata](https://github.com/ropensci/bikedata) - Aims to enable ready importing of historical trip data from all public bicycle hire systems which provide data. Will be expanded on an ongoing basis as more systems publish open data.
 - [CyclOSM](https://github.com/cyclosm/cyclosm-cartocss-style) - A CartoCSS map style designed with cycling in mind.
 - [Gym Electric Motor](https://github.com/upb-lea/gym-electric-motor) - An OpenAI Gym Environment for Electric Motors.
 - [BEAM](https://github.com/LBNL-UCB-STI/beam) - The Framework for Modeling Behavior, Energy, Autonomy, and Mobility in Transportation Systems.
@@ -694,7 +690,6 @@ energy system designs and analysis of interactions between technologies.
 - [CPU Energy Meter](https://github.com/sosy-lab/cpu-energy-meter) - A Linux tool that allows to monitor power consumption of Intel CPUs at fine time intervals.
 - [PowerAPI](https://github.com/powerapi-ng/powerapi) - A middleware toolkit for building software-defined power meters.
 - [GreenFrame](https://github.com/marmelab/greenframe-cli) - A tool to measure the carbon footprint of a user scenario on a given website application. GreenFrame is able to measure CPU, memory and network usage of Docker or Kubernetes containers. By measuring resource consumption of dockerized E2E tests, GreenFrame allows to compare the consumption of an app between its different versions.
-- [ecometer](https://gitlab.com/ecoconceptionweb/ecometer) - Loads websites, compute metrics (from network activity, loaded payloads and the web page), and uses them to assess the website's ecodesign maturity based on a list of best practices.
 - [patch-node](https://github.com/patch-technology/patch-node) - The road to global carbon-neutrality will be through programmatic compensation.
 - [co2.js](https://github.com/thegreenwebfoundation/co2.js) - A npm module for accessing the green web API, and estimating the carbon emissions from using digital services.
 - [nvidia-co2](https://github.com/kylemcdonald/nvidia-co2) - Adds gCO2eq emissions to nvidia-smi.
@@ -703,7 +698,6 @@ energy system designs and analysis of interactions between technologies.
 - [Cloud Carbon Footprint](https://github.com/cloud-carbon-footprint/cloud-carbon-footprint) - A tool to estimate energy use (kilowatt-hours) and carbon emissions (metric tons CO2e) from public cloud usage.
 - [pyJoules](https://github.com/powerapi-ng/pyJoules) - A software toolkit to measure the energy footprint of a host machine along the execution of a piece of Python code.
 - [Carbon free energy for Google Cloud regions](https://github.com/GoogleCloudPlatform/region-carbon-info) - Contains sustainability characteristics of Google Cloud regions in a machine readable format.
-- [Carbon-API-2.0](https://gitlab.com/wholegrain/carbon-api-2-0) - Estimating the carbon emissions per page on thousands of sites by looking at the amount of data that they transfer on load.
 - [FEEP](https://invent.kde.org/cschumac/feep) -  Improve the energy efficiency of free and open source software.
 - [LEAF](https://github.com/dos-group/leaf) - Simulator for modeling energy consumption in cloud, fog, and edge computing environments.
 - [ethereum-nft-activity](https://github.com/kylemcdonald/ethereum-nft-activity) - Estimate the total emissions for popular CryptoArt platforms.
@@ -741,7 +735,6 @@ energy system designs and analysis of interactions between technologies.
 - [Farmbot](https://github.com/FarmBot/Farmbot-Web-App) - Humanity's open-source CNC farming machine.
 - [MudPi](https://github.com/mudpi/mudpi-core) - A scalable smart garden system that allows you to maintain controls, monitor conditions, and sustainably manage resources of your garden.
 - [OBIA4RTM](https://github.com/lukasValentin/OBIA4RTM) - Aims for plant parameter retrieval - relevant in smart farming applications - by using radiative transfer models and object-based image analysis that directly addresses actual user needs and policy demands in a highly efficient, flexible and scalable way.
-- [Crop-Classification](https://github.com/bhavesh907/Crop-Classification) - Provides codes for crop classification using multi temporal satellite images.
 - [DSSAT Cropping System Model](https://github.com/DSSAT/dssat-csm-os) - Has been used for many applications ranging from on-farm and precision management to regional assessments of the impact of climate variability and climate change.
 - [MAgPIE](https://github.com/magpiemodel/magpie) - Model of Agricultural Production and its Impact on the Environment.
 - [OBI](https://github.com/AgroCares/Open-Bodem-Index-Calculator) - The Open-Bodem-Index-Calculator is a tool that evaluates the soil of agricultural fields based on four main criteria: chemical, physical, biological and management.
@@ -866,7 +859,6 @@ energy system designs and analysis of interactions between technologies.
 - [co2-data](https://github.com/owid/co2-data) - Data on CO2 and greenhouse gas emissions by Our World in Data.
 - [X-STILT](https://github.com/uataq/X-STILT) - An atmospheric transport model that deals with vertically integrated column CO2 and potentially other trace gases.
 - [stilt](https://github.com/uataq/stilt) - An open source Lagrangian particle dispersion model which is widely used to simulate the transport of pollution and greenhouse gases through the atmosphere.
-- [OPGEE](https://github.com/arbrandt/OPGEE) - Oil Production Greenhouse Gas Emissions Estimator.
 - [OpenGHG](https://github.com/openghg/openghg) - A cloud platform for greenhouse gas data analysis and collaboration.
 - [Open Carbon Watch](https://github.com/OpenCarbonWatch/Website) - We monitor greenhouse gases emission reports published by organizations, along with their legal obligations and their own commitments, and track them over time.
 - [Methane-detection-from-hyperspectral-imagery](https://github.com/satish1901/Methane-detection-from-hyperspectral-imagery) - Deep Learning based Remote Sensing Methods for Methane Detection in Airborne Hyperspectral Imagery.
@@ -1280,7 +1272,6 @@ energy system designs and analysis of interactions between technologies.
 - [LakePy](https://github.com/ESIPFed/LakePy) - Pythonic user-centered front-end to the Global Lake Level Database.
 - [rivr](https://github.com/mkoohafkan/rivr) - Designed as an educational tool for students and instructors of undergraduate and graduate courses in open channel hydraulics.
 - [eWaterCycle](https://github.com/eWaterCycle/ewatercycle) - Makes it easier to use hydrological models without having intimate knowledge about how to install and run the models.
-- [RHESSys](https://github.com/RHESSys/RHESSys) - The Regional Hydro-Ecologic Simulation System.
 - [Pastas](https://github.com/pastas/pastas) - An open-source Python framework for the analysis of groundwater time series.
 - [river-dl](https://github.com/USGS-R/river-dl) - Deep learning model for predicting environmental variables on river systems.
 - [VIC](https://github.com/UW-Hydro/VIC) - A macroscale hydrologic model that solves full water and energy balances.
@@ -1676,7 +1667,6 @@ energy system designs and analysis of interactions between technologies.
 ### Climate Downscaling
 - [ICAR](https://github.com/NCAR/icar) - A simplified atmospheric model designed primarily for climate downscaling, atmospheric sensitivity tests, and hopefully educational uses.
 - [downscaleR](https://github.com/SantanderMetGroup/downscaleR) - An R package for empirical-statistical downscaling focusing on daily data and covering the most popular approaches (bias correction, Model Output Statistics, Perfect Prognosis) and techniques (e.g. quantile mapping, regression, analogs, neural networks).
-- [DeepDownscaling](https://github.com/SantanderMetGroup/DeepDownscaling) - Deep learning approaches for statistical downscaling in climate.
 - [KrigR](https://github.com/ErikKusch/KrigR) - An R Package for downloading, preprocessing, and statistical downscaling of the European ERA5 dataset.
 - [scikit-downscale](https://github.com/pangeo-data/scikit-downscale) - Statistical downscaling and postprocessing models for climate and weather model simulations.
 - [TopoPyScale](https://github.com/ArcticSnow/TopoPyScale) - Perform topography-based downscaling of climate data to the hillslope scale.
@@ -1774,7 +1764,6 @@ energy system designs and analysis of interactions between technologies.
 - [Air-Trends-Report](https://github.com/USEPA/Air-Trends-Report) - Source code for EPA's annual air trends report on air quality, emissions and visibility trends.
 - [OpenAQ API Version 2](https://github.com/openaq/openaq-api-v2) - A web-accessible API that provides endpoints to query the real-time and historical air quality measurements on the platform.
 - [OpenAQ Data Ingest Pipeline](https://github.com/openaq/openaq-fetch) - A tool to collect data for OpenAQ platform.
-- [breethe-server](https://github.com/simplabs/breethe-server) - Breethe allows instant access to up to date air quality data for locations in Europe.
 - [SMOKE](https://github.com/CEMPD/SMOKE) - Create emissions inputs for multiple air quality modeling systems with unmatched speed and flexibility.
 - [inmap](https://github.com/spatialmodel/inmap) - A multi-scale emissions-to-health impact model for fine particulate matter (PM2.5) that mechanistically evaluates air quality and health benefits of perturbations to baseline emissions.
 - [Open Source EMEP MSC-W model](https://github.com/metno/emep-ctm) - Designed to calculate air concentrations and deposition fields for major acidifying and eutrophying pollutants, photo-oxidants and particulate matter.
