@@ -1641,7 +1641,6 @@ energy system designs and analysis of interactions between technologies.
 - [GLOCOFFS](https://github.com/WPringle/GLOCOFFS) - An ADCIRC-based global storm tide modeling system providing real-time forecasts of coastal flooding.
 - [ML4Floods](https://github.com/spaceml-org/ml4floods) - An ecosystem of data, models and code pipelines to tackle flooding with machine learning.
 - [CaMa](https://github.com/global-hydrodynamics/CaMa-Flood_v4) - Designed to simulate the hydrodynamics in continental-scale rivers.
-- [Cahaba](https://github.com/NOAA-OWP/inundation-mapping) - Flood inundation mapping and evaluation software configured to work with U.S. National Water Model.
 - [Global Flood Database Scripts & Data](https://github.com/cloudtostreet/MODIS_GlobalFloodDatabase) - Used to produce the Global Flood Database and assess changes in population exposed to floods.
 - [LISFLOOD](https://github.com/ec-jrc/lisflood-code) - A spatially distributed water resources model, developed by the Joint Research Centre of the European Commission since 1997.
 - [CanFlood](https://github.com/NRCan/CanFlood) - Flood Risk modelling toolbox for Canada.
@@ -1973,7 +1972,6 @@ energy system designs and analysis of interactions between technologies.
 - [Digital Earth Africa Notebooks](https://github.com/digitalearthafrica/deafrica-sandbox-notebooks) - Using Earth observations to address social, environmental and economic changes on the Africa continent.
 - [MeCCO](http://sciencepolicy.colorado.edu/icecaps/research/media_coverage/) - Open Database on the Media Coverage of Climate Change and Global Warming.
 - [Climate Action Plans](https://github.com/mysociety/caps) - A simple, open database of local government climate action plan documents and emissions data.
-- [earthdata](https://github.com/nsidc/earthaccess) - A Python library to search and access NASA datasets.
 - [AI for Earth Data Sets](https://github.com/microsoft/AIforEarthDataSets) - Notebooks and documentation for AI-for-Earth-managed datasets on Azure.
 - [wopr](https://github.com/wpgp/wopr) - An R package and Shiny application to provide API access to the WorldPop Open Population Repository.
 - [The POWER Project](https://power.larc.nasa.gov/) - Provides solar and meteorological data sets from NASA research for support of renewable energy, building energy efficiency and agricultural needs.
