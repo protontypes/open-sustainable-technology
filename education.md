@@ -101,6 +101,7 @@
 - [Ecological Forecasting](https://github.com/EcoForecast/EF_Activities) - Hands-on activities associated with the Ecological Forecasting book and graduate class.
 - [Terrestrial Carbon: modelling and monitoring](https://github.com/UCL-EO/geog0133) - The role of vegetation in the carbon cycle and the wider climate system.
 - [Ecological Forecasting & Dynamics Course](https://github.com/weecology/forecasting-course) - This is a course on how ecological systems change through time and how to forecast how they will change in the future.
+- [WSL Julia Workshop 2023](https://github.com/vboussange/WSLJuliaWorkshop2023) - Practical introduction to Julia for modelling and data analysis in biodiversity and earth sciences.
 
 
 ### Hydrosphere
