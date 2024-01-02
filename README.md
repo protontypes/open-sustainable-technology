@@ -1222,7 +1222,7 @@ energy system designs and analysis of interactions between technologies.
 - [HydPy](https://github.com/hydpy-dev/hydpy) - An interactive framework for developing and applying different types of hydrological models, originally developed at the Ruhr-University Bochum for specific research purposes.
 - [Xanthos](https://github.com/JGCRI/xanthos) - An open-source hydrologic model, written in Python, designed to quantify and analyze global water availability.
 - [nlmod](https://github.com/gwmod/nlmod) - Python package to build, run and visualize MODFLOW 6 groundwater models in the Netherlands.
-- [fwapg](https://github.com/smnorris/fwapg) - fwapg extends British Columbia's Freshwater Atlas with PostgreSQL/PostGIS.
+- [fwapg](https://github.com/smnorris/fwapg) - Extends British Columbia's Freshwater Atlas with PostgreSQL/PostGIS.
 
 
 ### Ocean Circulation Models
@@ -2023,13 +2023,11 @@ energy system designs and analysis of interactions between technologies.
 
 
 ## Contributors
-
 <a href="https://github.com/protontypes/open-sustainable-technology/graphs/contributors">
   <img width="70%" src="https://contrib.rocks/image?repo=protontypes/open-sustainable-technology" />
 </a>
 
 ## Artwork and License
-
 Animation created with [An Animated Map of the Earth](https://github.com/eleanorlutz/earth_atlas_of_space) by [Eleanor Lutz](https://eleanorlutz.com/)
 
 The artwork included in this repository are shared under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License.
