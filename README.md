@@ -1257,6 +1257,7 @@ energy system designs and analysis of interactions between technologies.
 - [Xanthos](https://github.com/JGCRI/xanthos) - An open-source hydrologic model, written in Python, designed to quantify and analyze global water availability.
 - [nlmod](https://github.com/gwmod/nlmod) - Python package to build, run and visualize MODFLOW 6 groundwater models in the Netherlands.
 
+
 ### Ocean Circulation Models
 - [MOM6](https://github.com/NOAA-GFDL/MOM6) - A numerical representation of the ocean fluid with applications from the process scale to the planetary circulation scale.
 - [MOM5](https://github.com/mom-ocean/MOM5) - A numerical ocean model based on the hydrostatic primitive equations.
@@ -1341,6 +1342,7 @@ energy system designs and analysis of interactions between technologies.
 - [AODN Portal](https://github.com/aodn/aodn-portal) - The gateway to Australian marine and climate science data.
 - [Sea-level monitor](https://github.com/openearth/sealevel) - Tools and applications used to monitor sea-level rise.
 - [Ocean Networks Canada](https://github.com/oceannetworkscanada/api-python-client) - Provides easy access to Ocean Networks Canada data in Python.
+- [StreamCat](https://github.com/USEPA/StreamCat) - Provides summaries of natural and anthropogenic landscape features for ~2.65 million streams, and their associated catchments, within the conterminous USA.
 
 ## Atmosphere
 ### Atmospheric Composition and Dynamics
