@@ -1256,6 +1256,7 @@ energy system designs and analysis of interactions between technologies.
 - [HydPy](https://github.com/hydpy-dev/hydpy) - An interactive framework for developing and applying different types of hydrological models, originally developed at the Ruhr-University Bochum for specific research purposes.
 - [Xanthos](https://github.com/JGCRI/xanthos) - An open-source hydrologic model, written in Python, designed to quantify and analyze global water availability.
 - [nlmod](https://github.com/gwmod/nlmod) - Python package to build, run and visualize MODFLOW 6 groundwater models in the Netherlands.
+- [Centerline-Width](https://github.com/cyschneck/centerline-width) - A Python package to find the centerline and width of rivers based on the latitude and longitude of the right and left bank.
 
 
 ### Ocean Circulation Models
