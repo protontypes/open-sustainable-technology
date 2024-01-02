@@ -1140,6 +1140,7 @@ energy system designs and analysis of interactions between technologies.
 - [worrms](https://github.com/ropensci/worrms) - A R client for the World Register of Marine Species.
 - [FIMS](https://github.com/NOAA-FIMS/FIMS) - A software system designed and architected to support next-generation fisheries stock assessment, ecosystem, and socioeconomic modeling.
 - [SSMSE](https://github.com/nmfs-fish-tools/SSMSE) - R package for performing Management Strategy Evaluation using Stock Synthesis.
+- [bcfishobs](https://github.com/smnorris/bcfishobs) - Known BC Fish Observations is documented as the most current and comprehensive information source on fish presence for the province.
   
 ### Terrestrial Animals
 - [auk](https://github.com/CornellLabofOrnithology/auk) - eBird Data Extraction and Processing in R.
