@@ -976,6 +976,7 @@ energy system designs and analysis of interactions between technologies.
 - [SSDM](https://github.com/sylvainschmitt/SSDM) - A package to map species richness and endemism based on stacked species distribution models.
 - [rotl](https://github.com/ropensci/rotl) - An R package to interact with the Open Tree of Life data APIs.
 - [letsR](https://github.com/macroecology/letsR) - Allow users to build presence-absence matrices, the primary analytical tool in macroecology, from species' geographical distributions and merge them with species' traits, conservation information and spatial environmental layers.
+- [spOccupancy](https://github.com/doserjef/spOccupancy) - fits single-species, multi-species, and integrated spatial occupancy models using Markov Chain Monte Carlo
 
 
 ### Conservation and Restoration
