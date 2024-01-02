@@ -975,6 +975,7 @@ energy system designs and analysis of interactions between technologies.
 - [wildRtrax](https://github.com/ABbiodiversity/wildRtrax) - An R package for environmental sensor data management and analytics.
 - [SSDM](https://github.com/sylvainschmitt/SSDM) - A package to map species richness and endemism based on stacked species distribution models.
 - [rotl](https://github.com/ropensci/rotl) - An R package to interact with the Open Tree of Life data APIs.
+- [ENMTools](https://github.com/danlwarren/ENMTools) - This package implements various tests, visualizations, and metrics for use with environmental niche models (ENMs) and species distribution models (SDMs).
 
 
 ### Conservation and Restoration
