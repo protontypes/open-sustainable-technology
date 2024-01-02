@@ -975,6 +975,7 @@ energy system designs and analysis of interactions between technologies.
 - [wildRtrax](https://github.com/ABbiodiversity/wildRtrax) - An R package for environmental sensor data management and analytics.
 - [SSDM](https://github.com/sylvainschmitt/SSDM) - A package to map species richness and endemism based on stacked species distribution models.
 - [rotl](https://github.com/ropensci/rotl) - An R package to interact with the Open Tree of Life data APIs.
+- [ade4](https://github.com/sdray/ade4) - Analysis of Ecological Data for Exploratory and Euclidean Methods in Environmental Sciences.
 
 
 ### Conservation and Restoration
