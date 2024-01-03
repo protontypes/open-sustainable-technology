@@ -1143,6 +1143,7 @@ energy system designs and analysis of interactions between technologies.
 - [worrms](https://github.com/ropensci/worrms) - A R client for the World Register of Marine Species.
 - [FIMS](https://github.com/NOAA-FIMS/FIMS) - A software system designed and architected to support next-generation fisheries stock assessment, ecosystem, and socioeconomic modeling.
 - [SSMSE](https://github.com/nmfs-fish-tools/SSMSE) - R package for performing Management Strategy Evaluation using Stock Synthesis.
+- [bcfishobs](https://github.com/smnorris/bcfishobs) - Known BC Fish Observations is documented as the most current and comprehensive information source on fish presence for the province.
 - [wastd](https://github.com/dbca-wa/wastd) - Turtle strandings in Western Australian, as reported to the Department of Biodiversity, Conservation and Attractions.
 - [CASAL2](https://github.com/NIWAFisheriesModelling/CASAL2) - Models can be used for a single population with a single anthropogenic event (in a fish population model this would be a single fishery), or for multiple species and populations, areas, and/or anthropogenic or exploitation methods, and including predator-prey interactions.
   
