@@ -735,7 +735,7 @@ energy system designs and analysis of interactions between technologies.
 - [AgML](https://github.com/Project-AgML/AgML) - Provides access to public agricultural datasets for common agricultural deep learning tasks, with standard benchmarks and pretrained models, as well the ability to generate synthetic data and annotations.
 - [Broccoli](https://github.com/flauschtrud/broccoli) - A free eco-friendly recipe app for building your recipe collection, distraction free cooking and seasonal ingredients.
 - [epicrop](https://codeberg.org/adamhsparks/epicrop) - Simulation modelling of crop diseases using a Susceptible-Exposed-Infectious-Removed (SEIR) model in R.
-- [rnassqs](https://github.com/ropensci/rnassqs) - Allows users to access the USDA’s National Agricultural Statistics Service Quick Stats data through their API.
+- [rnassqs](https://github.com/ropensci/rnassqs) - Allows users to access the USDA's National Agricultural Statistics Service Quick Stats data through their API.
 
 ## Emissions
 ### Carbon Intensity and Accounting 
