@@ -975,6 +975,10 @@ energy system designs and analysis of interactions between technologies.
 - [wildRtrax](https://github.com/ABbiodiversity/wildRtrax) - An R package for environmental sensor data management and analytics.
 - [SSDM](https://github.com/sylvainschmitt/SSDM) - A package to map species richness and endemism based on stacked species distribution models.
 - [rotl](https://github.com/ropensci/rotl) - An R package to interact with the Open Tree of Life data APIs.
+- [ENMTools](https://github.com/danlwarren/ENMTools) - This package implements various tests, visualizations, and metrics for use with environmental niche models (ENMs) and species distribution models (SDMs).
+- [ade4](https://github.com/sdray/ade4) - Analysis of Ecological Data for Exploratory and Euclidean Methods in Environmental Sciences.
+- [letsR](https://github.com/macroecology/letsR) - Allow users to build presence-absence matrices, the primary analytical tool in macroecology, from species' geographical distributions and merge them with species' traits, conservation information and spatial environmental layers.
+- [spOccupancy](https://github.com/doserjef/spOccupancy) - Fits single-species, multi-species, and integrated spatial occupancy models using Markov Chain Monte Carlo.
 
 
 ### Conservation and Restoration
@@ -1096,6 +1100,7 @@ energy system designs and analysis of interactions between technologies.
 - [nasa-wildfires](https://github.com/datadesk/nasa-wildfires) - Download wildfire hotspots detected by NASA satellites and the Fire Information for Resource Management System (FIRMS).
 - [WindNinja](https://github.com/firelab/windninja) - Computes spatially-varying wind fields for wildland fire and other applications requiring high-resolution wind predictions in complex terrain.
 - [SimFire](https://github.com/mitrefireline/simfire) - An open-source wildfire simulator written in Python and meant to be used to train reinforcement learning agents.
+- [FireHistory](https://github.com/dbca-wa/FireHistory) - The goal of FireHistory is to provide tools to help extract useful fire metrics from the Department of Biodiversity, Conservation and Attractions Fire History dataset data Western Australia link.
 
 
 ### Marine Life and Fishery
@@ -1140,8 +1145,10 @@ energy system designs and analysis of interactions between technologies.
 - [worrms](https://github.com/ropensci/worrms) - A R client for the World Register of Marine Species.
 - [FIMS](https://github.com/NOAA-FIMS/FIMS) - A software system designed and architected to support next-generation fisheries stock assessment, ecosystem, and socioeconomic modeling.
 - [SSMSE](https://github.com/nmfs-fish-tools/SSMSE) - R package for performing Management Strategy Evaluation using Stock Synthesis.
+- [bcfishobs](https://github.com/smnorris/bcfishobs) - Known BC Fish Observations is documented as the most current and comprehensive information source on fish presence for the province.
 - [wastd](https://github.com/dbca-wa/wastd) - Turtle strandings in Western Australian, as reported to the Department of Biodiversity, Conservation and Attractions.
 - [shadia](https://github.com/danStich/shadia) - An R package that was designed to run dam passage performance standard models for American shad and other herrings.
+- [CASAL2](https://github.com/NIWAFisheriesModelling/CASAL2) - Models can be used for a single population with a single anthropogenic event (in a fish population model this would be a single fishery), or for multiple species and populations, areas, and/or anthropogenic or exploitation methods, and including predator-prey interactions.
   
 ### Terrestrial Animals
 - [auk](https://github.com/CornellLabofOrnithology/auk) - eBird Data Extraction and Processing in R.
@@ -1814,6 +1821,7 @@ energy system designs and analysis of interactions between technologies.
 - [RAT](https://github.com/UW-SASWE/RAT) - Uses satellite remote sensing data to monitor water surface area and water level changes in artificial reservoirs.
 - [LDCast](https://github.com/MeteoSwiss/ldcast) - A precipitation nowcasting model based on a latent diffusion model.
 - [WaterTAP](https://github.com/watertap-org/watertap) - Create an open-source water treatment model library that is compatible with the IDAES Platform.
+- [MATILDA](https://github.com/cryotools/matilda) - Tool for modeling water resources in glacierized catchments.
 
 ### Soil and Land
 
@@ -2000,6 +2008,7 @@ energy system designs and analysis of interactions between technologies.
 - [earthaccess](https://github.com/nsidc/earthaccess) - Search, download or stream NASA Earth science data with just a few lines of code.
 - [EODAG](https://github.com/CS-SI/eodag) - Gives you an easy way to access products from more than 10 earth observation providers, with more than 50 different product types (Sentinel 1, Sentinel 2, Sentinel 3, Landsat, etc.) that can be searched and downloaded.
 - [leafmap](https://github.com/opengeos/leafmap) - A Python package for geospatial analysis and interactive mapping in a Jupyter environment.
+- [ecocomDP](https://github.com/EDIorg/ecocomDP) - A dataset design pattern for harmonizing ecological community surveys in a research question agnostic format from source datasets published across multiple repositories.
 
 ### Environmental Satellites
 - [satpy](https://github.com/pytroll/satpy) - A python library for reading and manipulating meteorological remote sensing data and writing it to various image and data file formats.
@@ -2022,6 +2031,7 @@ energy system designs and analysis of interactions between technologies.
 - [SlideRule Earth](https://github.com/ICESat2-SlideRule/sliderule) - Process ICESat2 datasets in the cloud through REST API calls to SlideRule web services.
 - [SpaceLiDAR](https://github.com/evetion/SpaceLiDAR.jl) - A Julia toolbox for ICESat, ICESat-2 and GEDI data to quickly search, download, and load filtered point data with relevant attributes from the .h5 granules of each data product.
 - [SNAP](https://github.com/senbox-org/snap-engine) - The common software platform for the three Sentinel Toolboxes which are developed by the European Space Agency (ESA) for the scientific exploitation of the Sentinel-1, Sentinel-2 and Sentinel-3 missions.
+- [EOReader](https://github.com/sertit/eoreader) - A remote-sensing opensource python library reading optical and SAR constellations, loading and stacking bands, clouds, DEM and spectral indices in a sensor-agnostic way.
 
 ### Taxonomy and Ontology
 - [Digital Twins Definition Language ontology for Energy Grid](https://github.com/Azure/opendigitaltwins-energygrid) - A global standard for energy grid assets management, power system operations modeling and physical energy commodity market.
