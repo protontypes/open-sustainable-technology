@@ -766,6 +766,7 @@ energy system designs and analysis of interactions between technologies.
 - [ETS-Watch](https://github.com/OSUKED/ETS-Watch) - Provides a Python client for retrieving the latest data on the EU Emissions Trading System market and its participants.
 - [World Carbon Pricing Database](https://github.com/g-dolphin/WorldCarbonPricingDatabase) - This dataset contains information on carbon pricing mechanisms (carbon taxes or cap-and-trade) introduced around the world since 1990.
 - [elmada](https://github.com/DrafProject/elmada) - Dynamic electricity carbon emission factors and prices for Europe.
+- [eu_cbm_hat](https://gitlab.com/bioeconomy/eu_cbm/eu_cbm_hat) - Enables the assessment of forest CO2 emissions and removals under scenarios of forest management, natural disturbances and forest-related land use changes.
 
 ### Carbon Capture
 - [ClimateMARGO.jl](https://github.com/ClimateMARGO/ClimateMARGO.jl) - A Julia implementation of MARGO, an idealized framework for optimization of climate change control strategies.
@@ -853,6 +854,7 @@ energy system designs and analysis of interactions between technologies.
 - [lca_algebraic](https://github.com/oie-mines-paristech/lca_algebraic) - This library is a small layer above brightway2, designed for the definition of parametric inventories with fast computation of LCA impacts, suitable for monte-carlo analyis.
 - [pyLCAIO](https://github.com/maximeagez/pylcaio) - An object class to hybridize lifecycle assessment and environmentally extended input-output (EEIO) databases.
 - [UN/CEFACT CRM](https://github.com/uncefact/project-crm) - Critical raw materials traceability & transparency project.
+- [Doughnut Biotool](https://github.com/NFrancart/doughnut-biotool) - A tool to calculate a building project's impacts on biodiversity over the entire life cycle.
 
 ### Circular Economy and Waste
 - [ONEARMY](https://github.com/ONEARMY/precious-plastic) - A series of tools for the Precious Plastic community to collaborate around the world and tackle plastic waste.
@@ -1015,7 +1017,6 @@ energy system designs and analysis of interactions between technologies.
 - [sgsR](https://github.com/tgoodbody/sgsR) - A structurally guided sampling toolbox for LiDAR-based forest inventories.
 - [r3PG](https://github.com/trotsiuk/r3PG) - An R package for forest growth simulation using the 3-PG process-based model.
 - [Our Forests Tomorrow](https://github.com/developmentseed/our-forests-tomorrow) - Visualizing European forests future.
-- [eu_cbm_hat](https://gitlab.com/bioeconomy/eu_cbm/eu_cbm_hat) - Enables the assessment of forest CO2 emissions and removals under scenarios of forest management, natural disturbances and forest-related land use changes.
 - [A high-resolution canopy height model of the Earth](https://github.com/langnico/global-canopy-height-model) - The model estimates canopy top height for every Sentinel-2 image pixel and was trained using sparse GEDI LIDAR data as a reference.
 - [medfate](https://github.com/emf-creaf/medfate) - Functions to simulate Mediterranean forest functioning and dynamics using cohort-based description of vegetation.
 - [OpenTrees.org](https://github.com/stevage/OpenTrees) - A data visualisation of millions of publicly maintained trees around the world.
