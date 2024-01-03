@@ -1967,6 +1967,7 @@ energy system designs and analysis of interactions between technologies.
 - [EODAG](https://github.com/CS-SI/eodag) - Gives you an easy way to access products from more than 10 earth observation providers, with more than 50 different product types (Sentinel 1, Sentinel 2, Sentinel 3, Landsat, etc.) that can be searched and downloaded.
 - [leafmap](https://github.com/opengeos/leafmap) - A Python package for geospatial analysis and interactive mapping in a Jupyter environment.
 - [ecocomDP](https://github.com/EDIorg/ecocomDP) - A dataset design pattern for harmonizing ecological community surveys in a research question agnostic format from source datasets published across multiple repositories.
+- [FedData](https://github.com/ropensci/FedData) - R package implementing functions to automate downloading geospatial data available from several federated data sources in hydology, soil, climatology, cropland or landcover. 
 
 ### Environmental Satellites
 - [satpy](https://github.com/pytroll/satpy) - A python library for reading and manipulating meteorological remote sensing data and writing it to various image and data file formats.
