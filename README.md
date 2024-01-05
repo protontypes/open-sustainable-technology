@@ -1597,6 +1597,7 @@ energy system designs and analysis of interactions between technologies.
 - [xclim](https://github.com/Ouranosinc/xclim) - A library of derived climate variables, i.e. climate indicators, based on xarray.
 - [climpact](https://github.com/ARCCSS-extremes/climpact) - Calculate the ET-SCI climate extremes indices.
 - [CoPro](https://github.com/JannisHoch/copro) - A machine-learning tool for conflict risk projections based on climate, environmental, and societal drivers.
+- [python-cmethods](https://github.com/btschwertfeger/python-cmethods) - Serves as a collection of different scale- and distribution-based bias correction techniques for climatic research.
 
 ### Climate Downscaling
 - [ICAR](https://github.com/NCAR/icar) - A simplified atmospheric model designed primarily for climate downscaling, atmospheric sensitivity tests, and hopefully educational uses.
