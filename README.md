@@ -181,7 +181,6 @@ If you're looking for developer tutorials on topics such as renewable energy, cl
 - [ORBIT](https://github.com/WISDEM/ORBIT) - Offshore Renewable Balance-of-system Installation Tool computes capital costs and activity times for offshore wind plant balance-of-system (everything besides the turbine) costs.
 - [WindTurbineClassification](https://github.com/nmstreethran/WindTurbineClassification) - Specification of 'normal' wind turbine operating behaviour for rapid anomaly detection.
 - [ANYstructure](https://github.com/audunarn/ANYstructure) - Offshore Steel structure calculation tool with automatic optimization and report generation.
-- [windrose](https://github.com/python-windrose/windrose) - A graphic tool used by meteorologists to give a succinct view of how wind speed and direction are typically distributed at a particular location.
 - [SHARPy](https://github.com/ImperialCollegeLondon/sharpy) - Simulation of High Aspect Ratio aeroplanes and wind turbines in Python.
 - [WindSE](https://github.com/NREL/WindSE) - A Python package that uses a FEniCS backend to perform wind farm simulations and optimization.
 - [WEIS](https://github.com/WISDEM/WEIS) - WEIS is a framework that combines multiple tools to enable design optimization of floating offshore wind turbines.
@@ -1385,6 +1384,7 @@ energy system designs and analysis of interactions between technologies.
 - [APCEMM](https://github.com/MIT-LAE/APCEMM) - Aims to assess the chemical and microphysical perturbations introduced by a conventional aircraft, equipped with gas turbine engines.
 
 ### Meteorological Observation and Forecast
+- [windrose](https://github.com/python-windrose/windrose) - A graphic tool used by meteorologists to give a succinct view of how wind speed and direction are typically distributed at a particular location.
 - [METplus](https://github.com/dtcenter/METplus) - A verification framework that spans a wide range of temporal (warn-on-forecast to climate) and spatial (storm to global) scales.
 - [WRF-ARW](https://github.com/wrf-model/WRF) - The official repository for the Weather Research and Forecasting model.
 - [wrf-python](https://github.com/NCAR/wrf-python) - A collection of diagnostic and interpolation routines for use with output from the Weather Research and Forecasting Model.
