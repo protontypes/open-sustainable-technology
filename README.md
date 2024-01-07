@@ -154,6 +154,7 @@ If you're looking for developer tutorials on topics such as renewable energy, cl
 - [pvOps](https://github.com/sandialabs/pvOps) - Contains a series of functions to facilitate fusion of text-based data with time series production data collected at photovoltaic sites.
 - [CSP.guru](https://github.com/repolicy/csp-guru) - An open-source database of concentrating solar power plants of the world for energy modellers and analysts.
 - [Quartz Solar Forecast](https://github.com/openclimatefix/Open-Source-Quartz-Solar-Forecast) - The aim of the project is to build an open source PV forecast that is free and easy to use.
+- [OpenMI](https://github.com/OpenCleanEnergy/OpenMI) - Open source grid-tied photovoltaic micro-inverter.
 
 ### Wind Energy
 - [IEA-15-240-RWT](https://github.com/IEAWindTask37/IEA-15-240-RWT) - A 15 MW reference wind turbine repository developed in conjunction with IEA Wind.
