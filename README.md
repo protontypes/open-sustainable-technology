@@ -1442,6 +1442,7 @@ energy system designs and analysis of interactions between technologies.
 - [pyOSOAA](https://github.com/fnemina/pyOSOAA) - A python interface for the Ocean Successive Orders with Atmosphere radiative transfer.
 - [ECRAD](https://github.com/ecmwf-ifs/ecrad) - A radiation scheme suitable for use in atmospheric weather and climate models.
 - [RT1](https://github.com/TUW-GEO/rt1) - A first order radiative transfer model for soil- and vegetation related parameter retrievals from radar-data.
+- [SASKTRAN](https://github.com/usask-arg/sasktran) - A radiative transfer tool originally designed for the OSIRIS mission that contains databases, interfaces to standard climatologies and species optical properties.
 
 ## Climate Change
 ### Earth and Climate Modeling 
