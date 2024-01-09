@@ -13,7 +13,7 @@ If you just want to give a hint about a missing project, send an email at [tobia
 
 ## What criteria must a project meet to be listed?
 * The project must comply as closely as possible with the [guideline](#guideline).
-* The projects must be activly be used or developed at the time of listing.
+* The projects must be actively be used or developed at the time of listing.
 * You need to show that others beyond the project's main developers are using the project. Good indicators are issues or pull requests from external users.
 * Your project should be structured and documented in such a way that it can be reused and extended by others.
 * If possible, the Git Link of the projects should be used for listing since this allows meta data analysis of the project. Thus, the project can become part of the data analysis and recurring report. 
@@ -28,3 +28,7 @@ If you just want to give a hint about a missing project, send an email at [tobia
 * Create a pull request and wait for the reaction of the maintainer. 
 
 Further details on how do `Pull Requests` can be found in the official GitHub [documentation](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).    
+
+## Join the Community
+We welcome developers, scientists, artists, writers, journalists, entrepreneurs, and citizens alike. Join our regular community calls to learn more about how you can make a difference through open source action on climate and sustainability.
+<iframe src="https://calendar.google.com/calendar/embed?src=b83a2338493ab89247a53be7c8a6576f5209be3bfb7e5be4e854871833e1e28b%40group.calendar.google.com&ctz=Europe%2FBerlin" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
