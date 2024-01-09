@@ -327,6 +327,7 @@ If you're looking for developer tutorials on topics such as renewable energy, cl
 - [RESKit](https://github.com/FZJ-IEK3-VSA/RESKit) - A toolkit to help generate renewable energy generation time series for energy systems analysis.
 - [PowSyBl](https://github.com/powsybl/powsybl-core) - An open source framework written in Java, that makes it easy to write complex software for power systems simulations and analysis.
 - [PowSyBl Open Load Flow](https://github.com/powsybl/powsybl-open-loadflow) - An open source implementation of the load flow API that can be found in PowSyBl Core. It supports AC Newtow-Raphson and linear DC calculation methods.
+- [PyPowSyBl](https://github.com/powsybl/pypowsybl) - A Python library for modelling and simulating power grids by providing bindings to the powsybl Java framework.
 - [matpower](https://github.com/MATPOWER/matpower) - A package of M-files for solving power flow, continuation power flow and optimal power flow problems using MATLAB or Octave.
 - [energyRt](https://github.com/energyRt/energyRt) - Making Energy Systems Modeling as simple as a linear regression in R.
 - [MVS](https://github.com/rl-institut/multi-vector-simulator) - The multi-vector simulator allows the evaluation of local sector-coupled energy systems that include the energy carriers electricity, heat and/or gas.
