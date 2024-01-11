@@ -884,6 +884,7 @@ energy system designs and analysis of interactions between technologies.
 - [OpenSpecy](https://github.com/wincowgerDEV/OpenSpecy-package) - Raman and (FT)IR spectral analysis tool for plastic particles and other environmental samples.
 - [waste_flow](https://github.com/xapple/waste_flow) - A python package for retrieving and analyzing data concerning the waste management of European countries.
 - [The Clothing Loop](https://github.com/the-clothing-loop/website) - An initiative that offers an easy way for people to swap clothes with others in their own neighborhood.
+- [prommis](https://github.com/prommis/prommis) - Process Optimization and Modeling for Minerals Sustainability.
 
 ## Biosphere
 
