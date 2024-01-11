@@ -446,6 +446,7 @@ energy system designs and analysis of interactions between technologies.
 - [EmonLib](https://github.com/openenergymonitor/EmonLib) - Arduino Energy Monitoring Library.
 - [Emoncms](https://github.com/emoncms/emoncms) - A powerful open source web application for processing, logging and visualizing energy, temperature and other environmental data.
 - [FlexMeasures](https://github.com/FlexMeasures/flexmeasures) - A platform for building energy flexibility services with forecasting and scheduling, written in Python & offering a USEF-conform API.
+- [Green Monitoring Stack](https://github.com/cisco-open/green-monitoring) - An open-source stack that monitors the network, data center (compute / storage) infrastructure, third-party devices and external sources to understand the energy consumption and its relation to traffic and bandwidth, the cost and the carbon footprint at various levels of granularity.
 - [STM32 Energy Monitoring](https://github.com/openenergymonitor/STM32) - The following resources are a work in progress guide to using the STM32 platform for energy monitoring, being written as part of development work into the next generation of OpenEnergyMonitor hardware.
 - [EHMASS](https://github.com/davidusb-geek/emhass) - Energy Management for Home Assistant, is a Python module designed to optimize your home energy interfacing with Home Assistant.
 - [Open Energy View](https://github.com/JPHutchins/open-energy-view) - The goal of this project is to analyze and present resource consumption data to users empowering them to conserve and save money.
