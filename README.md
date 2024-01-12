@@ -1329,6 +1329,7 @@ energy system designs and analysis of interactions between technologies.
 - [Sea-level monitor](https://github.com/openearth/sealevel) - Tools and applications used to monitor sea-level rise.
 - [Ocean Networks Canada](https://github.com/oceannetworkscanada/api-python-client) - Provides easy access to Ocean Networks Canada data in Python.
 - [StreamCat](https://github.com/USEPA/StreamCat) - Provides summaries of natural and anthropogenic landscape features for ~2.65 million streams, and their associated catchments, within the conterminous USA.
+- [cmocean](https://github.com/matplotlib/cmocean) - Colormap setup for standardizing commonly-plotting oceanographic variables.
 
 ## Atmosphere
 ### Atmospheric Composition and Dynamics
