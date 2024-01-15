@@ -66,6 +66,7 @@
 - [E-TRAINEE](https://github.com/3dgeo-heidelberg/etrainee) - Course on Time Series Analysis in Remote Sensing for Understanding Human-Environment Interactions
 - [GALUP](https://github.com/SERVIR-WA/GALUP) - Build local capacity in the region of Ghana regarding remote sensing and GIS, and transfer the land use planning framework for continued planning.
 - [OCO2-OCO3](https://github.com/sagarlimbu0/OCO2-OCO3) - For public accessibility and data visualization, a beginner-level tutorial is available for users interested in exploring the OCO2 and OCO3 data.
+- [Using NASA Satellite Data for Real-Time Environmental Monitoring](https://github.com/JeremyDForsythe/icecream-tutorials) - Using NASA's ECOSTRESS Satellite Data for Real-Time Environmental Monitoring.
 
 
 ## Earth Systems 
