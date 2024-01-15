@@ -386,7 +386,7 @@ energy system designs and analysis of interactions between technologies.
 - [MUSE_OS](https://github.com/EnergySystemsModellingLab/MUSE_OS) - A open source agent-based modelling environment that can be used to simulate change in an energy system over time.
 - [TulipaEnergyModel.jl](https://github.com/TulipaEnergy/TulipaEnergyModel.jl) - Provides an optimization model for the electricity market and its coupling with other energy sectors (e.g., hydrogen, heat, natural gas, etc.) with the main objective to determine the optimal investment and operation decisions for different types of assets.
 - [Energy Transition Engine](https://github.com/quintel/etengine) - Calculation engine for the Energy Transition Model.
-- [pommesdispatch](https://github.com/pommes-public/pommesdispatch) - A bottom-up fundamental power market model for the German electricity sector
+- [pommesdispatch](https://github.com/pommes-public/pommesdispatch) - A bottom-up fundamental power market model for the German electricity sector.
 
 
 ### Energy Distribution and Grids
