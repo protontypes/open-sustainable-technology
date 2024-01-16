@@ -34,6 +34,7 @@
 
 ## Climate and Earth Science 
 
+- [Xarray Tutorial](https://github.com/xarray-contrib/xarray-tutorial) - An open source project and Python package that makes working with labelled multi-dimensional arrays simple, efficient, and fun.
 - [ClimateModeling_courseware](https://github.com/brian-rose/ClimateModeling_courseware) - A collection of interactive lecture notes and assignments in Jupyter notebook format.
 - [Earth and Environmental Data Science Book](https://github.com/earth-env-data-science/earth-env-data-science-book) - An Introduction to Earth and Environmental Data Science.
 - [Free Earth Data Science Courses & Textbooks](https://github.com/earthlab/earthlab.github.io) - A site dedicated to tutorials, course and other learning materials and resources developed by the Earth Lab team.
