@@ -960,7 +960,6 @@ energy system designs and analysis of interactions between technologies.
 - [letsR](https://github.com/macroecology/letsR) - Allow users to build presence-absence matrices, the primary analytical tool in macroecology, from species' geographical distributions and merge them with species' traits, conservation information and spatial environmental layers.
 - [spOccupancy](https://github.com/doserjef/spOccupancy) - Fits single-species, multi-species, and integrated spatial occupancy models using Markov Chain Monte Carlo.
 - [TrenchR](https://github.com/trenchproject/TrenchR) - Facilitates microclimate modeling to translate weather station data into the environmental conditions experienced by organisms and biophysical modeling to predict organismal body temperatures given the environmental conditions.
-
 - [NicheMapR](https://github.com/mrke/NicheMapR) - Modelling the thermodynamic constraints on life.
 
 ### Conservation and Restoration
@@ -1058,6 +1057,7 @@ energy system designs and analysis of interactions between technologies.
 - [austraits](https://github.com/traitecoevo/austraits) - R package for accessing the AusTraits Plant database, an open-source, harmonized database of Australian plant trait data.
 - [vegperiod](https://github.com/rnuske/vegperiod/) - Provides methods to calculate climatological or thermal growing seasons solely based on daily mean temperatures and the day of the year.
 - [pyrealm](https://github.com/ImperialCollegeLondon/pyrealm) - Providing an integrated toolbox for modelling plant productivity, growth and demography using Python.
+- [rsofun](https://github.com/geco-bern/rsofun) - R framework for site-scale simulations of ecosystem processes.
 
 ### Biomass
 - [fgeo.biomass](https://github.com/forestgeo/fgeo.biomass) - Calculate biomass with allometric equations from the allodb package and ForestGEO data.
