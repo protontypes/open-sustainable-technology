@@ -69,9 +69,7 @@
 - [OCO2-OCO3](https://github.com/sagarlimbu0/OCO2-OCO3) - For public accessibility and data visualization, a beginner-level tutorial is available for users interested in exploring the OCO2 and OCO3 data.
 - [Using NASA Satellite Data for Real-Time Environmental Monitoring](https://github.com/JeremyDForsythe/icecream-tutorials) - Using NASA's ECOSTRESS Satellite Data for Real-Time Environmental Monitoring.
 
-
 ## Earth Systems 
-
 ### Atmosphere 
 
 - [Copernicus Atmosphere Monitoring Service Data Tutorials](https://ecmwf-projects.github.io/copernicus-training-cams/) - Copernicus Atmosphere Monitoring Service Data Tutorials.
@@ -89,8 +87,6 @@
 - [2020_ICESat-2_Hackweek_Tutorials](https://github.com/ICESAT-2HackWeek/2020_ICESat-2_Hackweek_Tutorials) - Combined repository for the final tutorial material presented at the 2020 ICESat-2 Cryosphere Hackweek. 
 - [NSIDC-Data-Tutorials](https://github.com/nsidc/NSIDC-Data-Tutorials) - Tutorials and code resources provided by the NASA National Snow and Ice Data Center Distributed Active Archive Center.
 - [ECCO-v4-Python-Tutorial](https://github.com/ECCO-GROUP/ECCO-v4-Python-Tutorial) - Contains a several tutorials for using the ECCO Central Production Version 4 ocean and sea-ice state estimate.
-
-
 
 ### Biosphere 
 - [mebioda](https://github.com/naturalis/mebioda) - This repository contains materials for the MSc course Methods in Biodiversity Analysis.
@@ -115,13 +111,13 @@
 - [Intro to Physical Oceanography](https://github.com/rabernat/intro_to_physical_oceanography) - Course materials for Introduction to Physical Oceanography.
 
 
-
 ## Natural Resources 
 - [Africa Soil and Agronomy Data Cube](https://gitlab.com/openlandmap/africa-soil-and-agronomy-data-cube) - Accessing and using soil and agronomy data for Africa.
 - [Water Productivity and Water Accounting using WaPOR](https://github.com/wateraccounting/WAPOROCW) - Jupyter notebooks for Water Accounting and Water Productivity using WaPOR course.
 - [stats_for_soil_survey](https://ncss-tech.github.io/stats_for_soil_survey/) - Lecture material on "Statistics for Pedologists".
 - [r4wrds](https://github.com/r4wrds/r4wrds) - Water Resources Data Science R course website.
 - [Decision Analysis and Forecasting for Agricultural Development](https://github.com/CWWhitney/Decision_Analysis_Course) - Become a critical thinker and lead the process in generating useful forecasts for decision makers in agricultural development.
+- [Digital Soil Mapping](https://padasch.github.io/tutorial_digital_soil_mapping/) - This online book covers the tutorial on digital soil mapping from the course Applied Geodata Science 2 at the University of Bern.
 
 ## Sustainable Development Goals
 - [SDG Academy](https://sdgacademy.org/courses/) - Education platform of the Sustainable Development Solutions Network (SDSN), a global initiative for the United Nations.
