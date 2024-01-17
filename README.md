@@ -1156,6 +1156,7 @@ energy system designs and analysis of interactions between technologies.
 - [IceNet](https://github.com/tom-andersson/icenet-paper) - Code for Seasonal Arctic sea ice forecasting with probabilistic deep learning.
 - [COSIMA](https://github.com/COSIMA/cosima-recipes) - Ocean and sea-ice model analysis tools and examples.
 - [ACCESS-OM2](https://github.com/COSIMA/access-om2) - Global ocean-sea ice coupled model configurations.
+- [Polaris](https://github.com/E3SM-Project/polaris) - Provides infrastructure, test cases and analysis tasks related to the ocean, land-ice and sea-ice components of the Exascale Energy Earth System Model.
 
 ### Glacier and Ice Sheets
 - [PyTrx](https://github.com/PennyHow/PyTrx) - Its primary purpose is to obtain velocities, surface areas, and distances from oblique, optical imagery of glacial environments.
