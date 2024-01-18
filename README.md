@@ -1311,6 +1311,7 @@ energy system designs and analysis of interactions between technologies.
 - [REEF3D](https://github.com/REEF3D/REEF3D) - An efficiently parallelized hydrodynamics framework with a focus on coastal, marine and hydraulic engineering flows.
 - [pygetm](https://github.com/BoldingBruggeman/getm-rewrite) - A Python rewrite of the General Estuarine Transport Model.
 - [PyGnome](https://github.com/NOAA-ORR-ERD/PyGnome) - It is designed to support oil and other hazardous material spills in the coastal environment.
+- [Coastwards](https://github.com/maureentsakiris/coastwards) - A global citizen science project to help scientists study the risks of sea-level rise.
 
 
 ### Ocean and Hydrology Data Access
