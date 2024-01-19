@@ -1038,6 +1038,8 @@ energy system designs and analysis of interactions between technologies.
 - [ForestGapR](https://github.com/carlos-alberto-silva/ForestGapR) - An R Package for Airborne Laser Scanning-derived Tropical Forest Gaps Analysis.
 - [CBM-CFS3](https://github.com/cat-cfs/libcbm_py) - The Carbon Budget Model of the Canadian Forest Sector is an aspatial, stand- and landscape-level modelling framework used for international reporting of the forest carbon balance of Canada's managed forest.
 - [FORTLS](https://github.com/Molina-Valero/FORTLS) - Detect and segment individual tree from remotely sensed data.
+- [dplR](https://github.com/AndyBunn/dplR) - A package for R that performs tree-ring analyses such as detrending, chronology building, and crossdating.
+- [LandR](https://github.com/PredictiveEcology/LandR/) - These models simulate forest vegetation dynamics based on LANDIS-II, and incorporate fire and insect disturbance, as well as other important ecological processes.
 
 ### Plants and Vegetation
 - [OpenPlantPathology](https://github.com/openplantpathology/OpenPlantPathology) - Open Plant Pathology is an initiative that supports and promotes the spread of all open, transparent and reproducible practices in the field of plant pathology.
@@ -1086,6 +1088,9 @@ energy system designs and analysis of interactions between technologies.
 - [WindNinja](https://github.com/firelab/windninja) - Computes spatially-varying wind fields for wildland fire and other applications requiring high-resolution wind predictions in complex terrain.
 - [SimFire](https://github.com/mitrefireline/simfire) - An open-source wildfire simulator written in Python and meant to be used to train reinforcement learning agents.
 - [FireHistory](https://github.com/dbca-wa/FireHistory) - The goal of FireHistory is to provide tools to help extract useful fire metrics from the Department of Biodiversity, Conservation and Attractions Fire History dataset data Western Australia link.
+- [ForeFire](https://github.com/forefireAPI/firefront) - An open-source code for wildland fire spread models.
+- [ELMFIRE](https://github.com/lautenberger/elmfire) - An operational wildland fire spread model.
+- [Cell2Fire](https://github.com/cell2fire/Cell2Fire) - A cell-based forest and wildland landscape fire spread simulator.
 
 
 ### Marine Life and Fishery
