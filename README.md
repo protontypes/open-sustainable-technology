@@ -961,6 +961,7 @@ energy system designs and analysis of interactions between technologies.
 - [spOccupancy](https://github.com/doserjef/spOccupancy) - Fits single-species, multi-species, and integrated spatial occupancy models using Markov Chain Monte Carlo.
 - [TrenchR](https://github.com/trenchproject/TrenchR) - Facilitates microclimate modeling to translate weather station data into the environmental conditions experienced by organisms and biophysical modeling to predict organismal body temperatures given the environmental conditions.
 - [NicheMapR](https://github.com/mrke/NicheMapR) - Modelling the thermodynamic constraints on life.
+- [D-EcoImpact](https://github.com/Deltares/D-EcoImpact) - A Python based kernel to perform spatialenvironmental impact assessment.
 
 ### Conservation and Restoration
 - [forestatrisk](https://github.com/ghislainv/forestatrisk) - A Python package to model and forecast the risk of deforestation.
