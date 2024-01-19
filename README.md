@@ -1086,6 +1086,7 @@ energy system designs and analysis of interactions between technologies.
 - [SimFire](https://github.com/mitrefireline/simfire) - An open-source wildfire simulator written in Python and meant to be used to train reinforcement learning agents.
 - [FireHistory](https://github.com/dbca-wa/FireHistory) - The goal of FireHistory is to provide tools to help extract useful fire metrics from the Department of Biodiversity, Conservation and Attractions Fire History dataset data Western Australia link.
 - [ELMFIRE](https://github.com/lautenberger/elmfire) - An operational wildland fire spread model.
+- [Cell2Fire](https://github.com/cell2fire/Cell2Fire) - A cell-based forest and wildland landscape fire spread simulator.
 
 
 ### Marine Life and Fishery
