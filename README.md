@@ -1721,7 +1721,6 @@ energy system designs and analysis of interactions between technologies.
 - [Intensity duration frequency analysis](https://github.com/MarkusPic/intensity_duration_frequency_analysis) - Reads the measurement data of the rainfall and calculates the distribution of the rainfall as a function of the return period and the duration for duration steps up to 12 hours.
 - [FwDET](https://github.com/csdms-contrib/fwdet) - Calculates floodwater depths using a digital elevation model and a flood extent polygon.
 - [RICorDE](https://github.com/NRCan/RICorDE) - Calculates floodwater depths using a digital elevation model and a flood extent polygon.
-- [FloodDownscaler](https://github.com/cefect/FloodDownscaler2) - Tools for enhancing the resolution of (downscaling/disaggregating) flood hazard grids.
 
 
 ### Integrated Assessment and Climate Policy 
