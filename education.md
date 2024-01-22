@@ -13,6 +13,7 @@
 - [Photovoltaics Education Website](https://www.pveducation.org/) - A detailed deep dive to get started with photovolatic technology.
 - [Predicting the Wind: Data Science in Wind Resource Assessment](https://github.com/flrs/predicting_the_wind) - Contains material for a hands-on tutorial and additional content about data science in wind resource assessment.
 - [PVSC48-Python-Tutorial](https://pvsc-python-tutorials.github.io/PVSC48-Python-Tutorial) - Computing tutorial with focus on PV computing packages, Python, data wrangling with Pandas, and data viz.
+- [Electrify](https://github.com/toddmedema/electrify) - A web / mobile Tycoon-style game teaching about electricity production and consumption.
 
 ## Energy Systems 
 
