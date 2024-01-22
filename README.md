@@ -1514,6 +1514,7 @@ energy system designs and analysis of interactions between technologies.
 - [pycontrails](https://github.com/contrailcirrus/pycontrails) - Python library for modeling aviation climate impacts.
 - [PCMDI Metrics Package](https://github.com/PCMDI/pcmdi_metrics) - Open-source Python package for Systematic Evaluation of Climate and Earth System Models.
 - [swell](https://github.com/GEOS-ESM/swell) - Used to generate experiments using the JEDI data assimilation system and NASA's Goddard Earth Observing System (GEOS) numerical weather forecast mode.
+- [TSMP](https://github.com/HPSCTerrSys/TSMP) - An open source scale-consistent, highly modular, massively parallel regional Earth system model.
 
 ### Climate Data Standards 
 - [cf-conventions](https://github.com/cf-convention/cf-conventions) - The conventions for CF (Climate and Forecast) metadata are designed to promote the processing and sharing of files created with the NetCDF API.
