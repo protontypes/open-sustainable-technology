@@ -1406,6 +1406,7 @@ energy system designs and analysis of interactions between technologies.
 - [MONET](https://github.com/noaa-oar-arl/MONET) - An open-source project and Python package that aims to create a common platform for atmospheric composition data analysis for weather and air quality models.
 - [APCEMM](https://github.com/MIT-LAE/APCEMM) - Aims to assess the chemical and microphysical perturbations introduced by a conventional aircraft, equipped with gas turbine engines.
 - [EUREC4A Intake catalogue](https://github.com/eurec4a/eurec4a-intake) - Access to data from the EUREC4A field campaign, which aims to improve the understanding of the interplay between clouds, convection and circulation and their role in climate change.
+- [dwarf-p-cloudsc](https://github.com/ecmwf-ifs/dwarf-p-cloudsc) - Standalone mini-app of the ECMWF cloud microphysics parameterization.
 
 ### Meteorological Observation and Forecast
 - [windrose](https://github.com/python-windrose/windrose) - A graphic tool used by meteorologists to give a succinct view of how wind speed and direction are typically distributed at a particular location.
