@@ -20,7 +20,7 @@ If you just want to give a hint about a missing project, send an email at [tobia
 * Larger parts of the project are published under an [open source license](https://choosealicense.com/).
 
 ## Contribute to the list  
-* Create a fork of this project.
+* Create a fork of this project.          
 * Add your project in the following format:              
  ``- [Project Name](Project URL) - A sentence that describes your project and what makes it different from others.``     
 * Describe in at least one sentence why you think the project meets the guidelines.    
