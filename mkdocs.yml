@@ -10,7 +10,6 @@ nav:
   - Spreadsheet: spreadsheet.md
   - Education: education.md
   - Contribute: contributing.md
-  - Report: https://report.opensustain.tech/
   - Blog:
       2023: 
         - "Connect Developers with Impactful Sustainability Projects" : blog/launch_climate_triage.md
@@ -23,6 +22,7 @@ nav:
         - "Open Principles for a Sustainable Technology Transition": blog/open_principles_for_a_sustainable_technology_transition.md
       2020:
         - "Gathering Open Sustainable Technology": blog/gathering_open_sustainable_technology.md
+  - Report: https://report.opensustain.tech/
 
 
 theme:
