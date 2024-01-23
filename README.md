@@ -1037,6 +1037,7 @@ energy system designs and analysis of interactions between technologies.
 - [FORTLS](https://github.com/Molina-Valero/FORTLS) - Detect and segment individual tree from remotely sensed data.
 - [dplR](https://github.com/AndyBunn/dplR) - A package for R that performs tree-ring analyses such as detrending, chronology building, and crossdating.
 - [LandR](https://github.com/PredictiveEcology/LandR/) - These models simulate forest vegetation dynamics based on LANDIS-II, and incorporate fire and insect disturbance, as well as other important ecological processes.
+- [Mangrove Atlas](https://github.com/Vizzuality/mangrove-atlas) - An online platform that provides the remote sensing data and tools for monitoring mangroves necessary for this.
 
 ### Plants and Vegetation
 - [OpenPlantPathology](https://github.com/openplantpathology/OpenPlantPathology) - Open Plant Pathology is an initiative that supports and promotes the spread of all open, transparent and reproducible practices in the field of plant pathology.
