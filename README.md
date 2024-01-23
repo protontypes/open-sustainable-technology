@@ -484,6 +484,7 @@ energy system designs and analysis of interactions between technologies.
 - [EnergyData.Info](https://energydata.info/) - An open data platform from the World Bank Group providing access to datasets and data analytics that are relevant to the energy sector.
 - [EMILE](https://github.com/cityssm/EMILE) - An application to aggregate energy consumption data across several municipal assets and report usage to monitor and manage emissions.
 - [feo-client](https://github.com/transition-zero/feo-client) - Crafted for energy systems modellers seeking access to data for nodes, assets, technologies, as well as the data supporting models and scenarios published by TransitionZero.
+- [Open Data Access Tools](https://github.com/openEDI/open-data-access-tools) - Aims to improve and automate access to high-value energy datasets across the U.S. Department of Energy’s programs, offices, and national laboratories, and help researchers and industry to accelerate analysis and advance innovation.
 
 ## Consumption
 ### Buildings and Heating 
