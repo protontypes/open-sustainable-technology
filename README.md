@@ -678,6 +678,7 @@ energy system designs and analysis of interactions between technologies.
 - [Web Sustainability Guidelines](https://github.com/w3c/sustyweb) - The draft specification for our Web Sustainability Guidelines and any supplementary documentation, including our introduction to Web Sustainability.
 - [GEOPM](https://github.com/geopm/geopm) - Serves as a framework for investigating energy and power optimizations geared towards heterogeneous high performance computing platforms.
 - [EcoSonar](https://github.com/Accenture/EcoSonar) - Enabling development teams to consider the environmental impact of digital technology during development and to promote knowledge of best eco-design and accessibility practices.
+- [Carbon Tools](https://github.com/dvelasquez/carbon-tools) - A set of CO2 footprint tools to measure the impact of the code we ship.
 
 ### Agriculture and Nutrition
 - [Farmbot](https://github.com/FarmBot/Farmbot-Web-App) - Humanity's open-source CNC farming machine.
