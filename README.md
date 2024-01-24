@@ -987,7 +987,7 @@ energy system designs and analysis of interactions between technologies.
 - [ADRIA.jl](https://github.com/open-AIMS/ADRIA.jl) -  A multi-criteria decision support platform for informing reef restoration and adaptation interventions.
 - [lterdatasampler](https://github.com/lter/lterdatasampler) - Provide the scientific community, policy makers, and society with the knowledge and predictive understanding necessary to conserve, protect, and manage the nation's ecosystems, their biodiversity, and the services they provide.
 - [Half Earth](https://github.com/Vizzuality/half-earth-v3) - Provides an interactive summary of progress toward Half-Earth goal, offered as a tool to help contextualise global datasets of biodiversity, human encroachment, and protection.
-- [track2KBA](https://github.com/BirdLifeInternational/track2kba) - This R package is comprised of functions that facilitate the identification of areas of importance for biodiversity, such as Key Biodiversity Areas (KBAs), based on individual tracking data
+- [track2KBA](https://github.com/BirdLifeInternational/track2kba) - This R package is comprised of functions that facilitate the identification of areas of importance for biodiversity, such as Key Biodiversity Areas (KBAs), based on individual tracking data.
 
 ### Forest Observation and Management
 - [ECOSTRESS](https://ecostress.jpl.nasa.gov/) - The images acquired by ECOSTRESS are the most detailed temperature images of the surface ever acquired from space and can be used to measure the temperature of an individual farmers field and plants.
