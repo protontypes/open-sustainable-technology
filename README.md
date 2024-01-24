@@ -962,6 +962,7 @@ energy system designs and analysis of interactions between technologies.
 - [TrenchR](https://github.com/trenchproject/TrenchR) - Facilitates microclimate modeling to translate weather station data into the environmental conditions experienced by organisms and biophysical modeling to predict organismal body temperatures given the environmental conditions.
 - [NicheMapR](https://github.com/mrke/NicheMapR) - Modelling the thermodynamic constraints on life.
 - [D-EcoImpact](https://github.com/Deltares/D-EcoImpact) - A Python based kernel to perform spatialenvironmental impact assessment.
+- [DigiVol](https://github.com/AtlasOfLivingAustralia/volunteer-portal) - Harness the power of online volunteers to digitise biodiversity data that is locked up in biodiversity collections, field notebooks and survey sheets.
 
 ### Conservation and Restoration
 - [forestatrisk](https://github.com/ghislainv/forestatrisk) - A Python package to model and forecast the risk of deforestation.
