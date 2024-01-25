@@ -1097,6 +1097,7 @@ energy system designs and analysis of interactions between technologies.
 - [ForeFire](https://github.com/forefireAPI/firefront) - An open-source code for wildland fire spread models.
 - [ELMFIRE](https://github.com/lautenberger/elmfire) - An operational wildland fire spread model.
 - [Cell2Fire](https://github.com/cell2fire/Cell2Fire) - A cell-based forest and wildland landscape fire spread simulator.
+- [FireAlert](https://github.com/Plant-for-the-Planet-org/FireAlert) - Alerts you when heat anomalies are detected by NASA’s FIRMS in your forest.
 
 
 ### Marine Life and Fishery
