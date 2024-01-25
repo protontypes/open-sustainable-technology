@@ -1069,6 +1069,7 @@ energy system designs and analysis of interactions between technologies.
 - [vegperiod](https://github.com/rnuske/vegperiod/) - Provides methods to calculate climatological or thermal growing seasons solely based on daily mean temperatures and the day of the year.
 - [pyrealm](https://github.com/ImperialCollegeLondon/pyrealm) - Providing an integrated toolbox for modelling plant productivity, growth and demography using Python.
 - [rsofun](https://github.com/geco-bern/rsofun) - R framework for site-scale simulations of ecosystem processes.
+- [BioCro](https://github.com/biocro/biocro) - A model that predicts plant growth over time given crop-specific parameters and environmental data as input.
 
 ### Biomass
 - [fgeo.biomass](https://github.com/forestgeo/fgeo.biomass) - Calculate biomass with allometric equations from the allodb package and ForestGEO data.
