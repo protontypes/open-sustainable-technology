@@ -2041,6 +2041,7 @@ energy system designs and analysis of interactions between technologies.
 - [SpaceLiDAR](https://github.com/evetion/SpaceLiDAR.jl) - A Julia toolbox for ICESat, ICESat-2 and GEDI data to quickly search, download, and load filtered point data with relevant attributes from the .h5 granules of each data product.
 - [SNAP](https://github.com/senbox-org/snap-engine) - The common software platform for the three Sentinel Toolboxes which are developed by the European Space Agency (ESA) for the scientific exploitation of the Sentinel-1, Sentinel-2 and Sentinel-3 missions.
 - [EOReader](https://github.com/sertit/eoreader) - A remote-sensing opensource python library reading optical and SAR constellations, loading and stacking bands, clouds, DEM and spectral indices in a sensor-agnostic way.
+- [LandsatTS](https://github.com/logan-berner/LandsatTS) - An R package to facilitate retrieval, cleaning, cross-calibration, and phenological modeling of Landsat time-series data.
 
 ### Taxonomy and Ontology
 - [Digital Twins Definition Language ontology for Energy Grid](https://github.com/Azure/opendigitaltwins-energygrid) - A global standard for energy grid assets management, power system operations modeling and physical energy commodity market.
