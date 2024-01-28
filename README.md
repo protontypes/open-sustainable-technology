@@ -2058,6 +2058,7 @@ energy system designs and analysis of interactions between technologies.
 - [Climate categories](https://github.com/pik-primap/climate_categories) - Commonly used codes, categories, terminologies, and nomenclatures used in climate policy analysis in a nice Python package.
 - [BattINFO](https://github.com/BIG-MAP/BattINFO) - Consists of a list of entities representing concepts used in batteries and electrochemistry.
 - [Plant-Pollinator Interactions Vocabulary](https://github.com/rebipp/ppi) - Plant-Pollinator Interactions is a standardized vocabulary maintained by the Brazilian Network on Plant-Pollinator Interactions.
+- [Plant Trait Ontology](https://github.com/Planteome/plant-trait-ontology) - A controlled vocabulary of describe phenotypic traits in plants.
 
 
 ### Curated Lists
