@@ -194,6 +194,7 @@
 - [stochLAB](https://github.com/HiDef-Aerial-Surveying/stochLAB) - A tool to run collision risk models for seabirds on offshore wind farms.
 - [Energy Research and Forecasting](https://github.com/erf-model/ERF) - Designed to provide a flexible computational framework for the exploration and investigation of different physics parameterizations and numerical strategies, and to characterize the flow field that impacts the ability of wind turbines to extract wind energy.
 - [FLOWFarm.jl](https://github.com/byuflowlab/FLOWFarm.jl) - Wind farm simulation tool for gradient-based optimization.
+- [foxes](https://github.com/FraunhoferIWES/foxes) - A modular wind farm simulation and wake modelling toolbox which is based on engineering wake models.
 
 ### Hydro Energy
 - [WecOptTool](https://github.com/sandialabs/WecOptTool) - Allows users to perform wave energy converter device design optimization studies with constrained optimal control.
