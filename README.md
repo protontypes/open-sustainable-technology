@@ -624,6 +624,7 @@ energy system designs and analysis of interactions between technologies.
 - [SpiceEV](https://github.com/rl-institut/spice_ev) - Simulation Program for Individual Charging Events of Electric Vehicles.
 - [EV Fleet Simulator](https://gitlab.com/eputs/ev-fleet-sim) - Predict the energy usage of a fleet of electric vehicles.
 - [motulator](https://github.com/aalto-electric-drives/motulator) - Simulation models for an induction motor, a synchronous reluctance motor, and a permanent-magnet synchronous motor.
+- [ALTRIOS](https://github.com/NREL/altrios) - Fully integrated, open-source software tool to evaluate strategies for deploying advanced locomotive technologies and associated infrastructure for cost-effective decarbonization.
 
 
 ### Production and Industry
