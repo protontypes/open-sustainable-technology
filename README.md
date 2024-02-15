@@ -1536,6 +1536,7 @@ energy system designs and analysis of interactions between technologies.
 - [swell](https://github.com/GEOS-ESM/swell) - Used to generate experiments using the JEDI data assimilation system and NASA's Goddard Earth Observing System (GEOS) numerical weather forecast mode.
 - [TSMP](https://github.com/HPSCTerrSys/TSMP) - An open source scale-consistent, highly modular, massively parallel regional Earth system model.
 - [helios](https://github.com/JGCRI/helios) - An R package to process heating and cooling degrees for the Global Change Analysis Model (GCAM) from various sources such as WRF and CMIP.
+- [Dinosaur](https://github.com/google-research/dinosaur) - A spectral dynamical core for global atmospheric modeling written in JAX.
 
 ### Climate Data Standards 
 - [cf-conventions](https://github.com/cf-convention/cf-conventions) - The conventions for CF (Climate and Forecast) metadata are designed to promote the processing and sharing of files created with the NetCDF API.
