@@ -58,6 +58,7 @@
 - [ARSET Fundamentals of Machine Learning for Earth Science](https://github.com/NASAARSET/ARSET_ML_Fundamentals) - This training will provide attendees an overview of machine learning in regards to Earth Science, and how to apply these algorithms and techniques to remote sensing data in a meaningful way.
 - [Applied Environmental Statistics](https://github.com/mdietze/EE509) - Applied Environmental Statistics course of the Boston University.
 - [climate-emulator-tutorial](https://github.com/blutjens/climate-emulator-tutorial) - A tutorial for getting started with machine learning for climate modeling.
+- [Utilizing Open Science Techniques for Exploring Greenhouse Gas Data](https://github.com/US-GHG-Center/ams-2024-workshop) - An Interactive Workshop on the U.S. Greenhouse Gas Center and VEDA Tools for use in Earth Science Research
 
 ## Earth Observation 
 - [Radiant MLHub Tutorials](https://github.com/radiantearth/mlhub-tutorials) - Tutorials to access Radiant MLHub Training Datasets.
@@ -69,6 +70,7 @@
 - [GALUP](https://github.com/SERVIR-WA/GALUP) - Build local capacity in the region of Ghana regarding remote sensing and GIS, and transfer the land use planning framework for continued planning.
 - [OCO2-OCO3](https://github.com/sagarlimbu0/OCO2-OCO3) - For public accessibility and data visualization, a beginner-level tutorial is available for users interested in exploring the OCO2 and OCO3 data.
 - [Using NASA Satellite Data for Real-Time Environmental Monitoring](https://github.com/JeremyDForsythe/icecream-tutorials) - Using NASA's ECOSTRESS Satellite Data for Real-Time Environmental Monitoring.
+
 
 ## Earth Systems 
 ### Atmosphere 
