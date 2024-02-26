@@ -121,6 +121,7 @@
 - [r4wrds](https://github.com/r4wrds/r4wrds) - Water Resources Data Science R course website.
 - [Decision Analysis and Forecasting for Agricultural Development](https://github.com/CWWhitney/Decision_Analysis_Course) - Become a critical thinker and lead the process in generating useful forecasts for decision makers in agricultural development.
 - [Digital Soil Mapping](https://padasch.github.io/tutorial_digital_soil_mapping/) - This online book covers the tutorial on digital soil mapping from the course Applied Geodata Science 2 at the University of Bern.
+- [python-for-hydrology](https://github.com/DOI-USGS/python-for-hydrology) - Focusing on general python for data analysis in hydrologic contexts and the python interface into MODFLOW for groundwater modeling.
 
 ## Sustainable Development Goals
 - [SDG Academy](https://sdgacademy.org/courses/) - Education platform of the Sustainable Development Solutions Network (SDSN), a global initiative for the United Nations.
