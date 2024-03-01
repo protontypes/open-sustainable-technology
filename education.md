@@ -59,6 +59,7 @@
 - [Applied Environmental Statistics](https://github.com/mdietze/EE509) - Applied Environmental Statistics course of the Boston University.
 - [climate-emulator-tutorial](https://github.com/blutjens/climate-emulator-tutorial) - A tutorial for getting started with machine learning for climate modeling.
 - [Utilizing Open Science Techniques for Exploring Greenhouse Gas Data](https://us-ghg-center.github.io/ams-2024-workshop/) - An Interactive Workshop on the U.S. Greenhouse Gas Center and VEDA Tools for use in Earth Science Research
+- [PyPRECIS](https://github.com/MetOffice/PyPRECIS) - A learning tool to faciliate processing of regional climate model output.
 
 ## Earth Observation 
 - [Radiant MLHub Tutorials](https://github.com/radiantearth/mlhub-tutorials) - Tutorials to access Radiant MLHub Training Datasets.
