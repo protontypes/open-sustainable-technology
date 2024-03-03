@@ -767,6 +767,7 @@ energy system designs and analysis of interactions between technologies.
 - [Electricity Maps](https://github.com/tmrowco/electricitymap-contrib) - A real-time visualization of the CO2 emissions from electricity consumption.
 - [Open Grid Emissions Initiative](https://github.com/singularity-energy/open-grid-emissions) - Seeks to fill a critical need for high-quality, publicly-accessible, hourly grid emissions data that can be used for GHG accounting, policymaking, academic research, and energy attribute certificate markets.
 - [gridemissions](https://github.com/jdechalendar/gridemissions) - Displays the hourly carbon footprint of the US electricity system.
+- [pyELQ](https://github.com/sede-open/pyELQ) - Detect, localize, and quantify methane emissions from concentration and wind measurements.
 
 ### Carbon Offsets and Trading 
 - [Carbon Dioxide Removal Database](https://github.com/carbonplan/cdr-database) - Open science reports on carbon removal projects and technologies.
