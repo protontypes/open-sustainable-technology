@@ -1987,6 +1987,7 @@ energy system designs and analysis of interactions between technologies.
 - [ClimateTriage](https://github.com/protontypes/climate-triage) - Discover a meaningful way to contribute to open source projects focused on climate technology and sustainability.
 - [Open Sustainable Technology](https://github.com/protontypes/open-sustainable-technology) - A directory and analysis of the open source ecosystem in the areas of climate change, energy, biodiversity and natural resources.
 - [Digital Earth Australia Notebooks](https://github.com/GeoscienceAustralia/dea-notebooks) - Hosts Jupyter Notebooks, Python scripts and workflows for analysing Digital Earth Australia (DEA) satellite data and derived products.
+- [ONEARMY](https://github.com/ONEARMY/community-platform) - A platform to build useful communities that aim to tackle social and environmenta problems.
 
 ### Data Catalogs and Interfaces
 - [Global Fishing Watch](https://globalfishingwatch.org/) - We use cutting-edge technology to visualise, track and share data about global fishing activity in near real-time and for free.
