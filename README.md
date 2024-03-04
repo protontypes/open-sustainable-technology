@@ -684,6 +684,7 @@ energy system designs and analysis of interactions between technologies.
 - [EcoSonar](https://github.com/Accenture/EcoSonar) - Enabling development teams to consider the environmental impact of digital technology during development and to promote knowledge of best eco-design and accessibility practices.
 - [Carbon Tools](https://github.com/dvelasquez/carbon-tools) - A set of CO2 footprint tools to measure the impact of the code we ship.
 - [CNCF Green Reviews WG](https://github.com/cncf-tags/green-reviews-tooling) - Project Repository for the WG Green Reviews which is part of the CNCF TAG Environmental Sustainability.
+- [HBERT](https://github.com/HawkinsbrownArch/HBERT) - A open source Revit plug in that measure the embodied carbons of materials applied within a Revit model.
 
 ### Agriculture and Nutrition
 - [Farmbot](https://github.com/FarmBot/Farmbot-Web-App) - Humanity's open-source CNC farming machine.
@@ -868,6 +869,7 @@ energy system designs and analysis of interactions between technologies.
 - [pyLCAIO](https://github.com/maximeagez/pylcaio) - An object class to hybridize lifecycle assessment and environmentally extended input-output (EEIO) databases.
 - [UN/CEFACT CRM](https://github.com/uncefact/project-crm) - Critical raw materials traceability & transparency project.
 - [Doughnut Biotool](https://github.com/NFrancart/doughnut-biotool) - A tool to calculate a building project's impacts on biodiversity over the entire life cycle.
+- [saleos](https://github.com/Bonface-Osoro/saleos) - Sustainability Analytics for Low Earth Orbit Satellites.
 
 ### Circular Economy and Waste
 - [ONEARMY](https://github.com/ONEARMY/precious-plastic) - A series of tools for the Precious Plastic community to collaborate around the world and tackle plastic waste.
@@ -1413,6 +1415,7 @@ energy system designs and analysis of interactions between technologies.
 - [GasDispersion.jl](https://github.com/aefarrell/GasDispersion.jl) - A set of tools for atmospheric dispersion modeling of gaseous releases, such as might occur during an emergency at a chemical plant or more routinely from a stack.
 - [CloudDrift](https://github.com/Cloud-Drift/clouddrift) - Accelerates the use of Lagrangian data for atmospheric, oceanic, and climate sciences.
 - [IPART](https://github.com/ihesp/IPART) - A Python package for automated Atmospheric River (AR) detection, axis finding and AR tracking from gridded Integrated Vapor Transport data.
+- [WAM2layers](https://github.com/WAM2layers/WAM2layers) - Used to determine where precipitation originally evaporated (backtracking), or where evaporated moisture eventually ends up (forward tracking).
 
 ### Atmospheric Chemistry and Aerosol
 - [GEOS-Chem](https://github.com/geoschem/geos-chem) - Advance understanding of human and natural influences on the environment through a comprehensive, state-of-the-science, readily accessible global model of atmospheric composition.
@@ -1477,6 +1480,7 @@ energy system designs and analysis of interactions between technologies.
 - [IEM](https://github.com/akrherz/iem) - A website that provides weather data and forecasts for Iowa and the world.
 - [IMPROVER](https://github.com/metoppv/improver) - A library of algorithms for meteorological post-processing and verification.
 - [OpenCastKit](https://github.com/HFAiLab/OpenCastKit) - Open-source solutions of global data-driven high-resolution weather forecasting.
+- [MSC AniMet](https://github.com/ECCC-MSC/msc-animet) - A simple tool enabling users to interact with MSC Open Data weather data and create custom weather animations for any area in the world.
 
 ### Radiative Transfer
 - [lowtran](https://github.com/space-physics/lowtran) - Atmospheric absorption extinction, scatter and irradiance model in Python and Matlab.
@@ -1987,6 +1991,7 @@ energy system designs and analysis of interactions between technologies.
 - [ClimateTriage](https://github.com/protontypes/climate-triage) - Discover a meaningful way to contribute to open source projects focused on climate technology and sustainability.
 - [Open Sustainable Technology](https://github.com/protontypes/open-sustainable-technology) - A directory and analysis of the open source ecosystem in the areas of climate change, energy, biodiversity and natural resources.
 - [Digital Earth Australia Notebooks](https://github.com/GeoscienceAustralia/dea-notebooks) - Hosts Jupyter Notebooks, Python scripts and workflows for analysing Digital Earth Australia (DEA) satellite data and derived products.
+- [ONEARMY](https://github.com/ONEARMY/community-platform) - A platform to build useful communities that aim to tackle social and environmenta problems.
 
 ### Data Catalogs and Interfaces
 - [Global Fishing Watch](https://globalfishingwatch.org/) - We use cutting-edge technology to visualise, track and share data about global fishing activity in near real-time and for free.
@@ -2040,6 +2045,9 @@ energy system designs and analysis of interactions between technologies.
 - [pydap](https://github.com/pydap/pydap) - An implementation of the Opendap/DODS protocol, written from scratch in pure Python, that allows researchers to access NASA Earth science data from a variety of programs.
 - [GCIS](https://github.com/USGCRP/gcis) - As a centralized catalog of all materials and data used for Global Change Information System products and climate assessments.
 - [ECHO](https://github.com/edgi-govdata-archiving/ECHO-Cross-Program) - Contains Jupyter notebooks for processing the EPA's Environmenal Compliance History Online (ECHO) data from multiple EPA program in emissions, violations, inspections, and enforcement for the Clean Air Act, Clean Water Act, and Resouce Conservation and Recovery Act.
+- [msc_pygeoapi](https://github.com/ECCC-MSC/msc-pygeoapi) - The Meteorological Service of Canada Python API provides up-to-date information on past, present and future weather conditions, climate, water and environmental information over Canada and the world.
+
+
 
 ### Environmental Satellites
 - [satpy](https://github.com/pytroll/satpy) - A python library for reading and manipulating meteorological remote sensing data and writing it to various image and data file formats.
