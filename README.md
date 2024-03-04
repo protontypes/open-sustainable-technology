@@ -2039,6 +2039,7 @@ energy system designs and analysis of interactions between technologies.
 - [FedData](https://github.com/ropensci/FedData) - R package implementing functions to automate downloading geospatial data available from several federated data sources in hydology, soil, climatology, cropland or landcover.
 - [pydap](https://github.com/pydap/pydap) - An implementation of the Opendap/DODS protocol, written from scratch in pure Python, that allows researchers to access NASA Earth science data from a variety of programs.
 - [GCIS](https://github.com/USGCRP/gcis) - As a centralized catalog of all materials and data used for Global Change Information System products and climate assessments.
+- [ECHO](https://github.com/edgi-govdata-archiving/ECHO-Cross-Program) - Contains Jupyter notebooks for processing the EPA's Environmenal Compliance History Online (ECHO) data from multiple EPA program in emissions, violations, inspections, and enforcement for the Clean Air Act, Clean Water Act, and Resouce Conservation and Recovery Act.
 
 ### Environmental Satellites
 - [satpy](https://github.com/pytroll/satpy) - A python library for reading and manipulating meteorological remote sensing data and writing it to various image and data file formats.
