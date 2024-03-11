@@ -841,6 +841,7 @@ energy system designs and analysis of interactions between technologies.
 - [STARCOP](https://github.com/spaceml-org/STARCOP) - Semantic Segmentation of Methane Plumes with Hyperspectral Machine Learning models.
 - [Clean Air Markets API Portal](https://github.com/USEPA/cam-api-portal) - A suite of API's that EPA's Clean Air Markets Division provides to access the data collected to run programs designed to reduce air pollution from power plants.
 - [goFlux](https://github.com/Qepanna/goFlux) -  A user-friendly way to calculate greenhouse gas fluxes in soil yourself, regardless of user experience.
+- [Klimatkollen](https://github.com/Klimatbyran/klimatkollen) - A web application that provides a template for displaying emissions within municipalities, along with a machine learning data pipeline under development, which will find, extract, and list emissions from companies.
 
 ## Industrial Ecology
 ### Life Cycle Assessment
@@ -1606,7 +1607,6 @@ energy system designs and analysis of interactions between technologies.
 - [OGD@MeteoSwiss](https://github.com/MeteoSwiss/publication-opendata) - Open Data products released by the Federal Office of Meteorology and Climatology MeteoSwiss.
 - [ESGF PyClient](https://github.com/ESGF/esgf-pyclient) -  A Python package designed for interacting with the Earth System Grid Federation system.
 - [ecmwf-opendata](https://github.com/ecmwf/ecmwf-opendata) - A package to simplify the download of ECMWF open data.
-- [Klimatkollen](https://github.com/Klimatbyran/klimatkollen) - A web application that provides a template for displaying emissions within municipalities, along with a machine learning data pipeline under development, which will find, extract, and list emissions from companies.
 
 
 ### Climate Data Processing and Analysis
