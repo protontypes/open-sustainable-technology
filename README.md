@@ -2050,7 +2050,7 @@ energy system designs and analysis of interactions between technologies.
 - [GCIS](https://github.com/USGCRP/gcis) - As a centralized catalog of all materials and data used for Global Change Information System products and climate assessments.
 - [ECHO](https://github.com/edgi-govdata-archiving/ECHO-Cross-Program) - Contains Jupyter notebooks for processing the EPA's Environmenal Compliance History Online (ECHO) data from multiple EPA program in emissions, violations, inspections, and enforcement for the Clean Air Act, Clean Water Act, and Resouce Conservation and Recovery Act.
 - [msc_pygeoapi](https://github.com/ECCC-MSC/msc-pygeoapi) - The Meteorological Service of Canada Python API provides up-to-date information on past, present and future weather conditions, climate, water and environmental information over Canada and the world.
-
+- [Clay Foundation Model](https://github.com/Clay-foundation/model) - Clay is a foundational model of Earth using a vision transformer architecture adapted to understand geospatial and temporal relations on Earth Observation data.
 
 
 ### Environmental Satellites
