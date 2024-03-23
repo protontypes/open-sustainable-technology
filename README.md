@@ -70,7 +70,7 @@
 - [Climate Change](#climate-change)
   - [Earth and Climate Modeling](#earth-and-climate-modeling)
   - [Climate Data Standards](#climate-data-standards)
-  - [Climate Data Visualization and Access](#climate-data-visualization-and-access)
+  - [Climate Data Access and Visualization](#climate-data-access-and-visualization)
   - [Climate Data Processing and Analysis](#climate-data-processing-and-analysis)
   - [Climate Downscaling](#climate-downscaling)
   - [Natural Hazard and Storm](#natural-hazard-and-storm)
@@ -1566,7 +1566,7 @@ energy system designs and analysis of interactions between technologies.
 - [cf-xarray](https://github.com/xarray-contrib/cf-xarray) - An accessor for xarray objects that interprets CF attributes.
 
 
-### Climate Data Visualization and Access 
+### Climate Data Access and Visualization   
 - [CMIP6 Datasets](https://pcmdi.github.io/CMIP6/) - Provides an access to the outputs of the current phase 6 of the Coupled Model Intercomparison Project (CMIP). CMIP6 global climate models give a base to (almost) all we may know for the climate of the future.
 - [climatedataguide](https://climatedataguide.ucar.edu/) - Search and access 212 datasets covering the Atmosphere, Ocean, Land and more. Explore climate indices, reanalyses and satellite data and understand their application to climate model metrics.
 - [rnoaa](https://github.com/ropensci/rnoaa) - An R interface to many National Oceanic and Atmospheric Administration data sources.
@@ -1608,6 +1608,8 @@ energy system designs and analysis of interactions between technologies.
 - [OGD@MeteoSwiss](https://github.com/MeteoSwiss/publication-opendata) - Open Data products released by the Federal Office of Meteorology and Climatology MeteoSwiss.
 - [ESGF PyClient](https://github.com/ESGF/esgf-pyclient) -  A Python package designed for interacting with the Earth System Grid Federation system.
 - [ecmwf-opendata](https://github.com/ecmwf/ecmwf-opendata) - A package to simplify the download of ECMWF open data.
+- [ACCESS-NRI Intake Catalog](https://github.com/ACCESS-NRI/access-nri-intake-catalog) - Aims to provide a way for Python users to discover and load data across a broad range of climate data products available on the Australian NCI supercomputer Gadi.
+
 
 
 ### Climate Data Processing and Analysis
@@ -2052,7 +2054,6 @@ energy system designs and analysis of interactions between technologies.
 - [ECHO](https://github.com/edgi-govdata-archiving/ECHO-Cross-Program) - Contains Jupyter notebooks for processing the EPA's Environmenal Compliance History Online (ECHO) data from multiple EPA program in emissions, violations, inspections, and enforcement for the Clean Air Act, Clean Water Act, and Resouce Conservation and Recovery Act.
 - [msc_pygeoapi](https://github.com/ECCC-MSC/msc-pygeoapi) - The Meteorological Service of Canada Python API provides up-to-date information on past, present and future weather conditions, climate, water and environmental information over Canada and the world.
 - [Clay Foundation Model](https://github.com/Clay-foundation/model) - Clay is a foundational model of Earth using a vision transformer architecture adapted to understand geospatial and temporal relations on Earth Observation data.
-- [ACCESS-NRI Intake Catalog](https://github.com/ACCESS-NRI/access-nri-intake-catalog) - Aims to provide a way for Python users to discover and load data across a broad range of climate data products available on the Australian NCI supercomputer Gadi.
 
 
 ### Environmental Satellites
