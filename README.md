@@ -747,7 +747,7 @@ energy system designs and analysis of interactions between technologies.
 - [epicrop](https://codeberg.org/adamhsparks/epicrop) - Simulation modelling of crop diseases using a Susceptible-Exposed-Infectious-Removed (SEIR) model in R.
 - [rnassqs](https://github.com/ropensci/rnassqs) - Allows users to access the USDA's National Agricultural Statistics Service Quick Stats data through their API.
 - [foodsharing](https://gitlab.com/foodsharing-dev/foodsharing) -  A platform and initiative against food waste.
-- [Cover Crop Species Selector Decision Support Tool](https://github.com/precision-sustainable-ag/dst-selector) - Used to help farmers select a cover crop that fits their goals and constraints.
+- [Cover Crop Species Selector](https://github.com/precision-sustainable-ag/dst-selector) - Used to help farmers select a cover crop that fits their goals and constraints.
 
 ## Emissions
 ### Carbon Intensity and Accounting 
