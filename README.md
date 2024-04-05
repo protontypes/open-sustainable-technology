@@ -747,6 +747,7 @@ energy system designs and analysis of interactions between technologies.
 - [epicrop](https://codeberg.org/adamhsparks/epicrop) - Simulation modelling of crop diseases using a Susceptible-Exposed-Infectious-Removed (SEIR) model in R.
 - [rnassqs](https://github.com/ropensci/rnassqs) - Allows users to access the USDA's National Agricultural Statistics Service Quick Stats data through their API.
 - [foodsharing](https://gitlab.com/foodsharing-dev/foodsharing) -  A platform and initiative against food waste.
+- [Teikei](https://github.com/teikei/teikei) - A web application and API that maps out community-supported agriculture in Germany, Switzerland, and Austria, based on crowdsourced data.
 
 ## Emissions
 ### Carbon Intensity and Accounting 
