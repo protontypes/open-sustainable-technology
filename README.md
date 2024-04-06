@@ -748,6 +748,11 @@ energy system designs and analysis of interactions between technologies.
 - [rnassqs](https://github.com/ropensci/rnassqs) - Allows users to access the USDA's National Agricultural Statistics Service Quick Stats data through their API.
 - [foodsharing](https://gitlab.com/foodsharing-dev/foodsharing) -  A platform and initiative against food waste.
 - [Cover Crop Species Selector](https://github.com/precision-sustainable-ag/dst-selector) - Used to help farmers select a cover crop that fits their goals and constraints.
+- [AgIsoStack-plus-plus](https://github.com/Open-Agriculture/AgIsoStack-plus-plus) - ISO-11783 stack for smart agricultural machinery communication.
+- [Teikei](https://github.com/teikei/teikei) - A web application and API that maps out community-supported agriculture in Germany, Switzerland, and Austria, based on crowdsourced data.
+- [PyCrop2ML](https://github.com/AgriculturalModelExchangeInitiative/PyCrop2ML) - A free, open-source library for defining and sharing CropML models used to represent the various biological processes involved in crop models.
+- [Cropbox.jl](https://github.com/cropbox/Cropbox.jl) - Provides a domain specific language for developing crop models.
+- [MAIZSIM](https://github.com/USDA-ARS-ACSL/MAIZSIM) - A mechanistic model of maize growth, development and yield.
 
 ## Emissions
 ### Carbon Intensity and Accounting 
@@ -2094,6 +2099,7 @@ energy system designs and analysis of interactions between technologies.
 - [BattINFO](https://github.com/BIG-MAP/BattINFO) - Consists of a list of entities representing concepts used in batteries and electrochemistry.
 - [Plant-Pollinator Interactions Vocabulary](https://github.com/rebipp/ppi) - Plant-Pollinator Interactions is a standardized vocabulary maintained by the Brazilian Network on Plant-Pollinator Interactions.
 - [Plant Trait Ontology](https://github.com/Planteome/plant-trait-ontology) - A controlled vocabulary of describe phenotypic traits in plants.
+- [FOODON](https://github.com/FoodOntology/foodon) - Provides a neutral and ontology-driven standard for government agencies, industry, nonprofits and consumers to name and reference food products and their components throughout the food supply chain.
 
 
 ### Curated Lists
