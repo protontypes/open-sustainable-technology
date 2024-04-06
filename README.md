@@ -747,6 +747,7 @@ energy system designs and analysis of interactions between technologies.
 - [epicrop](https://codeberg.org/adamhsparks/epicrop) - Simulation modelling of crop diseases using a Susceptible-Exposed-Infectious-Removed (SEIR) model in R.
 - [rnassqs](https://github.com/ropensci/rnassqs) - Allows users to access the USDA's National Agricultural Statistics Service Quick Stats data through their API.
 - [foodsharing](https://gitlab.com/foodsharing-dev/foodsharing) -  A platform and initiative against food waste.
+- [Cover Crop Species Selector](https://github.com/precision-sustainable-ag/dst-selector) - Used to help farmers select a cover crop that fits their goals and constraints.
 - [AgIsoStack-plus-plus](https://github.com/Open-Agriculture/AgIsoStack-plus-plus) - ISO-11783 stack for smart agricultural machinery communication.
 - [Teikei](https://github.com/teikei/teikei) - A web application and API that maps out community-supported agriculture in Germany, Switzerland, and Austria, based on crowdsourced data.
 - [PyCrop2ML](https://github.com/AgriculturalModelExchangeInitiative/PyCrop2ML) - A free, open-source library for defining and sharing CropML models used to represent the various biological processes involved in crop models.
