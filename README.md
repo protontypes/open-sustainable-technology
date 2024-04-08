@@ -753,6 +753,7 @@ energy system designs and analysis of interactions between technologies.
 - [PyCrop2ML](https://github.com/AgriculturalModelExchangeInitiative/PyCrop2ML) - A free, open-source library for defining and sharing CropML models used to represent the various biological processes involved in crop models.
 - [Cropbox.jl](https://github.com/cropbox/Cropbox.jl) - Provides a domain specific language for developing crop models.
 - [MAIZSIM](https://github.com/USDA-ARS-ACSL/MAIZSIM) - A mechanistic model of maize growth, development and yield.
+- [Carob](https://github.com/reagro/carob) - Create reproducible workflows that reshape primary agricultural research data from experiments and surveys into a standard format, and to aggregate individual data sets into larger collections that can be used in further research.
 
 ## Emissions
 ### Carbon Intensity and Accounting 
