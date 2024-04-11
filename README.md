@@ -1071,6 +1071,7 @@ energy system designs and analysis of interactions between technologies.
 - [Mangrove Atlas](https://github.com/Vizzuality/mangrove-atlas) - An online platform that provides the remote sensing data and tools for monitoring mangroves necessary for this.
 - [3DFin](https://github.com/3DFin/3DFin) - A free software for automatic computation of tree parameters in terrestrial point clouds.
 - [Rprebasso](https://github.com/ForModLabUHel/Rprebasso) - Predict the growth and carbon balance of the forest ecosystem.
+- [dfoliatR](https://github.com/chguiterman/dfoliatR) - Provide dendrochronologists with tools for identifying and analyzing the signatures of insect defoliators preserved in tree rings.
 
 ### Plants and Vegetation
 - [OpenPlantPathology](https://github.com/openplantpathology/OpenPlantPathology) - Open Plant Pathology is an initiative that supports and promotes the spread of all open, transparent and reproducible practices in the field of plant pathology.
