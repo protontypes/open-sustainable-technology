@@ -554,6 +554,7 @@ energy system designs and analysis of interactions between technologies.
 - [Better Thermostat](https://github.com/KartoffelToby/better_thermostat) - This custom component for Home Assistant will add crucial features to your climate-controlling Thermostatic Radiator Valves to save you the work of creating automations to make it smart.
 - [A Carbon Tool](https://github.com/arup-group/a-carbon-tool) - An open source web application that enables users to estimate embodied carbon equivalent content from Building Information Models.
 - [CarboLifeCalc](https://github.com/DavidVeld/CarboLifeCalc) - An embodied carbon calculator for the built environment.
+- [HeatpumpMonitor.org](https://github.com/openenergymonitor/heatpumpmonitor.org) - An open source initiative to share and compare heat pump performance data.
 
 ### Mobility and Transportation
 - [stplanr](https://github.com/ropensci/stplanr) - A package for sustainable transport planning with R.
