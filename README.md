@@ -1454,6 +1454,7 @@ energy system designs and analysis of interactions between technologies.
 - [EUREC4A Intake catalogue](https://github.com/eurec4a/eurec4a-intake) - Access to data from the EUREC4A field campaign, which aims to improve the understanding of the interplay between clouds, convection and circulation and their role in climate change.
 - [dwarf-p-cloudsc](https://github.com/ecmwf-ifs/dwarf-p-cloudsc) - Standalone mini-app of the ECMWF cloud microphysics parameterization.
 - [UWLCM](https://github.com/igfuw/UWLCM) - A tool for numerical modeling of clouds using LES model of turbulence and Lagrangian cloud microphysics.
+- [CLEO](https://github.com/yoctoyotta1024/CLEO) - A library for Super-Droplet Model (SDM) cloud microphysics.
 
 ### Meteorological Observation and Forecast
 - [windrose](https://github.com/python-windrose/windrose) - A graphic tool used by meteorologists to give a succinct view of how wind speed and direction are typically distributed at a particular location.
