@@ -882,6 +882,7 @@ energy system designs and analysis of interactions between technologies.
 - [UN/CEFACT CRM](https://github.com/uncefact/project-crm) - Critical raw materials traceability & transparency project.
 - [Doughnut Biotool](https://github.com/NFrancart/doughnut-biotool) - A tool to calculate a building project's impacts on biodiversity over the entire life cycle.
 - [saleos](https://github.com/Bonface-Osoro/saleos) - Sustainability Analytics for Low Earth Orbit Satellites.
+- [MARIO](https://github.com/it-is-me-mario/MARIO) - Perform impact analysis using regional input-output tables and models.
 
 ### Circular Economy and Waste
 - [ONEARMY](https://github.com/ONEARMY/precious-plastic) - A series of tools for the Precious Plastic community to collaborate around the world and tackle plastic waste.
