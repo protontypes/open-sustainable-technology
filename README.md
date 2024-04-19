@@ -851,6 +851,7 @@ energy system designs and analysis of interactions between technologies.
 - [Clean Air Markets API Portal](https://github.com/USEPA/cam-api-portal) - A suite of API's that EPA's Clean Air Markets Division provides to access the data collected to run programs designed to reduce air pollution from power plants.
 - [goFlux](https://github.com/Qepanna/goFlux) -  A user-friendly way to calculate greenhouse gas fluxes in soil yourself, regardless of user experience.
 - [Klimatkollen](https://github.com/Klimatbyran/klimatkollen) - A web application that displays emissions within municipalities in Sweden, along with a machine learning data pipeline under development, which will find, extract, and list emissions from companies.
+- [bonsai_ipcc](https://gitlab.com/bonsamurais/bonsai/util/ipcc) - Enables users to calculate national greenhouse gas (GHG) inventories based on the guidelines provided by the International Panel on Climate Change.
 
 ## Industrial Ecology
 ### Life Cycle Assessment
