@@ -991,6 +991,7 @@ energy system designs and analysis of interactions between technologies.
 - [DigiVol](https://github.com/AtlasOfLivingAustralia/volunteer-portal) - Harness the power of online volunteers to digitise biodiversity data that is locked up in biodiversity collections, field notebooks and survey sheets.
 - [ibis.iSDM](https://github.com/iiasa/ibis.iSDM) - Provides a series of convenience functions to fit integrated Species Distribution Models.
 - [baRulho](https://github.com/maRce10/baRulho) - An R package to quantify habitat-induced degradation of (animal) acoustic signals.
+- [rvertnet](https://github.com/ropensci/rvertnet) - An R Wrapper to the VertNet API, a collaborative project that makes biodiversity data free and available on the web.
 
 ### Conservation and Restoration
 - [forestatrisk](https://github.com/ghislainv/forestatrisk) - A Python package to model and forecast the risk of deforestation.
