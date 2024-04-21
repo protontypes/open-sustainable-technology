@@ -779,6 +779,7 @@ energy system designs and analysis of interactions between technologies.
 - [Open Grid Emissions Initiative](https://github.com/singularity-energy/open-grid-emissions) - Seeks to fill a critical need for high-quality, publicly-accessible, hourly grid emissions data that can be used for GHG accounting, policymaking, academic research, and energy attribute certificate markets.
 - [gridemissions](https://github.com/jdechalendar/gridemissions) - Displays the hourly carbon footprint of the US electricity system.
 - [pyELQ](https://github.com/sede-open/pyELQ) - Detect, localize, and quantify methane emissions from concentration and wind measurements.
+- [Technology-Carbon-Standard](https://github.com/ScottLogic/Technology-Carbon-Standard) - Aims to provide a unified standard for understanding, quantifying, and reducing carbon emissions from an organisation's technology landscape.
 
 ### Carbon Offsets and Trading 
 - [Carbon Dioxide Removal Database](https://github.com/carbonplan/cdr-database) - Open science reports on carbon removal projects and technologies.
