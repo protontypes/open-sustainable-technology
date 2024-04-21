@@ -33,6 +33,9 @@
 - [GreenCity](https://github.com/ita-social-projects/GreenCity) - Teach people in a playful and challenging way to have an eco-friendly lifestyle.
 - [Advanced Urban Analytics](https://github.com/gboeing/ppd599) - This course series takes a computational social science approach to working with urban data.
 
+## Green Software 
+-  [Sustainable Software Engineering](https://github.com/luiscruz/course_sustainableSE) - A course that covers techniques for measuring and improving environmental, social, and individual sustainability at every stage of the software lifecycle.
+
 ## Climate and Earth Science 
 
 - [Xarray Tutorial](https://github.com/xarray-contrib/xarray-tutorial) - An open source project and Python package that makes working with labelled multi-dimensional arrays simple, efficient, and fun.
