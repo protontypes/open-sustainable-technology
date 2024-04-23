@@ -1046,7 +1046,6 @@ energy system designs and analysis of interactions between technologies.
 - [FATES](https://github.com/NGEET/fates) - A cohort model of vegetation competition and co-existence, allowing a representation of the biosphere which accounts for the division of the land surface into successional stages.
 - [DetecTree](https://github.com/martibosch/detectree) - A Pythonic library to classify tree/non-tree pixels from aerial imagery.
 - [Sentinel-Tree-Cover](https://github.com/wri/sentinel-tree-cover) - This project maps tree extent at the ten-meter scale using open source artificial intelligence and satellite imagery.
-- [Bioverse Labs](https://github.com/Bioverse-Labs/deep-learning) - Python scripts using usual frameworks in Deep Learning for pattern recognition on forest environments.
 - [rGEDI](https://github.com/carlos-alberto-silva/rGEDI) - An R Package for NASA's Global Ecosystem Dynamics Investigation (GEDI) Data Visualization and Processing.
 - [detectreeRGB](https://github.com/shmh40/detectreeRGB) - Tree crown delineation from RGB imagery, coupled with methods to delineate tree crowns from LiDAR data.
 - [ForesToolboxRS](https://github.com/ytarazona/ForesToolboxRS) - Remote Sensing Tools for Forest Monitoring.
@@ -1751,7 +1750,7 @@ energy system designs and analysis of interactions between technologies.
 
 ### Integrated Assessment and Climate Policy 
 - [PRIMAP2](https://github.com/pik-primap/primap2) - The next generation climate policy analysis suite.
-- [Climate Policy Radar Open Data](https://github.com/climatepolicyradar/open-data) - The full text of thousands of climate laws and policies from around the world.
+- [Climate Policy Radar Open Data](https://github.com/Ly0n/open-data) - The full text of thousands of climate laws and policies from around the world.
 - [MESSAGEix](https://github.com/iiasa/message_ix) - A versatile, dynamic systems-optimization modeling framework developed by the IIASA Energy, Climate, and Environment (ECE) Program since the 1980s.
 - [DICE.jl](https://github.com/Libbum/DICE.jl) - The Dynamic Integrated model of Climate and the Economy model family are a popular and capable type of simple Integrated Assessment Model of climate change economics pioneered by William Nordhaus.
 - [LPJmL](https://gitlab.pik-potsdam.de/lpjml/LPJmL) - A process-based model that simulates climate and land-use change impacts on the terrestrial biosphere, the water and carbon cycle and on agricultural production.
