@@ -388,6 +388,7 @@ energy system designs and analysis of interactions between technologies.
 - [TulipaEnergyModel.jl](https://github.com/TulipaEnergy/TulipaEnergyModel.jl) - Provides an optimization model for the electricity market and its coupling with other energy sectors (e.g., hydrogen, heat, natural gas, etc.) with the main objective to determine the optimal investment and operation decisions for different types of assets.
 - [Energy Transition Engine](https://github.com/quintel/etengine) - Calculation engine for the Energy Transition Model.
 - [pommesdispatch](https://github.com/pommes-public/pommesdispatch) - A bottom-up fundamental power market model for the German electricity sector.
+- [optihood](https://github.com/SPF-OST/optihood) -  A python-based framework to optimize the investment in alternative energy technologies as well as the operation of available energy resources for decentralized energy networks on a neighbourhood-scale.
 
 
 ### Energy Distribution and Grids
