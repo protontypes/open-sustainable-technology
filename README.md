@@ -558,6 +558,7 @@ energy system designs and analysis of interactions between technologies.
 - [CarboLifeCalc](https://github.com/DavidVeld/CarboLifeCalc) - An embodied carbon calculator for the built environment.
 - [HeatpumpMonitor.org](https://github.com/openenergymonitor/heatpumpmonitor.org) - An open source initiative to share and compare heat pump performance data.
 - [pyBuildingEnergy](https://github.com/EURAC-EEBgroup/pyBuildingEnergy) - Provides an assessment of building performance through a methodology that must take into account various aspects such as the thermal characteristics of the building, the use of renewable energy sources, building automation and control systems.
+- [Dynamic ISO Building Simulator](https://github.com/IWUGERMANY/DIBS---Dynamic-ISO-Building-Simulator) - A simulation program for calculating the space heating, occupancy hot water, cooling and electricity demand of German non-residential buildings.
 - [Home Energy Assessment Database](https://github.com/climate-cooperative/home-energy-assessment-database) - Documentation, conversions, and data supporting Climate Cooperative's home energy audit and calculation tools.
 - [GridWorks SpaceHeat SCADA](https://github.com/thegridelectric/gw-scada-spaceheat-python) - Intended for running a heat pump thermal storage space heating system in a house, and doing this transactively.
 
@@ -633,6 +634,7 @@ energy system designs and analysis of interactions between technologies.
 - [EV Fleet Simulator](https://gitlab.com/eputs/ev-fleet-sim) - Predict the energy usage of a fleet of electric vehicles.
 - [motulator](https://github.com/aalto-electric-drives/motulator) - Simulation models for an induction motor, a synchronous reluctance motor, and a permanent-magnet synchronous motor.
 - [ALTRIOS](https://github.com/NREL/altrios) - Fully integrated, open-source software tool to evaluate strategies for deploying advanced locomotive technologies and associated infrastructure for cost-effective decarbonization.
+- [lowtrip](https://github.com/XavB64/lowtrip) - A web app to compute travel CO2eq for different means of transport worldwide.
 
 
 ### Production and Industry
