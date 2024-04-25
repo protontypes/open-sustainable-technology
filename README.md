@@ -688,6 +688,7 @@ energy system designs and analysis of interactions between technologies.
 - [CNCF Green Reviews WG](https://github.com/cncf-tags/green-reviews-tooling) - Project Repository for the WG Green Reviews which is part of the CNCF TAG Environmental Sustainability.
 - [HBERT](https://github.com/HawkinsbrownArch/HBERT) - A open source Revit plug in that measure the embodied carbons of materials applied within a Revit model.
 - [CloudScanner](https://github.com/Boavizta/cloud-scanner) - Get Boavizta impact data for your AWS cloud account usage.
+- [Impact Framework](https://github.com/Green-Software-Foundation/if) -  Model, Measure, simulate and monitor the environmental impacts of software.
 
 ### Agriculture and Nutrition
 - [Farmbot](https://github.com/FarmBot/Farmbot-Web-App) - Humanity's open-source CNC farming machine.
