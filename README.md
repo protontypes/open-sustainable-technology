@@ -152,6 +152,7 @@
 - [pvOps](https://github.com/sandialabs/pvOps) - Contains a series of functions to facilitate fusion of text-based data with time series production data collected at photovoltaic sites.
 - [CSP.guru](https://github.com/repolicy/csp-guru) - An open-source database of concentrating solar power plants of the world for energy modellers and analysts.
 - [Quartz Solar Forecast](https://github.com/openclimatefix/Open-Source-Quartz-Solar-Forecast) - The aim of the project is to build an open source PV forecast that is free and easy to use.
+- [Net Zero Citizens](https://github.com/Iniciativa-Climatica-Mexico/Net-Zero-Citizens) -  Through this web and mobile applications, users in Mexico can effortlessly connect with solar panel installers and photovoltaic panel sellers, making the switch to solar energy seamless and straightforward.
 
 ### Wind Energy
 - [DSWE](https://github.com/TAMU-AML/DSWE-Package) - An R implementation of various data science methods for wind energy (DSWE) applications, such as providing machine learning methods to accurately estimate the wind power curve.
@@ -387,6 +388,7 @@ energy system designs and analysis of interactions between technologies.
 - [TulipaEnergyModel.jl](https://github.com/TulipaEnergy/TulipaEnergyModel.jl) - Provides an optimization model for the electricity market and its coupling with other energy sectors (e.g., hydrogen, heat, natural gas, etc.) with the main objective to determine the optimal investment and operation decisions for different types of assets.
 - [Energy Transition Engine](https://github.com/quintel/etengine) - Calculation engine for the Energy Transition Model.
 - [pommesdispatch](https://github.com/pommes-public/pommesdispatch) - A bottom-up fundamental power market model for the German electricity sector.
+- [optihood](https://github.com/SPF-OST/optihood) -  A python-based framework to optimize the investment in alternative energy technologies as well as the operation of available energy resources for decentralized energy networks on a neighbourhood-scale.
 
 
 ### Energy Distribution and Grids
@@ -556,6 +558,8 @@ energy system designs and analysis of interactions between technologies.
 - [CarboLifeCalc](https://github.com/DavidVeld/CarboLifeCalc) - An embodied carbon calculator for the built environment.
 - [HeatpumpMonitor.org](https://github.com/openenergymonitor/heatpumpmonitor.org) - An open source initiative to share and compare heat pump performance data.
 - [Sinergym](https://github.com/ugr-sail/sinergym) - Gym environment for building simulation and control using reinforcement learning.
+- [Home Energy Assessment Database](https://github.com/climate-cooperative/home-energy-assessment-database) - Documentation, conversions, and data supporting Climate Cooperative's home energy audit and calculation tools.
+- [GridWorks SpaceHeat SCADA](https://github.com/thegridelectric/gw-scada-spaceheat-python) - Intended for running a heat pump thermal storage space heating system in a house, and doing this transactively.
 
 ### Mobility and Transportation
 - [stplanr](https://github.com/ropensci/stplanr) - A package for sustainable transport planning with R.
@@ -689,6 +693,7 @@ energy system designs and analysis of interactions between technologies.
 - [CNCF Green Reviews WG](https://github.com/cncf-tags/green-reviews-tooling) - Project Repository for the WG Green Reviews which is part of the CNCF TAG Environmental Sustainability.
 - [HBERT](https://github.com/HawkinsbrownArch/HBERT) - A open source Revit plug in that measure the embodied carbons of materials applied within a Revit model.
 - [CloudScanner](https://github.com/Boavizta/cloud-scanner) - Get Boavizta impact data for your AWS cloud account usage.
+- [Impact Framework](https://github.com/Green-Software-Foundation/if) -  Model, Measure, simulate and monitor the environmental impacts of software.
 
 ### Agriculture and Nutrition
 - [Farmbot](https://github.com/FarmBot/Farmbot-Web-App) - Humanity's open-source CNC farming machine.
@@ -854,6 +859,7 @@ energy system designs and analysis of interactions between technologies.
 - [goFlux](https://github.com/Qepanna/goFlux) -  A user-friendly way to calculate greenhouse gas fluxes in soil yourself, regardless of user experience.
 - [Klimatkollen](https://github.com/Klimatbyran/klimatkollen) - A web application that displays emissions within municipalities in Sweden, along with a machine learning data pipeline under development, which will find, extract, and list emissions from companies.
 - [bonsai_ipcc](https://gitlab.com/bonsamurais/bonsai/util/ipcc) - Enables users to calculate national greenhouse gas (GHG) inventories based on the guidelines provided by the International Panel on Climate Change.
+- [OpenMethane](https://github.com/openmethane/openmethane-prior) - Method to calculate a gridded, prior emissions estimate for methane across Australia.
 
 ## Industrial Ecology
 ### Life Cycle Assessment
