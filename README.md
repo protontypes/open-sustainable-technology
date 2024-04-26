@@ -557,6 +557,7 @@ energy system designs and analysis of interactions between technologies.
 - [A Carbon Tool](https://github.com/arup-group/a-carbon-tool) - An open source web application that enables users to estimate embodied carbon equivalent content from Building Information Models.
 - [CarboLifeCalc](https://github.com/DavidVeld/CarboLifeCalc) - An embodied carbon calculator for the built environment.
 - [HeatpumpMonitor.org](https://github.com/openenergymonitor/heatpumpmonitor.org) - An open source initiative to share and compare heat pump performance data.
+- [Sinergym](https://github.com/ugr-sail/sinergym) - Gym environment for building simulation and control using reinforcement learning.
 - [pyBuildingEnergy](https://github.com/EURAC-EEBgroup/pyBuildingEnergy) - Provides an assessment of building performance through a methodology that must take into account various aspects such as the thermal characteristics of the building, the use of renewable energy sources, building automation and control systems.
 - [Dynamic ISO Building Simulator](https://github.com/IWUGERMANY/DIBS---Dynamic-ISO-Building-Simulator) - A simulation program for calculating the space heating, occupancy hot water, cooling and electricity demand of German non-residential buildings.
 - [Home Energy Assessment Database](https://github.com/climate-cooperative/home-energy-assessment-database) - Documentation, conversions, and data supporting Climate Cooperative's home energy audit and calculation tools.
