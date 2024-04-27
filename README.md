@@ -1996,6 +1996,7 @@ energy system designs and analysis of interactions between technologies.
 - [physrisk](https://github.com/os-climate/physrisk) - Primarily designed to run 'bottom-up' calculations that model the impact of climate hazards on large numbers of individual assets including natural and operations.
 - [climate-finance](https://github.com/ONEcampaign/climate-finance-package) - Is the python package to get, clean, and work with international public climate finance.
 - [HeCo Invest](https://www.vizzuality.com/project/heco-invest) - A digital collaborative platform pilot aimed to support filling the conservation financing gap in the Amazon Basin by optimizing project financing channels in this region.
+- [DEEP](https://github.com/sovereign-nature/deep) - Our goal is to reconfigure the economics of ecology by finding ways to fund and expand projects that sustain life on our planet.
 
 ### Knowledge Platforms
 - [Climate Watch](https://github.com/ClimateWatch-Vizzuality/climate-watch) - Offers open data, visualizations and analysis to help policymakers, researchers and other stakeholders gather insights on countries' climate progress.
