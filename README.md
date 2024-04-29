@@ -869,6 +869,7 @@ energy system designs and analysis of interactions between technologies.
 - [exiobase](https://www.exiobase.eu/) - A global and detailed Multi-Regional Environmentally Extended Supply-Use Table (MR-SUT) and Input-Output Table (MR-IOT).
 - [bonsai](https://github.com/BONSAMURAIS/bonsai) - The aim of BONSAI is to make reliable, unbiased sustainability information on products (product footprints) readily and freely available whenever and wherever it is needed to support product comparisons and decisions.
 - [brightway2](https://github.com/brightway-lca/brightway2) - An open source framework for life cycle assessment.
+- [Brightway2 data management](https://github.com/brightway-lca/brightway2-data) - This package provides tools for the management of inventory databases and impact assessment methods.
 - [Activity Browser](https://github.com/LCA-ActivityBrowser/activity-browser) - An open source and free software for Life Cycle Assessment extending the brightway2 framework.
 - [EOS-AYCE](https://gitlab.com/eaternity/eos) - Eaternity's software platform serving as an open-source environmental operating system (EOS) for all you can eat (AYCE) for climate.
 - [carculator](https://github.com/romainsacchi/carculator) - Prospective environmental and economic life cycle assessment of vehicles made blazing fast.
