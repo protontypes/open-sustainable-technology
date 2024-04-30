@@ -1,9 +1,10 @@
 <!--lint ignore awesome-toc awesome-contributing awesome-badge -->
 # Open Educational Resources in Sustainable Technologies
 
-## Geocomputation
+## Geocomputation and Geospatial
 - [Geocomputation with Python](https://github.com/geocompx/geocompy/) - An open source book and online resource for getting started in this space with Python.
 - [Geocomputation with R](https://github.com/geocompx/geocompr) - A book on geographic data analysis, visualization and modeling with R.
+- [Intro to R for Geospatial data](https://github.com/datacarpentry/r-intro-geospatial) - Provides an introduction to R for learners working with geospatial data.
 
 ## Renewable Energy
 
@@ -12,6 +13,7 @@
 - [Photovoltaics Education Website](https://www.pveducation.org/) - A detailed deep dive to get started with photovolatic technology.
 - [Predicting the Wind: Data Science in Wind Resource Assessment](https://github.com/flrs/predicting_the_wind) - Contains material for a hands-on tutorial and additional content about data science in wind resource assessment.
 - [PVSC48-Python-Tutorial](https://pvsc-python-tutorials.github.io/PVSC48-Python-Tutorial) - Computing tutorial with focus on PV computing packages, Python, data wrangling with Pandas, and data viz.
+- [Electrify](https://github.com/toddmedema/electrify) - A web / mobile Tycoon-style game teaching about electricity production and consumption.
 
 ## Energy Systems 
 
@@ -21,6 +23,7 @@
 - [ESM-lectures](https://github.com/nworbmot/esm-lectures) - Lecture slides for KIT Energy System Modelling course.
 - [Power Systems Optimization](https://github.com/east-winds/power-systems-optimization) - How to implement and apply linear and mixed integer linear programs to solve such problems using Julia/JuMP, and the practical application of such techniques in energy systems engineering.
 - [Data Science for Energy System Modelling](https://github.com/fneum/data-science-for-esm) - Find practical introductions to many Python packages that are useful for dealing with energy data and building energy system modells.
+- [oemof Workshop on Modeling Heat Pumps](https://github.com/oemof/heat-pump-tutorial) - Learn how to use and apply oemof libraries in the context of modeling heat pumps in energy system analysis.
 
 
 ## Consumption of Energy and Resources 
@@ -30,8 +33,12 @@
 - [GreenCity](https://github.com/ita-social-projects/GreenCity) - Teach people in a playful and challenging way to have an eco-friendly lifestyle.
 - [Advanced Urban Analytics](https://github.com/gboeing/ppd599) - This course series takes a computational social science approach to working with urban data.
 
+## Green Software 
+-  [Sustainable Software Engineering](https://github.com/luiscruz/course_sustainableSE) - A course that covers techniques for measuring and improving environmental, social, and individual sustainability at every stage of the software lifecycle.
+
 ## Climate and Earth Science 
 
+- [Xarray Tutorial](https://github.com/xarray-contrib/xarray-tutorial) - An open source project and Python package that makes working with labelled multi-dimensional arrays simple, efficient, and fun.
 - [ClimateModeling_courseware](https://github.com/brian-rose/ClimateModeling_courseware) - A collection of interactive lecture notes and assignments in Jupyter notebook format.
 - [Earth and Environmental Data Science Book](https://github.com/earth-env-data-science/earth-env-data-science-book) - An Introduction to Earth and Environmental Data Science.
 - [Free Earth Data Science Courses & Textbooks](https://github.com/earthlab/earthlab.github.io) - A site dedicated to tutorials, course and other learning materials and resources developed by the Earth Lab team.
@@ -53,6 +60,9 @@
 - [HPC4WC](https://github.com/ofuhrer/HPC4WC) - High Performance Computing for Weather and Climate Course.
 - [ARSET Fundamentals of Machine Learning for Earth Science](https://github.com/NASAARSET/ARSET_ML_Fundamentals) - This training will provide attendees an overview of machine learning in regards to Earth Science, and how to apply these algorithms and techniques to remote sensing data in a meaningful way.
 - [Applied Environmental Statistics](https://github.com/mdietze/EE509) - Applied Environmental Statistics course of the Boston University.
+- [climate-emulator-tutorial](https://github.com/blutjens/climate-emulator-tutorial) - A tutorial for getting started with machine learning for climate modeling.
+- [Utilizing Open Science Techniques for Exploring Greenhouse Gas Data](https://us-ghg-center.github.io/ams-2024-workshop/) - An Interactive Workshop on the U.S. Greenhouse Gas Center and VEDA Tools for use in Earth Science Research
+- [PyPRECIS](https://github.com/MetOffice/PyPRECIS) - A learning tool to faciliate processing of regional climate model output.
 
 ## Earth Observation 
 - [Radiant MLHub Tutorials](https://github.com/radiantearth/mlhub-tutorials) - Tutorials to access Radiant MLHub Training Datasets.
@@ -63,10 +73,10 @@
 - [E-TRAINEE](https://github.com/3dgeo-heidelberg/etrainee) - Course on Time Series Analysis in Remote Sensing for Understanding Human-Environment Interactions
 - [GALUP](https://github.com/SERVIR-WA/GALUP) - Build local capacity in the region of Ghana regarding remote sensing and GIS, and transfer the land use planning framework for continued planning.
 - [OCO2-OCO3](https://github.com/sagarlimbu0/OCO2-OCO3) - For public accessibility and data visualization, a beginner-level tutorial is available for users interested in exploring the OCO2 and OCO3 data.
+- [Using NASA Satellite Data for Real-Time Environmental Monitoring](https://github.com/JeremyDForsythe/icecream-tutorials) - Using NASA's ECOSTRESS Satellite Data for Real-Time Environmental Monitoring.
 
 
 ## Earth Systems 
-
 ### Atmosphere 
 
 - [Copernicus Atmosphere Monitoring Service Data Tutorials](https://ecmwf-projects.github.io/copernicus-training-cams/) - Copernicus Atmosphere Monitoring Service Data Tutorials.
@@ -75,6 +85,7 @@
 - [Objective Analysis in Atmospheric Sciences](https://github.com/eabarnes1010/ats655-coursematerial) - The course provides an overview of the methods used to interpret data sets in the atmospheric and oceanic sciences.
 - [Python for Atmosphere and Ocean Scientists](https://github.com/carpentrieslab/python-aos-lesson) - Contains the Data Carpentry lesson materials for a single day workshop on using python in the atmosphere and ocean sciences.
 - [How to work with meteorological ECMWF data](https://github.com/ecmwf/notebook-examples) - A good starting point how you can work with European Centre for Medium-Range Weather Forecasts (ECMWF) services and data through Python using Jupyter notebooks.
+- [WEkEO4Atmosphere](https://github.com/wekeo/wekeo4atmosphere) - With the help of cases studies about the monitoring of wildfires and air quality, Copernicus atmosphere data from the Copernicus Programme are introduced.
 
 
 ### Cryosphere 
@@ -83,8 +94,6 @@
 - [2020_ICESat-2_Hackweek_Tutorials](https://github.com/ICESAT-2HackWeek/2020_ICESat-2_Hackweek_Tutorials) - Combined repository for the final tutorial material presented at the 2020 ICESat-2 Cryosphere Hackweek. 
 - [NSIDC-Data-Tutorials](https://github.com/nsidc/NSIDC-Data-Tutorials) - Tutorials and code resources provided by the NASA National Snow and Ice Data Center Distributed Active Archive Center.
 - [ECCO-v4-Python-Tutorial](https://github.com/ECCO-GROUP/ECCO-v4-Python-Tutorial) - Contains a several tutorials for using the ECCO Central Production Version 4 ocean and sea-ice state estimate.
-
-
 
 ### Biosphere 
 - [mebioda](https://github.com/naturalis/mebioda) - This repository contains materials for the MSc course Methods in Biodiversity Analysis.
@@ -96,7 +105,10 @@
 - [MapBiomas 101](https://github.com/mapbiomas-brazil/mapbiomas-training) - Google Earth Engine Tutorials to produce annual land use and land cover maps from Brazil.
 - [Gedi Tutorials](https://github.com/ornldaac/gedi_tutorials) - Tutorials on producing high resolution laser ranging observations based on data of the Global Ecosystem Dynamics Investigation.
 - [Ecological Forecasting](https://github.com/EcoForecast/EF_Activities) - Hands-on activities associated with the Ecological Forecasting book and graduate class.
-
+- [Terrestrial Carbon: modelling and monitoring](https://github.com/UCL-EO/geog0133) - The role of vegetation in the carbon cycle and the wider climate system.
+- [Ecological Forecasting & Dynamics Course](https://github.com/weecology/forecasting-course) - This is a course on how ecological systems change through time and how to forecast how they will change in the future.
+- [WSL Julia Workshop 2023](https://github.com/vboussange/WSLJuliaWorkshop2023) - Practical introduction to Julia for modelling and data analysis in biodiversity and earth sciences.
+- [Ecological forecasting with R](https://github.com/nicholasjclark/physalia-forecasting-course) - In this course you will learn how to wrangle, visualize and explore ecological time series.
 
 ### Hydrosphere
 - [MarineEcosystemsJuliaCon2021.jl](https://github.com/JuliaOcean/MarineEcosystemsJuliaCon2021.jl) - Modeling Marine Ecosystems At Multiple Scales Using Julia.
@@ -106,12 +118,15 @@
 - [Intro to Physical Oceanography](https://github.com/rabernat/intro_to_physical_oceanography) - Course materials for Introduction to Physical Oceanography.
 
 
-
 ## Natural Resources 
 - [Africa Soil and Agronomy Data Cube](https://gitlab.com/openlandmap/africa-soil-and-agronomy-data-cube) - Accessing and using soil and agronomy data for Africa.
 - [Water Productivity and Water Accounting using WaPOR](https://github.com/wateraccounting/WAPOROCW) - Jupyter notebooks for Water Accounting and Water Productivity using WaPOR course.
 - [stats_for_soil_survey](https://ncss-tech.github.io/stats_for_soil_survey/) - Lecture material on "Statistics for Pedologists".
 - [r4wrds](https://github.com/r4wrds/r4wrds) - Water Resources Data Science R course website.
+- [Decision Analysis and Forecasting for Agricultural Development](https://github.com/CWWhitney/Decision_Analysis_Course) - Become a critical thinker and lead the process in generating useful forecasts for decision makers in agricultural development.
+- [Digital Soil Mapping](https://padasch.github.io/tutorial_digital_soil_mapping/) - This online book covers the tutorial on digital soil mapping from the course Applied Geodata Science 2 at the University of Bern.
+- [python-for-hydrology](https://github.com/DOI-USGS/python-for-hydrology) - Focusing on general python for data analysis in hydrologic contexts and the python interface into MODFLOW for groundwater modeling.
+- [PyNotes in Agriscience](https://github.com/soilwater/pynotes-agriscience) - A set of hands-on coding exercises to solve common tasks and simple problems in agricultural sciences.
 
 ## Sustainable Development Goals
 - [SDG Academy](https://sdgacademy.org/courses/) - Education platform of the Sustainable Development Solutions Network (SDSN), a global initiative for the United Nations.
