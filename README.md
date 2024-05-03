@@ -1760,6 +1760,7 @@ energy system designs and analysis of interactions between technologies.
 - [FwDET](https://github.com/csdms-contrib/fwdet) - Calculates floodwater depths using a digital elevation model and a flood extent polygon.
 - [RICorDE](https://github.com/NRCan/RICorDE) - Calculates floodwater depths using a digital elevation model and a flood extent polygon.
 - [FloodAdapt](https://github.com/Deltares-research/FloodAdapt) - A decision-support tool that seeks to advance and accelerate flooding-related adaptation planning.
+- [Infrastructure Risk Visualisation Tool](https://github.com/nismod/infra-risk-vis) - Aims to support climate adaptation decision-making by identifying spatial vulnerabilities and risks under current and future climate scenarios.
 
 
 ### Integrated Assessment and Climate Policy 
