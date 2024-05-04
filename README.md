@@ -1034,6 +1034,7 @@ energy system designs and analysis of interactions between technologies.
 - [track2KBA](https://github.com/BirdLifeInternational/track2kba) - This R package is comprised of functions that facilitate the identification of areas of importance for biodiversity, such as Key Biodiversity Areas (KBAs), based on individual tracking data.
 - [oceandatr](https://github.com/emlab-ucsb/oceandatr) - Aims to provide simple functions for creating data for conducting a spatial conservation prioritization for large scale areas of the ocean, specifically offshore areas.
 - [Ecoscope](https://github.com/wildlife-dynamics/ecoscope) - An open-source analysis module for tracking, environmental and conservation data analyses.
+- [Climate Change Informed Species Selection](https://github.com/bcgov/CCISS_ShinyApp) - A Biogeoclimatic Ecosystem Classification-based analysis framework built to anticipate the change climate implications to tree species environmental suitability at a site specific level.
 
 ### Forest Observation and Management
 - [ECOSTRESS](https://ecostress.jpl.nasa.gov/) - The images acquired by ECOSTRESS are the most detailed temperature images of the surface ever acquired from space and can be used to measure the temperature of an individual farmers field and plants.
