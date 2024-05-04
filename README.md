@@ -636,7 +636,7 @@ energy system designs and analysis of interactions between technologies.
 - [motulator](https://github.com/aalto-electric-drives/motulator) - Simulation models for an induction motor, a synchronous reluctance motor, and a permanent-magnet synchronous motor.
 - [ALTRIOS](https://github.com/NREL/altrios) - Fully integrated, open-source software tool to evaluate strategies for deploying advanced locomotive technologies and associated infrastructure for cost-effective decarbonization.
 - [lowtrip](https://github.com/XavB64/lowtrip) - A web app to compute travel CO2eq for different means of transport worldwide.
-
+- [Global Healthy and Sustainable Cities Indicators](https://github.com/global-healthy-liveable-cities/global-indicators) - An open-source tool for calculating spatial indicators for healthy, sustainable cities worldwide using open or custom data.
 
 ### Production and Industry
 - [btp-ai-sustainability-bootcamp](https://github.com/SAP-samples/btp-ai-sustainability-bootcamp) - Showcasing SAP partners how to add Intelligence and Sustainability into your industry cloud solutions on SAP Business Technology Platform.
@@ -790,6 +790,7 @@ energy system designs and analysis of interactions between technologies.
 - [gridemissions](https://github.com/jdechalendar/gridemissions) - Displays the hourly carbon footprint of the US electricity system.
 - [pyELQ](https://github.com/sede-open/pyELQ) - Detect, localize, and quantify methane emissions from concentration and wind measurements.
 - [Technology-Carbon-Standard](https://github.com/ScottLogic/Technology-Carbon-Standard) - Aims to provide a unified standard for understanding, quantifying, and reducing carbon emissions from an organisation's technology landscape.
+- [Open-IMO-CII-Calculator](https://github.com/Etive-Mor/Open-IMO-CII-Calculator) - A C# library for calculating the carbon intensity indicator for ships, in accordance with the International Maritime Organization's carbon regulations. 
 
 ### Carbon Offsets and Trading 
 - [Carbon Dioxide Removal Database](https://github.com/carbonplan/cdr-database) - Open science reports on carbon removal projects and technologies.
@@ -1192,6 +1193,7 @@ energy system designs and analysis of interactions between technologies.
 - [shadia](https://github.com/danStich/shadia) - An R package that was designed to run dam passage performance standard models for American shad and other herrings.
 - [CASAL2](https://github.com/NIWAFisheriesModelling/CASAL2) - Models can be used for a single population with a single anthropogenic event (in a fish population model this would be a single fishery), or for multiple species and populations, areas, and/or anthropogenic or exploitation methods, and including predator-prey interactions.
 - [etn](https://github.com/inbo/etn) - Provides functionality to access data from the European Tracking Network (ETN) database hosted by the Flanders Marine Institute (VLIZ) as part of the Flemish contribution to LifeWatch.
+- [OpenFish](https://github.com/ausocean/openfish) - An open-source system written in GoLang for classifying marine species.
   
 ### Terrestrial Animals
 - [auk](https://github.com/CornellLabofOrnithology/auk) - eBird Data Extraction and Processing in R.
@@ -1267,6 +1269,7 @@ energy system designs and analysis of interactions between technologies.
 ## Hydrosphere
 ### Freshwater and Hydrology
 - [Raven](https://github.com/Ouranosinc/raven) - Made to help scientists run hydrological modeling experiments with climate change projections.
+- [RavenPy](https://github.com/CSHS-CWRA/RavenPy) - A Python wrapper to setup and run the hydrologic modelling framework Raven.
 - [hydroscoper](https://github.com/ropensci/hydroscoper) - An R interface to the Greek National Data Bank for Hydrometeorological Information.
 - [WRF-Hydro](https://github.com/NCAR/wrf_hydro_nwm_public) - A community modeling system and framework for hydrologic modeling and model coupling.
 - [rwrfhydro](https://github.com/NCAR/rwrfhydro) - A community-contributed tool box for managing, analyzing, and visualizing WRF Hydro (and HydroDART) input and output files in R.
@@ -1761,7 +1764,7 @@ energy system designs and analysis of interactions between technologies.
 - [RICorDE](https://github.com/NRCan/RICorDE) - Calculates floodwater depths using a digital elevation model and a flood extent polygon.
 - [FloodAdapt](https://github.com/Deltares-research/FloodAdapt) - A decision-support tool that seeks to advance and accelerate flooding-related adaptation planning.
 - [Infrastructure Risk Visualisation Tool](https://github.com/nismod/infra-risk-vis) - Aims to support climate adaptation decision-making by identifying spatial vulnerabilities and risks under current and future climate scenarios.
-
+- [Open Global Infrastructure Risk/Resilience Analysis](https://github.com/nismod/open-gira) - Can be used to analyse environmental risks to infrastructure networks using global open data.
 
 ### Integrated Assessment and Climate Policy 
 - [PRIMAP2](https://github.com/pik-primap/primap2) - The next generation climate policy analysis suite.
@@ -1966,6 +1969,7 @@ energy system designs and analysis of interactions between technologies.
 - [earthlib](https://github.com/earth-chris/earthlib-legacy) - Contains several thousand unique spectral endmembers representing green vegetation, soil, non-photosynthetic vegetation, urban materials, and burned materials.
 - [Soil Freeze-thaw Model](https://github.com/NOAA-OWP/SoilFreezeThaw) - The soil freeze-thaw model simulates the transport of heat in soil using a one-dimensional vertical column.
 - [rsi](https://github.com/Permian-Global-Research/rsi) - Code for Retriving STAC Information, addressing Repeated Spatial Infelicities and interfacing with Rsome Spectral Indices.
+- [ClimaLand.jl](https://github.com/CliMA/ClimaLand.jl/) - Create and run land models in integrated or standalone modes.
 
 
 ## Sustainable Development
