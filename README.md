@@ -1,12 +1,15 @@
 <!--lint ignore awesome-badge --> <!--lint ignore double-link -->
 # Open Sustainable Technology 
 [<img src="earth.png" align="right" width="350">](https://tabletopwhale.com/)__A directory and analysis of the open source ecosystem in the areas of climate change, sustainable energy, biodiversity and natural resources.__ <br> <br>_Earth's uniqueness in creating a stable environment for life in a completely hostile space is a miracle. Various life forms have taken billions of years to build up the natural resources humans depend on, such as a protective atmosphere, fertile soil, stable weather, and clean drinking water. As a movement to democratize technology development and knowledge creation, open source has the potential to become the central driver in preserving this stability. Open Sustainable Technology's mission is to gather projects that preserve natural ecosystems through open technology, methods, data, intelligence, knowledge or tools._
-<!--lint ignore double-link -->
+
+<!--lint disable double-link-->
 <br> [![](https://badgen.net/badge/View/Spreadsheets/009485?scale=1.6)](https://docs.getgrist.com/gSscJkc5Rb1R/OpenSustaintech)
 [![](https://badgen.net/badge/Download/Report/009485?scale=1.6)](https://raw.githubusercontent.com/protontypes/open-source-in-environmental-sustainability/main/OpenSourceSustainabilityEcosystem_080423.pdf) 
 [![](https://badgen.net/badge/Add/Project/009485?scale=1.6)](https://opensustain.tech/contributing/#contribution-guide) <br>  <!--lint ignore double-link -->[![](https://badgen.net/badge/Icon/Sponsor/009485?scale=1.6&label=%F0%9F%92%9d)](https://opencollective.com/open-sustainable-technology) [![](https://badgen.net/badge/icon/Follow%20Entries/009485?scale=1.6&icon=mastodon&label)](https://mastodon.social/@opensustaintech) <!--lint ignore double-link -->[![](https://badgen.net/badge/Find/Good%20First%20Issues/009485?scale=1.6l)](https://climatetriage.com/) 
 
+
  Your contribution is essential to [keep this initative alive](https://opencollective.com/open-sustainable-technology). Create [a pull request](https://github.com/protontypes/open-sustainable-technology/blob/main/CONTRIBUTING.md) to add a new project or [send an email](mailto:tobias.augspurger@protontypes.eu) to give feedback, tips and ideas considering [OpenSustain.tech](https://opensustain.tech/). All _Good First Issue_ labelled issues of the listed projects will be visible on [ClimateTriage.com](https://climatetriage.com/).
+<!--lint enable double-link-->
 <!--toc-->
 
 <!--lint ignore awesome-toc -->
