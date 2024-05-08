@@ -642,6 +642,7 @@ energy system designs and analysis of interactions between technologies.
 - [ALTRIOS](https://github.com/NREL/altrios) - Fully integrated, open-source software tool to evaluate strategies for deploying advanced locomotive technologies and associated infrastructure for cost-effective decarbonization.
 - [lowtrip](https://github.com/XavB64/lowtrip) - A web app to compute travel CO2eq for different means of transport worldwide.
 - [Global Healthy and Sustainable Cities Indicators](https://github.com/global-healthy-liveable-cities/global-indicators) - An open-source tool for calculating spatial indicators for healthy, sustainable cities worldwide using open or custom data.
+- [EV-EcoSim](https://github.com/ebalogun01/EV-EcoSim) - A grid-aware co-simulation platform for the design and optimization of EV Charging Infrastructure.
 
 ### Production and Industry
 - [btp-ai-sustainability-bootcamp](https://github.com/SAP-samples/btp-ai-sustainability-bootcamp) - Showcasing SAP partners how to add Intelligence and Sustainability into your industry cloud solutions on SAP Business Technology Platform.
