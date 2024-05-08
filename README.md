@@ -567,6 +567,7 @@ energy system designs and analysis of interactions between technologies.
 - [Dynamic ISO Building Simulator](https://github.com/IWUGERMANY/DIBS---Dynamic-ISO-Building-Simulator) - A simulation program for calculating the space heating, occupancy hot water, cooling and electricity demand of German non-residential buildings.
 - [Home Energy Assessment Database](https://github.com/climate-cooperative/home-energy-assessment-database) - Documentation, conversions, and data supporting Climate Cooperative's home energy audit and calculation tools.
 - [GridWorks SpaceHeat SCADA](https://github.com/thegridelectric/gw-scada-spaceheat-python) - Intended for running a heat pump thermal storage space heating system in a house, and doing this transactively.
+- [ComStock](https://github.com/NREL/ComStock) - National scale modeling of the U.S. commercial building stock supported by U.S. DOE, LADWP, and others and maintained by NREL
 
 ### Mobility and Transportation
 - [stplanr](https://github.com/ropensci/stplanr) - A package for sustainable transport planning with R.
