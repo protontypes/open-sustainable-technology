@@ -1155,6 +1155,7 @@ energy system designs and analysis of interactions between technologies.
 - [ELMFIRE](https://github.com/lautenberger/elmfire) - An operational wildland fire spread model.
 - [Cell2Fire](https://github.com/cell2fire/Cell2Fire) - A cell-based forest and wildland landscape fire spread simulator.
 - [FireAlert](https://github.com/Plant-for-the-Planet-org/FireAlert) - Alerts you when heat anomalies are detected by NASA's FIRMS in your forest.
+- [Planscape](https://github.com/OurPlanscape/Planscape) - Help regional planners prioritize landscape treatments for mitigating fire risk, maximizing ecological benefits and helping California′s landscapes adapt to climate change.
 
 
 ### Marine Life and Fishery
