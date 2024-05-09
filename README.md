@@ -1982,6 +1982,7 @@ energy system designs and analysis of interactions between technologies.
 - [Soil Freeze-thaw Model](https://github.com/NOAA-OWP/SoilFreezeThaw) - The soil freeze-thaw model simulates the transport of heat in soil using a one-dimensional vertical column.
 - [rsi](https://github.com/Permian-Global-Research/rsi) - Code for Retriving STAC Information, addressing Repeated Spatial Infelicities and interfacing with Rsome Spectral Indices.
 - [ClimaLand.jl](https://github.com/CliMA/ClimaLand.jl/) - Create and run land models in integrated or standalone modes.
+- [RBBGCMuso](https://github.com/hollorol/RBBGCMuso) - A software package that supports the application of the Biome-BGCMuSo biogeochemical mode, which simulates the storage and fluxes of water, carbon and nitrogen between the ecosystem and the atmosphere, and within the components of the terrestrial ecosystem.
 
 
 ## Sustainable Development
