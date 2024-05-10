@@ -1047,6 +1047,7 @@ energy system designs and analysis of interactions between technologies.
 - [Ecoscope](https://github.com/wildlife-dynamics/ecoscope) - An open-source analysis module for tracking, environmental and conservation data analyses.
 - [Climate Change Informed Species Selection](https://github.com/bcgov/CCISS_ShinyApp) - A Biogeoclimatic Ecosystem Classification-based analysis framework built to anticipate the change climate implications to tree species environmental suitability at a site specific level.
 - [UDef-ARP](https://github.com/ClarkCGA/UDef-ARP) - Facilitate implementation of the Verra tool, VT0007 Unplanned Deforestation Allocation.
+- [EMMA](https://github.com/AdamWilsonLab/emma_envdata) - The core repository for environmental data processing in the Ecological Monitoring and Management Application EMMA.io.
 
 ### Forest Observation and Management
 - [ECOSTRESS](https://ecostress.jpl.nasa.gov/) - The images acquired by ECOSTRESS are the most detailed temperature images of the surface ever acquired from space and can be used to measure the temperature of an individual farmers field and plants.
