@@ -1920,6 +1920,7 @@ energy system designs and analysis of interactions between technologies.
 - [LDCast](https://github.com/MeteoSwiss/ldcast) - A precipitation nowcasting model based on a latent diffusion model.
 - [WaterTAP](https://github.com/watertap-org/watertap) - Create an open-source water treatment model library that is compatible with the IDAES Platform.
 - [MATILDA](https://github.com/cryotools/matilda) - Tool for modeling water resources in glacierized catchments.
+- [PyPES](https://github.com/we3lab/pype-schema) - A class hierarchy designed to represent configurations of process engineering systems, such as wastewater treatment or desalination plants.
 
 ### Soil and Land
 - [SoilGrids250m](https://github.com/ISRICWorldSoil/SoilGrids250m) - Global Spatial predictions of soil properties and classes at 250 m resolution.
