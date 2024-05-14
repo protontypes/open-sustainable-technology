@@ -2202,6 +2202,7 @@ energy system designs and analysis of interactions between technologies.
 - [Awesome-Earth-Artificial-Intelligence](https://github.com/ESIPFed/Awesome-Earth-Artificial-Intelligence) - A curated list of tutorials, notebooks, software, datasets, courses, books, video lectures and papers specifically for Artificial Intelligence use cases in Earth Science.
 - [Callisto-Dataset-Collection](https://github.com/Agri-Hub/Callisto-Dataset-Collection) - A list of datasets aiming to enable Artificial Intelligence applications that use Earth Observation, satellite and other data.
 - [Awesome ERDDAP](https://github.com/IrishMarineInstitute/awesome-erddap) - A curated list of awesome Environmental Research Division's Data Access Program (ERDDAP) projects and deployments.
+- [Awesome Large Weather Models](https://github.com/jaychempan/Awesome-LWMs) - A collection of articles on Large Weather Models (LWMs), to make it easier to find and learn.
 
 
 ## Contributors
