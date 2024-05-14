@@ -1213,6 +1213,7 @@ energy system designs and analysis of interactions between technologies.
 - [CASAL2](https://github.com/NIWAFisheriesModelling/CASAL2) - Models can be used for a single population with a single anthropogenic event (in a fish population model this would be a single fishery), or for multiple species and populations, areas, and/or anthropogenic or exploitation methods, and including predator-prey interactions.
 - [etn](https://github.com/inbo/etn) - Provides functionality to access data from the European Tracking Network (ETN) database hosted by the Flanders Marine Institute (VLIZ) as part of the Flemish contribution to LifeWatch.
 - [OpenFish](https://github.com/ausocean/openfish) - An open-source system written in GoLang for classifying marine species.
+- [FishGlob_data](https://github.com/AquaAuma/FishGlob_data) - An integrated database of fish biodiversity sampled with scientific bottom trawl survey.
   
 ### Terrestrial Animals
 - [auk](https://github.com/CornellLabofOrnithology/auk) - eBird Data Extraction and Processing in R.
