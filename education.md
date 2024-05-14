@@ -64,6 +64,7 @@
 - [Utilizing Open Science Techniques for Exploring Greenhouse Gas Data](https://us-ghg-center.github.io/ams-2024-workshop/) - An Interactive Workshop on the U.S. Greenhouse Gas Center and VEDA Tools for use in Earth Science Research
 - [PyPRECIS](https://github.com/MetOffice/PyPRECIS) - A learning tool to faciliate processing of regional climate model output.
 - [CSDMS Ivy](https://github.com/csdms/ivy) - Course material on scientific software development for researchers in earth and planetary surface processes.
+- [Sketchbook Earth](https://github.com/ECMWFCode4Earth/sketchbook-earth) - A project aiming to illustrate the production of Climate Intelligence Reports, traditionally done with the ECMWF’s in-house developed tools.
 
 ## Earth Observation 
 - [Radiant MLHub Tutorials](https://github.com/radiantearth/mlhub-tutorials) - Tutorials to access Radiant MLHub Training Datasets.
