@@ -395,6 +395,7 @@ energy system designs and analysis of interactions between technologies.
 - [Energy Transition Engine](https://github.com/quintel/etengine) - Calculation engine for the Energy Transition Model.
 - [pommesdispatch](https://github.com/pommes-public/pommesdispatch) - A bottom-up fundamental power market model for the German electricity sector.
 - [optihood](https://github.com/SPF-OST/optihood) -  A python-based framework to optimize the investment in alternative energy technologies as well as the operation of available energy resources for decentralized energy networks on a neighbourhood-scale.
+- [NEMS](https://github.com/EIAgov/NEMS) - A long-term energy-economy modeling system of U.S. energy markets.
 
 
 ### Energy Distribution and Grids
