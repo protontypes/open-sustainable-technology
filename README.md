@@ -1732,6 +1732,7 @@ energy system designs and analysis of interactions between technologies.
 - [CoPro](https://github.com/JannisHoch/copro) - A machine-learning tool for conflict risk projections based on climate, environmental, and societal drivers.
 - [python-cmethods](https://github.com/btschwertfeger/python-cmethods) - Serves as a collection of different scale- and distribution-based bias correction techniques for climatic research.
 - [Climakitae](https://github.com/cal-adapt/climakitae) - Enable a transition from climate vulnerability assessments to decision support for investor-owned utilities and other stakeholders.
+- [xeofs](https://github.com/xarray-contrib/xeofs) - A dedicated Python package for dimensionality reduction in the realm of climate science, offering methods like PCA, known as EOF analysis within the field, and related variants.
 
 ### Climate Downscaling
 - [ICAR](https://github.com/NCAR/icar) - A simplified atmospheric model designed primarily for climate downscaling, atmospheric sensitivity tests, and hopefully educational uses.
