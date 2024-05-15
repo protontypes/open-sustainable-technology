@@ -1216,6 +1216,7 @@ energy system designs and analysis of interactions between technologies.
 - [etn](https://github.com/inbo/etn) - Provides functionality to access data from the European Tracking Network (ETN) database hosted by the Flanders Marine Institute (VLIZ) as part of the Flemish contribution to LifeWatch.
 - [OpenFish](https://github.com/ausocean/openfish) - An open-source system written in GoLang for classifying marine species.
 - [FishGlob_data](https://github.com/AquaAuma/FishGlob_data) - An integrated database of fish biodiversity sampled with scientific bottom trawl survey.
+- [Monitorfish](https://github.com/MTES-MCT/monitorfish) - Improve control and monitoring of fishing vessels activities.
   
 ### Terrestrial Animals
 - [auk](https://github.com/CornellLabofOrnithology/auk) - eBird Data Extraction and Processing in R.
