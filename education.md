@@ -129,6 +129,7 @@
 - [Digital Soil Mapping](https://padasch.github.io/tutorial_digital_soil_mapping/) - This online book covers the tutorial on digital soil mapping from the course Applied Geodata Science 2 at the University of Bern.
 - [python-for-hydrology](https://github.com/DOI-USGS/python-for-hydrology) - Focusing on general python for data analysis in hydrologic contexts and the python interface into MODFLOW for groundwater modeling.
 - [PyNotes in Agriscience](https://github.com/soilwater/pynotes-agriscience) - A set of hands-on coding exercises to solve common tasks and simple problems in agricultural sciences.
+- [Decision Support Modelling Notebooks](https://github.com/gmdsi/GMDSI_notebooks) - Provide an introduction to both the concepts and the practicalities of undertaking decision-support groundwater modelling with the PEST/PEST++ and pyEMU suites of software.
 
 ## Sustainable Development Goals
 - [SDG Academy](https://sdgacademy.org/courses/) - Education platform of the Sustainable Development Solutions Network (SDSN), a global initiative for the United Nations.
