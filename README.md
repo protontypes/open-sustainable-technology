@@ -802,7 +802,8 @@ energy system designs and analysis of interactions between technologies.
 - [gridemissions](https://github.com/jdechalendar/gridemissions) - Displays the hourly carbon footprint of the US electricity system.
 - [pyELQ](https://github.com/sede-open/pyELQ) - Detect, localize, and quantify methane emissions from concentration and wind measurements.
 - [Technology-Carbon-Standard](https://github.com/ScottLogic/Technology-Carbon-Standard) - Aims to provide a unified standard for understanding, quantifying, and reducing carbon emissions from an organisation's technology landscape.
-- [Open-IMO-CII-Calculator](https://github.com/Etive-Mor/Open-IMO-CII-Calculator) - A C# library for calculating the carbon intensity indicator for ships, in accordance with the International Maritime Organization's carbon regulations. 
+- [Open-IMO-CII-Calculator](https://github.com/Etive-Mor/Open-IMO-CII-Calculator) - A C# library for calculating the carbon intensity indicator for ships, in accordance with the International Maritime Organization's carbon regulations.
+- [The NHS Emission Quantification Recipe Book](https://github.com/danwrisar/KMSIMG_NHS_EmissionsRecipeBook) - A transparent, collaborative and evidence-based approach to establishing a standardised means of calculating emissions associated with NHS Carbon Footprint and Carbon Footprint Plus.
 
 ### Carbon Offsets and Trading 
 - [Carbon Dioxide Removal Database](https://github.com/carbonplan/cdr-database) - Open science reports on carbon removal projects and technologies.
