@@ -118,6 +118,7 @@
 - [The Argo Online School](https://euroargodev.github.io/argoonlineschool/intro.html) - Teach the basic foundations to use and understand Argo an international program that collects information from inside the ocean using a fleet of floats that drift with the ocean currents.
 - [Analytical Groundwater Modeling](https://github.com/pythongroundwaterbook/analytic_gw_book) - Analytical Groundwater Modeling: Theory and Applications Using Python.
 - [Intro to Physical Oceanography](https://github.com/rabernat/intro_to_physical_oceanography) - Course materials for Introduction to Physical Oceanography.
+- [Coastal Dynamics Open Codebook](https://github.com/floriscalkoen/CoastalCodeBook) - Discusses the interrelation between physical wave, flow, and sediment transport phenomena and the resulting morphodynamics of a wide variety of coastal systems.
 
 
 ## Natural Resources 
