@@ -707,6 +707,7 @@ energy system designs and analysis of interactions between technologies.
 - [HBERT](https://github.com/HawkinsbrownArch/HBERT) - A open source Revit plug in that measure the embodied carbons of materials applied within a Revit model.
 - [CloudScanner](https://github.com/Boavizta/cloud-scanner) - Get Boavizta impact data for your AWS cloud account usage.
 - [Impact Framework](https://github.com/Green-Software-Foundation/if) -  Model, Measure, simulate and monitor the environmental impacts of software.
+- [Cloud Scanner](https://github.com/Boavizta/cloud-scanner) - Combines real time inventory and usage data from your AWS account with Boavizta API to offer a view of your impacts on a given region.
 
 ### Agriculture and Nutrition
 - [Farmbot](https://github.com/FarmBot/Farmbot-Web-App) - Humanity's open-source CNC farming machine.
