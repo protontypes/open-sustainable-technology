@@ -1619,6 +1619,7 @@ energy system designs and analysis of interactions between technologies.
 - [TSMP](https://github.com/HPSCTerrSys/TSMP) - An open source scale-consistent, highly modular, massively parallel regional Earth system model.
 - [helios](https://github.com/JGCRI/helios) - An R package to process heating and cooling degrees for the Global Change Analysis Model (GCAM) from various sources such as WRF and CMIP.
 - [NeuralGCM](https://github.com/google-research/neuralgcm) - A package for building hybrid ML+Physics atmospheric models for weather and climate simulations.
+- [FMS Coupler](https://github.com/NOAA-GFDL/FMScoupler) - A software framework for supporting the efficient development, construction, execution, and scientific interpretation of atmospheric, oceanic, and climate system models.
 
 ### Climate Data Standards 
 - [cf-conventions](https://github.com/cf-convention/cf-conventions) - The conventions for CF (Climate and Forecast) metadata are designed to promote the processing and sharing of files created with the NetCDF API.
