@@ -76,6 +76,7 @@
 - [GALUP](https://github.com/SERVIR-WA/GALUP) - Build local capacity in the region of Ghana regarding remote sensing and GIS, and transfer the land use planning framework for continued planning.
 - [OCO2-OCO3](https://github.com/sagarlimbu0/OCO2-OCO3) - For public accessibility and data visualization, a beginner-level tutorial is available for users interested in exploring the OCO2 and OCO3 data.
 - [Using NASA Satellite Data for Real-Time Environmental Monitoring](https://github.com/JeremyDForsythe/icecream-tutorials) - Using NASA's ECOSTRESS Satellite Data for Real-Time Environmental Monitoring.
+- [Landsat ML Cookbook](https://github.com/ProjectPythia/landsat-ml-cookbook) - Covers the essential materials for working with Landsat data in the context of machine learning workflows.
 
 
 ## Earth Systems 
