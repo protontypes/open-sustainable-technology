@@ -65,6 +65,7 @@
 - [PyPRECIS](https://github.com/MetOffice/PyPRECIS) - A learning tool to faciliate processing of regional climate model output.
 - [CSDMS Ivy](https://github.com/csdms/ivy) - Course material on scientific software development for researchers in earth and planetary surface processes.
 - [Sketchbook Earth](https://github.com/ECMWFCode4Earth/sketchbook-earth) - A project aiming to illustrate the production of Climate Intelligence Reports, traditionally done with the ECMWF’s in-house developed tools.
+- [CMIP6 Cookbook](https://github.com/ProjectPythia/cmip6-cookbook) - This Project Pythia Cookbook covers examples of analysis of Google Cloud CMIP6 data using Pangeo tools.
 
 ## Earth Observation 
 - [Radiant MLHub Tutorials](https://github.com/radiantearth/mlhub-tutorials) - Tutorials to access Radiant MLHub Training Datasets.
