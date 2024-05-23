@@ -1554,6 +1554,7 @@ energy system designs and analysis of interactions between technologies.
 - [MSC AniMet](https://github.com/ECCC-MSC/msc-animet) - A simple tool enabling users to interact with MSC Open Data weather data and create custom weather animations for any area in the world.
 - [ifk-smhi](https://github.com/Ingenjorsarbete-For-Klimatet/ifk-smhi) - Python interface to the Swedish Meteorological and Hydrological Institute, which provides climate and weather data.
 - [riem](https://github.com/ropensci/riem) - Allows to get weather data from ASOS airports stations all around the globe.
+- [PyCINRAD](https://github.com/CyanideCN/PyCINRAD) - Decode CINRAD (China New Generation Weather Radar) data and visualize.
 
 ### Radiative Transfer
 - [lowtran](https://github.com/space-physics/lowtran) - Atmospheric absorption extinction, scatter and irradiance model in Python and Matlab.
