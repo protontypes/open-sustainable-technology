@@ -5,7 +5,7 @@
 <!--lint disable double-link-->
 <br> [![](https://badgen.net/badge/View/Spreadsheets/009485?scale=1.6)](https://docs.getgrist.com/gSscJkc5Rb1R/OpenSustaintech)
 [![](https://badgen.net/badge/Download/Report/009485?scale=1.6)](https://raw.githubusercontent.com/protontypes/open-source-in-environmental-sustainability/main/OpenSourceSustainabilityEcosystem_080423.pdf) 
-[![](https://badgen.net/badge/Add/Project/009485?scale=1.6)](https://opensustain.tech/contributing/#contribution-guide) <br> [![](https://badgen.net/badge/Icon/Sponsor/009485?scale=1.6&label=%F0%9F%92%9d)](https://opencollective.com/open-sustainable-technology) [![](https://badgen.net/badge/icon/Follow%20Entries/009485?scale=1.6&icon=mastodon&label)](https://mastodon.social/@opensustaintech) [![](https://badgen.net/badge/Find/Good%20First%20Issues/009485?scale=1.6l)](https://climatetriage.com/) 
+[![](https://badgen.net/badge/Add/Project/009485?scale=1.6)](https://opensustain.tech/contributing/#contribution-guide) <br> [![](https://badgen.net/badge/Icon/Sponsor/009485?scale=1.6&label=%F0%9F%92%9d)](https://opencollective.com/open-sustainable-technology) [![](https://badgen.net/badge/icon/Follow%20Entries/009485?scale=1.6&icon=mastodon&label)](https://mastodon.social/@opensustaintech) [![](https://badgen.net/badge/Find/Good%20First%20Issues/009485?scale=1.6l)](https://climatetriage.com/) <br> [![](https://badgen.net/badge/Find%20Coding/Cookbooks/009485?scale=1.6)](https://opensustain.tech/education/) [![](https://badgen.net/badge/Download/CSV/009485?scale=1.6)](https://github.com/protontypes/AwesomeCure/tree/main/csv) 
 
 
  Your contribution is essential to [keep this initative alive](https://opencollective.com/open-sustainable-technology). Create [a pull request](https://github.com/protontypes/open-sustainable-technology/blob/main/CONTRIBUTING.md) to add a new project or [send an email](mailto:tobias.augspurger@protontypes.eu) to give feedback, tips and ideas considering [OpenSustain.tech](https://opensustain.tech/). All _Good First Issue_ labelled issues of the listed projects will be visible on [ClimateTriage.com](https://climatetriage.com/).
@@ -1555,6 +1555,8 @@ energy system designs and analysis of interactions between technologies.
 - [ifk-smhi](https://github.com/Ingenjorsarbete-For-Klimatet/ifk-smhi) - Python interface to the Swedish Meteorological and Hydrological Institute, which provides climate and weather data.
 - [riem](https://github.com/ropensci/riem) - Allows to get weather data from ASOS airports stations all around the globe.
 - [WRaINfo](https://git.gfz-potsdam.de/fernlab/products/furuno/wrainfo) - A software for real-time weather radar data processing, specifically designed for X-band weather radars of FURUNO.
+- [PyCINRAD](https://github.com/CyanideCN/PyCINRAD) - Decode CINRAD (China New Generation Weather Radar) data and visualize.
+- [Py-ART](https://github.com/ARM-DOE/pyart) - A data model driven interactive toolkit for working with weather radar data.
 
 ### Radiative Transfer
 - [lowtran](https://github.com/space-physics/lowtran) - Atmospheric absorption extinction, scatter and irradiance model in Python and Matlab.
@@ -1939,6 +1941,7 @@ energy system designs and analysis of interactions between technologies.
 - [WaterTAP](https://github.com/watertap-org/watertap) - Create an open-source water treatment model library that is compatible with the IDAES Platform.
 - [MATILDA](https://github.com/cryotools/matilda) - Tool for modeling water resources in glacierized catchments.
 - [PyPES](https://github.com/we3lab/pype-schema) - A class hierarchy designed to represent configurations of process engineering systems, such as wastewater treatment or desalination plants.
+- [PARETO](https://github.com/project-pareto/project-pareto) - An Optimization Framework for Produced Water Management and Beneficial Reuse.
 
 ### Soil and Land
 - [SoilGrids250m](https://github.com/ISRICWorldSoil/SoilGrids250m) - Global Spatial predictions of soil properties and classes at 250 m resolution.
