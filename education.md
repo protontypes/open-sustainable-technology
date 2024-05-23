@@ -65,6 +65,7 @@
 - [PyPRECIS](https://github.com/MetOffice/PyPRECIS) - A learning tool to faciliate processing of regional climate model output.
 - [CSDMS Ivy](https://github.com/csdms/ivy) - Course material on scientific software development for researchers in earth and planetary surface processes.
 - [Sketchbook Earth](https://github.com/ECMWFCode4Earth/sketchbook-earth) - A project aiming to illustrate the production of Climate Intelligence Reports, traditionally done with the ECMWF’s in-house developed tools.
+- [CMIP6 Cookbook](https://github.com/ProjectPythia/cmip6-cookbook) - This Project Pythia Cookbook covers examples of analysis of Google Cloud CMIP6 data using Pangeo tools.
 
 ## Earth Observation 
 - [Radiant MLHub Tutorials](https://github.com/radiantearth/mlhub-tutorials) - Tutorials to access Radiant MLHub Training Datasets.
@@ -76,6 +77,7 @@
 - [GALUP](https://github.com/SERVIR-WA/GALUP) - Build local capacity in the region of Ghana regarding remote sensing and GIS, and transfer the land use planning framework for continued planning.
 - [OCO2-OCO3](https://github.com/sagarlimbu0/OCO2-OCO3) - For public accessibility and data visualization, a beginner-level tutorial is available for users interested in exploring the OCO2 and OCO3 data.
 - [Using NASA Satellite Data for Real-Time Environmental Monitoring](https://github.com/JeremyDForsythe/icecream-tutorials) - Using NASA's ECOSTRESS Satellite Data for Real-Time Environmental Monitoring.
+- [Landsat ML Cookbook](https://github.com/ProjectPythia/landsat-ml-cookbook) - Covers the essential materials for working with Landsat data in the context of machine learning workflows.
 
 
 ## Earth Systems 
@@ -88,6 +90,7 @@
 - [Python for Atmosphere and Ocean Scientists](https://github.com/carpentrieslab/python-aos-lesson) - Contains the Data Carpentry lesson materials for a single day workshop on using python in the atmosphere and ocean sciences.
 - [How to work with meteorological ECMWF data](https://github.com/ecmwf/notebook-examples) - A good starting point how you can work with European Centre for Medium-Range Weather Forecasts (ECMWF) services and data through Python using Jupyter notebooks.
 - [WEkEO4Atmosphere](https://github.com/wekeo/wekeo4atmosphere) - With the help of cases studies about the monitoring of wildfires and air quality, Copernicus atmosphere data from the Copernicus Programme are introduced.
+- [Radar Cookbook](https://github.com/ProjectPythia/radar-cookbook) - This Project Pythia Cookbook covers the basics of working with weather radar data in Python.
 
 
 ### Cryosphere 
