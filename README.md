@@ -2090,6 +2090,7 @@ energy system designs and analysis of interactions between technologies.
 - [kartevonmorgen](https://github.com/kartevonmorgen/kartevonmorgen.ts) - We make all sustainable companies and change initiatives visible on the map of tomorrow.
 
 ### Data Catalogs and Interfaces
+- [Climate Data Store](https://cds.climate.copernicus.eu/) - Dive into this wealth of information about the Earth's past, present and future climate.
 - [Global Fishing Watch](https://globalfishingwatch.org/) - We use cutting-edge technology to visualise, track and share data about global fishing activity in near real-time and for free.
 - [Global Wind Atlas](https://globalwindatlas.info/) - Immediately start exploring windy areas.
 - [Global Solar Atlas](https://globalsolaratlas.info/) - Start exploring solar potential.
