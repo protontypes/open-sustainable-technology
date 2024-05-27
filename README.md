@@ -1560,7 +1560,9 @@ energy system designs and analysis of interactions between technologies.
 - [WRaINfo](https://git.gfz-potsdam.de/fernlab/products/furuno/wrainfo) - A software for real-time weather radar data processing, specifically designed for X-band weather radars of FURUNO.
 - [PyCINRAD](https://github.com/CyanideCN/PyCINRAD) - Decode CINRAD (China New Generation Weather Radar) data and visualize.
 - [Py-ART](https://github.com/ARM-DOE/pyart) - A data model driven interactive toolkit for working with weather radar data.
+- [eccodes](https://github.com/ecmwf/eccodes) -  The primary GRIB encoding/decoding package used at European Centre for Medium-Range Weather Forecasts used in meteorology to store historical and forecast weather data.
 - [magics](https://github.com/ecmwf/magics) - Plotting package to visualise meteorological data in GRIB, NetCDF, BUFR and ODB format.
+
 
 ### Radiative Transfer
 - [lowtran](https://github.com/space-physics/lowtran) - Atmospheric absorption extinction, scatter and irradiance model in Python and Matlab.
