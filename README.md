@@ -443,6 +443,7 @@ energy system designs and analysis of interactions between technologies.
 - [GridPACK](https://github.com/GridOPTICS/GridPACK) - An open-source high-performance package for simulation of large-scale electrical grids.
 - [CLOVER](https://github.com/CLOVER-energy/CLOVER) - A minigrid simulation and optimisation for supporting rural electrification in developing countries.
 - [ExaGO](https://github.com/pnnl/ExaGO) - High-performance power grid optimization for stochastic, security-constrained, and multi-period ACOPF problems.
+- [DISPATCHES](https://github.com/gmlc-dispatches/dispatches) - Developed and used to identify and optimize Integrated Energy Systems for operation within the bulk power system via energy market signals.
 
 ### Energy Monitoring and Management 
 - [Open Energy Dashboard](https://github.com/OpenEnergyDashboard/OED) - Open Energy Dashboard is a user-friendly way to display energy information from smart energy meter.
