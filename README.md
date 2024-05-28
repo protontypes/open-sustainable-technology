@@ -808,6 +808,7 @@ energy system designs and analysis of interactions between technologies.
 - [Open-IMO-CII-Calculator](https://github.com/Etive-Mor/Open-IMO-CII-Calculator) - A C# library for calculating the carbon intensity indicator for ships, in accordance with the International Maritime Organization's carbon regulations.
 - [The NHS Emission Quantification Recipe Book](https://github.com/danwrisar/KMSIMG_NHS_EmissionsRecipeBook) - A transparent, collaborative and evidence-based approach to establishing a standardised means of calculating emissions associated with NHS Carbon Footprint and Carbon Footprint Plus.
 - [Open Sustainability Index](https://github.com/Open-Sustainability-Index/open-sustainability-index-backend) - An open, transparent, wikipedia-like sustainability database - aiming to accelerate comparable corporate sustainability data.
+- [GHGPy](https://github.com/iClimate/ghgpy) - An open-source greenhouse gas accounting tool. Compliant with IPCC 2006 and GHG Protocol, with the latest database update.
 
 
 ### Carbon Offsets and Trading 
