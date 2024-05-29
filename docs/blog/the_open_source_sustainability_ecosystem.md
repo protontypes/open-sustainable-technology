@@ -1,9 +1,9 @@
 # The Open Source Sustainability Ecosystem - Report Release 2023
 
-Opensustain.tech has recently published a study providing the first analysis of the health and vibrancy of open source software in sustainability and climate technology. Read the [extended website version](https://report.opensustain.tech/chapters/geography-of-organisations.html) of the [PDF version](https://raw.githubusercontent.com/protontypes/open-source-in-environmental-sustainability/main/OpenSourceSustainabilityEcosystem_080423.pdf) 
-
- _Tobias Augspurger_  [:fontawesome-brands-twitter:](https://twitter.com/protontypes) · _Eirini Malliaraki_ · _Josh Hopkins_
+ __Tobias Augspurger__  [:fontawesome-brands-twitter:](https://twitter.com/protontypes) · __Eirini Malliaraki__ · __Josh Hopkins__
 · :octicons-calendar-24: January 11, 2023
+
+Opensustain.tech has recently published a study providing the first analysis of the health and vibrancy of open source software in sustainability and climate technology. Read the [extended website version](https://report.opensustain.tech/chapters/geography-of-organisations.html) of the [PDF version](https://raw.githubusercontent.com/protontypes/open-source-in-environmental-sustainability/main/OpenSourceSustainabilityEcosystem_080423.pdf) 
 
 Open source culture has demonstrated how transparent and collaborative innovation can support modern digital services, data, and infrastructure. Yet, despite its transformative impact and use within an estimated 97% of digital products, the potential of open source for developing environmentally sustainable technologies is not well understood.
 
