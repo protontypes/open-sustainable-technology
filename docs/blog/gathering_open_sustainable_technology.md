@@ -1,6 +1,6 @@
 # Gathering Open Sustainable Technology
 
- __Tobias Augspurger __  [:fontawesome-brands-twitter:](https://twitter.com/protontypes) · __Tjark Döring__ · __Felix Dietze__ · __Johannes Karoff__ · :octicons-calendar-24: October 20, 2020
+ __Tobias Augspurger__  [:fontawesome-brands-twitter:](https://twitter.com/protontypes) · __Tjark Döring__ · __Felix Dietze__ · __Johannes Karoff__ · :octicons-calendar-24: October 20, 2020
 
 
 As climate change is a globally emerging challenge, protontypes is starting the unique attempt to map all open sustainable technology in one list. Surprisingly, we have not found anything similar. In our mission to accelerate open sustainable technology, we recognize that it is difficult to get an overview of open technology in sustainable areas such as renewable energy. That's why we started this list to gather all awesome sustainable technology:

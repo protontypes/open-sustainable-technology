@@ -1,6 +1,6 @@
 # Open Principles for a Sustainable Technology Transition
 
- __Tobias Augspurger __  [:fontawesome-brands-twitter:](https://twitter.com/protontypes) ·                __Alejandro Aristi__ [:fontawesome-brands-twitter:](https://twitter.com/elaristi) · __Tjark              Döring__ · :octicons-calendar-24: January 29, 2021
+ __Tobias Augspurger__  [:fontawesome-brands-twitter:](https://twitter.com/protontypes) ·                __Alejandro Aristi__ [:fontawesome-brands-twitter:](https://twitter.com/elaristi) · __Tjark              Döring__ · :octicons-calendar-24: January 29, 2021
 
 A transformation towards a sustainability-driven economy will challenge all of the upcoming generations. Given the complexity of the changes required, a global and open collaboration is essential. Here are 4 reasons why a transition towards sustainability should follow open practices.
 
