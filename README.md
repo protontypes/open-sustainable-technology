@@ -1356,7 +1356,6 @@ energy system designs and analysis of interactions between technologies.
 - [fwapg](https://github.com/smnorris/fwapg) - Extends British Columbia's Freshwater Atlas with PostgreSQL/PostGIS.
 - [HSPsquared](https://github.com/respec/HSPsquared) - A Python port of the Hydrological Simulation Program - FORTRAN, which has been used worldwide for more than 40 years to support water resources planning and management.
 
-
 ### Ocean Circulation Models
 - [MOM6](https://github.com/NOAA-GFDL/MOM6) - A numerical representation of the ocean fluid with applications from the process scale to the planetary circulation scale.
 - [MOM5](https://github.com/mom-ocean/MOM5) - A numerical ocean model based on the hydrostatic primitive equations.
@@ -1814,6 +1813,7 @@ energy system designs and analysis of interactions between technologies.
 - [Infrastructure Risk Visualisation Tool](https://github.com/nismod/infra-risk-vis) - Aims to support climate adaptation decision-making by identifying spatial vulnerabilities and risks under current and future climate scenarios.
 - [Open Global Infrastructure Risk/Resilience Analysis](https://github.com/nismod/open-gira) - Can be used to analyse environmental risks to infrastructure networks using global open data.
 - [TropiDash](https://github.com/ECMWFCode4Earth/TropiDash) - A visualization tool designed to empower researchers, meteorologists, and enthusiasts with the ability to analyze and interpret tropical cyclone data effectively.
+- [ADCIRC](https://github.com/adcirc/adcirc) - A system of computer programs for solving time-dependent, free-surface circulation and transport problems in two and three dimensions in applications such as storm surge and flood prediction.
 
 ### Integrated Assessment and Climate Policy 
 - [PRIMAP2](https://github.com/pik-primap/primap2) - The next generation climate policy analysis suite.
