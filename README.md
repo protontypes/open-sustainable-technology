@@ -687,7 +687,7 @@ energy system designs and analysis of interactions between technologies.
 - [CodeCarbon](https://github.com/mlco2/codecarbon) - Track emissions from Compute and recommend ways to reduce their impact on the environment.
 - [experiment-impact-tracker](https://github.com/Breakend/experiment-impact-tracker) - Meant to be a simple drop-in method to track energy usage, carbon emissions, and compute utilization of your system.
 - [Environmental Footprint Data](https://github.com/Boavizta/environmental-footprint-data) - Aims to reference as much data as possible to help organizations to evaluate the environmental footprint of their information systems, applications and digital services.
-- [Carbonalyser](https://github.com/carbonalyser/Carbonalyser) - Allows to visualize the electricity consumption and greenhouse gases emissions that your Internet browsing leads to.
+- [Carbonalyser](https://github.com/carbonalyser/Carbonalyser) - Allows to visualize the electricity consumption and greenhouse gases emissions that your Internet bro# Waterng leads to.
 - [carbontracker](https://github.com/lfwa/carbontracker) - Track and predict the energy consumption and carbon footprint of training deep learning models.
 - [green-ai](https://github.com/daviddao/green-ai) - The Green AI Standard aims to develop a standard and raise awareness for best environmental practices in AI research and development.
 - [Carbon Aware SDK](https://github.com/Green-Software-Foundation/carbon-aware-sdk/) - Helps you build the carbon aware software solutions with the intelligence to use the greenest energy sources.
@@ -1955,7 +1955,8 @@ energy system designs and analysis of interactions between technologies.
 - [MATILDA](https://github.com/cryotools/matilda) - Tool for modeling water resources in glacierized catchments.
 - [PyPES](https://github.com/we3lab/pype-schema) - A class hierarchy designed to represent configurations of process engineering systems, such as wastewater treatment or desalination plants.
 - [PARETO](https://github.com/project-pareto/project-pareto) - An Optimization Framework for Produced Water Management and Beneficial Reuse.
-
+- [WSIMOD](https://github.com/ImperialCollegeLondon/wsi) - Provides a message passing interface to enable different subsystem models to communicate water flux and water quality information between each other, and self-contained representations of the key parts of the water cycle.
+  
 ### Soil and Land
 - [SoilGrids250m](https://github.com/ISRICWorldSoil/SoilGrids250m) - Global Spatial predictions of soil properties and classes at 250 m resolution.
 - [SoilGrids](https://git.wur.nl/isric/soilgrids/soilgrids.notebooks/) - A system for automated soil mapping based on global soil profile and environmental covariate data at 250 m spatial resolution.
