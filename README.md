@@ -2032,6 +2032,7 @@ energy system designs and analysis of interactions between technologies.
 - [open-sdg](https://github.com/open-sdg/open-sdg) - A platform for collecting and disseminating data for the Sustainable Development Goal global indicators.
 - [SustainBench](https://github.com/sustainlab-group/sustainbench) - Benchmarks for Monitoring the Sustainable Development Goals with Machine Learning.
 - [OSDG](https://github.com/osdg-ai/osdg-tool) -  Tool that assigns Sustainable Development Goals labels to your input.
+- [OSDG Community Dataset](https://github.com/osdg-ai/osdg-data) - The OSDG Community Dataset is a public dataset of thousands of text excerpts, validated by OSDG Community Platform citizen scientists with respect to the Sustainable Development Goals.
 - [US Sustainable Development Goal indicators](https://github.com/GSA/sdg-indicators-usa) - U.S. National Reporting Platform for the Sustainable Development Goals.
 - [The SDG Transformation Center](https://sdgtransformationcenter.org/) - Science-based tools and analytics for SDG pathways, policies and financing.
 - [SDGmapR](https://github.com/CMUSustainability/SDGmapR) - R functions and datasets related to the mapping of text to the United Nations 17 Sustainable Development Goals.
