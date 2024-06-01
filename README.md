@@ -1031,6 +1031,7 @@ energy system designs and analysis of interactions between technologies.
 - [baRulho](https://github.com/maRce10/baRulho) - An R package to quantify habitat-induced degradation of (animal) acoustic signals.
 - [rvertnet](https://github.com/ropensci/rvertnet) - An R Wrapper to the VertNet API, a collaborative project that makes biodiversity data free and available on the web.
 - [geohabnet](https://github.com/GarrettLab/HabitatConnectivity) - Enable users to visualise a habitat connectivity risk index for agriculture using their own parameter values.
+- [fundiversity](https://github.com/funecology/fundiversity) - Provides a lightweight package to compute common functional diversity indices.
 
 ### Conservation and Restoration
 - [forestatrisk](https://github.com/ghislainv/forestatrisk) - A Python package to model and forecast the risk of deforestation.
