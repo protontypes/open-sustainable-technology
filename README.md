@@ -1449,7 +1449,7 @@ energy system designs and analysis of interactions between technologies.
 - [GlobalDeltaChange](https://github.com/jhnienhuis/GlobalDeltaChange) - A theoretical framework to predict delta morphology and delta change, and a set of codes to make this predictions on a global scale for about 11,000 deltas.
 - [WaterwayMap](https://github.com/amandasaurus/waterwaymap.org) - River Basins from OpenStreetMap.
 - [gwavr](https://github.com/joshualerickson/gwavr) - Allows the user to point and click on areas within the United States and get back hydrological data, e.g. flowlines, catchments, basin boundaries, comids, etc.
-
+- [EPyGrAM](https://github.com/UMR-CNRM/EPyGrAM) - Enhanced Python for Graphics and Analysis of Meteorological fields.
 
 ## Atmosphere
 ### Atmospheric Composition and Dynamics
@@ -1480,7 +1480,6 @@ energy system designs and analysis of interactions between technologies.
 - [jsmetrics](https://github.com/Thomasjkeel/jsmetrics) - An open-source Python package containing implementations of various statistics and algorithms which have been developed to identify or characterise jet streams.
 - [pySonde](https://github.com/observingClouds/pysonde) - Converts Vaisala's radiosonde files (mwx) to netCDF4 and interpolates them if needed to a common height grid for easier processing.
 - [TurbulenceConvection.jl](https://github.com/CliMA/TurbulenceConvection.jl) - Provides a framework for testing parameterizations of clouds and turbulence.
-
 
 ### Atmospheric Dispersion and Transport
 - [MPTRAC](https://github.com/slcs-jsc/mptrac) - A Lagrangian particle dispersion model for the analysis of atmospheric transport processes in the free troposphere and stratosphere.
@@ -1566,7 +1565,6 @@ energy system designs and analysis of interactions between technologies.
 - [eccodes](https://github.com/ecmwf/eccodes) -  The primary GRIB encoding/decoding package used at European Centre for Medium-Range Weather Forecasts used in meteorology to store historical and forecast weather data.
 - [magics](https://github.com/ecmwf/magics) - Plotting package to visualise meteorological data in GRIB, NetCDF, BUFR and ODB format.
 - [agweather-qaqc](https://github.com/WSWUP/agweather-qaqc) - Flexible, command-line-driven software to quality control daily weather data and then calculate reference evapotranspiration.
-
 
 ### Radiative Transfer
 - [lowtran](https://github.com/space-physics/lowtran) - Atmospheric absorption extinction, scatter and irradiance model in Python and Matlab.
