@@ -1837,6 +1837,7 @@ energy system designs and analysis of interactions between technologies.
 - [AI for Global Climate Cooperation](https://github.com/mila-iqia/climate-cooperation-competition) - Modeling global cooperation in the RICE-N Integrated Assessment Model.
 - [Future Technology Transformation](https://github.com/cpmodel/FTT_StandAlone) - Integrated assessment model with a realistic treatment of technology diffusion.
 - [SDEverywhere](https://github.com/climateinteractive/SDEverywhere) - The framework for system dynamics models created for the global climate simulator En-ROADS, the climate policy simulator C-ROADS and the Energy Policy Simulator.
+- [GCAM-China](https://github.com/umd-cgs/gcam-china) - The Global Change Analysis Model with China provincial-level details.
 
 
 ## Natural Resources
