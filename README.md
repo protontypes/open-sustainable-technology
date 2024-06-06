@@ -1423,6 +1423,7 @@ energy system designs and analysis of interactions between technologies.
 - [Coastal Carbon Network Data Library](https://github.com/Smithsonian/CCN-Data-Library) - Accelerating the pace of discovery in coastal wetland carbon science by providing our community with access to data, analysis tools, and synthesis opportunities.
 - [HyperCoast](https://github.com/opengeos/HyperCoast) - A Python package for visualizing and analyzing hyperspetral data in coastal regions.
 - [baytrends](https://github.com/tetratech/baytrends) - Evaluate long-term trends in the Chesapeake Bay using a Generalized Additive Modeling approach.
+- [OpenCTD](https://github.com/OceanographyforEveryone/OpenCTD) - A low-cost, open-source CTD designed for budget-restricted scientists, educators, and researchers working in nearshore coastal ecosystems.
 
 ### Ocean and Hydrology Data Access
 - [HyRiver](https://github.com/cheginit/HyRiver) - A Python software stack for retrieving hydroclimate data from web services.
