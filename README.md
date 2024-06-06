@@ -1359,6 +1359,7 @@ energy system designs and analysis of interactions between technologies.
 - [Centerline-Width](https://github.com/cyschneck/centerline-width) - A Python package to find the centerline and width of rivers based on the latitude and longitude of the right and left bank.
 - [fwapg](https://github.com/smnorris/fwapg) - Extends British Columbia's Freshwater Atlas with PostgreSQL/PostGIS.
 - [HSPsquared](https://github.com/respec/HSPsquared) - A Python port of the Hydrological Simulation Program - FORTRAN, which has been used worldwide for more than 40 years to support water resources planning and management.
+- [The Canadian Hydrological Model](https://github.com/Chrismarsh/CHM) - A novel modular unstructured mesh based approach for hydrological modelling.
 
 ### Ocean Circulation Models
 - [MOM6](https://github.com/NOAA-GFDL/MOM6) - A numerical representation of the ocean fluid with applications from the process scale to the planetary circulation scale.
