@@ -1158,6 +1158,7 @@ energy system designs and analysis of interactions between technologies.
 - [MAAP](https://github.com/MAAP-Project/maap-api-nasa) - Discover and use biomass relevant data, integrating the data for comparison, analysis, evaluation, and generation.
 - [BioPAL](https://github.com/BioPAL/BioPAL) - The BIOMASS Product Algorithm Laboratory hosts official tools for processing and analysing ESA's BIOMASS mission data.
 - [allodb](https://github.com/ropensci/allodb) - An R package for biomass estimation at extratropical forest plots.
+- [CarbonViewer](https://github.com/NINAnor/carbonviewer) - R-shiny application for calculating peatland volume and carbon stock to support area planners and decision makers.
 
 ### Wildfire
 - [wildfire forecasting](https://github.com/ECMWFCode4Earth/wildfire-forecasting) - The project intends to reproduce the Fire Forecasting capabilities of GEFF using Deep Learning and develop further improvements in accuracy, geography and time scale through inclusion of additional variables or optimization of model architecture and hyperparameters.
