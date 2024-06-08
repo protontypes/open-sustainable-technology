@@ -1068,6 +1068,7 @@ energy system designs and analysis of interactions between technologies.
 - [UDef-ARP](https://github.com/ClarkCGA/UDef-ARP) - Facilitate implementation of the Verra tool, VT0007 Unplanned Deforestation Allocation.
 - [EMMA](https://github.com/AdamWilsonLab/emma_envdata) - The core repository for environmental data processing in the Ecological Monitoring and Management Application EMMA.io.
 - [SMART](https://smartconservationtools.org/) - Collect, measure and evaluate data to improve the effectiveness of your wildlife conservation efforts.
+- [Ground for Android](https://github.com/google/ground-android) - An map-first data collection platform built in collaboration with environmental non-profits and international organizations with the goal of driving sustainability impact at scale.
 
 ### Forest Observation and Management
 - [ECOSTRESS](https://ecostress.jpl.nasa.gov/) - The images acquired by ECOSTRESS are the most detailed temperature images of the surface ever acquired from space and can be used to measure the temperature of an individual farmers field and plants.
