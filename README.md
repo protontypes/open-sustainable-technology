@@ -1033,7 +1033,8 @@ energy system designs and analysis of interactions between technologies.
 - [baRulho](https://github.com/maRce10/baRulho) - An R package to quantify habitat-induced degradation of (animal) acoustic signals.
 - [rvertnet](https://github.com/ropensci/rvertnet) - An R Wrapper to the VertNet API, a collaborative project that makes biodiversity data free and available on the web.
 - [geohabnet](https://github.com/GarrettLab/HabitatConnectivity) - Enable users to visualise a habitat connectivity risk index for agriculture using their own parameter values.
-- [mFD](https://github.com/CmlMagneville/mFD) - Provides a “user friendly” interface to compute a global assessment of functional diversity by gathering computation of alpha and beta functional indices.
+- [mFD](https://github.com/CmlMagneville/mFD) - Provides a user friendly interface to compute a global assessment of functional diversity by gathering computation of alpha and beta functional indices.
+- [fundiversity](https://github.com/funecology/fundiversity) - Provides a lightweight package to compute common functional diversity indices.
 - [pygbif](https://github.com/gbif/pygbif) - Making the data of the Global Biodiversity Information Facility API accessible via Python.
 
 ### Conservation and Restoration
@@ -1158,6 +1159,7 @@ energy system designs and analysis of interactions between technologies.
 - [MAAP](https://github.com/MAAP-Project/maap-api-nasa) - Discover and use biomass relevant data, integrating the data for comparison, analysis, evaluation, and generation.
 - [BioPAL](https://github.com/BioPAL/BioPAL) - The BIOMASS Product Algorithm Laboratory hosts official tools for processing and analysing ESA's BIOMASS mission data.
 - [allodb](https://github.com/ropensci/allodb) - An R package for biomass estimation at extratropical forest plots.
+- [CarbonViewer](https://github.com/NINAnor/carbonviewer) - R-shiny application for calculating peatland volume and carbon stock to support area planners and decision makers.
 
 ### Wildfire
 - [wildfire forecasting](https://github.com/ECMWFCode4Earth/wildfire-forecasting) - The project intends to reproduce the Fire Forecasting capabilities of GEFF using Deep Learning and develop further improvements in accuracy, geography and time scale through inclusion of additional variables or optimization of model architecture and hyperparameters.
@@ -1646,6 +1648,7 @@ energy system designs and analysis of interactions between technologies.
 - [FMS Coupler](https://github.com/NOAA-GFDL/FMScoupler) - A software framework for supporting the efficient development, construction, execution, and scientific interpretation of atmospheric, oceanic, and climate system models.
 - [CABLE](https://github.com/CABLE-LSM/CABLE) - A land surface model, used to calculate the fluxes of momentum, energy, water and carbon between the land surface and the atmosphere and to model the major biogeochemical cycles of the land ecosystem.
 - [Earth2Studio](https://github.com/NVIDIA/earth2studio) - A Python-based package designed to get users up and running with AI weather and climate models fast. Our mission is to enable everyone to build, research and explore AI driven meteorology.
+- [pyunicorn](https://github.com/pik-copan/pyunicorn) - An object-oriented Python package for advanced analysis and modelling of complex networks such as climate networks, a way of applying complex network theory to the climate system by assuming that each node represents a varying dynamical system.
 - [CTSM](https://github.com/escomp/ctsm) - The Community Land Model is the land model for the Community Earth System Model, which formalises and quantifies concepts of ecological climatology.
 
 ### Climate Data Standards 
