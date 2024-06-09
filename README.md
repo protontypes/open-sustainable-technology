@@ -710,6 +710,7 @@ energy system designs and analysis of interactions between technologies.
 - [Impact Framework](https://github.com/Green-Software-Foundation/if) -  Model, Measure, simulate and monitor the environmental impacts of software.
 - [Sustainability Scanner](https://github.com/awslabs/sustainability-scanner) - An open source tool that helps you create a more sustainable infrastructure on AWS by evaluating it against a set of sustainability best practices and generating a report with a sustainability score and suggested improvements to apply to your template.
 - [EcoLogits](https://github.com/genai-impact/ecologits) - Tracks the energy consumption and environmental impacts of using generative AI models through APIs.
+- [E-footprint model](https://github.com/publicissapient-france/e-footprint) - A toolkit for exhaustively modeling the environmental impact of digital services.
 - [carbonifer](https://github.com/carboniferio/carbonifer) - Transforms your cloud infrastructure into a carbon-aware cloud by estimating the footprint of Terraform files and real-time measurement of the current carbon emissions of your infrastructure deployed in the cloud.
 
 ### Agriculture and Nutrition
