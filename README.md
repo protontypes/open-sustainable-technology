@@ -1071,6 +1071,7 @@ energy system designs and analysis of interactions between technologies.
 - [SMART](https://smartconservationtools.org/) - Collect, measure and evaluate data to improve the effectiveness of your wildlife conservation efforts.
 - [Ground for Android](https://github.com/google/ground-android) - An map-first data collection platform built in collaboration with environmental non-profits and international organizations with the goal of driving sustainability impact at scale.
 - [spatialwarnings](https://github.com/spatial-ews/spatialwarnings) - An R package to compute spatial early-warning signals of ecosystem degradation.
+- [projectfirma](https://github.com/sitkatech/projectfirma) - Tracks conservation and natural resource project performance and expenditures, and helps managers visualize results at the program level.
 
 ### Forest Observation and Management
 - [ECOSTRESS](https://ecostress.jpl.nasa.gov/) - The images acquired by ECOSTRESS are the most detailed temperature images of the surface ever acquired from space and can be used to measure the temperature of an individual farmers field and plants.
@@ -1129,6 +1130,7 @@ energy system designs and analysis of interactions between technologies.
 - [dfoliatR](https://github.com/chguiterman/dfoliatR) - Provide dendrochronologists with tools for identifying and analyzing the signatures of insect defoliators preserved in tree rings.
 - [fellingdater](https://github.com/hanecakr/fellingdater) - A suite of functions designed to assist dendrochronologists in inferring estimates for felling dates, derived from dated tree-ring series.
 - [lasR](https://github.com/r-lidar/lasR) - Production of canopy height model, digital terrain model, tree detection and segmentation on large coverage.
+- [TreeCrownDelineation](https://github.com/AWF-GAUG/TreeCrownDelineation) - This package performs automatic delineation of individual tree crowns in remote sensing imagery.
 
 ### Plants and Vegetation
 - [OpenPlantPathology](https://github.com/openplantpathology/OpenPlantPathology) - Open Plant Pathology is an initiative that supports and promotes the spread of all open, transparent and reproducible practices in the field of plant pathology.
@@ -1371,6 +1373,7 @@ energy system designs and analysis of interactions between technologies.
 - [The Canadian Hydrological Model](https://github.com/Chrismarsh/CHM) - A novel modular unstructured mesh based approach for hydrological modelling.
 - [pyflwdir](https://github.com/Deltares/pyflwdir) - Fast methods to work with hydro- and topography data in pure Python.
 - [SWOT-OpenToolkit](https://github.com/SWOT-community/SWOT-OpenToolkit) - Community codes for processing SWOT data, to provide valuable data and information about the world's oceans and its terrestrial surface water such as lakes, rivers, and wetlands.
+- [HydroMT](https://github.com/Deltares/hydromt) - An open-source Python package that facilitates the process of building and analyzing spatial geoscientific models with a focus on water system model.
 
 ### Ocean Circulation Models
 - [MOM6](https://github.com/NOAA-GFDL/MOM6) - A numerical representation of the ocean fluid with applications from the process scale to the planetary circulation scale.
@@ -1436,6 +1439,8 @@ energy system designs and analysis of interactions between technologies.
 - [Coastal Carbon Network Data Library](https://github.com/Smithsonian/CCN-Data-Library) - Accelerating the pace of discovery in coastal wetland carbon science by providing our community with access to data, analysis tools, and synthesis opportunities.
 - [HyperCoast](https://github.com/opengeos/HyperCoast) - A Python package for visualizing and analyzing hyperspetral data in coastal regions.
 - [baytrends](https://github.com/tetratech/baytrends) - Evaluate long-term trends in the Chesapeake Bay using a Generalized Additive Modeling approach.
+- [BayDeltaSCHISM](https://github.com/CADWRDeltaModeling/BayDeltaSCHISM) - An application of the 3D open source SCHISM hydrodynamic and water quality suite to the San Francisco Bay Delta estuary.
+- [OpenCTD](https://github.com/OceanographyforEveryone/OpenCTD) - A low-cost, open-source CTD designed for budget-restricted scientists, educators, and researchers working in nearshore coastal ecosystems.
 
 ### Ocean and Hydrology Data Access
 - [HyRiver](https://github.com/cheginit/HyRiver) - A Python software stack for retrieving hydroclimate data from web services.
@@ -1655,6 +1660,7 @@ energy system designs and analysis of interactions between technologies.
 - [FMS Coupler](https://github.com/NOAA-GFDL/FMScoupler) - A software framework for supporting the efficient development, construction, execution, and scientific interpretation of atmospheric, oceanic, and climate system models.
 - [CABLE](https://github.com/CABLE-LSM/CABLE) - A land surface model, used to calculate the fluxes of momentum, energy, water and carbon between the land surface and the atmosphere and to model the major biogeochemical cycles of the land ecosystem.
 - [Earth2Studio](https://github.com/NVIDIA/earth2studio) - A Python-based package designed to get users up and running with AI weather and climate models fast. Our mission is to enable everyone to build, research and explore AI driven meteorology.
+- [Scores](https://github.com/nci/scores) - A Python package of mathematical functions for the verification, evaluation and optimisation of forecasts, predictions or models, primarily supporting the meteorological, climatological and geoscientific communities.
 - [pyunicorn](https://github.com/pik-copan/pyunicorn) - An object-oriented Python package for advanced analysis and modelling of complex networks such as climate networks, a way of applying complex network theory to the climate system by assuming that each node represents a varying dynamical system.
 - [CTSM](https://github.com/escomp/ctsm) - The Community Land Model is the land model for the Community Earth System Model, which formalises and quantifies concepts of ecological climatology.
 
@@ -2044,6 +2050,7 @@ energy system designs and analysis of interactions between technologies.
 - [PyLUSAT](https://github.com/chjch/pylusat) - Intends to provide users with tools that can be used to conduct land-use suitability analysis.
 - [earthlib](https://github.com/earth-chris/earthlib-legacy) - Contains several thousand unique spectral endmembers representing green vegetation, soil, non-photosynthetic vegetation, urban materials, and burned materials.
 - [Soil Freeze-thaw Model](https://github.com/NOAA-OWP/SoilFreezeThaw) - The soil freeze-thaw model simulates the transport of heat in soil using a one-dimensional vertical column.
+- [soils](https://github.com/WA-Department-of-Agriculture/soils) - Collection of soil health data visualization and reporting tools, including a RStudio project template with everything you need to generate custom HTML and Microsoft Word reports for each participant in your soil health survey.
 - [rsi](https://github.com/Permian-Global-Research/rsi) - Code for Retriving STAC Information, addressing Repeated Spatial Infelicities and interfacing with Rsome Spectral Indices.
 - [ClimaLand.jl](https://github.com/CliMA/ClimaLand.jl/) - Create and run land models in integrated or standalone modes.
 - [RBBGCMuso](https://github.com/hollorol/RBBGCMuso) - A software package that supports the application of the Biome-BGCMuSo biogeochemical mode, which simulates the storage and fluxes of water, carbon and nitrogen between the ecosystem and the atmosphere, and within the components of the terrestrial ecosystem.
@@ -2061,7 +2068,6 @@ energy system designs and analysis of interactions between technologies.
 - [Europe Sustainable Development Reports](https://eu-dashboards.sdgindex.org/) - Track the progress of the European Union and European Countries towards the Sustainable Development Goals.
 - [text2sdg](https://github.com/dwulff/text2sdg) - Multi-system analysis package that identifies SDGs in text, opening up the opportunity to monitor any type of text-based data.
 - [SDG Detector](https://github.com/Yingjie4Science/SDGdetector) - Identify and visualize 17 Sustainable Development Goals and associated 169 Targets in text.
-
 
 ### Sustainable Investment 
 - [Integrated Valuation of Ecosystem Services and Tradeoffs](https://github.com/natcap/invest) - A family of tools for quantifying the values of natural capital in clear, credible, and practical ways.
