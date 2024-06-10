@@ -1037,6 +1037,7 @@ energy system designs and analysis of interactions between technologies.
 - [mFD](https://github.com/CmlMagneville/mFD) - Provides a user friendly interface to compute a global assessment of functional diversity by gathering computation of alpha and beta functional indices.
 - [fundiversity](https://github.com/funecology/fundiversity) - Provides a lightweight package to compute common functional diversity indices.
 - [pygbif](https://github.com/gbif/pygbif) - Making the data of the Global Biodiversity Information Facility API accessible via Python.
+- [funrar](https://github.com/Rekyt/funrar) - A package to compute functional rarity indices, it quantifies how species are rare both from a functional and an extent point of view.
 
 ### Conservation and Restoration
 - [forestatrisk](https://github.com/ghislainv/forestatrisk) - A Python package to model and forecast the risk of deforestation.
