@@ -2045,6 +2045,7 @@ energy system designs and analysis of interactions between technologies.
 - [PyLUSAT](https://github.com/chjch/pylusat) - Intends to provide users with tools that can be used to conduct land-use suitability analysis.
 - [earthlib](https://github.com/earth-chris/earthlib-legacy) - Contains several thousand unique spectral endmembers representing green vegetation, soil, non-photosynthetic vegetation, urban materials, and burned materials.
 - [Soil Freeze-thaw Model](https://github.com/NOAA-OWP/SoilFreezeThaw) - The soil freeze-thaw model simulates the transport of heat in soil using a one-dimensional vertical column.
+- [soils](https://github.com/WA-Department-of-Agriculture/soils) - Collection of soil health data visualization and reporting tools, including a RStudio project template with everything you need to generate custom HTML and Microsoft Word reports for each participant in your soil health survey.
 - [rsi](https://github.com/Permian-Global-Research/rsi) - Code for Retriving STAC Information, addressing Repeated Spatial Infelicities and interfacing with Rsome Spectral Indices.
 - [ClimaLand.jl](https://github.com/CliMA/ClimaLand.jl/) - Create and run land models in integrated or standalone modes.
 - [RBBGCMuso](https://github.com/hollorol/RBBGCMuso) - A software package that supports the application of the Biome-BGCMuSo biogeochemical mode, which simulates the storage and fluxes of water, carbon and nitrogen between the ecosystem and the atmosphere, and within the components of the terrestrial ecosystem.
@@ -2062,7 +2063,6 @@ energy system designs and analysis of interactions between technologies.
 - [Europe Sustainable Development Reports](https://eu-dashboards.sdgindex.org/) - Track the progress of the European Union and European Countries towards the Sustainable Development Goals.
 - [text2sdg](https://github.com/dwulff/text2sdg) - Multi-system analysis package that identifies SDGs in text, opening up the opportunity to monitor any type of text-based data.
 - [SDG Detector](https://github.com/Yingjie4Science/SDGdetector) - Identify and visualize 17 Sustainable Development Goals and associated 169 Targets in text.
-
 
 ### Sustainable Investment 
 - [Integrated Valuation of Ecosystem Services and Tradeoffs](https://github.com/natcap/invest) - A family of tools for quantifying the values of natural capital in clear, credible, and practical ways.
