@@ -923,6 +923,7 @@ energy system designs and analysis of interactions between technologies.
 - [MARIO](https://github.com/it-is-me-mario/MARIO) - Perform impact analysis using regional input-output tables and models.
 - [timex_lca](https://github.com/TimoDiepers/timex) - A python package for time-explicit Life Cycle Assessment that helps you assess the environmental impacts of products and processes over time.
 - [pulpo](https://github.com/flechtenberg/pulpo) - A python-based optimization tool for life cycle assessment (LCA) that aims to import, optimize, solve, retrieve, save, and summarize LCA results.
+- [iotables](https://github.com/rOpenGov/iotables/) - Reproducible Input-Output Economics Analysis, Economic and Environmental Impact Assessment with Empirical Data
 
 
 ### Circular Economy and Waste
