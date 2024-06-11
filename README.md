@@ -1070,6 +1070,7 @@ energy system designs and analysis of interactions between technologies.
 - [EMMA](https://github.com/AdamWilsonLab/emma_envdata) - The core repository for environmental data processing in the Ecological Monitoring and Management Application EMMA.io.
 - [SMART](https://smartconservationtools.org/) - Collect, measure and evaluate data to improve the effectiveness of your wildlife conservation efforts.
 - [Ground for Android](https://github.com/google/ground-android) - An map-first data collection platform built in collaboration with environmental non-profits and international organizations with the goal of driving sustainability impact at scale.
+- [spatialwarnings](https://github.com/spatial-ews/spatialwarnings) - An R package to compute spatial early-warning signals of ecosystem degradation.
 - [projectfirma](https://github.com/sitkatech/projectfirma) - Tracks conservation and natural resource project performance and expenditures, and helps managers visualize results at the program level.
 
 ### Forest Observation and Management
