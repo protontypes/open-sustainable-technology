@@ -29,8 +29,8 @@ If you just want to give a hint about a missing project, send an email at [tobia
 
 Further details on how do `Pull Requests` can be found in the official GitHub [documentation](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
 
-## The Poject Does Not Yet Meet the Criteria, What Now?
-If your project doesn't meet the community activity, documentation, or usage criteria because it's in its early stages, don't hesitate to create a pull request. We will label the pull request "Under Observation" so that we can review it later. If you wish, we can use our social media channels to help you find contributing communities and users. 
+## The Project Does Not Yet Meet the Criteria, What Now?
+If your project doesn't meet the community, documentation, or usage criteria because it's in its early stages, don't hesitate to create a pull request. We will label the pull request "Under Observation" so that we can review it later. If you wish, we can use our social media channels to help you find contributing communities and users. 
 
 ## Join the Community
 We welcome developers, scientists, artists, writers, journalists, entrepreneurs, and citizens alike. Join our regular community calls to learn more about how you can make a difference through open source action on climate and sustainability.
