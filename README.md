@@ -42,6 +42,7 @@
   - [Emission Observation and Modeling](#emission-observation-and-modeling)
 - [Industrial Ecology](#industrial-ecology)
   - [Life Cycle Assessment](#life-cycle-assessment)
+  - [Input–Output Model](#input–output-model)
   - [Circular Economy and Waste](#circular-economy-and-waste)
 - [Biosphere](#biosphere)
   - [Biodiversity and Species Distribution](#biodiversity-and-species-distribution)
@@ -918,7 +919,7 @@ energy system designs and analysis of interactions between technologies.
 - [timex_lca](https://github.com/TimoDiepers/timex) - A python package for time-explicit Life Cycle Assessment that helps you assess the environmental impacts of products and processes over time.
 - [pulpo](https://github.com/flechtenberg/pulpo) - A python-based optimization tool for life cycle assessment (LCA) that aims to import, optimize, solve, retrieve, save, and summarize LCA results.
 
-## Input–Output Model
+### Input Output Model
 - [MARIO](https://github.com/it-is-me-mario/MARIO) - Perform impact analysis using regional input-output tables and models.
 - [iotables](https://github.com/rOpenGov/iotables/) - Reproducible input-output economic analysis, economic and environmental impact assessment with empirical data.
 - [pymrio](https://github.com/IndEcol/pymrio) - Multi-Regional Input-Output Analysis in Python.
