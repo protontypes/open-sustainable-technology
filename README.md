@@ -42,7 +42,7 @@
   - [Emission Observation and Modeling](#emission-observation-and-modeling)
 - [Industrial Ecology](#industrial-ecology)
   - [Life Cycle Assessment](#life-cycle-assessment)
-  - [Input–Output Model](#input–output-model)
+  - [Input Output Model](#input-output-model)
   - [Circular Economy and Waste](#circular-economy-and-waste)
 - [Biosphere](#biosphere)
   - [Biodiversity and Species Distribution](#biodiversity-and-species-distribution)
