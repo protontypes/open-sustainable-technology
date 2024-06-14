@@ -1,6 +1,6 @@
 # Sustain Open Source, Sustain the Planet: A new conversation
 
- __Tobias Augspurger__  [:fontawesome-brands-twitter:](https://twitter.com/protontypes) · :octicons-calendar-24: June 14, 2024
+ __Tobias Augspurger__  [:fontawesome-brands-linkedin:](https://www.linkedin.com/in/tobias-augspurger/) · __Richard Littauer__ [:fontawesome-brands-linkedin:](https://www.linkedin.com/in/richard-littauer-130026138/) · :octicons-calendar-24: June 14, 2024
 
  _Originally posted on [OpenSource.net](https://opensource.net/oss-for-climate-podcast/)._
 
@@ -8,7 +8,10 @@ Since 2017, [SustainOSS](https://sustainoss.org) has been a community of people 
 
 Many of these conversations have taken place on the [Sustain Podcast](https://podcast.sustainoss.org). However, almost none of these conversations have been about the intersection of open source and environmental sustainability.
 
-![banner](oss-cor-climate-banner.webp)
+<figure markdown="span">
+  ![OSS for Climate Logo](oss-for-climate-banner.webp){ width="600" }
+  <figcaption>OSS for Climate Logo</figcaption>
+</figure>
 
 It's all over the news that software energy consumption is bad for the climate. What's rarely talked about, though, is how software actually enables climate science and sustainable technology, especially when it's open source. It's the glue that brings together scientists from all disciplines—biosphere, hydrosphere, atmosphere—to create the highly complex collaborative earth and climate models that allow us to forecast what our future might look like if we continue to behave as we have in the past. 
 
@@ -22,7 +25,10 @@ We need a place to give a voice to the people behind the projects, to better und
 
 That is why we started the Open Source Software for Climate podcast with Richard Littauer. He is the ideal voice to bridge the gap between what sustains the open source ecosystem and how open source can sustain the natural shared ecosystem on which we all depend. As an open source wizard, community builder, passionate birder, soon-to-be Ph.D. ecologist, and interviewer of more than 300 people in the open source community, there is no better host for this.
 
-![ost_word_cloud](wordcloud.webp)
+<figure markdown="span">
+  ![WordCloud](wordcloud.webp){ width="600" }
+  <figcaption>Word cloud of the most frequently used words in the project descriptions on OpenSustain.tech</figcaption>
+</figure>
 
 ## Comprehensive Coverage
 
