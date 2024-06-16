@@ -954,6 +954,7 @@ energy system designs and analysis of interactions between technologies.
 - [The Clothing Loop](https://github.com/the-clothing-loop/website) - An initiative that offers an easy way for people to swap clothes with others in their own neighborhood.
 - [prommis](https://github.com/prommis/prommis) - Process Optimization and Modeling for Minerals Sustainability.
 - [Plastics Prototype](https://github.com/SchmidtDSE/plastics-prototype) - This tool explores different policy interventions both regionally and globally to help countries exploring ways to reduce the impact of plastic.
+- [CircuLaw](https://github.com/Dark-Matter-Labs/circulaw) - Unlocking regulatory innovation for the circular economy transition.
 
 ## Biosphere
 
