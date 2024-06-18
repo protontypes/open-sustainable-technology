@@ -790,6 +790,7 @@ energy system designs and analysis of interactions between technologies.
 - [blockchain-carbon-accounting](https://github.com/opentaps/blockchain-carbon-accounting) - Code of the Carbon Accounting and Certification Working Group.
 - [footprint](https://github.com/acircleda/footprint) - An R package to calculate carbon footprints from air travel based on IATA airport codes or latitude and longitude.
 - [intensegRid](https://github.com/KKulma/intensegRid) - Provides information on national and regional carbon intensity, the amount of carbon emitted per unit of energy consumed, for the UK.
+- [iotables](https://github.com/rOpenGov/iotables/) - An R package for environmental and social impact assessment with input-output economics and carbon satellite accounts.
 - [carbonintensity-api](https://github.com/jnioche/carbonintensity-api) - Rust library to retrieve regional carbon intensity data from the UK National Grid.
 - [Silicone](https://github.com/GranthamImperial/silicone) - Automated filling of detail in reported emission scenarios.
 - [OpenClimate](https://github.com/Open-Earth-Foundation/OpenClimate) - Independent Climate Accounting Network in support of Paris Agreement goals.
