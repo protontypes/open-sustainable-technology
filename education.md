@@ -32,6 +32,7 @@
 - [openlca-python-tutorial](https://github.com/GreenDelta/openlca-python-tutorial) - Explains the usage of the openLCA API from Python.
 - [GreenCity](https://github.com/ita-social-projects/GreenCity) - Teach people in a playful and challenging way to have an eco-friendly lifestyle.
 - [Advanced Urban Analytics](https://github.com/gboeing/ppd599) - This course series takes a computational social science approach to working with urban data.
+- [Emerging Technologies for the Circular Economy](https://github.com/ETCE-LAB/teaching-material) - Teaching emerging technologies for the circular economy and the limits to growth.
 
 ## Green Software 
 -  [Sustainable Software Engineering](https://github.com/luiscruz/course_sustainableSE) - A course that covers techniques for measuring and improving environmental, social, and individual sustainability at every stage of the software lifecycle.
