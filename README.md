@@ -2236,6 +2236,7 @@ energy system designs and analysis of interactions between technologies.
 - [Plant Trait Ontology](https://github.com/Planteome/plant-trait-ontology) - A controlled vocabulary of describe phenotypic traits in plants.
 - [FOODON](https://github.com/FoodOntology/foodon) - Provides a neutral and ontology-driven standard for government agencies, industry, nonprofits and consumers to name and reference food products and their components throughout the food supply chain.
 - [BuildingMOTIF](https://github.com/NREL/BuildingMOTIF) - Enabling the semantic interoperability of advanced building technologies needed to fully decarbonise buildings.
+- [CEON](https://github.com/LiUSemWeb/CEON) - The Circular Economy Ontology Network provides a shared vocabulary in the form of a network of ontologies to support efficient decentralized sharing of industry data in circular economies.
 
 
 ### Curated Lists
