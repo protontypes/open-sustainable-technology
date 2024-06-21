@@ -1849,6 +1849,7 @@ energy system designs and analysis of interactions between technologies.
 - [Open Global Infrastructure Risk/Resilience Analysis](https://github.com/nismod/open-gira) - Can be used to analyse environmental risks to infrastructure networks using global open data.
 - [TropiDash](https://github.com/ECMWFCode4Earth/TropiDash) - A visualization tool designed to empower researchers, meteorologists, and enthusiasts with the ability to analyze and interpret tropical cyclone data effectively.
 - [ADCIRC](https://github.com/adcirc/adcirc) - A system of computer programs for solving time-dependent, free-surface circulation and transport problems in two and three dimensions in applications such as storm surge and flood prediction.
+- [DamageScanner](https://github.com/VU-IVM/DamageScanner) - A python toolkit for direct damage assessments for natural hazards.
 
 ### Integrated Assessment and Climate Policy 
 - [PRIMAP2](https://github.com/pik-primap/primap2) - The next generation climate policy analysis suite.
