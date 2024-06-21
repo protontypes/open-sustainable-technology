@@ -1670,6 +1670,7 @@ energy system designs and analysis of interactions between technologies.
 - [Scores](https://github.com/nci/scores) - A Python package of mathematical functions for the verification, evaluation and optimisation of forecasts, predictions or models, primarily supporting the meteorological, climatological and geoscientific communities.
 - [pyunicorn](https://github.com/pik-copan/pyunicorn) - An object-oriented Python package for advanced analysis and modelling of complex networks such as climate networks, a way of applying complex network theory to the climate system by assuming that each node represents a varying dynamical system.
 - [CTSM](https://github.com/escomp/ctsm) - The Community Land Model is the land model for the Community Earth System Model, which formalises and quantifies concepts of ecological climatology.
+- [ICON](https://gitlab.dkrz.de/icon/icon-model) - A flexible, scalable, high-performance modelling framework for weather, climate and environmental prediction that provides actionable information for society and advances our understanding of the Earth's climate system.
 
 ### Climate Data Standards 
 - [cf-conventions](https://github.com/cf-convention/cf-conventions) - The conventions for CF (Climate and Forecast) metadata are designed to promote the processing and sharing of files created with the NetCDF API.
