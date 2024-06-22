@@ -1480,6 +1480,7 @@ energy system designs and analysis of interactions between technologies.
 - [Hydrocron](https://github.com/podaac/hydrocron) - An API that repackages hydrology datasets from the Surface Water and Ocean Topography satellite into formats that make time-series analysis easier.
 - [EPyGrAM](https://github.com/UMR-CNRM/EPyGrAM) - Enhanced Python for Graphics and Analysis of Meteorological fields.
 - [Hydropandas](https://github.com/ArtesiaWater/hydropandas) - A Python package for reading, analyzing, and writing hydrological time series from a pandas DataFrame, with all of its wonderful features, and extended with custom methods and attributes related to hydrological time series.
+- [mregions2](https://github.com/ropensci/mregions2) - Offers a streamlined interface to access data from Marine Regions in R for researchers, marine scientists, and geospatial analysts seeking marine geographical information.
 
 ## Atmosphere
 ### Atmospheric Composition and Dynamics
