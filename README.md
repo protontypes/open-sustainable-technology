@@ -2200,6 +2200,7 @@ energy system designs and analysis of interactions between technologies.
 - [NYC Environment and Health Data Portal](https://github.com/nychealth/EH-dataportal) - Shows how environments affect health in NYC, by publishing data and information that explain the connection.
 - [Environmental Outcomes Platform](https://github.com/Greater-Wellington-Regional-Council/Environmental-Outcomes-Platform) - An end-to-end solution for acquiring, managing, and interacting with environmental information to empower council services both internally and externally.
 - [PrithWe](https://github.com/adarsh-singh01/PrithWe) - A platform dedicated to helping individuals and businesses calculate and reduce their carbon footprint, providing tools and resources to promote sustainability and environmental awareness in everyday practices.
+- [ClimateSERVpy](https://github.com/SERVIR/ClimateSERVpy) - Enables users to easily visualize and download 180-day rainfall and temperature forecasts, as well as historic rainfall and vegetation conditions.
 
 ### Environmental Satellites
 - [satpy](https://github.com/pytroll/satpy) - A python library for reading and manipulating meteorological remote sensing data and writing it to various image and data file formats.
