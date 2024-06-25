@@ -382,7 +382,7 @@ energy system designs and analysis of interactions between technologies.
 - [OpenDER](https://github.com/epri-dev/OpenDER) - Aims to accurately represent steady-state and dynamic behaviors of inverter-based distributed energy resources.
 - [HOPP](https://github.com/NREL/HOPP) - Assesses optimal designs for the deployment of utility-scale hybrid energy plants, particularly considering wind, solar and storage.
 - [ETM Pro](https://github.com/quintel/etmodel) - Professional interface of the Energy Transition model.
-- [ETSource](https://github.com/quintel/etsource) -  contains the data used by Quintel applications for modelling energy transition.
+- [ETSource](https://github.com/quintel/etsource) - Contains the data used by Quintel applications for modelling energy transition.
 - [MESMO](https://github.com/mesmo-dev/mesmo) - An open-source Python tool for the modeling, simulation and optimization of multi-scale electric and thermal distribution systems along with distributed energy resources.
 - [ASSUME](https://github.com/assume-framework/assume) - An open-source toolbox for agent-based simulations of European electricity markets, with a primary focus on the German market setup.
 - [NemoMod.jl](https://github.com/sei-international/NemoMod.jl) - A high performance, open-source energy system optimization modeling tool developed in Julia.
