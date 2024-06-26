@@ -80,6 +80,7 @@
 - [OCO2-OCO3](https://github.com/sagarlimbu0/OCO2-OCO3) - For public accessibility and data visualization, a beginner-level tutorial is available for users interested in exploring the OCO2 and OCO3 data.
 - [Using NASA Satellite Data for Real-Time Environmental Monitoring](https://github.com/JeremyDForsythe/icecream-tutorials) - Using NASA's ECOSTRESS Satellite Data for Real-Time Environmental Monitoring.
 - [Landsat ML Cookbook](https://github.com/ProjectPythia/landsat-ml-cookbook) - Covers the essential materials for working with Landsat data in the context of machine learning workflows.
+- [SERVIR Applied Deep Learning Book](https://github.com/SERVIR/SERVIR-Applied-Deep-Learning-Book) - Use satellite data and geospatial technology to address critical challenges in weather & climate resilience, agriculture and food security, ecosystem and carbon management, water security, disasters, as well as air quality and health
 
 
 ## Earth Systems 
