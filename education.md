@@ -32,6 +32,10 @@
 - [openlca-python-tutorial](https://github.com/GreenDelta/openlca-python-tutorial) - Explains the usage of the openLCA API from Python.
 - [GreenCity](https://github.com/ita-social-projects/GreenCity) - Teach people in a playful and challenging way to have an eco-friendly lifestyle.
 - [Advanced Urban Analytics](https://github.com/gboeing/ppd599) - This course series takes a computational social science approach to working with urban data.
+- [Emerging Technologies for the Circular Economy](https://github.com/ETCE-LAB/teaching-material) - Teaching emerging technologies for the circular economy and the limits to growth.
+
+## Green Software 
+-  [Sustainable Software Engineering](https://github.com/luiscruz/course_sustainableSE) - A course that covers techniques for measuring and improving environmental, social, and individual sustainability at every stage of the software lifecycle.
 
 ## Climate and Earth Science 
 
@@ -58,6 +62,12 @@
 - [ARSET Fundamentals of Machine Learning for Earth Science](https://github.com/NASAARSET/ARSET_ML_Fundamentals) - This training will provide attendees an overview of machine learning in regards to Earth Science, and how to apply these algorithms and techniques to remote sensing data in a meaningful way.
 - [Applied Environmental Statistics](https://github.com/mdietze/EE509) - Applied Environmental Statistics course of the Boston University.
 - [climate-emulator-tutorial](https://github.com/blutjens/climate-emulator-tutorial) - A tutorial for getting started with machine learning for climate modeling.
+- [Utilizing Open Science Techniques for Exploring Greenhouse Gas Data](https://us-ghg-center.github.io/ams-2024-workshop/) - An Interactive Workshop on the U.S. Greenhouse Gas Center and VEDA Tools for use in Earth Science Research
+- [PyPRECIS](https://github.com/MetOffice/PyPRECIS) - A learning tool to faciliate processing of regional climate model output.
+- [CSDMS Ivy](https://github.com/csdms/ivy) - Course material on scientific software development for researchers in earth and planetary surface processes.
+- [Sketchbook Earth](https://github.com/ECMWFCode4Earth/sketchbook-earth) - A project aiming to illustrate the production of Climate Intelligence Reports, traditionally done with the ECMWF’s in-house developed tools.
+- [CMIP6 Cookbook](https://github.com/ProjectPythia/cmip6-cookbook) - This Project Pythia Cookbook covers examples of analysis of Google Cloud CMIP6 data using Pangeo tools.
+- [PO.DAAC Tutorials](https://github.com/podaac/tutorials) - Make NASA’s ocean, climate, and surface water data universally accessible and meaningful.
 
 ## Earth Observation 
 - [Radiant MLHub Tutorials](https://github.com/radiantearth/mlhub-tutorials) - Tutorials to access Radiant MLHub Training Datasets.
@@ -69,6 +79,9 @@
 - [GALUP](https://github.com/SERVIR-WA/GALUP) - Build local capacity in the region of Ghana regarding remote sensing and GIS, and transfer the land use planning framework for continued planning.
 - [OCO2-OCO3](https://github.com/sagarlimbu0/OCO2-OCO3) - For public accessibility and data visualization, a beginner-level tutorial is available for users interested in exploring the OCO2 and OCO3 data.
 - [Using NASA Satellite Data for Real-Time Environmental Monitoring](https://github.com/JeremyDForsythe/icecream-tutorials) - Using NASA's ECOSTRESS Satellite Data for Real-Time Environmental Monitoring.
+- [Landsat ML Cookbook](https://github.com/ProjectPythia/landsat-ml-cookbook) - Covers the essential materials for working with Landsat data in the context of machine learning workflows.
+- [SERVIR Applied Deep Learning Book](https://github.com/SERVIR/SERVIR-Applied-Deep-Learning-Book) - Use satellite data and geospatial technology to address critical challenges in weather & climate resilience, agriculture and food security, ecosystem and carbon management, water security, disasters, as well as air quality and health
+
 
 ## Earth Systems 
 ### Atmosphere 
@@ -80,6 +93,7 @@
 - [Python for Atmosphere and Ocean Scientists](https://github.com/carpentrieslab/python-aos-lesson) - Contains the Data Carpentry lesson materials for a single day workshop on using python in the atmosphere and ocean sciences.
 - [How to work with meteorological ECMWF data](https://github.com/ecmwf/notebook-examples) - A good starting point how you can work with European Centre for Medium-Range Weather Forecasts (ECMWF) services and data through Python using Jupyter notebooks.
 - [WEkEO4Atmosphere](https://github.com/wekeo/wekeo4atmosphere) - With the help of cases studies about the monitoring of wildfires and air quality, Copernicus atmosphere data from the Copernicus Programme are introduced.
+- [Radar Cookbook](https://github.com/ProjectPythia/radar-cookbook) - This Project Pythia Cookbook covers the basics of working with weather radar data in Python.
 
 
 ### Cryosphere 
@@ -110,6 +124,7 @@
 - [The Argo Online School](https://euroargodev.github.io/argoonlineschool/intro.html) - Teach the basic foundations to use and understand Argo an international program that collects information from inside the ocean using a fleet of floats that drift with the ocean currents.
 - [Analytical Groundwater Modeling](https://github.com/pythongroundwaterbook/analytic_gw_book) - Analytical Groundwater Modeling: Theory and Applications Using Python.
 - [Intro to Physical Oceanography](https://github.com/rabernat/intro_to_physical_oceanography) - Course materials for Introduction to Physical Oceanography.
+- [Coastal Dynamics Open Codebook](https://github.com/floriscalkoen/CoastalCodeBook) - Discusses the interrelation between physical wave, flow, and sediment transport phenomena and the resulting morphodynamics of a wide variety of coastal systems.
 
 
 ## Natural Resources 
@@ -119,6 +134,10 @@
 - [r4wrds](https://github.com/r4wrds/r4wrds) - Water Resources Data Science R course website.
 - [Decision Analysis and Forecasting for Agricultural Development](https://github.com/CWWhitney/Decision_Analysis_Course) - Become a critical thinker and lead the process in generating useful forecasts for decision makers in agricultural development.
 - [Digital Soil Mapping](https://padasch.github.io/tutorial_digital_soil_mapping/) - This online book covers the tutorial on digital soil mapping from the course Applied Geodata Science 2 at the University of Bern.
+- [python-for-hydrology](https://github.com/DOI-USGS/python-for-hydrology) - Focusing on general python for data analysis in hydrologic contexts and the python interface into MODFLOW for groundwater modeling.
+- [PyNotes in Agriscience](https://github.com/soilwater/pynotes-agriscience) - A set of hands-on coding exercises to solve common tasks and simple problems in agricultural sciences.
+- [Decision Support Modelling Notebooks](https://github.com/gmdsi/GMDSI_notebooks) - Provide an introduction to both the concepts and the practicalities of undertaking decision-support groundwater modelling with the PEST/PEST++ and pyEMU suites of software.
+- [Decision Analysis and Forecasting for Agricultural Development](https://github.com/CWWhitney/Decision_Analysis_Course) - Provides an overview of methods we can use to study agricultural development decisions and generate forecasts of decision outcomes.
 
 ## Sustainable Development Goals
 - [SDG Academy](https://sdgacademy.org/courses/) - Education platform of the Sustainable Development Solutions Network (SDSN), a global initiative for the United Nations.

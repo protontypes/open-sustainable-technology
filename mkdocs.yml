@@ -11,6 +11,8 @@ nav:
   - Education: education.md
   - Contribute: contributing.md
   - Blog:
+      2024:
+        - "Sustain Open Source, Sustain the Planet: A new conversation" : blog/sustain-open-source.md
       2023: 
         - "Connect Developers with Impactful Sustainability Projects" : blog/launch_climate_triage.md
         - "The Open Source Sustainability Ecosystem"  : blog/the_open_source_sustainability_ecosystem.md
@@ -23,6 +25,8 @@ nav:
       2020:
         - "Gathering Open Sustainable Technology": blog/gathering_open_sustainable_technology.md
   - Report: "https://report.opensustain.tech/"
+  - Podcast: "https://ossforclimate.sustainoss.org/"
+  - ClimateTriage: "https://climatetriage.com/"
 
 
 theme:
