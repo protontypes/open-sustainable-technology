@@ -1859,6 +1859,7 @@ energy system designs and analysis of interactions between technologies.
 - [ADCIRC](https://github.com/adcirc/adcirc) - A system of computer programs for solving time-dependent, free-surface circulation and transport problems in two and three dimensions in applications such as storm surge and flood prediction.
 - [DamageScanner](https://github.com/VU-IVM/DamageScanner) - A python toolkit for direct damage assessments for natural hazards.
 - [Climate & Disaster Risk Screening Tools](https://github.com/GFDRR/CCDR-tools) - A collection of scripted tools developed to inform risk analytics for the World Bank's Country Climate and Development Report risk screening activities.
+- [Kuro Siwo](https://github.com/Orion-AI-Lab/KuroSiwo) - A meticulously curated multi-temporal dataset spanning 32 global flood events, mapping over 63 billion areas of land.
 
 ### Integrated Assessment and Climate Policy 
 - [PRIMAP2](https://github.com/pik-primap/primap2) - The next generation climate policy analysis suite.
