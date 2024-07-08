@@ -1310,6 +1310,7 @@ energy system designs and analysis of interactions between technologies.
 - [Glacier Velocity Tracker](https://github.com/cryologger/glacier-velocity-tracker) - A low-cost, open-source glacier velocity measurement system intended for use with Precise Point Positioning techniques.
 - [CryoInTheCloud](https://github.com/CryoInTheCloud/CryoCloudWebsite) - Aim to establish a curated interactive computing platform and develop Cryosphere community expertise in open-soured and cloud-based platforms.
 - [polartoolkit](https://github.com/mdtanker/polartoolkit) - A Python package with the goal of making Polar (i.e. Antarctic, Arctic, Greenland) research more efficient, reproducible, and accessible.
+- [ISSM](https://github.com/ISSMteam/ISSM) - A large-scale thermo-mechanical 2D/3D parallelized multi-purpose finite-element software dedicated to ice sheet and sea-level modeling.
 - [MPAS-Albany](https://github.com/sandialabs/Albany) - Houses the land-ice component of the U.S. Department of Energy's Energy Exascale Earth System Model known as MPAS-Albany Land Ice.
 
 ### Snow and Permafrost
