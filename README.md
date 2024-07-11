@@ -1047,7 +1047,6 @@ energy system designs and analysis of interactions between technologies.
 - [pygbif](https://github.com/gbif/pygbif) - Making the data of the Global Biodiversity Information Facility API accessible via Python.
 - [funrar](https://github.com/Rekyt/funrar) - A package to compute functional rarity indices, it quantifies how species are rare both from a functional and an extent point of view.
 - [BioCLIP](https://github.com/Imageomics/bioclip) - A foundation model for the tree of life, leveraging the unique properties of biology captured by TreeOfLife-10M, namely the abundance and variety of images of plants, animals, and fungi, together with the availability of rich structured biological knowledge.
-- [riskmapjnr](https://github.com/ghislainv/riskmapjnr) - Obtain maps of the spatial risk of deforestation and forest degradation following the methodology developed in the context of the Jurisdictional and Nested REDD+ (JNR) and using only a forest cover change map as input.
 
 ### Conservation and Restoration
 - [forestatrisk](https://github.com/ghislainv/forestatrisk) - A Python package to model and forecast the risk of deforestation.
@@ -1142,6 +1141,8 @@ energy system designs and analysis of interactions between technologies.
 - [fellingdater](https://github.com/hanecakr/fellingdater) - A suite of functions designed to assist dendrochronologists in inferring estimates for felling dates, derived from dated tree-ring series.
 - [lasR](https://github.com/r-lidar/lasR) - Production of canopy height model, digital terrain model, tree detection and segmentation on large coverage.
 - [TreeCrownDelineation](https://github.com/AWF-GAUG/TreeCrownDelineation) - This package performs automatic delineation of individual tree crowns in remote sensing imagery.
+- [riskmapjnr](https://github.com/ghislainv/riskmapjnr) - Obtain maps of the spatial risk of deforestation and forest degradation following the methodology developed in the context of the Jurisdictional and Nested REDD+ (JNR) and using only a forest cover change map as input.
+
 
 ### Plants and Vegetation
 - [OpenPlantPathology](https://github.com/openplantpathology/OpenPlantPathology) - Open Plant Pathology is an initiative that supports and promotes the spread of all open, transparent and reproducible practices in the field of plant pathology.
