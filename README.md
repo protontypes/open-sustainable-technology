@@ -2080,6 +2080,7 @@ energy system designs and analysis of interactions between technologies.
 - [RBBGCMuso](https://github.com/hollorol/RBBGCMuso) - A software package that supports the application of the Biome-BGCMuSo biogeochemical mode, which simulates the storage and fluxes of water, carbon and nitrogen between the ecosystem and the atmosphere, and within the components of the terrestrial ecosystem.
 - [Fractional Cover](https://github.com/GeoscienceAustralia/fc) - A remote sensing algorithm which measures the photosynthetic, non-photosynthetic and bare earth components of a Landsat image.
 - [soiltexture](https://github.com/julienmoeys/soiltexture) - A toolbox for plotting, classifying and transforming soil texture data like clay, silt and sand contents.
+- [Noah-MP](https://github.com/NCAR/noahmp) - A widely-used state-of-the-art land surface model used in many research and operational weather and climate models.
 
 ## Sustainable Development
 ### Sustainable Development Goals 
