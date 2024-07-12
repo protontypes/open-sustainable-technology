@@ -1141,6 +1141,7 @@ energy system designs and analysis of interactions between technologies.
 - [fellingdater](https://github.com/hanecakr/fellingdater) - A suite of functions designed to assist dendrochronologists in inferring estimates for felling dates, derived from dated tree-ring series.
 - [lasR](https://github.com/r-lidar/lasR) - Production of canopy height model, digital terrain model, tree detection and segmentation on large coverage.
 - [TreeCrownDelineation](https://github.com/AWF-GAUG/TreeCrownDelineation) - This package performs automatic delineation of individual tree crowns in remote sensing imagery.
+- [forestables](https://github.com/emf-creaf/forestables) - Read and uniformize forest inventories data from the FIA (USA forest inventory), FFI (France forest inventory) and IFN (Spain forest inventory).
 
 ### Plants and Vegetation
 - [OpenPlantPathology](https://github.com/openplantpathology/OpenPlantPathology) - Open Plant Pathology is an initiative that supports and promotes the spread of all open, transparent and reproducible practices in the field of plant pathology.
