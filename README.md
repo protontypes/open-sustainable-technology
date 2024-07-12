@@ -817,6 +817,7 @@ energy system designs and analysis of interactions between technologies.
 - [GHGPy](https://github.com/iClimate/ghgpy) - An open source greenhouse gas accounting tool that complies with IPCC 2006 and the GHG Protocol.
 
 
+
 ### Carbon Offsets and Trading 
 - [Carbon Dioxide Removal Database](https://github.com/carbonplan/cdr-database) - Open science reports on carbon removal projects and technologies.
 - [National Carbon Credit Registry](https://github.com/undp/carbon-registry) - As an online database using national and international standards for quantifying and verifying greenhouse gas emissions reductions by programmes.
@@ -828,6 +829,7 @@ energy system designs and analysis of interactions between technologies.
 - [World Carbon Pricing Database](https://github.com/g-dolphin/WorldCarbonPricingDatabase) - This dataset contains information on carbon pricing mechanisms (carbon taxes or cap-and-trade) introduced around the world since 1990.
 - [elmada](https://github.com/DrafProject/elmada) - Dynamic electricity carbon emission factors and prices for Europe.
 - [eu_cbm_hat](https://gitlab.com/bioeconomy/eu_cbm/eu_cbm_hat) - Enables the assessment of forest CO2 emissions and removals under scenarios of forest management, natural disturbances and forest-related land use changes.
+- [World Carbon Pricing Database](https://github.com/g-dolphin/WorldCarbonPricingDatabase) - The most comprehensive attempt at providing a consistent-across-jurisdiction description of carbon pricing mechanisms in terms of their sectoral (and fuel) coverage as well as the associated price signal.
 
 ### Carbon Capture
 - [ClimateMARGO.jl](https://github.com/ClimateMARGO/ClimateMARGO.jl) - A Julia implementation of MARGO, an idealized framework for optimization of climate change control strategies.
