@@ -785,6 +785,7 @@ energy system designs and analysis of interactions between technologies.
 - [ALLFED Integrated Food System Model](https://github.com/allfed/allfed-integrated-model) - An integrated food supply model for resilient foods in nuclear winter.
 - [fiboa](https://github.com/fiboa/specification) - The Field Boundaries for Agriculture project is focused on making field boundary data openly available in a unified format on a global scale.
 - [AgML](https://github.com/BigDataWUR/AgML-crop-yield-forecasting) - Aspires to identify key research gaps and opportunities at the intersection of agricultural modelling and machine learning research and support enhanced collaboration and engagement between experts in these disciplines.
+- [Food Expiration Dates](https://github.com/lorenzovngl/FoodExpirationDates) - This simple app helps you avoid forgetting to consume foods that are about to expire.
 
 ## Emissions
 ### Carbon Intensity and Accounting 
