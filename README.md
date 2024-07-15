@@ -1142,7 +1142,7 @@ energy system designs and analysis of interactions between technologies.
 - [lasR](https://github.com/r-lidar/lasR) - Production of canopy height model, digital terrain model, tree detection and segmentation on large coverage.
 - [TreeCrownDelineation](https://github.com/AWF-GAUG/TreeCrownDelineation) - This package performs automatic delineation of individual tree crowns in remote sensing imagery.
 - [riskmapjnr](https://github.com/ghislainv/riskmapjnr) - Obtain maps of the spatial risk of deforestation and forest degradation following the methodology developed in the context of the Jurisdictional and Nested REDD+ (JNR) and using only a forest cover change map as input.
-
+- [forestables](https://github.com/emf-creaf/forestables) - Read and uniformize forest inventories data from the FIA (USA forest inventory), FFI (France forest inventory) and IFN (Spain forest inventory).
 
 ### Plants and Vegetation
 - [OpenPlantPathology](https://github.com/openplantpathology/OpenPlantPathology) - Open Plant Pathology is an initiative that supports and promotes the spread of all open, transparent and reproducible practices in the field of plant pathology.
@@ -1491,6 +1491,7 @@ energy system designs and analysis of interactions between technologies.
 - [mregions2](https://github.com/ropensci/mregions2) - Offers a streamlined interface to access data from Marine Regions in R for researchers, marine scientists, and geospatial analysts seeking marine geographical information.
 - [pyTMD](https://github.com/tsutterley/pyTMD) - Python-based tidal prediction software for estimating ocean, load, solid Earth and pole tides.
 - [gliderpy](https://github.com/ioos/gliderpy) - A thin wrapper around erddapy with custom methods and plotting functionality to browse, fetch, and plot glider data.
+- [OPERA Applications](https://github.com/OPERA-Cal-Val/OPERA_Applications) - Contain several Jupyter notebooks that provide introductions and showcase applications of the OPERA products including flood mapping, water reservoir monitoring and monitoring wildfire evolution.
 
 ## Atmosphere
 ### Atmospheric Composition and Dynamics
@@ -1609,6 +1610,7 @@ energy system designs and analysis of interactions between technologies.
 - [metloom](https://github.com/M3Works/metloom) - A python library created with the goal of consistent, simple sampling of meteorology and snow related point measurments from a variety of datasources across the Western US.
 - [fmi-weather-client](https://github.com/saaste/fmi-weather-client) - Simple client library for fetching weather information from Finnish Meteorological Institute.
 - [gridwxcomp](https://github.com/WSWUP/gridwxcomp) - A package for comparing weather station data to gridded weather data that are hosted on Google Earth Engine.
+- [Skyrim](https://github.com/secondlaw-ai/skyrim) - Allows you to run any large weather model with a consumer grade GPU.
 
 ### Radiative Transfer
 - [lowtran](https://github.com/space-physics/lowtran) - Atmospheric absorption extinction, scatter and irradiance model in Python and Matlab.
@@ -2217,6 +2219,7 @@ energy system designs and analysis of interactions between technologies.
 - [NYC Environment and Health Data Portal](https://github.com/nychealth/EH-dataportal) - Shows how environments affect health in NYC, by publishing data and information that explain the connection.
 - [Environmental Outcomes Platform](https://github.com/Greater-Wellington-Regional-Council/Environmental-Outcomes-Platform) - An end-to-end solution for acquiring, managing, and interacting with environmental information to empower council services both internally and externally.
 - [PrithWe](https://github.com/adarsh-singh01/PrithWe) - A platform dedicated to helping individuals and businesses calculate and reduce their carbon footprint, providing tools and resources to promote sustainability and environmental awareness in everyday practices.
+- [Environmental Data Science book](https://github.com/alan-turing-institute/environmental-ds-book) - A community driven project providing access to multiple Jupyter notebooks showcasing open environmental science.
 
 ### Environmental Satellites
 - [satpy](https://github.com/pytroll/satpy) - A python library for reading and manipulating meteorological remote sensing data and writing it to various image and data file formats.
