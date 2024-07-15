@@ -1489,6 +1489,7 @@ energy system designs and analysis of interactions between technologies.
 - [mregions2](https://github.com/ropensci/mregions2) - Offers a streamlined interface to access data from Marine Regions in R for researchers, marine scientists, and geospatial analysts seeking marine geographical information.
 - [pyTMD](https://github.com/tsutterley/pyTMD) - Python-based tidal prediction software for estimating ocean, load, solid Earth and pole tides.
 - [gliderpy](https://github.com/ioos/gliderpy) - A thin wrapper around erddapy with custom methods and plotting functionality to browse, fetch, and plot glider data.
+- [OPERA Applications](https://github.com/OPERA-Cal-Val/OPERA_Applications) - Contain several Jupyter notebooks that provide introductions and showcase applications of the OPERA products including flood mapping, water reservoir monitoring and monitoring wildfire evolution.
 
 ## Atmosphere
 ### Atmospheric Composition and Dynamics
