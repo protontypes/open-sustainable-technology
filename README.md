@@ -786,6 +786,7 @@ energy system designs and analysis of interactions between technologies.
 - [fiboa](https://github.com/fiboa/specification) - The Field Boundaries for Agriculture project is focused on making field boundary data openly available in a unified format on a global scale.
 - [AgML](https://github.com/BigDataWUR/AgML-crop-yield-forecasting) - Aspires to identify key research gaps and opportunities at the intersection of agricultural modelling and machine learning research and support enhanced collaboration and engagement between experts in these disciplines.
 - [Petari](https://github.com/Sahil1786/Petari) - An initiative by an organization aiming to redistribute excess food from various events to those in need.
+- [Food Expiration Dates](https://github.com/lorenzovngl/FoodExpirationDates) - This simple app helps you avoid forgetting to consume foods that are about to expire.
 
 ## Emissions
 ### Carbon Intensity and Accounting 
@@ -1142,6 +1143,8 @@ energy system designs and analysis of interactions between technologies.
 - [fellingdater](https://github.com/hanecakr/fellingdater) - A suite of functions designed to assist dendrochronologists in inferring estimates for felling dates, derived from dated tree-ring series.
 - [lasR](https://github.com/r-lidar/lasR) - Production of canopy height model, digital terrain model, tree detection and segmentation on large coverage.
 - [TreeCrownDelineation](https://github.com/AWF-GAUG/TreeCrownDelineation) - This package performs automatic delineation of individual tree crowns in remote sensing imagery.
+- [riskmapjnr](https://github.com/ghislainv/riskmapjnr) - Obtain maps of the spatial risk of deforestation and forest degradation following the methodology developed in the context of the Jurisdictional and Nested REDD+ (JNR) and using only a forest cover change map as input.
+- [forestables](https://github.com/emf-creaf/forestables) - Read and uniformize forest inventories data from the FIA (USA forest inventory), FFI (France forest inventory) and IFN (Spain forest inventory).
 
 ### Plants and Vegetation
 - [OpenPlantPathology](https://github.com/openplantpathology/OpenPlantPathology) - Open Plant Pathology is an initiative that supports and promotes the spread of all open, transparent and reproducible practices in the field of plant pathology.
@@ -1387,6 +1390,7 @@ energy system designs and analysis of interactions between technologies.
 - [pyflwdir](https://github.com/Deltares/pyflwdir) - Fast methods to work with hydro- and topography data in pure Python.
 - [SWOT-OpenToolkit](https://github.com/SWOT-community/SWOT-OpenToolkit) - Community codes for processing SWOT data, to provide valuable data and information about the world's oceans and its terrestrial surface water such as lakes, rivers, and wetlands.
 - [HydroMT](https://github.com/Deltares/hydromt) - An open-source Python package that facilitates the process of building and analyzing spatial geoscientific models with a focus on water system model.
+- [Watershed Workflow](https://github.com/environmental-modeling-workflows/watershed-workflow) - Python workflows for data-rich, hyper-resolution simulations of hydrologic models on watersheds.
 
 ### Ocean Circulation Models
 - [MOM6](https://github.com/NOAA-GFDL/MOM6) - A numerical representation of the ocean fluid with applications from the process scale to the planetary circulation scale.
@@ -1490,6 +1494,7 @@ energy system designs and analysis of interactions between technologies.
 - [mregions2](https://github.com/ropensci/mregions2) - Offers a streamlined interface to access data from Marine Regions in R for researchers, marine scientists, and geospatial analysts seeking marine geographical information.
 - [pyTMD](https://github.com/tsutterley/pyTMD) - Python-based tidal prediction software for estimating ocean, load, solid Earth and pole tides.
 - [gliderpy](https://github.com/ioos/gliderpy) - A thin wrapper around erddapy with custom methods and plotting functionality to browse, fetch, and plot glider data.
+- [OPERA Applications](https://github.com/OPERA-Cal-Val/OPERA_Applications) - Contain several Jupyter notebooks that provide introductions and showcase applications of the OPERA products including flood mapping, water reservoir monitoring and monitoring wildfire evolution.
 
 ## Atmosphere
 ### Atmospheric Composition and Dynamics
@@ -1608,6 +1613,7 @@ energy system designs and analysis of interactions between technologies.
 - [metloom](https://github.com/M3Works/metloom) - A python library created with the goal of consistent, simple sampling of meteorology and snow related point measurments from a variety of datasources across the Western US.
 - [fmi-weather-client](https://github.com/saaste/fmi-weather-client) - Simple client library for fetching weather information from Finnish Meteorological Institute.
 - [gridwxcomp](https://github.com/WSWUP/gridwxcomp) - A package for comparing weather station data to gridded weather data that are hosted on Google Earth Engine.
+- [Skyrim](https://github.com/secondlaw-ai/skyrim) - Allows you to run any large weather model with a consumer grade GPU.
 
 ### Radiative Transfer
 - [lowtran](https://github.com/space-physics/lowtran) - Atmospheric absorption extinction, scatter and irradiance model in Python and Matlab.
@@ -1684,6 +1690,8 @@ energy system designs and analysis of interactions between technologies.
 - [pyunicorn](https://github.com/pik-copan/pyunicorn) - An object-oriented Python package for advanced analysis and modelling of complex networks such as climate networks, a way of applying complex network theory to the climate system by assuming that each node represents a varying dynamical system.
 - [CTSM](https://github.com/escomp/ctsm) - The Community Land Model is the land model for the Community Earth System Model, which formalises and quantifies concepts of ecological climatology.
 - [ICON](https://gitlab.dkrz.de/icon/icon-model) - A flexible, scalable, high-performance modelling framework for weather, climate and environmental prediction that provides actionable information for society and advances our understanding of the Earth's climate system.
+- [RegCM](https://github.com/ICTP/RegCM) -  This Regional Climate Model can be applied to any region of the World, with grid spacing of up to about 3 km, and for a wide range of studies, from process studies to paleoclimate and future climate simulation.
+
 
 ### Climate Data Standards 
 - [cf-conventions](https://github.com/cf-convention/cf-conventions) - The conventions for CF (Climate and Forecast) metadata are designed to promote the processing and sharing of files created with the NetCDF API.
@@ -2081,6 +2089,7 @@ energy system designs and analysis of interactions between technologies.
 - [RBBGCMuso](https://github.com/hollorol/RBBGCMuso) - A software package that supports the application of the Biome-BGCMuSo biogeochemical mode, which simulates the storage and fluxes of water, carbon and nitrogen between the ecosystem and the atmosphere, and within the components of the terrestrial ecosystem.
 - [Fractional Cover](https://github.com/GeoscienceAustralia/fc) - A remote sensing algorithm which measures the photosynthetic, non-photosynthetic and bare earth components of a Landsat image.
 - [soiltexture](https://github.com/julienmoeys/soiltexture) - A toolbox for plotting, classifying and transforming soil texture data like clay, silt and sand contents.
+- [Noah-MP](https://github.com/NCAR/noahmp) - A widely-used state-of-the-art land surface model used in many research and operational weather and climate models.
 
 ## Sustainable Development
 ### Sustainable Development Goals 
