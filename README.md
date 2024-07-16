@@ -28,7 +28,7 @@
   - [Energy Modeling and Optimization](#energy-modeling-and-optimization)
   - [Energy Distribution and Grids](#energy-distribution-and-grids)
   - [Energy Monitoring and Management](#energy-monitoring-and-management)
-  - [Data Accessibility and Integration](#data-accessability-and-integraion)
+  - [Data Accessibility and Integration](#data-accessibility-and-integration)
   - [Renewable Energy Data and Forecasting](#renewable-energy-data-and-forecasting)
   - [Power Systems and Grid Data](#power-systems-and-grid-data)
   - [Global and Regional Energy Data](#global-and-regional-energy-data)
