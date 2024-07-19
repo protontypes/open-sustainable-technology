@@ -1265,6 +1265,22 @@ parameter values.
 - [BioCro](https://github.com/biocro/biocro) - A model that predicts plant growth over time given crop-specific parameters and environmental data as input.
 - [OpenSimRoot](https://gitlab.com/rootmodels/OpenSimRoot) - Source code for simulating root architecture, nutrient and water uptake and more.
 
+### Species Distribution Modeling
+- [enmSdmX](https://github.com/adamlilith/enmSdmX) - A set of tools in R for implementing species distribution models and ecological niche models.
+- [sdmTMB](https://github.com/pbs-assess/sdmTMB/) - An R package that fits spatial and spatiotemporal predictive-processes for species distribution models.
+- [ENMwizard](https://github.com/HemingNM/ENMwizard) - Advanced Techniques for Ecological Niche Modeling Made Easy.
+- [flexsdm](https://github.com/sjevelazco/flexsdm) - Useful tools for constructing species distribution models.
+- [Wallace](https://github.com/wallaceEcoMod/wallace) - A modular platform for reproducible modeling of species niches and distributions, written in R.
+- [ENMeval](https://github.com/jamiemkass/ENMeval) - R package for automated runs and evaluations of ecological niche models.
+- [SpeciesDistributionToolkit](https://github.com/PoisotLab/SpeciesDistributionToolkit.jl) - A collection of Julia packages forming a toolkit meant to deal with species distribution data.
+- [tidysdm](https://github.com/EvolEcolGroup/tidysdm) -  A Species Distribution Models in R.
+- [elapid](https://github.com/earth-chris/elapid) - Species distribution modeling tools, including a python implementation of Maxent.
+- [SSDM](https://github.com/sylvainschmitt/SSDM) - A package to map species richness and endemism based on stacked species distribution models.
+- [biomod2](https://github.com/biomodhub/biomod2) - A computer platform for ensemble forecasting of species distributions, enabling the treatment of a range of methodological uncertainties in models and the examination of species-environment relationships.
+- [ENMTools](https://github.com/danlwarren/ENMTools) - This package implements various tests, visualizations, and metrics for use with environmental niche models (ENMs) and species distribution models (SDMs).
+- [spOccupancy](https://github.com/doserjef/spOccupancy) - Fits single-species, multi-species, and integrated spatial occupancy models using Markov Chain Monte Carlo.
+- [ibis.iSDM](https://github.com/iiasa/ibis.iSDM) - Provides a series of convenience functions to fit integrated Species Distribution Models.
+
 ### Terrestrial Wildlife
 - [Wildbook](https://github.com/WildMeOrg/Wildbook) - Blends structured wildlife research with artificial intelligence, citizen science, and computer vision to speed population analysis and develop new insights to help fight extinction.
 - [WildBook-ia](https://github.com/WildMeOrg/wildbook-ia) -  Builds open software and artificial intelligence for the conservation research community; pairs with the Wildbook project.
