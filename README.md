@@ -1081,6 +1081,7 @@ energy system designs and analysis of interactions between technologies.
 - [Ground for Android](https://github.com/google/ground-android) - An map-first data collection platform built in collaboration with environmental non-profits and international organizations with the goal of driving sustainability impact at scale.
 - [geohabnet](https://github.com/GarrettLab/HabitatConnectivity) - Enable users to visualise a habitat connectivity risk index for agriculture using their own 
 parameter values.
+- [Where to Work](https://github.com/NCC-CNC/wheretowork) - A web-based application for solving complex conservation scenarios using concepts of systematic conservation planning.
 
 ### Deforestation and Reforestation
 - [Plant-for-the-Planet](https://github.com/Plant-for-the-Planet-org/planet-webapp) - Allows you to plant trees with over 100 reforestation projects around the world.
