@@ -1108,22 +1108,6 @@ parameter values.
 - [D-EcoImpact](https://github.com/Deltares/D-EcoImpact) - A Python based kernel to perform spatialenvironmental impact assessment.
 - [EcoSISTEM.jl](https://github.com/EcoJulia/EcoSISTEM.jl) - A Julia package that provides functionality for simulating species undergoing dynamic biological processes such as birth, death, competition and dispersal, as well as environmental changes in climate and habitat.
 
-### Species Distribution Modeling
-- [enmSdmX](https://github.com/adamlilith/enmSdmX) - A set of tools in R for implementing species distribution models and ecological niche models.
-- [sdmTMB](https://github.com/pbs-assess/sdmTMB/) - An R package that fits spatial and spatiotemporal predictive-processes for species distribution models.
-- [ENMwizard](https://github.com/HemingNM/ENMwizard) - Advanced Techniques for Ecological Niche Modeling Made Easy.
-- [flexsdm](https://github.com/sjevelazco/flexsdm) - Useful tools for constructing species distribution models.
-- [Wallace](https://github.com/wallaceEcoMod/wallace) - A modular platform for reproducible modeling of species niches and distributions, written in R.
-- [ENMeval](https://github.com/jamiemkass/ENMeval) - R package for automated runs and evaluations of ecological niche models.
-- [SpeciesDistributionToolkit](https://github.com/PoisotLab/SpeciesDistributionToolkit.jl) - A collection of Julia packages forming a toolkit meant to deal with species distribution data.
-- [tidysdm](https://github.com/EvolEcolGroup/tidysdm) -  A Species Distribution Models in R.
-- [elapid](https://github.com/earth-chris/elapid) - Species distribution modeling tools, including a python implementation of Maxent.
-- [SSDM](https://github.com/sylvainschmitt/SSDM) - A package to map species richness and endemism based on stacked species distribution models.
-- [biomod2](https://github.com/biomodhub/biomod2) - A computer platform for ensemble forecasting of species distributions, enabling the treatment of a range of methodological uncertainties in models and the examination of species-environment relationships.
-- [ENMTools](https://github.com/danlwarren/ENMTools) - This package implements various tests, visualizations, and metrics for use with environmental niche models (ENMs) and species distribution models (SDMs).
-- [spOccupancy](https://github.com/doserjef/spOccupancy) - Fits single-species, multi-species, and integrated spatial occupancy models using Markov Chain Monte Carlo.
-- [ibis.iSDM](https://github.com/iiasa/ibis.iSDM) - Provides a series of convenience functions to fit integrated Species Distribution Models.
-
 
 ### Forest Modeling and Analysis
 - [ECOSTRESS](https://ecostress.jpl.nasa.gov/) - The images acquired by ECOSTRESS are the most detailed temperature images of the surface ever acquired from space and can be used to measure the temperature of an individual farmers field and plants.
