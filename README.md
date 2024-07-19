@@ -90,7 +90,7 @@
   - [Integrated Assessment and Climate Policy](#integrated-assessment-and-climate-policy)
 - [Natural Resources](#natural-resources)
   - [Air Quality](#air-quality)
-  - [Water Supply](#water-supply)
+  - [Water Supply and Quality](#water-supply-and-quality)
   - [Soil and Land](#soil-and-land)
 - [Sustainable Development](#sustainable-development)
   - [Sustainable Development Goals](#sustainable-development-goals)
