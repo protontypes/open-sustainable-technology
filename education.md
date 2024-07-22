@@ -138,6 +138,7 @@
 - [PyNotes in Agriscience](https://github.com/soilwater/pynotes-agriscience) - A set of hands-on coding exercises to solve common tasks and simple problems in agricultural sciences.
 - [Decision Support Modelling Notebooks](https://github.com/gmdsi/GMDSI_notebooks) - Provide an introduction to both the concepts and the practicalities of undertaking decision-support groundwater modelling with the PEST/PEST++ and pyEMU suites of software.
 - [Decision Analysis and Forecasting for Agricultural Development](https://github.com/CWWhitney/Decision_Analysis_Course) - Provides an overview of methods we can use to study agricultural development decisions and generate forecasts of decision outcomes.
+- [Climate Risk Assessment Book](https://github.com/CLIMAAX/crabook) - Guides you through your regional Climate Risk Assessments and provides you with tools and datasets for the assessment.
 
 ## Sustainable Development Goals
 - [SDG Academy](https://sdgacademy.org/courses/) - Education platform of the Sustainable Development Solutions Network (SDSN), a global initiative for the United Nations.
