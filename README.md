@@ -1651,6 +1651,7 @@ parameter values.
 - [fmi-weather-client](https://github.com/saaste/fmi-weather-client) - Simple client library for fetching weather information from Finnish Meteorological Institute.
 - [gridwxcomp](https://github.com/WSWUP/gridwxcomp) - A package for comparing weather station data to gridded weather data that are hosted on Google Earth Engine.
 - [Skyrim](https://github.com/secondlaw-ai/skyrim) - Allows you to run any large weather model with a consumer grade GPU.
+- [Neural-LAM](https://github.com/mllam/neural-lam) - A repository of graph-based neural weather prediction models for Limited Area Modeling.
 
 ### Radiative Transfer
 - [lowtran](https://github.com/space-physics/lowtran) - Atmospheric absorption extinction, scatter and irradiance model in Python and Matlab.
