@@ -272,6 +272,7 @@
 - [MPET](https://github.com/TRI-AMDD/mpet) - Run simulations of batteries with porous electrodes using porous electrode theory, which is a volume-averaged, multiscale approach to capture the coupled behavior of electrolyte and active material within electrodes.
 - [BIG-MAP](https://github.com/BIG-MAP/big-map-registry) - The Battery Interface Genome Materials Acceleration Platform is promoting accelerated discovery of novel battery materials.
 - [BatteryML](https://github.com/microsoft/BatteryML) -  An Open-Source Tool for Machine Learning on Battery Degradation.
+- [bms-c1](https://github.com/LibreSolar/bms-c1) - A flexible Open Source Battery Management System (BMS) suitable for various applications.
 
 ### Hydrogen
 - [OPEM](https://github.com/ECSIM/opem) - A modeling tool for evaluating the performance of proton exchange membrane fuel cells.
