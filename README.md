@@ -1021,6 +1021,7 @@ energy system designs and analysis of interactions between technologies.
 - [fundiversity](https://github.com/funecology/fundiversity) - Provides a lightweight package to compute common functional diversity indices.
 - [funrar](https://github.com/Rekyt/funrar) - A package to compute functional rarity indices, it quantifies how species are rare both from a functional and an extent point of view.
 - [oneimpact](https://github.com/NINAnor/oneimpact) - Provides tools for the assessment of cumulative impacts of multiple infrastructure and land use modifications in ecological studies.
+- [gdm](https://github.com/fitzLab-AL/gdm) - Provides functions to fit, plot, summarize, and apply Generalized Dissimilarity Models.
 
 ### Biodiversity Citizen Science
 - [Naturtag](https://github.com/pyinat/naturtag) - A tool for nature photographers that adds useful metadata to describe the organisms in your photos.
