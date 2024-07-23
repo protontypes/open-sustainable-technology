@@ -1910,6 +1910,8 @@ parameter values.
 - [DamageScanner](https://github.com/VU-IVM/DamageScanner) - A python toolkit for direct damage assessments for natural hazards.
 - [Climate & Disaster Risk Screening Tools](https://github.com/GFDRR/CCDR-tools) - A collection of scripted tools developed to inform risk analytics for the World Bank's Country Climate and Development Report risk screening activities.
 - [Kuro Siwo](https://github.com/Orion-AI-Lab/KuroSiwo) - A meticulously curated multi-temporal dataset spanning 32 global flood events, mapping over 63 billion areas of land.
+- [Climate Risk Assessment Book](https://github.com/CLIMAAX/crabook) - Guides you through your regional Climate Risk Assessments and provides you with tools and datasets for the assessment.
+
 
 ### Integrated Assessment and Climate Policy 
 - [PRIMAP2](https://github.com/pik-primap/primap2) - The next generation climate policy analysis suite.
