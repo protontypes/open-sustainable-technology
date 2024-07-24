@@ -664,6 +664,7 @@ energy system designs and analysis of interactions between technologies.
 - [e-mission](https://github.com/e-mission/e-mission-docs) - Enables people to track their travel modes—by car, bus, bike or walking and measure their associated energy use and carbon footprint.
 - [CoachCO2](https://github.com/cozy/coachCO2) - Aims to raise user awareness about their carbon footprint, notably based on their transport data.
 - [Radverkehrsatlas](https://github.com/FixMyBerlin/atlas-app) - Provides access to bicycle infrastructure data from OpenStreetMap for administrative staff.
+- [EV2Gym](https://github.com/StavrosOrf/EV2Gym) - A V2G Simulation Environment for large scale EV charging optimization.
 
 ### Production and Industry
 - [btp-ai-sustainability-bootcamp](https://github.com/SAP-samples/btp-ai-sustainability-bootcamp) - Showcasing SAP partners how to add Intelligence and Sustainability into your industry cloud solutions on SAP Business Technology Platform.
