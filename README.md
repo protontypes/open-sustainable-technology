@@ -273,6 +273,9 @@
 - [BIG-MAP](https://github.com/BIG-MAP/big-map-registry) - The Battery Interface Genome Materials Acceleration Platform is promoting accelerated discovery of novel battery materials.
 - [BatteryML](https://github.com/microsoft/BatteryML) -  An Open-Source Tool for Machine Learning on Battery Degradation.
 - [Battery Data Toolkit](https://github.com/ROVI-org/battery-data-toolkit) - Converts battery testing data from native formats to a standardized HDF5 file.
+- [galpynostatic](https://github.com/fernandezfran/galpynostatic) - A Python/C++ package with physics-based models to predict optimal conditions for fast-charging lithium-ion batteries.
+- [bms-c1](https://github.com/LibreSolar/bms-c1) - A flexible Open Source Battery Management System (BMS) suitable for various applications.
+- [Battery-Emulator](https://github.com/dalathegreat/Battery-Emulator) - This software enables EV battery packs to be used for stationary storage in combination with solar inverters.
 
 ### Hydrogen
 - [OPEM](https://github.com/ECSIM/opem) - A modeling tool for evaluating the performance of proton exchange membrane fuel cells.
@@ -1112,7 +1115,6 @@ parameter values.
 - [EcoSISTEM.jl](https://github.com/EcoJulia/EcoSISTEM.jl) - A Julia package that provides functionality for simulating species undergoing dynamic biological processes such as birth, death, competition and dispersal, as well as environmental changes in climate and habitat.
 - [ECOTOXr](https://github.com/pepijn-devries/ECOTOXr) - Provides access in R to ECOTOX, a comprehensive knowledgebase providing single chemical environmental toxicity data on aquatic and terrestrial species.
 
-
 ### Forest Modeling and Analysis
 - [ECOSTRESS](https://ecostress.jpl.nasa.gov/) - The images acquired by ECOSTRESS are the most detailed temperature images of the surface ever acquired from space and can be used to measure the temperature of an individual farmers field and plants.
 - [fgeo](https://github.com/forestgeo/fgeo) - Analyze forest diversity and dynamics.
@@ -1535,6 +1537,7 @@ parameter values.
 - [pyTMD](https://github.com/tsutterley/pyTMD) - Python-based tidal prediction software for estimating ocean, load, solid Earth and pole tides.
 - [gliderpy](https://github.com/ioos/gliderpy) - A thin wrapper around erddapy with custom methods and plotting functionality to browse, fetch, and plot glider data.
 - [OPERA Applications](https://github.com/OPERA-Cal-Val/OPERA_Applications) - Contain several Jupyter notebooks that provide introductions and showcase applications of the OPERA products including flood mapping, water reservoir monitoring and monitoring wildfire evolution.
+- [CopernicusMarine](https://github.com/pepijn-devries/CopernicusMarine) - Subset and download marine data from the EU Copernicus Marine Service Information to import data on the physical and biogeochemical state of the oceans without the need for external software.
 
 ## Atmosphere
 ### Atmospheric Composition and Dynamics
@@ -2062,8 +2065,9 @@ parameter values.
 - [PARETO](https://github.com/project-pareto/project-pareto) - An Optimization Framework for Produced Water Management and Beneficial Reuse.
 - [WSIMOD](https://github.com/ImperialCollegeLondon/wsi) - Provides a message passing interface to enable different subsystem models to communicate water flux and water quality information between each other, and self-contained representations of the key parts of the water cycle.
 - [ODM](https://github.com/Big-Life-Lab/PHES-ODM) - Aims to improve wastewater monitoring through interoperable data by providing robust support for reporting of biological, toxic or other health hazards.
+- [shinyssdtools](https://github.com/bcgov/shinyssdtools) - A Shiny application for fitting species sensitivity distribution, a method for getting water quality benchmarks to characterize effects of chemical contaminants for water quality or ecological risk assessment.
 - [wqbench](https://github.com/bcgov/wqbench) - Generate download and compile data from EPA ECOTOX database to generate aquatic life water quality benchmarks.
-  
+
 ### Soil and Land
 - [SoilGrids250m](https://github.com/ISRICWorldSoil/SoilGrids250m) - Global Spatial predictions of soil properties and classes at 250 m resolution.
 - [SoilGrids](https://git.wur.nl/isric/soilgrids/soilgrids.notebooks/) - A system for automated soil mapping based on global soil profile and environmental covariate data at 250 m spatial resolution.
