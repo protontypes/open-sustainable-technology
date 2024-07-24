@@ -117,6 +117,7 @@
 - [Ecological Forecasting & Dynamics Course](https://github.com/weecology/forecasting-course) - This is a course on how ecological systems change through time and how to forecast how they will change in the future.
 - [WSL Julia Workshop 2023](https://github.com/vboussange/WSLJuliaWorkshop2023) - Practical introduction to Julia for modelling and data analysis in biodiversity and earth sciences.
 - [Ecological forecasting with R](https://github.com/nicholasjclark/physalia-forecasting-course) - In this course you will learn how to wrangle, visualize and explore ecological time series.
+- [An introduction to Systematic conservation planning with prioritzr](https://github.com/iiasa/eccb2024) - Learn about the basic concepts of systematic conservation planning (SCP) and more specifically algorithmic solutions identifying planning outcomes.
 
 ### Hydrosphere
 - [MarineEcosystemsJuliaCon2021.jl](https://github.com/JuliaOcean/MarineEcosystemsJuliaCon2021.jl) - Modeling Marine Ecosystems At Multiple Scales Using Julia.
@@ -138,6 +139,7 @@
 - [PyNotes in Agriscience](https://github.com/soilwater/pynotes-agriscience) - A set of hands-on coding exercises to solve common tasks and simple problems in agricultural sciences.
 - [Decision Support Modelling Notebooks](https://github.com/gmdsi/GMDSI_notebooks) - Provide an introduction to both the concepts and the practicalities of undertaking decision-support groundwater modelling with the PEST/PEST++ and pyEMU suites of software.
 - [Decision Analysis and Forecasting for Agricultural Development](https://github.com/CWWhitney/Decision_Analysis_Course) - Provides an overview of methods we can use to study agricultural development decisions and generate forecasts of decision outcomes.
+- [Climate Risk Assessment Book](https://github.com/CLIMAAX/crabook) - Guides you through your regional Climate Risk Assessments and provides you with tools and datasets for the assessment.
 
 ## Sustainable Development Goals
 - [SDG Academy](https://sdgacademy.org/courses/) - Education platform of the Sustainable Development Solutions Network (SDSN), a global initiative for the United Nations.

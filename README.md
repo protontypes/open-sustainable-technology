@@ -90,7 +90,7 @@
   - [Integrated Assessment and Climate Policy](#integrated-assessment-and-climate-policy)
 - [Natural Resources](#natural-resources)
   - [Air Quality](#air-quality)
-  - [Water Supply](#water-supply)
+  - [Water Supply and Quality](#water-supply-and-quality)
   - [Soil and Land](#soil-and-land)
 - [Sustainable Development](#sustainable-development)
   - [Sustainable Development Goals](#sustainable-development-goals)
@@ -1021,6 +1021,7 @@ energy system designs and analysis of interactions between technologies.
 - [fundiversity](https://github.com/funecology/fundiversity) - Provides a lightweight package to compute common functional diversity indices.
 - [funrar](https://github.com/Rekyt/funrar) - A package to compute functional rarity indices, it quantifies how species are rare both from a functional and an extent point of view.
 - [oneimpact](https://github.com/NINAnor/oneimpact) - Provides tools for the assessment of cumulative impacts of multiple infrastructure and land use modifications in ecological studies.
+- [gdm](https://github.com/fitzLab-AL/gdm) - Provides functions to fit, plot, summarize, and apply Generalized Dissimilarity Models.
 
 ### Biodiversity Citizen Science
 - [Naturtag](https://github.com/pyinat/naturtag) - A tool for nature photographers that adds useful metadata to describe the organisms in your photos.
@@ -1081,6 +1082,7 @@ energy system designs and analysis of interactions between technologies.
 - [Ground for Android](https://github.com/google/ground-android) - An map-first data collection platform built in collaboration with environmental non-profits and international organizations with the goal of driving sustainability impact at scale.
 - [geohabnet](https://github.com/GarrettLab/HabitatConnectivity) - Enable users to visualise a habitat connectivity risk index for agriculture using their own 
 parameter values.
+- [Where to Work](https://github.com/NCC-CNC/wheretowork) - A web-based application for solving complex conservation scenarios using concepts of systematic conservation planning.
 
 ### Deforestation and Reforestation
 - [Plant-for-the-Planet](https://github.com/Plant-for-the-Planet-org/planet-webapp) - Allows you to plant trees with over 100 reforestation projects around the world.
@@ -1107,6 +1109,7 @@ parameter values.
 - [NicheMapR](https://github.com/mrke/NicheMapR) - Modelling the thermodynamic constraints on life.
 - [D-EcoImpact](https://github.com/Deltares/D-EcoImpact) - A Python based kernel to perform spatialenvironmental impact assessment.
 - [EcoSISTEM.jl](https://github.com/EcoJulia/EcoSISTEM.jl) - A Julia package that provides functionality for simulating species undergoing dynamic biological processes such as birth, death, competition and dispersal, as well as environmental changes in climate and habitat.
+- [ECOTOXr](https://github.com/pepijn-devries/ECOTOXr) - Provides access in R to ECOTOX, a comprehensive knowledgebase providing single chemical environmental toxicity data on aquatic and terrestrial species.
 
 ### Forest Modeling and Analysis
 - [ECOSTRESS](https://ecostress.jpl.nasa.gov/) - The images acquired by ECOSTRESS are the most detailed temperature images of the surface ever acquired from space and can be used to measure the temperature of an individual farmers field and plants.
@@ -1424,6 +1427,7 @@ parameter values.
 - [SWOT-OpenToolkit](https://github.com/SWOT-community/SWOT-OpenToolkit) - Community codes for processing SWOT data, to provide valuable data and information about the world's oceans and its terrestrial surface water such as lakes, rivers, and wetlands.
 - [HydroMT](https://github.com/Deltares/hydromt) - An open-source Python package that facilitates the process of building and analyzing spatial geoscientific models with a focus on water system model.
 - [Watershed Workflow](https://github.com/environmental-modeling-workflows/watershed-workflow) - Python workflows for data-rich, hyper-resolution simulations of hydrologic models on watersheds.
+- [RoGeR](https://github.com/Hydrology-IFH/roger) - Runoff Generation Research, is a process-based hydrological model that can be applied from plot to catchment scale.
 
 ### Ocean Circulation Models
 - [MOM6](https://github.com/NOAA-GFDL/MOM6) - A numerical representation of the ocean fluid with applications from the process scale to the planetary circulation scale.
@@ -1445,6 +1449,7 @@ parameter values.
 - [wrfhydropy](https://github.com/NCAR/wrf_hydro_py) - Provides an end-to-end python interface to support reproducible research and construction of workflows involving the WRF-Hydro model.
 - [HYCOM](https://github.com/HYCOM/HYCOM-src) - A three-dimensional depiction of the ocean state at fine resolution in real time, provision of boundary conditions for coastal and regional models, and provision of oceanic boundary conditions for a global coupled ocean-atmosphere prediction model.
 - [TrackEddy](https://github.com/josuemtzmo/trackeddy) - Used to investigate trends of eddy kinetic energy in the ocean using satellite sea surface height anomaly.
+- [xroms](https://github.com/xoceanmodel/xroms) - Work with ROMS ocean model output with xarray and calculate many derived variables with correct grid metrics in one line, including horizontal velocity, kinetic energy and eddy kinetic energy.
 
 ### Waves and Currents 
 - [leaflet-velocity](https://github.com/onaci/leaflet-velocity) - Create a canvas visualization layer for direction and intensity of arbitrary velocities (e.g. wind, ocean current).
@@ -1558,6 +1563,7 @@ parameter values.
 - [jsmetrics](https://github.com/Thomasjkeel/jsmetrics) - An open-source Python package containing implementations of various statistics and algorithms which have been developed to identify or characterise jet streams.
 - [pySonde](https://github.com/observingClouds/pysonde) - Converts Vaisala's radiosonde files (mwx) to netCDF4 and interpolates them if needed to a common height grid for easier processing.
 - [TurbulenceConvection.jl](https://github.com/CliMA/TurbulenceConvection.jl) - Provides a framework for testing parameterizations of clouds and turbulence.
+- [xinvert](https://github.com/miniufo/xinvert) - A Python package to invert or solve many classical problems in atmospheric sciences and physical oceanography.
 
 ### Atmospheric Dispersion and Transport
 - [MPTRAC](https://github.com/slcs-jsc/mptrac) - A Lagrangian particle dispersion model for the analysis of atmospheric transport processes in the free troposphere and stratosphere.
@@ -1647,6 +1653,7 @@ parameter values.
 - [fmi-weather-client](https://github.com/saaste/fmi-weather-client) - Simple client library for fetching weather information from Finnish Meteorological Institute.
 - [gridwxcomp](https://github.com/WSWUP/gridwxcomp) - A package for comparing weather station data to gridded weather data that are hosted on Google Earth Engine.
 - [Skyrim](https://github.com/secondlaw-ai/skyrim) - Allows you to run any large weather model with a consumer grade GPU.
+- [Neural-LAM](https://github.com/mllam/neural-lam) - A repository of graph-based neural weather prediction models for Limited Area Modeling.
 
 ### Radiative Transfer
 - [lowtran](https://github.com/space-physics/lowtran) - Atmospheric absorption extinction, scatter and irradiance model in Python and Matlab.
@@ -1843,6 +1850,7 @@ parameter values.
 - [Climakitae](https://github.com/cal-adapt/climakitae) - Enable a transition from climate vulnerability assessments to decision support for investor-owned utilities and other stakeholders.
 - [xeofs](https://github.com/xarray-contrib/xeofs) - A dedicated Python package for dimensionality reduction in the realm of climate science, offering methods like PCA, known as EOF analysis within the field, and related variants.
 - [clim-recal](https://github.com/alan-turing-institute/clim-recal) - A specialized resource designed to tackle systematic errors or biases in Regional Climate Models.
+- [ibicus](https://github.com/ecmwf-projects/ibicus) - Flexible and user-friendly toolkit for the bias correction of climate models and associated evaluation.
 
 ### Climate Downscaling
 - [ICAR](https://github.com/NCAR/icar) - A simplified atmospheric model designed primarily for climate downscaling, atmospheric sensitivity tests, and hopefully educational uses.
@@ -1908,6 +1916,8 @@ parameter values.
 - [DamageScanner](https://github.com/VU-IVM/DamageScanner) - A python toolkit for direct damage assessments for natural hazards.
 - [Climate & Disaster Risk Screening Tools](https://github.com/GFDRR/CCDR-tools) - A collection of scripted tools developed to inform risk analytics for the World Bank's Country Climate and Development Report risk screening activities.
 - [Kuro Siwo](https://github.com/Orion-AI-Lab/KuroSiwo) - A meticulously curated multi-temporal dataset spanning 32 global flood events, mapping over 63 billion areas of land.
+- [Climate Risk Assessment Book](https://github.com/CLIMAAX/crabook) - Guides you through your regional Climate Risk Assessments and provides you with tools and datasets for the assessment.
+
 
 ### Integrated Assessment and Climate Policy 
 - [PRIMAP2](https://github.com/pik-primap/primap2) - The next generation climate policy analysis suite.
@@ -1967,7 +1977,7 @@ parameter values.
 - [AirMonitor](https://github.com/MazamaScience/AirMonitor) - Utilities for working with hourly air quality monitoring data with a focus on small particulates PM2.5.
 
 
-### Water Supply
+### Water Supply and Quality 
 - [Stormwater-Management-Model](https://github.com/USEPA/Stormwater-Management-Model) - Used for single event or long-term (continuous) simulation of runoff quantity and quality from primarily urban areas.
 - [dataRetrieval](https://github.com/DOI-USGS/dataRetrieval) - This R package is designed to obtain USGS or EPA water quality sample data, streamflow data and metadata directly from web services.
 - [EGRET](https://github.com/DOI-USGS/EGRET) - An R package for the analysis of long-term changes in water quality and streamflow, including the water-quality method Weighted Regressions on Time, Discharge, and Season.
@@ -2050,9 +2060,9 @@ parameter values.
 - [PARETO](https://github.com/project-pareto/project-pareto) - An Optimization Framework for Produced Water Management and Beneficial Reuse.
 - [WSIMOD](https://github.com/ImperialCollegeLondon/wsi) - Provides a message passing interface to enable different subsystem models to communicate water flux and water quality information between each other, and self-contained representations of the key parts of the water cycle.
 - [ODM](https://github.com/Big-Life-Lab/PHES-ODM) - Aims to improve wastewater monitoring through interoperable data by providing robust support for reporting of biological, toxic or other health hazards.
-- [shinyssdtools](https://github.com/bcgov/shinyssdtools) - A Shiny application for fitting species sensitivity distribution, a method for getting water quality benchmarks to characterize effects of chemical contaminants for water quality or
-ecological risk assessment.
- 
+- [shinyssdtools](https://github.com/bcgov/shinyssdtools) - A Shiny application for fitting species sensitivity distribution, a method for getting water quality benchmarks to characterize effects of chemical contaminants for water quality or ecological risk assessment.
+- [wqbench](https://github.com/bcgov/wqbench) - Generate download and compile data from EPA ECOTOX database to generate aquatic life water quality benchmarks.
+
 ### Soil and Land
 - [SoilGrids250m](https://github.com/ISRICWorldSoil/SoilGrids250m) - Global Spatial predictions of soil properties and classes at 250 m resolution.
 - [SoilGrids](https://git.wur.nl/isric/soilgrids/soilgrids.notebooks/) - A system for automated soil mapping based on global soil profile and environmental covariate data at 250 m spatial resolution.
@@ -2125,6 +2135,7 @@ ecological risk assessment.
 - [Fractional Cover](https://github.com/GeoscienceAustralia/fc) - A remote sensing algorithm which measures the photosynthetic, non-photosynthetic and bare earth components of a Landsat image.
 - [soiltexture](https://github.com/julienmoeys/soiltexture) - A toolbox for plotting, classifying and transforming soil texture data like clay, silt and sand contents.
 - [Noah-MP](https://github.com/NCAR/noahmp) - A widely-used state-of-the-art land surface model used in many research and operational weather and climate models.
+- [SMODERP2D](https://github.com/storm-fsv-cvut/smoderp2d) - Distributed event-based model for surface and subsurface runoff and erosion.
 
 ## Sustainable Development
 ### Sustainable Development Goals 
@@ -2261,6 +2272,7 @@ ecological risk assessment.
 - [Environmental Outcomes Platform](https://github.com/Greater-Wellington-Regional-Council/Environmental-Outcomes-Platform) - An end-to-end solution for acquiring, managing, and interacting with environmental information to empower council services both internally and externally.
 - [PrithWe](https://github.com/adarsh-singh01/PrithWe) - A platform dedicated to helping individuals and businesses calculate and reduce their carbon footprint, providing tools and resources to promote sustainability and environmental awareness in everyday practices.
 - [Environmental Data Science book](https://github.com/alan-turing-institute/environmental-ds-book) - A community driven project providing access to multiple Jupyter notebooks showcasing open environmental science.
+- [censusdis](https://github.com/censusdis/censusdis) - A Python package for discovering, loading, and analyzing U.S. Census demographic, economic, and geographic data and metadata with access to the full collection of data and maps the U.S. Census publishes via their APIs.
 
 ### Environmental Satellites
 - [satpy](https://github.com/pytroll/satpy) - A python library for reading and manipulating meteorological remote sensing data and writing it to various image and data file formats.
