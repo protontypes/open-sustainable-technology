@@ -491,13 +491,6 @@ energy system designs and analysis of interactions between technologies.
 ### Energy Calculation and Modeling
 - [eemeter](https://github.com/openeemeter/eemeter) - An open source Python package for implementing and developing standard methods for calculating normalized metered energy consumption and avoided energy use.
 
-
-
-
-
-
-
-
 ### Data Accessibility and Integration
 - [OpenNEM](https://github.com/opennem/opennem-fe) - Aims to make the wealth of public Australian Electricity Market data more accessible to a wider audience.
 - [The Public Utility Data Liberation Project](https://github.com/catalyst-cooperative/pudl) - Makes the US' energy data easier to access and use.
