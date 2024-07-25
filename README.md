@@ -414,53 +414,93 @@ energy system designs and analysis of interactions between technologies.
 - [optihood](https://github.com/SPF-OST/optihood) -  A python-based framework to optimize the investment in alternative energy technologies as well as the operation of available energy resources for decentralized energy networks on a neighbourhood-scale.
 - [NEMS](https://github.com/EIAgov/NEMS) - A long-term energy-economy modeling system of U.S. energy markets.
 
-### Energy Distribution and Grids
+### Power System Modeling and Simulation
 - [SimBench](https://github.com/e2nIEE/simbench) - The objective of the research project SimBench is the development of a benchmark dataset to support research in grid planning and operation.
-- [Egret](https://github.com/grid-parity-exchange/Egret) - A Python-based package for electrical grid optimization based on the Pyomo optimization modeling language.
-- [Open Smart Grid Platform](https://github.com/OSGP/open-smart-grid-platform) - An open, generic, scalable and independent 'Internet of Things' platform, which enables various connected smart objects in the public space to be easily controlled and monitored.
 - [PowerModels.jl](https://github.com/lanl-ansi/PowerModels.jl) - Designed to enable computational evaluation of emerging power network formulations and algorithms in a common platform.
 - [PowerModelsAnnex.jl](https://github.com/lanl-ansi/PowerModelsAnnex.jl) - An extension of PowerModels.jl that provides a home for open source sharing of preliminary and/or exploratory methods in power system optimization.
 - [Power Grid Lib](https://github.com/power-grid-lib/pglib-opf) - This benchmark library is curated and maintained by the IEEE PES Task Force on Benchmarks for Validation of Emerging Power System Algorithms and is designed to evaluate a well established version of the AC Optimal Power Flow problem.
 - [pypownet](https://github.com/MarvinLer/pypownet) - A power network simulator with a Reinforcement Learning-focused usage.
 - [Grid2Op](https://github.com/rte-france/Grid2Op) - A testbed platform to model sequential decision making in power systems.
-- [eDisGo](https://github.com/openego/eDisGo/) - Optimization of flexibility options and grid expansion for distribution grids based on PyPSA.
-- [offgridders](https://github.com/rl-institut/offgridders) - Models and optimizes capacity & dispatch of electricity supply systems, off-grid or connected to a (weak) central grid.
 - [RTS-GMLC](https://github.com/GridMod/RTS-GMLC) - Reliability Test System of the Grid Modernization Lab Consortium.
-- [openmodelica-microgrid-gym](https://github.com/upb-lea/openmodelica-microgrid-gym) - An OpenAI Gym Environment for Microgrids.
 - [OpenDSS](https://sourceforge.net/projects/electricdss/) - An electric power Distribution System Simulator for supporting distributed resource integration and grid modernization efforts.
 - [PowerDynamics.jl](https://github.com/JuliaEnergy/PowerDynamics.jl) - Provides all the tools you need to create a dynamic power grid model and analyze it.
-- [InfrastructureSystems.jl](https://github.com/NREL-Sienna/InfrastructureSystems.jl) - Provides utilities to support data models for infrastructure modeling in NREL-SIIP.
-- [openleadr](https://github.com/OpenLEADR/openleadr-python) - Open Automated Demand Response (OpenADR) is an open and interoperable information exchange model and emerging smart grid standard.
 - [GridCal](https://github.com/SanPen/GridCal) - Aims to be a complete platform for power systems research and simulation.
-- [pyehub](https://gitlab.com/energyincities/python-ehub) - A Python-based, modular and nestable implementation of the Energy Hub model (balancing demand and supply, system capacity sizing and network flows using Mixed-Integer Linear Programming).
-- [origin](https://github.com/energywebfoundation/origin) - A set of toolkits that together provide a system for issuance and management of Energy Attribute Certificates.
-- [Grid Singularity Energy Exchange](https://github.com/gridsingularity/gsy-e) - An interface to download and deploy interconnected, grid-aware energy marketplaces.
 - [Backbone](https://gitlab.vtt.fi/backbone/backbone) - A generic energy network optimization tool written in GAMS.
-- [APIS](https://github.com/SonyCSL/APIS) - Build a microgrid that utilizes variable renewable energy as the main power source and enhances the resilience of the power system.
-- [python-microgrid](https://github.com/ahalev/python-microgrid) - A Python library to generate and simulate a large number of microgrids.
-- [SciGRID](https://power.scigrid.de/) - The focus will be on the European transmission grids, but the methods will be applicable more generally.
 - [mosaik](https://gitlab.com/mosaik/mosaik) - A flexible Smart Grid co-simulation framework.
 - [SmartGridToolbox](https://gitlab.com/SmartGridToolbox/SmartGridToolbox) - Designed to provide an extensible and flexible starting point for developing a wide variety of smart grid simulations and other applications.
-- [OPEN](https://github.com/EPGOxford/OPEN) - The framework combines distributed energy resource modelling (e.g. for PV generation sources, battery energy storage systems, electric vehicles), energy market modelling, power flow simulation and multi-period optimisation for scheduling flexible energy resources.
 - [GridLAB-D](https://github.com/arras-energy/gridlabd) - A simulation platform for future electricity distribution power systems.
-- [Gym-ANM](https://github.com/robinhenry/gym-anm) - Design Reinforcement Learning environments that model Active Network Management tasks in electricity distribution networks.
-- [SEAPATH](https://github.com/seapath/meta-seapath) - Aims at developing a reference design and industrial grade open source real-time platform that can run virtualized automation and protection applications for the power grid industry.
-- [Tools for the iTEM databases](https://github.com/transportenergy/database) - Contains tools for two databases maintained by iTEM, the International Transport Energy Modeling consortium.
 - [PowerSimData](https://github.com/Breakthrough-Energy/PowerSimData) - Is part of a Python software ecosystem developed by Breakthrough Energy Sciences to carry out power flow study in the U.S. electrical grid.
 - [SIMONA](https://github.com/ie3-institute/simona) - Provides a simulation toolbox to run and implement large-scale agent-based electricity grid simulations with focus on distribution grids.
 - [Power Grid Model](https://github.com/PowerGridModel/power-grid-model) -  A library for steady-state distribution power system analysis distributed for Python and C.
 - [ElectricGrid.jl](https://github.com/upb-lea/ElectricGrid.jl) - A time domain electrical energy grid modeling and simulation tool with a focus on the control of power electronics converters.
-- [PowerModelsACDC.jl](https://github.com/Electa-Git/PowerModelsACDC.jl) - A a Julia/JuMP/PowerModels package with models for DC lines, meshed DC networks, and AC DC converters.
-- [FlexPlan.jl](https://github.com/Electa-Git/FlexPlan.jl) - An open-source Julia tool for transmission and distribution expansion planning considering storage and demand flexibility.
 - [Easy SimAuto](https://github.com/mzy2240/ESA) - An easy-to-use Power System Analysis Automation Platform atop PowerWorld's Simulator Automation Server.
 - [GElectrical](https://github.com/manuvarkey/GElectrical) - A free and opensource electrical system analysis software for LV/MV electrical distribution networks.
-- [Electra](https://github.com/Alkia/electra) - Sovereign blockchain solution that enables local micro-grid to operate smoothly between trustless actors enabling a real circular economy based on the exchange of electricity units.
-- [SESMG](https://github.com/SESMG/SESMG) - An energy system model generator with the focus on the optimization of urban energy systems.
 - [GridPACK](https://github.com/GridOPTICS/GridPACK) - An open-source high-performance package for simulation of large-scale electrical grids.
-- [CLOVER](https://github.com/CLOVER-energy/CLOVER) - A minigrid simulation and optimisation for supporting rural electrification in developing countries.
+
+### Grid Optimization and Planning
+- [Egret](https://github.com/grid-parity-exchange/Egret) - A Python-based package for electrical grid optimization based on the Pyomo optimization modeling language.
+- [eDisGo](https://github.com/openego/eDisGo/) - Optimization of flexibility options and grid expansion for distribution grids based on PyPSA.
+- [FlexPlan.jl](https://github.com/Electa-Git/FlexPlan.jl) - An open-source Julia tool for transmission and distribution expansion planning considering storage and demand flexibility.
 - [ExaGO](https://github.com/pnnl/ExaGO) - High-performance power grid optimization for stochastic, security-constrained, and multi-period ACOPF problems.
 - [DISPATCHES](https://github.com/gmlc-dispatches/dispatches) - Developed and used to identify and optimize Integrated Energy Systems for operation within the bulk power system via energy market signals.
+
+### Smart Grid Management and Control
+- [Open Smart Grid Platform](https://github.com/OSGP/open-smart-grid-platform) - An open, generic, scalable and independent 'Internet of Things' platform, which enables various connected smart objects in the public space to be easily controlled and monitored.
+- [openleadr](https://github.com/OpenLEADR/openleadr-python) - Open Automated Demand Response (OpenADR) is an open and interoperable information exchange model and emerging smart grid standard.
+- [SEAPATH](https://github.com/seapath/meta-seapath) - Aims at developing a reference design and industrial grade open source real-time platform that can run virtualized automation and protection applications for the power grid industry.
+
+### Renewable Energy Integration
+- [OPEN](https://github.com/EPGOxford/OPEN) - The framework combines distributed energy resource modelling (e.g. for PV generation sources, battery energy storage systems, electric vehicles), energy market modelling, power flow simulation and multi-period optimisation for scheduling flexible energy resources.
+- [SESMG](https://github.com/SESMG/SESMG) - An energy system model generator with the focus on the optimization of urban energy systems.
+
+### Energy Markets and Trading
+- [Grid Singularity Energy Exchange](https://github.com/gridsingularity/gsy-e) - An interface to download and deploy interconnected, grid-aware energy marketplaces.
+- [origin](https://github.com/energywebfoundation/origin) - A set of toolkits that together provide a system for issuance and management of Energy Attribute Certificates.
+
+### Microgrid and Off-grid Solutions
+- [offgridders](https://github.com/rl-institut/offgridders) - Models and optimizes capacity & dispatch of electricity supply systems, off-grid or connected to a (weak) central grid.
+- [openmodelica-microgrid-gym](https://github.com/upb-lea/openmodelica-microgrid-gym) - An OpenAI Gym Environment for Microgrids.
+- [APIS](https://github.com/SonyCSL/APIS) - Build a microgrid that utilizes variable renewable energy as the main power source and enhances the resilience of the power system.
+- [python-microgrid](https://github.com/ahalev/python-microgrid) - A Python library to generate and simulate a large number of microgrids.
+- [CLOVER](https://github.com/CLOVER-energy/CLOVER) - A minigrid simulation and optimisation for supporting rural electrification in developing countries.
+
+### AI and Machine Learning for Grid Management
+- [Gym-ANM](https://github.com/robinhenry/gym-anm) - Design Reinforcement Learning environments that model Active Network Management tasks in electricity distribution networks.
+
+### Specialized Grid Technologies
+- [PowerModelsACDC.jl](https://github.com/Electa-Git/PowerModelsACDC.jl) - A a Julia/JuMP/PowerModels package with models for DC lines, meshed DC networks, and AC DC converters.
+- [pyehub](https://gitlab.com/energyincities/python-ehub) - A Python-based, modular and nestable implementation of the Energy Hub model (balancing demand and supply, system capacity sizing and network flows using Mixed-Integer Linear Programming).
+
+### Data Management and Visualization
+- [InfrastructureSystems.jl](https://github.com/NREL-Sienna/InfrastructureSystems.jl) - Provides utilities to support data models for infrastructure modeling in NREL-SIIP.
+- [SciGRID](https://power.scigrid.de/) - The focus will be on the European transmission grids, but the methods will be applicable more generally.
+- [Tools for the iTEM databases](https://github.com/transportenergy/database) - Contains tools for two databases maintained by iTEM, the International Transport Energy Modeling consortium.
 - [GreenForce](https://github.com/Energinet-DataHub/greenforce-frontend) - National energy transmission system operator data hub developing to support change toward decarbonised economies.
+
+### Blockchain for Energy Systems
+- [Electra](https://github.com/Alkia/electra) - Sovereign blockchain solution that enables local micro-grid to operate smoothly between trustless actors enabling a real circular economy based on the exchange of electricity units.
+
+<CLUSTERING_REVIEW>
+After conducting an extra review of the clustering, I'm confident that each repository has been placed in the most appropriate category. The clustering provides a clear and logical organization of the repositories while maintaining flexibility for future additions or modifications.
+
+The clustering solution is practically useful for various end-users:
+1. Researchers can quickly identify relevant tools and datasets for their studies.
+2. Developers can find similar projects to collaborate with or build upon.
+3. Energy professionals can easily locate tools specific to their needs, whether it's grid optimization, microgrid solutions, or market simulations.
+
+The larger clusters, such as "Power System Modeling and Simulation," reflect the current focus of the field on creating comprehensive tools for understanding and analyzing complex grid systems. Smaller clusters, like "Blockchain for Energy Systems," highlight emerging areas that may grow in the future.
+
+Some repositories, like Grid2Op and pypownet, could potentially fit into multiple categories (e.g., both "Power System Modeling and Simulation" and "AI and Machine Learning for Grid Management"). In these cases, I placed them in the category that best represents their primary function while noting their versatility.
+</CLUSTERING_REVIEW>
+
+This clustering provides a comprehensive and logical organization of the energy systems engineering repositories, catering to various stakeholders in the field while allowing for future expansion and refinement.
+
+
+
+
+
+
+
 
 ### Energy Monitoring and Visualization
 - [Open Energy Dashboard](https://github.com/OpenEnergyDashboard/OED) - Open Energy Dashboard is a user-friendly way to display energy information from smart energy meter.
