@@ -471,7 +471,7 @@ energy system designs and analysis of interactions between technologies.
 - [PowerModelsACDC.jl](https://github.com/Electa-Git/PowerModelsACDC.jl) - A a Julia/JuMP/PowerModels package with models for DC lines, meshed DC networks, and AC DC converters.
 - [pyehub](https://gitlab.com/energyincities/python-ehub) - A Python-based, modular and nestable implementation of the Energy Hub model (balancing demand and supply, system capacity sizing and network flows using Mixed-Integer Linear Programming).
 
-### Data Management and Visualization
+### Grid Data Management and Visualization
 - [InfrastructureSystems.jl](https://github.com/NREL-Sienna/InfrastructureSystems.jl) - Provides utilities to support data models for infrastructure modeling in NREL-SIIP.
 - [SciGRID](https://power.scigrid.de/) - The focus will be on the European transmission grids, but the methods will be applicable more generally.
 - [Tools for the iTEM databases](https://github.com/transportenergy/database) - Contains tools for two databases maintained by iTEM, the International Transport Energy Modeling consortium.
@@ -479,28 +479,6 @@ energy system designs and analysis of interactions between technologies.
 
 ### Blockchain for Energy Systems
 - [Electra](https://github.com/Alkia/electra) - Sovereign blockchain solution that enables local micro-grid to operate smoothly between trustless actors enabling a real circular economy based on the exchange of electricity units.
-
-<CLUSTERING_REVIEW>
-After conducting an extra review of the clustering, I'm confident that each repository has been placed in the most appropriate category. The clustering provides a clear and logical organization of the repositories while maintaining flexibility for future additions or modifications.
-
-The clustering solution is practically useful for various end-users:
-1. Researchers can quickly identify relevant tools and datasets for their studies.
-2. Developers can find similar projects to collaborate with or build upon.
-3. Energy professionals can easily locate tools specific to their needs, whether it's grid optimization, microgrid solutions, or market simulations.
-
-The larger clusters, such as "Power System Modeling and Simulation," reflect the current focus of the field on creating comprehensive tools for understanding and analyzing complex grid systems. Smaller clusters, like "Blockchain for Energy Systems," highlight emerging areas that may grow in the future.
-
-Some repositories, like Grid2Op and pypownet, could potentially fit into multiple categories (e.g., both "Power System Modeling and Simulation" and "AI and Machine Learning for Grid Management"). In these cases, I placed them in the category that best represents their primary function while noting their versatility.
-</CLUSTERING_REVIEW>
-
-This clustering provides a comprehensive and logical organization of the energy systems engineering repositories, catering to various stakeholders in the field while allowing for future expansion and refinement.
-
-
-
-
-
-
-
 
 ### Energy Monitoring and Visualization
 - [Open Energy Dashboard](https://github.com/OpenEnergyDashboard/OED) - Open Energy Dashboard is a user-friendly way to display energy information from smart energy meter.
