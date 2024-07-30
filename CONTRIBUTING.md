@@ -34,5 +34,5 @@ If your project doesn't meet the community, documentation, or usage criteria bec
 
 ## Join the Community
 We welcome developers, scientists, artists, writers, journalists, entrepreneurs, and citizens alike. Join our regular community calls to learn more about how you can make a difference through open source action on climate and sustainability.
-<iframe src="https://calendar.google.com/calendar/embed?src=b83a2338493ab89247a53be7c8a6576f5209be3bfb7e5be4e854871833e1e28b%40group.calendar.google.com&ctz=Europe%2FBerlin" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://calendar.google.com/calendar/embed?src=opensustaintech%40gmail.com&ctz=Europe%2FBerlin" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
