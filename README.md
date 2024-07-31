@@ -2307,6 +2307,7 @@ parameter values.
 - [PrithWe](https://github.com/adarsh-singh01/PrithWe) - A platform dedicated to helping individuals and businesses calculate and reduce their carbon footprint, providing tools and resources to promote sustainability and environmental awareness in everyday practices.
 - [Environmental Data Science book](https://github.com/alan-turing-institute/environmental-ds-book) - A community driven project providing access to multiple Jupyter notebooks showcasing open environmental science.
 - [censusdis](https://github.com/censusdis/censusdis) - A Python package for discovering, loading, and analyzing U.S. Census demographic, economic, and geographic data and metadata with access to the full collection of data and maps the U.S. Census publishes via their APIs.
+- [VEDA Dashboard](https://github.com/NASA-IMPACT/veda-ui) - Developed collaboratively and mostly reusing existing open-source components, VEDA consolidates GIS delivery mechanisms, processing platforms, analysis services, and visualization tools and provides an ecosystem of open tools for addressing Earth science research and application needs through the public-facing VEDA Dashboard.
 
 ### Environmental Satellites
 - [satpy](https://github.com/pytroll/satpy) - A python library for reading and manipulating meteorological remote sensing data and writing it to various image and data file formats.
