@@ -756,6 +756,7 @@ energy system designs and analysis of interactions between technologies.
 - [EcoLogits](https://github.com/genai-impact/ecologits) - Tracks the energy consumption and environmental impacts of using generative AI models through APIs.
 - [E-footprint model](https://github.com/publicissapient-france/e-footprint) - A toolkit for exhaustively modeling the environmental impact of digital services.
 - [carbonifer](https://github.com/carboniferio/carbonifer) - Transforms your cloud infrastructure into a carbon-aware cloud by estimating the footprint of Terraform files and real-time measurement of the current carbon emissions of your infrastructure deployed in the cloud.
+- [WordPress Sustainability Handbook](https://github.com/WordPress/sustainability) - We seek to embed sustainable practices into WordPress to ensure the longevity of the project. 
 
 ### Agriculture and Nutrition
 - [Farmbot](https://github.com/FarmBot/Farmbot-Web-App) - Humanity's open-source CNC farming machine.
