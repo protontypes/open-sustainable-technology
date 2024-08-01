@@ -1054,6 +1054,7 @@ energy system designs and analysis of interactions between technologies.
 - [funrar](https://github.com/Rekyt/funrar) - A package to compute functional rarity indices, it quantifies how species are rare both from a functional and an extent point of view.
 - [oneimpact](https://github.com/NINAnor/oneimpact) - Provides tools for the assessment of cumulative impacts of multiple infrastructure and land use modifications in ecological studies.
 - [gdm](https://github.com/fitzLab-AL/gdm) - Provides functions to fit, plot, summarize, and apply Generalized Dissimilarity Models.
+- [BioMonTools](https://github.com/leppott/BioMonTools) - Tools for biomonitoring and bioassessment; metric calculation for benthic macroinvertebrates, fish, and periphyton.
 
 ### Biodiversity Citizen Science
 - [Naturtag](https://github.com/pyinat/naturtag) - A tool for nature photographers that adds useful metadata to describe the organisms in your photos.
