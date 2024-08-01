@@ -75,7 +75,7 @@
   - [Snow and Permafrost](#snow-and-permafrost)
 - [Hydrosphere](#hydrosphere)
   - [Freshwater and Hydrology](#freshwater-and-hydrology)
-  - [Ocean Circulation Models](#ocean-circulation-models)
+  - [Ocean Models](#ocean-models)
   - [Waves and Currents](#waves-and-currents)
   - [Ocean Carbon and Temperature](#ocean-carbon-and-temperature)
   - [Coastal and Reefs](#coastal-and-reefs)
@@ -100,6 +100,7 @@
   - [Soil and Land](#soil-and-land)
 - [Sustainable Development](#sustainable-development)
   - [Sustainable Development Goals](#sustainable-development-goals)
+  - [Population and Poverty](#population-and-poverty)
   - [Sustainable Investment](#sustainable-investment)
   - [Knowledge Platforms](#knowledge-platforms)
   - [Data Catalogs and Interfaces](#data-catalogs-and-interfaces)
@@ -512,7 +513,7 @@ energy system designs and analysis of interactions between technologies.
 - [ReEDS](https://github.com/NREL/ReEDS-2.0) - A capacity planning and dispatch model for the North American electricity system.
 - [nempy](https://github.com/UNSW-CEEM/nempy) - Aims to enhance the Australian electricity industries modeling and analytical capabilities.
 - [openENTRANCE](https://github.com/openENTRANCE/openentrance) - The Horizon 2020 openENTRANCE project aims at developing, using and disseminating an open, transparent and integrated modeling platform for assessing low-carbon transition pathways in Europe.
-
+- [PyPSA-DE](https://github.com/PyPSA/pypsa-ariadne) - High resolution, sector-coupled model of the German Energy System.
 
 
 ### Renewable Energy Integration
@@ -756,6 +757,8 @@ energy system designs and analysis of interactions between technologies.
 - [EcoLogits](https://github.com/genai-impact/ecologits) - Tracks the energy consumption and environmental impacts of using generative AI models through APIs.
 - [E-footprint model](https://github.com/publicissapient-france/e-footprint) - A toolkit for exhaustively modeling the environmental impact of digital services.
 - [carbonifer](https://github.com/carboniferio/carbonifer) - Transforms your cloud infrastructure into a carbon-aware cloud by estimating the footprint of Terraform files and real-time measurement of the current carbon emissions of your infrastructure deployed in the cloud.
+- [WordPress Sustainability Handbook](https://github.com/WordPress/sustainability) - We seek to embed sustainable practices into WordPress to ensure the longevity of the project.
+- [impactco2](https://github.com/incubateur-ademe/impactco2) - Comparing the CO₂e consumption of various equivalent products.
 
 ### Agriculture and Nutrition
 - [Farmbot](https://github.com/FarmBot/Farmbot-Web-App) - Humanity's open-source CNC farming machine.
@@ -857,7 +860,7 @@ energy system designs and analysis of interactions between technologies.
 - [The NHS Emission Quantification Recipe Book](https://github.com/danwrisar/KMSIMG_NHS_EmissionsRecipeBook) - A transparent, collaborative and evidence-based approach to establishing a standardised means of calculating emissions associated with NHS Carbon Footprint and Carbon Footprint Plus.
 - [Open Sustainability Index](https://github.com/Open-Sustainability-Index/open-sustainability-index-backend) - An open, transparent, wikipedia-like sustainability database - aiming to accelerate comparable corporate sustainability data.
 - [GHGPy](https://github.com/iClimate/ghgpy) - An open source greenhouse gas accounting tool that complies with IPCC 2006 and the GHG Protocol.
-
+- [Nos Gestes Climat](https://github.com/incubateur-ademe/nosgestesclimat) - In 10 Minutes,get an estimate of your carbon footprint.
 
 ### Carbon Offsets and Trading 
 - [Carbon Dioxide Removal Database](https://github.com/carbonplan/cdr-database) - Open science reports on carbon removal projects and technologies.
@@ -1052,6 +1055,7 @@ energy system designs and analysis of interactions between technologies.
 - [funrar](https://github.com/Rekyt/funrar) - A package to compute functional rarity indices, it quantifies how species are rare both from a functional and an extent point of view.
 - [oneimpact](https://github.com/NINAnor/oneimpact) - Provides tools for the assessment of cumulative impacts of multiple infrastructure and land use modifications in ecological studies.
 - [gdm](https://github.com/fitzLab-AL/gdm) - Provides functions to fit, plot, summarize, and apply Generalized Dissimilarity Models.
+- [BioMonTools](https://github.com/leppott/BioMonTools) - Tools for biomonitoring and bioassessment; metric calculation for benthic macroinvertebrates, fish, and periphyton.
 
 ### Biodiversity Citizen Science
 - [Naturtag](https://github.com/pyinat/naturtag) - A tool for nature photographers that adds useful metadata to describe the organisms in your photos.
@@ -1459,8 +1463,9 @@ parameter values.
 - [HydroMT](https://github.com/Deltares/hydromt) - An open-source Python package that facilitates the process of building and analyzing spatial geoscientific models with a focus on water system model.
 - [Watershed Workflow](https://github.com/environmental-modeling-workflows/watershed-workflow) - Python workflows for data-rich, hyper-resolution simulations of hydrologic models on watersheds.
 - [RoGeR](https://github.com/Hydrology-IFH/roger) - Runoff Generation Research, is a process-based hydrological model that can be applied from plot to catchment scale.
+- [ATS](https://github.com/amanzi/ats) - The Advanced Terrestrial Simulator is a code for solving ecosystem-based, integrated, distributed hydrology.
 
-### Ocean Circulation Models
+### Ocean Models
 - [MOM6](https://github.com/NOAA-GFDL/MOM6) - A numerical representation of the ocean fluid with applications from the process scale to the planetary circulation scale.
 - [MOM5](https://github.com/mom-ocean/MOM5) - A numerical ocean model based on the hydrostatic primitive equations.
 - [Bergen Layered Ocean Model](https://github.com/NorESMhub/BLOM) - Employs an isopycnic vertical coordinate, with near-isopycnic interior layers and variable density layers in the surface mixed boundary layer.
@@ -1481,6 +1486,7 @@ parameter values.
 - [HYCOM](https://github.com/HYCOM/HYCOM-src) - A three-dimensional depiction of the ocean state at fine resolution in real time, provision of boundary conditions for coastal and regional models, and provision of oceanic boundary conditions for a global coupled ocean-atmosphere prediction model.
 - [TrackEddy](https://github.com/josuemtzmo/trackeddy) - Used to investigate trends of eddy kinetic energy in the ocean using satellite sea surface height anomaly.
 - [xroms](https://github.com/xoceanmodel/xroms) - Work with ROMS ocean model output with xarray and calculate many derived variables with correct grid metrics in one line, including horizontal velocity, kinetic energy and eddy kinetic energy.
+- [SalishSeaNowcast](https://github.com/SalishSeaCast/SalishSeaNowcast) - A collection of Python modules associated with running the SalishSeaCast ocean models system of daily nowcasts and forecasts.
 
 ### Waves and Currents 
 - [leaflet-velocity](https://github.com/onaci/leaflet-velocity) - Create a canvas visualization layer for direction and intensity of arbitrary velocities (e.g. wind, ocean current).
@@ -1764,7 +1770,7 @@ parameter values.
 - [CTSM](https://github.com/escomp/ctsm) - The Community Land Model is the land model for the Community Earth System Model, which formalises and quantifies concepts of ecological climatology.
 - [ICON](https://gitlab.dkrz.de/icon/icon-model) - A flexible, scalable, high-performance modelling framework for weather, climate and environmental prediction that provides actionable information for society and advances our understanding of the Earth's climate system.
 - [RegCM](https://github.com/ICTP/RegCM) -  This Regional Climate Model can be applied to any region of the World, with grid spacing of up to about 3 km, and for a wide range of studies, from process studies to paleoclimate and future climate simulation.
-
+- [gospl](https://github.com/Geodels/gospl) - Global Scalable Paleo Landscape Evolution Model is an library providing a scalable parallelised Python-based numerical model to simulate landscapes and basins reconstruction at global scale.
 
 ### Climate Data Standards 
 - [cf-conventions](https://github.com/cf-convention/cf-conventions) - The conventions for CF (Climate and Forecast) metadata are designed to promote the processing and sharing of files created with the NetCDF API.
@@ -1825,6 +1831,7 @@ parameter values.
 - [TubeDB](https://github.com/environmentalinformatics-marburg/tubedb) - Efficient and easy to use database for climate station observations. Store, check, fill, aggregate, visualize and access your time series data on-demand.
 - [climate-visuals](https://github.com/ed-hawkins/climate-visuals) - These graphics show different aspects of how the climate is changing.
 - [ColOpenData](https://github.com/epiverse-trace/ColOpenData) - A package that acquires and wrangles Colombian socioeconomic, geospatial and climate data.
+- [amadeus](https://github.com/NIEHS/amadeus) - A mechanism for data, environments, and user setup for common environmental and climate health datasets in R.
 
 ### Climate Data Processing and Analysis
 - [Iris](https://github.com/SciTools/iris) - A powerful, format-agnostic, community-driven Python package for analyzing and visualizing Earth science data.
@@ -1951,14 +1958,14 @@ parameter values.
 - [Climate & Disaster Risk Screening Tools](https://github.com/GFDRR/CCDR-tools) - A collection of scripted tools developed to inform risk analytics for the World Bank's Country Climate and Development Report risk screening activities.
 - [Kuro Siwo](https://github.com/Orion-AI-Lab/KuroSiwo) - A meticulously curated multi-temporal dataset spanning 32 global flood events, mapping over 63 billion areas of land.
 - [Climate Risk Assessment Book](https://github.com/CLIMAAX/crabook) - Guides you through your regional Climate Risk Assessments and provides you with tools and datasets for the assessment.
-
+- [FReDT](https://github.com/GeospatialResearch/Digital-Twins) - Provide a better understanding of the degree of impact flood events can have on physical assets like buildings, roads, railways, transmission lines, etc.
 
 ### Integrated Assessment and Climate Policy 
 - [PRIMAP2](https://github.com/pik-primap/primap2) - The next generation climate policy analysis suite.
 - [Climate Policy Radar Open Data](https://github.com/Ly0n/open-data) - The full text of thousands of climate laws and policies from around the world.
 - [MESSAGEix](https://github.com/iiasa/message_ix) - A versatile, dynamic systems-optimization modeling framework developed by the IIASA Energy, Climate, and Environment (ECE) Program since the 1980s.
 - [DICE.jl](https://github.com/Libbum/DICE.jl) - The Dynamic Integrated model of Climate and the Economy model family are a popular and capable type of simple Integrated Assessment Model of climate change economics pioneered by William Nordhaus.
-- [LPJmL](https://gitlab.pik-potsdam.de/lpjml/LPJmL) - A process-based model that simulates climate and land-use change impacts on the terrestrial biosphere, the water and carbon cycle and on agricultural production.
+- [LPJmL](https://github.com/PIK-LPJmL/LPJmL) - Designed to simulate the global terrestrial carbon cycle and the response of carbon and vegetation patterns under climate change.
 - [ENGAGE](https://github.com/iiasa/ENGAGE-netzero-analysis) - Source code for figure generation and analysis of the ENGAGE netzero scenario analysis.
 - [pyam](https://github.com/IAMconsortium/pyam) - A Python package for data-wrangling, analysis and visualization of integrated-assessment scenarios and energy systems modeling results.
 - [GCAM](https://github.com/JGCRI/gcam-core) - A dynamic-recursive model with technology-rich representations of the economy, energy sector, land use and water linked to a climate model that can be used to explore climate change mitigation policies including carbon taxes, carbon trading, regulations and accelerated deployment of energy technology.
@@ -2184,6 +2191,10 @@ parameter values.
 - [text2sdg](https://github.com/dwulff/text2sdg) - Multi-system analysis package that identifies SDGs in text, opening up the opportunity to monitor any type of text-based data.
 - [SDG Detector](https://github.com/Yingjie4Science/SDGdetector) - Identify and visualize 17 Sustainable Development Goals and associated 169 Targets in text.
 
+### Population and Poverty 
+- [wopr](https://github.com/wpgp/wopr) - An R package and Shiny application to provide API access to the WorldPop Open Population Repository.
+- [censusdis](https://github.com/censusdis/censusdis) - A Python package for discovering, loading, and analyzing U.S. Census demographic, economic, and geographic data and metadata with access to the full collection of data and maps the U.S. Census publishes via their APIs.
+
 ### Sustainable Investment 
 - [Integrated Valuation of Ecosystem Services and Tradeoffs](https://github.com/natcap/invest) - A family of tools for quantifying the values of natural capital in clear, credible, and practical ways.
 - [The REgional Model of INvestments and Development](https://github.com/remindmodel/remind) - A modular open source multi-regional model incorporating the economy, the climate system and a detailed representation of the energy sector.
@@ -2267,7 +2278,6 @@ parameter values.
 - [MeCCO](http://sciencepolicy.colorado.edu/icecaps/research/media_coverage/) - Open Database on the Media Coverage of Climate Change and Global Warming.
 - [Climate Action Plans](https://github.com/mysociety/caps) - A simple, open database of local government climate action plan documents and emissions data.
 - [AI for Earth Data Sets](https://github.com/microsoft/AIforEarthDataSets) - Notebooks and documentation for AI-for-Earth-managed datasets on Azure.
-- [wopr](https://github.com/wpgp/wopr) - An R package and Shiny application to provide API access to the WorldPop Open Population Repository.
 - [The POWER Project](https://power.larc.nasa.gov/) - Provides solar and meteorological data sets from NASA research for support of renewable energy, building energy efficiency and agricultural needs.
 - [Earthdata Search](https://github.com/nasa/earthdata-search) - A web application developed by NASA EOSDIS to enable data discovery, search, comparison, visualization, and access across EOSDIS' Earth Science data holdings.
 - [Planetary Computer Data Catalog](https://github.com/microsoft/PlanetaryComputerDataCatalog) - Combines a multi-petabyte catalog of global environmental data with intuitive APIs and a flexible scientific environment.
@@ -2306,7 +2316,7 @@ parameter values.
 - [Environmental Outcomes Platform](https://github.com/Greater-Wellington-Regional-Council/Environmental-Outcomes-Platform) - An end-to-end solution for acquiring, managing, and interacting with environmental information to empower council services both internally and externally.
 - [PrithWe](https://github.com/adarsh-singh01/PrithWe) - A platform dedicated to helping individuals and businesses calculate and reduce their carbon footprint, providing tools and resources to promote sustainability and environmental awareness in everyday practices.
 - [Environmental Data Science book](https://github.com/alan-turing-institute/environmental-ds-book) - A community driven project providing access to multiple Jupyter notebooks showcasing open environmental science.
-- [censusdis](https://github.com/censusdis/censusdis) - A Python package for discovering, loading, and analyzing U.S. Census demographic, economic, and geographic data and metadata with access to the full collection of data and maps the U.S. Census publishes via their APIs.
+- [VEDA Dashboard](https://github.com/NASA-IMPACT/veda-ui) - Developed collaboratively and mostly reusing existing open-source components, VEDA consolidates GIS delivery mechanisms, processing platforms, analysis services, and visualization tools and provides an ecosystem of open tools for addressing Earth science research and application needs through the public-facing VEDA Dashboard.
 
 ### Environmental Satellites
 - [satpy](https://github.com/pytroll/satpy) - A python library for reading and manipulating meteorological remote sensing data and writing it to various image and data file formats.
