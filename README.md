@@ -100,6 +100,7 @@
   - [Soil and Land](#soil-and-land)
 - [Sustainable Development](#sustainable-development)
   - [Sustainable Development Goals](#sustainable-development-goals)
+  - [Population and Poverty](#population-and-poverty)
   - [Sustainable Investment](#sustainable-investment)
   - [Knowledge Platforms](#knowledge-platforms)
   - [Data Catalogs and Interfaces](#data-catalogs-and-interfaces)
@@ -2188,6 +2189,10 @@ parameter values.
 - [text2sdg](https://github.com/dwulff/text2sdg) - Multi-system analysis package that identifies SDGs in text, opening up the opportunity to monitor any type of text-based data.
 - [SDG Detector](https://github.com/Yingjie4Science/SDGdetector) - Identify and visualize 17 Sustainable Development Goals and associated 169 Targets in text.
 
+### Population and Poverty 
+- [wopr](https://github.com/wpgp/wopr) - An R package and Shiny application to provide API access to the WorldPop Open Population Repository.
+- [censusdis](https://github.com/censusdis/censusdis) - A Python package for discovering, loading, and analyzing U.S. Census demographic, economic, and geographic data and metadata with access to the full collection of data and maps the U.S. Census publishes via their APIs.
+
 ### Sustainable Investment 
 - [Integrated Valuation of Ecosystem Services and Tradeoffs](https://github.com/natcap/invest) - A family of tools for quantifying the values of natural capital in clear, credible, and practical ways.
 - [The REgional Model of INvestments and Development](https://github.com/remindmodel/remind) - A modular open source multi-regional model incorporating the economy, the climate system and a detailed representation of the energy sector.
@@ -2271,7 +2276,6 @@ parameter values.
 - [MeCCO](http://sciencepolicy.colorado.edu/icecaps/research/media_coverage/) - Open Database on the Media Coverage of Climate Change and Global Warming.
 - [Climate Action Plans](https://github.com/mysociety/caps) - A simple, open database of local government climate action plan documents and emissions data.
 - [AI for Earth Data Sets](https://github.com/microsoft/AIforEarthDataSets) - Notebooks and documentation for AI-for-Earth-managed datasets on Azure.
-- [wopr](https://github.com/wpgp/wopr) - An R package and Shiny application to provide API access to the WorldPop Open Population Repository.
 - [The POWER Project](https://power.larc.nasa.gov/) - Provides solar and meteorological data sets from NASA research for support of renewable energy, building energy efficiency and agricultural needs.
 - [Earthdata Search](https://github.com/nasa/earthdata-search) - A web application developed by NASA EOSDIS to enable data discovery, search, comparison, visualization, and access across EOSDIS' Earth Science data holdings.
 - [Planetary Computer Data Catalog](https://github.com/microsoft/PlanetaryComputerDataCatalog) - Combines a multi-petabyte catalog of global environmental data with intuitive APIs and a flexible scientific environment.
@@ -2310,7 +2314,6 @@ parameter values.
 - [Environmental Outcomes Platform](https://github.com/Greater-Wellington-Regional-Council/Environmental-Outcomes-Platform) - An end-to-end solution for acquiring, managing, and interacting with environmental information to empower council services both internally and externally.
 - [PrithWe](https://github.com/adarsh-singh01/PrithWe) - A platform dedicated to helping individuals and businesses calculate and reduce their carbon footprint, providing tools and resources to promote sustainability and environmental awareness in everyday practices.
 - [Environmental Data Science book](https://github.com/alan-turing-institute/environmental-ds-book) - A community driven project providing access to multiple Jupyter notebooks showcasing open environmental science.
-- [censusdis](https://github.com/censusdis/censusdis) - A Python package for discovering, loading, and analyzing U.S. Census demographic, economic, and geographic data and metadata with access to the full collection of data and maps the U.S. Census publishes via their APIs.
 - [VEDA Dashboard](https://github.com/NASA-IMPACT/veda-ui) - Developed collaboratively and mostly reusing existing open-source components, VEDA consolidates GIS delivery mechanisms, processing platforms, analysis services, and visualization tools and provides an ecosystem of open tools for addressing Earth science research and application needs through the public-facing VEDA Dashboard.
 
 ### Environmental Satellites
