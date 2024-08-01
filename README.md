@@ -2342,6 +2342,7 @@ parameter values.
 - [LandsatTS](https://github.com/logan-berner/LandsatTS) - An R package to facilitate retrieval, cleaning, cross-calibration, and phenological modeling of Landsat time-series data.
 - [rsat](https://github.com/ropensci/rsat) - Dealing with Multiplatform Satellite Images from Landsat, MODIS, and Sentinel.
 - [EnPT](https://git.gfz-potsdam.de/EnMAP/GFZ_Tools_EnMAP_BOX/EnPT) - An automated pre-processing pipeline for the new EnMAP hyperspectral satellite data.
+- [BlackMarblePy](https://github.com/worldbank/blackmarblepy) - A Python package that provides a simple way to use nighttime lights data from NASA's Black Marble project that provides a product suite of daily, monthly and yearly global nighttime lights. 
 
 ### Taxonomy and Ontology
 - [Digital Twins Definition Language ontology for Energy Grid](https://github.com/Azure/opendigitaltwins-energygrid) - A global standard for energy grid assets management, power system operations modeling and physical energy commodity market.
