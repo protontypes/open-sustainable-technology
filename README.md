@@ -75,7 +75,7 @@
   - [Snow and Permafrost](#snow-and-permafrost)
 - [Hydrosphere](#hydrosphere)
   - [Freshwater and Hydrology](#freshwater-and-hydrology)
-  - [Ocean Circulation Models](#ocean-circulation-models)
+  - [Ocean Models](#ocean-models)
   - [Waves and Currents](#waves-and-currents)
   - [Ocean Carbon and Temperature](#ocean-carbon-and-temperature)
   - [Coastal and Reefs](#coastal-and-reefs)
@@ -1462,7 +1462,7 @@ parameter values.
 - [RoGeR](https://github.com/Hydrology-IFH/roger) - Runoff Generation Research, is a process-based hydrological model that can be applied from plot to catchment scale.
 - [ATS](https://github.com/amanzi/ats) - The Advanced Terrestrial Simulator is a code for solving ecosystem-based, integrated, distributed hydrology.
 
-### Ocean Circulation Models
+### Ocean Models
 - [MOM6](https://github.com/NOAA-GFDL/MOM6) - A numerical representation of the ocean fluid with applications from the process scale to the planetary circulation scale.
 - [MOM5](https://github.com/mom-ocean/MOM5) - A numerical ocean model based on the hydrostatic primitive equations.
 - [Bergen Layered Ocean Model](https://github.com/NorESMhub/BLOM) - Employs an isopycnic vertical coordinate, with near-isopycnic interior layers and variable density layers in the surface mixed boundary layer.
@@ -1483,6 +1483,7 @@ parameter values.
 - [HYCOM](https://github.com/HYCOM/HYCOM-src) - A three-dimensional depiction of the ocean state at fine resolution in real time, provision of boundary conditions for coastal and regional models, and provision of oceanic boundary conditions for a global coupled ocean-atmosphere prediction model.
 - [TrackEddy](https://github.com/josuemtzmo/trackeddy) - Used to investigate trends of eddy kinetic energy in the ocean using satellite sea surface height anomaly.
 - [xroms](https://github.com/xoceanmodel/xroms) - Work with ROMS ocean model output with xarray and calculate many derived variables with correct grid metrics in one line, including horizontal velocity, kinetic energy and eddy kinetic energy.
+- [SalishSeaNowcast](https://github.com/SalishSeaCast/SalishSeaNowcast) - A collection of Python modules associated with running the SalishSeaCast ocean models system of daily nowcasts and forecasts.
 
 ### Waves and Currents 
 - [leaflet-velocity](https://github.com/onaci/leaflet-velocity) - Create a canvas visualization layer for direction and intensity of arbitrary velocities (e.g. wind, ocean current).
