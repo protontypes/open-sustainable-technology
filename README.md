@@ -1018,6 +1018,7 @@ energy system designs and analysis of interactions between technologies.
 - [ABAP](https://github.com/AfricaBirdData/ABAP) - Code for downloading and working with data from the African Bird Atlas Project.
 - [palmerpenguins](https://github.com/allisonhorst/palmerpenguins/) - The palmerpenguins data contains size measurements for three penguin species observed on three islands in the Palmer Archipelago, Antarctica.
 - [auk](https://github.com/CornellLabofOrnithology/auk) - eBird Data Extraction and Processing in R.
+- [motus](https://github.com/MotusWTS/motus) - An R package for processing automated radio telemetry data from Motus, an international collaborative research network that uses coordinated automated radio telemetry to facilitate research and education on the ecology and conservation of migratory animals.
 
 ### Bioacoustics and Acoustic Data Analysis
 - [vak](https://github.com/vocalpy/vak) - A neural network framework for animal acoustic communication and bioacoustics.
@@ -2196,6 +2197,8 @@ parameter values.
 - [censusdis](https://github.com/censusdis/censusdis) - A Python package for discovering, loading, and analyzing U.S. Census demographic, economic, and geographic data and metadata with access to the full collection of data and maps the U.S. Census publishes via their APIs.
 - [Boosting Upward Mobility from Poverty](https://github.com/UI-Research/mobility-from-poverty) - A multi-year effort to understand upward mobility from poverty and to work with local leaders to promote policies that boost upward mobility from poverty.
 - [Social Income](https://github.com/socialincome-san/public) - Fighting global poverty with the help of everyday people and your coding skills. Public repository of the NGO and global initiative Social Income.
+- [UNICEF AI4D Relative Wealth Project](https://github.com/thinkingmachines/unicef-ai4d-poverty-mapping) - Aims to develop open datasets and machine learning models for poverty mapping estimation across nine countries in Southeast Asia.
+- [Social Income](https://github.com/socialincome-san/public) - Fighting global poverty with the help of everyday people and your coding skills.
 
 ### Sustainable Investment 
 - [Integrated Valuation of Ecosystem Services and Tradeoffs](https://github.com/natcap/invest) - A family of tools for quantifying the values of natural capital in clear, credible, and practical ways.
