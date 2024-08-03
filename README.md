@@ -2199,6 +2199,7 @@ parameter values.
 - [Social Income](https://github.com/socialincome-san/public) - Fighting global poverty with the help of everyday people and your coding skills. Public repository of the NGO and global initiative Social Income.
 - [UNICEF AI4D Relative Wealth Project](https://github.com/thinkingmachines/unicef-ai4d-poverty-mapping) - Aims to develop open datasets and machine learning models for poverty mapping estimation across nine countries in Southeast Asia.
 - [Social Income](https://github.com/socialincome-san/public) - Fighting global poverty with the help of everyday people and your coding skills.
+- [Justice40 Tool](https://github.com/usds/justice40-tool) - A tool to identify disadvantaged communities due to environmental, socioeconomic and health burdens.
 
 ### Sustainable Investment 
 - [Integrated Valuation of Ecosystem Services and Tradeoffs](https://github.com/natcap/invest) - A family of tools for quantifying the values of natural capital in clear, credible, and practical ways.
@@ -2242,7 +2243,6 @@ parameter values.
 - [Climate change in the contiguous United States](https://github.com/washingtonpost/data-2C-beyond-the-limit-usa/) - The Washington Post's analysis of NOAA climate change data for the contiguous United States.
 - [Regen Ledger](https://github.com/regen-network/regen-ledger) - Providing a structured database of claims regarding ecological state and change of state.
 - [Stripe Climate Carbon Removal Purchases](https://github.com/stripe/carbon-removal-source-materials) - Source materials supporting Stripe Climate carbon removal purchases.
-- [Justice40 Tool](https://github.com/usds/justice40-tool) - A tool to identify disadvantaged communities due to environmental, socioeconomic and health burdens.
 - [Net Zero Tracker](https://zerotracker.net/) - Create the definitive global resource for collating, assessing and presenting the scale and quality of net zero pledges across nationals, sub-nationals, companies and other entities.
 - [Credible Goals Database](https://embeddingproject.org/goals-database) - A public goals database containing leading sustainability goals and commitments set by large companies globally.
 - [Digital Public Goods](https://github.com/DPGAlliance/publicgoods-candidates) - Accelerate the attainment of the sustainable development goals in low- and middle-income countries by facilitating the discovery, development, use of, and investment in digital public goods.
