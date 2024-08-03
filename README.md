@@ -692,7 +692,7 @@ energy system designs and analysis of interactions between technologies.
 - [Radverkehrsatlas](https://github.com/FixMyBerlin/atlas-app) - Provides access to bicycle infrastructure data from OpenStreetMap for administrative staff.
 - [EV2Gym](https://github.com/StavrosOrf/EV2Gym) - A V2G Simulation Environment for large scale EV charging optimization.
 - [Tools for the iTEM databases](https://github.com/transportenergy/database) - Contains tools for two databases maintained by iTEM, the International Transport Energy Modeling consortium.
-
+- [Cartes](https://github.com/laem/cartes) - A French alternative to Google Maps that aims to focus on climate-friendly transports mode.
 
 ### Production and Industry
 - [btp-ai-sustainability-bootcamp](https://github.com/SAP-samples/btp-ai-sustainability-bootcamp) - Showcasing SAP partners how to add Intelligence and Sustainability into your industry cloud solutions on SAP Business Technology Platform.
@@ -1830,6 +1830,7 @@ parameter values.
 - [ACCESS-NRI Intake Catalog](https://github.com/ACCESS-NRI/access-nri-intake-catalog) - Aims to provide a way for Python users to discover and load data across a broad range of climate data products available on the Australian NCI supercomputer Gadi.
 - [TubeDB](https://github.com/environmentalinformatics-marburg/tubedb) - Efficient and easy to use database for climate station observations. Store, check, fill, aggregate, visualize and access your time series data on-demand.
 - [climate-visuals](https://github.com/ed-hawkins/climate-visuals) - These graphics show different aspects of how the climate is changing.
+- [ColOpenData](https://github.com/epiverse-trace/ColOpenData) - A package that acquires and wrangles Colombian socioeconomic, geospatial and climate data.
 - [amadeus](https://github.com/NIEHS/amadeus) - A mechanism for data, environments, and user setup for common environmental and climate health datasets in R.
 
 ### Climate Data Processing and Analysis
@@ -2194,6 +2195,7 @@ parameter values.
 - [wopr](https://github.com/wpgp/wopr) - An R package and Shiny application to provide API access to the WorldPop Open Population Repository.
 - [censusdis](https://github.com/censusdis/censusdis) - A Python package for discovering, loading, and analyzing U.S. Census demographic, economic, and geographic data and metadata with access to the full collection of data and maps the U.S. Census publishes via their APIs.
 - [UNICEF AI4D Relative Wealth Project](https://github.com/thinkingmachines/unicef-ai4d-poverty-mapping) - Aims to develop open datasets and machine learning (ML) models for poverty mapping estimation across nine countries in Southeast Asia (SEA).
+- [Social Income](https://github.com/socialincome-san/public) - Fighting global poverty with the help of everyday people and your coding skills. Public repository of the NGO and global initiative Social Income.
 
 ### Sustainable Investment 
 - [Integrated Valuation of Ecosystem Services and Tradeoffs](https://github.com/natcap/invest) - A family of tools for quantifying the values of natural capital in clear, credible, and practical ways.
@@ -2343,6 +2345,7 @@ parameter values.
 - [LandsatTS](https://github.com/logan-berner/LandsatTS) - An R package to facilitate retrieval, cleaning, cross-calibration, and phenological modeling of Landsat time-series data.
 - [rsat](https://github.com/ropensci/rsat) - Dealing with Multiplatform Satellite Images from Landsat, MODIS, and Sentinel.
 - [EnPT](https://git.gfz-potsdam.de/EnMAP/GFZ_Tools_EnMAP_BOX/EnPT) - An automated pre-processing pipeline for the new EnMAP hyperspectral satellite data.
+- [BlackMarblePy](https://github.com/worldbank/blackmarblepy) - A Python package that provides a simple way to use nighttime lights data from NASA's Black Marble project that provides a product suite of daily, monthly and yearly global nighttime lights. 
 
 ### Taxonomy and Ontology
 - [Digital Twins Definition Language ontology for Energy Grid](https://github.com/Azure/opendigitaltwins-energygrid) - A global standard for energy grid assets management, power system operations modeling and physical energy commodity market.
