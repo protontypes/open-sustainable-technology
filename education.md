@@ -81,7 +81,7 @@
 - [Using NASA Satellite Data for Real-Time Environmental Monitoring](https://github.com/JeremyDForsythe/icecream-tutorials) - Using NASA's ECOSTRESS Satellite Data for Real-Time Environmental Monitoring.
 - [Landsat ML Cookbook](https://github.com/ProjectPythia/landsat-ml-cookbook) - Covers the essential materials for working with Landsat data in the context of machine learning workflows.
 - [SERVIR Applied Deep Learning Book](https://github.com/SERVIR/SERVIR-Applied-Deep-Learning-Book) - Use satellite data and geospatial technology to address critical challenges in weather & climate resilience, agriculture and food security, ecosystem and carbon management, water security, disasters, as well as air quality and health
-
+- [HYR-SENSE](https://github.com/CU-ESIIL/HYR-SENSE) - Hyperspectral and Thermal Remote Sensing for Environmental Justice" program. Participants will gain hands-on experience with hyperspectral and thermal imaging remote sensing technology and its applications for environmental justice issues.
 
 ## Earth Systems 
 ### Atmosphere 
