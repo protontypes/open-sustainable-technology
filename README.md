@@ -1895,6 +1895,7 @@ parameter values.
 - [xeofs](https://github.com/xarray-contrib/xeofs) - A dedicated Python package for dimensionality reduction in the realm of climate science, offering methods like PCA, known as EOF analysis within the field, and related variants.
 - [clim-recal](https://github.com/alan-turing-institute/clim-recal) - A specialized resource designed to tackle systematic errors or biases in Regional Climate Models.
 - [ibicus](https://github.com/ecmwf-projects/ibicus) - Flexible and user-friendly toolkit for the bias correction of climate models and associated evaluation.
+- [agroclimatico](https://github.com/AgRoMeteorologiaINTA/agroclimatico) - A set of functions for calculating hydrological climate indices and statistics from tidy data, including a function for plotting geo-referenced results and mapping information.
 
 ### Climate Downscaling
 - [ICAR](https://github.com/NCAR/icar) - A simplified atmospheric model designed primarily for climate downscaling, atmospheric sensitivity tests, and hopefully educational uses.
