@@ -250,6 +250,7 @@
 - [biosteam](https://github.com/BioSTEAMDevelopmentGroup/biosteam) - The Biorefinery Simulation and Techno-Economic Analysis Modules.
 - [BETYdb](https://github.com/PecanProject/bety) - Web-interface to the Biofuel Ecophysiological Traits and Yields Database.
 - [Low Carbon Fuel Standard](https://github.com/bcgov/lcfs) - An online application for fuel suppliers to manage their compliance obligations under the Low Carbon Fuels Act.
+- [BiRD](https://github.com/NREL/BioReactorDesign) - A toolbox to simulate and analyze different designs of bioreactors in OpenFOAM.
 
 ## Energy Storage
 ### Battery
