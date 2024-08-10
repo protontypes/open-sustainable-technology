@@ -1262,6 +1262,7 @@ parameter values.
 - [Monitorfish](https://github.com/MTES-MCT/monitorfish) - Improve control and monitoring of fishing vessels activities.
 - [pacea](https://github.com/pbs-assess/pacea) - An R package of Pacific ecosystem information to help facilitate an ecosystem approach to fisheries management.
 - [DISPLACE_GUI](https://github.com/frabas/DISPLACE_GUI) - A Scientific Research Software for Spatial Fisheries and Natural Resource Management.
+- [WhaleMap](https://github.com/hansenjohnson/WhaleMap) - The goal of this software is to rapidly and effectively collect and share whale survey information within and between research, government, industry, and public sectors.
 
 ### Plants and Vegetation
 - [OpenPlantPathology](https://github.com/openplantpathology/OpenPlantPathology) - Open Plant Pathology is an initiative that supports and promotes the spread of all open, transparent and reproducible practices in the field of plant pathology.
