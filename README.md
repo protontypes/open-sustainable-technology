@@ -2109,6 +2109,8 @@ parameter values.
 - [ODM](https://github.com/Big-Life-Lab/PHES-ODM) - Aims to improve wastewater monitoring through interoperable data by providing robust support for reporting of biological, toxic or other health hazards.
 - [shinyssdtools](https://github.com/bcgov/shinyssdtools) - A Shiny application for fitting species sensitivity distribution, a method for getting water quality benchmarks to characterize effects of chemical contaminants for water quality or ecological risk assessment.
 - [wqbench](https://github.com/bcgov/wqbench) - Generate download and compile data from EPA ECOTOX database to generate aquatic life water quality benchmarks.
+- [Microplastic Data Portal](https://github.com/Moore-Institute-4-Plastic-Pollution-Res/Microplastic_Data_Portal) - An Open Source project to increase access to microplastics data.
+- [One4All](https://github.com/Moore-Institute-4-Plastic-Pollution-Res/One4All) - R package for data validation and visualization with a focus on microplastic data.
 
 ### Soil and Land
 - [SoilGrids250m](https://github.com/ISRICWorldSoil/SoilGrids250m) - Global Spatial predictions of soil properties and classes at 250 m resolution.
