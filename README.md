@@ -2203,6 +2203,7 @@ parameter values.
 - [UNICEF AI4D Relative Wealth Project](https://github.com/thinkingmachines/unicef-ai4d-poverty-mapping) - Aims to develop open datasets and machine learning models for poverty mapping estimation across nine countries in Southeast Asia.
 - [Social Income](https://github.com/socialincome-san/public) - Fighting global poverty with the help of everyday people and your coding skills.
 - [Justice40 Tool](https://github.com/usds/justice40-tool) - A tool to identify disadvantaged communities due to environmental, socioeconomic and health burdens.
+- [tidycensus](https://github.com/walkerke/tidycensus) - An R package that allows users to interface with the US Census Bureau's decennial Census and five-year American Community APIs and return tidyverse-ready data frames, optionally with simple feature geometry included.
 
 ### Sustainable Investment 
 - [Integrated Valuation of Ecosystem Services and Tradeoffs](https://github.com/natcap/invest) - A family of tools for quantifying the values of natural capital in clear, credible, and practical ways.
