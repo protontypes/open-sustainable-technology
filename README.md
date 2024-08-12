@@ -1063,6 +1063,7 @@ energy system designs and analysis of interactions between technologies.
 - [oneimpact](https://github.com/NINAnor/oneimpact) - Provides tools for the assessment of cumulative impacts of multiple infrastructure and land use modifications in ecological studies.
 - [gdm](https://github.com/fitzLab-AL/gdm) - Provides functions to fit, plot, summarize, and apply Generalized Dissimilarity Models.
 - [BioMonTools](https://github.com/leppott/BioMonTools) - Tools for biomonitoring and bioassessment; metric calculation for benthic macroinvertebrates, fish, and periphyton.
+- [fqar](https://github.com/equitable-equations/fqar) - Floristic Quality Assessment (FQA) is a standardized method for rating the ecological value of natural areas based on the plant species found within them.
 
 ### Biodiversity Citizen Science
 - [Naturtag](https://github.com/pyinat/naturtag) - A tool for nature photographers that adds useful metadata to describe the organisms in your photos.
