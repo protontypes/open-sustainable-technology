@@ -1153,6 +1153,7 @@ parameter values.
 - [D-EcoImpact](https://github.com/Deltares/D-EcoImpact) - A Python based kernel to perform spatialenvironmental impact assessment.
 - [EcoSISTEM.jl](https://github.com/EcoJulia/EcoSISTEM.jl) - A Julia package that provides functionality for simulating species undergoing dynamic biological processes such as birth, death, competition and dispersal, as well as environmental changes in climate and habitat.
 - [ECOTOXr](https://github.com/pepijn-devries/ECOTOXr) - Provides access in R to ECOTOX, a comprehensive knowledgebase providing single chemical environmental toxicity data on aquatic and terrestrial species.
+- [moveHMM](https://github.com/TheoMichelot/moveHMM) - R package which implements hidden Markov models and associated tools (state decoding, model selection, model checking, etc.) tailored to animal movement modelling.
 
 
 ### Forest Modeling and Analysis
