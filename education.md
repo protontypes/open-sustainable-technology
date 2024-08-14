@@ -14,6 +14,7 @@
 - [Predicting the Wind: Data Science in Wind Resource Assessment](https://github.com/flrs/predicting_the_wind) - Contains material for a hands-on tutorial and additional content about data science in wind resource assessment.
 - [PVSC48-Python-Tutorial](https://pvsc-python-tutorials.github.io/PVSC48-Python-Tutorial) - Computing tutorial with focus on PV computing packages, Python, data wrangling with Pandas, and data viz.
 - [Electrify](https://github.com/toddmedema/electrify) - A web / mobile Tycoon-style game teaching about electricity production and consumption.
+- [Fundamentals of Solar Cells and Photovoltaic Systems Engineering](https://martavp.github.io/pv-textbook/) - Learn modeling solar radiation, calculating IV curves for varying irradiance and temperature, modeling electricity generation from PV installations, optimizing PV module orientation and inclination, and conducting time series analysis of solar generation.
 
 ## Energy Systems 
 
