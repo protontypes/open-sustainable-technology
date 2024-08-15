@@ -1,6 +1,6 @@
 site_name: 'Open Sustainable Technology'
 site_url: 'https://opensustain.tech/'
-site_description: 'Open technology projects sustaining stable climate, energy supply, biodiversity and vital natural resources'
+site_description: 'A directory and analysis of the open source ecosystem in the areas of climate change, sustainable energy, biodiversity and natural resources.'
 repo_name: 'protontypes/open-sustainable-technology'
 repo_url: 'https://github.com/protontypes/open-sustainable-technology'
 base_url: 'https://opensustain.tech/'
@@ -8,11 +8,13 @@ edit_uri: ''
 nav:
   - Projects: index.md
   - Spreadsheet: spreadsheet.md
-  - Report: open_source_in_environmental_sustainability.md 
   - Education: education.md
   - Contribute: contributing.md
   - Blog:
+      2024:
+        - "Sustain Open Source, Sustain the Planet: A new conversation" : blog/sustain-open-source.md
       2023: 
+        - "Connect Developers with Impactful Sustainability Projects" : blog/launch_climate_triage.md
         - "The Open Source Sustainability Ecosystem"  : blog/the_open_source_sustainability_ecosystem.md
       2022:
         - "You can preserve the Earth's livability with open source" : blog/you_can_preserve_the_earth_s_livability_with_open_source.md  
@@ -22,6 +24,10 @@ nav:
         - "Open Principles for a Sustainable Technology Transition": blog/open_principles_for_a_sustainable_technology_transition.md
       2020:
         - "Gathering Open Sustainable Technology": blog/gathering_open_sustainable_technology.md
+  - Report: "https://report.opensustain.tech/"
+  - Podcast: "https://ossforclimate.sustainoss.org/"
+  - ClimateTriage: "https://climatetriage.com/"
+
 
 theme:
   name: 'material'
@@ -46,6 +52,7 @@ extra_css:
 
 markdown_extensions:
   - meta
+  - attr_list
   - md_in_html
   - toc:
       permalink: true
