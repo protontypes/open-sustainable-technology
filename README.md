@@ -944,6 +944,7 @@ energy system designs and analysis of interactions between technologies.
 - [CARDAMOM](https://github.com/CARDAMOM-framework/CARDAMOM) - A Bayesian inference approach for using terrestrial ecosystem observations to optimize terrestrial carbon cycle model states and processes parameters.
 - [BlueCarbon](https://github.com/EcologyR/BlueCarbon) - Facilitate the estimation of organic carbon stocks and fluxes from soil/sediment cores from blue carbon ecosystems.
 - [ameriflux](https://github.com/chuhousen/amerifluxr) - A network of PI-managed sites measuring ecosystem CO2, water, and energy fluxes in North, Central and South America.
+- [MOVES4](https://github.com/USEPA/EPA_MOVES_Model) - A state-of-the-science emission modeling system that estimates emissions for mobile sources at the national, county, and project level for criteria air pollutants, greenhouse gases, and air toxics, available under EPA's Open Source Software policy.
 
 
 ## Industrial Ecology
