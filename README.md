@@ -2034,7 +2034,7 @@ parameter values.
 - [qualR](https://github.com/ropensci/qualR) - Download of air pollutants and meteorological information from CETESB QUALAR System for São Paulo, and MonitorAr Program, for Rio de Janeiro.
 - [AirQo](https://github.com/airqo-platform/AirQo-api) - Develop hardware and software tools to help deliver Clean Air for All African Cities.
 - [AirMonitor](https://github.com/MazamaScience/AirMonitor) - Utilities for working with hourly air quality monitoring data with a focus on small particulates PM2.5.
-
+- [BEETHOVEN](https://github.com/NIEHS/beethoven) - Building an extensible, reproducible, test-driven, harmonised, open-source, versioned, ensemble model for air quality.
 
 ### Water Supply and Quality 
 - [Stormwater-Management-Model](https://github.com/USEPA/Stormwater-Management-Model) - Used for single event or long-term (continuous) simulation of runoff quantity and quality from primarily urban areas.
