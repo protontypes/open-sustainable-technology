@@ -20,7 +20,7 @@ jobs:
         python-version: '3.x'
 
     - name: Install dependencies
-      run: pip install pandas
+      run: pip install pandas requests
 
     - name: Download the Python script
       run: wget https://raw.githubusercontent.com/protontypes/AwesomeCure/main/ecosystems_to_grist.py
