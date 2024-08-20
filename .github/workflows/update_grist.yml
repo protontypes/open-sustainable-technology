@@ -1,0 +1,31 @@
+name: Update Grist Spreedsheets with metadata from ecosyste.ms
+# Controls when the workflow will run
+#on:
+#  schedule:
+#    # Run at 00:00 UTC every Monday
+#    - cron: '0 0 * * 1'
+
+on:
+  push:
+    branches:
+      - ecosystems-to-spreadsheet-integration
+
+jobs:
+  weekly-task:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.x'
+
+    - name: Install dependencies
+      run: pip install pandas
+
+    - name: Download the Python script
+      run: wget https://raw.githubusercontent.com/protontypes/AwesomeCure/main/ecosystems_to_grist.py
+
+    - name: Run the script
+      env: 
+        GRIST_API_TOKEN: ${{ secrets.GRIST }}
+      run: python ecosystems_to_grist.py -k "$GRIST_API_TOKEN"
