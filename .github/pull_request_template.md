@@ -4,5 +4,5 @@
 
 _All issues labeled as **Good First Issue** of the project listed on [OpenSustain.tech](https://opensustain.tech/) will be visible on [ClimateTriage.com](https://climatetriage.com/). This is a great way to welcome new community members to your project._
 
-All projects listed will be posted on our [Mastodon channel](https://mastodon.social/@opensustaintech) 
+All new projects listed will be posted on our [Mastodon channel](https://mastodon.social/@opensustaintech). 
 
