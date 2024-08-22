@@ -14,6 +14,7 @@
 - [Predicting the Wind: Data Science in Wind Resource Assessment](https://github.com/flrs/predicting_the_wind) - Contains material for a hands-on tutorial and additional content about data science in wind resource assessment.
 - [PVSC48-Python-Tutorial](https://pvsc-python-tutorials.github.io/PVSC48-Python-Tutorial) - Computing tutorial with focus on PV computing packages, Python, data wrangling with Pandas, and data viz.
 - [Electrify](https://github.com/toddmedema/electrify) - A web / mobile Tycoon-style game teaching about electricity production and consumption.
+- [Fundamentals of Solar Cells and Photovoltaic Systems Engineering](https://martavp.github.io/pv-textbook/) - Learn modeling solar radiation, calculating IV curves for varying irradiance and temperature, modeling electricity generation from PV installations, optimizing PV module orientation and inclination, and conducting time series analysis of solar generation.
 
 ## Energy Systems 
 
@@ -61,6 +62,7 @@
 - [HPC4WC](https://github.com/ofuhrer/HPC4WC) - High Performance Computing for Weather and Climate Course.
 - [ARSET Fundamentals of Machine Learning for Earth Science](https://github.com/NASAARSET/ARSET_ML_Fundamentals) - This training will provide attendees an overview of machine learning in regards to Earth Science, and how to apply these algorithms and techniques to remote sensing data in a meaningful way.
 - [Applied Environmental Statistics](https://github.com/mdietze/EE509) - Applied Environmental Statistics course of the Boston University.
+- [ClimateMatch Academy](https://github.com/neuromatch/climate-course-content) - A wide-reaching, inclusive and approachable program aimed to introduce computational methods for climate science.
 - [climate-emulator-tutorial](https://github.com/blutjens/climate-emulator-tutorial) - A tutorial for getting started with machine learning for climate modeling.
 - [Utilizing Open Science Techniques for Exploring Greenhouse Gas Data](https://us-ghg-center.github.io/ams-2024-workshop/) - An Interactive Workshop on the U.S. Greenhouse Gas Center and VEDA Tools for use in Earth Science Research
 - [PyPRECIS](https://github.com/MetOffice/PyPRECIS) - A learning tool to faciliate processing of regional climate model output.
@@ -81,7 +83,7 @@
 - [Using NASA Satellite Data for Real-Time Environmental Monitoring](https://github.com/JeremyDForsythe/icecream-tutorials) - Using NASA's ECOSTRESS Satellite Data for Real-Time Environmental Monitoring.
 - [Landsat ML Cookbook](https://github.com/ProjectPythia/landsat-ml-cookbook) - Covers the essential materials for working with Landsat data in the context of machine learning workflows.
 - [SERVIR Applied Deep Learning Book](https://github.com/SERVIR/SERVIR-Applied-Deep-Learning-Book) - Use satellite data and geospatial technology to address critical challenges in weather & climate resilience, agriculture and food security, ecosystem and carbon management, water security, disasters, as well as air quality and health
-
+- [HYR-SENSE](https://github.com/CU-ESIIL/HYR-SENSE) - Hyperspectral and Thermal Remote Sensing for Environmental Justice" program. Participants will gain hands-on experience with hyperspectral and thermal imaging remote sensing technology and its applications for environmental justice issues.
 
 ## Earth Systems 
 ### Atmosphere 
