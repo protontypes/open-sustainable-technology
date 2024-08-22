@@ -2225,6 +2225,7 @@ parameter values.
 - [UNICEF AI4D Relative Wealth Project](https://github.com/thinkingmachines/unicef-ai4d-poverty-mapping) - Aims to develop open datasets and machine learning models for poverty mapping estimation across nine countries in Southeast Asia.
 - [Social Income](https://github.com/socialincome-san/public) - Fighting global poverty with the help of everyday people and your coding skills.
 - [Justice40 Tool](https://github.com/usds/justice40-tool) - A tool to identify disadvantaged communities due to environmental, socioeconomic and health burdens.
+- [Accessible Poverty Estimates](https://github.com/aiddata/accessible-poverty-estimates) - We utilize random forests regressions and features derived from a range of geospatial datasets (nighttime lights, landcover, OpenStreetMap features, and more) to produce estimates of development indicators such as household wealth/poverty.
 - [Poverty and Inequality Platform Methodology](https://github.com/worldbank/PIP-Methodology) - Describes how global and regional poverty rates are calculated.
 - [tidycensus](https://github.com/walkerke/tidycensus) - An R package that allows users to interface with the US Census Bureau's decennial Census and five-year American Community APIs and return tidyverse-ready data frames, optionally with simple feature geometry included.
 
