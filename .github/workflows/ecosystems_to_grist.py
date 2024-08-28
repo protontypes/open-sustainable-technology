@@ -68,7 +68,7 @@ df_ecosystems = pd.read_json(StringIO(resp.content.decode()))
 ECOSYSTEM_URL_IMAGES = "https://ost.ecosyste.ms/api/v1/projects/images"
 FILE_TO_SAVE_AS_IMAGES = "ecosystems_images.json" # the name you want to save file as
 
-resp_images = requests.get(ECOSYSTEM_URL_IMAGES) # making requests to server
+resp_images = requests.get(ECOSYSTEM_URL_IMAGES,timeout=30) # making requests to server
 
 with open(FILE_TO_SAVE_AS, "wb") as f: # opening a file handler to create new file 
     f.write(resp_images.content) # writing content to file
