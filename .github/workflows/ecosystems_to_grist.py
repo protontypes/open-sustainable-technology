@@ -76,7 +76,7 @@ df_ecosystems_images = pd.read_json(StringIO(resp_images.content.decode()))
 
 
 # manually created labels can be added to the ecosyste.ms data
-CSV_org_labels = "organizations_labeled.csv"
+CSV_org_labels = ".github/workflows/organizations_labeled.csv"
 df_org_labels = pd.read_csv(CSV_org_labels,header=0)
 
 # define variables that are needed to extract nested data in the JSON
@@ -269,7 +269,7 @@ df_grist_organization['organization_website'] = df_grist_organization['organizat
 
 # Rewrite the csv file with the new organizations
 header = ["organization_user_name","organization_namespace_url","organization_website", "location_country", "form_of_organization"]
-df_grist_organization.to_csv('organizations_labeled.csv', columns = header, index=False)
+df_grist_organization.to_csv(CSV_org_labels, columns = header, index=False)
 
 def calculate_size_in_bytes(data):
     """
