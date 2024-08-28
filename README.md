@@ -2230,6 +2230,7 @@ parameter values.
 - [Accessible Poverty Estimates](https://github.com/aiddata/accessible-poverty-estimates) - We utilize random forests regressions and features derived from a range of geospatial datasets (nighttime lights, landcover, OpenStreetMap features, and more) to produce estimates of development indicators such as household wealth/poverty.
 - [Poverty and Inequality Platform Methodology](https://github.com/worldbank/PIP-Methodology) - Describes how global and regional poverty rates are calculated.
 - [tidycensus](https://github.com/walkerke/tidycensus) - An R package that allows users to interface with the US Census Bureau's decennial Census and five-year American Community APIs and return tidyverse-ready data frames, optionally with simple feature geometry included.
+- [pipr](https://github.com/worldbank/pipr) -  Allows R users to compute poverty and inequality indicators for more than 160 countries and regions from the World Bank's database of household surveys.
 
 ### Sustainable Investment 
 - [Integrated Valuation of Ecosystem Services and Tradeoffs](https://github.com/natcap/invest) - A family of tools for quantifying the values of natural capital in clear, credible, and practical ways.
