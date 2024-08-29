@@ -1,14 +1,14 @@
 name: Update Grist Spreedsheets with metadata from ecosyste.ms
 # Controls when the workflow will run
-#on:
-#  schedule:
-#    # Run at 00:00 UTC every Monday
-#    - cron: '0 0 * * 1'
-
 on:
-  push:
-    branches:
-      - ecosystems-to-spreadsheet-integration
+  schedule:
+    # Run at 00:00 UTC every Monday
+    - cron: '0 0 * * 1'
+
+#on:
+#  push:
+#    branches:
+#      - ecosystems-to-spreadsheet-integration
 
 jobs:
   weekly-task:
