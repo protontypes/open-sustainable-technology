@@ -316,6 +316,9 @@
 - [PowerCalc](https://github.com/bramstroker/homeassistant-powercalc) - Custom component for Home Assistant to estimate the power consumption (as virtual meters) of lights, fans, smart speakers and other devices, which don't have a built-in power meter.
 - [homeassistant-alphaESS](https://github.com/CharlesGillanders/homeassistant-alphaESS) - Monitor your energy generation, storage, and usage data using the official Open API from Alpha ESS.
 - [eemeter](https://github.com/openeemeter/eemeter) - An open source Python package for implementing and developing standard methods for calculating normalized metered energy consumption and avoided energy use.
+- [Home Assistant Octopus Energy](https://github.com/BottlecapDave/HomeAssistant-OctopusEnergy) - Bring your Octopus Energy details into Home Assistant to help you towards a more energy efficient (and or cheaper) home.
+- [Home Assistant Glow](https://github.com/klaasnicolaas/home-assistant-glow) - Makes a (not so) smart meter without a P1 port easily readable, reading the pulse LED that is always present in most cases and it works with ESPHome!
+- [DSMR Toolkit](https://github.com/nielsbasjes/dsmr-tools) - A set of Java based libraries and tools that should allow processing Dutch Smart Meter Requirements messages in a way that is as flexible and reusable as possible.
 
 ### Energy System Modeling Frameworks
 - [Open Energy System Models](https://en.wikipedia.org/wiki/Open_energy_system_models) - Used to explore future energy systems and are often applied to questions involving energy and climate policy.
@@ -614,6 +617,7 @@ energy system designs and analysis of interactions between technologies.
 - [ComStock](https://github.com/NREL/ComStock) - National scale modeling of the U.S. commercial building stock supported by U.S. DOE, LADWP, and others and maintained by NREL.
 - [HeatPro](https://github.com/CEA-Liten/HeatPro) - Finds its roots in the need of using representative heating load curve for the simulation and optimization of various District Heating Network (DHN) production plant.
 - [Home Energy Analysis Tool](https://github.com/codeforboston/home-energy-analysis-tool) - Provide an app that helps residential energy coaches or advocates, and some homeowners, estimate a home's heating requirements (heat load) and assess whether proposed heat pumps have sufficient heating capacity for the home.
+- [Versatile Thermostat](https://github.com/jmcollin78/versatile_thermostat) - A full featured Thermostat for Home Assistant: presets, window, motion, presence and overpowering management.
 
 ### Mobility and Transportation
 - [stplanr](https://github.com/ropensci/stplanr) - A package for sustainable transport planning with R.
@@ -696,6 +700,8 @@ energy system designs and analysis of interactions between technologies.
 - [EV2Gym](https://github.com/StavrosOrf/EV2Gym) - A V2G Simulation Environment for large scale EV charging optimization.
 - [Tools for the iTEM databases](https://github.com/transportenergy/database) - Contains tools for two databases maintained by iTEM, the International Transport Energy Modeling consortium.
 - [Cartes](https://github.com/laem/cartes) - A French alternative to Google Maps that aims to focus on climate-friendly transports mode.
+- [accessibility](https://github.com/ipeaGIT/accessibility) - Given a pre-computed travel cost matrix and a land use dataset (containing the location of jobs, healthcare and population, for example), the package allows one to calculate accessibility levels and accessibility poverty and inequality.
+- [FAF5-Analysis](https://github.com/mcsc-impact-climate/FAF5-Analysis) - Produce and interactively visualize publicly available geospatial data to support trucking fleets in navigating the transition to alternative energy carriers.
 
 ### Production and Industry
 - [btp-ai-sustainability-bootcamp](https://github.com/SAP-samples/btp-ai-sustainability-bootcamp) - Showcasing SAP partners how to add Intelligence and Sustainability into your industry cloud solutions on SAP Business Technology Platform.
@@ -762,6 +768,7 @@ energy system designs and analysis of interactions between technologies.
 - [carbonifer](https://github.com/carboniferio/carbonifer) - Transforms your cloud infrastructure into a carbon-aware cloud by estimating the footprint of Terraform files and real-time measurement of the current carbon emissions of your infrastructure deployed in the cloud.
 - [WordPress Sustainability Handbook](https://github.com/WordPress/sustainability) - We seek to embed sustainable practices into WordPress to ensure the longevity of the project.
 - [impactco2](https://github.com/incubateur-ademe/impactco2) - Comparing the CO₂e consumption of various equivalent products.
+- [Power Monitor](https://github.com/SAP/power-monitoring-tool-for-macos) - An application that measures and reports the power consumption of a Mac, giving you real-time insight into your device's energy consumption and carbon footprint based on your location.
 
 ### Agriculture and Nutrition
 - [Farmbot](https://github.com/FarmBot/Farmbot-Web-App) - Humanity's open-source CNC farming machine.
@@ -944,6 +951,7 @@ energy system designs and analysis of interactions between technologies.
 - [CARDAMOM](https://github.com/CARDAMOM-framework/CARDAMOM) - A Bayesian inference approach for using terrestrial ecosystem observations to optimize terrestrial carbon cycle model states and processes parameters.
 - [BlueCarbon](https://github.com/EcologyR/BlueCarbon) - Facilitate the estimation of organic carbon stocks and fluxes from soil/sediment cores from blue carbon ecosystems.
 - [ameriflux](https://github.com/chuhousen/amerifluxr) - A network of PI-managed sites measuring ecosystem CO2, water, and energy fluxes in North, Central and South America.
+- [Kausal Paths](https://github.com/kausaltech/kausal-paths) - A tool for predicting the future emissions of cities based on historical emission data and various climate actions.
 
 
 ## Industrial Ecology
@@ -1189,6 +1197,7 @@ parameter values.
 - [DiversiTree](https://github.com/DiversiTree/TreeDiversity) - Help urban foresters, planners, greeners, and ecologists in quantifying tree ecosystem diversity in cities.
 - [EU forest tree point data](https://gitlab.com/openlandmap/eu-forest-tree-point-data) - A compilation of analysis-ready point data for the purpose of vegetation and Potential Natural Vegetation mapping for the EU. 
 - [California Forest Observatory](https://github.com/forestobservatory/cfo-api) - Python wrappers for accessing Forest Observatory data via the Salo API.
+- [WeeForest](https://github.com/MNeverOff/wee-forest) - Aims to make the data about trees in Great Britain more accessible and understandable, whilst still maintaining good industry practices.
 
 ### Forest Remote Sensing 
 - [treeseg](https://github.com/apburt/treeseg/) - Developed to near-automatically extract tree-level point clouds from high-density larger-area lidar point clouds acquired in forests.
@@ -1584,6 +1593,7 @@ parameter values.
 - [OPERA Applications](https://github.com/OPERA-Cal-Val/OPERA_Applications) - Contain several Jupyter notebooks that provide introductions and showcase applications of the OPERA products including flood mapping, water reservoir monitoring and monitoring wildfire evolution.
 - [CopernicusMarine](https://github.com/pepijn-devries/CopernicusMarine) - Subset and download marine data from the EU Copernicus Marine Service Information to import data on the physical and biogeochemical state of the oceans without the need for external software.
 - [hf_hydrodata](https://github.com/hydroframe/hf_hydrodata) - This Python package is a product of the HydroFrame project and is designed to provide easy access to national hydrologic simulations generated using the National ParFlow model as well as a variety of other gridded model input datasets and point observations.
+- [pybomwater](https://github.com/csiro-hydroinformatics/pybomwater) -  Provides access to Web Data Services ( SOS2 ) station reference data and historical time series water data for stations across Australia, collected by the Bureau of Meteorology.
 
 ## Atmosphere
 ### Atmospheric Composition and Dynamics
@@ -2219,7 +2229,10 @@ parameter values.
 - [UNICEF AI4D Relative Wealth Project](https://github.com/thinkingmachines/unicef-ai4d-poverty-mapping) - Aims to develop open datasets and machine learning models for poverty mapping estimation across nine countries in Southeast Asia.
 - [Social Income](https://github.com/socialincome-san/public) - Fighting global poverty with the help of everyday people and your coding skills.
 - [Justice40 Tool](https://github.com/usds/justice40-tool) - A tool to identify disadvantaged communities due to environmental, socioeconomic and health burdens.
+- [Accessible Poverty Estimates](https://github.com/aiddata/accessible-poverty-estimates) - We utilize random forests regressions and features derived from a range of geospatial datasets (nighttime lights, landcover, OpenStreetMap features, and more) to produce estimates of development indicators such as household wealth/poverty.
+- [Poverty and Inequality Platform Methodology](https://github.com/worldbank/PIP-Methodology) - Describes how global and regional poverty rates are calculated.
 - [tidycensus](https://github.com/walkerke/tidycensus) - An R package that allows users to interface with the US Census Bureau's decennial Census and five-year American Community APIs and return tidyverse-ready data frames, optionally with simple feature geometry included.
+- [pipr](https://github.com/worldbank/pipr) -  Allows R users to compute poverty and inequality indicators for more than 160 countries and regions from the World Bank's database of household surveys.
 
 ### Sustainable Investment 
 - [Integrated Valuation of Ecosystem Services and Tradeoffs](https://github.com/natcap/invest) - A family of tools for quantifying the values of natural capital in clear, credible, and practical ways.
