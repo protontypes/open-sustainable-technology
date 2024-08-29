@@ -68,7 +68,8 @@ df_ecosystems = pd.read_json(StringIO(resp.content.decode()))
 ECOSYSTEM_URL_IMAGES = "https://ost.ecosyste.ms/api/v1/projects/images"
 FILE_TO_SAVE_AS_IMAGES = "ecosystems_images.json" # the name you want to save file as
 
-resp_images = requests.get(ECOSYSTEM_URL_IMAGES) # making requests to server
+
+resp_images = requests.get(ECOSYSTEM_URL_IMAGES,timeout=30) # making requests to server
 
 with open(FILE_TO_SAVE_AS, "wb") as f: # opening a file handler to create new file 
     f.write(resp_images.content) # writing content to file
@@ -76,7 +77,8 @@ df_ecosystems_images = pd.read_json(StringIO(resp_images.content.decode()))
 
 
 # manually created labels can be added to the ecosyste.ms data
-CSV_org_labels = "organizations_labeled.csv"
+
+CSV_org_labels = ".github/workflows/organizations_labeled.csv"
 df_org_labels = pd.read_csv(CSV_org_labels,header=0)
 
 # define variables that are needed to extract nested data in the JSON
@@ -232,7 +234,8 @@ df_grist_projects['platform'] = platform
 df_grist_projects['code_of_conduct'] = code_of_conduct
 df_grist_projects['contributing_guide'] = contributing
 
-df_ecosystems_images = df_ecosystems_images.drop(df_ecosystems_images.columns.difference(['url','readme_image_urls']), 1)
+
+df_ecosystems_images = df_ecosystems_images.drop(df_ecosystems_images.columns.difference(['url','readme_image_urls']), axis=1)
 df_ecosystems_images.rename(columns={"url": "git_url"},inplace=True)
 df_grist_projects = pd.merge(df_grist_projects, df_ecosystems_images, on='git_url', how='left')
 df_grist_projects['readme_image_urls'] = df_grist_projects['readme_image_urls'].astype(str)
@@ -269,7 +272,8 @@ df_grist_organization['organization_website'] = df_grist_organization['organizat
 
 # Rewrite the csv file with the new organizations
 header = ["organization_user_name","organization_namespace_url","organization_website", "location_country", "form_of_organization"]
-df_grist_organization.to_csv('organizations_labeled.csv', columns = header, index=False)
+df_grist_organization.to_csv(CSV_org_labels, columns = header, index=False)
+
 
 def calculate_size_in_bytes(data):
     """
