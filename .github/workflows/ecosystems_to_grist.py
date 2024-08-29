@@ -232,7 +232,7 @@ df_grist_projects['platform'] = platform
 df_grist_projects['code_of_conduct'] = code_of_conduct
 df_grist_projects['contributing_guide'] = contributing
 
-df_ecosystems_images = df_ecosystems_images.drop(df_ecosystems_images.columns.difference(['url','readme_image_urls']), 1)
+df_ecosystems_images = df_ecosystems_images.drop(df_ecosystems_images.columns.difference(['url','readme_image_urls']), axis=1)
 df_ecosystems_images.rename(columns={"url": "git_url"},inplace=True)
 df_grist_projects = pd.merge(df_grist_projects, df_ecosystems_images, on='git_url', how='left')
 df_grist_projects['readme_image_urls'] = df_grist_projects['readme_image_urls'].astype(str)
