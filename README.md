@@ -1991,7 +1991,7 @@ parameter values.
 
 ### Integrated Assessment and Climate Policy 
 - [PRIMAP2](https://github.com/pik-primap/primap2) - The next generation climate policy analysis suite.
-- [Climate Policy Radar Open Data](https://github.com/Ly0n/open-data) - The full text of thousands of climate laws and policies from around the world.
+- [Climate Policy Radar Methodology](https://github.com/climatepolicyradar/methodology) - Climate Policy Radar and Climate Change Laws of the World methodology documents.
 - [MESSAGEix](https://github.com/iiasa/message_ix) - A versatile, dynamic systems-optimization modeling framework developed by the IIASA Energy, Climate, and Environment (ECE) Program since the 1980s.
 - [DICE.jl](https://github.com/Libbum/DICE.jl) - The Dynamic Integrated model of Climate and the Economy model family are a popular and capable type of simple Integrated Assessment Model of climate change economics pioneered by William Nordhaus.
 - [LPJmL](https://github.com/PIK-LPJmL/LPJmL) - Designed to simulate the global terrestrial carbon cycle and the response of carbon and vegetation patterns under climate change.
