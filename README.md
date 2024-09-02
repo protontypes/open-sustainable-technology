@@ -398,6 +398,7 @@ energy system designs and analysis of interactions between technologies.
 - [TIMES_model](https://github.com/etsap-TIMES/TIMES_model) - A bottom-up optimization model used for the exploration of possible energy futures based on contrasted scenarios.
 - [MUSE_OS](https://github.com/EnergySystemsModellingLab/MUSE_OS) - A open source agent-based modelling environment that can be used to simulate change in an energy system over time.
 - [Energy Transition Engine](https://github.com/quintel/etengine) - Calculation engine for the Energy Transition Model.
+- [OCHRE](https://github.com/NREL/OCHRE) - Building energy modeling (BEM) tool designed to model flexible loads in residential buildings.
 
 ### Energy Markets
 - [Grid Singularity Energy Exchange](https://github.com/gridsingularity/gsy-e) - An interface to download and deploy interconnected, grid-aware energy marketplaces.
