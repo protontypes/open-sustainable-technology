@@ -1283,6 +1283,7 @@ parameter values.
 - [DISPLACE_GUI](https://github.com/frabas/DISPLACE_GUI) - A Scientific Research Software for Spatial Fisheries and Natural Resource Management.
 - [WhaleMap](https://github.com/hansenjohnson/WhaleMap) - The goal of this software is to rapidly and effectively collect and share whale survey information within and between research, government, industry, and public sectors.
 - [rCAX](https://github.com/nwfsc-cb/rCAX) - A collaborative process to efficiently share and provide access to standardized derived information, such as fish population-scale high-level indicators (HLIs) and supporting metrics.
+- [echoSMs](https://github.com/ices-tools-dev/echoSMs) - Making acoustic scattering models available to fisheries and plankton scientists.
 
 ### Plants and Vegetation
 - [OpenPlantPathology](https://github.com/openplantpathology/OpenPlantPathology) - Open Plant Pathology is an initiative that supports and promotes the spread of all open, transparent and reproducible practices in the field of plant pathology.
