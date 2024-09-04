@@ -2214,6 +2214,7 @@ parameter values.
 - [soiltexture](https://github.com/julienmoeys/soiltexture) - A toolbox for plotting, classifying and transforming soil texture data like clay, silt and sand contents.
 - [Noah-MP](https://github.com/NCAR/noahmp) - A widely-used state-of-the-art land surface model used in many research and operational weather and climate models.
 - [SMODERP2D](https://github.com/storm-fsv-cvut/smoderp2d) - Distributed event-based model for surface and subsurface runoff and erosion.
+- [rOPTRAM](https://github.com/ropensci/rOPTRAM) - Implements The OPtical TRapezoid Model (OPTRAM) to derive soil moisture based on the linear relation between a vegetation index, i.e. NDVI, and Shortwave Infra-red. 
 
 ## Sustainable Development
 ### Sustainable Development Goals 
