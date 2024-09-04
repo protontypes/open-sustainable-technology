@@ -1489,6 +1489,7 @@ parameter values.
 - [Watershed Workflow](https://github.com/environmental-modeling-workflows/watershed-workflow) - Python workflows for data-rich, hyper-resolution simulations of hydrologic models on watersheds.
 - [RoGeR](https://github.com/Hydrology-IFH/roger) - Runoff Generation Research, is a process-based hydrological model that can be applied from plot to catchment scale.
 - [ATS](https://github.com/amanzi/ats) - The Advanced Terrestrial Simulator is a code for solving ecosystem-based, integrated, distributed hydrology.
+- [xHydro](https://github.com/hydrologie/xhydro) - Effortlessly extract geospatial and watershed data from APIs, calibrate and execute hydrological models, perform optimal interpolation and frequency analysis on hydrological indicators, compute custom hydrological metrics, and analyze climate change impacts on hydrological data.
 
 ### Ocean Models
 - [MOM6](https://github.com/NOAA-GFDL/MOM6) - A numerical representation of the ocean fluid with applications from the process scale to the planetary circulation scale.
