@@ -1082,6 +1082,7 @@ energy system designs and analysis of interactions between technologies.
 - [iNaturalistReactNative](https://github.com/inaturalist/iNaturalistReactNative) - Official iNaturalist client written in React Native that will eventually replace our existing iOS and Android apps.
 - [GeoNature-citizen](https://github.com/PnX-SI/GeoNature-citizen) - A free and Open Source web solution for citizen science projects for biodiversity data collection.
 - [DigiVol](https://github.com/AtlasOfLivingAustralia/volunteer-portal) - Harness the power of online volunteers to digitise biodiversity data that is locked up in biodiversity collections, field notebooks and survey sheets.
+- [Naturblick iOS](https://github.com/MfN-Berlin/naturblick-ios) - Identify plants and animals and learn more about nature in your city.
 
 ### Biodiversity Data Access and Management
 - [pygbif](https://github.com/gbif/pygbif) - Making the data of the Global Biodiversity Information Facility API accessible via Python.
