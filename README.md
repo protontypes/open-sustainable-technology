@@ -506,6 +506,7 @@ energy system designs and analysis of interactions between technologies.
 - [CityLearn](https://github.com/intelligent-environments-lab/CityLearn) - Official reinforcement learning environment for demand response and load shaping.
 - [disaggregator](https://github.com/DemandRegioTeam/disaggregator) - A set of tools for processing of spatial and temporal disaggregations of demands of electricity, heat and natural gas.
 - [demandlib](https://github.com/oemof/demandlib) - With the demandlib you can create power and heat profiles for various sectors by scaling them to your desired demand.
+- [dsgrid](https://github.com/dsgrid/dsgrid) - Enables the compilation of high-resolution load datasets suitable for forward-looking power system and other analyses.
 
 ### Regional Energy System Models
 - [PyPSA-Earth](https://github.com/pypsa-meets-earth/pypsa-earth) - An Open Optimisation Model of the Earth Energy System.
