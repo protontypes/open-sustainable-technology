@@ -506,6 +506,7 @@ energy system designs and analysis of interactions between technologies.
 - [CityLearn](https://github.com/intelligent-environments-lab/CityLearn) - Official reinforcement learning environment for demand response and load shaping.
 - [disaggregator](https://github.com/DemandRegioTeam/disaggregator) - A set of tools for processing of spatial and temporal disaggregations of demands of electricity, heat and natural gas.
 - [demandlib](https://github.com/oemof/demandlib) - With the demandlib you can create power and heat profiles for various sectors by scaling them to your desired demand.
+- [dsgrid](https://github.com/dsgrid/dsgrid) - Enables the compilation of high-resolution load datasets suitable for forward-looking power system and other analyses.
 
 ### Regional Energy System Models
 - [PyPSA-Earth](https://github.com/pypsa-meets-earth/pypsa-earth) - An Open Optimisation Model of the Earth Energy System.
@@ -519,6 +520,7 @@ energy system designs and analysis of interactions between technologies.
 - [nempy](https://github.com/UNSW-CEEM/nempy) - Aims to enhance the Australian electricity industries modeling and analytical capabilities.
 - [openENTRANCE](https://github.com/openENTRANCE/openentrance) - The Horizon 2020 openENTRANCE project aims at developing, using and disseminating an open, transparent and integrated modeling platform for assessing low-carbon transition pathways in Europe.
 - [PyPSA-DE](https://github.com/PyPSA/pypsa-ariadne) - High resolution, sector-coupled model of the German Energy System.
+- [OSeMBE_ECEMF](https://github.com/KTH-dESA/OSeMBE_ECEMF) - Contains the energy future scenarios modelled in OSeMBE as part of the ECEMF project, which brings together energy and climate researchers and policy makers to address the central challenge of our time - how to achieve climate neutrality.
 
 
 ### Renewable Energy Integration
@@ -1083,6 +1085,7 @@ energy system designs and analysis of interactions between technologies.
 - [GeoNature-citizen](https://github.com/PnX-SI/GeoNature-citizen) - A free and Open Source web solution for citizen science projects for biodiversity data collection.
 - [DigiVol](https://github.com/AtlasOfLivingAustralia/volunteer-portal) - Harness the power of online volunteers to digitise biodiversity data that is locked up in biodiversity collections, field notebooks and survey sheets.
 - [Naturblick iOS](https://github.com/MfN-Berlin/naturblick-ios) - Identify plants and animals and learn more about nature in your city.
+- [Gottesanbeterin Gesucht](https://github.com/opendata-apps/mantis) - An interactive web application to track Mantis Religiosa sightings in Brandenburg.
 
 ### Biodiversity Data Access and Management
 - [pygbif](https://github.com/gbif/pygbif) - Making the data of the Global Biodiversity Information Facility API accessible via Python.
@@ -1285,6 +1288,7 @@ parameter values.
 - [WhaleMap](https://github.com/hansenjohnson/WhaleMap) - The goal of this software is to rapidly and effectively collect and share whale survey information within and between research, government, industry, and public sectors.
 - [rCAX](https://github.com/nwfsc-cb/rCAX) - A collaborative process to efficiently share and provide access to standardized derived information, such as fish population-scale high-level indicators (HLIs) and supporting metrics.
 - [echoSMs](https://github.com/ices-tools-dev/echoSMs) - Making acoustic scattering models available to fisheries and plankton scientists.
+- [icesSAG](https://github.com/ices-tools-prod/icesSAG) - Provides R functions that access the web services of the ICES Stock Assessment Graphs database to advance and share scientific understanding of marine ecosystems and the services they provide and to use this knowledge to generate state-of-the-art advice for meeting conservation, management, and sustainability goals. 
 
 ### Plants and Vegetation
 - [OpenPlantPathology](https://github.com/openplantpathology/OpenPlantPathology) - Open Plant Pathology is an initiative that supports and promotes the spread of all open, transparent and reproducible practices in the field of plant pathology.
@@ -1413,7 +1417,6 @@ parameter values.
 - [polartoolkit](https://github.com/mdtanker/polartoolkit) - A Python package with the goal of making Polar (i.e. Antarctic, Arctic, Greenland) research more efficient, reproducible, and accessible.
 - [ISSM](https://github.com/ISSMteam/ISSM) - A large-scale thermo-mechanical 2D/3D parallelized multi-purpose finite-element software dedicated to ice sheet and sea-level modeling.
 - [MPAS-Albany](https://github.com/sandialabs/Albany) - Houses the land-ice component of the U.S. Department of Energy's Energy Exascale Earth System Model known as MPAS-Albany Land Ice.
-- [sar_snowmelt_timing](https://github.com/egagli/sar_snowmelt_timing) - Contains notebooks and tools to identify snowmelt timing using time series analysis of backscatter of Sentinel-1 C-band SAR.
 
 ### Snow and Permafrost
 - [Planet Snowcover](https://github.com/acannistra/planet-snowcover) - A project that pairs airborne lidar and Planet Labs satellite imagery with cutting-edge computer vision techniques to identify snow-covered area at unprecedented spatial and temporal resolutions.
@@ -1425,6 +1428,8 @@ parameter values.
 - [SNOWPACK](https://code.wsl.ch/snow-models/snowpack) - A multi-purpose snow and land-surface model, which focuses on a detailed description of the mass and energy exchange between the snow, the atmosphere and optionally with the vegetation cover and the soil.
 - [MuSA](https://github.com/ealonsogzl/MuSA) - A flexible data assimilation toolbox for experimental and operational snowpack reanalysis development.
 - [snotelr](https://github.com/bluegreen-labs/snotelr) -  R toolbox to facilitate easy SNOTEL data exploration and downloads through a convenient shiny based GUI.
+- [sar_snowmelt_timing](https://github.com/egagli/sar_snowmelt_timing) - Contains notebooks and tools to identify snowmelt timing using time series analysis of backscatter of Sentinel-1 C-band SAR.
+- [From Snow to Flow](https://github.com/DOI-USGS/snow-to-flow) - Describe important dynamics that determine how snow turns into flow, and the charts show the connection between snowpack (measured as snow water equivalent) and streamflow (measured as discharge).
 
 ## Hydrosphere
 ### Freshwater and Hydrology
@@ -1490,6 +1495,9 @@ parameter values.
 - [Watershed Workflow](https://github.com/environmental-modeling-workflows/watershed-workflow) - Python workflows for data-rich, hyper-resolution simulations of hydrologic models on watersheds.
 - [RoGeR](https://github.com/Hydrology-IFH/roger) - Runoff Generation Research, is a process-based hydrological model that can be applied from plot to catchment scale.
 - [ATS](https://github.com/amanzi/ats) - The Advanced Terrestrial Simulator is a code for solving ecosystem-based, integrated, distributed hydrology.
+- [xHydro](https://github.com/hydrologie/xhydro) - Effortlessly extract geospatial and watershed data from APIs, calibrate and execute hydrological models, perform optimal interpolation and frequency analysis on hydrological indicators, compute custom hydrological metrics, and analyze climate change impacts on hydrological data.
+- [flow-tiles](https://github.com/DOI-USGS/flow-tiles) - A tile map showing a month of streamflow conditions across the U.S.
+- [Delaware River Basin Story](https://github.com/DOI-USGS/delaware-basin-story) - Visualisation and story of the Delaware River Basin, highlighting the essential water needs of its people and industries, while showcasing the vital role of the rivers and estuary in supporting unique ecosystems, species and habitats where the river meets the ocean.
 
 ### Ocean Models
 - [MOM6](https://github.com/NOAA-GFDL/MOM6) - A numerical representation of the ocean fluid with applications from the process scale to the planetary circulation scale.
@@ -1521,6 +1529,7 @@ parameter values.
 - [parcels](https://github.com/OceanParcels/parcels) - Can be used to track passive and active particulates such as water, plankton, plastic and fish.
 - [wavespectra](https://github.com/wavespectra/wavespectra) - An open source project for working with ocean wave spectral data.
 - [LESbrary.jl](https://github.com/CliMA/LESbrary.jl) - Generating a library of ocean turbulence large eddy simulation data to train ocean and climate models.
+- [dnora](https://github.com/MET-OM/dnora) - A software for dynamical downscaling of wave products i.e., NORA3 wave hindcast and WW3 wave forecast from Norwegian Meteorological Institute and ERA5 from ECMWF.
 
 ### Ocean Carbon and Temperature
 - [CO2SYS](https://github.com/jamesorr/CO2SYS-MATLAB) - A MATLAB (or Octave) project to compute variables of ocean CO2 systems.  
@@ -1927,6 +1936,7 @@ parameter values.
 - [agroclimatico](https://github.com/AgRoMeteorologiaINTA/agroclimatico) - A set of functions for calculating hydrological climate indices and statistics from tidy data, including a function for plotting geo-referenced results and mapping information.
 - [CRAI](https://github.com/FREVA-CLINT/climatereconstructionAI) - Software to train/evaluate models to reconstruct missing values in climate data (e.g., HadCRUT4) based on a U-Net with partial convolutions.
 - [chopin](https://github.com/NIEHS/chopin) - Computation for Climate and Health research On Parallelized infrastructure is a Scalable GIS methods for environmental and climate data analysis.
+- [uxarray](https://github.com/UXARRAY/uxarray) - Xarray extension for unstructured climate and global weather data analysis and visualization.
 
 ### Climate Downscaling
 - [ICAR](https://github.com/NCAR/icar) - A simplified atmospheric model designed primarily for climate downscaling, atmospheric sensitivity tests, and hopefully educational uses.
@@ -2215,6 +2225,7 @@ parameter values.
 - [soiltexture](https://github.com/julienmoeys/soiltexture) - A toolbox for plotting, classifying and transforming soil texture data like clay, silt and sand contents.
 - [Noah-MP](https://github.com/NCAR/noahmp) - A widely-used state-of-the-art land surface model used in many research and operational weather and climate models.
 - [SMODERP2D](https://github.com/storm-fsv-cvut/smoderp2d) - Distributed event-based model for surface and subsurface runoff and erosion.
+- [rOPTRAM](https://github.com/ropensci/rOPTRAM) - Implements The OPtical TRapezoid Model (OPTRAM) to derive soil moisture based on the linear relation between a vegetation index, i.e. NDVI, and Shortwave Infra-red. 
 
 ## Sustainable Development
 ### Sustainable Development Goals 
