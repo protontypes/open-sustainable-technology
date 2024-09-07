@@ -2119,7 +2119,7 @@ parameter values.
 - [Liquid Prep](https://github.com/Call-for-Code/Liquid-Prep) - Offers an end-to-end solution for farmers looking to optimize their water usage; especially during times of drought.
 - [flopy](https://github.com/modflowpy/flopy) - A Python package to create, run, and post-process MODFLOW-based models.
 - [PCRaster](https://github.com/pcraster/pcraster) - A collection of tools and software libraries tailored to the construction of spatio-temporal environmental models.
-- [dataretrieval](https://github.com/DOI-USGS/dataretrieval-python) - A Python alternative to USGS-R's dataRetrieval package for obtaining USGS or EPA water quality data, streamflow data, and metadata directly from web services.
+- [dataretrieval-python](https://github.com/DOI-USGS/dataretrieval-python) - A Python alternative to USGS-R's dataRetrieval package for obtaining USGS or EPA water quality data, streamflow data, and metadata directly from web services.
 - [CWatM](https://github.com/iiasa/CWatM) - Assess water supply, water demand and environmental needs at global and regional level.
 - [WWTP](https://gitlab.com/hotmaps/potential/WWTP) - EU28 Waste Water Treatment Plants.
 - [AWH-Geo](https://github.com/AWH-GlobalPotential-X/AWH-Geo) - Tool and calculations for Global Potential of Harvesting Drinking Water from Air using Solar Energy.
@@ -2152,6 +2152,7 @@ parameter values.
 - [wqbench](https://github.com/bcgov/wqbench) - Generate download and compile data from EPA ECOTOX database to generate aquatic life water quality benchmarks.
 - [Microplastic Data Portal](https://github.com/Moore-Institute-4-Plastic-Pollution-Res/Microplastic_Data_Portal) - An Open Source project to increase access to microplastics data.
 - [One4All](https://github.com/Moore-Institute-4-Plastic-Pollution-Res/One4All) - R package for data validation and visualization with a focus on microplastic data.
+- [gw-conditions](https://github.com/DOI-USGS/gw-conditions) - A visualization showing groundwater conditions as little peaks above or below their normal values.
 
 ### Soil and Land
 - [SoilGrids250m](https://github.com/ISRICWorldSoil/SoilGrids250m) - Global Spatial predictions of soil properties and classes at 250 m resolution.
