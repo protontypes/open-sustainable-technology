@@ -1499,6 +1499,7 @@ parameter values.
 - [xHydro](https://github.com/hydrologie/xhydro) - Effortlessly extract geospatial and watershed data from APIs, calibrate and execute hydrological models, perform optimal interpolation and frequency analysis on hydrological indicators, compute custom hydrological metrics, and analyze climate change impacts on hydrological data.
 - [flow-tiles](https://github.com/DOI-USGS/flow-tiles) - A tile map showing a month of streamflow conditions across the U.S.
 - [Delaware River Basin Story](https://github.com/DOI-USGS/delaware-basin-story) - Visualisation and story of the Delaware River Basin, highlighting the essential water needs of its people and industries, while showcasing the vital role of the rivers and estuary in supporting unique ecosystems, species and habitats where the river meets the ocean.
+- [Hy2DL](https://github.com/KIT-HYD/Hy2DL) - A python library to create hydrological models for rainfall-runoff prediction, which make use of deep learning methods.
 
 ### Ocean Models
 - [MOM6](https://github.com/NOAA-GFDL/MOM6) - A numerical representation of the ocean fluid with applications from the process scale to the planetary circulation scale.
