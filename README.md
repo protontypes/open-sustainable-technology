@@ -1940,6 +1940,7 @@ parameter values.
 - [CRAI](https://github.com/FREVA-CLINT/climatereconstructionAI) - Software to train/evaluate models to reconstruct missing values in climate data (e.g., HadCRUT4) based on a U-Net with partial convolutions.
 - [chopin](https://github.com/NIEHS/chopin) - Computation for Climate and Health research On Parallelized infrastructure is a Scalable GIS methods for environmental and climate data analysis.
 - [uxarray](https://github.com/UXARRAY/uxarray) - Xarray extension for unstructured climate and global weather data analysis and visualization.
+- [CHAP](https://github.com/dhis2/chap-core) - Designed to be used by researchers and public health professionals to forecast and assess the impact of climate on health outcomes.
 
 ### Climate Downscaling
 - [ICAR](https://github.com/NCAR/icar) - A simplified atmospheric model designed primarily for climate downscaling, atmospheric sensitivity tests, and hopefully educational uses.
