@@ -1159,7 +1159,7 @@ parameter values.
 - [datazoom.amazonia](https://github.com/datazoompuc/datazoom.amazonia) - Facilitates access to official Brazilian Amazon data, including agriculture, deforestation, production.
 - [Seedlot Selection Tool](https://github.com/consbio/seedlot-selection-tool) - A GIS mapping program designed to help forest managers match seedlots with planting sites based on climatic information.
 - [riskmapjnr](https://github.com/ghislainv/riskmapjnr) - Obtain maps of the spatial risk of deforestation and forest degradation following the methodology developed in the context of the Jurisdictional and Nested REDD+ (JNR) and using only a forest cover change map as input.
-- [whisp](https://github.com/forestdatapartnership/whisp) - The Forest Data Partnership promotes a Convergence of Evidence approach for Forest and Commodities Monitoring
+- [whisp](https://github.com/forestdatapartnership/whisp) - The Forest Data Partnership promotes a Convergence of Evidence approach for Forest and Commodities Monitoring.
 
 ### Ecological and Environmental Modeling
 - [PEcAn](https://github.com/PecanProject/pecan) - The Predictive Ecosystem Analyzer is an integrated ecological bioinformatics toolbox.
