@@ -1617,7 +1617,7 @@ parameter values.
 - [hf_hydrodata](https://github.com/hydroframe/hf_hydrodata) - This Python package is a product of the HydroFrame project and is designed to provide easy access to national hydrologic simulations generated using the National ParFlow model as well as a variety of other gridded model input datasets and point observations.
 - [pybomwater](https://github.com/csiro-hydroinformatics/pybomwater) -  Provides access to Web Data Services ( SOS2 ) station reference data and historical time series water data for stations across Australia, collected by the Bureau of Meteorology.
 - [Ocean Data and Information System](https://github.com/iodepo/odis-arch) - The Ocean InfoHub facilitates access to global oceans information, data and knowledge products for management and sustainable development.
-
+- [GroMoPo](https://github.com/Gromopo/GroMoPo) - Explore or share groundwater model data, knowledge, and insights through this unique portal of regional and global numerical groundwater models.
 
 ## Atmosphere
 ### Atmospheric Composition and Dynamics
