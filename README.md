@@ -1526,6 +1526,7 @@ parameter values.
 - [TrackEddy](https://github.com/josuemtzmo/trackeddy) - Used to investigate trends of eddy kinetic energy in the ocean using satellite sea surface height anomaly.
 - [xroms](https://github.com/xoceanmodel/xroms) - Work with ROMS ocean model output with xarray and calculate many derived variables with correct grid metrics in one line, including horizontal velocity, kinetic energy and eddy kinetic energy.
 - [SalishSeaNowcast](https://github.com/SalishSeaCast/SalishSeaNowcast) - A collection of Python modules associated with running the SalishSeaCast ocean models system of daily nowcasts and forecasts.
+- [SSN2](https://github.com/USEPA/SSN2) - An R package for spatial statistical modeling and prediction on stream networks, including models based on in-stream distance.
 
 ### Waves and Currents 
 - [leaflet-velocity](https://github.com/onaci/leaflet-velocity) - Create a canvas visualization layer for direction and intensity of arbitrary velocities (e.g. wind, ocean current).
