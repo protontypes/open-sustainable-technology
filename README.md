@@ -521,6 +521,7 @@ energy system designs and analysis of interactions between technologies.
 - [openENTRANCE](https://github.com/openENTRANCE/openentrance) - The Horizon 2020 openENTRANCE project aims at developing, using and disseminating an open, transparent and integrated modeling platform for assessing low-carbon transition pathways in Europe.
 - [PyPSA-DE](https://github.com/PyPSA/pypsa-ariadne) - High resolution, sector-coupled model of the German Energy System.
 - [OSeMBE_ECEMF](https://github.com/KTH-dESA/OSeMBE_ECEMF) - Contains the energy future scenarios modelled in OSeMBE as part of the ECEMF project, which brings together energy and climate researchers and policy makers to address the central challenge of our time - how to achieve climate neutrality.
+- [PyPSA-PL](https://github.com/instrat-pl/pypsa-pl) - An implementation of the energy modelling framework PyPSA shipped with a use-ready dataset tailored for the Polish energy system.
 
 
 ### Renewable Energy Integration
@@ -1500,6 +1501,7 @@ parameter values.
 - [flow-tiles](https://github.com/DOI-USGS/flow-tiles) - A tile map showing a month of streamflow conditions across the U.S.
 - [Delaware River Basin Story](https://github.com/DOI-USGS/delaware-basin-story) - Visualisation and story of the Delaware River Basin, highlighting the essential water needs of its people and industries, while showcasing the vital role of the rivers and estuary in supporting unique ecosystems, species and habitats where the river meets the ocean.
 - [Hy2DL](https://github.com/KIT-HYD/Hy2DL) - A python library to create hydrological models for rainfall-runoff prediction, which make use of deep learning methods.
+- [GEB](https://github.com/GEB-model/GEB) - Coupling of an agent-based model which simulates millions individual people or households, a hydrological model, a vegetation model and a hydrodynamic model.
 
 ### Ocean Models
 - [MOM6](https://github.com/NOAA-GFDL/MOM6) - A numerical representation of the ocean fluid with applications from the process scale to the planetary circulation scale.
@@ -1648,6 +1650,7 @@ parameter values.
 - [xinvert](https://github.com/miniufo/xinvert) - A Python package to invert or solve many classical problems in atmospheric sciences and physical oceanography.
 - [ACE](https://github.com/ai2cm/ace) - A 200M-parameter, autoregressive machine learning emulator of an existing comprehensive 100-km resolution global atmospheric model.
 - [Pace](https://github.com/NOAA-GFDL/pace) - An implementation of the FV3GFS / SHiELD atmospheric model developed by NOAA/GFDL using the NDSL middleware in Python, itself based on GT4Py and DaCe.
+- [Aurora](https://github.com/microsoft/aurora) - An atmospheric foundation machine learning model initially trained on vast amounts of data to predict atmospheric variables like temperature, which can then be adapted to specialized atmospheric forecasting tasks with relatively little additional data.
 
 ### Atmospheric Dispersion and Transport
 - [MPTRAC](https://github.com/slcs-jsc/mptrac) - A Lagrangian particle dispersion model for the analysis of atmospheric transport processes in the free troposphere and stratosphere.
@@ -1941,6 +1944,7 @@ parameter values.
 - [CRAI](https://github.com/FREVA-CLINT/climatereconstructionAI) - Software to train/evaluate models to reconstruct missing values in climate data (e.g., HadCRUT4) based on a U-Net with partial convolutions.
 - [chopin](https://github.com/NIEHS/chopin) - Computation for Climate and Health research On Parallelized infrastructure is a Scalable GIS methods for environmental and climate data analysis.
 - [uxarray](https://github.com/UXARRAY/uxarray) - Xarray extension for unstructured climate and global weather data analysis and visualization.
+- [CHAP](https://github.com/dhis2/chap-core) - Designed to be used by researchers and public health professionals to forecast and assess the impact of climate on health outcomes.
 
 ### Climate Downscaling
 - [ICAR](https://github.com/NCAR/icar) - A simplified atmospheric model designed primarily for climate downscaling, atmospheric sensitivity tests, and hopefully educational uses.
