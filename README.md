@@ -1655,6 +1655,7 @@ parameter values.
 - [ACE](https://github.com/ai2cm/ace) - A 200M-parameter, autoregressive machine learning emulator of an existing comprehensive 100-km resolution global atmospheric model.
 - [Pace](https://github.com/NOAA-GFDL/pace) - An implementation of the FV3GFS / SHiELD atmospheric model developed by NOAA/GFDL using the NDSL middleware in Python, itself based on GT4Py and DaCe.
 - [Aurora](https://github.com/microsoft/aurora) - An atmospheric foundation machine learning model initially trained on vast amounts of data to predict atmospheric variables like temperature, which can then be adapted to specialized atmospheric forecasting tasks with relatively little additional data.
+- [AtmoRep](https://github.com/clessig/atmorep) - A stochastic model of atmosphere dynamics using large scale representation learning.
 
 ### Atmospheric Dispersion and Transport
 - [MPTRAC](https://github.com/slcs-jsc/mptrac) - A Lagrangian particle dispersion model for the analysis of atmospheric transport processes in the free troposphere and stratosphere.
