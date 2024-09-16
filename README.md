@@ -1209,6 +1209,7 @@ parameter values.
 - [EU forest tree point data](https://gitlab.com/openlandmap/eu-forest-tree-point-data) - A compilation of analysis-ready point data for the purpose of vegetation and Potential Natural Vegetation mapping for the EU. 
 - [California Forest Observatory](https://github.com/forestobservatory/cfo-api) - Python wrappers for accessing Forest Observatory data via the Salo API.
 - [WeeForest](https://github.com/MNeverOff/wee-forest) - Aims to make the data about trees in Great Britain more accessible and understandable, whilst still maintaining good industry practices.
+- [forestdata](https://github.com/Cidree/forestdata) - An R package designed to provide users with easy access to various forestry and land use datasets.
 
 ### Forest Remote Sensing 
 - [treeseg](https://github.com/apburt/treeseg/) - Developed to near-automatically extract tree-level point clouds from high-density larger-area lidar point clouds acquired in forests.
@@ -1423,6 +1424,7 @@ parameter values.
 - [ISSM](https://github.com/ISSMteam/ISSM) - A large-scale thermo-mechanical 2D/3D parallelized multi-purpose finite-element software dedicated to ice sheet and sea-level modeling.
 - [MPAS-Albany](https://github.com/sandialabs/Albany) - Houses the land-ice component of the U.S. Department of Energy's Energy Exascale Earth System Model known as MPAS-Albany Land Ice.
 - [Glacier flow model](https://github.com/munterfi/glacier-flow-model) - Modeling glaciers on a digital elevation model based on mass balance and a modified D8 flow algorithm applied to ice.
+- [icepack](https://github.com/icepack/icepack) - A library for modeling the flow of ice sheets and glaciers using the finite element method.
 
 ### Snow and Permafrost
 - [Planet Snowcover](https://github.com/acannistra/planet-snowcover) - A project that pairs airborne lidar and Planet Labs satellite imagery with cutting-edge computer vision techniques to identify snow-covered area at unprecedented spatial and temporal resolutions.
@@ -1558,6 +1560,7 @@ parameter values.
 - [heatwaveR](https://github.com/robwschlegel/heatwaveR) - Contains the original functions from the RmarineHeatWaves package that calculate and display marine heatwaves according to the definition of Hobday et al. (2016).
 - [GSW-Python](https://github.com/TEOS-10/GSW-Python) - This Python implementation of the Thermodynamic Equation of Seawater 2010.
 - [heatwave3](https://github.com/robwschlegel/heatwave3) - The Goal of this package is to make life easier when working with the Hobday et al. marine heatwave definition on large datasets.
+- [Calkulate](https://github.com/mvdh7/calkulate) - Calkulate is a Python package for finding total alkalinity from titration data using PyCO2SYS.
 
 ### Coastal and Reefs
 - [py-wave-runup](https://github.com/chrisleaman/py-wave-runup) - A Python module which makes it easy for coastal engineers and scientists to test and use various empirical wave runup models which have been published in literature.
@@ -1656,6 +1659,7 @@ parameter values.
 - [ACE](https://github.com/ai2cm/ace) - A 200M-parameter, autoregressive machine learning emulator of an existing comprehensive 100-km resolution global atmospheric model.
 - [Pace](https://github.com/NOAA-GFDL/pace) - An implementation of the FV3GFS / SHiELD atmospheric model developed by NOAA/GFDL using the NDSL middleware in Python, itself based on GT4Py and DaCe.
 - [Aurora](https://github.com/microsoft/aurora) - An atmospheric foundation machine learning model initially trained on vast amounts of data to predict atmospheric variables like temperature, which can then be adapted to specialized atmospheric forecasting tasks with relatively little additional data.
+- [AtmoRep](https://github.com/clessig/atmorep) - A stochastic model of atmosphere dynamics using large scale representation learning.
 
 ### Atmospheric Dispersion and Transport
 - [MPTRAC](https://github.com/slcs-jsc/mptrac) - A Lagrangian particle dispersion model for the analysis of atmospheric transport processes in the free troposphere and stratosphere.
