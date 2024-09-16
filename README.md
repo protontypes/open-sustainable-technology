@@ -1559,6 +1559,7 @@ parameter values.
 - [heatwaveR](https://github.com/robwschlegel/heatwaveR) - Contains the original functions from the RmarineHeatWaves package that calculate and display marine heatwaves according to the definition of Hobday et al. (2016).
 - [GSW-Python](https://github.com/TEOS-10/GSW-Python) - This Python implementation of the Thermodynamic Equation of Seawater 2010.
 - [heatwave3](https://github.com/robwschlegel/heatwave3) - The Goal of this package is to make life easier when working with the Hobday et al. marine heatwave definition on large datasets.
+- [Calkulate](https://github.com/mvdh7/calkulate) - Calkulate is a Python package for finding total alkalinity from titration data using PyCO2SYS.
 
 ### Coastal and Reefs
 - [py-wave-runup](https://github.com/chrisleaman/py-wave-runup) - A Python module which makes it easy for coastal engineers and scientists to test and use various empirical wave runup models which have been published in literature.
