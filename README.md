@@ -498,6 +498,7 @@ energy system designs and analysis of interactions between technologies.
 - [PowerModelsACDC.jl](https://github.com/Electa-Git/PowerModelsACDC.jl) - A a Julia/JuMP/PowerModels package with models for DC lines, meshed DC networks, and AC DC converters.
 - [pyehub](https://gitlab.com/energyincities/python-ehub) - A Python-based, modular and nestable implementation of the Energy Hub model (balancing demand and supply, system capacity sizing and network flows using Mixed-Integer Linear Programming).
 - [Electra](https://github.com/Alkia/electra) - Sovereign blockchain solution that enables local micro-grid to operate smoothly between trustless actors enabling a real circular economy based on the exchange of electricity units.
+- [Vessim](https://github.com/dos-group/vessim) - A co-simulation testbed for energy-aware and carbon-aware applications and systems, based on Mosaik.
 
 
 ### Load and Demand Forecasting
