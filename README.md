@@ -1751,6 +1751,7 @@ parameter values.
 - [gridwxcomp](https://github.com/WSWUP/gridwxcomp) - A package for comparing weather station data to gridded weather data that are hosted on Google Earth Engine.
 - [Skyrim](https://github.com/secondlaw-ai/skyrim) - Allows you to run any large weather model with a consumer grade GPU.
 - [Neural-LAM](https://github.com/mllam/neural-lam) - A repository of graph-based neural weather prediction models for Limited Area Modeling.
+- [OPENSENSE software sandbox](https://github.com/OpenSenseAction/OPENSENSE_sandbox) - Collection of runable examples with software packages for processing opportunistic rainfall sensors.
 
 ### Radiative Transfer
 - [lowtran](https://github.com/space-physics/lowtran) - Atmospheric absorption extinction, scatter and irradiance model in Python and Matlab.
