@@ -2236,7 +2236,7 @@ parameter values.
 - [Noah-MP](https://github.com/NCAR/noahmp) - A widely-used state-of-the-art land surface model used in many research and operational weather and climate models.
 - [SMODERP2D](https://github.com/storm-fsv-cvut/smoderp2d) - Distributed event-based model for surface and subsurface runoff and erosion.
 - [rOPTRAM](https://github.com/ropensci/rOPTRAM) - Implements The OPtical TRapezoid Model (OPTRAM) to derive soil moisture based on the linear relation between a vegetation index, i.e. NDVI, and Shortwave Infra-red.
-- [AquaBEHER](https://github.com/RobelTakele/AquaBEHER) - Estimation of Rainy Season Calandar and Soil Water Balance for Agriculture.
+- [AquaBEHER](https://github.com/RobelTakele/AquaBEHER) - Estimation and Prediction of Wet Season Calendar and Soil Water Balance for Agriculture.
 
 ## Sustainable Development
 ### Sustainable Development Goals 
