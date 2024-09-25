@@ -2260,6 +2260,7 @@ parameter values.
 - [Europe Sustainable Development Reports](https://eu-dashboards.sdgindex.org/) - Track the progress of the European Union and European Countries towards the Sustainable Development Goals.
 - [text2sdg](https://github.com/dwulff/text2sdg) - Multi-system analysis package that identifies SDGs in text, opening up the opportunity to monitor any type of text-based data.
 - [SDG Detector](https://github.com/Yingjie4Science/SDGdetector) - Identify and visualize 17 Sustainable Development Goals and associated 169 Targets in text.
+- [Polish SDG reporting platform](https://github.com/statisticspoland/sdg-indicators-pl) - Polish indicators for the Sustainable Development Goals of the 2030 Agenda.
 
 ### Population and Poverty 
 - [wopr](https://github.com/wpgp/wopr) - An R package and Shiny application to provide API access to the WorldPop Open Population Repository.
