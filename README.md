@@ -1375,7 +1375,7 @@ parameter values.
 - [Cell2Fire](https://github.com/cell2fire/Cell2Fire) - A cell-based forest and wildland landscape fire spread simulator.
 - [FireAlert](https://github.com/Plant-for-the-Planet-org/FireAlert) - Alerts you when heat anomalies are detected by NASA's FIRMS in your forest.
 - [Planscape](https://github.com/OurPlanscape/Planscape) - Help regional planners prioritize landscape treatments for mitigating fire risk, maximizing ecological benefits and helping California′s landscapes adapt to climate change.
-
+- [PyroRL](https://github.com/sisl/PyroRL) - Simulates evacuating populated areas through paths from a grid world containing wildfires.
 
 ## Cryosphere
 ### Sea Ice
