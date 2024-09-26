@@ -1755,6 +1755,7 @@ parameter values.
 - [Skyrim](https://github.com/secondlaw-ai/skyrim) - Allows you to run any large weather model with a consumer grade GPU.
 - [Neural-LAM](https://github.com/mllam/neural-lam) - A repository of graph-based neural weather prediction models for Limited Area Modeling.
 - [OPENSENSE software sandbox](https://github.com/OpenSenseAction/OPENSENSE_sandbox) - Collection of runable examples with software packages for processing opportunistic rainfall sensors.
+- [Prithvi WxC](https://github.com/NASA-IMPACT/Prithvi-WxC) - Foundation model for weather and climate, that employs an encoder-decoder-based architecture, incorporating concepts from various recent transformer models to effectively capture both regional and global dependencies in the input data.
 
 ### Radiative Transfer
 - [lowtran](https://github.com/space-physics/lowtran) - Atmospheric absorption extinction, scatter and irradiance model in Python and Matlab.
