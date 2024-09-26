@@ -1510,6 +1510,7 @@ parameter values.
 - [Delaware River Basin Story](https://github.com/DOI-USGS/delaware-basin-story) - Visualisation and story of the Delaware River Basin, highlighting the essential water needs of its people and industries, while showcasing the vital role of the rivers and estuary in supporting unique ecosystems, species and habitats where the river meets the ocean.
 - [Hy2DL](https://github.com/KIT-HYD/Hy2DL) - A python library to create hydrological models for rainfall-runoff prediction, which make use of deep learning methods.
 - [GEB](https://github.com/GEB-model/GEB) - Coupling of an agent-based model which simulates millions individual people or households, a hydrological model, a vegetation model and a hydrodynamic model.
+- [WATex](https://github.com/earthai-tech/watex) - A Python-based library primarily designed for Groundwater Exploration.
 
 ### Ocean Models
 - [MOM6](https://github.com/NOAA-GFDL/MOM6) - A numerical representation of the ocean fluid with applications from the process scale to the planetary circulation scale.
