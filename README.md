@@ -1297,6 +1297,7 @@ parameter values.
 - [rCAX](https://github.com/nwfsc-cb/rCAX) - A collaborative process to efficiently share and provide access to standardized derived information, such as fish population-scale high-level indicators (HLIs) and supporting metrics.
 - [echoSMs](https://github.com/ices-tools-dev/echoSMs) - Making acoustic scattering models available to fisheries and plankton scientists.
 - [icesSAG](https://github.com/ices-tools-prod/icesSAG) - Provides R functions that access the web services of the ICES Stock Assessment Graphs database to advance and share scientific understanding of marine ecosystems and the services they provide and to use this knowledge to generate state-of-the-art advice for meeting conservation, management, and sustainability goals. 
+- [frasyr](https://github.com/ichimomo/frasyr) - The Japanese Fisheries Research Agency provides the method for calculating sustainable yield with R.
 
 ### Plants and Vegetation
 - [OpenPlantPathology](https://github.com/openplantpathology/OpenPlantPathology) - Open Plant Pathology is an initiative that supports and promotes the spread of all open, transparent and reproducible practices in the field of plant pathology.
