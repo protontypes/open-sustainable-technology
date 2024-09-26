@@ -1114,6 +1114,7 @@ energy system designs and analysis of interactions between technologies.
 - [BioCLIP](https://github.com/Imageomics/bioclip) - A foundation model for the tree of life, leveraging the unique properties of biology captured by TreeOfLife-10M, namely the abundance and variety of images of plants, animals, and fungi, together with the availability of rich structured biological knowledge.
 - [OpenDataBio](https://gitlab.com/opendatabio/opendatabio) - A system for storing and retrieving biological data - floristics, ecology and monitoring.
 - [traits](https://github.com/ropensci/traits) - R package for accessing species trait data from multiple databases.
+- [GFBio Data Submission and Brokerage System](https://github.com/gfbio/gfbio-data-submission) - Provides the central entry point for the submission services provided by GFBio e.V. for the long-term data archival and publication of biodiversity, ecology and environmental science data.
 
 ### Biodiversity Data Cleaning and Standardization
 - [BIRDS](https://github.com/GreenswayAB/BIRDS) - This set of tools has been developed for systematizing biodiversity data review in order to evaluate whether a set of species observation are fit-for-use and help take decisions upon its use on further analysis.
