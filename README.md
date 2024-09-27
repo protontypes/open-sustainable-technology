@@ -2339,6 +2339,7 @@ parameter values.
 - [kartevonmorgen](https://github.com/kartevonmorgen/kartevonmorgen.ts) - We make all sustainable companies and change initiatives visible on the map of tomorrow.
 - [Education4Climate](https://github.com/Education4Climate/Education4Climate) - A tool for crawling and analyzing data from higher education schools.
 - [NRPTI](https://github.com/bcgov/NRPTI) - On this site you'll find records, documents and details of compliance and enforcement activities undertaken by British Columbia natural resource agencies such as administrative sanctions, administrative penalties, court convictions, inspections, orders, violation tickets and community environmental justice forums.
+- [QuotaClimat](https://github.com/dataforgoodfr/quotaclimat) - The aim of this work is to deliver a tool to a consortium around QuotaClimat, Climat Medias allowing them to quantify the media coverage of the climate crisis.
 
 ### Data Catalogs and Interfaces
 - [Climate Data Store](https://cds.climate.copernicus.eu/) - Dive into this wealth of information about the Earth's past, present and future climate.
