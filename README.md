@@ -1629,6 +1629,7 @@ parameter values.
 - [pybomwater](https://github.com/csiro-hydroinformatics/pybomwater) -  Provides access to Web Data Services ( SOS2 ) station reference data and historical time series water data for stations across Australia, collected by the Bureau of Meteorology.
 - [Ocean Data and Information System](https://github.com/iodepo/odis-arch) - The Ocean InfoHub facilitates access to global oceans information, data and knowledge products for management and sustainable development.
 - [GroMoPo](https://github.com/Gromopo/GroMoPo) - Explore or share groundwater model data, knowledge, and insights through this unique portal of regional and global numerical groundwater models.
+- [Metocean-stats](https://github.com/MET-OM/metocean-stats) - A tool for comprehensive statistics and visualization of metocean data like wind, waves, ocean currents, tide levels, air and water temperature, sea ice, and more.
 
 ## Atmosphere
 ### Atmospheric Composition and Dynamics
@@ -1756,6 +1757,7 @@ parameter values.
 - [Neural-LAM](https://github.com/mllam/neural-lam) - A repository of graph-based neural weather prediction models for Limited Area Modeling.
 - [OPENSENSE software sandbox](https://github.com/OpenSenseAction/OPENSENSE_sandbox) - Collection of runable examples with software packages for processing opportunistic rainfall sensors.
 - [Prithvi WxC](https://github.com/NASA-IMPACT/Prithvi-WxC) - Foundation model for weather and climate, that employs an encoder-decoder-based architecture, incorporating concepts from various recent transformer models to effectively capture both regional and global dependencies in the input data.
+
 
 ### Radiative Transfer
 - [lowtran](https://github.com/space-physics/lowtran) - Atmospheric absorption extinction, scatter and irradiance model in Python and Matlab.
