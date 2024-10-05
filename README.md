@@ -558,7 +558,7 @@ energy system designs and analysis of interactions between technologies.
 - [LoadProfileGenerator](https://github.com/FZJ-IEK3-VSA/LoadProfileGenerator) - A program for generating load curves for residential consumers. Agent-based and extremely detailed.
 - [The-building-data-genome-project](https://github.com/buds-lab/the-building-data-genome-project) - A collection of non-residential buildings for performance analysis and algorithm benchmarking.
 - [EnergyPlus](https://github.com/NREL/EnergyPlus) - A whole building energy simulation program that engineers, architects, and researchers use to model both energy consumption and water usage in buildings.
-- [OpenStudio](https://github.com/NREL/OpenStudio) - A cross-platform collection of software tools to support whole building energy modeling using EnergyPlus and advanced daylight analysis using Radiance.
+- [OpenStudio](https://github.com/openstudiocoalition/OpenStudioApplication) - A cross-platform collection of software tools to support whole building energy modeling using EnergyPlus and advanced daylight analysis using Radiance.
 - [BEMServer](https://github.com/HIT2GAP-EU-PROJECT/bemserver) - An open source Python server to deploy energy management solutions for buildings.
 - [SEED](https://github.com/SEED-platform/seed) - Standard Energy Efficiency Data Platform™ is a web-based application that helps organizations easily manage data on the energy performance of large groups of buildings.
 - [HPWHsim](https://github.com/bigladder/HPWHsim) - An open source simulation model for Heat Pump Water Heaters (HPWH).
