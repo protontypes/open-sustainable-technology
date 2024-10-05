@@ -625,7 +625,7 @@ energy system designs and analysis of interactions between technologies.
 - [Home Energy Analysis Tool](https://github.com/codeforboston/home-energy-analysis-tool) - Provide an app that helps residential energy coaches or advocates, and some homeowners, estimate a home's heating requirements (heat load) and assess whether proposed heat pumps have sufficient heating capacity for the home.
 - [Versatile Thermostat](https://github.com/jmcollin78/versatile_thermostat) - A full featured Thermostat for Home Assistant: presets, window, motion, presence and overpowering management.
 - [OCHRE](https://github.com/NREL/OCHRE) - Building energy modeling (BEM) tool designed to model flexible loads in residential buildings.
-
+- [ConStrain](https://github.com/pnnl/ConStrain) - A data-driven knowledge-integrated framework that automatically verifies that building system controls function as intended.
 
 ### Mobility and Transportation
 - [stplanr](https://github.com/ropensci/stplanr) - A package for sustainable transport planning with R.
