@@ -2031,6 +2031,7 @@ parameter values.
 - [Kuro Siwo](https://github.com/Orion-AI-Lab/KuroSiwo) - A meticulously curated multi-temporal dataset spanning 32 global flood events, mapping over 63 billion areas of land.
 - [Climate Risk Assessment Book](https://github.com/CLIMAAX/crabook) - Guides you through your regional Climate Risk Assessments and provides you with tools and datasets for the assessment.
 - [FReDT](https://github.com/GeospatialResearch/Digital-Twins) - Provide a better understanding of the degree of impact flood events can have on physical assets like buildings, roads, railways, transmission lines, etc.
+- [SynxFlow](https://github.com/SynxFlow/SynxFlow) - Dynamically simulate flood inundation, landslides runout and debris flows using multiple CUDA-enabled GPUs.
 
 ### Integrated Assessment and Climate Policy 
 - [PRIMAP2](https://github.com/pik-primap/primap2) - The next generation climate policy analysis suite.
