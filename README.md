@@ -880,6 +880,8 @@ energy system designs and analysis of interactions between technologies.
 - [Open Sustainability Index](https://github.com/Open-Sustainability-Index/open-sustainability-index-backend) - An open, transparent, wikipedia-like sustainability database - aiming to accelerate comparable corporate sustainability data.
 - [GHGPy](https://github.com/iClimate/ghgpy) - An open source greenhouse gas accounting tool that complies with IPCC 2006 and the GHG Protocol.
 - [Nos Gestes Climat](https://github.com/incubateur-ademe/nosgestesclimat) - In 10 Minutes,get an estimate of your carbon footprint.
+- [Carbon Intensity API](https://github.com/carbon-intensity/api-definitions) - The Carbon Intensity API uses cutting-edge machine learning and sophisticated power system modelling to forecast carbon intensity and generation mix 96+ hours ahead for every region in the UK.
+
 
 ### Carbon Offsets and Trading 
 - [Carbon Dioxide Removal Database](https://github.com/carbonplan/cdr-database) - Open science reports on carbon removal projects and technologies.
