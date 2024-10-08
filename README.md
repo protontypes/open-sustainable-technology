@@ -175,6 +175,7 @@
 - [Net Zero Citizens](https://github.com/Iniciativa-Climatica-Mexico/Net-Zero-Citizens) -  Through this web and mobile applications, users in Mexico can effortlessly connect with solar panel installers and photovoltaic panel sellers, making the switch to solar energy seamless and straightforward.
 - [OpenPV](https://github.com/open-pv/website) - A website to simulate shading and annual PV yield based on 3D building data in the browser.
 - [OpenDTU](https://github.com/tbnobody/OpenDTU) - An alternative open source software for communicating with Hoymiles solar inverters, which synchronises everything with the s-Miles cloud.
+- [SimShady](https://github.com/open-pv/simshady) - Simulating Shadows for PV Potential Analysis on 3D Data in the Browser.
 
 ### Wind Energy
 - [DSWE](https://github.com/TAMU-AML/DSWE-Package) - An R implementation of various data science methods for wind energy (DSWE) applications, such as providing machine learning methods to accurately estimate the wind power curve.
