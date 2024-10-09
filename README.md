@@ -1518,7 +1518,7 @@ parameter values.
 - [Hy2DL](https://github.com/KIT-HYD/Hy2DL) - A python library to create hydrological models for rainfall-runoff prediction, which make use of deep learning methods.
 - [GEB](https://github.com/GEB-model/GEB) - Coupling of an agent-based model which simulates millions individual people or households, a hydrological model, a vegetation model and a hydrodynamic model.
 - [WATex](https://github.com/earthai-tech/watex) - A Python-based library primarily designed for Groundwater Exploration.
-- [tRIBS](https://github.com/tribshms/tRIBS) - The TIN-based Real-Time Integrated Basin Simulator is a fully-distributed, continuous hydrologic model operating on a Triangulated Irregular Network 
+- [tRIBS](https://github.com/tribshms/tRIBS) - The TIN-based Real-Time Integrated Basin Simulator is a fully-distributed, continuous hydrologic model operating on a Triangulated Irregular Network.
 
 ### Ocean Models
 - [MOM6](https://github.com/NOAA-GFDL/MOM6) - A numerical representation of the ocean fluid with applications from the process scale to the planetary circulation scale.
