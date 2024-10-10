@@ -1968,6 +1968,7 @@ parameter values.
 - [chopin](https://github.com/NIEHS/chopin) - Computation for Climate and Health research On Parallelized infrastructure is a Scalable GIS methods for environmental and climate data analysis.
 - [uxarray](https://github.com/UXARRAY/uxarray) - Xarray extension for unstructured climate and global weather data analysis and visualization.
 - [CHAP](https://github.com/dhis2/chap-core) - Designed to be used by researchers and public health professionals to forecast and assess the impact of climate on health outcomes.
+- [Climate Data Operators](https://code.mpimet.mpg.de/projects/cdo) - A collection of command line Operators to manipulate and analyse Climate and NWP model Data.
 
 ### Climate Downscaling
 - [ICAR](https://github.com/NCAR/icar) - A simplified atmospheric model designed primarily for climate downscaling, atmospheric sensitivity tests, and hopefully educational uses.
