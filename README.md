@@ -2036,6 +2036,7 @@ parameter values.
 - [Climate Risk Assessment Book](https://github.com/CLIMAAX/crabook) - Guides you through your regional Climate Risk Assessments and provides you with tools and datasets for the assessment.
 - [FReDT](https://github.com/GeospatialResearch/Digital-Twins) - Provide a better understanding of the degree of impact flood events can have on physical assets like buildings, roads, railways, transmission lines, etc.
 - [SynxFlow](https://github.com/SynxFlow/SynxFlow) - Dynamically simulate flood inundation, landslides runout and debris flows using multiple CUDA-enabled GPUs.
+- [Humanitarian OpenStreetMap](https://github.com/hotosm/hotosm-website) -  Provide map data which revolutionises disaster management, reduces risks, and contributes to achievement of the Sustainable Development Goals.
 
 ### Integrated Assessment and Climate Policy 
 - [PRIMAP2](https://github.com/pik-primap/primap2) - The next generation climate policy analysis suite.
