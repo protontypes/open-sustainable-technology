@@ -1029,12 +1029,14 @@ energy system designs and analysis of interactions between technologies.
 - [SwolfPy](https://github.com/SwolfPy-Project/swolfpy) - A free, multi-platform, Python-based, open-source, SWM LCA optimization framework with built-in parametric and Monte Carlo sensitivity and uncertainty analysis capabilities.
 - [TrashMob](https://github.com/TrashMob-eco/TrashMob) - A website dedicated to organizing groups of people to clean up the world we live in. Users create cleanup events, publicize them, and recruit people to join up, as well as ask for assistance from communities and partners.
 - [Haztrak](https://github.com/USEPA/haztrak) - A web application that aims to illustrate how hazardous waste management software can interface with EPA's e-Manifest systems to track hazardous waste electronically from cradle-to-grave.
+- [e-Manifest](https://github.com/USEPA/e-manifest) - The purpose of e-Manifest is to establish a national information technology system that will enable the Agency and the hazardous waste program's industry and state stakeholders to transition the manifest system from one that is paper-intensive and burdensome to a system that is much more efficient.
 - [OpenSpecy](https://github.com/wincowgerDEV/OpenSpecy-package) - Raman and (FT)IR spectral analysis tool for plastic particles and other environmental samples.
 - [waste_flow](https://github.com/xapple/waste_flow) - A python package for retrieving and analyzing data concerning the waste management of European countries.
 - [The Clothing Loop](https://github.com/the-clothing-loop/website) - An initiative that offers an easy way for people to swap clothes with others in their own neighborhood.
 - [prommis](https://github.com/prommis/prommis) - Process Optimization and Modeling for Minerals Sustainability.
 - [Plastics Prototype](https://github.com/SchmidtDSE/plastics-prototype) - This tool explores different policy interventions both regionally and globally to help countries exploring ways to reduce the impact of plastic.
 - [CircuLaw](https://github.com/Dark-Matter-Labs/circulaw) - A knowledge platform dedicated to enabling the transition to a circular economy by identifying opportunities in current law to support a circular future.
+
 
 ## Biosphere
 
