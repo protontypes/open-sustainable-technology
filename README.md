@@ -2101,6 +2101,7 @@ parameter values.
 - [AirMonitor](https://github.com/MazamaScience/AirMonitor) - Utilities for working with hourly air quality monitoring data with a focus on small particulates PM2.5.
 - [BEETHOVEN](https://github.com/NIEHS/beethoven) - Building an extensible, reproducible, test-driven, harmonised, open-source, versioned, ensemble model for air quality.
 - [CanAirIO](https://github.com/kike-canaries/canairio_firmware) - A citizen science project using mobile and static sensors to measure air quality with cell phones and low-cost technology.
+- [NAPS Data Analysis Toolbox](https://github.com/dbeaudoinfortin/NAPSDataAnalysis) - Canada National Air Pollution Surveillance Program data downloader, importer, extractor, analysis, and visualization toolbox.
 
 ### Water Supply and Quality 
 - [Stormwater-Management-Model](https://github.com/USEPA/Stormwater-Management-Model) - Used for single event or long-term (continuous) simulation of runoff quantity and quality from primarily urban areas.
