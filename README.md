@@ -1046,6 +1046,7 @@ energy system designs and analysis of interactions between technologies.
 - [palmerpenguins](https://github.com/allisonhorst/palmerpenguins/) - The palmerpenguins data contains size measurements for three penguin species observed on three islands in the Palmer Archipelago, Antarctica.
 - [auk](https://github.com/CornellLabofOrnithology/auk) - eBird Data Extraction and Processing in R.
 - [motus](https://github.com/MotusWTS/motus) - An R package for processing automated radio telemetry data from Motus, an international collaborative research network that uses coordinated automated radio telemetry to facilitate research and education on the ecology and conservation of migratory animals.
+- [naturecounts](https://github.com/BirdsCanada/naturecounts) - R package to access data from the NatureCounts platform by Bird Studies Canada.
 
 ### Bioacoustics and Acoustic Data Analysis
 - [vak](https://github.com/vocalpy/vak) - A neural network framework for animal acoustic communication and bioacoustics.
