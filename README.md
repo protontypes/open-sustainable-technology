@@ -1050,6 +1050,7 @@ energy system designs and analysis of interactions between technologies.
 - [palmerpenguins](https://github.com/allisonhorst/palmerpenguins/) - The palmerpenguins data contains size measurements for three penguin species observed on three islands in the Palmer Archipelago, Antarctica.
 - [auk](https://github.com/CornellLabofOrnithology/auk) - eBird Data Extraction and Processing in R.
 - [motus](https://github.com/MotusWTS/motus) - An R package for processing automated radio telemetry data from Motus, an international collaborative research network that uses coordinated automated radio telemetry to facilitate research and education on the ecology and conservation of migratory animals.
+- [naturecounts](https://github.com/BirdsCanada/naturecounts) - R package to access data from the NatureCounts platform by Bird Studies Canada.
 - [bbsBayes2](https://github.com/bbsBayes/bbsBayes2) - An R Package for Hierarchical Bayesian Analysis of North American Breeding Bird Survey Data.
 
 ### Bioacoustics and Acoustic Data Analysis
@@ -1523,6 +1524,8 @@ parameter values.
 - [Hy2DL](https://github.com/KIT-HYD/Hy2DL) - A python library to create hydrological models for rainfall-runoff prediction, which make use of deep learning methods.
 - [GEB](https://github.com/GEB-model/GEB) - Coupling of an agent-based model which simulates millions individual people or households, a hydrological model, a vegetation model and a hydrodynamic model.
 - [WATex](https://github.com/earthai-tech/watex) - A Python-based library primarily designed for Groundwater Exploration.
+- [tRIBS](https://github.com/tribshms/tRIBS) - The TIN-based Real-Time Integrated Basin Simulator is a fully-distributed, continuous hydrologic model operating on a Triangulated Irregular Network.
+- [BASINS](https://github.com/respec/BASINS) - Better Assessment Science Integrating Point and Nonpoint Sources is a multipurpose environmental analysis system designed to help regional, state, and local agencies perform watershed- and water quality-based studies.
 
 ### Ocean Models
 - [MOM6](https://github.com/NOAA-GFDL/MOM6) - A numerical representation of the ocean fluid with applications from the process scale to the planetary circulation scale.
@@ -1769,6 +1772,7 @@ parameter values.
 - [OPENSENSE software sandbox](https://github.com/OpenSenseAction/OPENSENSE_sandbox) - Collection of runable examples with software packages for processing opportunistic rainfall sensors.
 - [Prithvi WxC](https://github.com/NASA-IMPACT/Prithvi-WxC) - Foundation model for weather and climate, that employs an encoder-decoder-based architecture, incorporating concepts from various recent transformer models to effectively capture both regional and global dependencies in the input data.
 - [CRA5](https://github.com/taohan10200/CRA5) - Extreme Compression of ERA5 for Portable Global Climate and Weather Research via an Efficient Variational Transformer.
+- [flux-data-qaqc](https://github.com/Open-ET/flux-data-qaqc) - Provides a framework to create reproducible workflows for validation and analysis of eddy covariance data.
 
 ### Radiative Transfer
 - [lowtran](https://github.com/space-physics/lowtran) - Atmospheric absorption extinction, scatter and irradiance model in Python and Matlab.
@@ -1973,6 +1977,8 @@ parameter values.
 - [chopin](https://github.com/NIEHS/chopin) - Computation for Climate and Health research On Parallelized infrastructure is a Scalable GIS methods for environmental and climate data analysis.
 - [uxarray](https://github.com/UXARRAY/uxarray) - Xarray extension for unstructured climate and global weather data analysis and visualization.
 - [CHAP](https://github.com/dhis2/chap-core) - Designed to be used by researchers and public health professionals to forecast and assess the impact of climate on health outcomes.
+- [ccviR](https://github.com/LandSciTech/ccviR) - A rapid assessment tool designed to allow a relative grouping of unrelated taxa by vulnerability to climate change and to highlight which factors contribute to the climate change vulnerability of individual species or groups of taxa.
+- [Climate Data Operators](https://code.mpimet.mpg.de/projects/cdo) - A collection of command line Operators to manipulate and analyse Climate and NWP model Data.
 
 ### Climate Downscaling
 - [ICAR](https://github.com/NCAR/icar) - A simplified atmospheric model designed primarily for climate downscaling, atmospheric sensitivity tests, and hopefully educational uses.
@@ -2102,6 +2108,7 @@ parameter values.
 - [BEETHOVEN](https://github.com/NIEHS/beethoven) - Building an extensible, reproducible, test-driven, harmonised, open-source, versioned, ensemble model for air quality.
 - [CanAirIO](https://github.com/kike-canaries/canairio_firmware) - A citizen science project using mobile and static sensors to measure air quality with cell phones and low-cost technology.
 - [NAPS Data Analysis Toolbox](https://github.com/dbeaudoinfortin/NAPSDataAnalysis) - Canada National Air Pollution Surveillance Program data downloader, importer, extractor, analysis, and visualization toolbox.
+- [AirBase](https://github.com/JohnPaton/airbase) - An easy downloader for air quality data provided by the European Environment Agency.
 
 ### Water Supply and Quality 
 - [Stormwater-Management-Model](https://github.com/USEPA/Stormwater-Management-Model) - Used for single event or long-term (continuous) simulation of runoff quantity and quality from primarily urban areas.
