@@ -1772,6 +1772,7 @@ parameter values.
 - [OPENSENSE software sandbox](https://github.com/OpenSenseAction/OPENSENSE_sandbox) - Collection of runable examples with software packages for processing opportunistic rainfall sensors.
 - [Prithvi WxC](https://github.com/NASA-IMPACT/Prithvi-WxC) - Foundation model for weather and climate, that employs an encoder-decoder-based architecture, incorporating concepts from various recent transformer models to effectively capture both regional and global dependencies in the input data.
 - [CRA5](https://github.com/taohan10200/CRA5) - Extreme Compression of ERA5 for Portable Global Climate and Weather Research via an Efficient Variational Transformer.
+- [flux-data-qaqc](https://github.com/Open-ET/flux-data-qaqc) - Provides a framework to create reproducible workflows for validation and analysis of eddy covariance data.
 
 ### Radiative Transfer
 - [lowtran](https://github.com/space-physics/lowtran) - Atmospheric absorption extinction, scatter and irradiance model in Python and Matlab.
