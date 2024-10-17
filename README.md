@@ -1043,6 +1043,7 @@ energy system designs and analysis of interactions between technologies.
 ### Avian Monitoring and Analysis
 - [BirdFlowR](https://github.com/birdflow-science/BirdFlowR) - Predict changes in bird distributions and generate synthetic migration routes.
 - [ebirdst](https://github.com/ebird/ebirdst) - Access and Analyze eBird Status and Trends Data.
+- [eBird API](https://github.com/ProjectBabbler/ebird-api) - eBird API provides a set of wrapper functions for accessing the end-points in the eBird API 2.0.
 - [GeoPressureR](https://github.com/Rafnuss/GeoPressureR) - R package which help researchers construct the trajectory of a bird equiped with an atmospheric pressure sensor.
 - [bioRad](https://github.com/adokter/bioRad) - R package for analysis and visualisation of biological signals in weather radar data.
 - [BirdNET-Analyzer](https://github.com/kahst/BirdNET-Analyzer) - A deep learning solution for avian diversity monitoring.
