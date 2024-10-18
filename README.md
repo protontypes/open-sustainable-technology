@@ -1852,6 +1852,7 @@ parameter values.
 - [RegCM](https://github.com/ICTP/RegCM) -  This Regional Climate Model can be applied to any region of the World, with grid spacing of up to about 3 km, and for a wide range of studies, from process studies to paleoclimate and future climate simulation.
 - [gospl](https://github.com/Geodels/gospl) - Global Scalable Paleo Landscape Evolution Model is an library providing a scalable parallelised Python-based numerical model to simulate landscapes and basins reconstruction at global scale.
 - [ClimODE](https://github.com/Aalto-QuML/ClimODE) - Models precise weather evolution with value-conserving dynamics, learning global weather transport as a neural flow, which also enables estimating the uncertainty in predictions.
+- [ciceroscm](https://github.com/ciceroOslo/ciceroscm) - Python version of the CICERO-SCM simple climate model/emulator.
 
 ### Climate Data Standards 
 - [cf-conventions](https://github.com/cf-convention/cf-conventions) - The conventions for CF (Climate and Forecast) metadata are designed to promote the processing and sharing of files created with the NetCDF API.
