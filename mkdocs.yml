@@ -12,6 +12,7 @@ nav:
   - Contribute: contributing.md
   - Blog:
       2024:
+        - "Closing the Gap: Accelerating environmental Open Source" : blog/closing-the-gap.md
         - "Sustain Open Source, Sustain the Planet: A new conversation" : blog/sustain-open-source.md
       2023: 
         - "Connect Developers with Impactful Sustainability Projects" : blog/launch_climate_triage.md
