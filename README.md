@@ -1036,6 +1036,7 @@ energy system designs and analysis of interactions between technologies.
 - [prommis](https://github.com/prommis/prommis) - Process Optimization and Modeling for Minerals Sustainability.
 - [Plastics Prototype](https://github.com/SchmidtDSE/plastics-prototype) - This tool explores different policy interventions both regionally and globally to help countries exploring ways to reduce the impact of plastic.
 - [CircuLaw](https://github.com/Dark-Matter-Labs/circulaw) - A knowledge platform dedicated to enabling the transition to a circular economy by identifying opportunities in current law to support a circular future.
+- [plasticparcels](https://github.com/OceanParcels/plasticparcels) - A python package for simulating the transport and dispersion of plastics in the ocean.
 
 
 ## Biosphere
