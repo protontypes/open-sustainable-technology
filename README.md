@@ -484,6 +484,7 @@ energy system designs and analysis of interactions between technologies.
 - [Backbone](https://gitlab.vtt.fi/backbone/backbone) - A generic energy network optimization tool written in GAMS.
 - [mosaik](https://gitlab.com/mosaik/mosaik) - A flexible Smart Grid co-simulation framework.
 - [SmartGridToolbox](https://gitlab.com/SmartGridToolbox/SmartGridToolbox) - Designed to provide an extensible and flexible starting point for developing a wide variety of smart grid simulations and other applications.
+- [OSMoGrid](https://github.com/ie3-institute/OSMoGrid) - A java tool to generate life like electrical grid models based on publicly available data, mainly OpenStreetMap and a special focus on low voltage grids.
 
 ### Grid Management and Microgrid
 - [Open Smart Grid Platform](https://github.com/OSGP/open-smart-grid-platform) - An open, generic, scalable and independent 'Internet of Things' platform, which enables various connected smart objects in the public space to be easily controlled and monitored.
