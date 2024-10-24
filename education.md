@@ -128,6 +128,7 @@
 - [Analytical Groundwater Modeling](https://github.com/pythongroundwaterbook/analytic_gw_book) - Analytical Groundwater Modeling: Theory and Applications Using Python.
 - [Intro to Physical Oceanography](https://github.com/rabernat/intro_to_physical_oceanography) - Course materials for Introduction to Physical Oceanography.
 - [Coastal Dynamics Open Codebook](https://github.com/floriscalkoen/CoastalCodeBook) - Discusses the interrelation between physical wave, flow, and sediment transport phenomena and the resulting morphodynamics of a wide variety of coastal systems.
+- [ECCO Hackweek 2024 Website](https://github.com/ECCO-Hackweek/ecco-2024) - Explore NASA’s ECCO Ocean State Estimate, using Python, Julia, and cloud-based resources to work on oceanographic and climate data projects.
 
 
 ## Natural Resources 
