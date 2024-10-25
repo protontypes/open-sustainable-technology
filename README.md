@@ -1915,6 +1915,7 @@ parameter values.
 - [climate-visuals](https://github.com/ed-hawkins/climate-visuals) - These graphics show different aspects of how the climate is changing.
 - [ColOpenData](https://github.com/epiverse-trace/ColOpenData) - A package that acquires and wrangles Colombian socioeconomic, geospatial and climate data.
 - [amadeus](https://github.com/NIEHS/amadeus) - A mechanism for data, environments, and user setup for common environmental and climate health datasets in R.
+- [HadCRUT5](https://github.com/madrisan/HadCRUT5) - Visualize the HadCRUT5 temperature, a gridded dataset of global historical surface temperature anomalies relative to a 1961-1990 reference period. 
 
 ### Climate Data Processing and Analysis
 - [Iris](https://github.com/SciTools/iris) - A powerful, format-agnostic, community-driven Python package for analyzing and visualizing Earth science data.
