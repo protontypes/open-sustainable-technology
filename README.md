@@ -633,6 +633,7 @@ energy system designs and analysis of interactions between technologies.
 - [Versatile Thermostat](https://github.com/jmcollin78/versatile_thermostat) - A full featured Thermostat for Home Assistant: presets, window, motion, presence and overpowering management.
 - [OCHRE](https://github.com/NREL/OCHRE) - Building energy modeling (BEM) tool designed to model flexible loads in residential buildings.
 - [ConStrain](https://github.com/pnnl/ConStrain) - A data-driven knowledge-integrated framework that automatically verifies that building system controls function as intended.
+- [DistrictGenerator](https://github.com/RWTH-EBC/districtgenerator) - An open-source, Python-based tool that provides urban planners, energy suppliers, and related professionals with essential insights into energy demands, enabling effective neighborhood energy system design and supply harmonization.
 
 ### Mobility and Transportation
 - [stplanr](https://github.com/ropensci/stplanr) - A package for sustainable transport planning with R.
