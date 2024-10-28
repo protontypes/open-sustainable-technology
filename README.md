@@ -5,7 +5,7 @@
 <!--lint disable double-link-->
 <br> [![](https://badgen.net/badge/View/Spreadsheets/009485?scale=1.6)](https://docs.getgrist.com/gSscJkc5Rb1R/OpenSustaintech)
 [![](https://badgen.net/badge/Download/Report/009485?scale=1.6)](https://raw.githubusercontent.com/protontypes/open-source-in-environmental-sustainability/main/OpenSourceSustainabilityEcosystem_080423.pdf) 
-[![](https://badgen.net/badge/Add/Project/009485?scale=1.6)](https://opensustain.tech/contributing/#contribution-guide) <br> [![](https://badgen.net/badge/Icon/Sponsor/009485?scale=1.6&label=%F0%9F%92%9d)](https://opencollective.com/open-sustainable-technology) [![](https://badgen.net/badge/icon/Follow%20Entries/009485?scale=1.6&icon=mastodon&label)](https://mastodon.social/@opensustaintech) [![](https://badgen.net/badge/Find/Good%20First%20Issues/009485?scale=1.6l)](https://climatetriage.com/) <br> [![](https://badgen.net/badge/Find%20Coding/Cookbooks/009485?scale=1.6)](https://opensustain.tech/education/) [![](https://badgen.net/badge/Download/CSV/009485?scale=1.6)](https://github.com/protontypes/AwesomeCure/tree/main/csv) [![](https://badgen.net/badge/Icon/Podcast/009485?scale=1.6&label=%f0%9f%8e%a7)](https://ossforclimate.sustainoss.org/)
+[![](https://badgen.net/badge/Add/Project/009485?scale=1.6)](https://opensustain.tech/contributing/#contribution-guide) [![](https://badgen.net/badge/Icon/Sponsor/009485?scale=1.6&label=%F0%9F%92%9d)](https://opencollective.com/open-sustainable-technology) <br> [![](https://badgen.net/badge/icon/Follow%20Entries/009485?scale=1.6&icon=mastodon&label)](https://mastodon.social/@opensustaintech) [![](https://badgen.net/badge/Find/Good%20First%20Issues/009485?scale=1.6l)](https://climatetriage.com/)  [![](https://badgen.net/badge/Find/Cookbooks/009485?scale=1.6)](https://opensustain.tech/education/) <br> [![](https://badgen.net/badge/Projects/CSV/009485?scale=1.6)](https://api.getgrist.com/o/docs/api/docs/gSscJkc5Rb1Rw45gh1o1Yc/download/csv?viewSection=5&tableId=Projects&activeSortSpec=%5B132%5D&filters=%5B%5D&linkingFilter=%7B%22filters%22%3A%7B%7D%2C%22operations%22%3A%7B%7D%7D)  [![](https://badgen.net/badge/Organizations/CSV/009485?scale=1.6)](https://api.getgrist.com/o/docs/api/docs/gSscJkc5Rb1Rw45gh1o1Yc/download/csv?viewSection=7&tableId=Organizations&activeSortSpec=%5B119%5D&filters=%5B%5D&linkingFilter=%7B%22filters%22%3A%7B%7D%2C%22operations%22%3A%7B%7D%7D)  [![](https://badgen.net/badge/Icon/Podcast/009485?scale=1.6&label=%f0%9f%8e%a7)](https://ossforclimate.sustainoss.org/)
 
  Your contribution is essential to [keep this initative alive](https://opencollective.com/open-sustainable-technology). Create [a pull request](https://github.com/protontypes/open-sustainable-technology/blob/main/CONTRIBUTING.md) to add a new project or [send an email](mailto:tobias.augspurger@protontypes.eu) to give feedback, tips and ideas considering [OpenSustain.tech](https://opensustain.tech/). All _Good First Issue_ labelled issues of the listed projects will be visible on [ClimateTriage.com](https://climatetriage.com/). All open source metadata is been provided to you by [ecosyste.ms](https://github.com/ecosyste-ms/ost).
 <!--lint enable double-link-->
@@ -448,6 +448,7 @@ energy system designs and analysis of interactions between technologies.
 - [open-MaStR](https://github.com/OpenEnergyPlatform/open-MaStR) - Download and process German energy data from BNetzA database Marktstammdatenregister.
 - [Energy System Technology Data](https://github.com/PyPSA/technology-data) - Compilation of assumptions about energy system technologies such as cost, efficiency and lifetime that can be read by energy system modelling software.
 - [GEEST](https://github.com/worldbank/GEEST) - Aims to propose a novel methodology and generate a geospatial open-source tool for mapping the enabling environments for women in a country that can inform new energy projects to support the advancement of women's economic empowerment in small island developing states while contributing to closing gender gaps in employment in the renewable energy sector.
+- [Annual Technology Baseline Calculators](https://github.com/NREL/ATB-calc) - To inform electric and transportation sector analysis in the United States, each year NREL provides a robust set of modeling input assumptions for energy technologies and a diverse set of potential electricity generation futures or modeling scenarios.
 
 ### Energy Policy
 - [Energy Policy Simulator](https://github.com/EnergyInnovation/eps-us) - The open-source United States Energy Policy Simulator estimates environmental and economic impacts of hundreds of climate and energy policies.
@@ -1043,6 +1044,7 @@ energy system designs and analysis of interactions between technologies.
 ### Avian Monitoring and Analysis
 - [BirdFlowR](https://github.com/birdflow-science/BirdFlowR) - Predict changes in bird distributions and generate synthetic migration routes.
 - [ebirdst](https://github.com/ebird/ebirdst) - Access and Analyze eBird Status and Trends Data.
+- [eBird API](https://github.com/ProjectBabbler/ebird-api) - eBird API provides a set of wrapper functions for accessing the end-points in the eBird API 2.0.
 - [GeoPressureR](https://github.com/Rafnuss/GeoPressureR) - R package which help researchers construct the trajectory of a bird equiped with an atmospheric pressure sensor.
 - [bioRad](https://github.com/adokter/bioRad) - R package for analysis and visualisation of biological signals in weather radar data.
 - [BirdNET-Analyzer](https://github.com/kahst/BirdNET-Analyzer) - A deep learning solution for avian diversity monitoring.
@@ -1352,6 +1354,7 @@ parameter values.
 - [spOccupancy](https://github.com/doserjef/spOccupancy) - Fits single-species, multi-species, and integrated spatial occupancy models using Markov Chain Monte Carlo.
 - [ibis.iSDM](https://github.com/iiasa/ibis.iSDM) - Provides a series of convenience functions to fit integrated Species Distribution Models.
 - [stemflow](https://github.com/chenyangkang/stemflow) - A toolkit for Adaptive Spatio-Temporal Exploratory Model in Python using daily abundance estimation using eBird citizen science data.
+- [PointedSDMs](https://github.com/PhilipMostert/PointedSDMs) - Simplify the construction of integrated species distribution models (ISDMs) for large collections of heterogeneous data.
 
 ### Terrestrial Wildlife
 - [Wildbook](https://github.com/WildMeOrg/Wildbook) - Blends structured wildlife research with artificial intelligence, citizen science, and computer vision to speed population analysis and develop new insights to help fight extinction.
@@ -1852,6 +1855,7 @@ parameter values.
 - [RegCM](https://github.com/ICTP/RegCM) -  This Regional Climate Model can be applied to any region of the World, with grid spacing of up to about 3 km, and for a wide range of studies, from process studies to paleoclimate and future climate simulation.
 - [gospl](https://github.com/Geodels/gospl) - Global Scalable Paleo Landscape Evolution Model is an library providing a scalable parallelised Python-based numerical model to simulate landscapes and basins reconstruction at global scale.
 - [ClimODE](https://github.com/Aalto-QuML/ClimODE) - Models precise weather evolution with value-conserving dynamics, learning global weather transport as a neural flow, which also enables estimating the uncertainty in predictions.
+- [ciceroscm](https://github.com/ciceroOslo/ciceroscm) - Python version of the CICERO-SCM simple climate model/emulator.
 
 ### Climate Data Standards 
 - [cf-conventions](https://github.com/cf-convention/cf-conventions) - The conventions for CF (Climate and Forecast) metadata are designed to promote the processing and sharing of files created with the NetCDF API.
@@ -1913,6 +1917,7 @@ parameter values.
 - [climate-visuals](https://github.com/ed-hawkins/climate-visuals) - These graphics show different aspects of how the climate is changing.
 - [ColOpenData](https://github.com/epiverse-trace/ColOpenData) - A package that acquires and wrangles Colombian socioeconomic, geospatial and climate data.
 - [amadeus](https://github.com/NIEHS/amadeus) - A mechanism for data, environments, and user setup for common environmental and climate health datasets in R.
+- [HadCRUT5](https://github.com/madrisan/HadCRUT5) - Visualize the HadCRUT5 temperature, a gridded dataset of global historical surface temperature anomalies relative to a 1961-1990 reference period. 
 
 ### Climate Data Processing and Analysis
 - [Iris](https://github.com/SciTools/iris) - A powerful, format-agnostic, community-driven Python package for analyzing and visualizing Earth science data.
