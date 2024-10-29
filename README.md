@@ -534,6 +534,7 @@ energy system designs and analysis of interactions between technologies.
 - [PyPSA-DE](https://github.com/PyPSA/pypsa-ariadne) - High resolution, sector-coupled model of the German Energy System.
 - [OSeMBE_ECEMF](https://github.com/KTH-dESA/OSeMBE_ECEMF) - Contains the energy future scenarios modelled in OSeMBE as part of the ECEMF project, which brings together energy and climate researchers and policy makers to address the central challenge of our time - how to achieve climate neutrality.
 - [PyPSA-PL](https://github.com/instrat-pl/pypsa-pl) - An implementation of the energy modelling framework PyPSA shipped with a use-ready dataset tailored for the Polish energy system.
+- [PyPSA-GB](https://github.com/andrewlyden/PyPSA-GB) - An open dataset and power dispatch model of the GB transmission network using country-specific data over historical years and for future energy scenarios.
 
 
 ### Renewable Energy Integration
