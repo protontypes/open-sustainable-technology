@@ -1571,6 +1571,7 @@ parameter values.
 - [wavespectra](https://github.com/wavespectra/wavespectra) - An open source project for working with ocean wave spectral data.
 - [LESbrary.jl](https://github.com/CliMA/LESbrary.jl) - Generating a library of ocean turbulence large eddy simulation data to train ocean and climate models.
 - [dnora](https://github.com/MET-OM/dnora) - A software for dynamical downscaling of wave products i.e., NORA3 wave hindcast and WW3 wave forecast from Norwegian Meteorological Institute and ERA5 from ECMWF.
+- [ecWAM](https://github.com/ecmwf-ifs/ecwam) - The ECMWF Ocean Wave Model describes the development and evolution of wind generated surface waves and their height, direction and period.
 
 ### Ocean Carbon and Temperature
 - [CO2SYS](https://github.com/jamesorr/CO2SYS-MATLAB) - A MATLAB (or Octave) project to compute variables of ocean CO2 systems.  
