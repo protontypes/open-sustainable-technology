@@ -15,6 +15,7 @@
 - [PVSC48-Python-Tutorial](https://pvsc-python-tutorials.github.io/PVSC48-Python-Tutorial) - Computing tutorial with focus on PV computing packages, Python, data wrangling with Pandas, and data viz.
 - [Electrify](https://github.com/toddmedema/electrify) - A web / mobile Tycoon-style game teaching about electricity production and consumption.
 - [Fundamentals of Solar Cells and Photovoltaic Systems Engineering](https://martavp.github.io/pv-textbook/) - Learn modeling solar radiation, calculating IV curves for varying irradiance and temperature, modeling electricity generation from PV installations, optimizing PV module orientation and inclination, and conducting time series analysis of solar generation.
+- [pv-tutorials](https://github.com/PV-Tutorials/pv-tutorials.github.io) - Links to tutorial material for various open-source software packages for PV modeling and analysis.
 
 ## Energy Systems 
 
@@ -128,6 +129,7 @@
 - [Analytical Groundwater Modeling](https://github.com/pythongroundwaterbook/analytic_gw_book) - Analytical Groundwater Modeling: Theory and Applications Using Python.
 - [Intro to Physical Oceanography](https://github.com/rabernat/intro_to_physical_oceanography) - Course materials for Introduction to Physical Oceanography.
 - [Coastal Dynamics Open Codebook](https://github.com/floriscalkoen/CoastalCodeBook) - Discusses the interrelation between physical wave, flow, and sediment transport phenomena and the resulting morphodynamics of a wide variety of coastal systems.
+- [ECCO Hackweek 2024 Website](https://github.com/ECCO-Hackweek/ecco-2024) - Explore NASA’s ECCO Ocean State Estimate, using Python, Julia, and cloud-based resources to work on oceanographic and climate data projects.
 
 
 ## Natural Resources 
