@@ -406,6 +406,7 @@ energy system designs and analysis of interactions between technologies.
 - [enerflow](https://github.com/rebase-energy/enerflow) - An open-source Python framework that enables energy data scientists and modellers to write modular and reproducible energy models that solves sequential decision problems.
 - [Energy System Simulation and Optimization](https://github.com/Akkudoktor-EOS/EOS) - An open-source energy optimization system that integrates renewable energy sources, such as photovoltaic (PV) systems, battery storage, and smart load management solutions.
 - [SpineOpt.jl](https://github.com/spine-tools/SpineOpt.jl) - A highly adaptable modelling framework for multi-energy systems written in Julia.
+- [BlueSky](https://github.com/EIAgov/BlueSky) - An EIA initiative to develop an open source, next generation energy systems model, which will eventually be used to produce the Annual Energy Outlook (AEO) and International Energy Outlook (IEO).
 
 ### Energy Markets
 - [Grid Singularity Energy Exchange](https://github.com/gridsingularity/gsy-e) - An interface to download and deploy interconnected, grid-aware energy marketplaces.
