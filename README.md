@@ -1071,6 +1071,7 @@ energy system designs and analysis of interactions between technologies.
 - [wildRtrax](https://github.com/ABbiodiversity/wildRtrax) - An R package for environmental sensor data management and analytics.
 - [baRulho](https://github.com/maRce10/baRulho) - An R package to quantify habitat-induced degradation of (animal) acoustic signals.
 - [Project Echo](https://github.com/DataBytes-Organisation/Project-Echo) - Develop an AI/ML solution to detect and classify the density of noisy animals in rainforests, providing conservationists with an efficient and non-invasive tool to monitor threatened animal populations over time.
+- [warbleR](https://github.com/maRce10/warbleR) - Is intended to facilitate the analysis of the structure of animal acoustic signals in R.
 
 ### Biomass
 - [Forest Carbon database](https://github.com/forc-db/ForC) - Global Forest Carbon Database.
