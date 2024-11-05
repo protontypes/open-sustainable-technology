@@ -1064,6 +1064,7 @@ energy system designs and analysis of interactions between technologies.
 - [naturecounts](https://github.com/BirdsCanada/naturecounts) - R package to access data from the NatureCounts platform by Bird Studies Canada.
 - [bbsBayes2](https://github.com/bbsBayes/bbsBayes2) - An R Package for Hierarchical Bayesian Analysis of North American Breeding Bird Survey Data.
 - [birdnet](https://github.com/birdnet-team/birdnet) - The library is geared towards providing a robust workflow for ecological data analysis in bioacoustic projects.
+- [Nighthawk](https://github.com/bmvandoren/Nighthawk) - A machine learning model for acoustic monitoring of nocturnal bird migration.
 
 ### Bioacoustics and Acoustic Data Analysis
 - [vak](https://github.com/vocalpy/vak) - A neural network framework for animal acoustic communication and bioacoustics.
@@ -1072,6 +1073,9 @@ energy system designs and analysis of interactions between technologies.
 - [wildRtrax](https://github.com/ABbiodiversity/wildRtrax) - An R package for environmental sensor data management and analytics.
 - [baRulho](https://github.com/maRce10/baRulho) - An R package to quantify habitat-induced degradation of (animal) acoustic signals.
 - [Project Echo](https://github.com/DataBytes-Organisation/Project-Echo) - Develop an AI/ML solution to detect and classify the density of noisy animals in rainforests, providing conservationists with an efficient and non-invasive tool to monitor threatened animal populations over time.
+- [warbleR](https://github.com/maRce10/warbleR) - Is intended to facilitate the analysis of the structure of animal acoustic signals in R.
+- [BirdSet](https://github.com/DBD-research-group/BirdSet) - A benchmark dataset collection for bird sound classification.
+- [birdnetR](https://github.com/birdnet-team/birdnetR) - Is geared towards providing a robust workflow for ecological data analysis in bioacoustic projects.
 
 ### Biomass
 - [Forest Carbon database](https://github.com/forc-db/ForC) - Global Forest Carbon Database.
