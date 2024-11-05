@@ -1073,6 +1073,7 @@ energy system designs and analysis of interactions between technologies.
 - [wildRtrax](https://github.com/ABbiodiversity/wildRtrax) - An R package for environmental sensor data management and analytics.
 - [baRulho](https://github.com/maRce10/baRulho) - An R package to quantify habitat-induced degradation of (animal) acoustic signals.
 - [Project Echo](https://github.com/DataBytes-Organisation/Project-Echo) - Develop an AI/ML solution to detect and classify the density of noisy animals in rainforests, providing conservationists with an efficient and non-invasive tool to monitor threatened animal populations over time.
+- [whoBIRD](https://github.com/woheller69/whoBIRD) - Identify bird sounds in real time with this Android version of BirdNET, a Bird sound recognition for more than 6,000 species worldwide.
 - [warbleR](https://github.com/maRce10/warbleR) - Is intended to facilitate the analysis of the structure of animal acoustic signals in R.
 - [BirdSet](https://github.com/DBD-research-group/BirdSet) - A benchmark dataset collection for bird sound classification.
 - [birdnetR](https://github.com/birdnet-team/birdnetR) - Is geared towards providing a robust workflow for ecological data analysis in bioacoustic projects.
