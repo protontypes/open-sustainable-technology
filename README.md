@@ -1063,6 +1063,7 @@ energy system designs and analysis of interactions between technologies.
 - [motus](https://github.com/MotusWTS/motus) - An R package for processing automated radio telemetry data from Motus, an international collaborative research network that uses coordinated automated radio telemetry to facilitate research and education on the ecology and conservation of migratory animals.
 - [naturecounts](https://github.com/BirdsCanada/naturecounts) - R package to access data from the NatureCounts platform by Bird Studies Canada.
 - [bbsBayes2](https://github.com/bbsBayes/bbsBayes2) - An R Package for Hierarchical Bayesian Analysis of North American Breeding Bird Survey Data.
+- [Nighthawk](https://github.com/bmvandoren/Nighthawk) - A machine learning model for acoustic monitoring of nocturnal bird migration.
 
 ### Bioacoustics and Acoustic Data Analysis
 - [vak](https://github.com/vocalpy/vak) - A neural network framework for animal acoustic communication and bioacoustics.
