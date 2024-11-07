@@ -1669,6 +1669,7 @@ parameter values.
 - [Ocean Data and Information System](https://github.com/iodepo/odis-arch) - The Ocean InfoHub facilitates access to global oceans information, data and knowledge products for management and sustainable development.
 - [GroMoPo](https://github.com/Gromopo/GroMoPo) - Explore or share groundwater model data, knowledge, and insights through this unique portal of regional and global numerical groundwater models.
 - [Metocean-stats](https://github.com/MET-OM/metocean-stats) - A tool for comprehensive statistics and visualization of metocean data like wind, waves, ocean currents, tide levels, air and water temperature, sea ice, and more.
+- [hubeau](https://github.com/inrae/hubeau) - An R-package proposing a collection of function to help retrieve data from the French national databases on water.
 
 ## Atmosphere
 ### Atmospheric Composition and Dynamics
