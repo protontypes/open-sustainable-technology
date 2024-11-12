@@ -1224,6 +1224,7 @@ parameter values.
 - [Rprebasso](https://github.com/ForModLabUHel/Rprebasso) - Predict the growth and carbon balance of the forest ecosystem.
 - [dfoliatR](https://github.com/chguiterman/dfoliatR) - Provide dendrochronologists with tools for identifying and analyzing the signatures of insect defoliators preserved in tree rings.
 - [fellingdater](https://github.com/hanecakr/fellingdater) - A suite of functions designed to assist dendrochronologists in inferring estimates for felling dates, derived from dated tree-ring series.
+- [ITSMe](https://github.com/lmterryn/ITSMe) - Provide easy to use functions to quickly obtain structural metrics from individual tree point clouds and their respective quantitative structure models.
 
 ### Forest Observation and Management
 - [SEPAL](https://github.com/openforis/sepal) - Empowering people around the world to gain a better understanding of land cover dynamics in forest management by facilitating the efficient access and use of Earth observation data.
