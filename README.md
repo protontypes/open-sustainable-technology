@@ -178,6 +178,7 @@
 - [SimShady](https://github.com/open-pv/simshady) - Simulating Shadows for PV Potential Analysis on 3D Data in the Browser.
 - [InSPIRE](https://github.com/NREL/InSPIRE) - Here we will collect scripts, trainings, studies, and any other open-source material that can help further the understanding and research of agrivoltaics.
 - [twoaxistracking](https://github.com/pvlib/twoaxistracking) - A python package for simulating two-axis tracking solar collectors, particularly self-shading.
+- [ThermoPack](https://github.com/thermotools/thermopack) - A thermodynamic model library for fluid properties and Photovoltaic thermal hybrid solar collector calculations.
 
 ### Wind Energy
 - [DSWE](https://github.com/TAMU-AML/DSWE-Package) - An R implementation of various data science methods for wind energy (DSWE) applications, such as providing machine learning methods to accurately estimate the wind power curve.
@@ -407,6 +408,7 @@ energy system designs and analysis of interactions between technologies.
 - [enerflow](https://github.com/rebase-energy/enerflow) - An open-source Python framework that enables energy data scientists and modellers to write modular and reproducible energy models that solves sequential decision problems.
 - [Energy System Simulation and Optimization](https://github.com/Akkudoktor-EOS/EOS) - An open-source energy optimization system that integrates renewable energy sources, such as photovoltaic (PV) systems, battery storage, and smart load management solutions.
 - [SpineOpt.jl](https://github.com/spine-tools/SpineOpt.jl) - A highly adaptable modelling framework for multi-energy systems written in Julia.
+- [BlueSky](https://github.com/EIAgov/BlueSky) - An EIA initiative to develop an open source, next generation energy systems model, which will eventually be used to produce the Annual Energy Outlook (AEO) and International Energy Outlook (IEO).
 
 ### Energy Markets
 - [Grid Singularity Energy Exchange](https://github.com/gridsingularity/gsy-e) - An interface to download and deploy interconnected, grid-aware energy marketplaces.
@@ -977,6 +979,7 @@ energy system designs and analysis of interactions between technologies.
 - [ameriflux](https://github.com/chuhousen/amerifluxr) - A network of PI-managed sites measuring ecosystem CO2, water, and energy fluxes in North, Central and South America.
 - [Kausal Paths](https://github.com/kausaltech/kausal-paths) - A tool for predicting the future emissions of cities based on historical emission data and various climate actions.
 - [GEPA](https://github.com/USEPA/GEPA) - This repository contains the code for the EPA U.S. gridded methane greenhouse gas inventory.
+- [reemission](https://github.com/tomjanus/reemission) - A Python library and a command line interface tool for estimating CO2, CH4 and N2O emissions from water reservoirs.
 
 ## Industrial Ecology
 ### Life Cycle Assessment
@@ -1224,6 +1227,7 @@ parameter values.
 - [Rprebasso](https://github.com/ForModLabUHel/Rprebasso) - Predict the growth and carbon balance of the forest ecosystem.
 - [dfoliatR](https://github.com/chguiterman/dfoliatR) - Provide dendrochronologists with tools for identifying and analyzing the signatures of insect defoliators preserved in tree rings.
 - [fellingdater](https://github.com/hanecakr/fellingdater) - A suite of functions designed to assist dendrochronologists in inferring estimates for felling dates, derived from dated tree-ring series.
+- [ITSMe](https://github.com/lmterryn/ITSMe) - Provide easy to use functions to quickly obtain structural metrics from individual tree point clouds and their respective quantitative structure models.
 
 ### Forest Observation and Management
 - [SEPAL](https://github.com/openforis/sepal) - Empowering people around the world to gain a better understanding of land cover dynamics in forest management by facilitating the efficient access and use of Earth observation data.
@@ -1330,6 +1334,7 @@ parameter values.
 - [echoSMs](https://github.com/ices-tools-dev/echoSMs) - Making acoustic scattering models available to fisheries and plankton scientists.
 - [icesSAG](https://github.com/ices-tools-prod/icesSAG) - Provides R functions that access the web services of the ICES Stock Assessment Graphs database to advance and share scientific understanding of marine ecosystems and the services they provide and to use this knowledge to generate state-of-the-art advice for meeting conservation, management, and sustainability goals. 
 - [frasyr](https://github.com/ichimomo/frasyr) - The Japanese Fisheries Research Agency provides the method for calculating sustainable yield with R.
+- [Pacific Salmon Explorer](https://github.com/salmonwatersheds/tech-report) - Methods for assessing status and trends in Pacific salmon Conservation Units and their freshwater habitats.
 
 ### Plants and Vegetation
 - [OpenPlantPathology](https://github.com/openplantpathology/OpenPlantPathology) - Open Plant Pathology is an initiative that supports and promotes the spread of all open, transparent and reproducible practices in the field of plant pathology.
@@ -1670,6 +1675,7 @@ parameter values.
 - [GroMoPo](https://github.com/Gromopo/GroMoPo) - Explore or share groundwater model data, knowledge, and insights through this unique portal of regional and global numerical groundwater models.
 - [Metocean-stats](https://github.com/MET-OM/metocean-stats) - A tool for comprehensive statistics and visualization of metocean data like wind, waves, ocean currents, tide levels, air and water temperature, sea ice, and more.
 - [hubeau](https://github.com/inrae/hubeau) - An R-package proposing a collection of function to help retrieve data from the French national databases on water.
+- [grundwasser-data](https://github.com/correctiv/grundwasser-data) - A Germany-wide analysis of groundwater levels between 1990 and 2021.
 
 ## Atmosphere
 ### Atmospheric Composition and Dynamics
@@ -1817,6 +1823,7 @@ parameter values.
 - [pyOSOAA](https://github.com/fnemina/pyOSOAA) - A python interface for the Ocean Successive Orders with Atmosphere radiative transfer.
 - [ECRAD](https://github.com/ecmwf-ifs/ecrad) - A radiation scheme suitable for use in atmospheric weather and climate models.
 - [RT1](https://github.com/TUW-GEO/rt1) - A first order radiative transfer model for soil- and vegetation related parameter retrievals from radar-data.
+- [WOUDC Data Registry](https://github.com/woudc/woudc-data-registry) - A platform that manages Ozone and Ultraviolet Radiation data in support of the World Ozone and Ultraviolet Radiation Data Centre (WOUDC), one of six World Data Centres as part of the Global Atmosphere Watch programme of the WMO.
 
 ## Climate Change
 ### Earth and Climate Modeling 
@@ -1939,7 +1946,8 @@ parameter values.
 - [climate-visuals](https://github.com/ed-hawkins/climate-visuals) - These graphics show different aspects of how the climate is changing.
 - [ColOpenData](https://github.com/epiverse-trace/ColOpenData) - A package that acquires and wrangles Colombian socioeconomic, geospatial and climate data.
 - [amadeus](https://github.com/NIEHS/amadeus) - A mechanism for data, environments, and user setup for common environmental and climate health datasets in R.
-- [HadCRUT5](https://github.com/madrisan/HadCRUT5) - Visualize the HadCRUT5 temperature, a gridded dataset of global historical surface temperature anomalies relative to a 1961-1990 reference period. 
+- [HadCRUT5](https://github.com/madrisan/HadCRUT5) - Visualize the HadCRUT5 temperature, a gridded dataset of global historical surface temperature anomalies relative to a 1961-1990 reference period.
+- [Climate Foresight](https://github.com/CliDyn/climsight) - A chatbot that answers questions about climate change impacts on planned human activities.
 
 ### Climate Data Processing and Analysis
 - [Iris](https://github.com/SciTools/iris) - A powerful, format-agnostic, community-driven Python package for analyzing and visualizing Earth science data.
@@ -2138,6 +2146,8 @@ parameter values.
 - [CanAirIO](https://github.com/kike-canaries/canairio_firmware) - A citizen science project using mobile and static sensors to measure air quality with cell phones and low-cost technology.
 - [NAPS Data Analysis Toolbox](https://github.com/dbeaudoinfortin/NAPSDataAnalysis) - Canada National Air Pollution Surveillance Program data downloader, importer, extractor, analysis, and visualization toolbox.
 - [AirBase](https://github.com/JohnPaton/airbase) - An easy downloader for air quality data provided by the European Environment Agency.
+- [Air Quality Forecast](https://github.com/atodorov284/air-quality-forecast) - This end-to-end machine learning collaboration project is used to predict ozone and nitrogen dioxide levels in Utrecht as a form of timeseries regression.
+
 
 ### Water Supply and Quality 
 - [Stormwater-Management-Model](https://github.com/USEPA/Stormwater-Management-Model) - Used for single event or long-term (continuous) simulation of runoff quantity and quality from primarily urban areas.
