@@ -2131,7 +2131,7 @@ parameter values.
 - [CanAirIO](https://github.com/kike-canaries/canairio_firmware) - A citizen science project using mobile and static sensors to measure air quality with cell phones and low-cost technology.
 - [NAPS Data Analysis Toolbox](https://github.com/dbeaudoinfortin/NAPSDataAnalysis) - Canada National Air Pollution Surveillance Program data downloader, importer, extractor, analysis, and visualization toolbox.
 - [AirBase](https://github.com/JohnPaton/airbase) - An easy downloader for air quality data provided by the European Environment Agency.
-- [Air Quality Forecast](https://github.com/atodorov284/air-quality-forecast) - This end-to-end machine learning collaboration project is used to predict ozone and nitrogen dioxide levels in Utrecht as a form of timeseries regression. It was developed in the course Machine Learning for Industry at the University of Groningen.
+- [Air Quality Forecast](https://github.com/atodorov284/air-quality-forecast) - This end-to-end machine learning collaboration project is used to predict ozone and nitrogen dioxide levels in Utrecht as a form of timeseries regression.
 
 
 ### Water Supply and Quality 
