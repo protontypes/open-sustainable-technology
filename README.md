@@ -178,6 +178,7 @@
 - [SimShady](https://github.com/open-pv/simshady) - Simulating Shadows for PV Potential Analysis on 3D Data in the Browser.
 - [InSPIRE](https://github.com/NREL/InSPIRE) - Here we will collect scripts, trainings, studies, and any other open-source material that can help further the understanding and research of agrivoltaics.
 - [twoaxistracking](https://github.com/pvlib/twoaxistracking) - A python package for simulating two-axis tracking solar collectors, particularly self-shading.
+- [ThermoPack](https://github.com/thermotools/thermopack) - A thermodynamic model library for fluid properties and Photovoltaic thermal hybrid solar collector calculations.
 
 ### Wind Energy
 - [DSWE](https://github.com/TAMU-AML/DSWE-Package) - An R implementation of various data science methods for wind energy (DSWE) applications, such as providing machine learning methods to accurately estimate the wind power curve.
