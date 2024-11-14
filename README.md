@@ -981,6 +981,7 @@ energy system designs and analysis of interactions between technologies.
 - [Kausal Paths](https://github.com/kausaltech/kausal-paths) - A tool for predicting the future emissions of cities based on historical emission data and various climate actions.
 - [GEPA](https://github.com/USEPA/GEPA) - This repository contains the code for the EPA U.S. gridded methane greenhouse gas inventory.
 - [reemission](https://github.com/tomjanus/reemission) - A Python library and a command line interface tool for estimating CO2, CH4 and N2O emissions from water reservoirs.
+- [Private Jet Flights](https://github.com/jorgecardleitao/private-jets) - Track and quantify emissions of private jets.
 
 ## Industrial Ecology
 ### Life Cycle Assessment
