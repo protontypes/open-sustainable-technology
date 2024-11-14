@@ -178,7 +178,6 @@
 - [SimShady](https://github.com/open-pv/simshady) - Simulating Shadows for PV Potential Analysis on 3D Data in the Browser.
 - [InSPIRE](https://github.com/NREL/InSPIRE) - Here we will collect scripts, trainings, studies, and any other open-source material that can help further the understanding and research of agrivoltaics.
 - [twoaxistracking](https://github.com/pvlib/twoaxistracking) - A python package for simulating two-axis tracking solar collectors, particularly self-shading.
-- [ThermoPack](https://github.com/thermotools/thermopack) - A thermodynamic model library for fluid properties and Photovoltaic thermal hybrid solar collector calculations.
 
 ### Wind Energy
 - [DSWE](https://github.com/TAMU-AML/DSWE-Package) - An R implementation of various data science methods for wind energy (DSWE) applications, such as providing machine learning methods to accurately estimate the wind power curve.
@@ -919,6 +918,7 @@ energy system designs and analysis of interactions between technologies.
 - [OpenIAM](https://gitlab.com/NRAP/OpenIAM) - An open source integrated assessment model developed by National Risk Assessment Partnership Phase II to facilitate risk assessment, management and containment assurance for geologic carbon sequestration projects.
 - [FOQUS](https://github.com/CCSI-Toolset/FOQUS) - Framework for Optimization and Quantification of Uncertainty and Surrogates.<!--lint ignore awesome-spell-check-->
 - [GEOS](https://github.com/GEOS-DEV/GEOS) - A simulation framework for modeling coupled flow, transport, and geomechanics in the subsurface.
+- [ThermoPack](https://github.com/thermotools/thermopack) - A thermodynamic model library for fluid properties and pressure-volume-temperature property calculations.
 
 ### Emission Observation and Modeling
 - [Carbon Mapper](https://carbonmapper.org/) - Accelerate local climate action globally by locating, quantifying and tracking methane leaks and CO2 point-sources from space.
