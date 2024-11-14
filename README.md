@@ -178,6 +178,7 @@
 - [SimShady](https://github.com/open-pv/simshady) - Simulating Shadows for PV Potential Analysis on 3D Data in the Browser.
 - [InSPIRE](https://github.com/NREL/InSPIRE) - Here we will collect scripts, trainings, studies, and any other open-source material that can help further the understanding and research of agrivoltaics.
 - [twoaxistracking](https://github.com/pvlib/twoaxistracking) - A python package for simulating two-axis tracking solar collectors, particularly self-shading.
+- [ThermoPack](https://github.com/thermotools/thermopack) - A thermodynamic model library for fluid properties and Photovoltaic thermal hybrid solar collector calculations.
 
 ### Wind Energy
 - [DSWE](https://github.com/TAMU-AML/DSWE-Package) - An R implementation of various data science methods for wind energy (DSWE) applications, such as providing machine learning methods to accurately estimate the wind power curve.
@@ -237,6 +238,7 @@
 - [Capytaine](https://github.com/capytaine/capytaine) - A Python package for the simulation of the interaction between water waves and floating bodies in frequency domain.
 - [DOLPHYN](https://github.com/macroenergy/Dolphyn.jl) - Evaluates investments and operations across the bulk supply chain for electricity and Hydrogen including production, storage, transmission, conditioning, and end-use consumption.
 - [ocp](https://github.com/Open-Catalyst-Project/ocp) - Use AI to model and discover new catalysts for use in renewable energy storage to help in addressing climate change.
+- [wmpy-power](https://github.com/9505-PNNL/wmpy_power) - A hydropower simulation model developed to support long-term planning and climate impacts studies. 
 
 ### Geothermal Energy
 - [pygfunction](https://github.com/MassimoCimmino/pygfunction) - An open source toolbox for the evaluation of thermal response factors of geothermal borehole fields.
@@ -979,7 +981,7 @@ energy system designs and analysis of interactions between technologies.
 - [Kausal Paths](https://github.com/kausaltech/kausal-paths) - A tool for predicting the future emissions of cities based on historical emission data and various climate actions.
 - [GEPA](https://github.com/USEPA/GEPA) - This repository contains the code for the EPA U.S. gridded methane greenhouse gas inventory.
 - [reemission](https://github.com/tomjanus/reemission) - A Python library and a command line interface tool for estimating CO2, CH4 and N2O emissions from water reservoirs.
-- [FHWA's DANA Tool](https://github.com/VolpeUSDOT/FHWA-DANATool) - The Database for Air Quality and Noise Analysis (DANA) Tool provides traffic-related inputs to the Motor Vehicle Emission Simulator (MOVES) vehicle emissions model and the Traffic Noise Model (TNM).
+- [Private Jet Flights](https://github.com/jorgecardleitao/private-jets) - Track and quantify emissions of private jets.
 
 ## Industrial Ecology
 ### Life Cycle Assessment
@@ -1334,7 +1336,10 @@ parameter values.
 - [echoSMs](https://github.com/ices-tools-dev/echoSMs) - Making acoustic scattering models available to fisheries and plankton scientists.
 - [icesSAG](https://github.com/ices-tools-prod/icesSAG) - Provides R functions that access the web services of the ICES Stock Assessment Graphs database to advance and share scientific understanding of marine ecosystems and the services they provide and to use this knowledge to generate state-of-the-art advice for meeting conservation, management, and sustainability goals. 
 - [frasyr](https://github.com/ichimomo/frasyr) - The Japanese Fisheries Research Agency provides the method for calculating sustainable yield with R.
+- [Ichthtyop](https://github.com/ichthyop/ichthyop) - A free Java tool designed to study the effects of physical and biological factors on ichthyoplankton dynamics.
+- [fathomnet-py](https://github.com/fathomnet/fathomnet-py) - An open-source image database that can be used to train, test, and validate state-of-the-art artificial intelligence algorithms to help us understand our ocean and its inhabitants.
 - [Pacific Salmon Explorer](https://github.com/salmonwatersheds/tech-report) - Methods for assessing status and trends in Pacific salmon Conservation Units and their freshwater habitats.
+
 
 ### Plants and Vegetation
 - [OpenPlantPathology](https://github.com/openplantpathology/OpenPlantPathology) - Open Plant Pathology is an initiative that supports and promotes the spread of all open, transparent and reproducible practices in the field of plant pathology.
@@ -1674,6 +1679,7 @@ parameter values.
 - [Ocean Data and Information System](https://github.com/iodepo/odis-arch) - The Ocean InfoHub facilitates access to global oceans information, data and knowledge products for management and sustainable development.
 - [GroMoPo](https://github.com/Gromopo/GroMoPo) - Explore or share groundwater model data, knowledge, and insights through this unique portal of regional and global numerical groundwater models.
 - [Metocean-stats](https://github.com/MET-OM/metocean-stats) - A tool for comprehensive statistics and visualization of metocean data like wind, waves, ocean currents, tide levels, air and water temperature, sea ice, and more.
+- [hubeau](https://github.com/inrae/hubeau) - An R-package proposing a collection of function to help retrieve data from the French national databases on water.
 - [grundwasser-data](https://github.com/correctiv/grundwasser-data) - A Germany-wide analysis of groundwater levels between 1990 and 2021.
 
 ## Atmosphere
@@ -1822,6 +1828,7 @@ parameter values.
 - [pyOSOAA](https://github.com/fnemina/pyOSOAA) - A python interface for the Ocean Successive Orders with Atmosphere radiative transfer.
 - [ECRAD](https://github.com/ecmwf-ifs/ecrad) - A radiation scheme suitable for use in atmospheric weather and climate models.
 - [RT1](https://github.com/TUW-GEO/rt1) - A first order radiative transfer model for soil- and vegetation related parameter retrievals from radar-data.
+- [WOUDC Data Registry](https://github.com/woudc/woudc-data-registry) - A platform that manages Ozone and Ultraviolet Radiation data in support of the World Ozone and Ultraviolet Radiation Data Centre (WOUDC), one of six World Data Centres as part of the Global Atmosphere Watch programme of the WMO.
 
 ## Climate Change
 ### Earth and Climate Modeling 
@@ -2014,6 +2021,7 @@ parameter values.
 - [ccviR](https://github.com/LandSciTech/ccviR) - A rapid assessment tool designed to allow a relative grouping of unrelated taxa by vulnerability to climate change and to highlight which factors contribute to the climate change vulnerability of individual species or groups of taxa.
 - [Climate Data Operators](https://code.mpimet.mpg.de/projects/cdo) - A collection of command line Operators to manipulate and analyse Climate and NWP model Data.
 - [index_calculator](https://github.com/climate-service-center/index_calculator) - Calculate climate indicators with standardized project-specific attributes.
+- [CLIVAR ENSO Metrics](https://github.com/CLIVAR-PRP/ENSO_metrics) - CLIVAR ENSO Metrics package proposes metric collections addressing science questions about the evaluation of El Niño-Southern Oscillation in climate models.
 
 ### Climate Downscaling
 - [ICAR](https://github.com/NCAR/icar) - A simplified atmospheric model designed primarily for climate downscaling, atmospheric sensitivity tests, and hopefully educational uses.
@@ -2145,6 +2153,7 @@ parameter values.
 - [NAPS Data Analysis Toolbox](https://github.com/dbeaudoinfortin/NAPSDataAnalysis) - Canada National Air Pollution Surveillance Program data downloader, importer, extractor, analysis, and visualization toolbox.
 - [AirBase](https://github.com/JohnPaton/airbase) - An easy downloader for air quality data provided by the European Environment Agency.
 - [Air Quality Forecast](https://github.com/atodorov284/air-quality-forecast) - This end-to-end machine learning collaboration project is used to predict ozone and nitrogen dioxide levels in Utrecht as a form of timeseries regression.
+- [FHWA's DANA Tool](https://github.com/VolpeUSDOT/FHWA-DANATool) - The Database for Air Quality and Noise Analysis (DANA) Tool provides traffic-related inputs to the Motor Vehicle Emission Simulator (MOVES) vehicle emissions model and the Traffic Noise Model (TNM).
 
 
 ### Water Supply and Quality 
