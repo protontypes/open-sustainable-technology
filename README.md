@@ -1335,6 +1335,7 @@ parameter values.
 - [echoSMs](https://github.com/ices-tools-dev/echoSMs) - Making acoustic scattering models available to fisheries and plankton scientists.
 - [icesSAG](https://github.com/ices-tools-prod/icesSAG) - Provides R functions that access the web services of the ICES Stock Assessment Graphs database to advance and share scientific understanding of marine ecosystems and the services they provide and to use this knowledge to generate state-of-the-art advice for meeting conservation, management, and sustainability goals. 
 - [frasyr](https://github.com/ichimomo/frasyr) - The Japanese Fisheries Research Agency provides the method for calculating sustainable yield with R.
+- [Ichthtyop](https://github.com/ichthyop/ichthyop) - A free Java tool designed to study the effects of physical and biological factors on ichthyoplankton dynamics.
 - [fathomnet-py](https://github.com/fathomnet/fathomnet-py) - An open-source image database that can be used to train, test, and validate state-of-the-art artificial intelligence algorithms to help us understand our ocean and its inhabitants.
 - [Pacific Salmon Explorer](https://github.com/salmonwatersheds/tech-report) - Methods for assessing status and trends in Pacific salmon Conservation Units and their freshwater habitats.
 
