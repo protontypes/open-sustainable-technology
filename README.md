@@ -2020,6 +2020,7 @@ parameter values.
 - [ccviR](https://github.com/LandSciTech/ccviR) - A rapid assessment tool designed to allow a relative grouping of unrelated taxa by vulnerability to climate change and to highlight which factors contribute to the climate change vulnerability of individual species or groups of taxa.
 - [Climate Data Operators](https://code.mpimet.mpg.de/projects/cdo) - A collection of command line Operators to manipulate and analyse Climate and NWP model Data.
 - [index_calculator](https://github.com/climate-service-center/index_calculator) - Calculate climate indicators with standardized project-specific attributes.
+- [CLIVAR ENSO Metrics](https://github.com/CLIVAR-PRP/ENSO_metrics) - CLIVAR ENSO Metrics package proposes metric collections addressing science questions about the evaluation of El Niño-Southern Oscillation in climate models.
 
 ### Climate Downscaling
 - [ICAR](https://github.com/NCAR/icar) - A simplified atmospheric model designed primarily for climate downscaling, atmospheric sensitivity tests, and hopefully educational uses.
