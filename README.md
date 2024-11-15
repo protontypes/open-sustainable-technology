@@ -1278,6 +1278,7 @@ parameter values.
 - [3DFin](https://github.com/3DFin/3DFin) - A free software for automatic computation of tree parameters in terrestrial point clouds.
 - [lasR](https://github.com/r-lidar/lasR) - Production of canopy height model, digital terrain model, tree detection and segmentation on large coverage.
 - [TreeCrownDelineation](https://github.com/AWF-GAUG/TreeCrownDelineation) - This package performs automatic delineation of individual tree crowns in remote sensing imagery.
+- [rTwig](https://github.com/aidanmorales/rTwig) - A method for correcting unrealistic cylinders in quantitative structure models (QSMs) due to technical limitations of current LiDAR sensor technology in forestry measurements.
 
 
 ### Marine Life and Fishery
