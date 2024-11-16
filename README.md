@@ -1560,6 +1560,7 @@ parameter values.
 - [tRIBS](https://github.com/tribshms/tRIBS) - The TIN-based Real-Time Integrated Basin Simulator is a fully-distributed, continuous hydrologic model operating on a Triangulated Irregular Network.
 - [BASINS](https://github.com/respec/BASINS) - Better Assessment Science Integrating Point and Nonpoint Sources is a multipurpose environmental analysis system designed to help regional, state, and local agencies perform watershed- and water quality-based studies.
 - [Niche Vlaanderen](https://github.com/inbo/niche_vlaanderen) - A hydro-ecological model that predicts the potential occurrence of (ground)water-dependent vegetation types in an area based on information about the (abiotic) site conditions.
+- [Amanzi](https://github.com/amanzi/amanzi) - Provides a flexible and extensible parallel flow and reactive transport simulation capability for environmental applications.
 
 ### Ocean Models
 - [MOM6](https://github.com/NOAA-GFDL/MOM6) - A numerical representation of the ocean fluid with applications from the process scale to the planetary circulation scale.
