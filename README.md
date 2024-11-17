@@ -455,6 +455,7 @@ energy system designs and analysis of interactions between technologies.
 - [GEEST](https://github.com/worldbank/GEEST) - Aims to propose a novel methodology and generate a geospatial open-source tool for mapping the enabling environments for women in a country that can inform new energy projects to support the advancement of women's economic empowerment in small island developing states while contributing to closing gender gaps in employment in the renewable energy sector.
 - [Annual Technology Baseline Calculators](https://github.com/NREL/ATB-calc) - To inform electric and transportation sector analysis in the United States, each year NREL provides a robust set of modeling input assumptions for energy technologies and a diverse set of potential electricity generation futures or modeling scenarios.
 - [ETLocal](https://github.com/quintel/etlocal) - Countries, provinces, municipalities, districts and neighborhoods have their own unique questions for their energy systems.
+- [RE4AFAGRI](https://github.com/iiasa/RE4AFAGRI_platform) - A multi-model framework to analyse deficits, requirements, and optimal solutions for integrated land-water-agriculture-energy-development nexus interlinkages in developing countries.
 
 ### Energy Policy
 - [Energy Policy Simulator](https://github.com/EnergyInnovation/eps-us) - The open-source United States Energy Policy Simulator estimates environmental and economic impacts of hundreds of climate and energy policies.
