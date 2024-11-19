@@ -792,6 +792,7 @@ energy system designs and analysis of interactions between technologies.
 - [impactco2](https://github.com/incubateur-ademe/impactco2) - Comparing the CO₂e consumption of various equivalent products.
 - [Power Monitor](https://github.com/SAP/power-monitoring-tool-for-macos) - An application that measures and reports the power consumption of a Mac, giving you real-time insight into your device's energy consumption and carbon footprint based on your location.
 - [Energy Efficiency in Programming Languages](https://github.com/nicovank/Energy-Languages) - Provides a benchmarking tool to measure energy efficiency across various programming languages using Docker.
+- [ALUMET](https://github.com/alumet-dev/alumet) - A modular tool that measures energy consumption and performance metrics of CPU and GPU.
 
 ### Agriculture and Nutrition
 - [Farmbot](https://github.com/FarmBot/Farmbot-Web-App) - Humanity's open-source CNC farming machine.
