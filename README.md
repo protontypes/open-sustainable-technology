@@ -792,6 +792,7 @@ energy system designs and analysis of interactions between technologies.
 - [impactco2](https://github.com/incubateur-ademe/impactco2) - Comparing the CO₂e consumption of various equivalent products.
 - [Power Monitor](https://github.com/SAP/power-monitoring-tool-for-macos) - An application that measures and reports the power consumption of a Mac, giving you real-time insight into your device's energy consumption and carbon footprint based on your location.
 - [Energy Efficiency in Programming Languages](https://github.com/nicovank/Energy-Languages) - Provides a benchmarking tool to measure energy efficiency across various programming languages using Docker.
+- [ALUMET](https://github.com/alumet-dev/alumet) - A modular tool that measures energy consumption and performance metrics of CPU and GPU.
 
 ### Agriculture and Nutrition
 - [Farmbot](https://github.com/FarmBot/Farmbot-Web-App) - Humanity's open-source CNC farming machine.
@@ -864,6 +865,8 @@ energy system designs and analysis of interactions between technologies.
 - [Petari](https://github.com/Sahil1786/Petari) - An initiative by an organization aiming to redistribute excess food from various events to those in need.
 - [Food Expiration Dates](https://github.com/lorenzovngl/FoodExpirationDates) - This simple app helps you avoid forgetting to consume foods that are about to expire.
 - [The Farmer Journal](https://github.com/usetania/tania-core) - A farm management software for the hobbyist and smallholder farmer.
+- [HarvestStat](https://github.com/HarvestStat/HarvestStat) - Contains cleaned and harmonized subnational global crop production data from various sources, including the Famine Early Warning Systems Network (FEWS NET) of the United States Agency for International Development (USAID) and the Food and Agriculture Organization (FAO).
+- [CSA Admin](https://github.com/csa-admin-org/csa-admin) - Offers you a wide range of features specifically developed for the needs of Community Supported Agriculture.
 
 ## Emissions
 ### Carbon Intensity and Accounting 
@@ -1183,6 +1186,7 @@ energy system designs and analysis of interactions between technologies.
 - [geohabnet](https://github.com/GarrettLab/HabitatConnectivity) - Enable users to visualise a habitat connectivity risk index for agriculture using their own 
 parameter values.
 - [Where to Work](https://github.com/NCC-CNC/wheretowork) - A web-based application for solving complex conservation scenarios using concepts of systematic conservation planning.
+- [SkyTruth 30x30 Tracker](https://github.com/Vizzuality/skytruth-30x30) - A compelling online experience that builds momentum towards meeting global biodiversity targets by unlocking opportunities for protecting the marine environment and forging connections with the wider 30x30 community.
 
 ### Deforestation and Reforestation
 - [Plant-for-the-Planet](https://github.com/Plant-for-the-Planet-org/planet-webapp) - Allows you to plant trees with over 100 reforestation projects around the world.
