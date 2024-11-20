@@ -455,6 +455,7 @@ energy system designs and analysis of interactions between technologies.
 - [GEEST](https://github.com/worldbank/GEEST) - Aims to propose a novel methodology and generate a geospatial open-source tool for mapping the enabling environments for women in a country that can inform new energy projects to support the advancement of women's economic empowerment in small island developing states while contributing to closing gender gaps in employment in the renewable energy sector.
 - [Annual Technology Baseline Calculators](https://github.com/NREL/ATB-calc) - To inform electric and transportation sector analysis in the United States, each year NREL provides a robust set of modeling input assumptions for energy technologies and a diverse set of potential electricity generation futures or modeling scenarios.
 - [ETLocal](https://github.com/quintel/etlocal) - Countries, provinces, municipalities, districts and neighborhoods have their own unique questions for their energy systems.
+- [RE4AFAGRI](https://github.com/iiasa/RE4AFAGRI_platform) - A multi-model framework to analyse deficits, requirements, and optimal solutions for integrated land-water-agriculture-energy-development nexus interlinkages in developing countries.
 
 ### Energy Policy
 - [Energy Policy Simulator](https://github.com/EnergyInnovation/eps-us) - The open-source United States Energy Policy Simulator estimates environmental and economic impacts of hundreds of climate and energy policies.
@@ -493,6 +494,7 @@ energy system designs and analysis of interactions between technologies.
 - [SmartGridToolbox](https://gitlab.com/SmartGridToolbox/SmartGridToolbox) - Designed to provide an extensible and flexible starting point for developing a wide variety of smart grid simulations and other applications.
 - [OSMoGrid](https://github.com/ie3-institute/OSMoGrid) - A java tool to generate life like electrical grid models based on publicly available data, mainly OpenStreetMap and a special focus on low voltage grids.
 - [Open Infrastructure Map](https://github.com/openinframap/openinframap) - A view of the world's energy and water infrastructure mapped in the OpenStreetMap database.
+- [MicroGridsPy](https://github.com/MicroGridsPy/MicroGridsPy) - Provide an open-source alternative to the problem of sizing and dispatch of energy in micro-grids in isolated places.
 
 ### Grid Management and Microgrid
 - [Open Smart Grid Platform](https://github.com/OSGP/open-smart-grid-platform) - An open, generic, scalable and independent 'Internet of Things' platform, which enables various connected smart objects in the public space to be easily controlled and monitored.
@@ -793,6 +795,7 @@ energy system designs and analysis of interactions between technologies.
 - [impactco2](https://github.com/incubateur-ademe/impactco2) - Comparing the CO₂e consumption of various equivalent products.
 - [Power Monitor](https://github.com/SAP/power-monitoring-tool-for-macos) - An application that measures and reports the power consumption of a Mac, giving you real-time insight into your device's energy consumption and carbon footprint based on your location.
 - [Energy Efficiency in Programming Languages](https://github.com/nicovank/Energy-Languages) - Provides a benchmarking tool to measure energy efficiency across various programming languages using Docker.
+- [ALUMET](https://github.com/alumet-dev/alumet) - A modular tool that measures energy consumption and performance metrics of CPU and GPU.
 
 ### Agriculture and Nutrition
 - [Farmbot](https://github.com/FarmBot/Farmbot-Web-App) - Humanity's open-source CNC farming machine.
@@ -864,6 +867,10 @@ energy system designs and analysis of interactions between technologies.
 - [AgML](https://github.com/BigDataWUR/AgML-crop-yield-forecasting) - Aspires to identify key research gaps and opportunities at the intersection of agricultural modelling and machine learning research and support enhanced collaboration and engagement between experts in these disciplines.
 - [Petari](https://github.com/Sahil1786/Petari) - An initiative by an organization aiming to redistribute excess food from various events to those in need.
 - [Food Expiration Dates](https://github.com/lorenzovngl/FoodExpirationDates) - This simple app helps you avoid forgetting to consume foods that are about to expire.
+- [The Farmer Journal](https://github.com/usetania/tania-core) - A farm management software for the hobbyist and smallholder farmer.
+- [HarvestStat](https://github.com/HarvestStat/HarvestStat) - Contains cleaned and harmonized subnational global crop production data from various sources, including the Famine Early Warning Systems Network (FEWS NET) of the United States Agency for International Development (USAID) and the Food and Agriculture Organization (FAO).
+- [CSA Admin](https://github.com/csa-admin-org/csa-admin) - Offers you a wide range of features specifically developed for the needs of Community Supported Agriculture.
+- [Land Griffon](https://github.com/Vizzuality/landgriffon) - Empowers companies to measure, manage, and transform agricultural supply chain impacts using an open scientific methodology.
 
 ## Emissions
 ### Carbon Intensity and Accounting 
@@ -1013,6 +1020,7 @@ energy system designs and analysis of interactions between technologies.
 - [saleos](https://github.com/Bonface-Osoro/saleos) - Sustainability Analytics for Low Earth Orbit Satellites.
 - [timex_lca](https://github.com/TimoDiepers/timex) - A python package for time-explicit Life Cycle Assessment that helps you assess the environmental impacts of products and processes over time.
 - [pulpo](https://github.com/flechtenberg/pulpo) - A python-based optimization tool for life cycle assessment (LCA) that aims to import, optimize, solve, retrieve, save, and summarize LCA results.
+- [pathways](https://github.com/polca/pathways) - A Python package that characterizes the environmental impacts of products, sectors or transition scenarios over time using Life Cycle Assessment. 
 
 ### Input Output Model
 - [MARIO](https://github.com/it-is-me-mario/MARIO) - Perform impact analysis using regional input-output tables and models.
@@ -1183,6 +1191,7 @@ energy system designs and analysis of interactions between technologies.
 - [geohabnet](https://github.com/GarrettLab/HabitatConnectivity) - Enable users to visualise a habitat connectivity risk index for agriculture using their own 
 parameter values.
 - [Where to Work](https://github.com/NCC-CNC/wheretowork) - A web-based application for solving complex conservation scenarios using concepts of systematic conservation planning.
+- [SkyTruth 30x30 Tracker](https://github.com/Vizzuality/skytruth-30x30) - A compelling online experience that builds momentum towards meeting global biodiversity targets by unlocking opportunities for protecting the marine environment and forging connections with the wider 30x30 community.
 
 ### Deforestation and Reforestation
 - [Plant-for-the-Planet](https://github.com/Plant-for-the-Planet-org/planet-webapp) - Allows you to plant trees with over 100 reforestation projects around the world.
@@ -1251,6 +1260,7 @@ parameter values.
 - [WeeForest](https://github.com/MNeverOff/wee-forest) - Aims to make the data about trees in Great Britain more accessible and understandable, whilst still maintaining good industry practices.
 - [forestdata](https://github.com/Cidree/forestdata) - An R package designed to provide users with easy access to various forestry and land use datasets.
 - [Netflora](https://github.com/NetFlora/Netflora) - The Netflora Project involves the application of geotechnologies in forest automation and carbon stock mapping in native forest areas in Western Amazonia.
+- [Castor](https://github.com/bcgov/castor) - A spatial, large-scale analytical model for simulating forest harvest and it's potential influence on other forest values (e.g., wildlife habitat).
 
 ### Forest Remote Sensing 
 - [treeseg](https://github.com/apburt/treeseg/) - Developed to near-automatically extract tree-level point clouds from high-density larger-area lidar point clouds acquired in forests.
@@ -1278,6 +1288,7 @@ parameter values.
 - [3DFin](https://github.com/3DFin/3DFin) - A free software for automatic computation of tree parameters in terrestrial point clouds.
 - [lasR](https://github.com/r-lidar/lasR) - Production of canopy height model, digital terrain model, tree detection and segmentation on large coverage.
 - [TreeCrownDelineation](https://github.com/AWF-GAUG/TreeCrownDelineation) - This package performs automatic delineation of individual tree crowns in remote sensing imagery.
+- [rTwig](https://github.com/aidanmorales/rTwig) - A method for correcting unrealistic cylinders in quantitative structure models (QSMs) due to technical limitations of current LiDAR sensor technology in forestry measurements.
 
 
 ### Marine Life and Fishery
