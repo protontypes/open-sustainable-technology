@@ -1258,6 +1258,7 @@ parameter values.
 - [WeeForest](https://github.com/MNeverOff/wee-forest) - Aims to make the data about trees in Great Britain more accessible and understandable, whilst still maintaining good industry practices.
 - [forestdata](https://github.com/Cidree/forestdata) - An R package designed to provide users with easy access to various forestry and land use datasets.
 - [Netflora](https://github.com/NetFlora/Netflora) - The Netflora Project involves the application of geotechnologies in forest automation and carbon stock mapping in native forest areas in Western Amazonia.
+- [Castor](https://github.com/bcgov/castor) - A spatial, large-scale analytical model for simulating forest harvest and it's potential influence on other forest values (e.g., wildlife habitat).
 
 ### Forest Remote Sensing 
 - [treeseg](https://github.com/apburt/treeseg/) - Developed to near-automatically extract tree-level point clouds from high-density larger-area lidar point clouds acquired in forests.
