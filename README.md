@@ -1416,6 +1416,8 @@ parameter values.
 - [ecoSecrets](https://github.com/naturalsolutions/ecoSecrets) - An open-source web application that aims to facilitate biodiversity studies that use autonomous data collection devices such as camera traps.
 - [WildlifeDatasets](https://github.com/WildlifeDatasets/wildlife-datasets) - Pipeline for wildlife re-identification including dataset zoo, training tools and trained models.
 - [rcites](https://github.com/ropensci/rcites) - An R package to access information from the Speciesplus database, a centralised portal to key information on species of global concern.
+- [shinyssdtools](https://github.com/bcgov/shinyssdtools) - A Shiny application for fitting species sensitivity distribution, a method for getting water quality benchmarks to characterize effects of chemical contaminants for water quality or ecological risk assessment.
+- [ssdtools](https://github.com/bcgov/ssdtools) - An R package to fit and plot Species Sensitivity Distributions, cumulative probability distributions which are fitted to toxicity concentrations for different specie.
  
 ### Wildfire
 - [wildfire forecasting](https://github.com/ECMWFCode4Earth/wildfire-forecasting) - The project intends to reproduce the Fire Forecasting capabilities of GEFF using Deep Learning and develop further improvements in accuracy, geography and time scale through inclusion of additional variables or optimization of model architecture and hyperparameters.
@@ -2256,7 +2258,6 @@ parameter values.
 - [PARETO](https://github.com/project-pareto/project-pareto) - An Optimization Framework for Produced Water Management and Beneficial Reuse.
 - [WSIMOD](https://github.com/ImperialCollegeLondon/wsi) - Provides a message passing interface to enable different subsystem models to communicate water flux and water quality information between each other, and self-contained representations of the key parts of the water cycle.
 - [ODM](https://github.com/Big-Life-Lab/PHES-ODM) - Aims to improve wastewater monitoring through interoperable data by providing robust support for reporting of biological, toxic or other health hazards.
-- [shinyssdtools](https://github.com/bcgov/shinyssdtools) - A Shiny application for fitting species sensitivity distribution, a method for getting water quality benchmarks to characterize effects of chemical contaminants for water quality or ecological risk assessment.
 - [wqbench](https://github.com/bcgov/wqbench) - Generate download and compile data from EPA ECOTOX database to generate aquatic life water quality benchmarks.
 - [Microplastic Data Portal](https://github.com/Moore-Institute-4-Plastic-Pollution-Res/Microplastic_Data_Portal) - An Open Source project to increase access to microplastics data.
 - [One4All](https://github.com/Moore-Institute-4-Plastic-Pollution-Res/One4All) - R package for data validation and visualization with a focus on microplastic data.
