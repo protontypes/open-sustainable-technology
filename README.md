@@ -990,6 +990,7 @@ energy system designs and analysis of interactions between technologies.
 - [GEPA](https://github.com/USEPA/GEPA) - This repository contains the code for the EPA U.S. gridded methane greenhouse gas inventory.
 - [reemission](https://github.com/tomjanus/reemission) - A Python library and a command line interface tool for estimating CO2, CH4 and N2O emissions from water reservoirs.
 - [Private Jet Flights](https://github.com/jorgecardleitao/private-jets) - Track and quantify emissions of private jets.
+- [Emiproc](https://github.com/C2SM-RCM/emiproc) - A Python package for generating emission input files from diverse inventories and grids, adaptable to various atmospheric transport models, including COSMO-ART and ICON-ART.
 
 ## Industrial Ecology
 ### Life Cycle Assessment
