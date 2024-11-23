@@ -990,6 +990,7 @@ energy system designs and analysis of interactions between technologies.
 - [GEPA](https://github.com/USEPA/GEPA) - This repository contains the code for the EPA U.S. gridded methane greenhouse gas inventory.
 - [reemission](https://github.com/tomjanus/reemission) - A Python library and a command line interface tool for estimating CO2, CH4 and N2O emissions from water reservoirs.
 - [Private Jet Flights](https://github.com/jorgecardleitao/private-jets) - Track and quantify emissions of private jets.
+- [Emiproc](https://github.com/C2SM-RCM/emiproc) - A Python package for generating emission input files from diverse inventories and grids, adaptable to various atmospheric transport models, including COSMO-ART and ICON-ART.
 
 ## Industrial Ecology
 ### Life Cycle Assessment
@@ -1020,7 +1021,8 @@ energy system designs and analysis of interactions between technologies.
 - [saleos](https://github.com/Bonface-Osoro/saleos) - Sustainability Analytics for Low Earth Orbit Satellites.
 - [timex_lca](https://github.com/TimoDiepers/timex) - A python package for time-explicit Life Cycle Assessment that helps you assess the environmental impacts of products and processes over time.
 - [pulpo](https://github.com/flechtenberg/pulpo) - A python-based optimization tool for life cycle assessment (LCA) that aims to import, optimize, solve, retrieve, save, and summarize LCA results.
-- [pathways](https://github.com/polca/pathways) - A Python package that characterizes the environmental impacts of products, sectors or transition scenarios over time using Life Cycle Assessment. 
+- [pathways](https://github.com/polca/pathways) - A Python package that characterizes the environmental impacts of products, sectors or transition scenarios over time using Life Cycle Assessment.
+- [LCA as Code](https://github.com/kleis-technology/lcaac) - A domain-specific language for life-cycle analysis experts.
 
 ### Input Output Model
 - [MARIO](https://github.com/it-is-me-mario/MARIO) - Perform impact analysis using regional input-output tables and models.
@@ -1399,6 +1401,8 @@ parameter values.
 - [ibis.iSDM](https://github.com/iiasa/ibis.iSDM) - Provides a series of convenience functions to fit integrated Species Distribution Models.
 - [stemflow](https://github.com/chenyangkang/stemflow) - A toolkit for Adaptive Spatio-Temporal Exploratory Model in Python using daily abundance estimation using eBird citizen science data.
 - [PointedSDMs](https://github.com/PhilipMostert/PointedSDMs) - Simplify the construction of integrated species distribution models (ISDMs) for large collections of heterogeneous data.
+- [shinyssdtools](https://github.com/bcgov/shinyssdtools) - A Shiny application for fitting species sensitivity distribution, a method for getting water quality benchmarks to characterize effects of chemical contaminants for water quality or ecological risk assessment.
+- [ssdtools](https://github.com/bcgov/ssdtools) - An R package to fit and plot Species Sensitivity Distributions, cumulative probability distributions which are fitted to toxicity concentrations for different specie.
 
 ### Terrestrial Wildlife
 - [Wildbook](https://github.com/WildMeOrg/Wildbook) - Blends structured wildlife research with artificial intelligence, citizen science, and computer vision to speed population analysis and develop new insights to help fight extinction.
@@ -1416,8 +1420,7 @@ parameter values.
 - [ecoSecrets](https://github.com/naturalsolutions/ecoSecrets) - An open-source web application that aims to facilitate biodiversity studies that use autonomous data collection devices such as camera traps.
 - [WildlifeDatasets](https://github.com/WildlifeDatasets/wildlife-datasets) - Pipeline for wildlife re-identification including dataset zoo, training tools and trained models.
 - [rcites](https://github.com/ropensci/rcites) - An R package to access information from the Speciesplus database, a centralised portal to key information on species of global concern.
-- [shinyssdtools](https://github.com/bcgov/shinyssdtools) - A Shiny application for fitting species sensitivity distribution, a method for getting water quality benchmarks to characterize effects of chemical contaminants for water quality or ecological risk assessment.
-- [ssdtools](https://github.com/bcgov/ssdtools) - An R package to fit and plot Species Sensitivity Distributions, cumulative probability distributions which are fitted to toxicity concentrations for different specie.
+- [Invasive Species BC](https://github.com/bcgov/invasivesbc) - Inventory and database repository for the creation, treatment, and report on BC Invasive plants and animals.
  
 ### Wildfire
 - [wildfire forecasting](https://github.com/ECMWFCode4Earth/wildfire-forecasting) - The project intends to reproduce the Fire Forecasting capabilities of GEFF using Deep Learning and develop further improvements in accuracy, geography and time scale through inclusion of additional variables or optimization of model architecture and hyperparameters.
