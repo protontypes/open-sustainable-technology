@@ -1402,7 +1402,7 @@ parameter values.
 - [stemflow](https://github.com/chenyangkang/stemflow) - A toolkit for Adaptive Spatio-Temporal Exploratory Model in Python using daily abundance estimation using eBird citizen science data.
 - [PointedSDMs](https://github.com/PhilipMostert/PointedSDMs) - Simplify the construction of integrated species distribution models (ISDMs) for large collections of heterogeneous data.
 - [shinyssdtools](https://github.com/bcgov/shinyssdtools) - A Shiny application for fitting species sensitivity distribution, a method for getting water quality benchmarks to characterize effects of chemical contaminants for water quality or ecological risk assessment.
-- [ssdtools](https://github.com/bcgov/ssdtools) - An R package to fit and plot Species Sensitivity Distributions, cumulative probability distributions which are fitted to toxicity concentrations for different specie.
+- [ssdtools](https://github.com/bcgov/ssdtools) - An R package to fit and plot Species Sensitivity Distributions, cumulative probability distributions which are fitted to toxicity concentrations for different species.
 
 ### Terrestrial Wildlife
 - [Wildbook](https://github.com/WildMeOrg/Wildbook) - Blends structured wildlife research with artificial intelligence, citizen science, and computer vision to speed population analysis and develop new insights to help fight extinction.
