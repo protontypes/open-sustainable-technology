@@ -871,6 +871,7 @@ energy system designs and analysis of interactions between technologies.
 - [HarvestStat](https://github.com/HarvestStat/HarvestStat) - Contains cleaned and harmonized subnational global crop production data from various sources, including the Famine Early Warning Systems Network (FEWS NET) of the United States Agency for International Development (USAID) and the Food and Agriculture Organization (FAO).
 - [CSA Admin](https://github.com/csa-admin-org/csa-admin) - Offers you a wide range of features specifically developed for the needs of Community Supported Agriculture.
 - [Land Griffon](https://github.com/Vizzuality/landgriffon) - Empowers companies to measure, manage, and transform agricultural supply chain impacts using an open scientific methodology.
+- [Fields of The World](https://github.com/fieldsoftheworld/ftw-baselines) -  A comprehensive benchmark dataset designed to enhance the development of machine learning models for instance segmentation of agricultural field boundaries.
 
 ## Emissions
 ### Carbon Intensity and Accounting 
