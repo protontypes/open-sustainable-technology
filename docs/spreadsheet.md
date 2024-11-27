@@ -8,7 +8,7 @@ hide:
 <style> .md-main__inner.md-grid { margin-top: 0 !important; } .md-typeset h1, .md-content__button { display: none; } </style>
 
 <iframe
-  src="https://docs.getgrist.com/gSscJkc5Rb1R/OpenSustaintech"
+  src="https://docs.getgrist.com/doc/gSscJkc5Rb1Rw45gh1o1Yc"
   class="iframestyle" 
   >
 </iframe>
