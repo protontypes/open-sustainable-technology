@@ -57,7 +57,7 @@ headers = {
 ECOSYSTEM_URL = "https://ost.ecosyste.ms/api/v1/projects?reviewed=true&per_page=3000"
 FILE_TO_SAVE_AS = "ecosystems_repository_downloads.json" # the name you want to save file as
 
-resp = requests.get(ECOSYSTEM_URL,timeout=30) # making requests to server. For running in GitHub long timeouts are needed. 
+resp = requests.get(ECOSYSTEM_URL,timeout=60) # making requests to server. For running in GitHub long timeouts are needed. 
 
 with open(FILE_TO_SAVE_AS, "wb") as f: # opening a file handler to create new file 
     f.write(resp.content) # writing content to file
