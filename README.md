@@ -2114,7 +2114,8 @@ parameter values.
 - [Climate Risk Assessment Book](https://github.com/CLIMAAX/crabook) - Guides you through your regional Climate Risk Assessments and provides you with tools and datasets for the assessment.
 - [FReDT](https://github.com/GeospatialResearch/Digital-Twins) - Provide a better understanding of the degree of impact flood events can have on physical assets like buildings, roads, railways, transmission lines, etc.
 - [SynxFlow](https://github.com/SynxFlow/SynxFlow) - Dynamically simulate flood inundation, landslides runout and debris flows using multiple CUDA-enabled GPUs.
-- [Humanitarian OpenStreetMap](https://github.com/hotosm/hotosm-website) -  Provide map data which revolutionises disaster management, reduces risks, and contributes to achievement of the Sustainable Development Goals.
+- [Humanitarian OpenStreetMap](https://github.com/hotosm/hotosm-website) - Provide map data which revolutionises disaster management, reduces risks, and contributes to achievement of the Sustainable Development Goals.
+- [FLEXTH](https://code.europa.eu/floods/floods-river/flexth) - Flood extent enhancement and water depth estimation tool for satellite-derived inundation maps
 
 ### Integrated Assessment and Climate Policy 
 - [PRIMAP2](https://github.com/pik-primap/primap2) - The next generation climate policy analysis suite.
@@ -2268,6 +2269,7 @@ parameter values.
 - [One4All](https://github.com/Moore-Institute-4-Plastic-Pollution-Res/One4All) - R package for data validation and visualization with a focus on microplastic data.
 - [gw-conditions](https://github.com/DOI-USGS/gw-conditions) - A visualization showing groundwater conditions as little peaks above or below their normal values.
 - [EPyT-Flow](https://github.com/WaterFutures/EPyT-Flow) - Provides easy access to water distribution network simulations with a high level interface for generation of hydraulic and water quality scenario data.
+- [LibreWater](https://codeberg.org/LibreWater/Acraea-Prototype) - a Small Scale Desalination and Water Purification Prototype that is powered by electric heating for scientific purpose and prototyping ahead according to the Libre Water Mission
 
 ### Soil and Land
 - [SoilGrids250m](https://github.com/ISRICWorldSoil/SoilGrids250m) - Global Spatial predictions of soil properties and classes at 250 m resolution.
