@@ -28,4 +28,5 @@ MANIFEST
 # Environments
 .env
 
-
+# Virtual environment
+.venv/
