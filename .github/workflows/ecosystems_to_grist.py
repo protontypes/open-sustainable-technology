@@ -5,6 +5,15 @@ import math
 from io import StringIO
 from urllib.parse import urlparse
 import argparse
+import logging
+
+# Set up logging
+logging.basicConfig(
+    level=logging.INFO,
+    format='%(asctime)s - %(levelname)s - %(message)s',
+    datefmt='%Y-%m-%d %H:%M:%S'
+)
+logger = logging.getLogger(__name__)
 
 # Instantiate the parser
 parser = argparse.ArgumentParser(description="Push metadata from ecosyste.ms to Grist")
@@ -31,10 +40,14 @@ column_types = {
     'license': 'Choice'
 }
 
+logger.info("Starting script execution")
+
 # Replace these with your values
 API_KEY = parser.parse_args().key
-DOC_ID = 'gSscJkc5Rb1Rw45gh1o1Yc' # The grist document ID
+DOC_ID = "gSscJkc5Rb1Rw45gh1o1Yc" # The grist document ID
 MAX_BYTES = 700_000
+
+logger.info(f"Using Grist document ID: {DOC_ID}")
 
 TABLE_NAME_PROJECTS = 'Projects'
 project_columns_to_create = []
@@ -48,38 +61,62 @@ org_records_url = f'https://api.getgrist.com/api/docs/{DOC_ID}/tables/{TABLE_NAM
 org_delete_url = f'https://api.getgrist.com/api/docs/{DOC_ID}/tables/{TABLE_NAME_ORGANIZATIONS}/data/delete'
 org_columns_url = f'https://api.getgrist.com/api/docs/{DOC_ID}/tables/{TABLE_NAME_ORGANIZATIONS}/columns'
 
+TABLE_NAME_FUNDING = "Funding"
+funding_columns_to_create = []
+funding_records_url = (
+    f"https://api.getgrist.com/api/docs/{DOC_ID}/tables/{TABLE_NAME_FUNDING}/records"
+)
+funding_delete_url = f"https://api.getgrist.com/api/docs/{DOC_ID}/tables/{TABLE_NAME_FUNDING}/data/delete"
+funding_columns_url = (
+    f"https://api.getgrist.com/api/docs/{DOC_ID}/tables/{TABLE_NAME_FUNDING}/columns"
+)
+
+
 # Headers for API request including the API_KEY
 headers = {
     'Authorization': f'Bearer {API_KEY}',
     'Content-Type': 'application/json'
 }
 
+logger.info("Fetching data from ecosyste.ms API")
+
 ECOSYSTEM_URL = "https://ost.ecosyste.ms/api/v1/projects?reviewed=true&per_page=3000"
 FILE_TO_SAVE_AS = "ecosystems_repository_downloads.json" # the name you want to save file as
 
-resp = requests.get(ECOSYSTEM_URL,timeout=60) # making requests to server. For running in GitHub long timeouts are needed. 
+resp = requests.get(ECOSYSTEM_URL,timeout=120) # making requests to server. For running in GitHub long timeouts are needed. 
+logger.info(f"Received response from ecosyste.ms API with status code: {resp.status_code}")
 
 with open(FILE_TO_SAVE_AS, "wb") as f: # opening a file handler to create new file 
     f.write(resp.content) # writing content to file
+logger.info(f"Saved ecosystem data to {FILE_TO_SAVE_AS}")
+
 df_ecosystems = pd.read_json(StringIO(resp.content.decode()))
+logger.info(f"Loaded {len(df_ecosystems)} projects from ecosyste.ms")
 
+# TESTING:
+# TEST_ENTRIES = 100
+# df_ecosystems = df_ecosystems.head(TEST_ENTRIES)
+# logger.info(f"Using first {TEST_ENTRIES} records for testing")
 
+logger.info("Fetching image data from ecosyste.ms API")
 
 ECOSYSTEM_URL_IMAGES = "https://ost.ecosyste.ms/api/v1/projects/images"
 FILE_TO_SAVE_AS_IMAGES = "ecosystems_images.json" # the name you want to save file as
 
 
 resp_images = requests.get(ECOSYSTEM_URL_IMAGES,timeout=30) # making requests to server
+logger.info(f"Received image data with status code: {resp_images.status_code}")
 
 with open(FILE_TO_SAVE_AS, "wb") as f: # opening a file handler to create new file 
     f.write(resp_images.content) # writing content to file
 df_ecosystems_images = pd.read_json(StringIO(resp_images.content.decode()))
-
+logger.info(f"Loaded {len(df_ecosystems_images)} image records")
 
 # manually created labels can be added to the ecosyste.ms data
-
+logger.info("Loading organization labels")
 CSV_org_labels = ".github/workflows/organizations_labeled.csv"
 df_org_labels = pd.read_csv(CSV_org_labels,header=0)
+logger.info(f"Loaded {len(df_org_labels)} organization labels")
 
 # define variables that are needed to extract nested data in the JSON
 stars = []
@@ -116,8 +153,12 @@ organization_sub_category = {}
 organization_namespace_url = []
 organization_projects = {}
 
+logger.info("Processing project and organization data")
 
 for index, row in df_ecosystems.iterrows():
+    if index % 100 == 0:  # Log progress every 100 records
+        logger.info(f"Processing record {index}")
+    
     if row['repository'] is not None:
         stars.append(row['repository']['stargazers_count'])
         license.append(row['repository']['license']) 
@@ -203,6 +244,7 @@ for index, row in df_ecosystems.iterrows():
             organization_funding_links.append(str(row['owner']['funding_links']))
             organization_namespace_url.append(str(row['owner']['html_url']))
 
+logger.info("Creating projects dataframe")
 df_grist_projects = pd.DataFrame()
 df_grist_projects['project_names'] = df_ecosystems['name'].astype(str)
 df_grist_projects['git_url'] = df_ecosystems['url'].astype(str)
@@ -234,7 +276,7 @@ df_grist_projects['platform'] = platform
 df_grist_projects['code_of_conduct'] = code_of_conduct
 df_grist_projects['contributing_guide'] = contributing
 
-
+logger.info("Merging image data with projects")
 df_ecosystems_images = df_ecosystems_images.drop(df_ecosystems_images.columns.difference(['url','readme_image_urls']), axis=1)
 df_ecosystems_images.rename(columns={"url": "git_url"},inplace=True)
 df_grist_projects = pd.merge(df_grist_projects, df_ecosystems_images, on='git_url', how='left')
@@ -242,6 +284,7 @@ df_grist_projects['readme_image_urls'] = df_grist_projects['readme_image_urls'].
 df_grist_projects['readme_image_urls'] = df_grist_projects['readme_image_urls'].str.slice(0, 300)
 df_grist_projects['readme_image_urls'] = df_grist_projects['readme_image_urls'].str.strip('[]')
 
+logger.info("Creating organizations dataframe")
 df_grist_organization = pd.DataFrame()
 df_grist_organization['organization_name'] = organization_name
 df_grist_organization['organization_user_name'] = organization_user_name
@@ -263,6 +306,7 @@ df_grist_organization['organization_funding_links'] = df_grist_organization['org
 df_grist_organization['organization_category'] = organization_category.values()
 df_grist_organization['organization_sub_category'] = organization_sub_category.values()
 
+logger.info("Merging organization labels")
 df_grist_organization = pd.merge(df_grist_organization, df_org_labels, on='organization_user_name', how='left')
 df_grist_organization['organization_website'] = df_grist_organization['organization_website_x'].where(df_grist_organization['organization_website_x'].notnull(), df_grist_organization['organization_website_y'])
 df_grist_organization = df_grist_organization.drop(['organization_website_x','organization_website_y','organization_namespace_url_y'],axis=1)
@@ -270,10 +314,52 @@ df_grist_organization.rename(columns={"organization_name_x": "organization_name"
 df_grist_organization.rename(columns={"organization_namespace_url_x": "organization_namespace_url"},inplace=True)
 df_grist_organization['organization_website'] = df_grist_organization['organization_website'].apply(lambda url: urlparse(f"http://{url}" if pd.notna(url) and '//' not in url else url).geturl() if pd.notna(url) and url != '' else url)
 
+logger.info("Saving updated organization labels")
 # Rewrite the csv file with the new organizations
 header = ["organization_user_name","organization_namespace_url","organization_website", "location_country", "form_of_organization"]
 df_grist_organization.to_csv(CSV_org_labels, columns = header, index=False)
 
+logger.info("Creating funding dataframe")
+# Create funding dataframe with only projects that have funding links
+df_grist_funding = pd.DataFrame()
+mask = df_grist_projects["funding_links"].str.len() > 0
+df_grist_funding["name"] = df_grist_projects.loc[mask, "project_names"]
+df_grist_funding["description"] = df_grist_projects.loc[mask, "description"]
+df_grist_funding["website"] = df_grist_projects.loc[mask, "git_url"]
+df_grist_funding["category"] = df_grist_projects.loc[mask, "category"]
+df_grist_funding["funding_links"] = df_grist_projects.loc[mask, "funding_links"]
+df_grist_funding["latest_commit_activity"] = df_grist_projects.loc[mask, "latest_commit_activity"]
+
+# Remove projects with no commit activity in the last 4 months
+df_grist_funding["latest_commit_activity"] = pd.to_datetime(df_grist_funding["latest_commit_activity"]).dt.tz_localize(None)
+four_months_ago = pd.Timestamp.now() - pd.DateOffset(months=4)
+df_grist_funding = df_grist_funding[df_grist_funding["latest_commit_activity"] >= four_months_ago]
+df_grist_funding.drop("latest_commit_activity",axis=1,inplace=True)
+
+# Remove projects we created
+df_grist_funding = df_grist_funding[df_grist_funding['name'] != 'Open Sustainable Technology']
+df_grist_funding = df_grist_funding[df_grist_funding['name'] != 'ClimateTriage']
+df_grist_funding = df_grist_funding[df_grist_funding['name'] != 'Continuous Reforestation']
+
+# In the beginning, we only support github and opencollective to keep the overheating on our side low. 
+df_grist_funding = df_grist_funding[df_grist_funding['funding_links'].str.contains('github|opencollective')]
+
+# Create funding dataframe with only organization that have funding links
+df_grist_funding_organization = pd.DataFrame()
+mask = df_grist_organization["organization_funding_links"].str.len() > 0
+
+df_grist_funding_organization["name"] = df_grist_organization.loc[mask, "organization_name"]
+df_grist_funding_organization["description"] = df_grist_organization.loc[mask, "organization_description"]
+df_grist_funding_organization["website"] = df_grist_organization.loc[mask, "organization_namespace_url"]
+df_grist_funding_organization["category"] = df_grist_organization.loc[mask, "organization_category"]
+df_grist_funding_organization["funding_links"] = df_grist_organization.loc[mask, "organization_funding_links"]
+df_grist_funding_organization = df_grist_funding_organization[df_grist_funding['name'] != 'protontypes']
+
+# In the beginning, we only support github and opencollective to keep the overheating on our side low. 
+df_grist_funding_organization = df_grist_funding_organization[df_grist_funding_organization['funding_links'].str.contains('github|opencollective')]
+
+# Append organization on projects to only provide one list for the user
+df_grist_funding = df_grist_funding.append(df_grist_funding_organization)
 
 def calculate_size_in_bytes(data):
     """
@@ -324,21 +410,25 @@ def handle_response(response):
     except requests.HTTPError as e:
         try:
             error_message = response.json()["error"]
-            print("\n\nERROR MESSAGE: ", error_message)
+            logger.error(f"API Error: {error_message}")
             raise requests.HTTPError(f"{e.response.status_code}: {error_message}")
         except (ValueError, KeyError):
+            logger.error(f"HTTP Error: {str(e)}")
             raise e
+
+logger.info("Starting upload to Grist")
 
 # Load and clean data
 df = df_grist_projects # Load data from CSV file
 df = df.where(pd.notna(df_grist_projects), None)  # Replace NaN values with None
 
 column_names = list(df.columns.values)
-print("Columns defined:",column_names)
+logger.info(f"Project columns defined: {column_names}")
 
 with requests.Session() as session:  # Using requests.Session for multiple requests
     session.headers.update(headers)  # Update session headers
 
+    logger.info("Deleting existing project records")
     # Get all rowIds and delete existing records
     response = handle_response(session.get(project_records_url))  # Handle response
     row_ids = [r["id"] for r in response.json()["records"]]  # Get row ids
@@ -346,16 +436,16 @@ with requests.Session() as session:  # Using requests.Session for multiple reque
 
     # Validate the response
     if response.status_code != 200:
-        print("Failed to delete existing records")
-        print(response.json())
+        logger.error("Failed to delete existing records")
+        logger.error(response.json())
         exit()
 
     response = handle_response(session.get(project_columns_url))  # Handle response
 
         # Validate the response
     if response.status_code != 200:
-        print("Failed to get existing columns")
-        print(response.json())
+        logger.error("Failed to get existing columns")
+        logger.error(response.json())
         exit()
 
     # Create a mapping from label to colRef (column ID)
@@ -365,7 +455,7 @@ with requests.Session() as session:  # Using requests.Session for multiple reque
 #   ## Check if all columns in dataframe exist in Grist table
     for col in column_names:
         if col not in column_mapping.keys():
-            print(f"Column '{col}' does not exist in Grist table. Creating new column")
+            logger.info(f"Column '{col}' does not exist in Grist table. Creating new column")
             project_columns_to_create.append(col)  # Remove non-existent columns
 
     if len(project_columns_to_create) > 0:
@@ -380,8 +470,8 @@ with requests.Session() as session:  # Using requests.Session for multiple reque
         response = handle_response(session.post(project_columns_url, json={'columns': columns_to_defined}))
     
         if response.status_code != 200:
-            print("Failed to create column")
-            print(response.json())
+            logger.error("Failed to create column")
+            logger.error(response.json())
             exit()
 
     data_list = df.to_dict(orient='records')  # Convert dataframe to list of dictionaries
@@ -396,22 +486,22 @@ with requests.Session() as session:  # Using requests.Session for multiple reque
 
     # Upload new data from the CSV in batches
     for batch in create_batched_requests_by_size(grist_data, MAX_BYTES):
-        #print(batch)
-        print(f"Adding {len(batch)} records")
+        logger.info(f"Adding {len(batch)} project records")
         response = handle_response(session.post(project_records_url, json={"records": batch}))  # Upload data
 
-print("Project Data uploaded successfully!")
+logger.info("Project Data uploaded successfully!")
 
-
+logger.info("Starting organization data upload")
 df = df_grist_organization # Load data from CSV file
 df = df.where(pd.notna(df_grist_organization), None)  # Replace NaN values with None
 
 column_names = list(df.columns.values)
-print("Columns defined:",column_names)
+logger.info(f"Organization columns defined: {column_names}")
 
 with requests.Session() as session:  # Using requests.Session for multiple requests
     session.headers.update(headers)  # Update session headers
 
+    logger.info("Deleting existing organization records")
     # Get all rowIds and delete existing records
     response = handle_response(session.get(org_records_url))  # Handle response
     row_ids = [r["id"] for r in response.json()["records"]]  # Get row ids
@@ -419,16 +509,16 @@ with requests.Session() as session:  # Using requests.Session for multiple reque
 
     # Validate the response
     if response.status_code != 200:
-        print("Failed to delete existing records")
-        print(response.json())
+        logger.error("Failed to delete existing records")
+        logger.error(response.json())
         exit()
 
     response = handle_response(session.get(org_columns_url))  # Handle response
 
         # Validate the response
     if response.status_code != 200:
-        print("Failed to get existing columns")
-        print(response.json())
+        logger.error("Failed to get existing columns")
+        logger.error(response.json())
         exit()
 
     # Create a mapping from label to colRef (column ID)
@@ -438,7 +528,7 @@ with requests.Session() as session:  # Using requests.Session for multiple reque
 #   ## Check if all columns in dataframe exist in Grist table
     for col in column_names:
         if col not in column_mapping.keys():
-            print(f"Column '{col}' does not exist in Grist table. Creating new column")
+            logger.info(f"Column '{col}' does not exist in Grist table. Creating new column")
             org_columns_to_create.append(col)  # Remove non-existent columns
 
     if len(org_columns_to_create) > 0:
@@ -453,8 +543,8 @@ with requests.Session() as session:  # Using requests.Session for multiple reque
         response = handle_response(session.post(org_columns_url, json={'columns': columns_to_defined}))
     
         if response.status_code != 200:
-            print("Failed to create column")
-            print(response.json())
+            logger.error("Failed to create column")
+            logger.error(response.json())
             exit()
 
     data_list = df.to_dict(orient='records')  # Convert dataframe to list of dictionaries
@@ -469,7 +559,82 @@ with requests.Session() as session:  # Using requests.Session for multiple reque
 
     # Upload new data from the CSV in batches
     for batch in create_batched_requests_by_size(grist_data, MAX_BYTES):
-        print(f"Adding {len(batch)} records")
+        logger.info(f"Adding {len(batch)} organization records")
         response = handle_response(session.post(org_records_url, json={"records": batch}))  # Upload data
 
-print("Organization Data uploaded successfully!")
+logger.info("Organization Data uploaded successfully!")
+
+logger.info("Starting funding data upload")
+# Create funding dataframe with only projects that have funding links
+df = df_grist_funding
+df = df.where(pd.notna(df_grist_funding), None)
+
+column_names = list(df.columns.values)
+logger.info(f"Funding columns defined: {column_names}")
+
+with requests.Session() as session:
+    session.headers.update(headers)
+
+    logger.info("Deleting existing funding records")
+    # Get all rowIds and delete existing records
+    response = handle_response(session.get(funding_records_url))
+    row_ids = [r["id"] for r in response.json()["records"]]
+    response = handle_response(session.post(funding_delete_url, json=row_ids))
+
+    if response.status_code != 200:
+        logger.error("Failed to delete existing records")
+        logger.error(response.json())
+        exit()
+
+    response = handle_response(session.get(funding_columns_url))
+
+    if response.status_code != 200:
+        logger.error("Failed to get existing columns")
+        logger.error(response.json())
+        exit()
+
+    columns_data = response.json()
+    column_mapping = {
+        col["fields"]["label"]: col["id"] for col in columns_data["columns"]
+    }
+
+    for col in column_names:
+        if col not in column_mapping.keys():
+            logger.info(f"Column '{col}' does not exist in Grist table. Creating new column")
+            funding_columns_to_create.append(col)
+
+    if len(funding_columns_to_create) > 0:
+        columns_to_defined = [
+            {
+                "id": column_name.replace(" ", "_").lower(),
+                "label": column_name,
+                "type": column_types.get(column_name, "Text"),
+            }
+            for column_name in funding_columns_to_create
+        ]
+        response = handle_response(
+            session.post(funding_columns_url, json={"columns": columns_to_defined})
+        )
+
+        if response.status_code != 200:
+            logger.error("Failed to create column")
+            logger.error(response.json())
+            exit()
+
+    data_list = df.to_dict(orient="records")
+
+    for record in data_list:
+        for key, value in record.items():
+            if isinstance(value, float) and math.isnan(value):
+                record[key] = None
+
+    grist_data = [{"fields": record} for record in data_list]
+
+    for batch in create_batched_requests_by_size(grist_data, MAX_BYTES):
+        logger.info(f"Adding {len(batch)} funding records")
+        response = handle_response(
+            session.post(funding_records_url, json={"records": batch})
+        )
+
+logger.info("Funding Data uploaded successfully!")
+logger.info("Script completed successfully!")
