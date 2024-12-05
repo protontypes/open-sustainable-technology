@@ -1,0 +1,19 @@
+{% extends "base.html" %}
+
+{% block extrahead %}
+  {{ super() }}
+  {% if config.extra.analytics.production_url in config.site_url %}
+    <script defer src="https://cloud.umami.is/script.js" data-website-id="6c3cf2c8-549d-4add-b7dc-5f25fd17c90b"></script>
+  {% endif %}
+{% endblock %}
+
+{% block announce %}
+<a href="https://opencollective.com/open-sustainable-technology">
+  <div style="color:#009485">
+    <strong> Help us to sponsor <font color="#f77700">our next report</font> </strong>
+    <span class="twemoji seedling" style="color:#009485">
+      {% include ".icons/fontawesome/solid/seedling.svg" %}
+    </span>
+  </div>
+</a>
+{% endblock %}
