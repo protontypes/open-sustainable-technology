@@ -323,13 +323,43 @@ logger.info("Creating funding dataframe")
 # Create funding dataframe with only projects that have funding links
 df_grist_funding = pd.DataFrame()
 mask = df_grist_projects["funding_links"].str.len() > 0
-df_grist_funding["project_name"] = df_grist_projects.loc[mask, "project_names"]
+df_grist_funding["name"] = df_grist_projects.loc[mask, "project_names"]
 df_grist_funding["description"] = df_grist_projects.loc[mask, "description"]
-df_grist_funding["git_url"] = df_grist_projects.loc[mask, "git_url"]
+df_grist_funding["website"] = df_grist_projects.loc[mask, "git_url"]
 df_grist_funding["category"] = df_grist_projects.loc[mask, "category"]
-df_grist_funding["stars"] = df_grist_projects.loc[mask, "stars"]
 df_grist_funding["funding_links"] = df_grist_projects.loc[mask, "funding_links"]
+df_grist_funding["latest_commit_activity"] = df_grist_projects.loc[mask, "latest_commit_activity"]
 
+# Remove projects with no commit activity in the last 4 months
+df_grist_funding["latest_commit_activity"] = pd.to_datetime(df_grist_funding["latest_commit_activity"]).dt.tz_localize(None)
+four_months_ago = pd.Timestamp.now() - pd.DateOffset(months=4)
+df_grist_funding = df_grist_funding[df_grist_funding["latest_commit_activity"] >= four_months_ago]
+df_grist_funding.drop("latest_commit_activity",axis=1,inplace=True)
+
+# Remove projects we created
+df_grist_funding = df_grist_funding[df_grist_funding['name'] != 'Open Sustainable Technology']
+df_grist_funding = df_grist_funding[df_grist_funding['name'] != 'ClimateTriage']
+df_grist_funding = df_grist_funding[df_grist_funding['name'] != 'Continuous Reforestation']
+
+# In the beginning, we only support github and opencollective to keep the overheating on our side low. 
+df_grist_funding = df_grist_funding[df_grist_funding['funding_links'].str.contains('github|opencollective')]
+
+# Create funding dataframe with only organization that have funding links
+df_grist_funding_organization = pd.DataFrame()
+mask = df_grist_organization["organization_funding_links"].str.len() > 0
+
+df_grist_funding_organization["name"] = df_grist_organization.loc[mask, "organization_name"]
+df_grist_funding_organization["description"] = df_grist_organization.loc[mask, "organization_description"]
+df_grist_funding_organization["website"] = df_grist_organization.loc[mask, "organization_namespace_url"]
+df_grist_funding_organization["category"] = df_grist_organization.loc[mask, "organization_category"]
+df_grist_funding_organization["funding_links"] = df_grist_organization.loc[mask, "organization_funding_links"]
+df_grist_funding_organization = df_grist_funding_organization[df_grist_funding['name'] != 'protontypes']
+
+# In the beginning, we only support github and opencollective to keep the overheating on our side low. 
+df_grist_funding_organization = df_grist_funding_organization[df_grist_funding_organization['funding_links'].str.contains('github|opencollective')]
+
+# Append organization on projects to only provide one list for the user
+df_grist_funding = df_grist_funding.append(df_grist_funding_organization)
 
 def calculate_size_in_bytes(data):
     """
