@@ -1977,6 +1977,7 @@ parameter values.
 - [amadeus](https://github.com/NIEHS/amadeus) - A mechanism for data, environments, and user setup for common environmental and climate health datasets in R.
 - [HadCRUT5](https://github.com/madrisan/HadCRUT5) - Visualize the HadCRUT5 temperature, a gridded dataset of global historical surface temperature anomalies relative to a 1961-1990 reference period.
 - [Climate Foresight](https://github.com/CliDyn/climsight) - A chatbot that answers questions about climate change impacts on planned human activities.
+- [urban-heat](https://github.com/damienallen/urban-heat) - Interactive urban heat island effect visualizations for European cities.
 
 ### Climate Data Processing and Analysis
 - [Iris](https://github.com/SciTools/iris) - A powerful, format-agnostic, community-driven Python package for analyzing and visualizing Earth science data.
