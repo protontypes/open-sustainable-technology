@@ -24,3 +24,11 @@ jobs:
             access-token: ${{ secrets.MASTODON_ACCESS_TOKEN }} # access token
             url: ${{ secrets.MASTODON_URL }} # https://example.social
             message: ${{ env.toot_message }}
+
+      - name: Send post to Bluesky
+        id: bluesky_post
+        uses: cbrgm/bluesky-github-action@v1
+        with:
+            handle: "@opensustaintech.bsky.social" # Your handle (example: username.bsky.social)
+            password: ${{ secrets.BLUESKY_PASSWORD }} # Your password
+            text: ${{ env.toot_message }}
