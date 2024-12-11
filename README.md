@@ -1160,6 +1160,7 @@ energy system designs and analysis of interactions between technologies.
 - [rotl](https://github.com/ropensci/rotl) - An R package to interact with the Open Tree of Life data APIs.
 - [rvertnet](https://github.com/ropensci/rvertnet) - An R Wrapper to the VertNet API, a collaborative project that makes biodiversity data free and available on the web.
 - [BioCLIP](https://github.com/Imageomics/bioclip) - A foundation model for the tree of life, leveraging the unique properties of biology captured by TreeOfLife-10M, namely the abundance and variety of images of plants, animals, and fungi, together with the availability of rich structured biological knowledge.
+- [pybioclip](https://github.com/Imageomics/pybioclip) - Python package that simplifies using the BioCLIP foundation model.
 - [OpenDataBio](https://gitlab.com/opendatabio/opendatabio) - A system for storing and retrieving biological data - floristics, ecology and monitoring.
 - [traits](https://github.com/ropensci/traits) - R package for accessing species trait data from multiple databases.
 - [GFBio Data Submission and Brokerage System](https://github.com/gfbio/gfbio-data-submission) - Provides the central entry point for the submission services provided by GFBio e.V. for the long-term data archival and publication of biodiversity, ecology and environmental science data.
