@@ -1708,6 +1708,7 @@ parameter values.
 - [Metocean-stats](https://github.com/MET-OM/metocean-stats) - A tool for comprehensive statistics and visualization of metocean data like wind, waves, ocean currents, tide levels, air and water temperature, sea ice, and more.
 - [hubeau](https://github.com/inrae/hubeau) - An R-package proposing a collection of function to help retrieve data from the French national databases on water.
 - [grundwasser-data](https://github.com/correctiv/grundwasser-data) - A Germany-wide analysis of groundwater levels between 1990 and 2021.
+- [Enhydris](https://github.com/openmeteo/enhydris) - A system for the storage and management of hydrological and meteorological time series.
 
 ## Atmosphere
 ### Atmospheric Composition and Dynamics
