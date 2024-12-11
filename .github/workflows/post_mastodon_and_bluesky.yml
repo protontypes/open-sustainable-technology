@@ -3,7 +3,7 @@ name: Send URLs from Commit Message as Mastodon
 on:
   push:
     branches:
-      - integrate_bluesky
+      - main
 jobs:
   toot:
     runs-on: ubuntu-latest
