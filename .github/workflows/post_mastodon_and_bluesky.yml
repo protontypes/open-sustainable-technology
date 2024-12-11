@@ -16,7 +16,7 @@ jobs:
               echo -e "${{ github.event.head_commit.message }}" >> toot
               toot_message="$(cat toot | grep -m 1 https*)"$default_hashtags
               echo "toot_message=$toot_message" >> $GITHUB_ENV
-              URL_git=$(echo ${{ github.event.head_commit.message }} | grep -o 'https://[a-zA-Z0-9./?=_-]\+')
+              URL_git="$(echo ${{ github.event.head_commit.message }} | grep -o 'https://[a-zA-Z0-9./?=_-]\+')"
               echo "URL_git=$URL_git" >> $GITHUB_ENV
       
       - name: Send toot to Mastodon
