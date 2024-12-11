@@ -1167,6 +1167,7 @@ energy system designs and analysis of interactions between technologies.
 - [traits](https://github.com/ropensci/traits) - R package for accessing species trait data from multiple databases.
 - [GFBio Data Submission and Brokerage System](https://github.com/gfbio/gfbio-data-submission) - Provides the central entry point for the submission services provided by GFBio e.V. for the long-term data archival and publication of biodiversity, ecology and environmental science data.
 - [Open Tree of Life](https://github.com/OpenTreeOfLife/opentree) - Constructs a comprehensive, dynamic and digitally-available tree of life by synthesizing published phylogenetic trees along with taxonomic data.
+- [BIOSCAN-5M](https://github.com/bioscan-ml/BIOSCAN-5M) - A comprehensive multi-modal dataset comprised of over 5 million specimens, 98% of which are insects.
 
 ### Biodiversity Data Cleaning and Standardization
 - [BIRDS](https://github.com/GreenswayAB/BIRDS) - This set of tools has been developed for systematizing biodiversity data review in order to evaluate whether a set of species observation are fit-for-use and help take decisions upon its use on further analysis.
