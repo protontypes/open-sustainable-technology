@@ -1024,6 +1024,7 @@ energy system designs and analysis of interactions between technologies.
 - [pulpo](https://github.com/flechtenberg/pulpo) - A python-based optimization tool for life cycle assessment (LCA) that aims to import, optimize, solve, retrieve, save, and summarize LCA results.
 - [pathways](https://github.com/polca/pathways) - A Python package that characterizes the environmental impacts of products, sectors or transition scenarios over time using Life Cycle Assessment.
 - [LCA as Code](https://github.com/kleis-technology/lcaac) - A domain-specific language for life-cycle analysis experts.
+- [LCIA](https://github.com/ecoinvent/lcia) - Contains important files from the ecoinvent Life Cycle Impact Assessment method implementation procedure for ecoinvent.
 
 ### Input Output Model
 - [MARIO](https://github.com/it-is-me-mario/MARIO) - Perform impact analysis using regional input-output tables and models.
