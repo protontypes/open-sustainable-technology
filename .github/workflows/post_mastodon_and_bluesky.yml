@@ -3,7 +3,7 @@ name: Send URLs from Commit Message as Mastodon
 on:
   push:
     branches:
-      - main
+      - integrate_bluesky
 jobs:
   toot:
     runs-on: ubuntu-latest
@@ -16,6 +16,8 @@ jobs:
               echo -e "${{ github.event.head_commit.message }}" >> toot
               toot_message="$(cat toot | grep -m 1 https*)"$default_hashtags
               echo "toot_message=$toot_message" >> $GITHUB_ENV
+              URL_git=$(echo "$COMMIT_MESSAGE" | grep -o 'https://[a-zA-Z0-9./?=_-]\+')
+              echo "URL_git=$URL_git" >> $GITHUB_ENV
       
       - name: Send toot to Mastodon
         id: mastodon
@@ -24,11 +26,12 @@ jobs:
             access-token: ${{ secrets.MASTODON_ACCESS_TOKEN }} # access token
             url: ${{ secrets.MASTODON_URL }} # https://example.social
             message: ${{ env.toot_message }}
-
+            
       - name: Send post to Bluesky
         id: bluesky_post
-        uses: cbrgm/bluesky-github-action@v1
+        uses: myConsciousness/bluesky-post@v5
         with:
-            handle: "opensustaintech.bsky.social" # Your handle (example: username.bsky.social)
-            password: ${{ secrets.BLUESKY_PASSWORD }} # Your password
-            text: ${{ env.toot_message }}
+          text: ${{ env.toot_message }}
+          link-preview-url: ${{ env.URL_git }}
+          identifier: "opensustaintech.bsky.social"
+          password: ${{ secrets.BLUESKY_PASSWORD }}
