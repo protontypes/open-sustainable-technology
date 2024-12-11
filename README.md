@@ -2583,6 +2583,7 @@ parameter values.
 - [ingestr](https://github.com/geco-bern/ingestr/) - Provides functions to extract environmental point data from large global files or remote data servers and create time series at user-specified temporal resolution.
 - [GitHub's Green Software Directory](https://github.com/github/GreenSoftwareDirectory) - A simple and easy-to-use resource that all developers can use to adopt green software tools.
 - [OpenForest](https://github.com/RolnickLab/OpenForest) - An initiative to centralize open access forest monitoring datasets.
+- [Awesome Green AI](https://github.com/samuelrince/awesome-green-ai) - A curated list of awesome Green AI resources and tools to reduce the environmental impacts of using and deploying AI.
 
 
 ## Contributors
