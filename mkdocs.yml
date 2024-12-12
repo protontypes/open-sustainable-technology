@@ -12,6 +12,7 @@ nav:
   - Contribute: contributing.md
   - Blog:
       2024:
+        - "Lunching OpenClimate.fund" : blog/openclimatefund.md
         - "Closing the Gap: Accelerating environmental Open Source" : blog/closing-the-gap.md
         - "Sustain Open Source, Sustain the Planet: A new conversation" : blog/sustain-open-source.md
       2023: 
@@ -28,6 +29,8 @@ nav:
   - Report: "https://report.opensustain.tech/"
   - Podcast: "https://ossforclimate.sustainoss.org/"
   - ClimateTriage: "https://climatetriage.com/"
+  - OpenClimate.fund: "https://openclimate.fund/"
+  - Presentations: "presentations.md"
 
 
 theme:

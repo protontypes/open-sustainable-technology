@@ -1,8 +1,12 @@
-**Insert URLs to the project here:** 
+**Insert URL to the project you want to be reviewed here:** 
 
-- [ ] The projects is active, documented, open source licensed, shows usage from external parties and is directly targeting environmental sustainability. Find more details in the [Contribution Guide](https://opensustain.tech/contributing/).
+- [ ] The project is active, documented, open source licensed, shows usage from external parties and is directly targeting environmental sustainability. Find more details in the [Contribution Guide](https://opensustain.tech/contributing/).
 
-_All issues labeled as **Good First Issue** of the project listed on [OpenSustain.tech](https://opensustain.tech/) will be visible on [ClimateTriage.com](https://climatetriage.com/). This is a great way to welcome new community members to your project._
+All listed projects on [OpenSustain.tech](https://opensustain.tech/) will be supported via multiple community services:
 
-All new projects listed will be posted on our [Mastodon channel](https://mastodon.social/@opensustaintech). 
+1. Issues labeled as **Good First Issue** will be visible on [ClimateTriage.com](https://climatetriage.com/). This is a great way to welcome new community members to your project.
+2. All new projects listed will be posted on our [Mastodon](https://mastodon.social/@opensustaintech) and [Bluesky](https://bsky.app/profile/opensustaintech.bsky.social) channel. 
+3. Listed project that provide donation option via Open Source Collective or GitHub Sponsors can by nominated via [OpenClimate.fund](https://openclimate.fund/). All project currently supported can be found [here](https://opensustain.tech/spreadsheet/).
+
+**Insert an project you want to nominate for a micro grant here:**  
 

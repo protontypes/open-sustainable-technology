@@ -3,7 +3,7 @@ name: Update Grist Spreedsheets with metadata from ecosyste.ms
 on:
   schedule:
     # Run at 00:00 UTC every Monday
-    - cron: '0 0 * * 1'
+    - cron: '0 0 * * *'
 
 #on:
 #  push:
