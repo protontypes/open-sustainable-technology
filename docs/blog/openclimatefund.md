@@ -1,7 +1,7 @@
 # Empowering Community-Driven Funding with OpenClimate.fund
 
 __Tobias Augspurger__  [:fontawesome-brands-linkedin:](https://www.linkedin.com/in/tobias-augspurger/) · __Michael Scheiwiller__  [:fontawesome-brands-linkedin:](https://www.linkedin.com/in/michael-scheiwiller-72086a1a0/) · __Andrew Nesbitt__  [:fontawesome-brands-mastodon:](https://mastodon.social/@andrewnez) · __Richard Littauer__ [:fontawesome-brands-linkedin:](https://www.linkedin.com/in/richard-littauer-130026138/) · __Benjamin Nickolls__ [:fontawesome-brands-linkedin:](https://www.linkedin.com/in/benjamuk/)  
-:octicons-calendar-24: October 20, 2024
+:octicons-calendar-24: December 20, 2024
 
 ---
 
