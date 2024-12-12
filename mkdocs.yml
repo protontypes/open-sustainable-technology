@@ -10,6 +10,7 @@ nav:
   - Spreadsheet: spreadsheet.md
   - Education: education.md
   - Contribute: contributing.md
+  - Presentations: "presentations.md"
   - Blog:
       2024:
         - "Lunching OpenClimate.fund" : blog/openclimatefund.md
@@ -30,7 +31,6 @@ nav:
   - Podcast: "https://ossforclimate.sustainoss.org/"
   - ClimateTriage: "https://climatetriage.com/"
   - OpenClimate.fund: "https://openclimate.fund/"
-  - Presentations: "presentations.md"
 
 
 theme:
