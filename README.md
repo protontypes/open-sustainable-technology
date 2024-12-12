@@ -873,7 +873,7 @@ energy system designs and analysis of interactions between technologies.
 - [CSA Admin](https://github.com/csa-admin-org/csa-admin) - Offers you a wide range of features specifically developed for the needs of Community Supported Agriculture.
 - [Land Griffon](https://github.com/Vizzuality/landgriffon) - Empowers companies to measure, manage, and transform agricultural supply chain impacts using an open scientific methodology.
 - [Fields of The World](https://github.com/fieldsoftheworld/ftw-baselines) -  A comprehensive benchmark dataset designed to enhance the development of machine learning models for instance segmentation of agricultural field boundaries.
-- [EuroCropsML](https://github.com/dida-do/eurocropsml) -  is a pre-processed and ready-to-use machine learning dataset for crop type classification of agricultural parcels in Europe.
+- [EuroCropsML](https://github.com/dida-do/eurocropsml) - A pre-processed and ready-to-use machine learning dataset for crop type classification of agricultural parcels in Europe.
 
 ## Emissions
 ### Carbon Intensity and Accounting 
