@@ -22,15 +22,17 @@ If you just want to give a hint about a missing project, send an email at [tobia
 ## Contribute to the List  
 * Create a fork of this project.
 * Add your project in the following format:              
- ``- [Project Name](Project URL) - A sentence that describes your project and what makes it different from others.``     
-* Describe in at least one sentence why you think the project meets the guidelines.    
+ ``- [Project Name](Project URL) - A sentence that describes your project and what makes it different from others.``        
 * If available, use the Git link to the central repository of your project. This makes it easier for developers and maintainers to review the project faster.    
 * Create a pull request and wait for the reaction of the maintainer. 
 
-Further details on how do `Pull Requests` can be found in the official GitHub [documentation](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
+More details on how to do pull requests can be found in the official GitHub [documentation](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
 
 ## The Project Does Not Yet Meet the Criteria, What Now?
 If your project doesn't meet the community, documentation, or usage criteria because it's in its early stages, don't hesitate to create a pull request. We will label the pull request "Under Observation" so that we can review it later. If you wish, we can use our social media channels to help you find contributing communities and users. 
+
+## Post new entries on social media
+To simply follow new project that have been reviewed successfully, the commit message of the merge will be posted on our [Mastodon](https://mastodon.social/@opensustaintech) and [Bluesky](https://bsky.app/profile/opensustaintech.bsky.social) channel. To trigger the posting via GitHub Action, the reviewer of the project needs to add a short sentence describing your project and the full URL of your repository to the description of the merge commit. 
 
 ## Join the Community
 We welcome developers, scientists, artists, writers, journalists, entrepreneurs, and citizens alike. Join our regular community calls to learn more about how you can make a difference through open source action on climate and sustainability.
