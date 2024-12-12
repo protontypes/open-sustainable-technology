@@ -353,13 +353,15 @@ df_grist_funding_organization["description"] = df_grist_organization.loc[mask, "
 df_grist_funding_organization["website"] = df_grist_organization.loc[mask, "organization_namespace_url"]
 df_grist_funding_organization["category"] = df_grist_organization.loc[mask, "organization_category"]
 df_grist_funding_organization["funding_links"] = df_grist_organization.loc[mask, "organization_funding_links"]
-df_grist_funding_organization = df_grist_funding_organization[df_grist_funding['name'] != 'protontypes']
+df_grist_funding_organization = df_grist_funding_organization[df_grist_funding_organization['name'] != 'protontypes']
 
 # In the beginning, we only support github and opencollective to keep the overheating on our side low. 
 df_grist_funding_organization = df_grist_funding_organization[df_grist_funding_organization['funding_links'].str.contains('github|opencollective')]
 
 # Append organization on projects to only provide one list for the user
 df_grist_funding = df_grist_funding.append(df_grist_funding_organization)
+
+df_grist_funding = df_grist_funding.sample(frac = 1).reset_index(drop=True)
 
 def calculate_size_in_bytes(data):
     """
