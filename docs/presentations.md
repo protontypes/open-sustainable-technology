@@ -1,3 +1,10 @@
+---
+hide:
+  - navigation
+  - toc
+  - footer
+---
+
 # Presentations 
 
 Public presentations at various conferences and other events highlighting the key role of open source in environmental sustainability.
