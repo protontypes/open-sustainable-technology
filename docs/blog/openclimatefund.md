@@ -1,8 +1,9 @@
-# Lunching OpenClimate.fund
+# Empowering Community-Driven Funding with OpenClimate.fund
 
-__Tobias Augspurger__  [:fontawesome-brands-linkedin:](https://www.linkedin.com/in/tobias-augspurger/) · __Michael Scheiwiller__  [:fontawesome-brands-linkedin:](https://www.linkedin.com/in/michael-scheiwiller-72086a1a0/) · __Andrew Nesbitt__  [:fontawesome-brands-mastodon:](https://mastodon.social/@andrewnez) · __Richard Littauer__ [:fontawesome-brands-linkedin:](https://www.linkedin.com/in/richard-littauer-130026138/) · __Benjamin Nickolls__ [:fontawesome-brands-linkedin:](https://www.linkedin.com/in/benjamuk/) · :octicons-calendar-24: October 20, 2024 ·
+__Tobias Augspurger__  [:fontawesome-brands-linkedin:](https://www.linkedin.com/in/tobias-augspurger/) · __Michael Scheiwiller__  [:fontawesome-brands-linkedin:](https://www.linkedin.com/in/michael-scheiwiller-72086a1a0/) · __Andrew Nesbitt__  [:fontawesome-brands-mastodon:](https://mastodon.social/@andrewnez) · __Richard Littauer__ [:fontawesome-brands-linkedin:](https://www.linkedin.com/in/richard-littauer-130026138/) · __Benjamin Nickolls__ [:fontawesome-brands-linkedin:](https://www.linkedin.com/in/benjamuk/)  
+:octicons-calendar-24: October 20, 2024 ·
 
-**Kickstarting Open Source Funding to Tackle Climate Change and Biodiversity Loss**
+---
 
 We're launching **OpenClimate.fund**, a community-driven initiative to support open source projects that address climate change and biodiversity loss. These are among the most pressing challenges of our time, yet open source efforts in these areas remain alarmingly underfunded. While significant resources are being spent on areas such as artificial intelligence and security, the environmental sector is largely left empty-handed when it comes to open source solutions. It's time to change that.
 
