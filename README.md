@@ -1613,6 +1613,7 @@ parameter values.
 - [xroms](https://github.com/xoceanmodel/xroms) - Work with ROMS ocean model output with xarray and calculate many derived variables with correct grid metrics in one line, including horizontal velocity, kinetic energy and eddy kinetic energy.
 - [SalishSeaNowcast](https://github.com/SalishSeaCast/SalishSeaNowcast) - A collection of Python modules associated with running the SalishSeaCast ocean models system of daily nowcasts and forecasts.
 - [SSN2](https://github.com/USEPA/SSN2) - An R package for spatial statistical modeling and prediction on stream networks, including models based on in-stream distance.
+- [MagicBathyNet](https://github.com/pagraf/MagicBathyNet) - A Multimodal Remote Sensing Dataset for Benchmarking Learning-based Bathymetry and Pixel-based Classification in Shallow Waters.
 
 ### Waves and Currents 
 - [leaflet-velocity](https://github.com/onaci/leaflet-velocity) - Create a canvas visualization layer for direction and intensity of arbitrary velocities (e.g. wind, ocean current).
