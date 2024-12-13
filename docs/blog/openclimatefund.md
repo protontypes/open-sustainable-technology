@@ -21,6 +21,11 @@ To minimize overhead, this initial round will focus on projects that have been a
 
 With a pilot fund of **10,000€**, we are aware that this can only be a drop in the ocean considering the 2,200+ projects on OpenSustain.tech. Our goal is to spark a broader conversation about building a sustainable ecosystem for open source solutions tackling global environmental challenges. 
 
+<figure markdown>
+  ![](b7c1bde9-4f73-4ec6-b22d-232286408aae.jpeg){ width="600" }
+  <figcaption> Olenjok Delta - Sentinel 2 satellite imagery - CC BY 2.0 </figcaption>
+</figure>
+
 ## Preparing for Round 2 
 
 We believe that investing in the right open source projects can create a **cascading effect**, amplifying impact and accelerating sustainable transformation. We can no longer rely on black-box knowledge creation, because the decisions we make today are so critical. That’s why this first funding round is just the beginning. 
@@ -30,6 +35,7 @@ Our long-term plan is to build a network of organizations and individuals who sh
 Similar to our [first report](https://raw.githubusercontent.com/protontypes/open-source-in-environmental-sustainability/main/OpenSourceSustainabilityEcosystem_080423.pdf), we combine **quantitative methods** with **qualitative insights** to identify where funding can have the greatest effect. By using projects data like dependents, citations, downloads, [Development Distribution Score](https://report.opensustain.tech/chapters/development-distribution-score) or issue frequency, we aim to evaluate and maximize the impact of individual projects. By combining our data with interviews, gab analytics and urgency analytics for curtain topics identified as part of the [IPBES](https://www.ipbes.net/global-assessment) and [IPCC](https://www.ipcc.ch/) reports, we are releasing a detalied open science report how our distribution metric has been created. But this time we’re not stopping at analysis—we’re turning these insights into outcomes.
 
 Thanks to the support of **[Ecosyste.ms Funds](https://funds.ecosyste.ms/)** and [Open Source Collective](https://oscollective.org/), we will have the right technology partners to channel funds directly to all organisations, projects and their dependencies identified on OpenSustain.tech within Round 2 based on 100% open source software. But scaling this effort requires more than technology - it requires a collective effort. 
+
 
 ## Join Us in Disrupting the Status Quo 
 

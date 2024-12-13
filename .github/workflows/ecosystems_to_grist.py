@@ -359,7 +359,7 @@ df_grist_funding_organization = df_grist_funding_organization[df_grist_funding_o
 df_grist_funding_organization = df_grist_funding_organization[df_grist_funding_organization['funding_links'].str.contains('github|opencollective')]
 
 # Append organization on projects to only provide one list for the user
-df_grist_funding = df_grist_funding.append(df_grist_funding_organization)
+df_grist_funding = pd.concat([df_grist_funding,df_grist_funding_organization],ignore_index=True)
 
 df_grist_funding = df_grist_funding.sample(frac = 1).reset_index(drop=True)
 

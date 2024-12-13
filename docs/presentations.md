@@ -7,7 +7,7 @@ hide:
 
 # Presentations 
 
-Public presentations at various conferences and other events highlighting the key role of open source in environmental sustainability.
+Open Sustainable Technology has participated in numerous conferences and other events to showcase the vital contribution of open source to environmental sustainability.
 
 - [Hacking Earth from Space with Open Source](https://www.youtube.com/watch?v=8NP2iTaWIoc) - Major League Hacking - 2024
 - [How are open source projects creating climate impact?](https://www.youtube.com/watch?v=6aEFLPXT6l8) - Community Panel hosted by Open Climate Fix - 2024
