@@ -2443,6 +2443,7 @@ parameter values.
 - [Education4Climate](https://github.com/Education4Climate/Education4Climate) - A tool for crawling and analyzing data from higher education schools.
 - [NRPTI](https://github.com/bcgov/NRPTI) - On this site you'll find records, documents and details of compliance and enforcement activities undertaken by British Columbia natural resource agencies such as administrative sanctions, administrative penalties, court convictions, inspections, orders, violation tickets and community environmental justice forums.
 - [QuotaClimat](https://github.com/dataforgoodfr/quotaclimat) - The aim of this work is to deliver a tool to a consortium around QuotaClimat, Climat Medias allowing them to quantify the media coverage of the climate crisis.
+- [Gold Mine Detector](https://github.com/earthrise-media/mining-detector) - Automated detection of artisanal gold mines in Sentinel-2 satellite imagery, with links to related journalism.
 
 ### Data Catalogs and Interfaces
 - [Climate Data Store](https://cds.climate.copernicus.eu/) - Dive into this wealth of information about the Earth's past, present and future climate.
