@@ -874,6 +874,7 @@ energy system designs and analysis of interactions between technologies.
 - [Land Griffon](https://github.com/Vizzuality/landgriffon) - Empowers companies to measure, manage, and transform agricultural supply chain impacts using an open scientific methodology.
 - [Fields of The World](https://github.com/fieldsoftheworld/ftw-baselines) -  A comprehensive benchmark dataset designed to enhance the development of machine learning models for instance segmentation of agricultural field boundaries.
 - [EuroCropsML](https://github.com/dida-do/eurocropsml) - A pre-processed and ready-to-use machine learning dataset for crop type classification of agricultural parcels in Europe.
+- [street2sat](https://github.com/nasaharvest/street2sat) - A framework for obtaining large data sets of geo-referenced crop type labels obtained from vehicle mounted cameras that can be extended to other applications.
 
 ## Emissions
 ### Carbon Intensity and Accounting 
