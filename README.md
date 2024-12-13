@@ -729,6 +729,7 @@ energy system designs and analysis of interactions between technologies.
 - [Cartes](https://github.com/laem/cartes) - A French alternative to Google Maps that aims to focus on climate-friendly transports mode.
 - [accessibility](https://github.com/ipeaGIT/accessibility) - Given a pre-computed travel cost matrix and a land use dataset (containing the location of jobs, healthcare and population, for example), the package allows one to calculate accessibility levels and accessibility poverty and inequality.
 - [FAF5-Analysis](https://github.com/mcsc-impact-climate/FAF5-Analysis) - Produce and interactively visualize publicly available geospatial data to support trucking fleets in navigating the transition to alternative energy carriers.
+- [Geo-FTADS-Analysis](https://github.com/mcsc-impact-climate/Geo-FTADS-Analysis) - Produce and interactively visualize publicly available geospatial data to support trucking fleets in navigating the transition to alternative energy carriers.
 
 ### Production and Industry
 - [btp-ai-sustainability-bootcamp](https://github.com/SAP-samples/btp-ai-sustainability-bootcamp) - Showcasing SAP partners how to add Intelligence and Sustainability into your industry cloud solutions on SAP Business Technology Platform.
