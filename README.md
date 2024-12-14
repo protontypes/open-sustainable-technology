@@ -328,6 +328,7 @@
 - [Home Assistant Octopus Energy](https://github.com/BottlecapDave/HomeAssistant-OctopusEnergy) - Bring your Octopus Energy details into Home Assistant to help you towards a more energy efficient (and or cheaper) home.
 - [Home Assistant Glow](https://github.com/klaasnicolaas/home-assistant-glow) - Makes a (not so) smart meter without a P1 port easily readable, reading the pulse LED that is always present in most cases and it works with ESPHome!
 - [DSMR Toolkit](https://github.com/nielsbasjes/dsmr-tools) - A set of Java based libraries and tools that should allow processing Dutch Smart Meter Requirements messages in a way that is as flexible and reusable as possible.
+- [Sankey Chart Card](https://github.com/MindFreeze/ha-sankey-chart) - A Home Assistant lovelace card to display a sankey chart showing energy, power and water consumption.
 
 ### Energy System Modeling Frameworks
 - [Open Energy System Models](https://en.wikipedia.org/wiki/Open_energy_system_models) - Used to explore future energy systems and are often applied to questions involving energy and climate policy.
