@@ -729,6 +729,7 @@ energy system designs and analysis of interactions between technologies.
 - [Cartes](https://github.com/laem/cartes) - A French alternative to Google Maps that aims to focus on climate-friendly transports mode.
 - [accessibility](https://github.com/ipeaGIT/accessibility) - Given a pre-computed travel cost matrix and a land use dataset (containing the location of jobs, healthcare and population, for example), the package allows one to calculate accessibility levels and accessibility poverty and inequality.
 - [FAF5-Analysis](https://github.com/mcsc-impact-climate/FAF5-Analysis) - Produce and interactively visualize publicly available geospatial data to support trucking fleets in navigating the transition to alternative energy carriers.
+- [Geo-FTADS-Analysis](https://github.com/mcsc-impact-climate/Geo-FTADS-Analysis) - Produce and interactively visualize publicly available geospatial data to support trucking fleets in navigating the transition to alternative energy carriers.
 
 ### Production and Industry
 - [btp-ai-sustainability-bootcamp](https://github.com/SAP-samples/btp-ai-sustainability-bootcamp) - Showcasing SAP partners how to add Intelligence and Sustainability into your industry cloud solutions on SAP Business Technology Platform.
@@ -873,6 +874,8 @@ energy system designs and analysis of interactions between technologies.
 - [CSA Admin](https://github.com/csa-admin-org/csa-admin) - Offers you a wide range of features specifically developed for the needs of Community Supported Agriculture.
 - [Land Griffon](https://github.com/Vizzuality/landgriffon) - Empowers companies to measure, manage, and transform agricultural supply chain impacts using an open scientific methodology.
 - [Fields of The World](https://github.com/fieldsoftheworld/ftw-baselines) -  A comprehensive benchmark dataset designed to enhance the development of machine learning models for instance segmentation of agricultural field boundaries.
+- [EuroCropsML](https://github.com/dida-do/eurocropsml) - A pre-processed and ready-to-use machine learning dataset for crop type classification of agricultural parcels in Europe.
+- [street2sat](https://github.com/nasaharvest/street2sat) - A framework for obtaining large data sets of geo-referenced crop type labels obtained from vehicle mounted cameras that can be extended to other applications.
 
 ## Emissions
 ### Carbon Intensity and Accounting 
@@ -1613,6 +1616,7 @@ parameter values.
 - [xroms](https://github.com/xoceanmodel/xroms) - Work with ROMS ocean model output with xarray and calculate many derived variables with correct grid metrics in one line, including horizontal velocity, kinetic energy and eddy kinetic energy.
 - [SalishSeaNowcast](https://github.com/SalishSeaCast/SalishSeaNowcast) - A collection of Python modules associated with running the SalishSeaCast ocean models system of daily nowcasts and forecasts.
 - [SSN2](https://github.com/USEPA/SSN2) - An R package for spatial statistical modeling and prediction on stream networks, including models based on in-stream distance.
+- [MagicBathyNet](https://github.com/pagraf/MagicBathyNet) - A Multimodal Remote Sensing Dataset for Benchmarking Learning-based Bathymetry and Pixel-based Classification in Shallow Waters.
 
 ### Waves and Currents 
 - [leaflet-velocity](https://github.com/onaci/leaflet-velocity) - Create a canvas visualization layer for direction and intensity of arbitrary velocities (e.g. wind, ocean current).
@@ -2442,6 +2446,7 @@ parameter values.
 - [Education4Climate](https://github.com/Education4Climate/Education4Climate) - A tool for crawling and analyzing data from higher education schools.
 - [NRPTI](https://github.com/bcgov/NRPTI) - On this site you'll find records, documents and details of compliance and enforcement activities undertaken by British Columbia natural resource agencies such as administrative sanctions, administrative penalties, court convictions, inspections, orders, violation tickets and community environmental justice forums.
 - [QuotaClimat](https://github.com/dataforgoodfr/quotaclimat) - The aim of this work is to deliver a tool to a consortium around QuotaClimat, Climat Medias allowing them to quantify the media coverage of the climate crisis.
+- [Gold Mine Detector](https://github.com/earthrise-media/mining-detector) - Automated detection of artisanal gold mines in Sentinel-2 satellite imagery, with links to related journalism.
 
 ### Data Catalogs and Interfaces
 - [Climate Data Store](https://cds.climate.copernicus.eu/) - Dive into this wealth of information about the Earth's past, present and future climate.
