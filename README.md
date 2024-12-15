@@ -179,6 +179,7 @@
 - [InSPIRE](https://github.com/NREL/InSPIRE) - Here we will collect scripts, trainings, studies, and any other open-source material that can help further the understanding and research of agrivoltaics.
 - [twoaxistracking](https://github.com/pvlib/twoaxistracking) - A python package for simulating two-axis tracking solar collectors, particularly self-shading.
 - [huawei_solar](https://github.com/wlcrs/huawei_solar) - This integration exposes the information and functions made available by Huawei Solar inverters directly via one of its Modbus interfaces in Home Assistant.
+- [Sunsynk-Power-Flow-Card](https://github.com/slipx06/sunsynk-power-flow-card) - A customizable Home Assistant card to emulate the Sunsynk System flow that's displayed on the Inverter screen.
 
 ### Wind Energy
 - [DSWE](https://github.com/TAMU-AML/DSWE-Package) - An R implementation of various data science methods for wind energy (DSWE) applications, such as providing machine learning methods to accurately estimate the wind power curve.
