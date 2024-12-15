@@ -330,9 +330,9 @@ df_grist_funding["category"] = df_grist_projects.loc[mask, "category"]
 df_grist_funding["funding_links"] = df_grist_projects.loc[mask, "funding_links"]
 df_grist_funding["latest_commit_activity"] = df_grist_projects.loc[mask, "latest_commit_activity"]
 
-# Remove projects with no commit activity in the last 4 months
+# Remove projects with no commit activity in the last 6 months
 df_grist_funding["latest_commit_activity"] = pd.to_datetime(df_grist_funding["latest_commit_activity"]).dt.tz_localize(None)
-four_months_ago = pd.Timestamp.now() - pd.DateOffset(months=4)
+four_months_ago = pd.Timestamp.now() - pd.DateOffset(months=6)
 df_grist_funding = df_grist_funding[df_grist_funding["latest_commit_activity"] >= four_months_ago]
 df_grist_funding.drop("latest_commit_activity",axis=1,inplace=True)
 
@@ -342,7 +342,7 @@ df_grist_funding = df_grist_funding[df_grist_funding['name'] != 'ClimateTriage']
 df_grist_funding = df_grist_funding[df_grist_funding['name'] != 'Continuous Reforestation']
 
 # In the beginning, we only support github and opencollective to keep the overheating on our side low. 
-df_grist_funding = df_grist_funding[df_grist_funding['funding_links'].str.contains('github|opencollective')]
+df_grist_funding = df_grist_funding[df_grist_funding['funding_links'].str.contains('github|opencollective|buymeacoffee|paypal|patreon')]
 
 # Create funding dataframe with only organization that have funding links
 df_grist_funding_organization = pd.DataFrame()
