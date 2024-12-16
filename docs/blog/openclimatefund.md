@@ -17,7 +17,7 @@ In our first funding round, we’re introducing a **“positive snowball system"
 2. **Submit it through our review process** using the [Contributing Guide](https://opensustain.tech/contributing/), which outlines the steps for nominating impactful open source initiatives. 
 3. **Nominate another project** from the [directory](https://docs.getgrist.com/doc/gSscJkc5Rb1Rw45gh1o1Yc/p/5) to receive a 100€ gift and a heartfelt thank-you message.
 
-To minimize overhead, this initial round will focus on projects that have been active within the last four months and accept donations through the platforms Open Source Collective or GitHub Sponsors. Despite rigorous data mining with our partner **Ecosyste.ms**, only 84 eligible projects have been identified so far at the date of launch — underscoring the urgent need for this initiative. Our own experience has also shown us that donations in this area are so rare that many projects don't even bother to ask for them. If your project is already listed but not yet proposed, simply add donation information about your GitHub organisation or open source project and it will automatically be included for Round 1. 
+To minimize overhead, this initial round will focus on projects that have been active within the last six months and accept donations through known donation platforms like Open Source Collective or GitHub Sponsors. Despite rigorous data mining with our partner **Ecosyste.ms**, only 104 eligible projects have been identified so far at the date of launch — underscoring the urgent need for this initiative. Our own experience has also shown us that donations in this area are so rare that many projects don't even bother to ask for them. If your project is already listed but not yet proposed, simply add donation information about your GitHub organisation or open source project and it will automatically be included for Round 1. 
 
 With a pilot fund of **10,000€**, we are aware that this can only be a drop in the ocean considering the 2,200+ projects on OpenSustain.tech. Our goal is to spark a broader conversation about building a sustainable ecosystem for open source solutions tackling global environmental challenges. 
 
@@ -50,7 +50,7 @@ This time, we’re going beyond analysis—we’re transforming these insights i
 
 ---
 
-Thanks to the support of **[Ecosyste.ms Funds](https://funds.ecosyste.ms/)** and **[Open Source Collective](https://oscollective.org/)**, we will have the right technology partners to channel funds directly to all organisations, projects and their dependencies identified on OpenSustain.tech within Round 2 based on 100% open source software. But scaling this effort requires more than technology - it requires a collective effort. 
+Thanks to the support of **[Ecosyste.ms Funds](https://funds.ecosyste.ms/)** and **[Open Source Collective](https://oscollective.org/)**, we will have the right technology partners to channel funds directly to all organisations, projects and their dependencies. But scaling this effort requires more than technology - it requires a collective effort. 
 
 
 
