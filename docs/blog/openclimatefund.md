@@ -42,11 +42,7 @@ To achieve this, we analyze project data such as:
 - **Issue frequency**  
 - and many more..
 
-Our goal is to evaluate and maximize the impact of individual projects.  
-
-In addition, we integrate this data with interviews, gap analyses, and urgency analytics for key topics highlighted in the [IPBES Global Assessment](https://www.ipbes.net/global-assessment) and [IPCC Reports](https://www.ipcc.ch/). This process allows us to create a detailed open science report explaining how our distribution metric was developed.  
-
-This time, we’re going beyond analysis—we’re transforming these insights into actionable outcomes.
+Our goal is to evaluate and maximize the impact of individual projects. In addition, we integrate this data with interviews, gap analyses, and urgency analytics for key topics highlighted in the [IPBES Global Assessment](https://www.ipbes.net/global-assessment) and [IPCC Reports](https://www.ipcc.ch/). This process allows us to create a detailed open science report explaining how our distribution metric was developed. This time, we’re going beyond analysis—we’re transforming these insights into actionable outcomes.
 
 ---
 
