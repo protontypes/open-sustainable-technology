@@ -26,6 +26,7 @@
 - [Power Systems Optimization](https://github.com/east-winds/power-systems-optimization) - How to implement and apply linear and mixed integer linear programs to solve such problems using Julia/JuMP, and the practical application of such techniques in energy systems engineering.
 - [Data Science for Energy System Modelling](https://github.com/fneum/data-science-for-esm) - Find practical introductions to many Python packages that are useful for dealing with energy data and building energy system modells.
 - [oemof Workshop on Modeling Heat Pumps](https://github.com/oemof/heat-pump-tutorial) - Learn how to use and apply oemof libraries in the context of modeling heat pumps in energy system analysis.
+- [Control and protection of HVDC/AC electrical grids](https://github.com/control-protection-grids-tudelft/Control-and-protection-of-HVDC-AC-electrical-grids-IEEE-IES-MOOC/) - Tutorials and material for lectures, practicums and assignments.
 
 
 ## Consumption of Energy and Resources 
