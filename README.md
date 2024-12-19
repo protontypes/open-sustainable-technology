@@ -1847,6 +1847,7 @@ parameter values.
 - [Prithvi WxC](https://github.com/NASA-IMPACT/Prithvi-WxC) - Foundation model for weather and climate, that employs an encoder-decoder-based architecture, incorporating concepts from various recent transformer models to effectively capture both regional and global dependencies in the input data.
 - [CRA5](https://github.com/taohan10200/CRA5) - Extreme Compression of ERA5 for Portable Global Climate and Weather Research via an Efficient Variational Transformer.
 - [flux-data-qaqc](https://github.com/Open-ET/flux-data-qaqc) - Provides a framework to create reproducible workflows for validation and analysis of eddy covariance data.
+- [cloudcasting](https://github.com/alan-turing-institute/cloudcasting) - Tooling and infrastructure to enable cloud nowcasting.
 - [dwd_weather](https://github.com/FL550/dwd_weather) - Deutscher Wetterdienst integration for Home-Assistant.
 
 ### Radiative Transfer
