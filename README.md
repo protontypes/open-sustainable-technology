@@ -1931,6 +1931,7 @@ parameter values.
 - [gospl](https://github.com/Geodels/gospl) - Global Scalable Paleo Landscape Evolution Model is an library providing a scalable parallelised Python-based numerical model to simulate landscapes and basins reconstruction at global scale.
 - [ClimODE](https://github.com/Aalto-QuML/ClimODE) - Models precise weather evolution with value-conserving dynamics, learning global weather transport as a neural flow, which also enables estimating the uncertainty in predictions.
 - [ciceroscm](https://github.com/ciceroOslo/ciceroscm) - Python version of the CICERO-SCM simple climate model/emulator.
+- [ChaosBench](https://github.com/leap-stc/ChaosBench) - A benchmark project to improve and extend the predictability range of deep weather emulators to the subseasonal-to-seasonal (S2S) scale.
 
 ### Climate Data Standards 
 - [cf-conventions](https://github.com/cf-convention/cf-conventions) - The conventions for CF (Climate and Forecast) metadata are designed to promote the processing and sharing of files created with the NetCDF API.
