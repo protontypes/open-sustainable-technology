@@ -1051,6 +1051,7 @@ energy system designs and analysis of interactions between technologies.
 - [ONEARMY](https://github.com/ONEARMY/precious-plastic) - A series of tools for the Precious Plastic community to collaborate around the world and tackle plastic waste.
 - [Trash-ICRA19](https://conservancy.umn.edu/handle/11299/214366) - A Bounding Box Labeled Dataset of Underwater Trash.
 - [TACO](https://github.com/pedropro/TACO) - Trash Annotations in Context Dataset Toolkit.
+- [Deep Waste](https://github.com/sumn2u/deep-waste-app) - AI powered recycling app that classifies waste and promotes eco-friendly disposal with rewards.
 - [circularity.ID Open Data Standard](https://github.com/circularfashion/cf-circularity-id-standard) - The standard represents the results and findings of an extensive six-year research into the needs of stakeholders in the fashion industry to achieve a circular economy.
 - [RecycleNet](https://github.com/sangminwoo/RecycleNet) - Effective trash classification model using only a small number of annotated images.
 - [trashnet](https://github.com/garythung/trashnet) - Dataset of images of trash. Torch-based CNN for garbage image classification.
