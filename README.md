@@ -1852,6 +1852,7 @@ parameter values.
 - [flux-data-qaqc](https://github.com/Open-ET/flux-data-qaqc) - Provides a framework to create reproducible workflows for validation and analysis of eddy covariance data.
 - [cloudcasting](https://github.com/alan-turing-institute/cloudcasting) - Tooling and infrastructure to enable cloud nowcasting.
 - [dwd_weather](https://github.com/FL550/dwd_weather) - Deutscher Wetterdienst integration for Home-Assistant.
+- [WRFtailor](https://github.com/anikfal/wrftailor) - Tailoring and modification of the WRF model input data.
 
 ### Radiative Transfer
 - [lowtran](https://github.com/space-physics/lowtran) - Atmospheric absorption extinction, scatter and irradiance model in Python and Matlab.
