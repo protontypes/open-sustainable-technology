@@ -461,6 +461,7 @@ energy system designs and analysis of interactions between technologies.
 - [Annual Technology Baseline Calculators](https://github.com/NREL/ATB-calc) - To inform electric and transportation sector analysis in the United States, each year NREL provides a robust set of modeling input assumptions for energy technologies and a diverse set of potential electricity generation futures or modeling scenarios.
 - [ETLocal](https://github.com/quintel/etlocal) - Countries, provinces, municipalities, districts and neighborhoods have their own unique questions for their energy systems.
 - [RE4AFAGRI](https://github.com/iiasa/RE4AFAGRI_platform) - A multi-model framework to analyse deficits, requirements, and optimal solutions for integrated land-water-agriculture-energy-development nexus interlinkages in developing countries.
+- [eebus-go](https://github.com/enbility/eebus-go) - Enable your products and services to support the energy management protocol EEBUS, the communication interface that enables energy management relevant devices in buildings to connect and interact with each other and with grid and market operators.
 
 ### Energy Policy
 - [Energy Policy Simulator](https://github.com/EnergyInnovation/eps-us) - The open-source United States Energy Policy Simulator estimates environmental and economic impacts of hundreds of climate and energy policies.
