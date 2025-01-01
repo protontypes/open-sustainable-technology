@@ -181,6 +181,7 @@
 - [huawei_solar](https://github.com/wlcrs/huawei_solar) - This integration exposes the information and functions made available by Huawei Solar inverters directly via one of its Modbus interfaces in Home Assistant.
 - [Sunsynk-Power-Flow-Card](https://github.com/slipx06/sunsynk-power-flow-card) - A customizable Home Assistant card to emulate the Sunsynk System flow that's displayed on the Inverter screen.
 - [Solarman integration](https://github.com/StephanJoubert/home_assistant_solarman) - Home Assistant component for interacting with Solarman data collectors used with a variety of inverters.
+- [SunPeek](https://gitlab.com/sunpeek/sunpeek) - Implements a dynamic, in situ test methodology for large solar thermal plants.
 
 ### Wind Energy
 - [DSWE](https://github.com/TAMU-AML/DSWE-Package) - An R implementation of various data science methods for wind energy (DSWE) applications, such as providing machine learning methods to accurately estimate the wind power curve.
