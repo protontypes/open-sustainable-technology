@@ -296,6 +296,7 @@
 - [bms-c1](https://github.com/LibreSolar/bms-c1) - A flexible Open Source Battery Management System (BMS) suitable for various applications.
 - [Battery-Emulator](https://github.com/dalathegreat/Battery-Emulator) - This software enables EV battery packs to be used for stationary storage in combination with solar inverters.
 - [BLAST-Lite](https://github.com/NREL/BLAST-Lite) - Battery Lifetime Analysis and Simulation Toolsuite provides a library of battery lifetime and degradation models for various commercial lithium-ion batteries from recent years.
+- [RFB-dev-kit](https://codeberg.org/FBRC/RFB-dev-kit) - A benchtop flow battery development kit, extendable to other electrochemical systems with flow.
 
 ### Hydrogen
 - [OPEM](https://github.com/ECSIM/opem) - A modeling tool for evaluating the performance of proton exchange membrane fuel cells.
