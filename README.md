@@ -461,6 +461,7 @@ energy system designs and analysis of interactions between technologies.
 - [Annual Technology Baseline Calculators](https://github.com/NREL/ATB-calc) - To inform electric and transportation sector analysis in the United States, each year NREL provides a robust set of modeling input assumptions for energy technologies and a diverse set of potential electricity generation futures or modeling scenarios.
 - [ETLocal](https://github.com/quintel/etlocal) - Countries, provinces, municipalities, districts and neighborhoods have their own unique questions for their energy systems.
 - [RE4AFAGRI](https://github.com/iiasa/RE4AFAGRI_platform) - A multi-model framework to analyse deficits, requirements, and optimal solutions for integrated land-water-agriculture-energy-development nexus interlinkages in developing countries.
+- [ENERGYDATA.INFO](https://github.com/energy-data/energydata.info) - An open data platform created by the World Bank, providing access to datasets and data analytics that are relevant to the energy sector.
 - [jao-py](https://github.com/fboerman/jao-py) - Python client for the various endpoints offered by the Joint Allocation Office, Europe's single leading trading platform for cross-border transmission capacity.
 
 ### Energy Policy
