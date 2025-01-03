@@ -1402,6 +1402,7 @@ parameter values.
 - [BioCro](https://github.com/biocro/biocro) - A model that predicts plant growth over time given crop-specific parameters and environmental data as input.
 - [OpenSimRoot](https://gitlab.com/rootmodels/OpenSimRoot) - Source code for simulating root architecture, nutrient and water uptake and more.
 - [Germinate](https://github.com/germinateplatform/germinate-vue) - An open source plant database infrastructure and application programming platform on which complex data from genetic resource collections can be stored, queried and visualized.
+- [greenR](https://github.com/sachit27/greenR) - An R package that enables the quantification, analysis, and visualization of urban greenness within city networks.
 
 ### Species Distribution Modeling
 - [enmSdmX](https://github.com/adamlilith/enmSdmX) - A set of tools in R for implementing species distribution models and ecological niche models.
