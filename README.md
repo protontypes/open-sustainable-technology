@@ -1678,8 +1678,9 @@ parameter values.
 - [baytrends](https://github.com/tetratech/baytrends) - Evaluate long-term trends in the Chesapeake Bay using a Generalized Additive Modeling approach.
 - [BayDeltaSCHISM](https://github.com/CADWRDeltaModeling/BayDeltaSCHISM) - An application of the 3D open source SCHISM hydrodynamic and water quality suite to the San Francisco Bay Delta estuary.
 - [OpenCTD](https://github.com/OceanographyforEveryone/OpenCTD) - A low-cost, open-source CTD designed for budget-restricted scientists, educators, and researchers working in nearshore coastal ecosystems.
-- [IOOS Cloud Sandbox](https://github.com/ioos/Cloud-Sandbox) - A collaborative platform to develop regional costal models.
+- [IOOS Cloud Sandbox](https://github.com/ioos/Cloud-Sandbox) - A collaborative platform to develop regional coastal models.
 - [COAWST](https://github.com/DOI-USGS/COAWST) - Combines many sophisticated systems that each provide relative earth-system components necessary to investigate the dynamics of coastal storm impacts.
+- [OSMCoastline](https://github.com/osmcode/osmcoastline) - Extracts the coastline data from an OSM planet file and assembles all the pieces into polygons for use in map renderers.
 
 
 ### Ocean and Hydrology Data Access
