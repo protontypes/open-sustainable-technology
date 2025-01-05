@@ -98,7 +98,7 @@
   - [Air Quality](#air-quality)
   - [Water Supply and Quality](#water-supply-and-quality)
   - [Soil and Land](#soil-and-land)
-  - [Toxicology](#toxicology)
+  - [Ecotoxicology](#ecotoxicology)
 - [Sustainable Development](#sustainable-development)
   - [Sustainable Development Goals](#sustainable-development-goals)
   - [Population and Poverty](#population-and-poverty)
@@ -2377,9 +2377,9 @@ parameter values.
 - [AquaBEHER](https://github.com/RobelTakele/AquaBEHER) - Estimation and Prediction of Wet Season Calendar and Soil Water Balance for Agriculture.
 - [Sand Mining Watch](https://github.com/BerkeleySandProject/sandmining-watch) - A custom sand-mine detection tool by fine-tuning foundation models for earth observation, which leverage self supervised learning.
 
-### Toxicology
-- [Health Assessment Workspace Collaborative](https://github.com/shapiromatron/hawc)
-- [toxpiR](https://github.com/ToxPi/toxpiR)
+### Ecotoxicology
+- [Health Assessment Workspace Collaborative](https://github.com/shapiromatron/hawc) - A website designed to capture key data and analyses performed in conducting human-health assessment of chemicals and other environmental exposures.
+- [toxpiR](https://github.com/ToxPi/toxpiR) - R package for the Toxicological Priority Index (ToxPi) prioritization algorithm.
 
 
 ## Sustainable Development
