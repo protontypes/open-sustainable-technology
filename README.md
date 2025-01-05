@@ -98,6 +98,7 @@
   - [Air Quality](#air-quality)
   - [Water Supply and Quality](#water-supply-and-quality)
   - [Soil and Land](#soil-and-land)
+  - [Ecotoxicology](#ecotoxicology)
 - [Sustainable Development](#sustainable-development)
   - [Sustainable Development Goals](#sustainable-development-goals)
   - [Population and Poverty](#population-and-poverty)
@@ -2375,6 +2376,11 @@ parameter values.
 - [rOPTRAM](https://github.com/ropensci/rOPTRAM) - Implements The OPtical TRapezoid Model (OPTRAM) to derive soil moisture based on the linear relation between a vegetation index, i.e. NDVI, and Shortwave Infra-red.
 - [AquaBEHER](https://github.com/RobelTakele/AquaBEHER) - Estimation and Prediction of Wet Season Calendar and Soil Water Balance for Agriculture.
 - [Sand Mining Watch](https://github.com/BerkeleySandProject/sandmining-watch) - A custom sand-mine detection tool by fine-tuning foundation models for earth observation, which leverage self supervised learning.
+
+### Ecotoxicology
+- [Health Assessment Workspace Collaborative](https://github.com/shapiromatron/hawc) - A website designed to capture key data and analyses performed in conducting human-health assessment of chemicals and other environmental exposures.
+- [toxpiR](https://github.com/ToxPi/toxpiR) - R package for the Toxicological Priority Index (ToxPi) prioritization algorithm.
+
 
 ## Sustainable Development
 ### Sustainable Development Goals 
