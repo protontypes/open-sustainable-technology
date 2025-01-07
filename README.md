@@ -1183,6 +1183,7 @@ energy system designs and analysis of interactions between technologies.
 - [GFBio Data Submission and Brokerage System](https://github.com/gfbio/gfbio-data-submission) - Provides the central entry point for the submission services provided by GFBio e.V. for the long-term data archival and publication of biodiversity, ecology and environmental science data.
 - [Open Tree of Life](https://github.com/OpenTreeOfLife/opentree) - Constructs a comprehensive, dynamic and digitally-available tree of life by synthesizing published phylogenetic trees along with taxonomic data.
 - [BIOSCAN-5M](https://github.com/bioscan-ml/BIOSCAN-5M) - A comprehensive multi-modal dataset comprised of over 5 million specimens, 98% of which are insects.
+- [PortalData](https://github.com/weecology/PortalData) - Provides access to a long-term study of a Chihuahuan desert ecosystem.
 - [wildflow](https://github.com/wildflowai/platform) - Open marine biodiversity data platform aiming to protect oceans by accelerating research and conservation.
 
 ### Biodiversity Data Cleaning and Standardization
