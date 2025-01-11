@@ -98,6 +98,7 @@
   - [Air Quality](#air-quality)
   - [Water Supply and Quality](#water-supply-and-quality)
   - [Soil and Land](#soil-and-land)
+  - [Ecotoxicology](#ecotoxicology)
 - [Sustainable Development](#sustainable-development)
   - [Sustainable Development Goals](#sustainable-development-goals)
   - [Population and Poverty](#population-and-poverty)
@@ -181,6 +182,7 @@
 - [huawei_solar](https://github.com/wlcrs/huawei_solar) - This integration exposes the information and functions made available by Huawei Solar inverters directly via one of its Modbus interfaces in Home Assistant.
 - [Sunsynk-Power-Flow-Card](https://github.com/slipx06/sunsynk-power-flow-card) - A customizable Home Assistant card to emulate the Sunsynk System flow that's displayed on the Inverter screen.
 - [Solarman integration](https://github.com/StephanJoubert/home_assistant_solarman) - Home Assistant component for interacting with Solarman data collectors used with a variety of inverters.
+- [SunPeek](https://gitlab.com/sunpeek/sunpeek) - Implements a dynamic, in situ test methodology for large solar thermal plants.
 
 ### Wind Energy
 - [DSWE](https://github.com/TAMU-AML/DSWE-Package) - An R implementation of various data science methods for wind energy (DSWE) applications, such as providing machine learning methods to accurately estimate the wind power curve.
@@ -297,6 +299,7 @@
 - [Battery-Emulator](https://github.com/dalathegreat/Battery-Emulator) - This software enables EV battery packs to be used for stationary storage in combination with solar inverters.
 - [BLAST-Lite](https://github.com/NREL/BLAST-Lite) - Battery Lifetime Analysis and Simulation Toolsuite provides a library of battery lifetime and degradation models for various commercial lithium-ion batteries from recent years.
 - [RFB-dev-kit](https://codeberg.org/FBRC/RFB-dev-kit) - A benchtop flow battery development kit, extendable to other electrochemical systems with flow.
+- [FAIR-Battery](https://github.com/SanliFaez/FAIR-Battery) - We seek to present an open-hardware platform for a versatile battery technology and make the platform radically accessible.
 
 ### Hydrogen
 - [OPEM](https://github.com/ECSIM/opem) - A modeling tool for evaluating the performance of proton exchange membrane fuel cells.
@@ -462,6 +465,8 @@ energy system designs and analysis of interactions between technologies.
 - [Annual Technology Baseline Calculators](https://github.com/NREL/ATB-calc) - To inform electric and transportation sector analysis in the United States, each year NREL provides a robust set of modeling input assumptions for energy technologies and a diverse set of potential electricity generation futures or modeling scenarios.
 - [ETLocal](https://github.com/quintel/etlocal) - Countries, provinces, municipalities, districts and neighborhoods have their own unique questions for their energy systems.
 - [RE4AFAGRI](https://github.com/iiasa/RE4AFAGRI_platform) - A multi-model framework to analyse deficits, requirements, and optimal solutions for integrated land-water-agriculture-energy-development nexus interlinkages in developing countries.
+- [ENERGYDATA.INFO](https://github.com/energy-data/energydata.info) - An open data platform created by the World Bank, providing access to datasets and data analytics that are relevant to the energy sector.
+- [jao-py](https://github.com/fboerman/jao-py) - Python client for the various endpoints offered by the Joint Allocation Office, Europe's single leading trading platform for cross-border transmission capacity.
 
 ### Energy Policy
 - [Energy Policy Simulator](https://github.com/EnergyInnovation/eps-us) - The open-source United States Energy Policy Simulator estimates environmental and economic impacts of hundreds of climate and energy policies.
@@ -1179,6 +1184,8 @@ energy system designs and analysis of interactions between technologies.
 - [GFBio Data Submission and Brokerage System](https://github.com/gfbio/gfbio-data-submission) - Provides the central entry point for the submission services provided by GFBio e.V. for the long-term data archival and publication of biodiversity, ecology and environmental science data.
 - [Open Tree of Life](https://github.com/OpenTreeOfLife/opentree) - Constructs a comprehensive, dynamic and digitally-available tree of life by synthesizing published phylogenetic trees along with taxonomic data.
 - [BIOSCAN-5M](https://github.com/bioscan-ml/BIOSCAN-5M) - A comprehensive multi-modal dataset comprised of over 5 million specimens, 98% of which are insects.
+- [PortalData](https://github.com/weecology/PortalData) - Provides access to a long-term study of a Chihuahuan desert ecosystem.
+- [wildflow](https://github.com/wildflowai/platform) - Open marine biodiversity data platform aiming to protect oceans by accelerating research and conservation.
 
 ### Biodiversity Data Cleaning and Standardization
 - [BIRDS](https://github.com/GreenswayAB/BIRDS) - This set of tools has been developed for systematizing biodiversity data review in order to evaluate whether a set of species observation are fit-for-use and help take decisions upon its use on further analysis.
@@ -1399,6 +1406,7 @@ parameter values.
 - [BioCro](https://github.com/biocro/biocro) - A model that predicts plant growth over time given crop-specific parameters and environmental data as input.
 - [OpenSimRoot](https://gitlab.com/rootmodels/OpenSimRoot) - Source code for simulating root architecture, nutrient and water uptake and more.
 - [Germinate](https://github.com/germinateplatform/germinate-vue) - An open source plant database infrastructure and application programming platform on which complex data from genetic resource collections can be stored, queried and visualized.
+- [greenR](https://github.com/sachit27/greenR) - An R package that enables the quantification, analysis, and visualization of urban greenness within city networks.
 
 ### Species Distribution Modeling
 - [enmSdmX](https://github.com/adamlilith/enmSdmX) - A set of tools in R for implementing species distribution models and ecological niche models.
@@ -1673,8 +1681,9 @@ parameter values.
 - [baytrends](https://github.com/tetratech/baytrends) - Evaluate long-term trends in the Chesapeake Bay using a Generalized Additive Modeling approach.
 - [BayDeltaSCHISM](https://github.com/CADWRDeltaModeling/BayDeltaSCHISM) - An application of the 3D open source SCHISM hydrodynamic and water quality suite to the San Francisco Bay Delta estuary.
 - [OpenCTD](https://github.com/OceanographyforEveryone/OpenCTD) - A low-cost, open-source CTD designed for budget-restricted scientists, educators, and researchers working in nearshore coastal ecosystems.
-- [IOOS Cloud Sandbox](https://github.com/ioos/Cloud-Sandbox) - A collaborative platform to develop regional costal models.
+- [IOOS Cloud Sandbox](https://github.com/ioos/Cloud-Sandbox) - A collaborative platform to develop regional coastal models.
 - [COAWST](https://github.com/DOI-USGS/COAWST) - Combines many sophisticated systems that each provide relative earth-system components necessary to investigate the dynamics of coastal storm impacts.
+- [OSMCoastline](https://github.com/osmcode/osmcoastline) - Extracts the coastline data from an OSM planet file and assembles all the pieces into polygons for use in map renderers.
 
 
 ### Ocean and Hydrology Data Access
@@ -1722,6 +1731,7 @@ parameter values.
 - [hubeau](https://github.com/inrae/hubeau) - An R-package proposing a collection of function to help retrieve data from the French national databases on water.
 - [grundwasser-data](https://github.com/correctiv/grundwasser-data) - A Germany-wide analysis of groundwater levels between 1990 and 2021.
 - [Enhydris](https://github.com/openmeteo/enhydris) - A system for the storage and management of hydrological and meteorological time series.
+- [LeakDB](https://github.com/KIOS-Research/LeakDB) - A realistic leakage dataset for water distribution networks. The dataset is comprised of a large number of artificially created but realistic leakage scenarios, on different water distribution networks, under varying conditions.
 
 ## Atmosphere
 ### Atmospheric Composition and Dynamics
@@ -2368,6 +2378,12 @@ parameter values.
 - [SMODERP2D](https://github.com/storm-fsv-cvut/smoderp2d) - Distributed event-based model for surface and subsurface runoff and erosion.
 - [rOPTRAM](https://github.com/ropensci/rOPTRAM) - Implements The OPtical TRapezoid Model (OPTRAM) to derive soil moisture based on the linear relation between a vegetation index, i.e. NDVI, and Shortwave Infra-red.
 - [AquaBEHER](https://github.com/RobelTakele/AquaBEHER) - Estimation and Prediction of Wet Season Calendar and Soil Water Balance for Agriculture.
+- [Sand Mining Watch](https://github.com/BerkeleySandProject/sandmining-watch) - A custom sand-mine detection tool by fine-tuning foundation models for earth observation, which leverage self supervised learning.
+
+### Ecotoxicology
+- [Health Assessment Workspace Collaborative](https://github.com/shapiromatron/hawc) - A website designed to capture key data and analyses performed in conducting human-health assessment of chemicals and other environmental exposures.
+- [toxpiR](https://github.com/ToxPi/toxpiR) - R package for the Toxicological Priority Index (ToxPi) prioritization algorithm.
+
 
 ## Sustainable Development
 ### Sustainable Development Goals 
@@ -2518,6 +2534,7 @@ parameter values.
 - [PrithWe](https://github.com/adarsh-singh01/PrithWe) - A platform dedicated to helping individuals and businesses calculate and reduce their carbon footprint, providing tools and resources to promote sustainability and environmental awareness in everyday practices.
 - [Environmental Data Science book](https://github.com/alan-turing-institute/environmental-ds-book) - A community driven project providing access to multiple Jupyter notebooks showcasing open environmental science.
 - [VEDA Dashboard](https://github.com/NASA-IMPACT/veda-ui) - Developed collaboratively and mostly reusing existing open-source components, VEDA consolidates GIS delivery mechanisms, processing platforms, analysis services, and visualization tools and provides an ecosystem of open tools for addressing Earth science research and application needs through the public-facing VEDA Dashboard.
+- [oss4climate](https://github.com/Pierre-VF/oss4climate) - A scraping tool for open-source code (GitLab & GitHub) and associated search engine implementation to facilitate discovery of open-source code to address climate challenges. 
 
 
 ### Environmental Satellites
