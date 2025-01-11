@@ -507,6 +507,7 @@ energy system designs and analysis of interactions between technologies.
 - [OSMoGrid](https://github.com/ie3-institute/OSMoGrid) - A java tool to generate life like electrical grid models based on publicly available data, mainly OpenStreetMap and a special focus on low voltage grids.
 - [Open Infrastructure Map](https://github.com/openinframap/openinframap) - A view of the world's energy and water infrastructure mapped in the OpenStreetMap database.
 - [MicroGridsPy](https://github.com/MicroGridsPy/MicroGridsPy) - Provide an open-source alternative to the problem of sizing and dispatch of energy in micro-grids in isolated places.
+- [earth-osm](https://github.com/pypsa-meets-earth/earth-osm) - Provides a Python API and a CLI interface to extract data for various power infrastructure types, such as power lines, substations, and more.
 
 ### Grid Management and Microgrid
 - [Open Smart Grid Platform](https://github.com/OSGP/open-smart-grid-platform) - An open, generic, scalable and independent 'Internet of Things' platform, which enables various connected smart objects in the public space to be easily controlled and monitored.
