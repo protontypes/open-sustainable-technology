@@ -1189,6 +1189,7 @@ energy system designs and analysis of interactions between technologies.
 - [BIOSCAN-5M](https://github.com/bioscan-ml/BIOSCAN-5M) - A comprehensive multi-modal dataset comprised of over 5 million specimens, 98% of which are insects.
 - [PortalData](https://github.com/weecology/PortalData) - Provides access to a long-term study of a Chihuahuan desert ecosystem.
 - [wildflow](https://github.com/wildflowai/platform) - Open marine biodiversity data platform aiming to protect oceans by accelerating research and conservation.
+- [BioTrove](https://github.com/baskargroup/BioTrove) - A Large Curated Image Dataset Enabling AI for Biodiversity.
 
 ### Biodiversity Data Cleaning and Standardization
 - [BIRDS](https://github.com/GreenswayAB/BIRDS) - This set of tools has been developed for systematizing biodiversity data review in order to evaluate whether a set of species observation are fit-for-use and help take decisions upon its use on further analysis.
