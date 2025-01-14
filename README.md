@@ -2624,6 +2624,7 @@ parameter values.
 - [GitHub's Green Software Directory](https://github.com/github/GreenSoftwareDirectory) - A simple and easy-to-use resource that all developers can use to adopt green software tools.
 - [OpenForest](https://github.com/RolnickLab/OpenForest) - An initiative to centralize open access forest monitoring datasets.
 - [Awesome Green AI](https://github.com/samuelrince/awesome-green-ai) - A curated list of awesome Green AI resources and tools to reduce the environmental impacts of using and deploying AI.
+- [Awesome Electric Grid Mapping](https://github.com/open-energy-transition/Awesome-Electric-Grid-Mapping) - A curated list of resources in the field of electric grid mapping to improve global open data coverage, harmonization and quality for a sustainable energy transition.
 
 
 ## Contributors
