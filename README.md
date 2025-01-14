@@ -1868,6 +1868,7 @@ parameter values.
 - [cloudcasting](https://github.com/alan-turing-institute/cloudcasting) - Tooling and infrastructure to enable cloud nowcasting.
 - [dwd_weather](https://github.com/FL550/dwd_weather) - Deutscher Wetterdienst integration for Home-Assistant.
 - [WRFtailor](https://github.com/anikfal/wrftailor) - Tailoring and modification of the WRF model input data.
+- [Extreme Weather Bench](https://github.com/brightbandtech/ExtremeWeatherBench) - Builds on the successful work of WeatherBench and introduces a set of high-impact weather events, spanning across multiple spatial and temporal scales and different parts of the weather spectrum.
 
 ### Radiative Transfer
 - [lowtran](https://github.com/space-physics/lowtran) - Atmospheric absorption extinction, scatter and irradiance model in Python and Matlab.
@@ -2152,6 +2153,7 @@ parameter values.
 - [SynxFlow](https://github.com/SynxFlow/SynxFlow) - Dynamically simulate flood inundation, landslides runout and debris flows using multiple CUDA-enabled GPUs.
 - [Humanitarian OpenStreetMap](https://github.com/hotosm/hotosm-website) - Provide map data which revolutionises disaster management, reduces risks, and contributes to achievement of the Sustainable Development Goals.
 - [FLEXTH](https://code.europa.eu/floods/floods-river/flexth) - Flood extent enhancement and water depth estimation tool for satellite-derived inundation maps.
+
 
 ### Integrated Assessment and Climate Policy 
 - [PRIMAP2](https://github.com/pik-primap/primap2) - The next generation climate policy analysis suite.
