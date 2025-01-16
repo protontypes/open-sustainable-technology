@@ -33,7 +33,7 @@
   - [Grid Analysis and Planning](#grid-analysis-and-planning)
   - [Grid Management and Microgrid](#grid-management-and-microgrid)
   - [Load and Demand Forecasting](#load-and-demand-forecasting)
-  - [Regional Energy System Models](#regional-energy-system-models)
+  - [Global and Regional Energy System Models](#global-and-regional-energy-system-models)
   - [Renewable Energy Integration](#renewable-energy-integration)
 - [Consumption](#consumption)
   - [Buildings and Heating](#buildings-and-heating)
@@ -541,7 +541,7 @@ energy system designs and analysis of interactions between technologies.
 - [demandlib](https://github.com/oemof/demandlib) - With the demandlib you can create power and heat profiles for various sectors by scaling them to your desired demand.
 - [dsgrid](https://github.com/dsgrid/dsgrid) - Enables the compilation of high-resolution load datasets suitable for forward-looking power system and other analyses.
 
-### Regional Energy System Models
+### Global and Regional Energy System Models
 - [PyPSA-Earth](https://github.com/pypsa-meets-earth/pypsa-earth) - An Open Optimisation Model of the Earth Energy System.
 - [PyPSA-Eur](https://github.com/PyPSA/pypsa-eur) - A Sector-Coupled Open Optimization Model of the European Transmission System.
 - [PyPSA-FES](https://github.com/centrefornetzero/pypsa-fes) - A model that optimises investment and operation, and incorporates flexibility domestic demand flexibility to model scenarios for Great Britain's future energy system.
@@ -556,6 +556,7 @@ energy system designs and analysis of interactions between technologies.
 - [OSeMBE_ECEMF](https://github.com/KTH-dESA/OSeMBE_ECEMF) - Contains the energy future scenarios modelled in OSeMBE as part of the ECEMF project, which brings together energy and climate researchers and policy makers to address the central challenge of our time - how to achieve climate neutrality.
 - [PyPSA-PL](https://github.com/instrat-pl/pypsa-pl) - An implementation of the energy modelling framework PyPSA shipped with a use-ready dataset tailored for the Polish energy system.
 - [PyPSA-GB](https://github.com/andrewlyden/PyPSA-GB) - An open dataset and power dispatch model of the GB transmission network using country-specific data over historical years and for future energy scenarios.
+- [osemosys_global](https://github.com/OSeMOSYS/osemosys_global) - An open-source, open-data model generator for creating global energy system models.
 
 
 ### Renewable Energy Integration
