@@ -32,6 +32,7 @@ nav:
   - ClimateTriage: "https://climatetriage.com/"
   - OpenClimate.fund: "https://openclimate.fund/"
 
+copyright: Copyright &copy; Open Sustainable Technology Contributors - <a href="https://opensustain.tech/privacy-policy/">       Read our Privacy Policy</a> 
 
 theme:
   name: 'material'
