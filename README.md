@@ -2542,7 +2542,7 @@ parameter values.
 - [Environmental Data Science book](https://github.com/alan-turing-institute/environmental-ds-book) - A community driven project providing access to multiple Jupyter notebooks showcasing open environmental science.
 - [VEDA Dashboard](https://github.com/NASA-IMPACT/veda-ui) - Developed collaboratively and mostly reusing existing open-source components, VEDA consolidates GIS delivery mechanisms, processing platforms, analysis services, and visualization tools and provides an ecosystem of open tools for addressing Earth science research and application needs through the public-facing VEDA Dashboard.
 - [oss4climate](https://github.com/Pierre-VF/oss4climate) - A scraping tool for open-source code (GitLab & GitHub) and associated search engine implementation to facilitate discovery of open-source code to address climate challenges. 
-
+- [carbon.txt](https://github.com/thegreenwebfoundation/carbon.txt) - Syntax and specification for the carbon.txt project
 
 ### Environmental Satellites
 - [satpy](https://github.com/pytroll/satpy) - A python library for reading and manipulating meteorological remote sensing data and writing it to various image and data file formats.
