@@ -813,6 +813,7 @@ energy system designs and analysis of interactions between technologies.
 - [Power Monitor](https://github.com/SAP/power-monitoring-tool-for-macos) - An application that measures and reports the power consumption of a Mac, giving you real-time insight into your device's energy consumption and carbon footprint based on your location.
 - [Energy Efficiency in Programming Languages](https://github.com/nicovank/Energy-Languages) - Provides a benchmarking tool to measure energy efficiency across various programming languages using Docker.
 - [ALUMET](https://github.com/alumet-dev/alumet) - A modular tool that measures energy consumption and performance metrics of CPU and GPU.
+- [carbon.txt](https://github.com/thegreenwebfoundation/carbon.txt) - Syntax and specification for the carbon.txt project.
 
 ### Agriculture and Nutrition
 - [Farmbot](https://github.com/FarmBot/Farmbot-Web-App) - Humanity's open-source CNC farming machine.
@@ -2542,7 +2543,6 @@ parameter values.
 - [Environmental Data Science book](https://github.com/alan-turing-institute/environmental-ds-book) - A community driven project providing access to multiple Jupyter notebooks showcasing open environmental science.
 - [VEDA Dashboard](https://github.com/NASA-IMPACT/veda-ui) - Developed collaboratively and mostly reusing existing open-source components, VEDA consolidates GIS delivery mechanisms, processing platforms, analysis services, and visualization tools and provides an ecosystem of open tools for addressing Earth science research and application needs through the public-facing VEDA Dashboard.
 - [oss4climate](https://github.com/Pierre-VF/oss4climate) - A scraping tool for open-source code (GitLab & GitHub) and associated search engine implementation to facilitate discovery of open-source code to address climate challenges. 
-- [carbon.txt](https://github.com/thegreenwebfoundation/carbon.txt) - Syntax and specification for the carbon.txt project
 
 ### Environmental Satellites
 - [satpy](https://github.com/pytroll/satpy) - A python library for reading and manipulating meteorological remote sensing data and writing it to various image and data file formats.
