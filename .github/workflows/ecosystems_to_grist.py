@@ -241,7 +241,10 @@ for index, row in df_ecosystems.iterrows():
             organization_created_at.append(row['owner']['created_at'])
             organization_updated_at.append(row['owner']['updated_at'])
             organization_icon_url.append(row['owner']['icon_url'])
-            organization_funding_links.append(str(row['owner']['funding_links']))
+            try:
+                organization_funding_links.append(str(row['owner']['funding_links']))
+            except:
+                organization_funding_links.append(None)
             organization_namespace_url.append(str(row['owner']['html_url']))
 
 logger.info("Creating projects dataframe")
