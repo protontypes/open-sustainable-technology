@@ -530,6 +530,7 @@ energy system designs and analysis of interactions between technologies.
 - [Electra](https://github.com/Alkia/electra) - Sovereign blockchain solution that enables local micro-grid to operate smoothly between trustless actors enabling a real circular economy based on the exchange of electricity units.
 - [Vessim](https://github.com/dos-group/vessim) - A co-simulation testbed for energy-aware and carbon-aware applications and systems, based on Mosaik.
 - [VILLASnode](https://github.com/VILLASframework/node) - Used in distributed- and co-simulation scenarios and developed for the field of power grid simulation at the EON Energy Research Center in Aachen.
+- [eELib](https://gitlab.com/elenia1/elenia-energy-library) - A python-based framework for simulating future power systems for prosumer households, focusing on operating strategies for energy management systems.
 
 
 ### Load and Demand Forecasting
