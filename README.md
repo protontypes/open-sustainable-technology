@@ -413,6 +413,7 @@ energy system designs and analysis of interactions between technologies.
 - [NemoMod.jl](https://github.com/sei-international/NemoMod.jl) - A high performance, open-source energy system optimization modeling tool developed in Julia.
 - [Dynaωo](https://github.com/dynawo/dynawo) - Aims at providing power system stakeholders with a transparent, flexible, interoperable and robust suite of simulation tools that could ease collaboration and cooperation in the power system community.
 - [TIMES_model](https://github.com/etsap-TIMES/TIMES_model) - A bottom-up optimization model used for the exploration of possible energy futures based on contrasted scenarios.
+- [xl2times](https://github.com/etsap-TIMES/xl2times) - An open source tool to convert TIMES models specified in Excel to a format ready for processing by GAMS.
 - [MUSE_OS](https://github.com/EnergySystemsModellingLab/MUSE_OS) - A open source agent-based modelling environment that can be used to simulate change in an energy system over time.
 - [Energy Transition Engine](https://github.com/quintel/etengine) - Calculation engine for the Energy Transition Model.
 - [enerflow](https://github.com/rebase-energy/enerflow) - An open-source Python framework that enables energy data scientists and modellers to write modular and reproducible energy models that solves sequential decision problems.
