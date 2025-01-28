@@ -748,6 +748,7 @@ energy system designs and analysis of interactions between technologies.
 - [FAF5-Analysis](https://github.com/mcsc-impact-climate/FAF5-Analysis) - Produce and interactively visualize publicly available geospatial data to support trucking fleets in navigating the transition to alternative energy carriers.
 - [Geo-FTADS-Analysis](https://github.com/mcsc-impact-climate/Geo-FTADS-Analysis) - Produce and interactively visualize publicly available geospatial data to support trucking fleets in navigating the transition to alternative energy carriers.
 - [OpenTripPlanner](https://github.com/opentripplanner/OpenTripPlanner) - An open source multi-modal trip planner, focusing on travel by scheduled public transportation in combination with bicycling, walking, and mobility services including bike share and ride hailing.
+- [ChaProEV](https://github.com/TNO/ChaProEV) - This repository contains the Charging Profiles of Electric Vehicles model.
 
 ### Production and Industry
 - [btp-ai-sustainability-bootcamp](https://github.com/SAP-samples/btp-ai-sustainability-bootcamp) - Showcasing SAP partners how to add Intelligence and Sustainability into your industry cloud solutions on SAP Business Technology Platform.
