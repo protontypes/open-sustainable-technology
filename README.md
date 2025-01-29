@@ -422,6 +422,7 @@ energy system designs and analysis of interactions between technologies.
 - [BlueSky](https://github.com/EIAgov/BlueSky) - An EIA initiative to develop an open source, next generation energy systems model, which will eventually be used to produce the Annual Energy Outlook (AEO) and International Energy Outlook (IEO).
 - [Balmorel](https://github.com/balmorelcommunity/Balmorel) - A bottom-up partial equilibrium energy system model that has traditionally been applied to investigate decarbonisation pathways of sector-coupled energy systems, infrastructure, renewable fuel production and more.
 - [open-energy-modeling-benchmarks](https://github.com/jump-dev/open-energy-modeling-benchmarks) - The purpose of this repository is to collate a collection of benchmarks related to open energy modeling in JuMP.
+- [flixOpt](https://github.com/flixOpt/flixOpt) - Python-based optimization framework designed to tackle energy and material flow problems using mixed-integer linear programming (MILP) and provides a powerful platform for both dispatch and investment optimization challenges.
 
 ### Energy Markets
 - [Grid Singularity Energy Exchange](https://github.com/gridsingularity/gsy-e) - An interface to download and deploy interconnected, grid-aware energy marketplaces.
