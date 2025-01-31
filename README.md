@@ -1899,7 +1899,7 @@ parameter values.
 
 ## Climate Change
 ### Earth and Climate Modeling 
-- [SCREAM](https://github.com/E3SM-Project/scream) - A global atmosphere model targeted towards 3 km ("cloud resolving") resolution.
+- [SCREAM](https://github.com/E3SM-Project/E3SM/tree/master/components/eamxx) - A global atmosphere model targeted towards 3 km ("cloud resolving") resolution.
 - [ESMValTool](https://github.com/ESMValGroup/ESMValTool) - A community diagnostic and performance metrics tool for routine evaluation of Earth system models in World Climate Research Programme.
 - [The Flexible Modeling System](https://github.com/NOAA-GFDL/FMS) - A software framework for supporting the efficient development, construction, execution, and scientific interpretation of atmospheric, oceanic, and climate system models.
 - [global-workflow](https://github.com/NOAA-EMC/global-workflow) - Global Superstructure/Workflow currently supporting the Finite-Volume on a Cubed-Sphere Global Forecast System.
