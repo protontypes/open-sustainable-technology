@@ -472,6 +472,7 @@ energy system designs and analysis of interactions between technologies.
 - [eebus-go](https://github.com/enbility/eebus-go) - Enable your products and services to support the energy management protocol EEBUS, the communication interface that enables energy management relevant devices in buildings to connect and interact with each other and with grid and market operators.
 - [ENERGYDATA.INFO](https://github.com/energy-data/energydata.info) - An open data platform created by the World Bank, providing access to datasets and data analytics that are relevant to the energy sector.
 - [jao-py](https://github.com/fboerman/jao-py) - Python client for the various endpoints offered by the Joint Allocation Office, Europe's single leading trading platform for cross-border transmission capacity.
+- [TUM-EMT Open Data Collection](https://gitlab.lrz.de/energy-management-technologies-public/open-data-collection) - The main aim of this repository is to save the time researchers usually need to explore data and accelerate energy research.
 
 ### Energy Policy
 - [Energy Policy Simulator](https://github.com/EnergyInnovation/eps-us) - The open-source United States Energy Policy Simulator estimates environmental and economic impacts of hundreds of climate and energy policies.
