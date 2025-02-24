@@ -822,6 +822,7 @@ energy system designs and analysis of interactions between technologies.
 - [Energy Efficiency in Programming Languages](https://github.com/nicovank/Energy-Languages) - Provides a benchmarking tool to measure energy efficiency across various programming languages using Docker.
 - [ALUMET](https://github.com/alumet-dev/alumet) - A modular tool that measures energy consumption and performance metrics of CPU and GPU.
 - [carbon.txt](https://github.com/thegreenwebfoundation/carbon.txt) - Syntax and specification for the carbon.txt project.
+- [Tech Carbon Standard](https://github.com/ScottLogic/Technology-Carbon-Standard) - A proposed Technology Carbon Standard that aims to provide a unified standard for understanding, quantifying, and reducing carbon emissions from an organisation's technology landscape.
 
 ### Agriculture and Nutrition
 - [Farmbot](https://github.com/FarmBot/Farmbot-Web-App) - Humanity's open-source CNC farming machine.
