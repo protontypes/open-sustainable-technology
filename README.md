@@ -823,6 +823,7 @@ energy system designs and analysis of interactions between technologies.
 - [Energy Efficiency in Programming Languages](https://github.com/nicovank/Energy-Languages) - Provides a benchmarking tool to measure energy efficiency across various programming languages using Docker.
 - [ALUMET](https://github.com/alumet-dev/alumet) - A modular tool that measures energy consumption and performance metrics of CPU and GPU.
 - [carbon.txt](https://github.com/thegreenwebfoundation/carbon.txt) - Syntax and specification for the carbon.txt project.
+- [EVM Explorer Blockchain Explorer](https://github.com/Pfed-prog/NextJsExplorer) - Blockchain EVM Explorer that provides carbon footprint of addresses on Ethereum as well as tracking climate change focused smart contracts.
 
 ### Agriculture and Nutrition
 - [Farmbot](https://github.com/FarmBot/Farmbot-Web-App) - Humanity's open-source CNC farming machine.
