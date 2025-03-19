@@ -2095,6 +2095,7 @@ parameter values.
 - [Climate Data Operators](https://code.mpimet.mpg.de/projects/cdo) - A collection of command line Operators to manipulate and analyse Climate and NWP model Data.
 - [index_calculator](https://github.com/climate-service-center/index_calculator) - Calculate climate indicators with standardized project-specific attributes.
 - [CLIVAR ENSO Metrics](https://github.com/CLIVAR-PRP/ENSO_metrics) - CLIVAR ENSO Metrics package proposes metric collections addressing science questions about the evaluation of El Niño-Southern Oscillation in climate models.
+- [earthkit](https://github.com/ecmwf/earthkit) - A project led by ECMWF, providing powerful tools for speeding up weather and climate science workflows by simplifying data access, processing, analysis, visualisation and much more.
 
 ### Climate Downscaling
 - [ICAR](https://github.com/NCAR/icar) - A simplified atmospheric model designed primarily for climate downscaling, atmospheric sensitivity tests, and hopefully educational uses.
