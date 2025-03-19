@@ -425,6 +425,7 @@ energy system designs and analysis of interactions between technologies.
 - [flixOpt](https://github.com/flixOpt/flixOpt) - Python-based optimization framework designed to tackle energy and material flow problems using mixed-integer linear programming (MILP) and provides a powerful platform for both dispatch and investment optimization challenges.
 - [resolve](https://github.com/e3-/resolve) - Resolve is a Python-based least-cost capacity expansion model that identifies optimal electricity supply portfolios through capacity expansion and production simulation modeling.
 - [COPPER](https://gitlab.com/sesit/copper) - The Canadian Opportunities for Planning and Production of Electricity Resources (COPPER) framework is a multi-period, optimization-based CEM that co-optimizes investment in thermal generation, REs, transmission network, and storage technologies.
+- [SustainGym](https://github.com/chrisyeh96/sustaingym) - Reinforcement Learning Environments for Sustainable Energy Systems.
 
 ### Energy Markets
 - [Grid Singularity Energy Exchange](https://github.com/gridsingularity/gsy-e) - An interface to download and deploy interconnected, grid-aware energy marketplaces.
