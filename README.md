@@ -904,6 +904,7 @@ energy system designs and analysis of interactions between technologies.
 - [Fields of The World](https://github.com/fieldsoftheworld/ftw-baselines) -  A comprehensive benchmark dataset designed to enhance the development of machine learning models for instance segmentation of agricultural field boundaries.
 - [EuroCropsML](https://github.com/dida-do/eurocropsml) - A pre-processed and ready-to-use machine learning dataset for crop type classification of agricultural parcels in Europe.
 - [street2sat](https://github.com/nasaharvest/street2sat) - A framework for obtaining large data sets of geo-referenced crop type labels obtained from vehicle mounted cameras that can be extended to other applications.
+- [PASTIS](https://github.com/VSainteuf/pastis-benchmark) - A benchmark dataset for panoptic and semantic segmentation of agricultural parcels from satellite time series.
 
 ## Emissions
 ### Carbon Intensity and Accounting 
