@@ -1337,6 +1337,7 @@ parameter values.
 - [lasR](https://github.com/r-lidar/lasR) - Production of canopy height model, digital terrain model, tree detection and segmentation on large coverage.
 - [TreeCrownDelineation](https://github.com/AWF-GAUG/TreeCrownDelineation) - This package performs automatic delineation of individual tree crowns in remote sensing imagery.
 - [rTwig](https://github.com/aidanmorales/rTwig) - A method for correcting unrealistic cylinders in quantitative structure models (QSMs) due to technical limitations of current LiDAR sensor technology in forestry measurements.
+- [CspStandSegmentation](https://github.com/JulFrey/CspStandSegmentation) - An R-package for the segmentation of single trees from forest point clouds scanned with terrestrial, mobile or unmanned LiDAR systems.
 
 
 ### Marine Life and Fishery
