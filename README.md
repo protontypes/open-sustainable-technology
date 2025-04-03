@@ -1266,7 +1266,6 @@ parameter values.
 - [ECOTOXr](https://github.com/pepijn-devries/ECOTOXr) - Provides access in R to ECOTOX, a comprehensive knowledgebase providing single chemical environmental toxicity data on aquatic and terrestrial species.
 - [moveHMM](https://github.com/TheoMichelot/moveHMM) - R package which implements hidden Markov models and associated tools (state decoding, model selection, model checking, etc.) tailored to animal movement modelling.
 
-
 ### Forest Modeling and Analysis
 - [ECOSTRESS](https://ecostress.jpl.nasa.gov/) - The images acquired by ECOSTRESS are the most detailed temperature images of the surface ever acquired from space and can be used to measure the temperature of an individual farmers field and plants.
 - [fgeo](https://github.com/forestgeo/fgeo) - Analyze forest diversity and dynamics.
@@ -1284,6 +1283,8 @@ parameter values.
 - [dfoliatR](https://github.com/chguiterman/dfoliatR) - Provide dendrochronologists with tools for identifying and analyzing the signatures of insect defoliators preserved in tree rings.
 - [fellingdater](https://github.com/hanecakr/fellingdater) - A suite of functions designed to assist dendrochronologists in inferring estimates for felling dates, derived from dated tree-ring series.
 - [ITSMe](https://github.com/lmterryn/ITSMe) - Provide easy to use functions to quickly obtain structural metrics from individual tree point clouds and their respective quantitative structure models.
+- [Bristlecone](https://github.com/AndrewIOM/bristlecone) - An F# library for model-fitting model-selection (MFMS) of ecological models to observational data. The library was developed for tree ring analysis, but can be used for other time-series modelling problems.
+
 
 ### Forest Observation and Management
 - [SEPAL](https://github.com/openforis/sepal) - Empowering people around the world to gain a better understanding of land cover dynamics in forest management by facilitating the efficient access and use of Earth observation data.
