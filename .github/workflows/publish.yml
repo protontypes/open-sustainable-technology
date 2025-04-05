@@ -22,6 +22,9 @@ jobs:
       - name: Add meta tags to index.md
         run: cat docs/meta_tags.md | cat - docs/index.md > temp && mv temp docs/index.md
 
+      - name: Get plots 
+        run: wget https://raw.githubusercontent.com/protontypes/osta/refs/heads/main/download_plot.html -P ./docs
+
       - uses: actions/setup-python@v2
         with:
           python-version: 3.x
