@@ -478,6 +478,7 @@ energy system designs and analysis of interactions between technologies.
 - [jao-py](https://github.com/fboerman/jao-py) - Python client for the various endpoints offered by the Joint Allocation Office, Europe's single leading trading platform for cross-border transmission capacity.
 - [TUM-EMT Open Data Collection](https://gitlab.lrz.de/energy-management-technologies-public/open-data-collection) - The main aim of this repository is to save the time researchers usually need to explore data and accelerate energy research.
 - [Grid Mapping Starter Kit](https://github.com/open-energy-transition/grid-mapping-starter-kit) - A starter kit for Electrical Transmission Grid Mapping in OpenStreetMap, combining Osmose and Overpass with JOSM.
+- [OpenSynth](https://github.com/OpenSynth-energy/OpenSynth) - Contains 10 million synthetic load profiles of trained on over 300M smart meter readings from 20K Octopus Energy UK households sampled between 2021 and 2022.
 
 ### Energy Policy
 - [Energy Policy Simulator](https://github.com/EnergyInnovation/eps-us) - The open-source United States Energy Policy Simulator estimates environmental and economic impacts of hundreds of climate and energy policies.
