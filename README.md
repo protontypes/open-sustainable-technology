@@ -1135,6 +1135,7 @@ energy system designs and analysis of interactions between technologies.
 - [warbleR](https://github.com/maRce10/warbleR) - Is intended to facilitate the analysis of the structure of animal acoustic signals in R.
 - [BirdSet](https://github.com/DBD-research-group/BirdSet) - A benchmark dataset collection for bird sound classification.
 - [birdnetR](https://github.com/birdnet-team/birdnetR) - Is geared towards providing a robust workflow for ecological data analysis in bioacoustic projects.
+- [Arbimon](https://github.com/rfcx/arbimon) - Ecoacoustic analysis platform empowering conservationists to analyze acoustic data and to derive insights about the ecosystem at scale.
 
 ### Biomass
 - [Forest Carbon database](https://github.com/forc-db/ForC) - Global Forest Carbon Database.
