@@ -1180,6 +1180,7 @@ energy system designs and analysis of interactions between technologies.
 - [Naturblick iOS](https://github.com/MfN-Berlin/naturblick-ios) - Identify plants and animals and learn more about nature in your city.
 - [Gottesanbeterin Gesucht](https://github.com/opendata-apps/mantis) - An interactive web application to track Mantis Religiosa sightings in Brandenburg.
 - [Arena](https://github.com/openforis/arena) - A cloud-based platform that enables fast, flexible setup and data entry for various field surveys, including biophysical, socio-economic, and biodiversity inventories.
+- [Green Goods](https://github.com/greenpill-dev-guild/green-goods) - Measures, tracks, and rewards the impact on gardens with a simple progressive web app.
 
 ### Biodiversity Data Access and Management
 - [pygbif](https://github.com/gbif/pygbif) - Making the data of the Global Biodiversity Information Facility API accessible via Python.
