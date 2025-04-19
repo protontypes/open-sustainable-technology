@@ -61,6 +61,9 @@ markdown_extensions:
   - meta
   - attr_list
   - md_in_html
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
   - toc:
       permalink: true
   - pymdownx.emoji:
@@ -75,8 +78,6 @@ extra:
   social:
     - icon: fontawesome/brands/mastodon
       link: https://mastodon.social/@opensustaintech
-    - icon: simple/bluesky
-      link: https://bsky.app/profile/opensustaintech.bsky.social
     - icon: fontawesome/brands/linkedin
       link: https://linkedin.com/company/protontypes
   analytics:
