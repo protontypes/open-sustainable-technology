@@ -1893,6 +1893,7 @@ parameter values.
 - [dwd_weather](https://github.com/FL550/dwd_weather) - Deutscher Wetterdienst integration for Home-Assistant.
 - [WRFtailor](https://github.com/anikfal/wrftailor) - Tailoring and modification of the WRF model input data.
 - [Extreme Weather Bench](https://github.com/brightbandtech/ExtremeWeatherBench) - Builds on the successful work of WeatherBench and introduces a set of high-impact weather events, spanning across multiple spatial and temporal scales and different parts of the weather spectrum.
+- [StationBench](https://github.com/juaAI/stationbench) - A Python library for benchmarking weather forecasts against weather station data. It provides tools to calculate metrics, visualize results, and compare different forecast models.
 
 ### Radiative Transfer
 - [lowtran](https://github.com/space-physics/lowtran) - Atmospheric absorption extinction, scatter and irradiance model in Python and Matlab.
