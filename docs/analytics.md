@@ -9,19 +9,19 @@ This page provides analytics of the current state of the open source ecosystem i
 
 === "Unordered List"
 
-    <iframe src="../download_plot.html" width="100%" height="1000px"></iframe>
+    <iframe src="../download_plot.html" width="80%" height="1000px" "loading=lazy" ></iframe>
 
 === "Ordered List"
 
-    <iframe src="../download_plot.html" width="100%" height="1000px"></iframe>
+    <iframe src="../download_plot.html" width="80%" height="1000px" "loading=lazy" ></iframe>
 
 === "Ordered List"
 
-    <iframe src="../download_plot.html" width="100%" height="1000px"></iframe>
+    <iframe src="../download_plot.html" width="80%" height="1000px" "loading=lazy" ></iframe>
 
 === "Ordered List"
 
-    <iframe src="../download_plot.html" width="100%" height="1000px"></iframe>
+    <iframe src="../download_plot.html" width="80%" height="1000px" "loading=lazy"></iframe>
 
 ## Package Downloads
 
