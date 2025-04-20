@@ -1136,6 +1136,7 @@ energy system designs and analysis of interactions between technologies.
 - [BirdSet](https://github.com/DBD-research-group/BirdSet) - A benchmark dataset collection for bird sound classification.
 - [birdnetR](https://github.com/birdnet-team/birdnetR) - Is geared towards providing a robust workflow for ecological data analysis in bioacoustic projects.
 - [Arbimon](https://github.com/rfcx/arbimon) - Ecoacoustic analysis platform empowering conservationists to analyze acoustic data and to derive insights about the ecosystem at scale.
+- [acoupi](https://github.com/acoupi/acoupi) - A Python package that streamlines bioacoustic classifier deployment on edge devices like the Raspberry Pi.
 
 ### Biomass
 - [Forest Carbon database](https://github.com/forc-db/ForC) - Global Forest Carbon Database.
