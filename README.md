@@ -302,6 +302,7 @@
 - [BLAST-Lite](https://github.com/NREL/BLAST-Lite) - Battery Lifetime Analysis and Simulation Toolsuite provides a library of battery lifetime and degradation models for various commercial lithium-ion batteries from recent years.
 - [RFB-dev-kit](https://codeberg.org/FBRC/RFB-dev-kit) - A benchtop flow battery development kit, extendable to other electrochemical systems with flow.
 - [FAIR-Battery](https://github.com/SanliFaez/FAIR-Battery) - We seek to present an open-hardware platform for a versatile battery technology and make the platform radically accessible.
+- [Homeassistant E3DC Integration](https://github.com/fl4p/batmon-ha) - Monitor and control various Battery management systems (BMS) over Bluetooth and send the results to Home Assistant. 
 
 ### Hydrogen
 - [OPEM](https://github.com/ECSIM/opem) - A modeling tool for evaluating the performance of proton exchange membrane fuel cells.
