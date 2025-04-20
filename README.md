@@ -572,6 +572,7 @@ energy system designs and analysis of interactions between technologies.
 - [PyPSA-PL](https://github.com/instrat-pl/pypsa-pl) - An implementation of the energy modelling framework PyPSA shipped with a use-ready dataset tailored for the Polish energy system.
 - [PyPSA-GB](https://github.com/andrewlyden/PyPSA-GB) - An open dataset and power dispatch model of the GB transmission network using country-specific data over historical years and for future energy scenarios.
 - [osemosys_global](https://github.com/OSeMOSYS/osemosys_global) - An open-source, open-data model generator for creating global energy system models.
+- [PyPSA-KZ](https://github.com/pypsa-meets-earth/pypsa-kz-data) - Aims to model the Kazakh power system, incorporating a substantial increase in variable generation, such as solar and wind, surpassing the current official mid-term policy goal of 15% of all renewable energy sources in generation by 2030.
 
 
 ### Renewable Energy Integration
