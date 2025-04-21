@@ -1,7 +1,7 @@
 # A New Chapter for ClimateTriage
 
 __Tobias Augspurger__  [:fontawesome-brands-linkedin:](https://www.linkedin.com/in/tobias-augspurger/) · __Chris Harris__ [:fontawesome-brands-linkedin:](https://www.linkedin.com/in/chris-harris-11512878/) · __Michael Scheiwiller__  [:fontawesome-brands-linkedin:](https://www.linkedin.com/in/michael-scheiwiller-72086a1a0/) · __Andrew Nesbitt__  [:fontawesome-brands-mastodon:](https://mastodon.social/@andrewnez) · __Richard Littauer__ [:fontawesome-brands-linkedin:](https://www.linkedin.com/in/richard-littauer-130026138/) · __Thomas Gram__ [:fontawesome-brands-linkedin:](https://www.linkedin.com/in/thomasegebrandgram/)
-:octicons-calendar-25: April 21, 2025
+:octicons-calendar-24: April 21, 2025
 
 ---
 
