@@ -17,7 +17,7 @@ In addition to GitHub, another partner is helping to scale this initiative. Chri
   ![](inf-sustain.png){ width="200" }
 </figure>
 
-## What’s New?
+### What’s New?
 
 So what have we improved since launch the first prototype more than one year ago? 
 
@@ -27,7 +27,7 @@ So what have we improved since launch the first prototype more than one year ago
 
 * A community chat to help contributors find projects and organisations they can help. If you are new to open source or an expert, you are invited to match your ideal contribution to the space. We have learned that the unique insights we have gained from reviewing and investigating thousands of projects in the space can help others find the ideal projects. A search engine is sometimes not enough, so we offer real people to help match people and projects. Join our open community chat for free advice on where to start and where your skills are most needed: Join our [Commmunity Chat](https://discord.gg/JDUatGKxve).
 
-## What’s Next?
+### What’s Next?
 
 To improve the user experience and reach of Good First Issues in Climate and Sustainability, we have several new features in development that will be integrated soon:
 
