@@ -13,6 +13,8 @@ nav:
   - Contribute: contributing.md
   - Presentations: "presentations.md"
   - Blog:
+      2025:
+        - "Scaling ClimateTriage Together" : blog/climatetriage-relaunch.md
       2024:
         - "Empowering Community-Driven Funding with OpenClimate.fund" : blog/openclimatefund.md
         - "Closing the Gap: Accelerating environmental Open Source" : blog/closing-the-gap.md
