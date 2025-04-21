@@ -522,6 +522,7 @@ energy system designs and analysis of interactions between technologies.
 - [Open Infrastructure Map](https://github.com/openinframap/openinframap) - A view of the world's energy and water infrastructure mapped in the OpenStreetMap database.
 - [MicroGridsPy](https://github.com/MicroGridsPy/MicroGridsPy) - Provide an open-source alternative to the problem of sizing and dispatch of energy in micro-grids in isolated places.
 - [earth-osm](https://github.com/pypsa-meets-earth/earth-osm) - Provides a Python API and a CLI interface to extract data for various power infrastructure types, such as power lines, substations, and more.
+- [HVDC-Wise lib](https://github.com/HVDC-WISE/HVDC-Wise_lib) - Hosts a library of HVDC equipment models for model exchange, based on the IEC CIM/CGMES standard format.
 
 ### Grid Management and Microgrid
 - [Open Smart Grid Platform](https://github.com/OSGP/open-smart-grid-platform) - An open, generic, scalable and independent 'Internet of Things' platform, which enables various connected smart objects in the public space to be easily controlled and monitored.
