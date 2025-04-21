@@ -594,6 +594,7 @@ energy system designs and analysis of interactions between technologies.
 - [atlite](https://github.com/PyPSA/atlite) - Light-weight version of Aarhus RE Atlas for converting weather data to power systems data.
 - [REHO](https://github.com/IPESE/REHO) - A decision support tool for sustainable urban energy system planning.
 - [REVOL-E-TION](https://github.com/TUMFTM/REVOL-E-TION) - An energy system model toolbox designed to optimize integration of electric vehicle fleets into local energy systems such as mini- and microgrids, company sites, apartment blocks or single homes and estimate the resulting technoeconomic potentials in terms of costs and revenues within the energy.
+- [GermanRenewableEnergy](https://github.com/openkfw/GermanRenewableEnergy) - Calculates renewable energy power for all German solar panels and wind turbines.
 
 ## Consumption
 ### Buildings and Heating 
