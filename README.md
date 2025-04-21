@@ -1499,6 +1499,7 @@ parameter values.
 - [FireAlert](https://github.com/Plant-for-the-Planet-org/FireAlert) - Alerts you when heat anomalies are detected by NASA's FIRMS in your forest.
 - [Planscape](https://github.com/OurPlanscape/Planscape) - Help regional planners prioritize landscape treatments for mitigating fire risk, maximizing ecological benefits and helping California′s landscapes adapt to climate change.
 - [PyroRL](https://github.com/sisl/PyroRL) - Simulates evacuating populated areas through paths from a grid world containing wildfires.
+- [rlandfire](https://github.com/bcknr/rlandfire) - Provides access to a diverse suite of spatial data layers via the LANDFIRE Product Services (LFPS) API.
 
 ## Cryosphere
 ### Sea Ice
