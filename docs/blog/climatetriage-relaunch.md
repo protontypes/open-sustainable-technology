@@ -1,11 +1,11 @@
 # Scaling ClimateTriage Together
 
 __Tobias Augspurger__  [:fontawesome-brands-linkedin:](https://www.linkedin.com/in/tobias-augspurger/) · __Chris Harris__ [:fontawesome-brands-linkedin:](https://www.linkedin.com/in/chris-harris-11512878/) · __Michael Scheiwiller__  [:fontawesome-brands-linkedin:](https://www.linkedin.com/in/michael-scheiwiller-72086a1a0/) · __Andrew Nesbitt__  [:fontawesome-brands-mastodon:](https://mastodon.social/@andrewnez) · __Richard Littauer__ [:fontawesome-brands-linkedin:](https://www.linkedin.com/in/richard-littauer-130026138/) · __Thomas Gram__[:fontawesome-brands-linkedin:](https://www.linkedin.com/in/thomasegebrandgram/)
-:octicons-calendar-24: December 18, 2024
+:octicons-calendar-25: April 21, 2025
 
 ---
 
-With GitHub's support, we are launching a new chapter of ClimateTriage as part of the GitHub Climate Action Plan for Developers event at San Francisco Climate Week. It is truly an opportunity to partner with the largest platform for open source collaboration on a common mission: To get more developers involved in open source climate and sustainability projects. 
+With GitHub's support, we are launching a new chapter of ClimateTriage as part of the GitHub [Climate Action Plan for Developers event at San Francisco Climate Week](https://github.com/social-impact/focus-areas/environmental-sustainability/climate-action-plan-for-developers). It is truly an opportunity to partner with the largest platform for open source collaboration on a common mission: To get more developers involved in open source climate and sustainability projects. 
 
 ### Why?
 Because there are few similar fields where an individual's contribution can have a greater impact on preserving natural resources and sustainability for future generations. Whatever your skill set, we can help you find an open source or open data community where you can contribute evidence-based, collaborative insights to fight climate change and natural destruction. Over the years, we've seen thousands of developers change the way sustainability is valued, making it more trustworthy and transparent in an open source way. ClimateTriage also serves as an ideal filter for active projects with an open and growing community, highlighting projects in the OpenSustain.tech database that welcome new developers to join the projects and can be guided by the community with Good First Issues on how to get engadget.
