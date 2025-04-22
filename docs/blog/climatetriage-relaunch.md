@@ -6,7 +6,7 @@ __Tobias Augspurger__  [:fontawesome-brands-linkedin:](https://www.linkedin.com/
 
 ---
 
-We are launching a new chapter of [ClimateTriage](https://climatetriage.com/) as part of the GitHub [Climate Action Plan for Developers](https://github.com/social-impact/focus-areas/environmental-sustainability/climate-action-plan-for-developers), presented today at the San Francisco Climate Week. Together with GitHub, we are joining forces on a common mission: To get more developers involved in open source climate and sustainability projects. 
+We are opening a new chapter of [ClimateTriage](https://climatetriage.com/) as part of the GitHub [Climate Action Plan for Developers](https://github.com/social-impact/focus-areas/environmental-sustainability/climate-action-plan-for-developers), presented today at the San Francisco Climate Week. Together with GitHub, we are joining forces on a common mission: To get more developers involved in open source climate and sustainability projects. 
 
 ### Why?
 Because there are few similar fields where an individual's contribution can have a greater impact on preserving natural resources for future generations. Whatever your skill set, we can help you find an open source or open data community where you can contribute evidence-based, collaborative insights to fight climate change and natural destruction. Over the years, we've seen thousands of developers change the way sustainability is valued, making it more trustworthy and transparent in an open source way. ClimateTriage also a filter for active projects with an open and growing community, highlighting projects in the OpenSustain.tech database that welcome new developers to join the projects and can be guided by the community with Good First Issues on how to get involved.
