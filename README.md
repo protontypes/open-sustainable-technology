@@ -431,6 +431,7 @@ energy system designs and analysis of interactions between technologies.
 - [COPPER](https://gitlab.com/sesit/copper) - The Canadian Opportunities for Planning and Production of Electricity Resources (COPPER) framework is a multi-period, optimization-based CEM that co-optimizes investment in thermal generation, REs, transmission network, and storage technologies.
 - [SustainGym](https://github.com/chrisyeh96/sustaingym) - Reinforcement Learning Environments for Sustainable Energy Systems.
 - [IESopt.jl](https://github.com/ait-energy/IESopt.jl) - Modeling and optimization framework for integrated energy systems.
+- [FINPLAN](https://github.com/FINPLAN-Model/FINPLAN-Code) - Evaluates the financial performance of power plant projects over their lifetime by comparing the cost components with available financing sources.
 
 ### Energy Markets
 - [Grid Singularity Energy Exchange](https://github.com/gridsingularity/gsy-e) - An interface to download and deploy interconnected, grid-aware energy marketplaces.
