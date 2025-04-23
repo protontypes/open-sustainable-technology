@@ -1128,6 +1128,7 @@ energy system designs and analysis of interactions between technologies.
 - [bbsBayes2](https://github.com/bbsBayes/bbsBayes2) - An R Package for Hierarchical Bayesian Analysis of North American Breeding Bird Survey Data.
 - [birdnet](https://github.com/birdnet-team/birdnet) - The library is geared towards providing a robust workflow for ecological data analysis in bioacoustic projects.
 - [Nighthawk](https://github.com/bmvandoren/Nighthawk) - A machine learning model for acoustic monitoring of nocturnal bird migration.
+- [GenoFLU](https://github.com/USDA-VS/GenoFLU) - Bird influenza data pipeline to automate genotyping assignment.
 
 ### Bioacoustics and Acoustic Data Analysis
 - [vak](https://github.com/vocalpy/vak) - A neural network framework for animal acoustic communication and bioacoustics.
