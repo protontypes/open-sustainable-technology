@@ -949,6 +949,7 @@ energy system designs and analysis of interactions between technologies.
 - [GHGPy](https://github.com/iClimate/ghgpy) - An open source greenhouse gas accounting tool that complies with IPCC 2006 and the GHG Protocol.
 - [Nos Gestes Climat](https://github.com/incubateur-ademe/nosgestesclimat) - In 10 Minutes,get an estimate of your carbon footprint.
 - [Carbon Intensity API](https://github.com/carbon-intensity/api-definitions) - The Carbon Intensity API uses cutting-edge machine learning and sophisticated power system modelling to forecast carbon intensity and generation mix 96+ hours ahead for every region in the UK.
+- [Eco Surf Analyser](https://github.com/les-enovateurs/estimate-good-website) - A browser extension that provides sustainability scores for websites, helping users understand the environmental impact of their browsing habits.
 
 
 ### Carbon Offsets and Trading 
