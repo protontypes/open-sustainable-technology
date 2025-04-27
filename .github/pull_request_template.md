@@ -14,6 +14,4 @@ All listed projects on [OpenSustain.tech](https://opensustain.tech/) will be sup
 
 1. Issues labeled as **Good First Issue** will be visible on [ClimateTriage.com](https://climatetriage.com/). This is a great way to welcome new community members to your project.
 2. All new projects listed will be posted on our [Mastodon](https://mastodon.social/@opensustaintech) and [Bluesky](https://bsky.app/profile/opensustaintech.bsky.social) channel. 
-3. Listed projects that provide a donation option can by nominated via [OpenClimate.fund](https://openclimate.fund/). All projects currently supported can be found [here](https://opensustain.tech/spreadsheet/).
 
-**Insert a project you want to nominate for a microgrant here:**  _If no project is nominated by the pull request author, developers mentioned in the comments can nominate a project._
