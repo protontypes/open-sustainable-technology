@@ -13,7 +13,7 @@ jobs:
         with:
           fetch-depth: 2
 
-      - name: Extract Line with URL as Toot
+      - name: Extract Line with URL 
         env:
           default_message: "We are welcoming a new project at OpenSustain.tech #climate #sustainability #opensource #opensustain "
         run: |
