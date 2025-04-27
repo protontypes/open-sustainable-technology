@@ -15,7 +15,7 @@ jobs:
 
       - name: Extract Line with URL as Toot
         env:
-          default_message: " We are welcoming a new project at OpenSustain.tech #climate #sustainability #opensource #opensustain"
+          default_message: "We are welcoming a new project at OpenSustain.tech #climate #sustainability #opensource #opensustain "
         run: |
               toot_message="$(cat toot | grep -m 1 https*)"$default_hashtags
               echo "toot_message=$toot_message" >> $GITHUB_ENV
