@@ -31,6 +31,7 @@ jobs:
       - name: Send toot to Mastodon
         id: mastodon
         uses: cbrgm/mastodon-github-action@v2
+        if: "contains(URL_git_combine, 'https')"
         with:
             access-token: ${{ secrets.MASTODON_ACCESS_TOKEN }} # access token
             url: ${{ secrets.MASTODON_URL }} # https://example.social
@@ -39,6 +40,7 @@ jobs:
       - name: Send post to Bluesky
         id: bluesky_post
         uses: myConsciousness/bluesky-post@v5
+        if: "contains(URL_git, 'https')"
         with:
           text: ${{ env.toot_message }}
           link-preview-url: ${{ env.URL_git }}
