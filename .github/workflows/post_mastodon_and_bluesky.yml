@@ -22,6 +22,11 @@ jobs:
               URL_git_combine=$default_message"$URL_git"
               echo "URL_git=$URL_git" >> $GITHUB_ENV
               echo "URL_git_combine=$URL_git_combine" >> $GITHUB_ENV
+              if [ -z "$URLS" ]; then
+                echo "No new URLs found in README.md. Skipping the rest of the job."
+                exit 0
+              fi
+              
       
       - name: Send toot to Mastodon
         id: mastodon
