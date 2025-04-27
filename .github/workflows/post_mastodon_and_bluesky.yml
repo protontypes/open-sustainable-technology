@@ -17,7 +17,6 @@ jobs:
         env:
           default_message: "We are welcoming a new project at OpenSustain.tech #climate #sustainability #opensource #opensustain "
         run: |
-              toot_message="$(cat toot | grep -m 1 https*)"$default_hashtags
               echo "toot_message=$toot_message" >> $GITHUB_ENV
               URL_git="$(git diff HEAD^ HEAD -- README.md | grep '^+' | grep -v '^+++' | grep -o 'https://[a-zA-Z0-9./?=_-]\+' || true)"
               URL_git_combine=$default_message"$URL_git"
