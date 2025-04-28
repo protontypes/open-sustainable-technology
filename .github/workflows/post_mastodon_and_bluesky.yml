@@ -31,7 +31,7 @@ jobs:
       - name: Send toot to Mastodon
         id: mastodon
         uses: cbrgm/mastodon-github-action@v2
-        if: "contains(URL_git_combine, 'https')"
+        if: "contains(env.URL_git_combine, 'https')"
         with:
             access-token: ${{ secrets.MASTODON_ACCESS_TOKEN }} # access token
             url: ${{ secrets.MASTODON_URL }} # https://example.social
