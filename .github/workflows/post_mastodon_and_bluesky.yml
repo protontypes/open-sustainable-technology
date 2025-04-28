@@ -22,7 +22,7 @@ jobs:
               URL_git_combine=$default_message"$URL_git"
               echo "URL_git=$URL_git" >> $GITHUB_ENV
               echo "URL_git_combine=$URL_git_combine" >> $GITHUB_ENV
-              if [ -z "$URLS" ]; then
+              if [ -z "$URL_git" ]; then
                 echo "No new URLs found in README.md. Skipping the rest of the job."
                 exit 0
               fi
@@ -40,7 +40,7 @@ jobs:
       - name: Send post to Bluesky
         id: bluesky_post
         uses: myConsciousness/bluesky-post@v5
-        if: "contains(URL_git, 'https')"
+        if: "contains(env.URL_git, 'https')"
         with:
           text: ${{ env.toot_message }}
           link-preview-url: ${{ env.URL_git }}
