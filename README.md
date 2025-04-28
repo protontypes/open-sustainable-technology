@@ -2627,7 +2627,7 @@ parameter values.
 - [FOODON](https://github.com/FoodOntology/foodon) - Provides a neutral and ontology-driven standard for government agencies, industry, nonprofits and consumers to name and reference food products and their components throughout the food supply chain.
 - [BuildingMOTIF](https://github.com/NREL/BuildingMOTIF) - Enabling the semantic interoperability of advanced building technologies needed to fully decarbonise buildings.
 - [CEON](https://github.com/LiUSemWeb/CEON) - The Circular Economy Ontology Network provides a shared vocabulary in the form of a network of ontologies to support efficient decentralized sharing of industry data in circular economies.
-
+- [modisfast](https://github.com/ptaconet/modisfast) - An R package designed for easy and fast downloads of MODIS Land products, VIIRS Land products, and GPM (Global Precipitation Measurement Mission) Earth Observation data.
 
 ### Curated Lists
 - [Datasets APIs and open source projects related to Climate Change](https://github.com/KKulma/climate-change-data) - A curated list of APIs, open data and ML/AI projects on climate change.
