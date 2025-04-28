@@ -2483,6 +2483,7 @@ parameter values.
 - [HeCo Invest](https://www.vizzuality.com/project/heco-invest) - A digital collaborative platform pilot aimed to support filling the conservation financing gap in the Amazon Basin by optimizing project financing channels in this region.
 - [DEEP](https://github.com/sovereign-nature/deep) - Our goal is to reconfigure the economics of ecology by finding ways to fund and expand projects that sustain life on our planet.
 - [Greenlang](https://github.com/fingreen-ai/greenlang) - The first open-source component promoting transparency, interoperability, and collaboration in the ESG reporting domain.
+- [FINPLAN](https://github.com/FINPLAN-Model/FINPLAN-UI) - Tool that evaluates the financial performance of power plant projects over their lifetime by comparing the cost components with available financing sources.
 
 ### Knowledge Platforms
 - [Climate Watch](https://github.com/ClimateWatch-Vizzuality/climate-watch) - Offers open data, visualizations and analysis to help policymakers, researchers and other stakeholders gather insights on countries' climate progress.
