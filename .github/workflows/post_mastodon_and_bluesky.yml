@@ -17,7 +17,6 @@ jobs:
         env:
           default_message: "We are welcoming a new project at OpenSustain.tech #climate #sustainability #opensource #opensustain "
         run: |
-              echo "toot_message=$toot_message" >> $GITHUB_ENV
               URL_git="$(git diff HEAD^ HEAD -- README.md | grep '^+' | grep -v '^+++' | grep -o 'https://[a-zA-Z0-9./?=_-]\+' || true)"
               URL_git_combine=$default_message"$URL_git"
               echo "URL_git=$URL_git" >> $GITHUB_ENV
@@ -42,7 +41,7 @@ jobs:
         uses: myConsciousness/bluesky-post@v5
         if: "contains(env.URL_git, 'https')"
         with:
-          text: ${{ env.toot_message }}
+          text: ${{ env.URL_git_combine }}
           link-preview-url: ${{ env.URL_git }}
           identifier: "opensustaintech.bsky.social"
           password: ${{ secrets.BLUESKY_PASSWORD }}
