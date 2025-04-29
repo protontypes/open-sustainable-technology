@@ -2195,7 +2195,7 @@ parameter values.
 - [SynxFlow](https://github.com/SynxFlow/SynxFlow) - Dynamically simulate flood inundation, landslides runout and debris flows using multiple CUDA-enabled GPUs.
 - [Humanitarian OpenStreetMap](https://github.com/hotosm/hotosm-website) - Provide map data which revolutionises disaster management, reduces risks, and contributes to achievement of the Sustainable Development Goals.
 - [FLEXTH](https://code.europa.eu/floods/floods-river/flexth) - Flood extent enhancement and water depth estimation tool for satellite-derived inundation maps.
-
+- [pyTCR](https://github.com/levuvietphong/pyTCR) - A physics-based model developed in python to estimate rainfall induced by tropical cyclones.
 
 ### Integrated Assessment and Climate Policy 
 - [PRIMAP2](https://github.com/pik-primap/primap2) - The next generation climate policy analysis suite.
