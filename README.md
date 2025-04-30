@@ -604,6 +604,7 @@ energy system designs and analysis of interactions between technologies.
 
 ## Consumption
 ### Buildings and Heating 
+- [Sinergym](https://github.com/ugr-sail/sinergym) - This tool provides a Gymnasium-based interface to interact with simulation engines such as EnergyPlus. This allows control in simulation time through custom controllers, including reinforcement learning agents.
 - [scout](https://github.com/trynthink/scout) - A tool for estimating the future energy use, carbon emissions, and capital and operating cost impacts of energy efficiency and demand flexibility technologies in the U.S. residential and commercial building sectors.
 - [BOPTEST](https://github.com/ibpsa/project1-boptest) - The Building Optimization Testing (BOPTEST) Framework enables the assessment and benchmarking of control algorithms for building energy management.
 - [BOPTEST-Gym](https://github.com/ibpsa/project1-boptest-gym) - The OpenAI-Gym interface of the BOPTEST framework facilitates the assessment and benchmarking of RL algorithms for building energy management.
