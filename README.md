@@ -1360,6 +1360,7 @@ parameter values.
 - [rTwig](https://github.com/aidanmorales/rTwig) - A method for correcting unrealistic cylinders in quantitative structure models (QSMs) due to technical limitations of current LiDAR sensor technology in forestry measurements.
 - [CspStandSegmentation](https://github.com/JulFrey/CspStandSegmentation) - An R-package for the segmentation of single trees from forest point clouds scanned with terrestrial, mobile or unmanned LiDAR systems.
 - [Restor Foundation Tree Crown Delineation Pipeline](https://github.com/Restor-Foundation/tcd) - A powerful and easy-to-use pipeline for detecting individual trees and tree canopy in aerial images.
+- [nrt](https://github.com/ec-jrc/nrt) - Python package for near real time detection of change in spatio-temporal datasets, with a focus on forest disturbances mapping.
 
 
 ### Marine Life and Fishery
