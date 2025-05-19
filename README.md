@@ -1914,6 +1914,7 @@ parameter values.
 - [Extreme Weather Bench](https://github.com/brightbandtech/ExtremeWeatherBench) - Builds on the successful work of WeatherBench and introduces a set of high-impact weather events, spanning across multiple spatial and temporal scales and different parts of the weather spectrum.
 - [StationBench](https://github.com/juaAI/stationbench) - A Python library for benchmarking weather forecasts against weather station data. It provides tools to calculate metrics, visualize results, and compare different forecast models.
 - [WeatherGenerator](https://github.com/ecmwf/WeatherGenerator) - A machine learning-based Earth system models that is trained on a wide range of datasets, including reanalyses, forecast data and observations, to provide a robust and versatile model for the dynamics.
+- [CREDIT](https://github.com/NCAR/miles-credit) - An open software platform to train and deploy AI atmospheric prediction model.
 
 ### Radiative Transfer
 - [lowtran](https://github.com/space-physics/lowtran) - Atmospheric absorption extinction, scatter and irradiance model in Python and Matlab.
