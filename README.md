@@ -1150,6 +1150,7 @@ energy system designs and analysis of interactions between technologies.
 - [birdnetR](https://github.com/birdnet-team/birdnetR) - Is geared towards providing a robust workflow for ecological data analysis in bioacoustic projects.
 - [Arbimon](https://github.com/rfcx/arbimon) - Ecoacoustic analysis platform empowering conservationists to analyze acoustic data and to derive insights about the ecosystem at scale.
 - [acoupi](https://github.com/acoupi/acoupi) - A Python package that streamlines bioacoustic classifier deployment on edge devices like the Raspberry Pi.
+- [BatDetect2](https://github.com/macaodha/batdetect2) -  Code for detecting and classifying bat echolocation calls in high frequency audio recordings.
 
 ### Biomass
 - [Forest Carbon database](https://github.com/forc-db/ForC) - Global Forest Carbon Database.
