@@ -2227,6 +2227,7 @@ parameter values.
 - [Future Technology Transformation](https://github.com/cpmodel/FTT_StandAlone) - Integrated assessment model with a realistic treatment of technology diffusion.
 - [SDEverywhere](https://github.com/climateinteractive/SDEverywhere) - The framework for system dynamics models created for the global climate simulator En-ROADS, the climate policy simulator C-ROADS and the Energy Policy Simulator.
 - [GCAM-China](https://github.com/umd-cgs/gcam-china) - The Global Change Analysis Model with China provincial-level details.
+- [Open Source Empirical Macro Model](https://github.com/moritzpschwarz/osem) - Study Climate Policies and the wider Macro-economy that can easily be applied to all EU countries
 
 
 ## Natural Resources
