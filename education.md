@@ -122,6 +122,7 @@
 - [WSL Julia Workshop 2023](https://github.com/vboussange/WSLJuliaWorkshop2023) - Practical introduction to Julia for modelling and data analysis in biodiversity and earth sciences.
 - [Ecological forecasting with R](https://github.com/nicholasjclark/physalia-forecasting-course) - In this course you will learn how to wrangle, visualize and explore ecological time series.
 - [An introduction to Systematic conservation planning with prioritzr](https://github.com/iiasa/eccb2024) - Learn about the basic concepts of systematic conservation planning (SCP) and more specifically algorithmic solutions identifying planning outcomes.
+- [OpenRefine-ecology](https://github.com/datacarpentry/OpenRefine-ecology-lesson) - Data Cleaning with OpenRefine for Ecologists.
 
 ### Hydrosphere
 - [MarineEcosystemsJuliaCon2021.jl](https://github.com/JuliaOcean/MarineEcosystemsJuliaCon2021.jl) - Modeling Marine Ecosystems At Multiple Scales Using Julia.
