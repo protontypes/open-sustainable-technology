@@ -2013,6 +2013,7 @@ parameter values.
 - [h5netcdf](https://github.com/h5netcdf/h5netcdf) - A Python interface for the netCDF4 file format that reads and writes local or remote HDF5 files directly via h5py or h5pyd, without relying on the Unidata netCDF library.
 - [xarray](https://github.com/pydata/xarray) - An open source project and Python package that introduces labels in the form of dimensions, coordinates, and attributes on top of raw NumPy-like arrays, which allows for more intuitive, more concise, and less error-prone user experience.
 - [cf-xarray](https://github.com/xarray-contrib/cf-xarray) - An accessor for xarray objects that interprets CF attributes.
+- [icechunk](https://github.com/earth-mover/icechunk) - An open-source transactional storage engine for tensor / ND-array data designed for use on cloud object storage.
 - [kerchunk](https://github.com/fsspec/kerchunk) - A library that provides a unified way to represent a variety of chunked, compressed data formats (e.g. NetCDF, HDF5, GRIB), allowing efficient access to the data from traditional file systems or cloud object storage.
 - [Zarr](https://github.com/zarr-developers/zarr-python) -  Provides an efficient, scalable, and flexible way to store and access large, multi-dimensional arrays, the core data format used in climate models and observational datasets.
 
