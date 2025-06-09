@@ -1429,6 +1429,7 @@ parameter values.
 - [Pacific Salmon Explorer](https://github.com/salmonwatersheds/tech-report) - Methods for assessing status and trends in Pacific salmon Conservation Units and their freshwater habitats.
 - [dia](https://github.com/danStich/dia) - An R package for hosting code and data, and running the Atlantic salmon Dam Impact Analysis (DIA) model.
 - [TropFishR](https://github.com/tokami/TropFishR) - A collection of fisheries models based on the FAO Manual "Introduction to tropical fish stock assessment".
+- [FLCore](https://github.com/flr/FLCore) - Contains the core classes and methods for FLR, a framework for fisheries modelling and management strategy simulation in R.
 
 
 ### Plants and Vegetation
