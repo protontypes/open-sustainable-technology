@@ -1662,6 +1662,7 @@ parameter values.
 - [Amanzi](https://github.com/amanzi/amanzi) - Provides a flexible and extensible parallel flow and reactive transport simulation capability for environmental applications.
 - [fluvgeo](https://github.com/FluvialGeomorph/fluvgeo) - An R Package for Performing Fluvial Geomrphology Analysis.
 - [ReWaterGAP](https://github.com/HydrologyFrankfurt/ReWaterGAP) - A global-scale hydrological simulation software for quantifying water flows and storages on all continents of the Earth.
+- [G³M-f](https://github.com/rreinecke/global-gradient-based-groundwater-model) - The global gradient-based groundwater model framework is an extensible program to build groundwater models.
 
 ### Ocean Models
 - [MOM6](https://github.com/NOAA-GFDL/MOM6) - A numerical representation of the ocean fluid with applications from the process scale to the planetary circulation scale.
