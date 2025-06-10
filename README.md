@@ -1365,6 +1365,7 @@ parameter values.
 - [CspStandSegmentation](https://github.com/JulFrey/CspStandSegmentation) - An R-package for the segmentation of single trees from forest point clouds scanned with terrestrial, mobile or unmanned LiDAR systems.
 - [Restor Foundation Tree Crown Delineation Pipeline](https://github.com/Restor-Foundation/tcd) - A powerful and easy-to-use pipeline for detecting individual trees and tree canopy in aerial images.
 - [nrt](https://github.com/ec-jrc/nrt) - Python package for near real time detection of change in spatio-temporal datasets, with a focus on forest disturbances mapping.
+- [tree-detection-framework](https://github.com/open-forest-observatory/tree-detection-framework) - Provides a standardized interface for performing training, inference, and evaluation using existing tree detection models and algorithms.
 
 
 ### Marine Life and Fishery
