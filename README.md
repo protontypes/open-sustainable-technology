@@ -959,6 +959,7 @@ energy system designs and analysis of interactions between technologies.
 
 ### Carbon Offsets and Trading 
 - [Carbon Dioxide Removal Database](https://github.com/carbonplan/cdr-database) - Open science reports on carbon removal projects and technologies.
+- [offsets-db-data](https://github.com/carbonplan/offsets-db-data) - Utilities for cleaning, and processing data for carbonplan/offsets-db-web.
 - [National Carbon Credit Registry](https://github.com/undp/carbon-registry) - As an online database using national and international standards for quantifying and verifying greenhouse gas emissions reductions by programmes.
 - [forest-risks](https://github.com/carbonplan/forest-risks) - Statistical models of forest carbon potential and risks.
 - [Guardian](https://github.com/hashgraph/guardian) - Provides auditable, traceable, reproducible records that document the emission process and lifecycle of carbon credits, which reduce fraud in the ESG market.
