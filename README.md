@@ -1790,6 +1790,7 @@ parameter values.
 - [grundwasser-data](https://github.com/correctiv/grundwasser-data) - A Germany-wide analysis of groundwater levels between 1990 and 2021.
 - [Enhydris](https://github.com/openmeteo/enhydris) - A system for the storage and management of hydrological and meteorological time series.
 - [LeakDB](https://github.com/KIOS-Research/LeakDB) - A realistic leakage dataset for water distribution networks. The dataset is comprised of a large number of artificially created but realistic leakage scenarios, on different water distribution networks, under varying conditions.
+- [NDBC API](https://github.com/CDJellen/ndbc-api) - A Python API for retrieving meteorological and oceanographic data from the National Data Buoy Center.
 
 ## Atmosphere
 ### Atmospheric Composition and Dynamics
