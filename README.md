@@ -2458,6 +2458,7 @@ parameter values.
 ### Ecotoxicology
 - [Health Assessment Workspace Collaborative](https://github.com/shapiromatron/hawc) - A website designed to capture key data and analyses performed in conducting human-health assessment of chemicals and other environmental exposures.
 - [toxpiR](https://github.com/ToxPi/toxpiR) - R package for the Toxicological Priority Index (ToxPi) prioritization algorithm.
+- [GeoTox](https://github.com/NIEHS/GeoTox) -  Characterizing the risk of perturbing molecular targets involved in adverse human health outcomes based on exposure to spatially-referenced stressor mixtures via the GeoTox framework
 
 
 ## Sustainable Development
