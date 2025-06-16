@@ -2458,7 +2458,7 @@ parameter values.
 ### Ecotoxicology
 - [Health Assessment Workspace Collaborative](https://github.com/shapiromatron/hawc) - A website designed to capture key data and analyses performed in conducting human-health assessment of chemicals and other environmental exposures.
 - [toxpiR](https://github.com/ToxPi/toxpiR) - R package for the Toxicological Priority Index (ToxPi) prioritization algorithm.
-- [httk](https://github.com/USEPA/CompTox-ExpoCast-httk) – An open‑source R package from US EPA for high‑throughput toxicokinetics and reverse dosimetry, enabling chemical exposure and risk prediction for environmental health applications.
+- [httk](https://github.com/USEPA/CompTox-ExpoCast-httk) – An open source R package from US EPA for high throughput toxicokinetics and reverse dosimetry, enabling chemical exposure and risk prediction for environmental health applications.
 
 
 ## Sustainable Development
