@@ -485,7 +485,7 @@ energy system designs and analysis of interactions between technologies.
 - [ENERGYDATA.INFO](https://github.com/energy-data/energydata.info) - An open data platform created by the World Bank, providing access to datasets and data analytics that are relevant to the energy sector.
 - [jao-py](https://github.com/fboerman/jao-py) - Python client for the various endpoints offered by the Joint Allocation Office, Europe's single leading trading platform for cross-border transmission capacity.
 - [TUM-EMT Open Data Collection](https://gitlab.lrz.de/energy-management-technologies-public/open-data-collection) - The main aim of this repository is to save the time researchers usually need to explore data and accelerate energy research.
-- [Grid Mapping Starter Kit](https://github.com/open-energy-transition/grid-mapping-starter-kit) - A starter kit for Electrical Transmission Grid Mapping in OpenStreetMap, combining Osmose and Overpass with JOSM.
+- [OhMyGrid](https://github.com/open-energy-transition/OhmyGrid) - A starter kit for Electrical Transmission Grid Mapping in OpenStreetMap, combining Osmose and Overpass with JOSM.
 - [CIMpy](https://github.com/sogno-platform/cimpy) - Support of the Common Grid Model Exchange Standard (CGMES) specified by the European Network of Transmission System Operators for Electricity (ENTSO-E).
 - [OpenSynth](https://github.com/OpenSynth-energy/OpenSynth) - Contains 10 million synthetic load profiles of trained on over 300M smart meter readings from 20K Octopus Energy UK households sampled between 2021 and 2022.
 
