@@ -1864,6 +1864,7 @@ parameter values.
 - [CLEO](https://github.com/yoctoyotta1024/CLEO) - A library for Super-Droplet Model (SDM) cloud microphysics.
 - [CloudnetPy](https://github.com/actris-cloudnet/cloudnetpy) - A Python software designed for producing vertical profiles of cloud properties from ground-based remote sensing measurements.
 - [tobac](https://github.com/tobac-project/tobac) - A Python package for identifiying, tracking and analysing of clouds and other meteorological phenomena in different types of gridded datasets.
+- [Particula](https://github.com/uncscode/particula) - An Python-based aerosol simulator. Particula captures gas-particle interactions, transformations, and dynamics to power predictive aerosol science.
 - [SSH-aerosol](https://github.com/sshaerosol/ssh-aerosol) - This model represents the physico chemical transformation undergone by aerosols in the troposphere.
 
 ### Meteorological Observation and Forecast
