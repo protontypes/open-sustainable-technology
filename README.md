@@ -563,6 +563,7 @@ energy system designs and analysis of interactions between technologies.
 - [demandlib](https://github.com/oemof/demandlib) - With the demandlib you can create power and heat profiles for various sectors by scaling them to your desired demand.
 - [dsgrid](https://github.com/dsgrid/dsgrid) - Enables the compilation of high-resolution load datasets suitable for forward-looking power system and other analyses.
 - [MAED](https://github.com/Model-for-Analysis-of-Energy-Demand/MAED-Code) - An open-source tool for forecasting annual useful and final energy demands, featuring a module for intra-annual modelling of hourly electricity load profiles.
+- [Electricity Demand Data](https://github.com/open-energy-transition/demandcast) - A Python-based project focused on collecting, processing, and forecasting hourly electricity demand data.
 
 ### Global and Regional Energy System Models
 - [PyPSA-Earth](https://github.com/pypsa-meets-earth/pypsa-earth) - An Open Optimisation Model of the Earth Energy System.
