@@ -1592,8 +1592,6 @@ parameter values.
 - [From Snow to Flow](https://github.com/DOI-USGS/snow-to-flow) - Describe important dynamics that determine how snow turns into flow, and the charts show the connection between snowpack (measured as snow water equivalent) and streamflow (measured as discharge).
 - [Snowtools](https://github.com/UMR-CNRM/snowtools) - A python package for pre- and post-processing of SURFEX-Crocus snow model simulations.
 
-
-
 ## Hydrosphere
 ### Freshwater and Hydrology
 - [Raven](https://github.com/Ouranosinc/raven) - Made to help scientists run hydrological modeling experiments with climate change projections.
