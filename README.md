@@ -485,7 +485,7 @@ energy system designs and analysis of interactions between technologies.
 - [ENERGYDATA.INFO](https://github.com/energy-data/energydata.info) - An open data platform created by the World Bank, providing access to datasets and data analytics that are relevant to the energy sector.
 - [jao-py](https://github.com/fboerman/jao-py) - Python client for the various endpoints offered by the Joint Allocation Office, Europe's single leading trading platform for cross-border transmission capacity.
 - [TUM-EMT Open Data Collection](https://gitlab.lrz.de/energy-management-technologies-public/open-data-collection) - The main aim of this repository is to save the time researchers usually need to explore data and accelerate energy research.
-- [Grid Mapping Starter Kit](https://github.com/open-energy-transition/grid-mapping-starter-kit) - A starter kit for Electrical Transmission Grid Mapping in OpenStreetMap, combining Osmose and Overpass with JOSM.
+- [OhMyGrid](https://github.com/open-energy-transition/OhmyGrid) - A starter kit for Electrical Transmission Grid Mapping in OpenStreetMap, combining Osmose and Overpass with JOSM.
 - [CIMpy](https://github.com/sogno-platform/cimpy) - Support of the Common Grid Model Exchange Standard (CGMES) specified by the European Network of Transmission System Operators for Electricity (ENTSO-E).
 - [OpenSynth](https://github.com/OpenSynth-energy/OpenSynth) - Contains 10 million synthetic load profiles of trained on over 300M smart meter readings from 20K Octopus Energy UK households sampled between 2021 and 2022.
 
@@ -563,6 +563,7 @@ energy system designs and analysis of interactions between technologies.
 - [demandlib](https://github.com/oemof/demandlib) - With the demandlib you can create power and heat profiles for various sectors by scaling them to your desired demand.
 - [dsgrid](https://github.com/dsgrid/dsgrid) - Enables the compilation of high-resolution load datasets suitable for forward-looking power system and other analyses.
 - [MAED](https://github.com/Model-for-Analysis-of-Energy-Demand/MAED-Code) - An open-source tool for forecasting annual useful and final energy demands, featuring a module for intra-annual modelling of hourly electricity load profiles.
+- [Electricity Demand Data](https://github.com/open-energy-transition/demandcast) - A Python-based project focused on collecting, processing, and forecasting hourly electricity demand data.
 
 ### Global and Regional Energy System Models
 - [PyPSA-Earth](https://github.com/pypsa-meets-earth/pypsa-earth) - An Open Optimisation Model of the Earth Energy System.
@@ -1155,6 +1156,7 @@ energy system designs and analysis of interactions between technologies.
 - [Arbimon](https://github.com/rfcx/arbimon) - Ecoacoustic analysis platform empowering conservationists to analyze acoustic data and to derive insights about the ecosystem at scale.
 - [acoupi](https://github.com/acoupi/acoupi) - A Python package that streamlines bioacoustic classifier deployment on edge devices like the Raspberry Pi.
 - [BatDetect2](https://github.com/macaodha/batdetect2) -  Code for detecting and classifying bat echolocation calls in high frequency audio recordings.
+- [BirdNET-Go](https://github.com/tphakala/birdnet-go) - Realtime BirdNET soundscape analyzer.
 
 ### Biomass
 - [Forest Carbon database](https://github.com/forc-db/ForC) - Global Forest Carbon Database.
@@ -1503,6 +1505,7 @@ parameter values.
 - [WildlifeDatasets](https://github.com/WildlifeDatasets/wildlife-datasets) - Pipeline for wildlife re-identification including dataset zoo, training tools and trained models.
 - [rcites](https://github.com/ropensci/rcites) - An R package to access information from the Speciesplus database, a centralised portal to key information on species of global concern.
 - [Invasive Species BC](https://github.com/bcgov/invasivesbc) - Inventory and database repository for the creation, treatment, and report on BC Invasive plants and animals.
+- [Biowatch](https://github.com/earthtoolsmaker/biowatch) - A powerful tool for wildlife researchers and conservationists to analyze, visualize, and explore CamtrapDP datasets with ease.
  
 ### Wildfire
 - [wildfire forecasting](https://github.com/ECMWFCode4Earth/wildfire-forecasting) - The project intends to reproduce the Fire Forecasting capabilities of GEFF using Deep Learning and develop further improvements in accuracy, geography and time scale through inclusion of additional variables or optimization of model architecture and hyperparameters.
@@ -1540,6 +1543,7 @@ parameter values.
 - [Polaris](https://github.com/E3SM-Project/polaris) - Provides infrastructure, test cases and analysis tasks related to the ocean, land-ice and sea-ice components of the Exascale Energy Earth System Model.
 - [SOmap](https://github.com/AustralianAntarcticDivision/SOmap) - The goal of this package is to make publication quality round Southern Ocean maps in polar projections with little effort.
 - [Icebergs](https://github.com/NOAA-GFDL/icebergs) - Model large tabular icebergs submerged in the ocean known as Kinematic Iceberg Dynamics.
+- [ClimaSeaIce.jl](https://github.com/CliMA/ClimaSeaIce.jl) - A library that empowers users to configure and run simulations of sea ice freezing, melting, and horizontal motion on the large time and spatial scales appropriate for climate modeling.
 
 ### Glacier and Ice Sheets
 - [PyTrx](https://github.com/PennyHow/PyTrx) - Its primary purpose is to obtain velocities, surface areas, and distances from oblique, optical imagery of glacial environments.
@@ -1862,6 +1866,8 @@ parameter values.
 - [CLEO](https://github.com/yoctoyotta1024/CLEO) - A library for Super-Droplet Model (SDM) cloud microphysics.
 - [CloudnetPy](https://github.com/actris-cloudnet/cloudnetpy) - A Python software designed for producing vertical profiles of cloud properties from ground-based remote sensing measurements.
 - [tobac](https://github.com/tobac-project/tobac) - A Python package for identifiying, tracking and analysing of clouds and other meteorological phenomena in different types of gridded datasets.
+- [Particula](https://github.com/uncscode/particula) - An Python-based aerosol simulator. Particula captures gas-particle interactions, transformations, and dynamics to power predictive aerosol science.
+- [SSH-aerosol](https://github.com/sshaerosol/ssh-aerosol) - This model represents the physico chemical transformation undergone by aerosols in the troposphere.
 
 ### Meteorological Observation and Forecast
 - [windrose](https://github.com/python-windrose/windrose) - A graphic tool used by meteorologists to give a succinct view of how wind speed and direction are typically distributed at a particular location.
@@ -2459,6 +2465,7 @@ parameter values.
 - [Health Assessment Workspace Collaborative](https://github.com/shapiromatron/hawc) - A website designed to capture key data and analyses performed in conducting human-health assessment of chemicals and other environmental exposures.
 - [toxpiR](https://github.com/ToxPi/toxpiR) - R package for the Toxicological Priority Index (ToxPi) prioritization algorithm.
 - [GeoTox](https://github.com/NIEHS/GeoTox) -  Characterizing the risk of perturbing molecular targets involved in adverse human health outcomes based on exposure to spatially-referenced stressor mixtures.
+- [httk](https://github.com/USEPA/CompTox-ExpoCast-httk) - An open source R package from US EPA for high throughput toxicokinetics and reverse dosimetry, enabling chemical exposure and risk prediction for environmental health applications.
 
 
 ## Sustainable Development
