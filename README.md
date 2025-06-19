@@ -1594,6 +1594,7 @@ parameter values.
 - [snotelr](https://github.com/bluegreen-labs/snotelr) -  R toolbox to facilitate easy SNOTEL data exploration and downloads through a convenient shiny based GUI.
 - [sar_snowmelt_timing](https://github.com/egagli/sar_snowmelt_timing) - Contains notebooks and tools to identify snowmelt timing using time series analysis of backscatter of Sentinel-1 C-band SAR.
 - [From Snow to Flow](https://github.com/DOI-USGS/snow-to-flow) - Describe important dynamics that determine how snow turns into flow, and the charts show the connection between snowpack (measured as snow water equivalent) and streamflow (measured as discharge).
+- [Snowtools](https://github.com/UMR-CNRM/snowtools) - A python package for pre- and post-processing of SURFEX-Crocus snow model simulations.
 
 ## Hydrosphere
 ### Freshwater and Hydrology
