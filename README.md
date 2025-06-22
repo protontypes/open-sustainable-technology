@@ -813,6 +813,7 @@ energy system designs and analysis of interactions between technologies.
 - [Power Monitor](https://github.com/SAP/power-monitoring-tool-for-macos) - An application that measures and reports the power consumption of a Mac, giving you real-time insight into your device's energy consumption and carbon footprint based on your location.
 - [Energy Efficiency in Programming Languages](https://github.com/nicovank/Energy-Languages) - Provides a benchmarking tool to measure energy efficiency across various programming languages using Docker.
 - [ALUMET](https://github.com/alumet-dev/alumet) - A modular tool that measures energy consumption and performance metrics of CPU and GPU.
+- [Carbonara](https://github.com/DigitalPebble/carbonara) - Enrichment pipeline for CUR / FOCUS reports which adds energy and carbon data allowing to report and reduce the impact of the your cloud usage.
 
 ### Agriculture and Nutrition
 - [Farmbot](https://github.com/FarmBot/Farmbot-Web-App) - Humanity's open-source CNC farming machine.
