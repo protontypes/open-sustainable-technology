@@ -9,9 +9,12 @@ nav:
   - Projects: index.md
   - Spreadsheet: spreadsheet.md
   - Education: education.md
+  - Analytics: analytics.md
   - Contribute: contributing.md
   - Presentations: "presentations.md"
   - Blog:
+      2025:
+        - "Scaling ClimateTriage Together" : blog/climatetriage-relaunch.md
       2024:
         - "Empowering Community-Driven Funding with OpenClimate.fund" : blog/openclimatefund.md
         - "Closing the Gap: Accelerating environmental Open Source" : blog/closing-the-gap.md
@@ -60,19 +63,23 @@ markdown_extensions:
   - meta
   - attr_list
   - md_in_html
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
   - toc:
       permalink: true
   - pymdownx.emoji:
       emoji_index: !!python/name:materialx.emoji.twemoji
       emoji_generator: !!python/name:materialx.emoji.to_svg
+  - pymdownx.snippets:
+      url_download: false
+      
 
 extra:
   generator: false
   social:
     - icon: fontawesome/brands/mastodon
       link: https://mastodon.social/@opensustaintech
-    - icon: simple/bluesky
-      link: https://bsky.app/profile/opensustaintech.bsky.social
     - icon: fontawesome/brands/linkedin
       link: https://linkedin.com/company/protontypes
   analytics:

@@ -72,6 +72,7 @@
 - [Sketchbook Earth](https://github.com/ECMWFCode4Earth/sketchbook-earth) - A project aiming to illustrate the production of Climate Intelligence Reports, traditionally done with the ECMWF’s in-house developed tools.
 - [CMIP6 Cookbook](https://github.com/ProjectPythia/cmip6-cookbook) - This Project Pythia Cookbook covers examples of analysis of Google Cloud CMIP6 data using Pangeo tools.
 - [PO.DAAC Tutorials](https://github.com/podaac/tutorials) - Make NASA’s ocean, climate, and surface water data universally accessible and meaningful.
+- [Harnessing the Power of Pangeo](https://github.com/pangeo-data/egu-2025-course) - Harnessing the Power of Pangeo: Enhancing Your Scientific Data Analysis Workflow with scalable open source tools.
 
 ## Earth Observation 
 - [Radiant MLHub Tutorials](https://github.com/radiantearth/mlhub-tutorials) - Tutorials to access Radiant MLHub Training Datasets.
@@ -122,6 +123,7 @@
 - [WSL Julia Workshop 2023](https://github.com/vboussange/WSLJuliaWorkshop2023) - Practical introduction to Julia for modelling and data analysis in biodiversity and earth sciences.
 - [Ecological forecasting with R](https://github.com/nicholasjclark/physalia-forecasting-course) - In this course you will learn how to wrangle, visualize and explore ecological time series.
 - [An introduction to Systematic conservation planning with prioritzr](https://github.com/iiasa/eccb2024) - Learn about the basic concepts of systematic conservation planning (SCP) and more specifically algorithmic solutions identifying planning outcomes.
+- [OpenRefine-ecology](https://github.com/datacarpentry/OpenRefine-ecology-lesson) - Data Cleaning with OpenRefine for Ecologists.
 
 ### Hydrosphere
 - [MarineEcosystemsJuliaCon2021.jl](https://github.com/JuliaOcean/MarineEcosystemsJuliaCon2021.jl) - Modeling Marine Ecosystems At Multiple Scales Using Julia.

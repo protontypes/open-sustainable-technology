@@ -7,31 +7,42 @@ on:
 jobs:
   toot:
     runs-on: ubuntu-latest
-    if: "contains(github.event.head_commit.message, 'https')"
     steps:
-      - name: Extract Line with URL as Toot
+      - name: Checkout code
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 2
+
+      - name: Extract Line with URL 
         env:
-          default_hashtags: " #climate #sustainability #opensource #opensustain"
+          default_message: "We welcome a new project to OpenSustain.tech #climate #sustainability #opensource #opensustain #openscience "
         run: |
-              echo -e "${{ github.event.head_commit.message }}" >> toot
-              toot_message="$(cat toot | grep -m 1 https*)"$default_hashtags
-              echo "toot_message=$toot_message" >> $GITHUB_ENV
-              URL_git="$(echo $toot_message | grep -o 'https://[a-zA-Z0-9./?=_-]\+')"
+              URL_git="$(git diff HEAD^ HEAD -- README.md | grep '^+' | grep -v '^+++' | grep -o 'https://[a-zA-Z0-9./?=_-]\+' || true)"
+              echo $URL_git
+              URL_git_combine=$default_message"$URL_git"
               echo "URL_git=$URL_git" >> $GITHUB_ENV
+              echo "URL_git_combine=$URL_git_combine" >> $GITHUB_ENV
+              if [ -z "$URL_git" ]; then
+                echo "No new URLs found in README.md. Skipping the rest of the job."
+                exit 0
+              fi
+              
       
       - name: Send toot to Mastodon
         id: mastodon
         uses: cbrgm/mastodon-github-action@v2
+        if: "contains(env.URL_git_combine, 'https')"
         with:
             access-token: ${{ secrets.MASTODON_ACCESS_TOKEN }} # access token
             url: ${{ secrets.MASTODON_URL }} # https://example.social
-            message: ${{ env.toot_message }}
+            message: ${{ env.URL_git_combine }}
             
       - name: Send post to Bluesky
         id: bluesky_post
         uses: myConsciousness/bluesky-post@v5
+        if: "contains(env.URL_git, 'https')"
         with:
-          text: ${{ env.toot_message }}
+          text: ${{ env.URL_git_combine }}
           link-preview-url: ${{ env.URL_git }}
           identifier: "opensustaintech.bsky.social"
           password: ${{ secrets.BLUESKY_PASSWORD }}
