@@ -1508,6 +1508,7 @@ parameter values.
 - [rcites](https://github.com/ropensci/rcites) - An R package to access information from the Speciesplus database, a centralised portal to key information on species of global concern.
 - [Invasive Species BC](https://github.com/bcgov/invasivesbc) - Inventory and database repository for the creation, treatment, and report on BC Invasive plants and animals.
 - [Biowatch](https://github.com/earthtoolsmaker/biowatch) - A powerful tool for wildlife researchers and conservationists to analyze, visualize, and explore CamtrapDP datasets with ease.
+- [bbousuite](https://github.com/poissonconsulting/bbousuite) - A set of R packages to facilitate simulation and analysis of boreal caribou survival and recruitment data to estimate population growth.
  
 ### Wildfire
 - [wildfire forecasting](https://github.com/ECMWFCode4Earth/wildfire-forecasting) - The project intends to reproduce the Fire Forecasting capabilities of GEFF using Deep Learning and develop further improvements in accuracy, geography and time scale through inclusion of additional variables or optimization of model architecture and hyperparameters.
