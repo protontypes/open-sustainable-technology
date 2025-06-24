@@ -1712,6 +1712,7 @@ parameter values.
 - [dnora](https://github.com/MET-OM/dnora) - A software for dynamical downscaling of wave products i.e., NORA3 wave hindcast and WW3 wave forecast from Norwegian Meteorological Institute and ERA5 from ECMWF.
 - [ecWAM](https://github.com/ecmwf-ifs/ecwam) - The ECMWF Ocean Wave Model describes the development and evolution of wind generated surface waves and their height, direction and period.
 - [eo-tides](https://github.com/GeoscienceAustralia/eo-tides) - Provides powerful parallelized tools for integrating satellite Earth observation data with tide modelling.
+- [EWDM](https://github.com/dspelaez/extended-wdm) - Python toolkit for estimating directional wave spectra of ocean waves based on wavelet transform.
 
 ### Ocean Carbon and Temperature
 - [CO2SYS](https://github.com/jamesorr/CO2SYS-MATLAB) - A MATLAB (or Octave) project to compute variables of ocean CO2 systems.  
@@ -1941,6 +1942,7 @@ parameter values.
 - [StationBench](https://github.com/juaAI/stationbench) - A Python library for benchmarking weather forecasts against weather station data. It provides tools to calculate metrics, visualize results, and compare different forecast models.
 - [WeatherGenerator](https://github.com/ecmwf/WeatherGenerator) - A machine learning-based Earth system models that is trained on a wide range of datasets, including reanalyses, forecast data and observations, to provide a robust and versatile model for the dynamics.
 - [CREDIT](https://github.com/NCAR/miles-credit) - An open software platform to train and deploy AI atmospheric prediction model.
+- [eva3dm](https://github.com/Schuch666/eva3dm) - An R-package focusing on EVAluation of 3D weather and air quality Models, streamlining the entire workflow from data preparation to post-processing, statistical analysis, and visualization.
 
 ### Radiative Transfer
 - [lowtran](https://github.com/space-physics/lowtran) - Atmospheric absorption extinction, scatter and irradiance model in Python and Matlab.
