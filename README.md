@@ -1374,6 +1374,7 @@ parameter values.
 - [Restor Foundation Tree Crown Delineation Pipeline](https://github.com/Restor-Foundation/tcd) - A powerful and easy-to-use pipeline for detecting individual trees and tree canopy in aerial images.
 - [nrt](https://github.com/ec-jrc/nrt) - Python package for near real time detection of change in spatio-temporal datasets, with a focus on forest disturbances mapping.
 - [tree-detection-framework](https://github.com/open-forest-observatory/tree-detection-framework) - Provides a standardized interface for performing training, inference, and evaluation using existing tree detection models and algorithms.
+- [pytreedb](https://github.com/3dgeo-heidelberg/pytreedb) - A Python software package providing an object-based library to provide a simple database interface and REST API of vegetation tree objects that were captured as 3D point clouds.
 
 
 ### Marine Life and Fishery
