@@ -2174,6 +2174,7 @@ parameter values.
 - [PyESD](https://github.com/Dan-Boat/PyESD) - Downscale any climate variables e.g. precipitation and temperature using predictors from reanalysis datasets to point scale.
 - [DeepSensor](https://github.com/tom-andersson/deepsensor) - A Python package for tackling diverse environmental prediction tasks with neural processes.
 - [DeepR](https://github.com/ECMWFCode4Earth/DeepR) - Global reanalysis downscaling to regional scales by means of deep learning techniques.
+- [climr](https://github.com/bcgov/climr) - An R package of downscaled climate data for North America.
 
 ### Natural Hazard and Storm
 - [CLIMADA](https://github.com/CLIMADA-project/climada_python) - Stands for CLIMate ADAptation and is a probabilistic natural catastrophe impact model, that also calculates averted damage (benefit) thanks to adaptation measures of any kind (from grey to green infrastructure, behavioural, etc.).
