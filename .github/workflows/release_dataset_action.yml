@@ -18,6 +18,10 @@ jobs:
         with:
           python-version: '3.x'
 
+      - name: Install dependencies
+        run: |
+          pip install requests pandas
+      
       - name: Run the script
         env: 
           GRIST_API_TOKEN: ${{ secrets.GRIST }}
