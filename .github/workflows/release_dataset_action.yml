@@ -30,8 +30,8 @@ jobs:
       - name: Set tag and release metadata
         id: set_tag
         run: |
-          TAG_NAME="monthly-release-$(date +'%Y-%m')"
-          RELEASE_NAME="Open Sustainable Technology – OpenSustain.tech – $(date +'%Y-%m')"
+          TAG_NAME="OpenSustain.tech-monthly-release-$(date +'%Y-%m')"
+          RELEASE_NAME="OpenSustain.tech – $(date +'%Y-%m')"
           PROJECTS_FILE="opensustain-tech-projects-${TAG_NAME}.csv"
           ORGS_FILE="opensustain-tech-organizations-${TAG_NAME}.csv"
 
