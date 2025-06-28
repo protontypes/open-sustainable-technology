@@ -21,7 +21,7 @@ jobs:
       - name: Run the script
         env: 
           GRIST_API_TOKEN: ${{ secrets.GRIST }}
-        run: python .github/workflows/ecosystems_to_grist.py -k "$GRIST_API_TOKEN"
+        run: python .github/workflows/release_dataset.py -k "$GRIST_API_TOKEN"
 
       - name: Set tag and release metadata
         id: set_tag
