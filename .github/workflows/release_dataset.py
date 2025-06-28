@@ -324,8 +324,8 @@ df_grist_organization.to_csv(CSV_org_labels, columns = header, index=False)
 logger.info("DataFrame shape:+ df_grist_projects.shape")
 logger.info("Save processed CSV files to disk for release")
 # Store csv file of projects
-df_grist_projects.to_csv("ost-projects.csv", index=False)
-df_grist_organization.to_csv("ost-organizations.csv", index=False)
+df_grist_projects.to_csv("projects.csv", index=False)
+df_grist_organization.to_csv("organizations.csv", index=False)
    
 
 logger.info("Creating funding dataframe")
