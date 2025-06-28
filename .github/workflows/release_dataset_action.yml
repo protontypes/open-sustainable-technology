@@ -45,7 +45,7 @@ jobs:
           cp projects.csv "${{ steps.set_tag.outputs.projects_file }}"
           cp organizations.csv "${{ steps.set_tag.outputs.orgs_file }}"
 
-      - name: Create GitHub Release
+      - name: Create GitHub Release and Upload CSVs
         id: create_release
         uses: softprops/action-gh-release@v2
         with:
@@ -53,19 +53,12 @@ jobs:
           name: ${{ steps.set_tag.outputs.release_name }}
           body: |
             Automated monthly release of projects and organizations listed at OpenSustain.tech and enriched by metadata released by ecosyste.ms
-
+      
             **Included files:**
             - ${{ steps.set_tag.outputs.projects_file }}
             - ${{ steps.set_tag.outputs.orgs_file }}
           draft: false
           prerelease: false
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Upload both CSVs to release
-        uses: softprops/action-gh-release@v2
-        with:
-          tag_name: ${{ steps.set_tag.outputs.tag_name }}
           files: |
             ${{ steps.set_tag.outputs.projects_file }}
             ${{ steps.set_tag.outputs.orgs_file }}
