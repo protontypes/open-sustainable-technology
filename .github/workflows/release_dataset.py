@@ -361,7 +361,7 @@ df_grist_funding_organization["name"] = df_grist_organization.loc[mask, "organiz
 df_grist_funding_organization["description"] = df_grist_organization.loc[mask, "organization_description"]
 df_grist_funding_organization["website"] = df_grist_organization.loc[mask, "organization_namespace_url"]
 df_grist_funding_organization["category"] = df_grist_organization.loc[mask, "organization_category"]
-df_grist_fdf_grist_organizationunding_organization["funding_links"] = df_grist_organization.loc[mask, "organization_funding_links"]
+df_grist_funding_organization["funding_links"] = df_grist_organization.loc[mask, "organization_funding_links"]
 df_grist_funding_organization = df_grist_funding_organization[df_grist_funding_organization['name'] != 'protontypes']
 
 # In the beginning, we only support github and opencollective to keep the overheating on our side low. 
