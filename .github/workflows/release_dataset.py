@@ -72,7 +72,6 @@ funding_columns_url = (
 )
 
 
-# Headers for API request including the API_KEY
 headers = {
     'Authorization': f'Bearer {API_KEY}',
     'Content-Type': 'application/json'
@@ -94,7 +93,7 @@ df_ecosystems = pd.read_json(StringIO(resp.content.decode()))
 logger.info(f"Loaded {len(df_ecosystems)} projects from ecosyste.ms")
 
 # TESTING:
-# TEST_ENTRIES = 100
+# TEST_ENTRIES = 100# Headers for API request incWhere should we begin?
 # df_ecosystems = df_ecosystems.head(TEST_ENTRIES)
 # logger.info(f"Using first {TEST_ENTRIES} records for testing")
 
@@ -322,6 +321,13 @@ logger.info("Saving updated organization labels")
 header = ["organization_user_name","organization_namespace_url","organization_website", "location_country", "form_of_organization"]
 df_grist_organization.to_csv(CSV_org_labels, columns = header, index=False)
 
+logger.info("DataFrame shape:+ df_grist_projects.shape")
+logger.info("Save processed CSV files to disk for release")
+# Store csv file of projects
+df_grist_projects.to_csv("ost-projects.csv", index=False)
+df_grist_organization.to_csv("ost-organizations.csv", index=False)
+   
+
 logger.info("Creating funding dataframe")
 # Create funding dataframe with only projects that have funding links
 df_grist_funding = pd.DataFrame()
@@ -355,7 +361,7 @@ df_grist_funding_organization["name"] = df_grist_organization.loc[mask, "organiz
 df_grist_funding_organization["description"] = df_grist_organization.loc[mask, "organization_description"]
 df_grist_funding_organization["website"] = df_grist_organization.loc[mask, "organization_namespace_url"]
 df_grist_funding_organization["category"] = df_grist_organization.loc[mask, "organization_category"]
-df_grist_funding_organization["funding_links"] = df_grist_organization.loc[mask, "organization_funding_links"]
+df_grist_fdf_grist_organizationunding_organization["funding_links"] = df_grist_organization.loc[mask, "organization_funding_links"]
 df_grist_funding_organization = df_grist_funding_organization[df_grist_funding_organization['name'] != 'protontypes']
 
 # In the beginning, we only support github and opencollective to keep the overheating on our side low. 
