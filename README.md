@@ -1702,6 +1702,7 @@ parameter values.
 - [SSN2](https://github.com/USEPA/SSN2) - An R package for spatial statistical modeling and prediction on stream networks, including models based on in-stream distance.
 - [MagicBathyNet](https://github.com/pagraf/MagicBathyNet) - A Multimodal Remote Sensing Dataset for Benchmarking Learning-based Bathymetry and Pixel-based Classification in Shallow Waters.
 - [xoa](https://github.com/shom-fr/xoa) - Intended to help reading and manipulating observed and simulated ocean data.
+- [Samudra](https://github.com/suryadheeshjith/Samudra) - Efficiently emulates the ocean component of a state-of-the-art climate model, accurately reproducing key ocean variables including sea surface height, horizontal velocities, temperature, and salinity, across their full depth.
 
 ### Waves and Currents 
 - [leaflet-velocity](https://github.com/onaci/leaflet-velocity) - Create a canvas visualization layer for direction and intensity of arbitrary velocities (e.g. wind, ocean current).
