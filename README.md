@@ -437,6 +437,7 @@ energy system designs and analysis of interactions between technologies.
 - [IESopt.jl](https://github.com/ait-energy/IESopt.jl) - Modeling and optimization framework for integrated energy systems.
 - [H2Integrate](https://github.com/NREL/H2Integrate) - An open-source Python package for modeling and designing hybrid energy systems producing electricity, hydrogen, ammonia, steel, and other products.
 - [Tulipa Energy Model](https://github.com/TulipaEnergy/TulipaEnergyModel.jl) - An energy system modelling framework for investment (expansion) and dispatch (operations) optimisations using mixed-integer linear programming (MILP) - primarily for informing policy-maker & stakeholder decisions in the energy transition. Focuses on generalized & compact formulations (peer-reviewed publications) and efficient code implementation to handle large-scale problems (i.e. European) while maintaining sufficient granularity.
+- [Roseau Load Flow](https://github.com/RoseauTechnologies/Roseau_Load_Flow) - A powerful load flow solver and static analysis tool.
 
 ### Energy Markets
 - [Grid Singularity Energy Exchange](https://github.com/gridsingularity/gsy-e) - An interface to download and deploy interconnected, grid-aware energy marketplaces.
