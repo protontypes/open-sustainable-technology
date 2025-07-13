@@ -184,6 +184,7 @@
 - [Solarman integration](https://github.com/StephanJoubert/home_assistant_solarman) - Home Assistant component for interacting with Solarman data collectors used with a variety of inverters.
 - [SunPeek](https://gitlab.com/sunpeek/sunpeek) - Implements a dynamic, in situ test methodology for large solar thermal plants.
 - [SkyGPT](https://github.com/yuhao-nie/SkyGPT) - A physics-constrained stochastic sky video prediction model for probabilistic short-term solar forecasting.
+- [Solar Data Tools](https://github.com/slacgismo/solar-data-tools/) - Some data analysis tools for working with historical PV solar time-series data sets.
 
 ### Wind Energy
 - [DSWE](https://github.com/TAMU-AML/DSWE-Package) - An R implementation of various data science methods for wind energy (DSWE) applications, such as providing machine learning methods to accurately estimate the wind power curve.
