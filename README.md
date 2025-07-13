@@ -927,6 +927,7 @@ energy system designs and analysis of interactions between technologies.
 - [EuroCropsML](https://github.com/dida-do/eurocropsml) - A pre-processed and ready-to-use machine learning dataset for crop type classification of agricultural parcels in Europe.
 - [street2sat](https://github.com/nasaharvest/street2sat) - A framework for obtaining large data sets of geo-referenced crop type labels obtained from vehicle mounted cameras that can be extended to other applications.
 - [PASTIS](https://github.com/VSainteuf/pastis-benchmark) - A benchmark dataset for panoptic and semantic segmentation of agricultural parcels from satellite time series.
+- [XPalm](https://github.com/PalmStudio/XPalm.jl) - A process-based model for simulating oil palm (Elaeis guineensis) growth and development.
 
 ## Emissions
 ### Carbon Intensity and Accounting 
