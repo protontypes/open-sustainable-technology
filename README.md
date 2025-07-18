@@ -847,7 +847,7 @@ energy system designs and analysis of interactions between technologies.
 - [carbon.txt](https://github.com/thegreenwebfoundation/carbon.txt) - Syntax and specification for the carbon.txt project.
 - [offgridai](https://github.com/offgridai-us/cost-calculator) - This is a cost calculator for a datacenter powered by solar, batteries, and gas generation.
 - [AI Wattch](https://github.com/AIWattch/browser-extension) - Chrome browser extension to measure ChatGPT carbon emissions during conversations.
-- [Carbonara](https://github.com/DigitalPebble/carbonara) - Enrichment pipeline for CUR / FOCUS reports which adds energy and carbon data allowing to report and reduce the impact of the your cloud usage.
+- [Spruce](https://github.com/DigitalPebble/spruce) - Enrichment pipeline for CUR / FOCUS reports which adds energy and carbon data allowing to report and reduce the impact of the your cloud usage.
 
 ### Agriculture and Nutrition
 - [Farmbot](https://github.com/FarmBot/Farmbot-Web-App) - Humanity's open-source CNC farming machine.
