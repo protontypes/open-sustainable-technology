@@ -609,6 +609,7 @@ energy system designs and analysis of interactions between technologies.
 - [REVOL-E-TION](https://github.com/TUMFTM/REVOL-E-TION) - An energy system model toolbox designed to optimize integration of electric vehicle fleets into local energy systems such as mini- and microgrids, company sites, apartment blocks or single homes and estimate the resulting technoeconomic potentials in terms of costs and revenues within the energy.
 - [GermanRenewableEnergy](https://github.com/openkfw/GermanRenewableEnergy) - Calculates renewable energy power for all German solar panels and wind turbines.
 - [MTRESS](https://github.com/mtress/mtress) - Facilitates the creation of energy system optimisation models for individual residential and commercial buildings, as well as for neighbourhoods and entire industrial properties.
+- [OnStove](https://github.com/Open-Source-Spatial-Clean-Cooking-Tool/OnStove) - Calculates the net-benefits of different stove options in a given geography and compares all stoves to one another with regards to their net-benefit.
 
 ## Consumption
 ### Buildings and Heating 
