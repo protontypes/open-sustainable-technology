@@ -1813,6 +1813,7 @@ parameter values.
 - [Enhydris](https://github.com/openmeteo/enhydris) - A system for the storage and management of hydrological and meteorological time series.
 - [LeakDB](https://github.com/KIOS-Research/LeakDB) - A realistic leakage dataset for water distribution networks. The dataset is comprised of a large number of artificially created but realistic leakage scenarios, on different water distribution networks, under varying conditions.
 - [NDBC API](https://github.com/CDJellen/ndbc-api) - A Python API for retrieving meteorological and oceanographic data from the National Data Buoy Center.
+- [rcrisp](https://github.com/CityRiverSpaces/rcrisp) - Provides tools to automate the morphological delineation of riverside urban areas following the CRiSp (City River Spaces) method.
 
 ## Atmosphere
 ### Atmospheric Composition and Dynamics
