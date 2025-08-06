@@ -114,7 +114,15 @@
 <!--toc_end-->
 
 ## Renewable Energy
+
+> This category of tools targets the entire system design of renewable energy systems – from obtaining data, site selection, and material simulation to yield forecasting and quality control. While tools vary, the goal is to utilize better the energy provided by renewable energy sources.
+
 ### Photovoltaics and Solar Energy
+
+> **What?** A method for generating and storing electricity directly from sunlight
+
+> **How?** These tools help simulate, model, and forecast photovoltaic energy output, including optical and ray-tracing simulations; analyze and visualize system data; support quality control; and interface with solar hardware like panels, inverters, and batteries.
+
 - [pvlib-python](https://github.com/pvlib/pvlib-python) - A set of documented functions for simulating the performance of photovoltaic energy systems.
 - [pvfactors](https://github.com/SunPower/pvfactors) - Open source view-factor model for diffuse shading and bifacial PV modeling.
 - [gsee](https://github.com/renewables-ninja/gsee) - Global Solar Energy Estimator.
@@ -186,6 +194,11 @@
 - [SkyGPT](https://github.com/yuhao-nie/SkyGPT) - A physics-constrained stochastic sky video prediction model for probabilistic short-term solar forecasting.
 
 ### Wind Energy
+
+> **What?** A method for generating electricity in which turbines convert the wind's kinetic energy into mechanical or electrical energy. 
+
+> **How?** These tools help simulate and solve for the physics, energy output, and cost of wind turbines and farms, including maintenance, operations, and wildlife collision risk; analyze and forecast time series data; optimize turbine placement; and interface with SCADA datasets.
+
 - [DSWE](https://github.com/TAMU-AML/DSWE-Package) - An R implementation of various data science methods for wind energy (DSWE) applications, such as providing machine learning methods to accurately estimate the wind power curve.
 - [IEA-15-240-RWT](https://github.com/IEAWindTask37/IEA-15-240-RWT) - A 15 MW reference wind turbine repository developed in conjunction with IEA Wind.
 - [windpowerlib](https://github.com/wind-python/windpowerlib) - A library to model the output of wind turbines and farms.
@@ -234,6 +247,11 @@
 - [MoorDyn](https://github.com/FloatingArrayDesign/MoorDyn) - A lumped-mass mooring line model intended for coupling with floating structure codes.
 
 ### Hydro Energy
+
+> **What?** A method for producing electricity using generators powered by turbines that convert the potential energy of falling or rapidly flowing water into mechanical energy.
+
+> **How?** These tools help simulate and model waves, their interactions, and hydrodynamic forces; forecast energy production; facilitate data collection and visualization; and perform quality control of hydrological systems.
+
 - [WecOptTool](https://github.com/sandialabs/WecOptTool) - Allows users to perform wave energy converter device design optimization studies with constrained optimal control.
 - [CACTUS](https://github.com/sandialabs/CACTUS) - A turbine performance simulation code, based on a free wake vortex method, to study wind turbines and marine hydrokinetic devices.
 - [hydro-power-database](https://github.com/energy-modelling-toolkit/hydro-power-database) - Collects basic information on all the European hydro-power plants.
@@ -250,6 +268,11 @@
 - [HydroGenerate](https://github.com/IdahoLabResearch/HydroGenerate) - An open-source python library that has the capability of estimating hydropower generation based on flow rate either provided by the user or received from United States Geological Survey water data services.
 
 ### Geothermal Energy
+
+> **What?** A method for producing electricity using turbines driven by geothermal energy found in underground reservoirs of hot water or steam.
+
+> **How?** These tools help simulate thermo-hydro-mechanical processes for everything from site selection to energy production prediction; evaluate, optimize, and analyze boreholes; and coordinate thermal networks.
+
 - [pygfunction](https://github.com/MassimoCimmino/pygfunction) - An open source toolbox for the evaluation of thermal response factors of geothermal borehole fields.
 - [GHEtool](https://github.com/wouterpeere/GHEtool) - GHEtool is an open source Python package that contains all the functionalities needed to deal with borefield design.
 - [OpenGeoSys 6](https://gitlab.opengeosys.org/ogs/ogs) - A scientific open source project for the development of numerical methods for the simulation of thermo-hydro-mechanical-chemical processes in porous and fractured media.
@@ -264,6 +287,11 @@
 - [ThermalNetwork](https://github.com/NREL/ThermalNetwork) - A library for sizing multiple ground heat exchangers distributed around a single-pipe thermal network.
 
 ### Bioenergy
+
+> **What?** A type of fuel derived from biomass stemming from recently living plants, algae, and animal waste.
+
+> **How?** These tools help forecast and refine biogas production; simulate and analyze bioreactors; and facilitate compliance with biofuel laws and regulations.
+
 - [bioenergy.org](https://github.com/bioenergy-research-centers/bioenergy.org) - A site dedicated to creating FAIR datasets to share across bioenergy research centers and to the global research community.
 - [biogas](https://github.com/sashahafner/biogas) - Tools for biogas research in R: process biogas data and predict biogas production.
 - [biosteam](https://github.com/BioSTEAMDevelopmentGroup/biosteam) - The Biorefinery Simulation and Techno-Economic Analysis Modules.
