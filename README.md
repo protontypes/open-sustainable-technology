@@ -119,7 +119,7 @@
 
 ### Photovoltaics and Solar Energy
 
-> **What?** A method for generating and storing electricity directly from sunlight
+> **What?** A method for generating and storing electricity directly from sunlight.
 
 > **How?** These tools help simulate, model, and forecast photovoltaic energy output, including optical and ray-tracing simulations; analyze and visualize system data; support quality control; and interface with solar hardware like panels, inverters, and batteries.
 
@@ -2313,7 +2313,7 @@ parameter values.
 
 ## Climate Change
 
-> The long-term alteration of Earth’s climate, including average weather patterns and global temperatures.
+> The long-term alteration of Earth's climate, including average weather patterns and global temperatures.
 
 ### Earth and Climate Modeling 
 
@@ -3072,7 +3072,7 @@ parameter values.
 
 ### Environmental Satellites
 
-> **What?** Specialized spacecraft equipped with sensors that orbit the Earth to continuously monitor and collect data on the planet’s atmosphere, land surface, and oceans.
+> **What?** Specialized spacecraft equipped with sensors that orbit the Earth to continuously monitor and collect data on the planet's atmosphere, land surface, and oceans.
 
 > **How?** These tools help read and manipulate remote sensing and satellite data, such as interfacing with the Sentinel, Copernicus, Landsat, and MODIS collections, and more.
 
