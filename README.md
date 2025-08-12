@@ -58,6 +58,7 @@
   - [Biodiversity Citizen Science](#biodiversity-citizen-science)
   - [Biodiversity Data Access and Management](#biodiversity-data-access-and-management)
   - [Biodiversity Data Cleaning and Standardization](#biodiversity-data-cleaning-and-standardization)
+  - [Biodiversity and Reforestation mapping with Indigenous communities](#biodisversity-reforestation)
   - [Conservation and Restoration](#conservation-and-restoration)
   - [Deforestation and Reforestation](#deforestation-and-reforestation)
   - [Ecological and Environmental Modeling](#ecological-and-environmental-modeling)
@@ -1370,6 +1371,7 @@ energy system designs and analysis of interactions between technologies.
 - [mobr](https://github.com/MoBiodiv/mobr) - Tools for analyzing changes in biodiversity across scales.
 - [mapme.biodiversity](https://github.com/mapme-initiative/mapme.biodiversity) - Efficient analysis of spatial biodiversity datasets for global portfolios.
 - [Biodiverse](https://github.com/shawnlaffan/biodiverse) - A tool for the spatial analysis of diversity using indices based on taxonomic, phylogenetic, trait and matrix-based relationships, as well as related environmental and temporal variations.
+- [ProgramEarth](https://github.com/OpenSourceFellows/map-dashboard)
 - [ENMTML](https://github.com/andrefaa/ENMTML) - An R package for an integrated construction of Ecological Niche Models.
 - [diversitree](https://github.com/richfitz/diversitree) - Includes a number of comparative phylogenetic methods, mostly focussing on analysing diversification and character evolution.
 - [Diversity.jl](https://github.com/EcoJulia/Diversity.jl) - Provides functionality for measuring alpha, beta and gamma diversity of metacommunities (e.g. ecosystems) and their constituent subcommunities.
