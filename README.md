@@ -58,7 +58,7 @@
   - [Biodiversity Citizen Science](#biodiversity-citizen-science)
   - [Biodiversity Data Access and Management](#biodiversity-data-access-and-management)
   - [Biodiversity Data Cleaning and Standardization](#biodiversity-data-cleaning-and-standardization)
-  - [Biodiversity and Reforestation mapping with Indigenous communities](#biodisversity-reforestation)
+  - [Biodiversity and Reforestation](#biodisversity-reforestation)
   - [Conservation and Restoration](#conservation-and-restoration)
   - [Deforestation and Reforestation](#deforestation-and-reforestation)
   - [Ecological and Environmental Modeling](#ecological-and-environmental-modeling)
