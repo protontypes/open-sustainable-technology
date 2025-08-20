@@ -1969,6 +1969,7 @@ parameter values.
 - [fluvgeo](https://github.com/FluvialGeomorph/fluvgeo) - An R Package for Performing Fluvial Geomrphology Analysis.
 - [ReWaterGAP](https://github.com/HydrologyFrankfurt/ReWaterGAP) - A global-scale hydrological simulation software for quantifying water flows and storages on all continents of the Earth.
 - [G³M-f](https://github.com/rreinecke/global-gradient-based-groundwater-model) - The global gradient-based groundwater model framework is an extensible program to build groundwater models.
+- [Groundwater Accounting Platform](https://github.com/esassoc/qanat-community) - Enables water managers, landowners, and water users to track groundwater availability and usage with user-friendly dashboards and workflows.
 
 ### Ocean Models
 
