@@ -557,6 +557,7 @@ energy system designs and analysis of interactions between technologies.
 - [CIMpy](https://github.com/sogno-platform/cimpy) - Support of the Common Grid Model Exchange Standard (CGMES) specified by the European Network of Transmission System Operators for Electricity (ENTSO-E).
 - [OpenSynth](https://github.com/OpenSynth-energy/OpenSynth) - Contains 10 million synthetic load profiles of trained on over 300M smart meter readings from 20K Octopus Energy UK households sampled between 2021 and 2022.
 - [Weave](https://github.com/centre-for-ai-and-climate/weave) - Provides aggregated half-hourly domestic electricity consumption data from UK smart meters.
+- [elexonpy](https://github.com/openclimatefix/Elexonpy) - A Python package that provides a convenient interface to the ELEXON API suite, which provides data published by the UK energy data provider as received.
 
 ### Energy Policy
 
