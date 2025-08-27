@@ -19,6 +19,7 @@
 
 ## Energy Systems 
 
+- [Modelling energy systems](https://github.com/sjpfenninger/modelling-energy-systems) - In this course, we’ll progressively explore how modelling techniques, particularly optimisation methods, can effectively address decision-making challenges in energy and power systems.
 - [energy-sparks](https://github.com/Energy-Sparks/energy-sparks) - An open source application that is designed to help schools improve their energy efficiency.
 - [Building DC Energy Systems](https://learn.libre.solar/) - Hosts an Open Educational Resource (OER) for Building DC Energy Systems.
 - [Systems' Engineering for Energy Efficiency](http://oer4renewables.gitlab.io/systemtechnik-fuer-energieeffizienz/) - A Python course on Systems engineering for energy efficiency in German within the Master of Electrical Engineering and Master of Renewable Energy at the Cologne University of Applied Sciences.
