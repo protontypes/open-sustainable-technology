@@ -1868,6 +1868,7 @@ parameter values.
 - [MPAS-Albany](https://github.com/sandialabs/Albany) - Houses the land-ice component of the U.S. Department of Energy's Energy Exascale Earth System Model known as MPAS-Albany Land Ice.
 - [Glacier flow model](https://github.com/munterfi/glacier-flow-model) - Modeling glaciers on a digital elevation model based on mass balance and a modified D8 flow algorithm applied to ice.
 - [icepack](https://github.com/icepack/icepack) - A library for modeling the flow of ice sheets and glaciers using the finite element method.
+- [GrIML](https://github.com/GEUS-Glaciology-and-Climate/GrIML) -  Investigating Greenland's ice-marginal lakes under a changing climate.
 
 ### Snow and Permafrost
 
