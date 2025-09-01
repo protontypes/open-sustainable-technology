@@ -2130,6 +2130,7 @@ parameter values.
 - [LeakDB](https://github.com/KIOS-Research/LeakDB) - A realistic leakage dataset for water distribution networks. The dataset is comprised of a large number of artificially created but realistic leakage scenarios, on different water distribution networks, under varying conditions.
 - [NDBC API](https://github.com/CDJellen/ndbc-api) - A Python API for retrieving meteorological and oceanographic data from the National Data Buoy Center.
 - [rcrisp](https://github.com/CityRiverSpaces/rcrisp) - Provides tools to automate the morphological delineation of riverside urban areas following the CRiSp (City River Spaces) method.
+- [AquaFetch](https://github.com/hyex-research/AquaFetch) - A Python package designed for the automated downloading, parsing, cleaning, and harmonization of freely available water resource datasets related to rainfall-runoff processes, surface water quality, and wastewater treatment.
 
 ## Atmosphere
 
