@@ -30,3 +30,6 @@ MANIFEST
 
 # Virtual environment
 .venv/
+
+# awesome_bot reports
+ab-*
