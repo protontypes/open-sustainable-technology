@@ -468,7 +468,6 @@
 - [FAME](https://gitlab.com/fame-framework/fame-core) - Its purpose is supporting the rapid development and fast execution of complex agent-based energy system simulations.
 - [REMix](https://gitlab.com/dlr-ve/esy/remix/framework) - The main focus is on the broad techno-economical assessment of possible future
 energy system designs and analysis of interactions between technologies.
-- [StorageVET](https://github.com/epri-dev/StorageVET) - A valuation model for analysis of energy storage technologies and some other energy resources paired with storage.
 - [OpenDER](https://github.com/epri-dev/OpenDER) - Aims to accurately represent steady-state and dynamic behaviors of inverter-based distributed energy resources.
 - [ETM Pro](https://github.com/quintel/etmodel) - Professional interface of the Energy Transition model.
 - [ETSource](https://github.com/quintel/etsource) - Contains the data used by Quintel energy transition modelling applications, allowing you to explore possible future energy systems for your country, region or municipality.
@@ -521,12 +520,10 @@ energy system designs and analysis of interactions between technologies.
 - [Open Data Access Tools](https://github.com/openEDI/open-data-access-tools) - Aims to improve and automate access to high-value energy datasets across the U.S. Department of Energy's programs, offices, and national laboratories, and help researchers and industry to accelerate analysis and advance innovation.
 - [Power Station Dictionary](https://github.com/OSUKED/Power-Station-Dictionary) - A power station dictionary that enables mapping between various naming conventions and associated plant metadata.
 - [powerplantmatching](https://github.com/PyPSA/powerplantmatching) - A toolset for cleaning, standardizing and combining multiple power plant databases.
-- [TransitionZero Python Client](https://github.com/transition-zero/tz-client) - This Python Client gives programmatic access to all the functionality of TransitionZero, a not-for-profit set to decarbonise energy systems by supporting global businesses and emerging market governments with open, granular and accessible data.
 - [entsoe-py](https://github.com/EnergieID/entsoe-py) - A Python client for the ENTSO-E API (European Network of Transmission System Operators for Electricity).
 - [pyEIA](https://github.com/thomastu/pyEIA) - An Energy Information Administration API Python client for researchers who need data.
 - [EIA](https://github.com/ropensci/eia) - An R package wrapping the US Energy Information Administration open data API.
 - [eiapy](https://github.com/systemcatch/eiapy) - A simple wrapper for the U.S. Energy Information Administration API. 
-- [feo-client](https://github.com/transition-zero/feo-client) - Crafted for energy systems modellers seeking access to data for nodes, assets, technologies, as well as the data supporting models and scenarios published by TransitionZero.
 - [EIAdata](https://github.com/Matt-Brigida/EIAdata) - Provides programmatic access to the Energy Information Administration's API.
 - [PowerGenome](https://github.com/PowerGenome/PowerGenome) - A tool to quickly and easily create inputs for power systems models.
 - [conventional power plants](https://github.com/Open-Power-System-Data/conventional_power_plants) - Contains data on conventional power plants for Germany as well as other selected European countries. The data include individual power plants with their technical characteristics.
@@ -620,7 +617,6 @@ energy system designs and analysis of interactions between technologies.
 - [openleadr](https://github.com/OpenLEADR/openleadr-python) - Open Automated Demand Response (OpenADR) is an open and interoperable information exchange model and emerging smart grid standard.
 - [SEAPATH](https://github.com/seapath/meta-seapath) - Aims at developing a reference design and industrial grade open source real-time platform that can run virtualized automation and protection applications for the power grid industry.
 - [InfrastructureSystems.jl](https://github.com/NREL-Sienna/InfrastructureSystems.jl) - Provides utilities to support data models for infrastructure modeling in NREL-SIIP.
-- [SciGRID](https://power.scigrid.de/) - Its intention is to develop methods for the automated generation of models (i.e. maps) of existing electricity grids for research and other purposes.
 - [GreenForce](https://github.com/Energinet-DataHub/greenforce-frontend) - National energy transmission system operator data hub developing to support change toward decarbonised economies.
 - [OperatorFabric](https://github.com/opfab/operatorfabric-core) - A modular, extensible, industrial-strength and field-tested platform for use in electricity, water and other utility operations.
 - [energy-sparks](https://github.com/Energy-Sparks/energy-sparks) - An open source application that is designed to help schools improve their energy efficiency.
