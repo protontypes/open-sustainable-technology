@@ -358,7 +358,6 @@
 - [pandapipes](https://github.com/e2nIEE/pandapipes) - A pipeflow calculation tool that complements pandapower in the simulation of multi energy grids, in particular heat and gas networks.
 - [The Hydrogen Risk Assessment Models](https://github.com/sandialabs/hyram) - The first-ever software toolkit that integrates deterministic and probabilistic models for quantifying accident scenarios, predicting physical effects, and characterizing hydrogen hazards impact on people and structures.
 - [GasModels.jl](https://github.com/lanl-ansi/GasModels.jl) - A Julia/JuMP Package for Gas Network Optimization.
-- [SciGRID_gas](https://www.gas.scigrid.de/) - Methods to create an automated network model of the European gas transportation network.
 - [Vehicle with Fuel Cell Powertrain](https://github.com/mathworks/Fuel-Cell-Vehicle-Model-Simscape) - Fuel cell electric vehicle with battery model and cooling system.
 - [VirtualFCS](https://github.com/Virtual-FCS/VirtualFCS) - A Modelica library for hybrid hydrogen fuel cell and battery power systems.
 - [GEOH2](https://github.com/ClimateCompatibleGrowth/GeoH2) - Calculates the locational cost of green hydrogen production, storage, transport, and conversion to meet demand in a specified location.
