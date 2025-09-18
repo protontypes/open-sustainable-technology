@@ -973,7 +973,6 @@ energy system designs and analysis of interactions between technologies.
 - [offgridai](https://github.com/offgridai-us/cost-calculator) - This is a cost calculator for a datacenter powered by solar, batteries, and gas generation.
 - [AI Wattch](https://github.com/AIWattch/browser-extension) - Chrome browser extension to measure ChatGPT carbon emissions during conversations.
 - [Spruce](https://github.com/DigitalPebble/spruce) - Enrichment pipeline for CUR / FOCUS reports which adds energy and carbon data allowing to report and reduce the impact of the your cloud usage.
-- [CarbonRunner](https://carbonrunner.io/): Shifting compute like AI training and GitHub Actions to the lowest-carbon regions across AWS, Azure, GCP and Heata in real time, cutting CI/CD carbon emissions by 90%.
 
 ### Agriculture and Nutrition
 
@@ -2304,6 +2303,7 @@ parameter values.
 - [CREDIT](https://github.com/NCAR/miles-credit) - An open software platform to train and deploy AI atmospheric prediction model.
 - [eva3dm](https://github.com/Schuch666/eva3dm) - An R-package focusing on EVAluation of 3D weather and air quality Models, streamlining the entire workflow from data preparation to post-processing, statistical analysis, and visualization.
 - [WeatherLayers GL](https://github.com/weatherlayers/weatherlayers-gl) - Weather Visualization Layers and Controls for deck.gl.
+- [pyrad](https://github.com/MeteoSwiss/pyrad) - A Python-based, open-source framework for real-time and offline processing and visualization of weather radar data from diverse radar networks and formats, developed by MeteoSwiss and MeteoFrance.
 
 ### Radiative Transfer
 
