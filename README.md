@@ -181,7 +181,7 @@
 - [pvOps](https://github.com/sandialabs/pvOps) - Contains a series of functions to facilitate fusion of text-based data with time series production data collected at photovoltaic sites.
 - [CSP.guru](https://github.com/repolicy/csp-guru) - An open-source database of concentrating solar power plants of the world for energy modellers and analysts.
 - [Quartz Solar Forecast](https://github.com/openclimatefix/Open-Source-Quartz-Solar-Forecast) - The aim of the project is to build an open source PV forecast that is free and easy to use.
-<!--lint ignore remark-lint:awesome-spell-check-->
+<!--lint ignore awesome-spell-check-->
 - [Net Zero Citizens](https://github.com/Iniciativa-Climatica-Mexico/Net-Zero-Citizens) -  Through this web and mobile applications, users in Mexico can effortlessly connect with solar panel installers and photovoltaic panel sellers, making the switch to solar energy seamless and straightforward.
 - [OpenPV](https://github.com/open-pv/website) - A website to simulate shading and annual PV yield based on 3D building data in the browser.
 - [OpenDTU](https://github.com/tbnobody/OpenDTU) - An alternative open source software for communicating with Hoymiles solar inverters, which synchronises everything with the s-Miles cloud.
@@ -863,7 +863,7 @@ energy system designs and analysis of interactions between technologies.
 - [enviroCar](https://github.com/enviroCar/enviroCar-app) - An Android App for collecting car sensor data for the enviroCar platform.
 - [EVerest](https://github.com/EVerest/everest) - An open source software stack for EV charging infrastructure from firmware to cloud: OCPP, ISO 15118, SunSpec, Modbus, energy management and load balancing and an entire flexible middle-ware framework based on MQTT. Part of the Linux Foundation Energy ecosystem.
 - [Streetmix](https://github.com/streetmix/streetmix) - Makes it easy for people to design public spaces together.
-<!--lint ignore remark-lint:awesome-spell-check-->
+<!--lint ignore awesome-spell-check-->
 - [3Dstreet](https://github.com/3DStreet/3dstreet) - Creates 3D visualizations of your 2D Streetmix.net streets.
 - [Transitland](https://github.com/transitland/transitland-atlas) -  An open data platform that collects GTFS, GTFS Realtime, and other open data feeds from transit providers around the world.
 - [cyclestreets](https://github.com/cyclestreets/cyclestreets-r) - The goal of cyclestreets is to provide a simple R interface to the CycleStreets routing service.
@@ -1029,7 +1029,7 @@ energy system designs and analysis of interactions between technologies.
 - [LiteFarm](https://github.com/LiteFarmOrg/LiteFarm) - A platform joining farmers and scientists together for participatory assessment of social, environmental and economic outputs of farming systems.
 - [biotrade](https://gitlab.com/bioeconomy/forobs/biotrade/) - Analyses international trade of bio-based products with a focus on the agriculture and forestry sectors.
 - [PyETo](https://github.com/woodcrafty/PyETo) - A Python library for calculating reference crop evapotranspiration, sometimes referred to as potential evapotranspiration.
-<!--lint ignore remark-lint:awesome-spell-check-->
+<!--lint ignore awesome-spell-check-->
 - [DynACof](https://github.com/VEZY/DynACof) - Process-based model computes plot-scale Net Primary Productivity, carbon allocation, growth, yield, energy, and water balance of coffee plantations according to management.
 - [WorldCereal](https://github.com/WorldCereal/worldcereal-classification) - An efficient, agile and robust EO based system for timely global crop monitoring at field scale. 
 - [AgML](https://github.com/Project-AgML/AgML) - Provides access to public agricultural datasets for common agricultural deep learning tasks, with standard benchmarks and pretrained models, as well the ability to generate synthetic data and annotations.
@@ -1050,7 +1050,7 @@ energy system designs and analysis of interactions between technologies.
 - [Petari](https://github.com/Sahil1786/Petari) - An initiative by an organization aiming to redistribute excess food from various events to those in need.
 - [Food Expiration Dates](https://github.com/lorenzovngl/FoodExpirationDates) - This simple app helps you avoid forgetting to consume foods that are about to expire.
 - [The Farmer Journal](https://github.com/usetania/tania-core) - A farm management software for the hobbyist and smallholder farmer.
-<!--lint ignore remark-lint:awesome-spell-check-->
+<!--lint ignore awesome-spell-check-->
 - [HarvestStat](https://github.com/HarvestStat/HarvestStat) - Contains cleaned and harmonized subnational global crop production data from various sources, including the Famine Early Warning Systems Network (FEWS NET) of the United States Agency for International Development (USAID) and the Food and Agriculture Organization (FAO).
 - [CSA Admin](https://github.com/csa-admin-org/csa-admin) - Offers you a wide range of features specifically developed for the needs of Community Supported Agriculture.
 - [Land Griffon](https://github.com/Vizzuality/landgriffon) - Empowers companies to measure, manage, and transform agricultural supply chain impacts using an open scientific methodology.
@@ -1357,7 +1357,7 @@ energy system designs and analysis of interactions between technologies.
 - [Forest Carbon database](https://github.com/forc-db/ForC) - Global Forest Carbon Database.
 - [fgeo.biomass](https://github.com/forestgeo/fgeo.biomass) - Calculate biomass with allometric equations from the allodb package and ForestGEO data.
 - [BIOMASS](https://github.com/umr-amap/BIOMASS) - An R package for estimating aboveground biomass and its uncertainty in tropical forests.
-<!--lint ignore remark-lint:awesome-spell-check-->
+<!--lint ignore awesome-spell-check-->
 - [carbon budget](https://github.com/wri/carbon-budget) - This model maps gross greenhouse gas emissions from forests between 2001 and 2015, gross carbon removals by forests between 2001, and the difference between them (net flux).
 - [PNVmaps](https://github.com/Envirometrix/PNVmaps) - Global Maps of Potential Natural Vegetation based on Machine Learning.
 - [MAAP](https://github.com/MAAP-Project/maap-api-nasa) - Discover and use biomass relevant data, integrating the data for comparison, analysis, evaluation, and generation.
@@ -2208,7 +2208,7 @@ parameter values.
 - [PyBox](https://github.com/loftytopping/PyBox) - A Python based box-model generator and simulator designed for atmospheric chemistry and aerosol studies.
 - [MICM Chemistry](https://github.com/NCAR/micm) - A unique chemistry module that can be implemented in any atmosphere model used at NCAR.
 - [PySDM](https://github.com/open-atmos/PySDM) - Pythonic particle-based warm-rain/aqueous-chemistry cloud microphysics package.
-<!--lint ignore remark-lint:awesome-spell-check-->
+<!--lint ignore awesome-spell-check-->
 - [pyrcel](https://github.com/darothen/pyrcel) - An implementation of a simple, adiabatic cloud parcel model for use in aerosol-cloud interaction studies.
 - [ORAC](https://github.com/ORAC-CC/orac) - An optimal estimation retrieval scheme for the estimation of aerosol and cloud properties from a wide range of visible-infrared imaging satellites, such as MODIS, AATSR, AVHRR and SEVIRI.
 - [CAMP](https://github.com/open-atmos/camp) - Allows a given chemical mechanism to be solved in atmospheric models with different aerosol representations.
@@ -2997,7 +2997,7 @@ parameter values.
 - [Climate change in the contiguous United States](https://github.com/washingtonpost/data-2C-beyond-the-limit-usa/) - The Washington Post's analysis of NOAA climate change data for the contiguous United States.
 - [Regen Ledger](https://github.com/regen-network/regen-ledger) - Providing a structured database of claims regarding ecological state and change of state.
 - [Stripe Climate Carbon Removal Purchases](https://github.com/stripe/carbon-removal-source-materials) - Source materials supporting Stripe Climate carbon removal purchases.
-<!--lint ignore remark-lint:awesome-spell-check-->
+<!--lint ignore awesome-spell-check-->
 - [Net Zero Tracker](https://zerotracker.net/) - Create the definitive global resource for collating, assessing and presenting the scale and quality of net zero pledges across nationals, sub-nationals, companies and other entities.
 - [Credible Goals Database](https://embeddingproject.org/goals-database) - A public goals database containing leading sustainability goals and commitments set by large companies globally.
 - [Digital Public Goods](https://github.com/DPGAlliance/publicgoods-candidates) - Accelerate the attainment of the sustainable development goals in low- and middle-income countries by facilitating the discovery, development, use of, and investment in digital public goods.
