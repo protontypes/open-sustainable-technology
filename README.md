@@ -1047,6 +1047,7 @@ energy system designs and analysis of interactions between technologies.
 - [Petari](https://github.com/Sahil1786/Petari) - An initiative by an organization aiming to redistribute excess food from various events to those in need.
 - [Food Expiration Dates](https://github.com/lorenzovngl/FoodExpirationDates) - This simple app helps you avoid forgetting to consume foods that are about to expire.
 - [The Farmer Journal](https://github.com/usetania/tania-core) - A farm management software for the hobbyist and smallholder farmer.
+<!--lint ignore awesome-list-item-->
 - [HarvestStat](https://github.com/HarvestStat/HarvestStat) - Contains cleaned and harmonized subnational global crop production data from various sources, including the Famine Early Warning Systems Network (FEWS NET) of the United States Agency for International Development (USAID) and the Food and Agriculture Organization (FAO).
 - [CSA Admin](https://github.com/csa-admin-org/csa-admin) - Offers you a wide range of features specifically developed for the needs of Community Supported Agriculture.
 - [Land Griffon](https://github.com/Vizzuality/landgriffon) - Empowers companies to measure, manage, and transform agricultural supply chain impacts using an open scientific methodology.
@@ -2203,6 +2204,7 @@ parameter values.
 - [PyBox](https://github.com/loftytopping/PyBox) - A Python based box-model generator and simulator designed for atmospheric chemistry and aerosol studies.
 - [MICM Chemistry](https://github.com/NCAR/micm) - A unique chemistry module that can be implemented in any atmosphere model used at NCAR.
 - [PySDM](https://github.com/open-atmos/PySDM) - Pythonic particle-based warm-rain/aqueous-chemistry cloud microphysics package.
+<!--lint ignore awesome-list-item-->
 - [pyrcel](https://github.com/darothen/pyrcel) - An implementation of a simple, adiabatic cloud parcel model for use in aerosol-cloud interaction studies.
 - [ORAC](https://github.com/ORAC-CC/orac) - An optimal estimation retrieval scheme for the estimation of aerosol and cloud properties from a wide range of visible-infrared imaging satellites, such as MODIS, AATSR, AVHRR and SEVIRI.
 - [CAMP](https://github.com/open-atmos/camp) - Allows a given chemical mechanism to be solved in atmospheric models with different aerosol representations.
@@ -2991,6 +2993,7 @@ parameter values.
 - [Climate change in the contiguous United States](https://github.com/washingtonpost/data-2C-beyond-the-limit-usa/) - The Washington Post's analysis of NOAA climate change data for the contiguous United States.
 - [Regen Ledger](https://github.com/regen-network/regen-ledger) - Providing a structured database of claims regarding ecological state and change of state.
 - [Stripe Climate Carbon Removal Purchases](https://github.com/stripe/carbon-removal-source-materials) - Source materials supporting Stripe Climate carbon removal purchases.
+<!--lint ignore awesome-list-item-->
 - [Net Zero Tracker](https://zerotracker.net/) - Create the definitive global resource for collating, assessing and presenting the scale and quality of net zero pledges across nationals, sub-nationals, companies and other entities.
 - [Credible Goals Database](https://embeddingproject.org/goals-database) - A public goals database containing leading sustainability goals and commitments set by large companies globally.
 - [Digital Public Goods](https://github.com/DPGAlliance/publicgoods-candidates) - Accelerate the attainment of the sustainable development goals in low- and middle-income countries by facilitating the discovery, development, use of, and investment in digital public goods.
