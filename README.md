@@ -632,7 +632,7 @@ energy system designs and analysis of interactions between technologies.
 - [Gym-ANM](https://github.com/robinhenry/gym-anm) - Design Reinforcement Learning environments that model Active Network Management tasks in electricity distribution networks.
 - [PowerModelsACDC.jl](https://github.com/Electa-Git/PowerModelsACDC.jl) - A a Julia/JuMP/PowerModels package with models for DC lines, meshed DC networks, and AC DC converters.
 - [pyehub](https://gitlab.com/energyincities/python-ehub) - A Python-based, modular and nestable implementation of the Energy Hub model (balancing demand and supply, system capacity sizing and network flows using Mixed-Integer Linear Programming).
-- [Electra](https://github.com/Alkia/electra) - Sovereign blockchain solution that enables local micro-grid to operate smoothly between trustless actors enabling a real circular economy based on the exchange of electricity units.
+- [Electra](https://github.com/Alkia/electra) - Sovereign Blockchain solution that enables local micro-grid to operate smoothly between trustless actors enabling a real circular economy based on the exchange of electricity units.
 - [Vessim](https://github.com/dos-group/vessim) - A co-simulation testbed for energy-aware and carbon-aware applications and systems, based on Mosaik.
 - [VILLASnode](https://github.com/VILLASframework/node) - Used in distributed- and co-simulation scenarios and developed for the field of power grid simulation at the EON Energy Research Center in Aachen.
 - [eELib](https://gitlab.com/elenia1/elenia-energy-library) - A Python-based framework for simulating future power systems for prosumer households, focusing on operating strategies for energy management systems.
@@ -926,7 +926,7 @@ energy system designs and analysis of interactions between technologies.
 - [FEEP](https://invent.kde.org/teams/eco/feep) -  Improve the energy efficiency of free and open source software.
 - [LEAF](https://github.com/dos-group/leaf) - Simulator for modeling energy consumption in cloud, fog, and edge computing environments.
 - [ethereum-nft-activity](https://github.com/kylemcdonald/ethereum-nft-activity) - Estimate the total emissions for popular CryptoArt platforms.
-- [kube-green](https://github.com/kube-green/kube-green) - A k8s operator to reduce CO2 footprint of your clusters.
+- [kube-green](https://github.com/kube-green/kube-green) - A Kubernetes operator to reduce CO2 footprint of your clusters.
 - [Kepler](https://github.com/sustainable-computing-io/kepler) - Uses eBPF to probe energy related system stats and exports as Prometheus metrics.
 - [Software Carbon Intensity Specification](https://github.com/Green-Software-Foundation/sci) - A specification that describes how to calculate a carbon intensity for software applications.
 - [Principles of Green Software Engineering](https://github.com/jawache/principles-green) - Are a core set of competencies needed to define, build and run sustainable software applications.
@@ -2113,7 +2113,7 @@ parameter values.
 - [OpenDCS](https://github.com/opendcs/opendcs) - Open Data Collection System for Hydro/Meteorologic Data.
 - [Hydrocron](https://github.com/podaac/hydrocron) - An API that repackages hydrology datasets from the Surface Water and Ocean Topography satellite into formats that make time-series analysis easier.
 - [EPyGrAM](https://github.com/UMR-CNRM/EPyGrAM) - Enhanced Python for Graphics and Analysis of Meteorological fields.
-- [Hydropandas](https://github.com/ArtesiaWater/hydropandas) - A Python package for reading, analyzing, and writing hydrological time series from a pandas DataFrame, with all of its wonderful features, and extended with custom methods and attributes related to hydrological time series.
+- [Hydropandas](https://github.com/ArtesiaWater/hydropandas) - A Python package for reading, analyzing, and writing hydrological time series from a Pandas DataFrame, with all of its wonderful features, and extended with custom methods and attributes related to hydrological time series.
 - [mregions2](https://github.com/ropensci/mregions2) - Offers a streamlined interface to access data from Marine Regions in R for researchers, marine scientists, and geospatial analysts seeking marine geographical information.
 - [pyTMD](https://github.com/tsutterley/pyTMD) - Python-based tidal prediction software for estimating ocean, load, solid Earth and pole tides.
 - [gliderpy](https://github.com/ioos/gliderpy) - A thin wrapper around erddapy with custom methods and plotting functionality to browse, fetch, and plot glider data.
