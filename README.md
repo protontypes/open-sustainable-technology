@@ -973,7 +973,6 @@ energy system designs and analysis of interactions between technologies.
 - [offgridai](https://github.com/offgridai-us/cost-calculator) - This is a cost calculator for a datacenter powered by solar, batteries, and gas generation.
 - [AI Wattch](https://github.com/AIWattch/browser-extension) - Chrome browser extension to measure ChatGPT carbon emissions during conversations.
 - [Spruce](https://github.com/DigitalPebble/spruce) - Enrichment pipeline for CUR / FOCUS reports which adds energy and carbon data allowing to report and reduce the impact of the your cloud usage.
-- [CarbonRunner](https://carbonrunner.io/): Shifting compute like AI training and GitHub Actions to the lowest-carbon regions across AWS, Azure, GCP and Heata in real time, cutting CI/CD carbon emissions by 90%.
 
 ### Agriculture and Nutrition
 
