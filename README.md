@@ -610,6 +610,7 @@ energy system designs and analysis of interactions between technologies.
 - [earth-osm](https://github.com/pypsa-meets-earth/earth-osm) - Provides a Python API and a CLI interface to extract data for various power infrastructure types, such as power lines, substations, and more.
 - [HVDC-Wise lib](https://github.com/HVDC-WISE/HVDC-Wise_lib) - Hosts a library of HVDC equipment models for model exchange, based on the IEC CIM/CGMES standard format.
 - [Open Modeling Framework](https://github.com/nreca-bts/omf) - A set of Python libraries for simulating power systems behavior with an emphasis on cost-benefit analysis of emerging technologies: distributed generation, storage, networked controls, etc.
+- [GridFM](https://github.com/gridfm/gridfm-graphkit) - Train, finetune and interact with a foundation model for the electric power grid.
 
 ### Grid Management and Microgrid
 
