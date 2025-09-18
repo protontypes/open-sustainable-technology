@@ -2028,6 +2028,7 @@ parameter values.
 - [ecWAM](https://github.com/ecmwf-ifs/ecwam) - The ECMWF Ocean Wave Model describes the development and evolution of wind generated surface waves and their height, direction and period.
 - [eo-tides](https://github.com/GeoscienceAustralia/eo-tides) - Provides powerful parallelized tools for integrating satellite Earth observation data with tide modelling.
 - [EWDM](https://github.com/dspelaez/extended-wdm) - Python toolkit for estimating directional wave spectra of ocean waves based on wavelet transform.
+- [DispersiveShallowWater.jl](https://github.com/NumericalMathematics/DispersiveShallowWater.jl) - A Julia library of structure-preserving numerical methods for dispersive wave equations.
 
 ### Ocean Carbon and Temperature
 
