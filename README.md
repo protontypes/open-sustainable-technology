@@ -2305,6 +2305,7 @@ parameter values.
 - [eva3dm](https://github.com/Schuch666/eva3dm) - An R-package focusing on EVAluation of 3D weather and air quality Models, streamlining the entire workflow from data preparation to post-processing, statistical analysis, and visualization.
 - [WeatherLayers GL](https://github.com/weatherlayers/weatherlayers-gl) - Weather Visualization Layers and Controls for deck.gl.
 - [pyrad](https://github.com/MeteoSwiss/pyrad) - A Python-based, open-source framework for real-time and offline processing and visualization of weather radar data from diverse radar networks and formats, developed by MeteoSwiss and MeteoFrance.
+- [reformatters](https://github.com/dynamical-org/reformatters) - Reformat weather datasets into Zarr.
 
 ### Radiative Transfer
 
