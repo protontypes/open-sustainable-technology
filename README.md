@@ -2331,6 +2331,7 @@ parameter values.
 - [RT1](https://github.com/TUW-GEO/rt1) - A first order radiative transfer model for soil- and vegetation related parameter retrievals from radar-data.
 - [WOUDC Data Registry](https://github.com/woudc/woudc-data-registry) - A platform that manages Ozone and Ultraviolet Radiation data in support of the World Ozone and Ultraviolet Radiation Data Centre (WOUDC), one of six World Data Centres as part of the Global Atmosphere Watch programme of the WMO.
 - [SASKTRAN2](https://github.com/usask-arg/sasktran2) -  A user-friendly atmospheric radiative transfer model from the University of Saskatchewan, redesigned for efficient hyperspectral calculations and full weighting function support.
+- [konrad](https://github.com/atmtools/konrad) - A one-dimensional radiative-convective equilibrium model.
 
 ## Climate Change
 
