@@ -246,6 +246,7 @@
 - [OpenWindSCADA](https://github.com/sltzgs/OpenWindSCADA) - Repository of openly available wind turbine SCADA datasets with high-level descriptions, reusable data loaders for convenient CSV import, and a platform for documenting insights related to data quality and malfunctions.
 - [NREL Wind Turbine Power Curve Archive](https://github.com/NREL/turbine-models) - The purpose of this archive is to compile public wind turbine data in one place for easy access.
 - [MoorDyn](https://github.com/FloatingArrayDesign/MoorDyn) - A lumped-mass mooring line model intended for coupling with floating structure codes.
+- [Open Wind Energy](https://github.com/open-wind/openwindenergy) - Builds and displays onshore wind turbine site constraints in a fully automated way - avoiding the need for manually downloading and processing multiple GIS datasets by hand.
 
 ### Hydro Energy
 
