@@ -1984,6 +1984,7 @@ parameter values.
 - [G³M-f](https://github.com/rreinecke/global-gradient-based-groundwater-model) - The global gradient-based groundwater model framework is an extensible program to build groundwater models.
 - [Groundwater Accounting Platform](https://github.com/esassoc/qanat-community) - Enables water managers, landowners, and water users to track groundwater availability and usage with user-friendly dashboards and workflows.
 - [LakeEnsemblR](https://github.com/aemon-j/LakeEnsemblR) - An R package that facilitates multi-model ensembles for lake thermodynamics.
+- [DHALSIM](https://github.com/Critical-Infrastructure-Systems-Lab/DHALSIM) - Uses the WNTR EPANET wrapper to simulate the behaviour of water distribution systems.
 
 ### Ocean Models
 
