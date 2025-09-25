@@ -1397,6 +1397,7 @@ energy system designs and analysis of interactions between technologies.
 - [fqar](https://github.com/equitable-equations/fqar) - Floristic Quality Assessment (FQA) is a standardized method for rating the ecological value of natural areas based on the plant species found within them.
 - [Swallowtail Climate Change](https://github.com/Big-Biodiversity-Collaborative/SwallowtailClimateChange) - Data and code for North American Swallowtail and larval host plant distributions in relation to climate change.
 - [CLIBD](https://github.com/bioscan-ml/clibd) - A model uses contrastive learning to map biological images, DNA barcodes, and textual taxonomic labels to the same latent space.
+- [LIFE](https://github.com/quantifyearth/LIFE) - Implementation of the methodology for the Eyres et al LIFE biodiversity metric.
 
 ### Biodiversity Citizen Science
 
