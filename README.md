@@ -248,6 +248,7 @@
 - [NREL Wind Turbine Power Curve Archive](https://github.com/NREL/turbine-models) - The purpose of this archive is to compile public wind turbine data in one place for easy access.
 - [MoorDyn](https://github.com/FloatingArrayDesign/MoorDyn) - A lumped-mass mooring line model intended for coupling with floating structure codes.
 - [Open Wind Energy](https://github.com/open-wind/openwindenergy) - Builds and displays onshore wind turbine site constraints in a fully automated way - avoiding the need for manually downloading and processing multiple GIS datasets by hand.
+- [IEC 61400-15-2 EYA DEF](https://github.com/IEC-61400-15/eya_def) - Defines a complementary format for energy yield assessment reporting to the main written report, aimed at facilitating automated solutions for data exchange.
 
 ### Hydro Energy
 
