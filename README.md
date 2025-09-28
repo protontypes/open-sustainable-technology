@@ -2049,6 +2049,7 @@ parameter values.
 - [seacarb](https://github.com/jpgattuso/seacarb-git) - An R package that calculates various parameters of the carbonate system in seawater.
 - [TSG-QC](https://forge.ird.fr/us191/TSG-QC) - Analysis and validation of underway Sea Surface Temperature and Sea Surface Salinity measurements from a SeaBird Thermosalinograph.
 - [Ocean Health Index Scores](https://github.com/OHI-Science/ohi-global) - Provide invaluable, comprehensive, and quantitative assessments of progress towards healthy and sustainable oceans.
+- [OHICORE](https://github.com/OHI-Science/ohicor) - A package of core functions for calculating the Ocean Health Index (OHI).
 - [ERSEM](https://github.com/pmlmodelling/ersem) - A marine biogeochemical and ecosystem model that describes the cycling of carbon, nitrogen, phosphorus, silicon, oxygen and iron through the lower trophic level pelagic and benthic ecosystems.
 - [AIBECS.jl](https://github.com/JuliaOcean/AIBECS.jl) - A Julia package that provides ocean biogeochemistry modelers with an easy-to-use interface for creating and running models of the ocean system.
 - [mocsy](https://github.com/jamesorr/mocsy) - Routines to model ocean carbonate system thermodynamics.
