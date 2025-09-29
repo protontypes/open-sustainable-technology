@@ -1398,6 +1398,7 @@ energy system designs and analysis of interactions between technologies.
 - [Swallowtail Climate Change](https://github.com/Big-Biodiversity-Collaborative/SwallowtailClimateChange) - Data and code for North American Swallowtail and larval host plant distributions in relation to climate change.
 - [CLIBD](https://github.com/bioscan-ml/clibd) - A model uses contrastive learning to map biological images, DNA barcodes, and textual taxonomic labels to the same latent space.
 - [LIFE](https://github.com/quantifyearth/LIFE) - Implementation of the methodology for the Eyres et al LIFE biodiversity metric.
+- [Living Planet Index](https://github.com/Zoological-Society-of-London/rlpi) - The diversity-weighted Living Planet Index: controlling for taxonomic bias in a global biodiversity indicator.
 
 ### Biodiversity Citizen Science
 
