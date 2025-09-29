@@ -1452,6 +1452,7 @@ energy system designs and analysis of interactions between technologies.
 - [wildflow](https://github.com/wildflowai/platform) - Open marine biodiversity data platform aiming to protect oceans by accelerating research and conservation.
 - [BioTrove](https://github.com/baskargroup/BioTrove) - A Large Curated Image Dataset Enabling AI for Biodiversity.
 - [gbif.range](https://github.com/8Ginette8/gbif.range) - An R package to generate species range maps based on ecoregions and a user-friendly GBIF wrapper.
+- [BioCube](https://github.com/BioDT/bfm-data) - Contains the code used to engineer BioCube: A Multimodal Dataset for Biodiversity Research.
 
 ### Biodiversity Data Cleaning and Standardization
 
