@@ -2644,6 +2644,7 @@ parameter values.
 - [FLEXTH](https://code.europa.eu/floods/floods-river/flexth) - Flood extent enhancement and water depth estimation tool for satellite-derived inundation maps.
 - [pyTCR](https://github.com/levuvietphong/pyTCR) - A physics-based model developed in Python to estimate rainfall induced by tropical cyclones.
 - [HuracanPy](https://github.com/Huracan-project/huracanpy) - Provide a unified tool for working with cyclone track data.
+- [snail](https://github.com/nismod/snail) - A Python package to help with analysis of the potential impacts of climate hazards and other perils on infrastructure networks.
 
 ### Integrated Assessment and Climate Policy
 
