@@ -3097,6 +3097,7 @@ parameter values.
 - [VEDA Dashboard](https://github.com/NASA-IMPACT/veda-ui) - Developed collaboratively and mostly reusing existing open-source components, VEDA consolidates GIS delivery mechanisms, processing platforms, analysis services, and visualization tools and provides an ecosystem of open tools for addressing Earth science research and application needs through the public-facing VEDA Dashboard.
 - [oss4climate](https://github.com/Pierre-VF/oss4climate) - A scraping tool for open-source code (GitLab & GitHub) and associated search engine implementation to facilitate discovery of open-source code to address climate challenges.
 - [EMODnetWCS](https://github.com/EMODnet/EMODnetWCS) - Access Marine Data via the EMODnet Web Coverage Service data through R.
+- [etl](https://github.com/owid/etl) - A compute graph for loading and transforming Our World in Data's data.
 
 ### Environmental Satellites
 
