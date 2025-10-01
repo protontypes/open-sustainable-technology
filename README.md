@@ -1538,7 +1538,6 @@ parameter values.
 - [BioDT](https://github.com/BioDT/biodt-shiny) - Prototype Digital Twins to help protect and restore biodiversity.
 - [gen3sis](https://github.com/project-gen3sis/R-package) - A spatially-explicit eco-evolutionary mechanistic model with a modular implementation that allows exploring the consequences of ecological and macroevolutionary processes across realistic or theoretical spatio-temporal landscapes.
 
-
 ### Forest Modeling and Analysis
 
 > __What?__ Methods for simulating, predicting, and analyzing the dynamics, structure, and functions of forest ecosystems over time, incorporating factors such as tree growth, species distribution, ecological stressors, and human disturbances.
