@@ -1788,6 +1788,7 @@ parameter values.
 - [Biowatch](https://github.com/earthtoolsmaker/biowatch) - A powerful tool for wildlife researchers and conservationists to analyze, visualize, and explore CamtrapDP datasets with ease.
 - [bbousuite](https://github.com/poissonconsulting/bbousuite) - A set of R packages to facilitate simulation and analysis of boreal caribou survival and recruitment data to estimate population growth.
 - [Circuitscape](https://github.com/Circuitscape/Circuitscape.jl) - Modeling movement and gene flow of plants and animals, as well as identifying areas important for connectivity conservation.
+- [animl-py](https://github.com/conservationtechlab/animl-py) - Includes a set of functions to classify subjects within camera trap field data and can handle both images and videos.
  
 ### Wildfire
 
