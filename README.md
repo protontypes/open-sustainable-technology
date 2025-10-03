@@ -3137,6 +3137,7 @@ parameter values.
 - [BlackMarblePy](https://github.com/worldbank/blackmarblepy) - A Python package that provides a simple way to use nighttime lights data from NASA's Black Marble project that provides a product suite of daily, monthly and yearly global nighttime lights.
 - [cbers-2-stac](https://github.com/fredliporace/cbers-2-stac) - Create and keep up-to-date a STAC static catalog and API for CBERS-4/4A and Amazonia-1 images on AWS.
 - [cbers4asat](https://github.com/gabriel-russo/cbers4asat) - Python library to search and process images from the CBERS-04A and AMAZONIA-1 satellites, which provide remote sensing data for the observation and monitoring of deforestation, particularly in the Amazon region, and diversified agriculture throughout the national territory, with a high repetition rate, in order to act in synergy with existing environmental programmes.
+- [gediDB](https://github.com/simonbesnard1/gedidb) - A toolbox for processing and providing Global Ecosystem Dynamics Investigation (GEDI) L2A-B and L4A-C data.
 
 ### Taxonomy and Ontology
 
