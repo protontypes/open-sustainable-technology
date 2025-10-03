@@ -1108,7 +1108,8 @@ energy system designs and analysis of interactions between technologies.
 - [Carbon Intensity API](https://github.com/carbon-intensity/api-definitions) - The Carbon Intensity API uses cutting-edge machine learning and sophisticated power system modelling to forecast carbon intensity and generation mix 96+ hours ahead for every region in the UK.
 - [Eco Surf Analyser](https://github.com/les-enovateurs/estimate-good-website) - A browser extension that provides sustainability scores for websites, helping users understand the environmental impact of their browsing habits.
 - [CATS: the Climate-Aware Task Scheduler](https://github.com/GreenScheduler/cats) - A lightweight Python-based tool that calculates the optimal time to run a compute job to minimise its carbon intensity enabling environmentally-conscious scheduling.
-- [Project Eucalyptus](https://github.com/Orbio-Earth/Project-Eucalyptus) - Open-source pipelines for satellite-based methane detection that includes trained segmentation models, a synthetic plume generator, and benchmarking tools for Sentinel-2, Landsat 8/9, and EMIT. 
+- [Project Eucalyptus](https://github.com/Orbio-Earth/Project-Eucalyptus) - Open-source pipelines for satellite-based methane detection that includes trained segmentation models, a synthetic plume generator, and benchmarking tools for Sentinel-2, Landsat 8/9, and EMIT.
+- [DSCIM](https://github.com/ClimateImpactLab/dscim) - Enables the calculation of sector-specific partial social cost of greenhouse gases combined across sectors using a variety of valuation methods and assumptions.
 
 ### Carbon Offsets and Trading 
 
