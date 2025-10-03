@@ -15,5 +15,5 @@ jobs:
         with:
           fetch-depth: 0
       - run: | 
-              npx awesome-lint
+              npx awesome-lint@2.1.2
 
