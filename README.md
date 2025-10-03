@@ -248,6 +248,7 @@
 - [NREL Wind Turbine Power Curve Archive](https://github.com/NREL/turbine-models) - The purpose of this archive is to compile public wind turbine data in one place for easy access.
 - [MoorDyn](https://github.com/FloatingArrayDesign/MoorDyn) - A lumped-mass mooring line model intended for coupling with floating structure codes.
 - [Open Wind Energy](https://github.com/open-wind/openwindenergy) - Builds and displays onshore wind turbine site constraints in a fully automated way - avoiding the need for manually downloading and processing multiple GIS datasets by hand.
+- [IEC 61400-15-2 EYA DEF](https://github.com/IEC-61400-15/eya_def) - Defines a complementary format for energy yield assessment reporting to the main written report, aimed at facilitating automated solutions for data exchange.
 
 ### Hydro Energy
 
@@ -1398,6 +1399,7 @@ energy system designs and analysis of interactions between technologies.
 - [Swallowtail Climate Change](https://github.com/Big-Biodiversity-Collaborative/SwallowtailClimateChange) - Data and code for North American Swallowtail and larval host plant distributions in relation to climate change.
 - [CLIBD](https://github.com/bioscan-ml/clibd) - A model uses contrastive learning to map biological images, DNA barcodes, and textual taxonomic labels to the same latent space.
 - [LIFE](https://github.com/quantifyearth/LIFE) - Implementation of the methodology for the Eyres et al LIFE biodiversity metric.
+- [Living Planet Index](https://github.com/Zoological-Society-of-London/rlpi) - The diversity-weighted Living Planet Index: controlling for taxonomic bias in a global biodiversity indicator.
 
 ### Biodiversity Citizen Science
 
@@ -1452,6 +1454,7 @@ energy system designs and analysis of interactions between technologies.
 - [wildflow](https://github.com/wildflowai/platform) - Open marine biodiversity data platform aiming to protect oceans by accelerating research and conservation.
 - [BioTrove](https://github.com/baskargroup/BioTrove) - A Large Curated Image Dataset Enabling AI for Biodiversity.
 - [gbif.range](https://github.com/8Ginette8/gbif.range) - An R package to generate species range maps based on ecoregions and a user-friendly GBIF wrapper.
+- [BioCube](https://github.com/BioDT/bfm-data) - Contains the code used to engineer BioCube: A Multimodal Dataset for Biodiversity Research.
 
 ### Biodiversity Data Cleaning and Standardization
 
@@ -1759,6 +1762,7 @@ parameter values.
 - [shinyssdtools](https://github.com/bcgov/shinyssdtools) - A Shiny application for fitting species sensitivity distribution, a method for getting water quality benchmarks to characterize effects of chemical contaminants for water quality or ecological risk assessment.
 - [ssdtools](https://github.com/bcgov/ssdtools) - An R package to fit and plot Species Sensitivity Distributions, cumulative probability distributions which are fitted to toxicity concentrations for different species.
 - [EcoNicheS](https://github.com/armandosunny/EcoNicheS) - Enhancing ecological niche modeling, niche overlap and connectivity analysis using shiny dashboard and R Package.
+- [deepbiosphere](https://github.com/moiexpositoalonsolab/deepbiosphere) - Open-source implementation for plant species distribution mapping using citizen science, remote sensing, and deep convolutional neural networks.
 
 ### Terrestrial Wildlife
 
@@ -1785,6 +1789,7 @@ parameter values.
 - [Biowatch](https://github.com/earthtoolsmaker/biowatch) - A powerful tool for wildlife researchers and conservationists to analyze, visualize, and explore CamtrapDP datasets with ease.
 - [bbousuite](https://github.com/poissonconsulting/bbousuite) - A set of R packages to facilitate simulation and analysis of boreal caribou survival and recruitment data to estimate population growth.
 - [Circuitscape](https://github.com/Circuitscape/Circuitscape.jl) - Modeling movement and gene flow of plants and animals, as well as identifying areas important for connectivity conservation.
+- [animl-py](https://github.com/conservationtechlab/animl-py) - Includes a set of functions to classify subjects within camera trap field data and can handle both images and videos.
  
 ### Wildfire
 
@@ -2049,6 +2054,7 @@ parameter values.
 - [seacarb](https://github.com/jpgattuso/seacarb-git) - An R package that calculates various parameters of the carbonate system in seawater.
 - [TSG-QC](https://forge.ird.fr/us191/TSG-QC) - Analysis and validation of underway Sea Surface Temperature and Sea Surface Salinity measurements from a SeaBird Thermosalinograph.
 - [Ocean Health Index Scores](https://github.com/OHI-Science/ohi-global) - Provide invaluable, comprehensive, and quantitative assessments of progress towards healthy and sustainable oceans.
+- [OHICORE](https://github.com/OHI-Science/ohicor) - A package of core functions for calculating the Ocean Health Index (OHI).
 - [ERSEM](https://github.com/pmlmodelling/ersem) - A marine biogeochemical and ecosystem model that describes the cycling of carbon, nitrogen, phosphorus, silicon, oxygen and iron through the lower trophic level pelagic and benthic ecosystems.
 - [AIBECS.jl](https://github.com/JuliaOcean/AIBECS.jl) - A Julia package that provides ocean biogeochemistry modelers with an easy-to-use interface for creating and running models of the ocean system.
 - [mocsy](https://github.com/jamesorr/mocsy) - Routines to model ocean carbonate system thermodynamics.
