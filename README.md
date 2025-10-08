@@ -2317,6 +2317,7 @@ parameter values.
 - [WeatherLayers GL](https://github.com/weatherlayers/weatherlayers-gl) - Weather Visualization Layers and Controls for deck.gl.
 - [pyrad](https://github.com/MeteoSwiss/pyrad) - A Python-based, open-source framework for real-time and offline processing and visualization of weather radar data from diverse radar networks and formats, developed by MeteoSwiss and MeteoFrance.
 - [reformatters](https://github.com/dynamical-org/reformatters) - Reformat weather datasets into Zarr.
+- [Breezy Weather](https://github.com/breezy-weather/breezy-weather) - A feature-rich weather app with good visualizations and more than 50 sources.
 
 ### Radiative Transfer
 
