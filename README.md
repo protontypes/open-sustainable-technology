@@ -1110,6 +1110,7 @@ energy system designs and analysis of interactions between technologies.
 - [CATS: the Climate-Aware Task Scheduler](https://github.com/GreenScheduler/cats) - A lightweight Python-based tool that calculates the optimal time to run a compute job to minimise its carbon intensity enabling environmentally-conscious scheduling.
 - [Project Eucalyptus](https://github.com/Orbio-Earth/Project-Eucalyptus) - Open-source pipelines for satellite-based methane detection that includes trained segmentation models, a synthetic plume generator, and benchmarking tools for Sentinel-2, Landsat 8/9, and EMIT.
 - [DSCIM](https://github.com/ClimateImpactLab/dscim) - Enables the calculation of sector-specific partial social cost of greenhouse gases combined across sectors using a variety of valuation methods and assumptions.
+- [GGIRCS](https://github.com/bcgov/cas-ggircs) - BC Climate Action Secretariat's Greenhouse Gas Industrial Reporting and Control System.
 
 ### Carbon Offsets and Trading 
 
