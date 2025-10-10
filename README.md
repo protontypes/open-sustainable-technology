@@ -2916,6 +2916,7 @@ parameter values.
 - [Sand Mining Watch](https://github.com/BerkeleySandProject/sandmining-watch) - A custom sand-mine detection tool by fine-tuning foundation models for earth observation, which leverage self supervised learning.
 - [Iowa Daily Erosion Project](https://github.com/dailyerosion/dep) - Estimates soil erosion and water runoff occurring on hill slopes in Iowa and surrounding states.
 - [SoilHealthDataCube](https://github.com/AI4SoilHealth/SoilHealthDataCube) - Soil Health Data Cube for Europe.
+- [GeoTessera](https://github.com/ucam-eo/geotessera) - A foundation model that can process time-series satellite imagery for applications such as land classification and canopy height prediction.
 
 ### Ecotoxicology
 
