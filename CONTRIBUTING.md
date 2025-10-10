@@ -1,5 +1,7 @@
 # Contributing Guide
 
+**Would you like to help us find missing projects? Read our guidelines on: [How to Identify Open Source Projects in Sustainability and Climate.](https://github.com/protontypes/open-sustainable-technology/blob/main/docs/how_to_identify_projects.md)**
+
 ## Fast Lane
 If you just want to give a hint about a missing project, send an email at [tobias.augspurger@protontypes.eu](mailto:tobias.augspurger@protontypes.eu). However, we would be pleased to add you to the list of official contributors via a pull request. 
 
@@ -33,8 +35,4 @@ If your project doesn't meet the community, documentation, or usage criteria bec
 
 ## Post new entries on social media
 To simply follow new project that have been reviewed successfully, the commit message of the merge will be posted on our [Mastodon](https://mastodon.social/@opensustaintech) and [Bluesky](https://bsky.app/profile/opensustaintech.bsky.social) channel. To trigger the posting via GitHub Action, the reviewer of the project needs to add a short sentence describing your project and the full URL of your repository to the description of the merge commit. 
-
-## Join the Community
-We welcome developers, scientists, artists, writers, journalists, entrepreneurs, and citizens alike. Join our regular community calls to learn more about how you can make a difference through open source action on climate and sustainability.
-<iframe src="https://calendar.google.com/calendar/embed?src=opensustaintech%40gmail.com&ctz=Europe%2FBerlin" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
