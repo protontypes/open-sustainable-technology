@@ -501,6 +501,7 @@ energy system designs and analysis of interactions between technologies.
 - [Tulipa Energy Model](https://github.com/TulipaEnergy/TulipaEnergyModel.jl) - An energy system modelling framework for investment (expansion) and dispatch (operations) optimisations using mixed-integer linear programming (MILP) - primarily for informing policy-maker & stakeholder decisions in the energy transition. Focuses on generalized & compact formulations (peer-reviewed publications) and efficient code implementation to handle large-scale problems (i.e. European) while maintaining sufficient granularity.
 - [Roseau Load Flow](https://github.com/RoseauTechnologies/Roseau_Load_Flow) - A powerful load flow solver and static analysis tool.
 - [ExerPy](https://github.com/oemof/exerpy) - A Python library designed to perform detailed exergy analysis of energy conversion systems.
+- [Open Energy Benchmark](https://github.com/open-energy-transition/solver-benchmark) - This repository contains code for benchmarking optimization solvers on problems from the energy planning domain, and an interactive website for analyzing the results.
 
 ### Energy Markets
 
@@ -1034,7 +1035,7 @@ energy system designs and analysis of interactions between technologies.
 - [CRITERIA3D](https://github.com/ARPA-SIMC/CRITERIA3D) - Includes a numerical solution for three-dimensional water and heat flow in the soil, coupled surface and subsurface flow, meteorological data interpolation, radiation budget, crop development and crop water uptake.
 - [CRITERIA1D](https://github.com/ARPA-SIMC/CRITERIA1D) - Agro-hydrological model that simulates one-dimensional water flow in variable saturation soils, crop development, root water extraction and irrigation water needs.
 - [S4A](https://github.com/Orion-AI-Lab/S4A) - A Sentinel-2 multi-year, multi-country benchmark dataset for crop classification and segmentation with deep learning.
-- [LiteFarm](https://github.com/LiteFarmOrg/LiteFarm) - A platform joining farmers and scientists together for participatory assessment of social, environmental and economic outputs of farming systems.
+- [LiteFarm](https://github.com/LiteFarmOrg/LiteFarm) - A platform joining farmers and scientists togethehttps://github.com/open-energy-transition/solver-benchmarkr for participatory assessment of social, environmental and economic outputs of farming systems.
 - [biotrade](https://gitlab.com/bioeconomy/forobs/biotrade/) - Analyses international trade of bio-based products with a focus on the agriculture and forestry sectors.
 - [PyETo](https://github.com/woodcrafty/PyETo) - A Python library for calculating reference crop evapotranspiration, sometimes referred to as potential evapotranspiration.
 <!--lint ignore awesome-spell-check-->
@@ -1101,7 +1102,7 @@ energy system designs and analysis of interactions between technologies.
 - [Open Grid Emissions Initiative](https://github.com/singularity-energy/open-grid-emissions) - Seeks to fill a critical need for high-quality, publicly-accessible, hourly grid emissions data that can be used for GHG accounting, policymaking, academic research, and energy attribute certificate markets.
 - [gridemissions](https://github.com/jdechalendar/gridemissions) - Displays the hourly carbon footprint of the US electricity system.
 - [pyELQ](https://github.com/sede-open/pyELQ) - Detect, localize, and quantify methane emissions from concentration and wind measurements.
-- [Technology-Carbon-Standard](https://github.com/ScottLogic/Technology-Carbon-Standard) - Aims to provide a unified standard for understanding, quantifying, and reducing carbon emissions from an organisation's technology landscape.
+- [Technology-Carbon-Standard](https://github.com/ScottLogic/Technology-Carbon-Standard) - Aims to providhttps://github.com/open-energy-transition/solver-benchmarke a unified standard for understanding, quantifying, and reducing carbon emissions from an organisation's technology landscape.
 - [py-Open-IMO-CII-Calculator](https://github.com/Etive-Mor/py-open-IMO-CII-calculator) - A Python library for calculating the carbon intensity indicator for ships, in accordance with the International Maritime Organization's carbon regulations.
 - [Open-IMO-CII-Calculator](https://github.com/Etive-Mor/Open-IMO-CII-Calculator) - A C# library for calculating the carbon intensity indicator for ships, in accordance with the International Maritime Organization's carbon regulations.
 - [The NHS Emission Quantification Recipe Book](https://github.com/danwrisar/KMSIMG_NHS_EmissionsRecipeBook) - A transparent, collaborative and evidence-based approach to establishing a standardised means of calculating emissions associated with NHS Carbon Footprint and Carbon Footprint Plus.
