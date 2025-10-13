@@ -196,6 +196,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 - [Solarman integration](https://github.com/StephanJoubert/home_assistant_solarman) - Home Assistant component for interacting with Solarman data collectors used with a variety of inverters.
 - [SunPeek](https://gitlab.com/sunpeek/sunpeek) - Implements a dynamic, in situ test methodology for large solar thermal plants.
 - [SkyGPT](https://github.com/yuhao-nie/SkyGPT) - A physics-constrained stochastic sky video prediction model for probabilistic short-term solar forecasting.
+- [sunpy](https://github.com/sunpy/sunpy) -  A Python software package that provides fundamental tools for accessing, loading and interacting with solar physics data in Python.
 
 ### Wind Energy
 
