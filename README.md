@@ -980,6 +980,7 @@ energy system designs and analysis of interactions between technologies.
 - [offgridai](https://github.com/offgridai-us/cost-calculator) - This is a cost calculator for a datacenter powered by solar, batteries, and gas generation.
 - [AI Wattch](https://github.com/AIWattch/browser-extension) - Chrome browser extension to measure ChatGPT carbon emissions during conversations.
 - [Spruce](https://github.com/DigitalPebble/spruce) - Enrichment pipeline for CUR / FOCUS reports which adds energy and carbon data allowing to report and reduce the impact of the your cloud usage.
+- [wlc-scenario-explorer](https://github.com/mroeck/wlc-scenario-explorer) - a open source tool that enables selection, comparison, and analysis of various combinations of carbon reduction and/or removal strategies that could be applied across building stocks to affect whole life cycle impacts from buildings and construction.
 
 ### Agriculture and Nutrition
 
