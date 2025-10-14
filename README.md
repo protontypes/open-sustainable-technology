@@ -196,7 +196,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 - [Solarman integration](https://github.com/StephanJoubert/home_assistant_solarman) - Home Assistant component for interacting with Solarman data collectors used with a variety of inverters.
 - [SunPeek](https://gitlab.com/sunpeek/sunpeek) - Implements a dynamic, in situ test methodology for large solar thermal plants.
 - [SkyGPT](https://github.com/yuhao-nie/SkyGPT) - A physics-constrained stochastic sky video prediction model for probabilistic short-term solar forecasting.
-- [sunpy](https://github.com/sunpy/sunpy) -  A Python software package that provides fundamental tools for accessing, loading and interacting with solar physics data in Python.
+- [GMSEUS](https://github.com/stidjaco/GMSEUS) - A comprehensive ground-mounted solar energy dataset with sub-array design metadata in the United States.
 
 ### Wind Energy
 
@@ -2425,6 +2425,7 @@ parameter values.
 - [ciceroscm](https://github.com/ciceroOslo/ciceroscm) - Python version of the CICERO-SCM simple climate model/emulator.
 - [ChaosBench](https://github.com/leap-stc/ChaosBench) - A benchmark project to improve and extend the predictability range of deep weather emulators to the subseasonal-to-seasonal (S2S) scale.
 - [CIMS](https://github.com/EMRG-SFU/cims/) - The Python implementation of the CIMS economic climate model.
+- [sunpy](https://github.com/sunpy/sunpy) -  A Python software package that provides fundamental tools for accessing, loading and interacting with solar physics data in Python.
 
 ### Climate Data Standards 
 
