@@ -252,6 +252,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 - [MoorDyn](https://github.com/FloatingArrayDesign/MoorDyn) - A lumped-mass mooring line model intended for coupling with floating structure codes.
 - [Open Wind Energy](https://github.com/open-wind/openwindenergy) - Builds and displays onshore wind turbine site constraints in a fully automated way - avoiding the need for manually downloading and processing multiple GIS datasets by hand.
 - [IEC 61400-15-2 EYA DEF](https://github.com/IEC-61400-15/eya_def) - Defines a complementary format for energy yield assessment reporting to the main written report, aimed at facilitating automated solutions for data exchange.
+- [WAVES](https://github.com/NREL/WAVES) - Wind Asset Value Estimation System is a tool for estimating the lifecycle costs of offshore wind projects using NREL's flagship techno economic models.
 
 ### Hydro Energy
 
