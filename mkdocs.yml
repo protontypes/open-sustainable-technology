@@ -7,9 +7,9 @@ base_url: 'https://opensustain.tech/'
 edit_uri: ''
 nav:
   - Projects: index.md
+  - Analytics: analytics.md
   - Spreadsheet: spreadsheet.md
   - Education: education.md
-  - Analytics: analytics.md
   - Contribute: contributing.md
   - Presentations: "presentations.md"
   - Blog:

@@ -2,17 +2,13 @@
 hide:
   - navigation
   - toc
+  - footer
 ---
 
-# Analytics   
-This page provides analytics of the current state of the open source ecosystem in the fields of climate, biodiversity, and natural resources.
+<style> .md-main__inner.md-grid { margin-top: 0 !important; } .md-typeset h1, .md-content__button { display: none; } </style>
 
-## Package Downloads
-
-Monthly downloads for open source projects that are listed under Open Sustainable Technology and in at least one package manager. The plot is fully interactive. Press on the project names on the left to open the repository website. Press on the colour legend on the right to filter by different categories.
-
-Metadata source: [ecosyste.ms](https://ecosyste.ms/)
-
---8<-- "docs/download_plot.html"
-
-
+<iframe
+  src="https://opensustain-analytics.streamlit.app//?embed=True"
+  class="iframestyle" 
+  >
+</iframe>
