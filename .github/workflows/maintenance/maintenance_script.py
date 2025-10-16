@@ -11,11 +11,18 @@ from requests.adapters import HTTPAdapter
 from tqdm import tqdm
 from urllib3.util import Retry
 
-SESSION = requests.Session()
+# Parameters to adjust
+IGNORE_URL_PREFIXES = [
+    "https://docs.google.com/",
+]
 TIMEOUT_DEFAULT = 5
+ALLOWED_RETRIES = 4
+
+
+SESSION = requests.Session()
 
 _retries = Retry(
-    total=4,
+    total=ALLOWED_RETRIES,
     backoff_factor=0.5,
     backoff_max=60,
     status_forcelist=[500, 502, 503, 504],
@@ -75,6 +82,10 @@ error_urls = []
 try:
     for url_i in tqdm(external_links):
         try:
+            for i in IGNORE_URL_PREFIXES:
+                if url_i.startswith(i):
+                    # Skip check of URLs that start with prefixes to ignore
+                    continue
             r = SESSION.get(
                 url_i,
                 allow_redirects=False,
