@@ -7,6 +7,7 @@ import os
 import re
 from dataclasses import dataclass
 
+import diskcache
 import requests
 from requests.adapters import HTTPAdapter
 from tqdm import tqdm
@@ -19,6 +20,7 @@ IGNORE_URL_PREFIXES = [
 TIMEOUT_DEFAULT = 5
 ALLOWED_RETRIES = 4
 N_MAXIMUM_CHANGES_PER_ITERATION: int | None = 5  # None ignores the feature
+CACHE_LIFETIME_SECONDS = 3600 * 24
 
 
 SESSION = requests.Session()
@@ -36,6 +38,11 @@ SESSION.mount("https://", HTTPAdapter(max_retries=_retries))
 NAVIGATOR_HEADERS = {
     "User-Agent": "Mozilla/5.0",
 }
+
+# Note: if you change the cache, make sure to gitignore the new location
+_cache_folder = "maintenance-diskcache/"
+os.makedirs(_cache_folder, exist_ok=True)
+CACHE = diskcache.Cache(_cache_folder)
 
 markdown_file = "README.md"
 
@@ -94,6 +101,28 @@ class LinksToMaintain:
         )
 
 
+def _cached_session_get(
+    s: requests.Session, url_i: str
+) -> tuple[int | None, str | None]:
+    key = f"url:{url_i}"
+    sc_cached = CACHE.get(key)
+    if sc_cached:
+        return sc_cached
+    r = s.get(
+        url_i,
+        allow_redirects=False,
+        headers=NAVIGATOR_HEADERS,
+        timeout=TIMEOUT_DEFAULT,
+    )
+    status_code = r.status_code
+    if (status_code // 100) == 3:
+        next_url = r.next.url
+    else:
+        next_url = None
+    CACHE.set(key=key, value=(status_code, next_url), expire=CACHE_LIFETIME_SECONDS)
+    return status_code, next_url
+
+
 # ------------------------------------------------------------------------------------
 # Execution of the maintenance itself
 # ------------------------------------------------------------------------------------
@@ -109,13 +138,7 @@ try:
                 if url_i.startswith(i):
                     # Skip check of URLs that start with prefixes to ignore
                     continue
-            r = SESSION.get(
-                url_i,
-                allow_redirects=False,
-                headers=NAVIGATOR_HEADERS,
-                timeout=TIMEOUT_DEFAULT,
-            )
-            status_code = r.status_code
+            status_code, next_url = _cached_session_get(SESSION, url_i)
         except requests.exceptions.ConnectionError:
             status_code = None
         if status_code is None:
@@ -126,7 +149,6 @@ try:
             ltm.invalid_urls.append(url_i)
             logging.warning(f"Invalid URL: {url_i}")
         elif (status_code // 100) == 3:
-            next_url = r.next.url
             ltm.redirected_urls[url_i] = next_url
             logging.warning(f"Redirecting {url_i} to {next_url}")
         elif status_code == 403:
@@ -141,6 +163,9 @@ try:
 except BaseException as e:
     # This is a dirty way to allow for partial runs
     print(f"Interrupting the execution ({e})")
+
+# Closing the cache after requests are made
+CACHE.close()
 
 # ------------------------------------------------------------------------------------
 # Writing updates in file
