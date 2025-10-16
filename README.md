@@ -1074,6 +1074,7 @@ energy system designs and analysis of interactions between technologies.
 - [street2sat](https://github.com/nasaharvest/street2sat) - A framework for obtaining large data sets of geo-referenced crop type labels obtained from vehicle mounted cameras that can be extended to other applications.
 - [PASTIS](https://github.com/VSainteuf/pastis-benchmark) - A benchmark dataset for panoptic and semantic segmentation of agricultural parcels from satellite time series.
 - [XPalm](https://github.com/PalmStudio/XPalm.jl) - A process-based model for simulating oil palm (Elaeis guineensis) growth and development.
+- [AgriTech](https://github.com/omroy07/AgriTech) -  AI-powered web platform that offers crop recommendations, yield prediction, disease detection, and collaborative tools to empower farmers and promote smart, sustainable agriculture.
 
 ## Emissions
 
