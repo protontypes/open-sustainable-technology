@@ -19,7 +19,7 @@ IGNORE_URL_PREFIXES = [
 ]
 TIMEOUT_DEFAULT = 5
 ALLOWED_RETRIES = 4
-N_MAXIMUM_CHANGES_PER_ITERATION: int | None = 5  # None ignores the feature
+N_MAXIMUM_CHANGES_PER_ITERATION: int | None = 1  # None ignores the feature
 CACHE_LIFETIME_SECONDS = 3600 * 24
 
 
@@ -101,15 +101,13 @@ class LinksToMaintain:
         )
 
 
-def _cached_session_get(
-    s: requests.Session, url_i: str
-) -> tuple[int | None, str | None]:
-    key = f"url:{url_i}"
+def _cached_session_get(s: requests.Session, url: str) -> tuple[int | None, str | None]:
+    key = f"url:{url}"
     sc_cached = CACHE.get(key)
     if sc_cached:
         return sc_cached
     r = s.get(
-        url_i,
+        url,
         allow_redirects=False,
         headers=NAVIGATOR_HEADERS,
         timeout=TIMEOUT_DEFAULT,
@@ -123,6 +121,22 @@ def _cached_session_get(
     return status_code, next_url
 
 
+def _ignore_url(url) -> bool:
+    ignore = CACHE.get(f"ignore:{url}")
+    if ignore:
+        return True
+    for i in IGNORE_URL_PREFIXES:
+        if url.startswith(i):
+            # Skip check of URLs that start with prefixes to ignore
+            return True
+    return False
+
+
+def _ignore_url_in_next_iterations(url: str) -> None:
+    CACHE.set(key=f"ignore:{url}", value=True, expire=CACHE_LIFETIME_SECONDS)
+    logging.info(f"Marked {url} for ignoring in next iteration")
+
+
 # ------------------------------------------------------------------------------------
 # Execution of the maintenance itself
 # ------------------------------------------------------------------------------------
@@ -134,31 +148,32 @@ logging.info("Checking all links via web requests")
 try:
     for url_i in tqdm(external_links):
         try:
-            for i in IGNORE_URL_PREFIXES:
-                if url_i.startswith(i):
-                    # Skip check of URLs that start with prefixes to ignore
-                    continue
+            if _ignore_url(url_i):
+                continue
             status_code, next_url = _cached_session_get(SESSION, url_i)
         except requests.exceptions.ConnectionError:
             status_code = None
-        if status_code is None:
-            ltm.error_urls.append(url_i)
-        elif (status_code // 100) == 2:
+        if (status_code // 100) == 2:
             pass  # Nothing to declare
-        elif status_code == 404:
-            ltm.invalid_urls.append(url_i)
-            logging.warning(f"Invalid URL: {url_i}")
-        elif (status_code // 100) == 3:
-            ltm.redirected_urls[url_i] = next_url
-            logging.warning(f"Redirecting {url_i} to {next_url}")
-        elif status_code == 403:
-            ltm.forbidden_urls.append(url_i)
         else:
-            logging.warning(f"Error on {url_i} : status={status_code}")
+            if status_code is None:
+                ltm.error_urls.append(url_i)
+            elif status_code == 404:
+                ltm.invalid_urls.append(url_i)
+                logging.warning(f"Invalid URL: {url_i}")
+            elif (status_code // 100) == 3:
+                ltm.redirected_urls[url_i] = next_url
+                logging.warning(f"Redirecting {url_i} to {next_url}")
+            elif status_code == 403:
+                ltm.forbidden_urls.append(url_i)
+            else:
+                logging.warning(f"Error on {url_i} : status={status_code}")
+            _ignore_url_in_next_iterations(url_i)
 
         if N_MAXIMUM_CHANGES_PER_ITERATION:
             if len(ltm) >= N_MAXIMUM_CHANGES_PER_ITERATION:
                 logging.info("Stopping as the maximum number of changes was reached")
+                break
 
 except BaseException as e:
     # This is a dirty way to allow for partial runs
