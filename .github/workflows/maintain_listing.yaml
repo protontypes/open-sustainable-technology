@@ -48,9 +48,23 @@ jobs:
           uv venv
           uv pip install -r .github/workflows/maintenance/requirements.txt
 
+      - name: Restore cache
+        id: cache-restore
+        uses: actions/cache/restore@v4
+        with:
+          path: maintenance-diskcache/
+          key: maintenance-cache
+
       - name: Running the script
         run: uv run .github/workflows/maintenance/maintenance_script.py
                 
+      - name: Save cache
+        id: cache-save
+        uses: actions/cache/save@v4
+        with:
+          path: maintenance-diskcache/
+          key: ${{ steps.cache-restore.outputs.cache-primary-key }}
+
       - name: Defining Git identity 
         run: | 
           git config user.name github_actions
