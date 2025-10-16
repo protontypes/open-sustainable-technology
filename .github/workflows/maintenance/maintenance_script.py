@@ -19,7 +19,7 @@ IGNORE_URL_PREFIXES = [
 ]
 TIMEOUT_DEFAULT = 5
 ALLOWED_RETRIES = 4
-N_MAXIMUM_CHANGES_PER_ITERATION: int | None = 1  # None ignores the feature
+N_MAXIMUM_CHANGES_PER_ITERATION: int | None = 5  # None ignores the feature
 CACHE_LIFETIME_SECONDS = 3600 * 24
 
 
