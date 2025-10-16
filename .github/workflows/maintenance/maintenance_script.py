@@ -5,6 +5,7 @@ This python script screens resources linked to, and ensures that they're still a
 import logging
 import os
 import re
+from dataclasses import dataclass
 
 import requests
 from requests.adapters import HTTPAdapter
@@ -17,6 +18,7 @@ IGNORE_URL_PREFIXES = [
 ]
 TIMEOUT_DEFAULT = 5
 ALLOWED_RETRIES = 4
+N_MAXIMUM_CHANGES_PER_ITERATION: int | None = 5  # None ignores the feature
 
 
 SESSION = requests.Session()
@@ -72,12 +74,33 @@ external_links = [
     if i.startswith("https://") or i.startswith("http://")
 ]
 
+
+# ------------------------------------------------------------------------------------
+# Helper functions and classes
+# ------------------------------------------------------------------------------------
+@dataclass
+class LinksToMaintain:
+    invalid_urls = []
+    redirected_urls = {}
+    forbidden_urls = []
+    error_urls = []
+
+    def __len__(self) -> int:
+        return (
+            len(self.invalid_urls)
+            + len(self.redirected_urls)
+            + len(self.forbidden_urls)
+            + len(self.error_urls)
+        )
+
+
+# ------------------------------------------------------------------------------------
+# Execution of the maintenance itself
+# ------------------------------------------------------------------------------------
+ltm = LinksToMaintain()
+
 # Identifying invalid and redirected links
 logging.info("Checking all links via web requests")
-invalid_urls = []
-redirected_urls = {}
-forbidden_urls = []
-error_urls = []
 
 try:
     for url_i in tqdm(external_links):
@@ -96,20 +119,24 @@ try:
         except requests.exceptions.ConnectionError:
             status_code = None
         if status_code is None:
-            error_urls.append(url_i)
+            ltm.error_urls.append(url_i)
         elif (status_code // 100) == 2:
             pass  # Nothing to declare
         elif status_code == 404:
-            invalid_urls.append(url_i)
+            ltm.invalid_urls.append(url_i)
             logging.warning(f"Invalid URL: {url_i}")
         elif (status_code // 100) == 3:
             next_url = r.next.url
-            redirected_urls[url_i] = next_url
+            ltm.redirected_urls[url_i] = next_url
             logging.warning(f"Redirecting {url_i} to {next_url}")
         elif status_code == 403:
-            forbidden_urls.append(url_i)
+            ltm.forbidden_urls.append(url_i)
         else:
             logging.warning(f"Error on {url_i} : status={status_code}")
+
+        if N_MAXIMUM_CHANGES_PER_ITERATION:
+            if len(ltm) >= N_MAXIMUM_CHANGES_PER_ITERATION:
+                logging.info("Stopping as the maximum number of changes was reached")
 
 except BaseException as e:
     # This is a dirty way to allow for partial runs
@@ -119,11 +146,11 @@ except BaseException as e:
 # Writing updates in file
 # ------------------------------------------------------------------------------------
 logging.info("Replacing links")
-for i in invalid_urls:
+for i in ltm.invalid_urls:
     md_content = md_content.replace(i, "DEAD_URL")
-for i in error_urls:
+for i in ltm.error_urls:
     md_content = md_content.replace(i, "ERROR_URL")
-for old_url, new_url in redirected_urls.items():
+for old_url, new_url in ltm.redirected_urls.items():
     md_content = md_content.replace(old_url, new_url)
 # and do nothing about the forbidden ones
 
