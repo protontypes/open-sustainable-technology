@@ -76,4 +76,4 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
           branch: "maintenance/${{ github.run_id }}"
           base: "main"
-          title: "Updating links"
+          title: "Updating links (${{ github.run_id }})"
