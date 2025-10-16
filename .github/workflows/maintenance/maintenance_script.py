@@ -72,33 +72,37 @@ redirected_urls = {}
 forbidden_urls = []
 error_urls = []
 
-for url_i in tqdm(external_links):
-    try:
-        r = SESSION.get(
-            url_i,
-            allow_redirects=False,
-            headers=NAVIGATOR_HEADERS,
-            timeout=TIMEOUT_DEFAULT,
-        )
-        status_code = r.status_code
-    except requests.exceptions.ConnectionError:
-        status_code = None
-    if status_code is None:
-        error_urls.append(url_i)
-    elif (status_code // 100) == 2:
-        pass  # Nothing to declare
-    elif status_code == 404:
-        invalid_urls.append(url_i)
-        logging.warning(f"Invalid URL: {url_i}")
-    elif (status_code // 100) == 3:
-        next_url = r.next.url
-        redirected_urls[url_i] = next_url
-        logging.warning(f"Redirecting {url_i} to {next_url}")
-    elif status_code == 403:
-        forbidden_urls.append(url_i)
-    else:
-        logging.warning(f"Error on {url_i} : status={status_code}")
+try:
+    for url_i in tqdm(external_links):
+        try:
+            r = SESSION.get(
+                url_i,
+                allow_redirects=False,
+                headers=NAVIGATOR_HEADERS,
+                timeout=TIMEOUT_DEFAULT,
+            )
+            status_code = r.status_code
+        except requests.exceptions.ConnectionError:
+            status_code = None
+        if status_code is None:
+            error_urls.append(url_i)
+        elif (status_code // 100) == 2:
+            pass  # Nothing to declare
+        elif status_code == 404:
+            invalid_urls.append(url_i)
+            logging.warning(f"Invalid URL: {url_i}")
+        elif (status_code // 100) == 3:
+            next_url = r.next.url
+            redirected_urls[url_i] = next_url
+            logging.warning(f"Redirecting {url_i} to {next_url}")
+        elif status_code == 403:
+            forbidden_urls.append(url_i)
+        else:
+            logging.warning(f"Error on {url_i} : status={status_code}")
 
+except BaseException as e:
+    # This is a dirty way to allow for partial runs
+    print(f"Interrupting the execution ({e})")
 
 # ------------------------------------------------------------------------------------
 # Writing updates in file
