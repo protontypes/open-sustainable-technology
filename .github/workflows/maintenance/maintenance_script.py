@@ -20,7 +20,7 @@ IGNORE_URL_PREFIXES = [
 TIMEOUT_DEFAULT = 5
 ALLOWED_RETRIES = 4
 N_MAXIMUM_CHANGES_PER_ITERATION: int | None = 5  # None ignores the feature
-CACHE_LIFETIME_SECONDS = 3600 * 24
+CACHE_LIFETIME_SECONDS = 3600 * 24 * 28  # 28 days of cache lifetime
 
 
 SESSION = requests.Session()

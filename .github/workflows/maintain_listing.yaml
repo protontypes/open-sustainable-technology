@@ -3,7 +3,7 @@
 #
 # > Syntax tips here: https://docs.github.com/en/actions/using-workflows/workflow-syntax-for-github-actions
 #
-name: Updating the data
+name: Maintaining links
 
 on: 
   workflow_dispatch:
@@ -20,7 +20,7 @@ on:
   #  - cron: '25 5 * * WED'
 
 jobs:
-  build-and-run-updating:
+  build-and-run-maintenance:
     name: Maintain listing
 
     runs-on: ubuntu-latest
