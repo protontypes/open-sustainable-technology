@@ -353,6 +353,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 - [FAIR-Battery](https://github.com/SanliFaez/FAIR-Battery) - We seek to present an open-hardware platform for a versatile battery technology and make the platform radically accessible.
 - [Homeassistant E3DC Integration](https://github.com/fl4p/batmon-ha) - Monitor and control various Battery management systems (BMS) over Bluetooth and send the results to Home Assistant.
 - [Galv backend](https://github.com/galv-team/galv-backend) - An open-source platform for automated storage of battery data with advanced metadata support for battery scientists.
+- [PyProBE](https://github.com/ImperialCollegeLondon/PyProBE) - A Python package designed to simplify and accelerate the process of analysing data from battery cyclers.
 
 ### Hydrogen
 
