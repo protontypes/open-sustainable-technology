@@ -44,7 +44,9 @@ jobs:
           version: "0.9.2"
 
       - name: Installing packages 
-        run: uv pip install -r .github/workflows/maintenance/requirements.txt
+        run: |
+          uv venv
+          uv pip install -r .github/workflows/maintenance/requirements.txt
 
       - name: Running the script
         run: uv run .github/workflows/maintenance/maintenance_script.py
