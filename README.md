@@ -692,6 +692,7 @@ energy system designs and analysis of interactions between technologies.
 - [osemosys_global](https://github.com/OSeMOSYS/osemosys_global) - An open-source, open-data model generator for creating global energy system models.
 - [PyPSA-KZ](https://github.com/pypsa-meets-earth/pypsa-kz-data) - Aims to model the Kazakh power system, incorporating a substantial increase in variable generation, such as solar and wind, surpassing the current official mid-term policy goal of 15% of all renewable energy sources in generation by 2030.
 - [PyPSA-Wal](https://github.com/open-energy-transition/pypsa-wal) - A Sector-Coupled Open Optimisation Model of the Belgian Energy System with Emphasis on the Wallonia Region.
+- [PyPSA-China](https://github.com/pik-piam/PyPSA-China-PIK) - A open-source model of the Chinese energy system covering electricity and heat that co-optimizes dispatch and investments under user-set constraints, such as limits to environmental impacts, to minimize costs.
 
 
 ### Renewable Energy Integration
