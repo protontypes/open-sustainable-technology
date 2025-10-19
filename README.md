@@ -686,7 +686,7 @@ energy system designs and analysis of interactions between technologies.
 - [ReEDS](https://github.com/NREL/ReEDS-2.0) - A capacity planning and dispatch model for the North American electricity system.
 - [nempy](https://github.com/UNSW-CEEM/nempy) - Aims to enhance the Australian electricity industries modeling and analytical capabilities.
 - [openENTRANCE](https://github.com/openENTRANCE/openentrance) - The Horizon 2020 openENTRANCE project aims at developing, using and disseminating an open, transparent and integrated modeling platform for assessing low-carbon transition pathways in Europe.
-- [PyPSA-DE](https://github.com/PyPSA/pypsa-ariadne) - High resolution, sector-coupled model of the German Energy System.
+- [PyPSA-DE](https://github.com/PyPSA/pypsa-de) - High resolution, sector-coupled model of the German Energy System.
 - [OSeMBE_ECEMF](https://github.com/KTH-dESA/OSeMBE_ECEMF) - Contains the energy future scenarios modelled in OSeMBE as part of the ECEMF project, which brings together energy and climate researchers and policy makers to address the central challenge of our time - how to achieve climate neutrality.
 - [PyPSA-PL](https://github.com/instrat-pl/pypsa-pl) - An implementation of the energy modelling framework PyPSA shipped with a use-ready dataset tailored for the Polish energy system.
 - [PyPSA-GB](https://github.com/andrewlyden/PyPSA-GB) - An open dataset and power dispatch model of the GB transmission network using country-specific data over historical years and for future energy scenarios.
@@ -694,7 +694,7 @@ energy system designs and analysis of interactions between technologies.
 - [PyPSA-KZ](https://github.com/pypsa-meets-earth/pypsa-kz-data) - Aims to model the Kazakh power system, incorporating a substantial increase in variable generation, such as solar and wind, surpassing the current official mid-term policy goal of 15% of all renewable energy sources in generation by 2030.
 - [PyPSA-Wal](https://github.com/open-energy-transition/pypsa-wal) - A Sector-Coupled Open Optimisation Model of the Belgian Energy System with Emphasis on the Wallonia Region.
 - [PyPSA-China](https://github.com/pik-piam/PyPSA-China-PIK) - A open-source model of the Chinese energy system covering electricity and heat that co-optimizes dispatch and investments under user-set constraints, such as limits to environmental impacts, to minimize costs.
-
+- [PyPSA-Spain](https://github.com/cristobal-GC/pypsa-spain) - An extension of PyPSA-Eur to model the Spanish Energy System.
 
 ### Renewable Energy Integration
 
