@@ -472,7 +472,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 - [Frictionless Energy data](https://sentinel-energy.github.io/friendly_data/) - Common medium to facilitate the flow of data between energy and environmental models in a way that can be automated.
 - [Open Modeling Framework](https://github.com/dpinney/omf) - A set of Python libraries for simulating power systems behavior with an emphasis on cost-benefit analysis of emerging technologies.
 - [PSP-UFU](https://github.com/Thales1330/PSP) - Open-Source Software with advanced GUI features and CAD tools for electrical power system studies.
-- [GENeSYS-MOD](https://git.tu-berlin.de/genesysmod/genesys-mod-public) - An open-source energy system model, originally based on the Open-Source Energy Modeling System (OSeMOSYS) framework, with various additions.
+- [GENeSYS-MOD](https://github.com/GENeSYS-MOD) - An open-source energy system model, originally based on the Open-Source Energy Modeling System (OSeMOSYS) framework, with various additions - available in GAMS and Julia/JuMP.
 - [PREP-SHOT](https://github.com/PREP-NexT/PREP-SHOT) - A transparent, modular, and open-source Energy Capacity Expansion Model.
 - [HYBRID](https://github.com/idaholab/HYBRID) - A modeling toolset to assess the integration and economic viability of Integrated Energy Systems.
 - [FAME](https://gitlab.com/fame-framework/fame-core) - Its purpose is supporting the rapid development and fast execution of complex agent-based energy system simulations.
