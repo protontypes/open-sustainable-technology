@@ -571,7 +571,7 @@ energy system designs and analysis of interactions between technologies.
 - [Weave](https://github.com/centre-for-ai-and-climate/weave) - Provides aggregated half-hourly domestic electricity consumption data from UK smart meters.
 - [elexonpy](https://github.com/openclimatefix/Elexonpy) - A Python package that provides a convenient interface to the ELEXON API suite, which provides data published by the UK energy data provider as received.
 - [Awesome Grid Model Data](https://github.com/open-energy-transition/Awesome-Electricity-Demand) - A curated collection of links to hourly or sub-hourly electricity demand data, designed to improve the accessibility and discoverability of datasets for energy system modelers and planners, while enhancing global open data coverage to support a sustainable energy transition.
-
+- [Energy Access Explorer](https://github.com/energyaccessexplorer/website) - The World’s First Digital Public Good to deliver Climate-compatible Energy Transitions for Everyone.
 
 ### Energy Policy
 
