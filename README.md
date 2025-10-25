@@ -1646,6 +1646,7 @@ parameter values.
 - [nrt](https://github.com/ec-jrc/nrt) - Python package for near real time detection of change in spatio-temporal datasets, with a focus on forest disturbances mapping.
 - [tree-detection-framework](https://github.com/open-forest-observatory/tree-detection-framework) - Provides a standardized interface for performing training, inference, and evaluation using existing tree detection models and algorithms.
 - [pytreedb](https://github.com/3dgeo-heidelberg/pytreedb) - A Python software package providing an object-based library to provide a simple database interface and REST API of vegetation tree objects that were captured as 3D point clouds.
+- [Deadtrees.earth](https://github.com/Deadwood-ai/deadtrees) - An open database for accessing, contributing, analyzing, and visualizing remote sensing-based tree mortality data.
 
 
 ### Marine Life and Fishery
