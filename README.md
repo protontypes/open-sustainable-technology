@@ -1,6 +1,6 @@
 <!--lint ignore awesome-badge --> <!--lint ignore double-link -->
 # Open Sustainable Technology 
-[<img src='earth.png' align='right' width='350'>](https://tabletopwhale.com/)__A directory and analysis of the open source ecosystem in the areas of climate change, sustainable energy, biodiversity and natural resources.__ <br> <br>_Earth's uniqueness in creating a stable environment for life in a completely hostile space is a miracle. Various life forms have taken billions of years to build up the natural resources humans depend on, such as a protective atmosphere, fertile soil, stable seasons, and clean drinking water. As a movement to democratize technology development and knowledge creation, open source has the potential to become the central driver in preserving this stability. Open Sustainable Technology's mission is to gather projects that preserve natural ecosystems through open technology, methods, data, intelligence, knowledge or tools._
+[<img src='earth.png' align='right' width='350'>](https://tabletopwhale.com/)__A directory and analysis of the open source ecosystem in the areas of climate change, sustainable energy, biodiversity and natural resources.__ <br> <br>_It is a miracle that our planet has developed a unique and stable environment for life in an otherwise indifferent and hostile cosmos. Life has taken billions of years to build up the natural resources we depend on, such as a protective atmosphere, fertile soil, stable weather, and clean drinking water. As a movement to democratize technological development and knowledge creation, open source has the potential to play a central part in preserving this stability. Open Sustainable Technology's mission is to find, list, and share projects that preserve or analyze natural ecosystems through open technology, methods, data, intelligence, knowledge or tools._
 
 <!--lint disable double-link-->
 [![](https://badgen.net/badge/View/Spreadsheets/009485?scale=1.6)](https://docs.getgrist.com/doc/gSscJkc5Rb1Rw45gh1o1Yc)
@@ -9,7 +9,7 @@
 [![](https://badgen.net/badge/Icon/Sponsor%20Us/009485?scale=1.6&label=%F0%9F%92%9d)](https://opencollective.com/open-sustainable-technology)
 
 
-Your contribution is essential to [keep this initative alive](https://opencollective.com/open-sustainable-technology). Create [a pull request](https://github.com/protontypes/open-sustainable-technology/blob/main/CONTRIBUTING.md) to add a new project or [send an email](mailto:tobias.augspurger@protontypes.eu) to give feedback, tips and ideas considering [OpenSustain.tech](https://opensustain.tech/). All _Good First Issue_ labelled issues of the listed projects will be visible on [ClimateTriage.com](https://climatetriage.com/). All open source metadata is been provided to you by [ecosyste.ms](https://github.com/ecosyste-ms/ost). You can find a details description of the metadata we are collecting [here](https://opensustain.tech/grist_spreadsheet_metadata). __Would you like to help us find missing projects? Read our guidelines on: [How to Identify Open Source Projects in Sustainability and Climate.](https://github.com/protontypes/open-sustainable-technology/blob/main/docs/how_to_identify_projects.md)__
+Your contribution is essential to [keep this initative alive](https://opencollective.com/open-sustainable-technology). Create [a pull request](https://github.com/protontypes/open-sustainable-technology/blob/main/CONTRIBUTING.md) to add a new project or [send an email](mailto:tobias.augspurger@protontypes.eu) to give feedback, tips and ideas considering [OpenSustain.tech](https://opensustain.tech/). All _Good First Issue_ labelled issues of the listed projects will be visible on [ClimateTriage.com](https://climatetriage.com/). All open source metadata is been provided to you by [ecosyste.ms](https://github.com/ecosyste-ms/ost). You can find a details description of the metadata we are collecting [here](https://opensustain.tech/grist_spreadsheet_metadata/). __Would you like to help us find missing projects? Read our guidelines on: [How to Identify Open Source Projects in Sustainability and Climate.](https://github.com/protontypes/open-sustainable-technology/blob/main/docs/how_to_identify_projects.md)__
  
 <!--lint enable double-link-->
 <!--toc-->
@@ -138,7 +138,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 - [pvcaptest](https://github.com/pvcaptest/pvcaptest) - Collection of functions and Jupyter Notebooks to partially automate running a capacity test following ASTM E2848.
 - [pvtrace](https://github.com/danieljfarrell/pvtrace) - Optical ray tracing for luminescent materials and spectral converter photovoltaic devices.
 - [SolarPILOT](https://github.com/NREL/SolarPILOT) - Solar power tower layout and optimization tool.
-- [solar-data-tools](https://github.com/slacgismo/solar-data-tools) - Data analysis tools for working with historical PV solar time-series data sets.
+- [solar-data-tools](https://github.com/NREL/solar-data-tools) - Data analysis tools for working with historical PV solar time-series data sets.
 - [SolarPV-DER-simulation-utility](https://github.com/tdcosim/SolarPV-DER-simulation-tool) - Allows user to run dynamics simulations for solar photovoltaic distributed energy resource connected to a stiff voltage source or to an external program.
 - [bifacial_radiance](https://github.com/NREL/bifacial_radiance) - Toolkit for working with RADIANCE for the ray-trace modeling of Bifacial Photovoltaics.
 - [autoXRD](https://github.com/PV-Lab/autoXRD) - A Python package for automatic XRD pattern classification of thin-films, tweaked for small and class-imbalanced datasets.
@@ -170,7 +170,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 - [PV Free](https://github.com/BreakingBytes/pvfree) - A public API for PV modeling parameters.
 - [Pysolar](https://github.com/pingswept/pysolar) - A collection of Python libraries for simulating the irradiation of any point on earth by the sun. It includes code for extremely precise ephemeris calculations.
 - [PV_ICE](https://github.com/NREL/PV_ICE) - An open-source tool to quantify Solar Photovoltaics (PV) Energy and Mass Flows in the Circular Economy, from a Reliability and Lifetime approach.
-- [Solar electricity Nowcasting](https://github.com/openclimatefix/nowcasting) - Build the world's best near-term forecasting system for solar electricity generation.
+- [Solar electricity Nowcasting](https://github.com/openclimatefix/quartz-frontend) - Build the world's best near-term forecasting system for solar electricity generation.
 - [Solar Forecast Arbiter](https://github.com/SolarArbiter/solarforecastarbiter-core) - Core data gathering, validation, processing, and reporting package for the Solar Forecast Arbiter.
 - [pv-system-profiler](https://github.com/slacgismo/pv-system-profiler) - Estimating PV array location and orientation from real-world power datasets.
 - [A Global Inventory of Commercial-, Industrial-, and Utility-Scale Photovoltaic Solar Generating Units](https://github.com/Lkruitwagen/solar-pv-global-inventory) - Used to produce a global inventory of utility-scale solar photovoltaic generating station.
@@ -197,6 +197,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 - [SunPeek](https://gitlab.com/sunpeek/sunpeek) - Implements a dynamic, in situ test methodology for large solar thermal plants.
 - [SkyGPT](https://github.com/yuhao-nie/SkyGPT) - A physics-constrained stochastic sky video prediction model for probabilistic short-term solar forecasting.
 - [GMSEUS](https://github.com/stidjaco/GMSEUS) - A comprehensive ground-mounted solar energy dataset with sub-array design metadata in the United States.
+- [solposx](https://github.com/AssessingSolar/solposx) - A Python package for calculating solar position angles and comparing solar position algorithms.
 
 ### Wind Energy
 
@@ -205,7 +206,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 > __How?__ These tools help simulate and solve for the physics, energy output, and cost of wind turbines and farms, including maintenance, operations, and wildlife collision risk; analyze and forecast time series data; optimize turbine placement; and interface with SCADA datasets.
 
 - [DSWE](https://github.com/TAMU-AML/DSWE-Package) - An R implementation of various data science methods for wind energy (DSWE) applications, such as providing machine learning methods to accurately estimate the wind power curve.
-- [IEA-15-240-RWT](https://github.com/IEAWindTask37/IEA-15-240-RWT) - A 15 MW reference wind turbine repository developed in conjunction with IEA Wind.
+- [IEA-15-240-RWT](https://github.com/IEAWindSystems/IEA-15-240-RWT) - A 15 MW reference wind turbine repository developed in conjunction with IEA Wind.
 - [windpowerlib](https://github.com/wind-python/windpowerlib) - A library to model the output of wind turbines and farms.
 - [turbinesFoam](https://github.com/turbinesFoam/turbinesFoam) - A library for simulating wind and marine hydrokinetic turbines in OpenFOAM using the actuator line method.
 - [nalu-wind](https://github.com/Exawind/nalu-wind) - Solver for wind farm simulations targeting exascale computational platforms.
@@ -242,7 +243,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 - [CCBlade.jl](https://github.com/byuflowlab/CCBlade.jl) - A blade element momentum method for propellers and turbines.
 - [lidarwind](https://github.com/jdiasn/lidarwind) - Retrieve wind speed and direction profiles from Doppler lidar observations from the WindCube-200s.
 - [FLOWUnsteady](https://github.com/byuflowlab/FLOWUnsteady) - An interactional aerodynamics and acoustics solver for multirotor aircraft and wind energy.
-- [stochLAB](https://github.com/HiDef-Aerial-Surveying/stochLAB) - A tool to run collision risk models for seabirds on offshore wind farms.
+- [stochLAB](https://github.com/MarineScotlandScience/stochLAB) - A tool to run collision risk models for seabirds on offshore wind farms.
 - [Energy Research and Forecasting](https://github.com/erf-model/ERF) - Designed to provide a flexible computational framework for the exploration and investigation of different physics parameterizations and numerical strategies, and to characterize the flow field that impacts the ability of wind turbines to extract wind energy.
 - [FLOWFarm.jl](https://github.com/byuflowlab/FLOWFarm.jl) - Wind farm simulation tool for gradient-based optimization.
 - [foxes](https://github.com/FraunhoferIWES/foxes) - A modular wind farm simulation and wake modelling toolbox which is based on engineering wake models.
@@ -252,6 +253,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 - [MoorDyn](https://github.com/FloatingArrayDesign/MoorDyn) - A lumped-mass mooring line model intended for coupling with floating structure codes.
 - [Open Wind Energy](https://github.com/open-wind/openwindenergy) - Builds and displays onshore wind turbine site constraints in a fully automated way - avoiding the need for manually downloading and processing multiple GIS datasets by hand.
 - [IEC 61400-15-2 EYA DEF](https://github.com/IEC-61400-15/eya_def) - Defines a complementary format for energy yield assessment reporting to the main written report, aimed at facilitating automated solutions for data exchange.
+- [WAVES](https://github.com/NREL/WAVES) - Wind Asset Value Estimation System is a tool for estimating the lifecycle costs of offshore wind projects using NREL's flagship techno economic models.
 
 ### Hydro Energy
 
@@ -270,7 +272,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 - [BEMRosetta](https://github.com/BEMRosetta/BEMRosetta) - Used to model hydrodynamic forces in offshore devices like ships, offshore wind platforms and wave energy converters.
 - [Capytaine](https://github.com/capytaine/capytaine) - A Python package for the simulation of the interaction between water waves and floating bodies in frequency domain.
 - [DOLPHYN](https://github.com/macroenergy/Dolphyn.jl) - Evaluates investments and operations across the bulk supply chain for electricity and Hydrogen including production, storage, transmission, conditioning, and end-use consumption.
-- [ocp](https://github.com/Open-Catalyst-Project/ocp) - Use AI to model and discover new catalysts for use in renewable energy storage to help in addressing climate change.
+- [fairchem](https://github.com/facebookresearch/fairchem) - Use AI to model and discover new catalysts for use in renewable energy storage to help in addressing climate change.
 - [wmpy-power](https://github.com/9505-PNNL/wmpy_power) - A hydropower simulation model developed to support long-term planning and climate impacts studies.
 - [HydroGenerate](https://github.com/IdahoLabResearch/HydroGenerate) - An open-source Python library that has the capability of estimating hydropower generation based on flow rate either provided by the user or received from United States Geological Survey water data services.
 
@@ -352,6 +354,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 - [FAIR-Battery](https://github.com/SanliFaez/FAIR-Battery) - We seek to present an open-hardware platform for a versatile battery technology and make the platform radically accessible.
 - [Homeassistant E3DC Integration](https://github.com/fl4p/batmon-ha) - Monitor and control various Battery management systems (BMS) over Bluetooth and send the results to Home Assistant.
 - [Galv backend](https://github.com/galv-team/galv-backend) - An open-source platform for automated storage of battery data with advanced metadata support for battery scientists.
+- [PyProBE](https://github.com/ImperialCollegeLondon/PyProBE) - A Python package designed to simplify and accelerate the process of analysing data from battery cyclers.
 
 ### Hydrogen
 
@@ -395,7 +398,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 - [EHMASS](https://github.com/davidusb-geek/emhass) - Energy Management for Home Assistant, is a Python module designed to optimize your home energy interfacing with Home Assistant.
 - [PowerCalc](https://github.com/bramstroker/homeassistant-powercalc) - Custom component for Home Assistant to estimate the power consumption (as virtual meters) of lights, fans, smart speakers and other devices, which don't have a built-in power meter.
 - [homeassistant-alphaESS](https://github.com/CharlesGillanders/homeassistant-alphaESS) - Monitor your energy generation, storage, and usage data using the official Open API from Alpha ESS.
-- [eemeter](https://github.com/openeemeter/eemeter) - An open source Python package for implementing and developing standard methods for calculating normalized metered energy consumption and avoided energy use.
+- [opendsm](https://github.com/opendsm/opendsm) (formerly _eemeter_) - An open source Python package for implementing and developing standard methods for calculating normalized metered energy consumption and avoided energy use.
 - [Home Assistant Octopus Energy](https://github.com/BottlecapDave/HomeAssistant-OctopusEnergy) - Bring your Octopus Energy details into Home Assistant to help you towards a more energy efficient (and or cheaper) home.
 - [Home Assistant Glow](https://github.com/klaasnicolaas/home-assistant-glow) - Makes a (not so) smart meter without a P1 port easily readable, reading the pulse LED that is always present in most cases and it works with ESPHome!
 - [DSMR Toolkit](https://github.com/nielsbasjes/dsmr-tools) - A set of Java based libraries and tools that should allow processing Dutch Smart Meter Requirements messages in a way that is as flexible and reusable as possible.
@@ -445,14 +448,14 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 - [FlexiGIS](https://github.com/FlexiGIS/FlexiGIS) - Extracts, filters and categorizes the geo-referenced urban energy infrastructure and allocates the required decentralized storage in urban settings.
 - [CapacityExpansion.jl](https://github.com/YoungFaithful/CapacityExpansion.jl) - Future energy system planning (Generation and Transmission Capacity Expansion Planning) in Julia.
 - [DPsim](https://github.com/sogno-platform/dpsim) - A solver library for dynamic power system simulation.
-- [GenX](https://github.com/GenXProject/GenX) - A highly-configurable, open source electricity resource capacity expansion model that incorporates several state-of-the-art practices in electricity system planning to offer improved decision support for a changing electricity landscape.
+- [GenX](https://github.com/GenXProject/GenX.jl) - A highly-configurable, open source electricity resource capacity expansion model that incorporates several state-of-the-art practices in electricity system planning to offer improved decision support for a changing electricity landscape.
 - [Open Energy Platform](https://github.com/OpenEnergyPlatform/oeplatform) - Aims to ensure quality, transparency and reproducibility in energy system research. It is a collection of various tools and information and that help working with energy-related data.
 - [oemof](https://github.com/oemof/oemof) - Open Energy Modelling Framework - A Python toolbox for energy system modeling and optimization. A community driven, modular, flexible and generic software project.
 - [PowSyBl](https://github.com/powsybl/powsybl-core) - An open source framework written in Java, that makes it easy to write complex software for power systems simulations and analysis.
 - [PowSyBl Open Load Flow](https://github.com/powsybl/powsybl-open-loadflow) - An open source library written in Java, that makes it easy to write complex software for power systems simulations and analysis.
 - [PyPowSyBl](https://github.com/powsybl/pypowsybl) - A Python library for modelling and simulating power grids by providing bindings to the powsybl Java framework.
 - [matpower](https://github.com/MATPOWER/matpower) - A package of M-files for solving power flow, continuation power flow and optimal power flow problems using MATLAB or Octave.
-- [energyRt](https://github.com/energyRt/energyRt) - Making Energy Systems Modeling as simple as a linear regression in R.
+- [energyRt](https://github.com/optimal2050/energyRt) - Making Energy Systems Modeling as simple as a linear regression in R.
 - [MVS](https://github.com/rl-institut/multi-vector-simulator) - The multi-vector simulator allows the evaluation of local sector-coupled energy systems that include the energy carriers electricity, heat and/or gas.
 - [PowNet](https://github.com/Critical-Infrastructure-Systems-Lab/PowNet) - A least-cost optimization model for simulating the Unit Commitment and Economic Dispatch of large-scale (regional to country) power systems.
 - [OpenIPSL](https://github.com/OpenIPSL/OpenIPSL) - A library of power system component models written in the Modelica language that can be used for power system dynamic analysis, such as phasor time-domain simulations.
@@ -470,13 +473,12 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 - [Frictionless Energy data](https://sentinel-energy.github.io/friendly_data/) - Common medium to facilitate the flow of data between energy and environmental models in a way that can be automated.
 - [Open Modeling Framework](https://github.com/dpinney/omf) - A set of Python libraries for simulating power systems behavior with an emphasis on cost-benefit analysis of emerging technologies.
 - [PSP-UFU](https://github.com/Thales1330/PSP) - Open-Source Software with advanced GUI features and CAD tools for electrical power system studies.
-- [GENeSYS-MOD](https://git.tu-berlin.de/genesysmod/genesys-mod-public) - An open-source energy system model, originally based on the Open-Source Energy Modeling System (OSeMOSYS) framework, with various additions.
+- [GENeSYS-MOD](https://github.com/GENeSYS-MOD/GENeSYS_MOD.gms) - An open-source energy system model, originally based on the Open-Source Energy Modeling System (OSeMOSYS) framework, with various additions - available in GAMS and Julia/JuMP.
 - [PREP-SHOT](https://github.com/PREP-NexT/PREP-SHOT) - A transparent, modular, and open-source Energy Capacity Expansion Model.
 - [HYBRID](https://github.com/idaholab/HYBRID) - A modeling toolset to assess the integration and economic viability of Integrated Energy Systems.
 - [FAME](https://gitlab.com/fame-framework/fame-core) - Its purpose is supporting the rapid development and fast execution of complex agent-based energy system simulations.
 - [REMix](https://gitlab.com/dlr-ve/esy/remix/framework) - The main focus is on the broad techno-economical assessment of possible future
 energy system designs and analysis of interactions between technologies.
-- [StorageVET](https://github.com/epri-dev/StorageVET) - A valuation model for analysis of energy storage technologies and some other energy resources paired with storage.
 - [OpenDER](https://github.com/epri-dev/OpenDER) - Aims to accurately represent steady-state and dynamic behaviors of inverter-based distributed energy resources.
 - [ETM Pro](https://github.com/quintel/etmodel) - Professional interface of the Energy Transition model.
 - [ETSource](https://github.com/quintel/etsource) - Contains the data used by Quintel energy transition modelling applications, allowing you to explore possible future energy systems for your country, region or municipality.
@@ -503,6 +505,7 @@ energy system designs and analysis of interactions between technologies.
 - [Roseau Load Flow](https://github.com/RoseauTechnologies/Roseau_Load_Flow) - A powerful load flow solver and static analysis tool.
 - [ExerPy](https://github.com/oemof/exerpy) - A Python library designed to perform detailed exergy analysis of energy conversion systems.
 - [Open Energy Benchmark](https://github.com/open-energy-transition/solver-benchmark) - This repository contains code for benchmarking optimization solvers on problems from the energy planning domain, and an interactive website for analyzing the results.
+- [Open-TYNDP](https://github.com/open-energy-transition/open-tyndp) - Explore and consider the adoption of PyPSA in the Ten-Year Network Development Plan of European Network of Transmission System Operators for Electricity (ENTSO-E) by building a workflow based on PyPSA-Eur.
 
 ### Energy Markets
 
@@ -569,7 +572,7 @@ energy system designs and analysis of interactions between technologies.
 - [Weave](https://github.com/centre-for-ai-and-climate/weave) - Provides aggregated half-hourly domestic electricity consumption data from UK smart meters.
 - [elexonpy](https://github.com/openclimatefix/Elexonpy) - A Python package that provides a convenient interface to the ELEXON API suite, which provides data published by the UK energy data provider as received.
 - [Awesome Grid Model Data](https://github.com/open-energy-transition/Awesome-Electricity-Demand) - A curated collection of links to hourly or sub-hourly electricity demand data, designed to improve the accessibility and discoverability of datasets for energy system modelers and planners, while enhancing global open data coverage to support a sustainable energy transition.
-
+- [Energy Access Explorer](https://github.com/energyaccessexplorer/website) - The World’s First Digital Public Good to deliver Climate-compatible Energy Transitions for Everyone.
 
 ### Energy Policy
 
@@ -684,13 +687,15 @@ energy system designs and analysis of interactions between technologies.
 - [ReEDS](https://github.com/NREL/ReEDS-2.0) - A capacity planning and dispatch model for the North American electricity system.
 - [nempy](https://github.com/UNSW-CEEM/nempy) - Aims to enhance the Australian electricity industries modeling and analytical capabilities.
 - [openENTRANCE](https://github.com/openENTRANCE/openentrance) - The Horizon 2020 openENTRANCE project aims at developing, using and disseminating an open, transparent and integrated modeling platform for assessing low-carbon transition pathways in Europe.
-- [PyPSA-DE](https://github.com/PyPSA/pypsa-ariadne) - High resolution, sector-coupled model of the German Energy System.
+- [PyPSA-DE](https://github.com/PyPSA/pypsa-de) - High resolution, sector-coupled model of the German Energy System.
 - [OSeMBE_ECEMF](https://github.com/KTH-dESA/OSeMBE_ECEMF) - Contains the energy future scenarios modelled in OSeMBE as part of the ECEMF project, which brings together energy and climate researchers and policy makers to address the central challenge of our time - how to achieve climate neutrality.
 - [PyPSA-PL](https://github.com/instrat-pl/pypsa-pl) - An implementation of the energy modelling framework PyPSA shipped with a use-ready dataset tailored for the Polish energy system.
 - [PyPSA-GB](https://github.com/andrewlyden/PyPSA-GB) - An open dataset and power dispatch model of the GB transmission network using country-specific data over historical years and for future energy scenarios.
 - [osemosys_global](https://github.com/OSeMOSYS/osemosys_global) - An open-source, open-data model generator for creating global energy system models.
 - [PyPSA-KZ](https://github.com/pypsa-meets-earth/pypsa-kz-data) - Aims to model the Kazakh power system, incorporating a substantial increase in variable generation, such as solar and wind, surpassing the current official mid-term policy goal of 15% of all renewable energy sources in generation by 2030.
-
+- [PyPSA-Wal](https://github.com/open-energy-transition/pypsa-wal) - A Sector-Coupled Open Optimisation Model of the Belgian Energy System with Emphasis on the Wallonia Region.
+- [PyPSA-China](https://github.com/pik-piam/PyPSA-China-PIK) - A open-source model of the Chinese energy system covering electricity and heat that co-optimizes dispatch and investments under user-set constraints, such as limits to environmental impacts, to minimize costs.
+- [PyPSA-Spain](https://github.com/cristobal-GC/pypsa-spain) - An extension of PyPSA-Eur to model the Spanish Energy System.
 
 ### Renewable Energy Integration
 
@@ -2579,6 +2584,7 @@ parameter values.
 - [CLIVAR ENSO Metrics](https://github.com/CLIVAR-PRP/ENSO_metrics) - CLIVAR ENSO Metrics package proposes metric collections addressing science questions about the evaluation of El Niño-Southern Oscillation in climate models.
 - [earthkit](https://github.com/ecmwf/earthkit) - A project led by ECMWF, providing powerful tools for speeding up weather and climate science workflows by simplifying data access, processing, analysis, visualisation and much more.
 - [ccvi-data](https://github.com/ccew-unibw/ccvi-data) - Establish a scientifically informed tool that enables policymakers and researchers to assess and map current global risks to human security arising from climate and conflict hazards, their intersections and the potential for harmful interactions.
+- [Meteobike](https://github.com/achristen/Meteobike) - Environmental Meteorology to measure temperature and humidity on bikes and tag measurements with GPS.
 
 ### Climate Downscaling
 
@@ -2741,6 +2747,7 @@ parameter values.
 - [AirBase](https://github.com/JohnPaton/airbase) - An easy downloader for air quality data provided by the European Environment Agency.
 - [Air Quality Forecast](https://github.com/atodorov284/air-quality-forecast) - This end-to-end machine learning collaboration project is used to predict ozone and nitrogen dioxide levels in Utrecht as a form of timeseries regression.
 - [FHWA's DANA Tool](https://github.com/VolpeUSDOT/FHWA-DANATool) - The Database for Air Quality and Noise Analysis (DANA) Tool provides traffic-related inputs to the Motor Vehicle Emission Simulator (MOVES) vehicle emissions model and the Traffic Noise Model (TNM).
+- [CREAHIA](https://github.com/energyandcleanair/creahia) - An R package dedicated to health impact assessment (HIA) of air pollution.
 
 
 ### Water Supply and Quality

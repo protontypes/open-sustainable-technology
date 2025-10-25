@@ -33,3 +33,6 @@ MANIFEST
 
 # awesome_bot reports
 ab-*
+
+# Caches
+maintenance-diskcache/
