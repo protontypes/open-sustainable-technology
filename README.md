@@ -573,6 +573,7 @@ energy system designs and analysis of interactions between technologies.
 - [elexonpy](https://github.com/openclimatefix/Elexonpy) - A Python package that provides a convenient interface to the ELEXON API suite, which provides data published by the UK energy data provider as received.
 - [Awesome Grid Model Data](https://github.com/open-energy-transition/Awesome-Electricity-Demand) - A curated collection of links to hourly or sub-hourly electricity demand data, designed to improve the accessibility and discoverability of datasets for energy system modelers and planners, while enhancing global open data coverage to support a sustainable energy transition.
 - [Energy Access Explorer](https://github.com/energyaccessexplorer/website) - The World’s First Digital Public Good to deliver Climate-compatible Energy Transitions for Everyone.
+- [eGRID](https://github.com/USEPA/egrid) - A comprehensive source of data from EPA's Clean Air and Power Division (CAPD) on the environmental characteristics of almost all electric power generated in the United State.
 
 ### Energy Policy
 
@@ -1124,6 +1125,7 @@ energy system designs and analysis of interactions between technologies.
 - [Project Eucalyptus](https://github.com/Orbio-Earth/Project-Eucalyptus) - Open-source pipelines for satellite-based methane detection that includes trained segmentation models, a synthetic plume generator, and benchmarking tools for Sentinel-2, Landsat 8/9, and EMIT.
 - [DSCIM](https://github.com/ClimateImpactLab/dscim) - Enables the calculation of sector-specific partial social cost of greenhouse gases combined across sectors using a variety of valuation methods and assumptions.
 - [GGIRCS](https://github.com/bcgov/cas-ggircs) - BC Climate Action Secretariat's Greenhouse Gas Industrial Reporting and Control System.
+
 
 ### Carbon Offsets and Trading 
 
