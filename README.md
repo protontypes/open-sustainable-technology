@@ -506,6 +506,7 @@ energy system designs and analysis of interactions between technologies.
 - [ExerPy](https://github.com/oemof/exerpy) - A Python library designed to perform detailed exergy analysis of energy conversion systems.
 - [Open Energy Benchmark](https://github.com/open-energy-transition/solver-benchmark) - This repository contains code for benchmarking optimization solvers on problems from the energy planning domain, and an interactive website for analyzing the results.
 - [Open-TYNDP](https://github.com/open-energy-transition/open-tyndp) - Explore and consider the adoption of PyPSA in the Ten-Year Network Development Plan of European Network of Transmission System Operators for Electricity (ENTSO-E) by building a workflow based on PyPSA-Eur.
+- [FAME-Io](https://gitlab.com/fame-framework/fame-io) - the open Framework for distributed Agent-based Models of Energy systems
 
 ### Energy Markets
 
