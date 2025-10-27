@@ -1650,6 +1650,7 @@ parameter values.
 - [tree-detection-framework](https://github.com/open-forest-observatory/tree-detection-framework) - Provides a standardized interface for performing training, inference, and evaluation using existing tree detection models and algorithms.
 - [pytreedb](https://github.com/3dgeo-heidelberg/pytreedb) - A Python software package providing an object-based library to provide a simple database interface and REST API of vegetation tree objects that were captured as 3D point clouds.
 - [Deadtrees.earth](https://github.com/Deadwood-ai/deadtrees) - An open database for accessing, contributing, analyzing, and visualizing remote sensing-based tree mortality data.
+- [PyForestScan](https://github.com/iosefa/PyForestScan) - A python package for calculating forest structural metrics from airborne point clouds.
 
 
 ### Marine Life and Fishery
