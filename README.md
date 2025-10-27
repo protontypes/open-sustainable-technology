@@ -1906,6 +1906,7 @@ parameter values.
 - [Glacier flow model](https://github.com/munterfi/glacier-flow-model) - Modeling glaciers on a digital elevation model based on mass balance and a modified D8 flow algorithm applied to ice.
 - [icepack](https://github.com/icepack/icepack) - A library for modeling the flow of ice sheets and glaciers using the finite element method.
 - [GrIML](https://github.com/GEUS-Glaciology-and-Climate/GrIML) -  Investigating Greenland's ice-marginal lakes under a changing climate.
+- [pDEMtools](https://github.com/trchudley/pdemtools) - pDEMtools provides a convenient set of functions to explore, download, and preprocess high-resolution DEMs of the polar regions from the ArcticDEM and Reference Elevation Model of Antarctica products, courtesy of the Polar Geospatial Center (PGC).
 
 ### Snow and Permafrost
 
