@@ -197,7 +197,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 - [SunPeek](https://gitlab.com/sunpeek/sunpeek) - Implements a dynamic, in situ test methodology for large solar thermal plants.
 - [SkyGPT](https://github.com/yuhao-nie/SkyGPT) - A physics-constrained stochastic sky video prediction model for probabilistic short-term solar forecasting.
 - [GMSEUS](https://github.com/stidjaco/GMSEUS) - A comprehensive ground-mounted solar energy dataset with sub-array design metadata in the United States.
-- [solposx](https://github.com/AssessingSolar/solposx) - A Python package for calculating solar position angles and comparing solar position algorithms.
+- [solposx](https://github.com/pvlib/solposx) - A Python package for calculating solar position angles and comparing solar position algorithms.
 
 ### Wind Energy
 
@@ -489,7 +489,7 @@ energy system designs and analysis of interactions between technologies.
 - [xl2times](https://github.com/etsap-TIMES/xl2times) - An open source tool to convert TIMES models specified in Excel to a format ready for processing by GAMS.
 - [MUSE_OS](https://github.com/EnergySystemsModellingLab/MUSE_OS) - A open source agent-based modelling environment that can be used to simulate change in an energy system over time.
 - [Energy Transition Engine](https://github.com/quintel/etengine) - Calculation engine for the Energy Transition Model.
-- [enerflow](https://github.com/rebase-energy/enerflow) - An open-source Python framework that enables energy data scientists and modellers to write modular and reproducible energy models that solves sequential decision problems.
+- [enflow](https://github.com/rebase-energy/enflow) - An open-source Python framework that enables energy data scientists and modellers to write modular and reproducible energy models that solves sequential decision problems.
 - [Energy System Simulation and Optimization](https://github.com/Akkudoktor-EOS/EOS) - An open-source energy optimization system that integrates renewable energy sources, such as photovoltaic (PV) systems, battery storage, and smart load management solutions.
 - [SpineOpt.jl](https://github.com/spine-tools/SpineOpt.jl) - A highly adaptable modelling framework for multi-energy systems written in Julia.
 - [BlueSky](https://github.com/EIAgov/BlueSky) - An EIA initiative to develop an open source, next generation energy systems model, which will eventually be used to produce the Annual Energy Outlook (AEO) and International Energy Outlook (IEO).
@@ -547,7 +547,7 @@ energy system designs and analysis of interactions between technologies.
 - [Open Power System Data](https://open-power-system-data.org/data-sources) - A list of primary data sources that are helpful for power system modeling of Europe.
 - [time series](https://github.com/Open-Power-System-Data/time_series) - Contains scripts that compile time series data of the European power system.
 - [Power grid frequency data base](https://osf.io/by5hu/) - This data set contains precisely time stamped (GPS referenced) frequency data from several power grids around the world in one second resolution and 1 hour excerpts of raw data.
-- [gridstatus](https://github.com/kmax12/gridstatus) - Provides standardized API to access energy data from the major Independent System Operators in the United States.
+- [gridstatus](https://github.com/gridstatus/gridstatus) - Provides standardized API to access energy data from the major Independent System Operators in the United States.
 - [ElexonDataPortal](https://github.com/OSUKED/ElexonDataPortal) - Wrapper for the Balancing Mechanism Reporting Service API to balance power flowing on to and off from the electricity Transmission System in Great Britain.
 - [NYISOToolkit](https://github.com/m4rz910/NYISOToolkit) - A collection of modules for accessing power system data, generating statistics, and creating visualizations from the New York Independent System Operator.
 - [Global Power Plant Database](https://github.com/wri/global-power-plant-database) - A comprehensive, global and open source database of power plants.
