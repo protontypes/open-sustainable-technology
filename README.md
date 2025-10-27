@@ -506,6 +506,7 @@ energy system designs and analysis of interactions between technologies.
 - [ExerPy](https://github.com/oemof/exerpy) - A Python library designed to perform detailed exergy analysis of energy conversion systems.
 - [Open Energy Benchmark](https://github.com/open-energy-transition/solver-benchmark) - This repository contains code for benchmarking optimization solvers on problems from the energy planning domain, and an interactive website for analyzing the results.
 - [Open-TYNDP](https://github.com/open-energy-transition/open-tyndp) - Explore and consider the adoption of PyPSA in the Ten-Year Network Development Plan of European Network of Transmission System Operators for Electricity (ENTSO-E) by building a workflow based on PyPSA-Eur.
+- [FAME-Io](https://gitlab.com/fame-framework/fame-io) - The open Framework for distributed Agent-based Models of Energy systems.
 
 ### Energy Markets
 
@@ -907,6 +908,8 @@ energy system designs and analysis of interactions between technologies.
 - [OpenTripPlanner](https://github.com/opentripplanner/OpenTripPlanner) - An open source multi-modal trip planner, focusing on travel by scheduled public transportation in combination with bicycling, walking, and mobility services including bike share and ride hailing.
 - [ChaProEV](https://github.com/TNO/ChaProEV) - This repository contains the Charging Profiles of Electric Vehicles model.
 - [venco.py](https://gitlab.com/dlr-ve/esy/vencopy/vencopy) - A data processing tool offering demand and flexibility profiles for future electric vehicle fleets in an aggregated manner.
+- [nammayatri](https://github.com/nammayatri/nammayatri) - A Direct-to-Driver open mobility platform powering the next-generation of mobility applications in India.
+- [biclaR](https://github.com/U-Shift/biclar) - A tool for the design and assessment of different scenarios of the cycling network models in the Lisbon metropolitan area.
 
 ### Production and Industry
 
@@ -1649,6 +1652,7 @@ parameter values.
 - [tree-detection-framework](https://github.com/open-forest-observatory/tree-detection-framework) - Provides a standardized interface for performing training, inference, and evaluation using existing tree detection models and algorithms.
 - [pytreedb](https://github.com/3dgeo-heidelberg/pytreedb) - A Python software package providing an object-based library to provide a simple database interface and REST API of vegetation tree objects that were captured as 3D point clouds.
 - [Deadtrees.earth](https://github.com/Deadwood-ai/deadtrees) - An open database for accessing, contributing, analyzing, and visualizing remote sensing-based tree mortality data.
+- [PyForestScan](https://github.com/iosefa/PyForestScan) - A python package for calculating forest structural metrics from airborne point clouds.
 
 
 ### Marine Life and Fishery
@@ -1902,6 +1906,7 @@ parameter values.
 - [Glacier flow model](https://github.com/munterfi/glacier-flow-model) - Modeling glaciers on a digital elevation model based on mass balance and a modified D8 flow algorithm applied to ice.
 - [icepack](https://github.com/icepack/icepack) - A library for modeling the flow of ice sheets and glaciers using the finite element method.
 - [GrIML](https://github.com/GEUS-Glaciology-and-Climate/GrIML) -  Investigating Greenland's ice-marginal lakes under a changing climate.
+- [pDEMtools](https://github.com/trchudley/pdemtools) - pDEMtools provides a convenient set of functions to explore, download, and preprocess high-resolution DEMs of the polar regions from the ArcticDEM and Reference Elevation Model of Antarctica products, courtesy of the Polar Geospatial Center (PGC).
 
 ### Snow and Permafrost
 
@@ -2009,6 +2014,7 @@ parameter values.
 - [Groundwater Accounting Platform](https://github.com/esassoc/qanat-community) - Enables water managers, landowners, and water users to track groundwater availability and usage with user-friendly dashboards and workflows.
 - [LakeEnsemblR](https://github.com/aemon-j/LakeEnsemblR) - An R package that facilitates multi-model ensembles for lake thermodynamics.
 - [DHALSIM](https://github.com/Critical-Infrastructure-Systems-Lab/DHALSIM) - Uses the WNTR EPANET wrapper to simulate the behaviour of water distribution systems.
+- [AHGestimation](https://github.com/mikejohnson51/AHGestimation) - Estimating robust, mass conserving AHG (at-a-station hydraulic geometry) relationships.
 
 ### Ocean Models
 
@@ -2211,6 +2217,7 @@ parameter values.
 - [Pace](https://github.com/NOAA-GFDL/pace) - An implementation of the FV3GFS / SHiELD atmospheric model developed by NOAA/GFDL using the NDSL middleware in Python, itself based on GT4Py and DaCe.
 - [Aurora](https://github.com/microsoft/aurora) - An atmospheric foundation machine learning model initially trained on vast amounts of data to predict atmospheric variables like temperature, which can then be adapted to specialized atmospheric forecasting tasks with relatively little additional data.
 - [AtmoRep](https://github.com/clessig/atmorep) - A stochastic model of atmosphere dynamics using large scale representation learning.
+- [MWRpy](https://github.com/actris-cloudnet/mwrpy) - A Python software to process RPG Microwave Radiometer data and is developed at the University of Cologne, Germany as part of the Aerosol, Clouds and Trace Gases Research Infrastructure (ACTRIS).
 
 ### Atmospheric Dispersion and Transport
 
@@ -2256,6 +2263,7 @@ parameter values.
 - [tobac](https://github.com/tobac-project/tobac) - A Python package for identifiying, tracking and analysing of clouds and other meteorological phenomena in different types of gridded datasets.
 - [Particula](https://github.com/uncscode/particula) - An Python-based aerosol simulator. Particula captures gas-particle interactions, transformations, and dynamics to power predictive aerosol science.
 - [SSH-aerosol](https://github.com/sshaerosol/ssh-aerosol) - This model represents the physico chemical transformation undergone by aerosols in the troposphere.
+- [ACTRIS Cloudnet data portal](https://github.com/actris-cloudnet/dataportal) - Provides a data processing and curation service for ground-based cloud remote sensing measurements.
 
 ### Meteorological Observation and Forecast
 
@@ -2454,6 +2462,7 @@ parameter values.
 - [icechunk](https://github.com/earth-mover/icechunk) - An open-source transactional storage engine for tensor / ND-array data designed for use on cloud object storage.
 - [kerchunk](https://github.com/fsspec/kerchunk) - A library that provides a unified way to represent a variety of chunked, compressed data formats (e.g. NetCDF, HDF5, GRIB), allowing efficient access to the data from traditional file systems or cloud object storage.
 - [Zarr](https://github.com/zarr-developers/zarr-python) -  Provides an efficient, scalable, and flexible way to store and access large, multi-dimensional arrays, the core data format used in climate models and observational datasets.
+- [NCDatasets.jl](https://github.com/JuliaGeo/NCDatasets.jl) - Allows one to read and create netCDF files, with data sets and attribute lists behaving like Julia dictionaries and variables like Julia arrays, and it implements the CommonDataModel.jl interface.
 
 
 ### Climate Data Access and Visualization
@@ -2589,6 +2598,7 @@ parameter values.
 - [ccvi-data](https://github.com/ccew-unibw/ccvi-data) - Establish a scientifically informed tool that enables policymakers and researchers to assess and map current global risks to human security arising from climate and conflict hazards, their intersections and the potential for harmful interactions.
 - [Meteobike](https://github.com/achristen/Meteobike) - Environmental Meteorology to measure temperature and humidity on bikes and tag measurements with GPS.
 - [Cylc](https://github.com/cylc/cylc-flow) - A general purpose workflow engine that also manages cycling systems very efficiently, used in production weather, climate, and environmental forecasting on HPC, but is not specialized to those domains.
+- [cgeniepy](https://github.com/ruiying-ocean/cgeniepy) - A Python package to analyse the output of cGENIE Earth System Model.
 
 ### Climate Downscaling
 
