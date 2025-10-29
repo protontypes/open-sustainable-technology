@@ -2443,6 +2443,7 @@ parameter values.
 - [ChaosBench](https://github.com/leap-stc/ChaosBench) - A benchmark project to improve and extend the predictability range of deep weather emulators to the subseasonal-to-seasonal (S2S) scale.
 - [CIMS](https://github.com/EMRG-SFU/cims/) - The Python implementation of the CIMS economic climate model.
 - [sunpy](https://github.com/sunpy/sunpy) -  A Python software package that provides fundamental tools for accessing, loading and interacting with solar physics data in Python.
+- [cGENIE.muffin](https://github.com/derpycode/cgenie.muffin) - Carbon Turnover in Ocean, Atmosphere, Sediment, and Terrestrial Exchangeable Reservoirs model.
 - [cgenie](https://github.com/genie-model/cgenie) - GENIE family of Earth system models.
 
 ### Climate Data Standards 
