@@ -2861,6 +2861,7 @@ parameter values.
 - [EPyT-Flow](https://github.com/WaterFutures/EPyT-Flow) - Provides easy access to water distribution network simulations with a high level interface for generation of hydraulic and water quality scenario data.
 - [LibreWater](https://codeberg.org/LibreWater/Acraea-Prototype) - A Small Scale Desalination and Water Purification Prototype that is powered by electric heating for scientific purpose and prototyping ahead according to the Libre Water Mission.
 - [SWMManywhere](https://github.com/ImperialCollegeLondon/SWMManywhere) - A tool to synthesise urban drainage network models using publicly available data such as street network, DEM, and building footprints, across the globe.
+- [ESAT](https://github.com/quanted/esat) - An open-source software package that provides API and CLI functionality to create source apportionment workflows specifically targeting environmental datasets.
 
 ### Soil and Land
 
