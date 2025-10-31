@@ -1,1009 +1,1193 @@
-organization_user_name,organization_namespace_url,organization_website,location_country,form_of_organization
-protontypes,https://github.com/protontypes,https://protontypes.eu,Germany,community
-NASA-LIS,https://github.com/NASA-LIS,https://lis.gsfc.nasa.gov/,USA,government agency
-openeemeter,https://github.com/openeemeter,https://lfenergy.org/projects/openeemeter/,USA,for-profit
-ie3-institute,https://github.com/ie3-institute,https://ie3.etit.tu-dortmund.de/,Germany,academia
-codeforboston,https://github.com/codeforboston,https://www.codeforboston.org,USA,non-profit
-HabitatMap,https://github.com/HabitatMap,http://www.habitatmap.org,USA,non-profit
-pangeo-data,https://github.com/pangeo-data,http://pangeo.io,Global,community
-powsybl,https://github.com/powsybl,https://www.powsybl.org,Global,collaboration
-open-sdg,https://github.com/open-sdg,https://open-sdg.org/,Global,government agency
-CliMA,https://github.com/CliMA,https://clima.caltech.edu,USA,academia
-e-mission,https://github.com/e-mission,,,
-softwareunderground,https://github.com/softwareunderground,https://softwareunderground.org,Canada,non-profit
-EnergieID,https://github.com/EnergieID,http://www.energieid.be,Belgium,collaboration
-OpenIPSL,https://github.com/OpenIPSL,http://openipsl.org,USA,for-profit
-rte-france,https://github.com/rte-france,http://www.rte-france.com/,France,government agency
-sogno-platform,https://github.com/sogno-platform,https://sogno.energy/,Global,community
-DrylandEcology,https://github.com/DrylandEcology,,USA,community
-mom-ocean,https://github.com/mom-ocean,https://mom-ocean.github.io,Global,community
-ImperialCollegeLondon,https://github.com/ImperialCollegeLondon,https://www.imperial.ac.uk/,UK,academia
-roocs,https://github.com/roocs,https://www.ukri.org/councils/stfc/,UK,academia
-GreenDelta,https://github.com/GreenDelta,https://www.greendelta.com/,Germany,for-profit
-ncss-tech,https://github.com/ncss-tech,http://ncss-tech.github.io/AQP/,USA,collaboration
-transition-zero,https://github.com/transition-zero,https://www.transitionzero.org/,,
-NREL,https://github.com/NREL,http://www.nrel.gov,USA,government agency
-team-ocean,https://github.com/team-ocean,https://www.nbi.ku.dk/english/research/pice/oceanography/,Denmark,academia
-ladybug-tools,https://github.com/ladybug-tools,http://ladybug.tools,Global,for-profit
-oemof,https://github.com/oemof,https://oemof.org,Germany,non-profit
-Ecohackerfarm,https://github.com/Ecohackerfarm,https://wiki.ecohackerfarm.org,Germany,community
-afsc-gap-products,https://github.com/afsc-gap-products,https://www.fisheries.noaa.gov/contact/groundfish-assessment-program,USA,government agency
-QSD-Group,https://github.com/QSD-Group,,Global,academia
-ices-tools-prod,https://github.com/ices-tools-prod,https://www.ices.dk/data/tools/Pages/Software.aspx,Denmark,academia
-USGS-CMG,https://github.com/USGS-CMG,http://marine.usgs.gov,USA,government agency
-ACCESS-NRI,https://github.com/ACCESS-NRI,https://www.access-nri.org.au/,,
-ecmwf,https://github.com/ecmwf,http://www.ecmwf.int,UK,government agency
-AdamWilsonLab,https://github.com/AdamWilsonLab,http://github.com/adamwilsonlab,,
-UW-SASWE,https://github.com/UW-SASWE,https://saswe.net/,,
-we3lab,https://github.com/we3lab,,,
-RentadroneCL,https://github.com/RentadroneCL,https://simplemap.io,Chile,community
-bird-house,https://github.com/bird-house,http://bird-house.github.io/,Global,collaboration
-greco-project,https://github.com/greco-project,https://www.greco-project.eu/,EU,collaboration
-os-climate,https://github.com/os-climate,http://os-climate.org,Global,collaboration
-microsoft,https://github.com/microsoft,https://opensource.microsoft.com,USA,for-profit
-mhm,https://git.ufz.de/mhm,,,
-icon,https://gitlab.dkrz.de/icon,,,
-NVIDIA,https://github.com/NVIDIA,http://www.nvidia.com,USA,for-profit
-VeinsOfTheEarth,https://github.com/VeinsOfTheEarth,https://veinsoftheearth.github.io/RivGraph/,Global,community
-ltrr-arizona-edu,https://github.com/ltrr-arizona-edu,http://ltrr.arizona.edu/,USA,academia
-Moore-Institute-4-Plastic-Pollution-Res,https://github.com/Moore-Institute-4-Plastic-Pollution-Res,http://mooreplasticresearch.org,,
-MobilityData,https://github.com/MobilityData,https://mobilitydata.org/,Global,collaboration
-SlideRuleEarth,https://github.com/SlideRuleEarth,https://slideruleearth.io/,,
-CARDAMOM-framework,https://github.com/CARDAMOM-framework,,,
-nwfsc-cb,https://github.com/nwfsc-cb,,,
-EcologyR,https://github.com/EcologyR,,,
-quintel,https://github.com/quintel,http://quintel.com,Netherlands,for-profit
-alan-turing-institute,https://github.com/alan-turing-institute,https://turing.ac.uk,UK,government agency
-USEPA,https://github.com/USEPA,https://www.epa.gov,USA,government agency
-adeverse,https://github.com/adeverse,,,
-brightway-lca,https://github.com/brightway-lca,https://docs.brightway.dev/,Global,community
-ropensci,https://github.com/ropensci,https://ropensci.org/,USA,non-profit
-EMODnet,https://github.com/EMODnet,https://emodnet.ec.europa.eu,,
-DOI-BOR,https://github.com/DOI-BOR,https://www.usbr.gov/,,
-hyriver,https://github.com/hyriver,https://docs.hyriver.io,USA,community
-FREVA-CLINT,https://github.com/FREVA-CLINT,,Germany,community
-NIEHS,https://github.com/NIEHS,https://www.niehs.nih.gov/,,
-Aalto-QuML,https://github.com/Aalto-QuML,,,
-kike-canaries,https://github.com/kike-canaries,http://canair.io,,
-electricitymaps,https://github.com/electricitymaps,https://electricitymaps.com,Denmark,for-profit
-BigDataWUR,https://github.com/BigDataWUR,,,
-green-coding-solutions,https://github.com/green-coding-solutions,https://www.green-coding.io,,
-fluctuo,https://github.com/fluctuo,https://fluctuo.com,,
-Green-Software-Foundation,https://github.com/Green-Software-Foundation,https://greensoftware.foundation,USA,non-profit
-MTES-MCT,https://github.com/MTES-MCT,https://ecologie.gouv.fr/,France,government agency
-mcsc-impact-climate,https://github.com/mcsc-impact-climate,,,
-xarray-contrib,https://github.com/xarray-contrib,https://xarray.dev,Global,community
-csiro-hydroinformatics,https://github.com/csiro-hydroinformatics,,,
-fiboa,https://github.com/fiboa,,,
-ECMWFCode4Earth,https://github.com/ECMWFCode4Earth,https://codeforearth.ecmwf.int,Global,government agency
-slacgismo,https://github.com/slacgismo,https://gismo.slac.stanford.edu/,USA,academia
-aiddata,https://github.com/aiddata,http://aiddata.org,,
-kartevonmorgen,https://github.com/kartevonmorgen,https://kartevonmorgen.org,,
-ipeaGIT,https://github.com/ipeaGIT,https://portalantigo.ipea.gov.br/portal/,Brazil,government agency
-usgs,https://github.com/usgs,https://www.usgs.gov/,,
-worldbank,https://github.com/worldbank,,,
-Big-Life-Lab,https://github.com/Big-Life-Lab,http://www.ohri.ca,,
-sandialabs,https://github.com/sandialabs,https://software.sandia.gov,USA,government agency
-bcgov,https://github.com/bcgov,https://github.com/bcgov/BC-Policy-Framework-For-GitHub,Canada,government agency
-FixMyBerlin,https://github.com/FixMyBerlin,https://www.fixmycity.de/,,
-WSWUP,https://github.com/WSWUP,https://www.dri.edu/western-states-water-use-program,USA,government agency
-google-research,https://github.com/google-research,https://research.google,USA,for-profit
-Orion-AI-Lab,https://github.com/Orion-AI-Lab,http://orionlab.space.noa.gr/,Greece,government agency
-nychealth,https://github.com/nychealth,http://www.nyc.gov/health,,
-ioos,https://github.com/ioos,http://ioos.github.io,,
-cozy,https://github.com/cozy,https://cozy.io,,
-CEA-Liten,https://github.com/CEA-Liten,https://liten.cea.fr/cea-tech/liten/english/Pages/Welcome.aspx,,
-ISSMteam,https://github.com/ISSMteam,https://issm.jpl.nasa.gov,,
-ProjectDrawdown,https://github.com/ProjectDrawdown,https://drawdown.org/,USA,non-profit
-iiasa,https://github.com/iiasa,https://www.iiasa.ac.at,Austria,academia
-openclimatefix,https://github.com/openclimatefix,http://openclimatefix.org,UK,non-profit
-columncolab,https://github.com/columncolab,https://columncolab.github.io/EMC2/,Global,community
-technologiestiftung,https://github.com/technologiestiftung,https://www.technologiestiftung-berlin.de,Germany,non-profit
-kausaltech,https://github.com/kausaltech,https://kausal.tech,,
-incubateur-ademe,https://github.com/incubateur-ademe,http://incubateur-ademe.beta.gouv.fr,,
-APSIMInitiative,https://github.com/APSIMInitiative,,Australia,government agency
-SEED-platform,https://github.com/SEED-platform,http://energy.gov/eere/buildings/standard-energy-efficiency-data-platform,USA,government agency
-FAIR-Chem,https://github.com/FAIR-Chem,,,
-dynawo,https://github.com/dynawo,,,
-NOAA-GFDL,https://github.com/NOAA-GFDL,http://www.gfdl.noaa.gov,USA,government agency
-opengeos,https://github.com/opengeos,https://opengeos.github.io,Global,community
-awslabs,https://github.com/awslabs,http://amazon.com/aws/,,
-geco-bern,https://github.com/geco-bern,http://geco-group.org,,
-ARM-DOE,https://github.com/ARM-DOE,https://www.arm.gov/,USA,government agency
-project-pareto,https://github.com/project-pareto,,,
-cal-adapt,https://github.com/cal-adapt,https://cal-adapt.org,,
-eurec4a,https://github.com/eurec4a,,,
-teikei,https://github.com/teikei,http://ernte-teilen.org,,
-tobac-project,https://github.com/tobac-project,,,
-AgriculturalModelExchangeInitiative,https://github.com/AgriculturalModelExchangeInitiative,,,
-genai-impact,https://github.com/genai-impact,,,
-FoodOntology,https://github.com/FoodOntology,http://foodon.org,,
-USDA-ARS-ACSL,https://github.com/USDA-ARS-ACSL,https://www.ars.usda.gov/nea/barc/acsl,,
-precision-sustainable-ag,https://github.com/precision-sustainable-ag,http://www.precisionsustainableag.org,,
-cropbox,https://github.com/cropbox,,,
-Open-Agriculture,https://github.com/Open-Agriculture,,,
-Energinet-DataHub,https://github.com/Energinet-DataHub,https://energinet.dk/,,
-OPERA-Cal-Val,https://github.com/OPERA-Cal-Val,,,
-ICTP,https://github.com/ICTP,http://www.ictp.it,,
-NCAR,https://github.com/NCAR,http://ncar.ucar.edu,USA,government agency
-CABLE-LSM,https://github.com/CABLE-LSM,,,
-environmental-modeling-workflows,https://github.com/environmental-modeling-workflows,,,
-Open-Sustainability-Index,https://github.com/Open-Sustainability-Index,http://opensustainabilityindex.org,,
-secondlaw-ai,https://github.com/secondlaw-ai,,,
-r-lidar,https://github.com/r-lidar,https://github.com/r-lidar,Global,community
-reagro,https://github.com/reagro,,,
-emf-creaf,https://github.com/emf-creaf,https://emf.creaf.cat/,,
-GeoscienceAustralia,https://github.com/GeoscienceAustralia,http://www.ga.gov.au/,Australia,government agency
-foodsharing-dev,https://gitlab.com/foodsharing-dev,,,
-gmlc-dispatches,https://github.com/gmlc-dispatches,,,
-WildMeOrg,https://github.com/WildMeOrg,https://wildme.org,USA,non-profit
-iClimate,https://github.com/iClimate,,,
-adcirc,https://github.com/adcirc,http://www.adcirc.org,,
-Ingenjorsarbete-For-Klimatet,https://github.com/Ingenjorsarbete-For-Klimatet,https://www.ingenjorsarbeteforklimatet.se,,
-openenergymonitor,https://github.com/openenergymonitor,https://openenergymonitor.org,UK,community
-environmentalinformatics-marburg,https://github.com/environmentalinformatics-marburg,http://www.environmentalinformatics-marburg.de,,
-fernlab,https://git.gfz-potsdam.de/fernlab,,,
-EnMAP,https://git.gfz-potsdam.de/EnMAP,,,
-CryoInTheCloud,https://github.com/CryoInTheCloud,,,
-WildlifeDatasets,https://github.com/WildlifeDatasets,,,
-censusdis,https://github.com/censusdis,,,
-ecmwf-projects,https://github.com/ecmwf-projects,http://www.ecmwf.int,UK,government agency
-Hydrology-IFH,https://github.com/Hydrology-IFH,http://www.hydro.uni-freiburg.de/,,
-umd-cgs,https://github.com/umd-cgs,,,
-storm-fsv-cvut,https://github.com/storm-fsv-cvut,http://storm.fsv.cvut.cz/?lang=en,,
-NCC-CNC,https://github.com/NCC-CNC,,,
-pbs-assess,https://github.com/pbs-assess,,Global,community
-ROVI-org,https://github.com/ROVI-org,,,
-mllam,https://github.com/mllam,,,
-LibreSolar,https://github.com/LibreSolar,https://libre.solar,Germany,community
-tetratech,https://github.com/tetratech,,,
-SchmidtDSE,https://github.com/SchmidtDSE,https://dse.berkeley.edu/,USA,academia
-xoceanmodel,https://github.com/xoceanmodel,,,
-CLIMAAX,https://github.com/CLIMAAX,,,
-ESCOMP,https://github.com/ESCOMP,https://escomp.github.io/,Global,collaboration
-Smithsonian,https://github.com/Smithsonian,https://si.edu/,,
-gbif,https://github.com/gbif,https://www.gbif.org,Global,collaboration
-carboniferio,https://github.com/carboniferio,https://carbonifer.io/,,
-UMR-CNRM,https://github.com/UMR-CNRM,http://www.umr-cnrm.fr,,
-funecology,https://github.com/funecology,,,
-osdg-ai,https://github.com/osdg-ai,https://osdg.ai,Global,academia
-google,https://github.com/google,https://opensource.google/,USA,for-profit
-podaac,https://github.com/podaac,http://podaac.jpl.nasa.gov,,
-opendcs,https://github.com/opendcs,,,
-it-is-me-mario,https://github.com/it-is-me-mario,https://mario-suite.readthedocs.io/en/latest/index.html,,
-M3Works,https://github.com/M3Works,http://m3works.io,,
-pik-copan,https://github.com/pik-copan,https://www.pik-potsdam.de/copan,,
-Deltares,https://github.com/Deltares,https://www.deltares.nl/en/,Netherlands,academia
-NINAnor,https://github.com/NINAnor,http://www.nina.no,Norway,non-profit
-SWOT-community,https://github.com/SWOT-community,,,
-EcohydrologyTeam,https://github.com/EcohydrologyTeam,,,
-hashgraph,https://github.com/hashgraph,https://hedera.com,USA,for-profit
-openfoodfacts,https://github.com/openfoodfacts,https://world.openfoodfacts.org/,France,non-profit
-OHI-Science,https://github.com/OHI-Science,http://ohi-science.org/,USA,collaboration
-polca,https://github.com/polca,,Global,community
-OpenModelica,https://github.com/OpenModelica,https://openmodelica.org,Sweden,non-profit
-PlanktoScope,https://github.com/PlanktoScope,https://www.planktoscope.org,Global,community
-sentinel-hub,https://github.com/sentinel-hub,https://www.sentinel-hub.com,Slovenia,for-profit
-ISRICWorldSoil,https://github.com/ISRICWorldSoil,http://isric.org,Netherlands,non-profit
-NREL-Sienna,https://github.com/NREL-Sienna,https://www.nrel.gov/analysis/sienna.html,USA,government agency
-chihacknight,https://github.com/chihacknight,http://chihacknight.org/,USA,non-profit
-danforthcenter,https://github.com/danforthcenter,https://danforthcenter.org,USA,non-profit
-inbo,https://github.com/inbo,http://www.inbo.be/en,,
-SolarNetwork,https://github.com/SolarNetwork,https://solarnetwork.net/,,
-ncsu-landscape-dynamics,https://github.com/ncsu-landscape-dynamics,http://geospatial.ncsu.edu/landscapedynamics/,USA,academia
-DSSAT,https://github.com/DSSAT,http://dssat.net/,USA,for-profit
-radiantearth,https://github.com/radiantearth,https://www.radiant.earth,USA,non-profit
-weecology,https://github.com/weecology,http://weecology.org,USA,academia
-wildlife-dynamics,https://github.com/wildlife-dynamics,,,
-pyinat,https://github.com/pyinat,https://pyinaturalist.readthedocs.io,Global,community
-E3SM-Project,https://github.com/E3SM-Project,http://e3sm.org,USA,government agency
-contrailcirrus,https://github.com/contrailcirrus,https://contrails.org,Global,collaboration
-scope3data,https://github.com/scope3data,https://scope3.com,USA,for-profit
-turbinesFoam,https://github.com/turbinesFoam,https://www.openfoam.com/,Global,academia
-landlab,https://github.com/landlab,http://landlab.github.io,USA,academia
-awesome-spectral-indices,https://github.com/awesome-spectral-indices,https://awesome-ee-spectral-indices.readthedocs.io/en/latest/,Global,community
-leap-stc,https://github.com/leap-stc,https://leap.columbia.edu/,USA,academia
-uataq,https://github.com/uataq,https://air.utah.edu,USA,academia
-ClimateWatch-Vizzuality,https://github.com/ClimateWatch-Vizzuality,https://www.climatewatchdata.org/,USA,non-profit
-BEMRosetta,https://github.com/BEMRosetta,,Global,community
-forestgeo,https://github.com/forestgeo,http://www.forestgeo.si.edu/,Panama,academia
-FZJ-IEK3-VSA,https://github.com/FZJ-IEK3-VSA,https://www.fz-juelich.de/iek/iek-3/EN/Home/home_node.html,Germany,government agency
-TRI-AMDD,https://github.com/TRI-AMDD,https://www.tri.global/our-work/material-design/,Global,for-profit
-data-mermaid,https://github.com/data-mermaid,https://datamermaid.org,Global,collaboration
-ONEARMY,https://github.com/ONEARMY,https://www.onearmy.earth/,Global,community
-r-spatial,https://github.com/r-spatial,https://github.com/r-spatial,,
-RMI-PACTA,https://github.com/RMI-PACTA,https://pacta.rmi.org/,Germany,non-profit
-ICOS-Carbon-Portal,https://github.com/ICOS-Carbon-Portal,https://www.icos-cp.eu,Sweden,government agency
-eurodatacube,https://github.com/eurodatacube,https://eurodatacube.com,,
-byrd-polar,https://github.com/byrd-polar,https://byrd.osu.edu/,USA,academia
-digitalearthafrica,https://github.com/digitalearthafrica,https://digitalearthafrica.org,Global,collaboration
-EnergySystemsModellingLab,https://github.com/EnergySystemsModellingLab,,,
-JGCRI,https://github.com/JGCRI,https://www.pnnl.gov/projects/jgcri,USA,academia
-SciTools,https://github.com/SciTools,https://scitools.org.uk/,UK,government agency
-WEC-Sim,https://github.com/WEC-Sim,http://wec-sim.github.io/WEC-Sim/,USA,government agency
-prommis,https://github.com/prommis,,,
-grid-parity-exchange,https://github.com/grid-parity-exchange,,Global,academia
-cerfacs-globc,https://github.com/cerfacs-globc,https://www.cerfacs.fr/,France,collaboration
-OasisLMF,https://github.com/OasisLMF,http://oasislmf.github.io,UK,for-profit
-OpenEMS,https://github.com/OpenEMS,http://openems.io,Germany,non-profit
-NCEAS,https://github.com/NCEAS,https://www.nceas.ucsb.edu,USA,academia
-metno,https://github.com/metno,https://www.met.no,Norway ,government agency
-Vizzuality,https://github.com/Vizzuality,http://www.vizzuality.com,Spain,for-profit
-atmoswing,https://github.com/atmoswing,http://www.atmoswing.org,Switzerland,community
-uaf-arctic-eco-modeling,https://github.com/uaf-arctic-eco-modeling,https://uaf-arctic-eco-modeling.github.io/dvm-dos-tem/,Global,community
-ECSIM,https://github.com/ECSIM,https://ecsim.ir,Iran,academia
-cpmodel,https://github.com/cpmodel,,,
-e2nIEE,https://github.com/e2nIEE,http://www.pandapower.org/,Germany,academia
-GEUS-Glaciology-and-Climate,https://github.com/GEUS-Glaciology-and-Climate,https://eng.geus.dk/about/organisation/departments/glaciology-and-climate,Denmark,academia
-ORNL-AMO,https://github.com/ORNL-AMO,https://ornl-amo.github.io/,USA,government agency
-iodepo,https://github.com/iodepo,http://www.iode.org,Global,government agency
-ev-map,https://github.com/ev-map,https://ev-map.app/,Germany,community
-ExeClim,https://github.com/ExeClim,https://execlim.github.io/IscaWebsite/,UK,academia
-CMU-CREATE-Lab,https://github.com/CMU-CREATE-Lab,http://cmucreatelab.org,USA,academia
-OpenFAST,https://github.com/OpenFAST,https://openfast.readthedocs.io,USA,government agency
-lanl-ansi,https://github.com/lanl-ansi,https://lanl-ansi.github.io/,USA,government agency
-SpeciesFileGroup,https://github.com/SpeciesFileGroup,http://speciesfilegroup.org,USA,academia
-CenterForTheBuiltEnvironment,https://github.com/CenterForTheBuiltEnvironment,http://cbe.berkeley.edu,USA,academia
-Ribbit-Network,https://github.com/Ribbit-Network,https://ribbitnetwork.org/,Global,community
-pvlib,https://github.com/pvlib,https://pvlib-python.readthedocs.io/en/stable/,Global,community
-ConservationInternational,https://github.com/ConservationInternational,https://www.conservation.org/,Global,non-profit
-WildEyeConservation,https://github.com/WildEyeConservation,https://wildeyeconservation.org/,,
-inaturalist,https://github.com/inaturalist,http://www.inaturalist.org,USA,collaboration
-openforis,https://github.com/openforis,http://www.openforis.org,Italy,collaboration
-karrot-dev,https://github.com/karrot-dev,https://karrot.world,Global,community
-International-Soil-Radiocarbon-Database,https://github.com/International-Soil-Radiocarbon-Database,https://soilradiocarbon.org/,USA,academia
-inasafe,https://github.com/inasafe,http://inasafe.org,Global,collaboration
-nsidc,https://github.com/nsidc,http://www.nsidc.org/,USA,government agency
-dtcenter,https://github.com/dtcenter,https://dtcenter.org,USA,collaboration
-DFO-Ocean-Navigator,https://github.com/DFO-Ocean-Navigator,http://navigator.oceansdata.ca,Canada,academia
-green-code-initiative,https://github.com/green-code-initiative,,Global,community
-dsmrreader,https://github.com/dsmrreader,https://dsmr-reader.readthedocs.io,Netherlands,community
-FlexMeasures,https://github.com/FlexMeasures,https://flexmeasures.io,Global,collaboration
-RWTH-EBC,https://github.com/RWTH-EBC,http://www.ebc.eonerc.rwth-aachen.de/,Germany,academia
-LCA-ActivityBrowser,https://github.com/LCA-ActivityBrowser,,Netherlands,community
-spatialmodel,https://github.com/spatialmodel,https://inmap.run/,Global,community
-pledge4future,https://github.com/pledge4future,,Germany,community
-meirim-org,https://github.com/meirim-org,http://www.meirim.org,,
-nasa,https://github.com/nasa,https://github.com/nasa/nasa.github.io/blob/master/docs/INSTRUCTIONS.md,USA,government agency
-steve-community,https://github.com/steve-community,,Germany,community
-datazoompuc,https://github.com/datazoompuc,http://www.econ.puc-rio.br/datazoom/english/index.html,Brazil,academia
-spaceml-org,https://github.com/spaceml-org,http://spaceml.org,Global,collaboration
-python-windrose,https://github.com/python-windrose,,Global,community
-IAMconsortium,https://github.com/IAMconsortium,https://www.iamconsortium.org,Global,collaboration
-Universite-Gustave-Eiffel,https://github.com/Universite-Gustave-Eiffel,https://www.univ-gustave-eiffel.fr/,France,academia
-NCAS-CMS,https://github.com/NCAS-CMS,http://cms.ncas.ac.uk/,UK,government agency
-IMMM-SFA,https://github.com/IMMM-SFA,https://im3.pnnl.gov/,USA,government agency
-PowerGenome,https://github.com/PowerGenome,,USA,community
-lf-energy,https://github.com/lf-energy,https://lfenergy.org,Global,collaboration
-ml-energy,https://github.com/ml-energy,https://ml.energy,USA,academia
-Plant-for-the-Planet-org,https://github.com/Plant-for-the-Planet-org,https://www.plant-for-the-planet.org,Germany,non-profit
-pnnl,https://github.com/pnnl,http://www.pnnl.gov/,,
-lbl-srg,https://github.com/lbl-srg,https://buildings.lbl.gov/modeling-simulation,USA,government agency
-OpenEnergyPlatform,https://github.com/OpenEnergyPlatform,https://github.com/OpenEnergyPlatform/organisation/blob/master/README.md,Germany,collaboration
-kitzeslab,https://github.com/kitzeslab,,,
-GEOS-ESM,https://github.com/GEOS-ESM,https://gmao.gsfc.nasa.gov/index.php,USA,government agency
-EVerest,https://github.com/EVerest,https://www.lfenergy.org/projects/everest/,Germany,for-profit
-eWaterCycle,https://github.com/eWaterCycle,http://www.ewatercycle.org,Netherlands,academia
-ufs-community,https://github.com/ufs-community,https://ufscommunity.org/,USA,community
-GFDRR,https://github.com/GFDRR,https://www.gfdrr.org/en,Global,government agency
-sizespectrum,https://github.com/sizespectrum,https://sizespectrum.org/mizer/,UK,academia
-ClimateMind,https://github.com/ClimateMind,https://climatemind.org,Global,community
-wallaceEcoMod,https://github.com/wallaceEcoMod,http://wallaceecomod.github.io,Global,community
-GridMod,https://github.com/GridMod,https://www.nrel.gov/grid/reliability-test-system.html,USA,government agency
-vocalpy,https://github.com/vocalpy,https://forum.vocalpy.org/,,
-rte-antares-rpackage,https://github.com/rte-antares-rpackage,https://rte-antares-rpackage.github.io/rPackagesRte/,Global,community
-climlab,https://github.com/climlab,,USA,academia
-matplotlib,https://github.com/matplotlib,https://matplotlib.org,,
-ECCC-MSC,https://github.com/ECCC-MSC,https://www.ec.gc.ca/meteo-weather,,
-JuliaEnergy,https://github.com/JuliaEnergy,,Global,community
-JuliaDataCubes,https://github.com/JuliaDataCubes,https://juliadatacubes.github.io/EarthDataLab.jl/latest/,Global,community
-TUW-GEO,https://github.com/TUW-GEO,http://geo.tuwien.ac.at,Austria,academia
-UU-Hydro,https://github.com/UU-Hydro,http://www.globalhydrology.nl/,Netherlands,academia
-ScottLogic,https://github.com/ScottLogic,https://www.scottlogic.com/our-commitment-open-source,,
-pmlmodelling,https://github.com/pmlmodelling,https://pml.ac.uk/science/Marine-Systems-Modelling,UK,non-profit
-Accenture,https://github.com/Accenture,https://accenture.github.io,,
-pytroll,https://github.com/pytroll,http://pytroll.org/,Global,community
-geocryology,https://github.com/geocryology,http://www.carleton.ca/permafrost,Canada,academia
-LIVVkit,https://github.com/LIVVkit,https://climatemodeling.science.energy.gov/technical-highlights/land-ice-verification-and-validation-toolkit-livvkit,USA,government agency
-PredictiveEcology,https://github.com/PredictiveEcology,https://PredictiveEcology.org,Canada,community
-UdK-VPT,https://github.com/UdK-VPT,http://www.arch.udk-berlin.de/vpt,Germany,academia
-vocol,https://github.com/vocol,https://github.com/vocol/vocol,Germany,academia
-carbonplan,https://github.com/carbonplan,http://carbonplan.org,Global,non-profit
-worlddynamics,https://github.com/worlddynamics,,Global,community
-OnSSET,https://github.com/OnSSET,http://www.onsset.org,Sweden,academia
-pik-piam,https://github.com/pik-piam,https://www.pik-potsdam.de/,Germany,non-profit
-forefireAPI,https://github.com/forefireAPI,,,
-pfmc-assessments,https://github.com/pfmc-assessments,,USA,government agency
-ReMobidyc,https://github.com/ReMobidyc,,Japan,community
-Servir-Mekong,https://github.com/Servir-Mekong,http://servir.adpc.net,Thailand,collaboration
-OMS-NetZero,https://github.com/OMS-NetZero,https://fair.readthedocs.io/en/latest/,Global,community
-SwitchEV,https://github.com/SwitchEV,https://www.switch-ev.com,UK,for-profit
-cedadev,https://github.com/cedadev,http://www.ceda.ac.uk,UK,academia
-oceanmodeling,https://github.com/oceanmodeling,,Global,collaboration
-mobility-team,https://github.com/mobility-team,https://mobility-team.github.io/,France,community
-Azure,https://github.com/Azure,https://docs.microsoft.com/en-us/azure/,USA,for-profit
-Boavizta,https://github.com/Boavizta,https://boavizta.org/en,France,community
-quant-aq,https://github.com/quant-aq,https://www.quant-aq.com,,
-Open-Acidification,https://github.com/Open-Acidification,https://open-acidification.github.io/,USA,community
-SantanderMetGroup,https://github.com/SantanderMetGroup,http://www.meteo.unican.es,Spain,academia
-trenchproject,https://github.com/trenchproject,https://trenchproject.com,,
-atmoschem,https://github.com/atmoschem,https://atmoschem.github.io/,Global,community
-mdolab,https://github.com/mdolab,http://mdolab.engin.umich.edu,USA,academia
-pyet-org,https://github.com/pyet-org,https://github.com/phydrus/pyet,Global,community
-JuliaOcean,https://github.com/JuliaOcean,https://github.com/JuliaOcean,Global,community
-CornellLabofOrnithology,https://github.com/CornellLabofOrnithology,http://www.birds.cornell.edu,USA,academia
-wimlds-trojmiasto,https://github.com/wimlds-trojmiasto,,,
-byuflowlab,https://github.com/byuflowlab,http://flow.byu.edu,USA,academia
-UMN-Hydro,https://github.com/UMN-Hydro,,USA,government agency
-pommes-public,https://github.com/pommes-public,,,
-Good-Data-Hub,https://github.com/Good-Data-Hub,http://gooddatahub.co,USA,for-profit
-UMEP-dev,https://github.com/UMEP-dev,,Global,community
-allenai,https://github.com/allenai,http://www.allenai.org,USA,non-profit
-BioPAL,https://github.com/BioPAL,https://biopal.org/,Global,community
-cisco-open,https://github.com/cisco-open,https://opensource.cisco.com,,
-SunPower,https://github.com/SunPower,https://sunpower.github.io/,USA,for-profit
-WISDEM,https://github.com/WISDEM,https://www.nrel.gov/wind/systems-engineering.html,USA,government agency
-reegis,https://github.com/reegis,https://deflex.readthedocs.io/en/latest/,Global,community
-red-list-ecosystem,https://github.com/red-list-ecosystem,http://iucnrle.org/,Australia,non-profit
-NOAA-OWP,https://github.com/NOAA-OWP,https://water.noaa.gov/,USA,government agency
-permafrostnet,https://gitlab.com/permafrostnet,,,
-pacificclimate,https://github.com/pacificclimate,http://www.pacificclimate.org/,Canada,academia
-amazon-science,https://github.com/amazon-science,https://amazon.science,Global,for-profit
-bonsamurais,https://gitlab.com/bonsamurais,,,
-Open-ET,https://github.com/Open-ET,https://etdata.org/,USA,non-profit
-tum-ens,https://github.com/tum-ens,http://www.ens.ei.tum.de,Germany,academia
-tbep-tech,https://github.com/tbep-tech,https://tbep-tech.github.io/,USA,government agency
-cat-cfs,https://github.com/cat-cfs,,,
-FRBCesab,https://github.com/FRBCesab,https://www.fondationbiodiversite.fr/en/about-the-foundation/le-cesab/,France,academia
-sustainlab-group,https://github.com/sustainlab-group,https://sustain.stanford.edu/,USA,academia
-ONEcampaign,https://github.com/ONEcampaign,https://www.one.org,,
-voltbras,https://github.com/voltbras,https://voltbras.com.br/,Brazil,for-profit
-UCSB-VRL,https://github.com/UCSB-VRL,http://vision.ece.ucsb.edu,USA,academia
-openmodels,https://github.com/openmodels,,Global,community
-HFAiLab,https://github.com/HFAiLab,https://www.high-flyer.cn/,,
-openclimatedata,https://github.com/openclimatedata,https://openclimatedata.net,Germany,community
-publicissapient-france,https://github.com/publicissapient-france,https://blog.engineering.publicissapient.fr,,
-OpenTopography,https://github.com/OpenTopography,http://www.opentopography.org,USA,academia
-prioritizr,https://github.com/prioritizr,https://prioritizr.net/,Global,community
-bluegreen-labs,https://github.com/bluegreen-labs,http://bluegreenlabs.org,Belgium,academia
-NASA-IMPACT,https://github.com/NASA-IMPACT,https://earthdata.nasa.gov/esds/impact,USA,government agency
-pik-primap,https://github.com/pik-primap,https://www.pik-potsdam.de/,Germany,government agency
-stripe,https://github.com/stripe,https://stripe.com,USA,for-profit
-Ouranosinc,https://github.com/Ouranosinc,http://www.ouranos.ca,Canada,non-profit
-projecthorus,https://github.com/projecthorus,http://projecthorus.org/,Australia,community
-hafs-community,https://github.com/hafs-community,,USA,community
-TEOS-10,https://github.com/TEOS-10,http://www.TEOS-10.org,,
-gicait,https://github.com/gicait,http://geoinfo.ait.ac.th/,Thailand,academia
-tum-esm,https://github.com/tum-esm,https://www.ei.tum.de/esm,Germany,academia
-envite-consulting,https://github.com/envite-consulting,https://envite.de,Germany,for-profit
-openfoodfoundation,https://github.com/openfoodfoundation,http://openfoodfoundation.org/,Australia,non-profit
-p2irc,https://github.com/p2irc,http://p2irc.usask.ca,Canada,academia
-Unidata,https://github.com/Unidata,https://www.unidata.ucar.edu/,USA,academia
-AI4S2S,https://github.com/AI4S2S,,Global,community
-ibpsa,https://github.com/ibpsa,http://www.ibpsa.org,Global,collaboration
-BIG-MAP,https://github.com/BIG-MAP,https://www.big-map.eu/,,
-PowerGridModel,https://github.com/PowerGridModel,,Netherlands,community
-EvolEcolGroup,https://github.com/EvolEcolGroup,http://www.eeg.zoo.cam.ac.uk/,UK,academia
-CADWRDeltaModeling,https://github.com/CADWRDeltaModeling,,,
-NOAA-EDAB,https://github.com/NOAA-EDAB,https://www.nefsc.noaa.gov/ecosys/,USA,government agency
-com-pas,https://github.com/com-pas,https://www.lfenergy.org/all-projects/compas/,Global,collaboration
-eea,https://github.com/eea,https://www.eea.europa.eu,Denmark,government agency
-zalf-rpm,https://github.com/zalf-rpm,http://www.zalf.de/en/struktur/fds/Pages/default.aspx,Germany,non-profit
-SAP-samples,https://github.com/SAP-samples,https://developers.sap.com/,Germany,for-profit
-CCSI-Toolset,https://github.com/CCSI-Toolset,https://www.acceleratecarboncapture.org/,Global,collaboration
-rOpenGov,https://github.com/rOpenGov,http://ropengov.org,Global,community
-allometric,https://github.com/allometric,https://allometric.github.io/allometric/,Global,community
-OpenDroneMap,https://github.com/OpenDroneMap,https://opendronemap.org,Global,community
-architecture-building-systems,https://github.com/architecture-building-systems,http://systems.arch.ethz.ch,Switzerland,academia
-OpenEnergyDashboard,https://github.com/OpenEnergyDashboard,https://openenergydashboard.github.io/,Global,community
-hydroshare,https://github.com/hydroshare,http://hydroshare.cuahsi.org/,USA,academia
-EVNotify,https://github.com/EVNotify,https://evnotify.com/,Global,community
-NRCan,https://github.com/NRCan,https://natural-resources.canada.ca/,Canada,government agency
-CliMT,https://github.com/CliMT,https://climt.readthedocs.io/en/latest/,Global,community
-ternaustralia,https://github.com/ternaustralia,http://www.tern.org.au,,
-MITgcm,https://github.com/MITgcm,http://mitgcm.org/,USA,academia
-wrf-model,https://github.com/wrf-model,http://www2.mmm.ucar.edu/wrf/users/,USA,academia
-DPGAlliance,https://github.com/DPGAlliance,http://digitalpublicgoods.net,Global,collaboration
-pypsa-meets-earth,https://github.com/pypsa-meets-earth,https://pypsa-meets-earth.github.io/,Global,community
-mesmo-dev,https://github.com/mesmo-dev,https://www.tum-create.edu.sg/research/project/mesmo-multi-energy-system-modelling-optimisation,Germany,academia
-Project-AgML,https://github.com/Project-AgML,,,
-MoBiodiv,https://github.com/MoBiodiv,https://www.idiv.de/en,Germany,academia
-openscm,https://github.com/openscm,,Global,community
-smrt-model,https://github.com/smrt-model,https://www.smrt-model.science/,Global,community
-openfarmcc,https://github.com/openfarmcc,http://www.openfarm.cc,Global,community
-remindmodel,https://github.com/remindmodel,https://www.pik-potsdam.de/research/transformation-pathways/models/remind,Germany,academia
-noaa-oar-arl,https://github.com/noaa-oar-arl,https://www.arl.noaa.gov,,
-open-atmos,https://github.com/open-atmos,,Global,community
-shootismoke,https://github.com/shootismoke,https://shootismoke.app,Global,community
-ESMG,https://github.com/ESMG,https://www.myroms.org/,Canada,academia
-cityssm,https://github.com/cityssm,https://cityssm.github.io,,
-atmtools,https://github.com/atmtools,https://www.radiativetransfer.org/,Global,academia
-gnames,https://github.com/gnames,,Global,community
-firetools,https://github.com/firetools,,Italy,community
-GSA,https://github.com/GSA,https://open.gsa.gov,USA,government agency
-open-meteo,https://github.com/open-meteo,https://open-meteo.com,Switzerland,community
-IBM,https://github.com/IBM,https://www.ibm.com/opensource/,USA,for-profit
-erf-model,https://github.com/erf-model,https://erf.readthedocs.io/en/latest/,USA,academia
-PyPSA,https://github.com/PyPSA,http://www.pypsa.org,Global,community
-EcoJulia,https://github.com/EcoJulia,https://ecojulia.org/,Global,community
-mila-iqia,https://github.com/mila-iqia,https://mila.quebec/,,
-bikeindex,https://github.com/bikeindex,https://bikeindex.org,USA,non-profit
-onaci,https://github.com/onaci,https://www.csiro.au/en/about/people/business-units/Oceans-and-Atmosphere,Australia,government agency
-ClimateImpactLab,https://github.com/ClimateImpactLab,https://impactlab.org,USA,non-profit
-ScienceBasedTargets,https://github.com/ScienceBasedTargets,https://sciencebasedtargets.org/,Global,collaboration
-e-sensing,https://github.com/e-sensing,http://www.esensing.org,Brazil,academia
-AtlasOfLivingAustralia,https://github.com/AtlasOfLivingAustralia,https://www.ala.org.au,Australia,government agency
-wri,https://github.com/wri,https://wri.org,USA,non-profit
-openaq,https://github.com/openaq,https://openaq.org,Global,non-profit
-PnX-SI,https://github.com/PnX-SI,https://www.parcsnationaux.fr/fr,France,government agency
-NOAA-PMEL,https://github.com/NOAA-PMEL,http://www.pmel.noaa.gov,USA,academia
-DataONEorg,https://github.com/DataONEorg,https://dataone.org,USA,community
-3DStreet,https://github.com/3DStreet,http://3dstreet.org,,
-techmatters,https://github.com/techmatters,https://techmatters.org/,USA,non-profit
-UW-Hydro,https://github.com/UW-Hydro,https://uw-hydro.github.io/,USA,academia
-sitkatech,https://github.com/sitkatech,https://www.esassoc.com,,
-climate-tech-handbook,https://github.com/climate-tech-handbook,https://www.climatetechhandbook.com/,Global,community
-nci,https://github.com/nci,http://nci.org.au/,,
-calliope-project,https://github.com/calliope-project,https://www.callio.pe/,Global,community
-openoakland,https://github.com/openoakland,http://openoakland.org,USA,non-profit
-resource-watch,https://github.com/resource-watch,https://resourcewatch.org/,USA,non-profit
-pybop-team,https://github.com/pybop-team,,Global,community
-wildmountainfarms,https://github.com/wildmountainfarms,,Global,community
-thetisproject,https://github.com/thetisproject,https://thetisproject.org/,Global,collaboration
-OpenOlitor,https://github.com/OpenOlitor,http://www.openolitor.org,Global,community
-firelab,https://github.com/firelab,http://firelab.org,,
-meteoinfo,https://github.com/meteoinfo,http://www.meteothink.org/,China,academia
-coralnet,https://github.com/coralnet,https://coralnet.ucsd.edu/,USA,academia
-tdwg,https://github.com/tdwg,http://www.tdwg.org,Global,collaboration
-icra,https://github.com/icra,https://www.icra.cat/,Spain,academia
-WorldCereal,https://github.com/WorldCereal,https://esa-worldcereal.org/,,
-systragroup,https://github.com/systragroup,https://www.systra.com,Global,for-profit
-energyandcleanair,https://github.com/energyandcleanair,https://energyandcleanair.org/,,
-QGEP,https://github.com/QGEP,https://qgep.github.io/docs/,Switzerland,community
-mysociety,https://github.com/mysociety,https://www.mysociety.org/,UK,non-profit
-wikirate,https://github.com/wikirate,https://wikirate.org/,Germany,non-profit
-enviroCar,https://github.com/enviroCar,https://envirocar.org/,Germany,collaboration
-coecms,https://github.com/coecms,http://climate-cms.unsw.wikispaces.net,Australia,government agency
-openENTRANCE,https://github.com/openENTRANCE,https://openentrance.eu,Global,collaboration
-SERVIR,https://github.com/SERVIR,https://www.servirglobal.net/,Global,collaboration
-pyswmm,https://github.com/pyswmm,http://www.pyswmm.org,USA,community
-Giswater,https://github.com/Giswater,http://www.giswater.org,Spain,non-profit
-undp,https://github.com/undp,https://www.undp.org,Global,government agency
-rOpenSpain,https://github.com/rOpenSpain,http://ropenspain.es,Spain,community
-EnviroDIY,https://github.com/EnviroDIY,http://envirodiy.org/,USA,non-profit
-WAM2layers,https://github.com/WAM2layers,,,
-NOAA-ORR-ERD,https://github.com/NOAA-ORR-ERD,http://response.restoration.noaa.gov,USA,government agency
-ocean-data-factory-sweden,https://github.com/ocean-data-factory-sweden,https://www.gu.se/,Sweden,academia
-xCDAT,https://github.com/xCDAT,https://xcdat.readthedocs.org,Global,community
-geoschem,https://github.com/geoschem,http://www.geos-chem.org,Global,academia
-BoldingBruggeman,https://github.com/BoldingBruggeman,http://www.bolding-bruggeman.com,Italy,for-profit
-traitecoevo,https://github.com/traitecoevo,,Australia,community
-birdflow-science,https://github.com/birdflow-science,,,
-opendata-stuttgart,https://github.com/opendata-stuttgart,http://codefor.de/stuttgart/,Germany,non-profit
-ESIPFed,https://github.com/ESIPFed,http://esipfed.org,USA,collaboration
-WCRP-CMIP,https://github.com/WCRP-CMIP,https://www.wcrp-climate.org/wgcm-cmip,Global,collaboration
-smart-data-models,https://github.com/smart-data-models,https://smartdatamodels.org,Global,collaboration
-google-deepmind,https://github.com/google-deepmind,https://www.deepmind.com/,,
-Sen2Agri,https://github.com/Sen2Agri,http://www.esa-sen2agri.org/,Global,collaboration
-uDALES,https://github.com/uDALES,https://udales.github.io/u-dales/,Netherlands,community
-CURENT,https://github.com/CURENT,https://ltb.curent.org,USA,academia
-JuliaClimate,https://github.com/JuliaClimate,https://juliaclimate.org/,Global,community
-AER-RC,https://github.com/AER-RC,https://www.aer.com/science-research/atmosphere/radiative-transfer/,USA,for-profit
-IrishMarineInstitute,https://github.com/IrishMarineInstitute,https://www.marine.ie/,Ireland,government agency
-capstone-coal,https://github.com/capstone-coal,https://capstone-coal.github.io,Global,community
-AgroCares,https://github.com/AgroCares,https://grasplan.nl/,Netherlands,community
-CEMPD,https://github.com/CEMPD,http://www.ie.unc.edu/cempd/,USA,academia
-iat-cener,https://github.com/iat-cener,https://www.cener.com,Spain,government agency
-APA-Technology-Division,https://github.com/APA-Technology-Division,https://tech.planning.org/,USA,for-profit
-AWF-GAUG,https://github.com/AWF-GAUG,http://www.uni-goettingen.de/en/67094.html,,
-osmose-model,https://github.com/osmose-model,http://www.osmose-model.org,Global,community
-WHOIGit,https://github.com/WHOIGit,http://www.whoi.edu,USA,non-profit
-ESGF,https://github.com/ESGF,http://esgf.llnl.gov,USA,government agency
-USDAForestService,https://github.com/USDAForestService,https://www.fs.usda.gov/,USA,government agency
-RemoteSensingTools,https://github.com/RemoteSensingTools,https://remotesensingtools.github.io/vSmartMOM.jl/,Global,community
-SoilBGC-Datashare,https://github.com/SoilBGC-Datashare,https://soilbgc-datashare.github.io/sidb/,Germany,academia
-hundredrabbits,https://github.com/hundredrabbits,http://100r.co,Global,for-profit
-GIS4WRF,https://github.com/GIS4WRF,https://gis4wrf.github.io,Global,community
-fund-model,https://github.com/fund-model,http://www.fund-model.org,Global,community
-sykefi,https://github.com/sykefi,http://www.syke.fi,,
-uncefact,https://github.com/uncefact,https://www.unece.org/cefact/,,
-IQuOD,https://github.com/IQuOD,https://www.iquod.org/,Global,collaboration
-buds-lab,https://github.com/buds-lab,http://www.budslab.org,Singapore,academia
-WWF-Deutschland,https://github.com/WWF-Deutschland,https://www.wwf.de,Germany,non-profit
-thegreenwebfoundation,https://github.com/thegreenwebfoundation,https://www.thegreenwebfoundation.org,Netherlands,non-profit
-compdyn,https://github.com/compdyn,,Global,community
-pyronear,https://github.com/pyronear,https://pyronear.org/,France,non-profit
-sede-open,https://github.com/sede-open,https://www.shell.com/about-us/contact-us.html,,
-fishR-Core-Team,https://github.com/fishR-Core-Team,https://fishr-core-team.github.io/RFishBC/,USA,academia
-MIT-LAE,https://github.com/MIT-LAE,https://lae.mit.edu,,
-ECCC-CCCS,https://github.com/ECCC-CCCS,https://canada.ca/climate-services,Canada,government agency
-sintel-dev,https://github.com/sintel-dev,https://dai.lids.mit.edu/,USA,academia
-GreenswayAB,https://github.com/GreenswayAB,https://greensway.se/,Sweden,non-profit
-OSeMOSYS,https://github.com/OSeMOSYS,http://www.osemosys.org/,Global,community
-UNSW-CEEM,https://github.com/UNSW-CEEM,http://ceem.unsw.edu.au/,Australia,academia
-nco,https://github.com/nco,https://nco.sourceforge.net/,Global,community
-Virtual-FCS,https://github.com/Virtual-FCS,http://virtual-fcs.eu,Global,collaboration
-spatial-ews,https://github.com/spatial-ews,,,
-dlr-ve,https://gitlab.com/dlr-ve,,,
-kLabUM,https://github.com/kLabUM,,USA,collaboration
-OceanographyforEveryone,https://github.com/OceanographyforEveryone,,,
-rollthecloudinc,https://github.com/rollthecloudinc,https://rollthecloud.com,USA,non-profit
-nasa-jpl,https://github.com/nasa-jpl,https://www.jpl.nasa.gov,USA,government agency
-cont-limno,https://github.com/cont-limno,https://lagoslakes.org,USA,academia
-ClimateCompatibleGrowth,https://github.com/ClimateCompatibleGrowth,http://www.climatecompatiblegrowth.com,,
-Climdyn,https://github.com/Climdyn,http://climdyn.meteo.be,Belgium,government agency
-EDF-Lab,https://github.com/EDF-Lab,https://www.edf.fr/en/the-edf-group/inventing-the-future-of-energy/r-d-global-expertise,France,for-profit
-WA-Department-of-Agriculture,https://github.com/WA-Department-of-Agriculture,http://agr.wa.gov/AgScience,,
-Open-Power-System-Data,https://github.com/Open-Power-System-Data,http://open-power-system-data.org/,Global,collaboration
-IUCNN,https://github.com/IUCNN,,Global,community
-HYCOM,https://github.com/HYCOM,https://hycom.org/hycom/overview,USA,academia
-nesp-tsr3-1,https://github.com/nesp-tsr3-1,,,
-YaleOpenLab,https://github.com/YaleOpenLab,http://www.openlab.yale.edu,USA,academia
-holoviz-topics,https://github.com/holoviz-topics,http://holoviz.org,Global,community
-Critical-Infrastructure-Systems-Lab,https://github.com/Critical-Infrastructure-Systems-Lab,https://people.sutd.edu.sg/~stefano_galelli/,USA,academia
-USDA-ARS-NWRC,https://github.com/USDA-ARS-NWRC,https://www.ars.usda.gov/pacific-west-area/boise-id/northwest-watershed-research-center/,USA,government agency
-EnergyTransition,https://github.com/EnergyTransition,https://www.tno.nl/nl/aandachtsgebieden/informatie-communicatie-technologie/expertisegroepen/monitoring-control-services/grip-op-de-energietransitie-met-esdl/,Netherlands,academia
-UrbanAnalyst,https://github.com/UrbanAnalyst,https://UrbanAnalyst.city,Germany,community
-mmb-carb,https://github.com/mmb-carb,https://www.arb.ca.gov/homepage.htm,USA,government agency
-cp-PYFOREST,https://github.com/cp-PYFOREST,https://bren.ucsb.edu/projects/informing-forest-conservation-regulations-paraguay,USA,academia
-oie-mines-paristech,https://github.com/oie-mines-paristech,http://www.oie.mines-paristech.fr/,France,academia
-global-hydrodynamics,https://github.com/global-hydrodynamics,https://global-hydrodynamics.github.io/,Japan,academia
-protect-earth,https://github.com/protect-earth,https://protect.earth,UK,non-profit
-MaREI-EPMG,https://github.com/MaREI-EPMG,https://www.marei.ie/energy-policy-modelling/,Ireland,academia
-ideas-lab-nus,https://github.com/ideas-lab-nus,https://ideaslab.io,Singapore,academia
-edgi-govdata-archiving,https://github.com/edgi-govdata-archiving,http://www.envirodatagov.org,,
-SwolfPy-Project,https://github.com/SwolfPy-Project,http://swolfpy-project.github.io/,USA,academia
-csdms-contrib,https://github.com/csdms-contrib,http://csdms.colorado.edu,,
-tdcosim,https://github.com/tdcosim,,USA,government agency
-ClimateMARGO,https://github.com/ClimateMARGO,,Global,academia
-OpenSimHub,https://github.com/OpenSimHub,https://opensimhub.org,Norway ,academia
-powerapi-ng,https://github.com/powerapi-ng,http://powerapi.org,France,academia
-sb-ai-lab,https://github.com/sb-ai-lab,,Global,community
-myroms,https://github.com/myroms,https://www.myroms.org/wiki,Global,community
-Battery-Intelligence-Lab,https://github.com/Battery-Intelligence-Lab,https://howey.eng.ox.ac.uk,UK,academia
-Envirometrix,https://github.com/Envirometrix,http://envirometrix.net,Netherlands,for-profit
-etsap-TIMES,https://github.com/etsap-TIMES,https://iea-etsap.org/,,
-ECCC-ASTD-MRD,https://github.com/ECCC-ASTD-MRD,http://collaboration.cmc.ec.gc.ca/science/si/,Canada,academia
-AgrDataSci,https://github.com/AgrDataSci,,France,collaboration
-dl4sits,https://github.com/dl4sits,,Global,community
-zae-bayern,https://github.com/zae-bayern,https://www.zae-bayern.de,Germany,non-profit
-renewables-ninja,https://github.com/renewables-ninja,https://www.renewables.ninja/,Germany,academia
-RMI,https://github.com/RMI,https://rmi.org/,USA,non-profit
-DuraMAT,https://github.com/DuraMAT,https://duramat.github.io/pv-terms/,Global,community
-opentaps,https://github.com/opentaps,https://www.opensourcestrategies.com/,USA,for-profit
-OSUKED,https://github.com/OSUKED,https://osuked.com/,UK,community
-GoogleCloudPlatform,https://github.com/GoogleCloudPlatform,https://cloud.google.com,USA,for-profit
-MeteoSwiss,https://github.com/MeteoSwiss,https://www.meteoswiss.ch,Switzerland,government agency
-eMapR,https://github.com/eMapR,http://emapr.ceoas.oregonstate.edu/,USA,academia
-stac-utils,https://github.com/stac-utils,https://www.radiant.earth/,Global,non-profit
-VUKOZ-OEL,https://github.com/VUKOZ-OEL,http://www.naturalforests.cz,Czech Republic,government agency
-ncx-co,https://github.com/ncx-co,https://www.ncx.com,USA,for-profit
-TheOceanCleanupAlgorithms,https://github.com/TheOceanCleanupAlgorithms,https://theoceancleanup.com,Netherlands,non-profit
-OpenChargingCloud,https://github.com/OpenChargingCloud,https://open.charging.cloud,Germany,community
-ReflectiveEarth,https://github.com/ReflectiveEarth,https://reflectiveearth.org,Global,non-profit
-space-physics,https://github.com/space-physics,,Global,community
-climopy-dev,https://github.com/climopy-dev,https://climopy.readthedocs.io,Global,community
-ugr-sail,https://github.com/ugr-sail,http://sail.ugr.es,,
-MHKiT-Software,https://github.com/MHKiT-Software,https://mhkit-software.github.io/MHKiT/,USA,government agency
-slcs-jsc,https://github.com/slcs-jsc,http://www.fz-juelich.de/ias/jsc/slcs,Germany,government agency
-pydata,https://github.com/pydata,http://groups.google.com/forum/?fromgroups#!forum/pydata,,
-Safecast,https://github.com/Safecast,http://safecast.org,Japan,non-profit
-EC-USGS,https://github.com/EC-USGS,,USA,government agency
-opfab,https://github.com/opfab,https://opfab.github.io/,Global,collaboration
-gridsingularity,https://github.com/gridsingularity,https://gridsingularity.com/,Germany,for-profit
-catalyst-cooperative,https://github.com/catalyst-cooperative,https://catalyst.coop,USA,for-profit
-transitland,https://github.com/transitland,https://www.transit.land,USA,for-profit
-Open-MSS,https://github.com/Open-MSS,https://open-mss.github.io/,Germany,community
-maasglobal,https://github.com/maasglobal,https://maas.global,Finland,for-profit
-goat-community,https://github.com/goat-community,https://plan4better.de,Germany,for-profit
-LBL-EESA,https://github.com/LBL-EESA,http://eesa.lbl.gov/,USA,government agency
-hydroframe,https://github.com/hydroframe,https://www.hydroframe.org/,,
-sustainable-computing-io,https://github.com/sustainable-computing-io,http://www.sustainable-computing.io,USA,community
-IDAES,https://github.com/IDAES,https://idaes.org,USA,government agency
-openmobilityfoundation,https://github.com/openmobilityfoundation,http://www.openmobilityfoundation.org/,USA,non-profit
-LBNL-UCB-STI,https://github.com/LBNL-UCB-STI,https://transportation.lbl.gov/,USA,government agency
-WikiWatershed,https://github.com/WikiWatershed,http://wikiwatershed.org,USA,non-profit
-OpenDrift,https://github.com/OpenDrift,https://opendrift.github.io/,Global,community
-opennem,https://github.com/opennem,https://opennem.org.au,Australia,community
-BrickSchema,https://github.com/BrickSchema,https://brickschema.org/,Global,collaboration
-OneBusAway,https://github.com/OneBusAway,https://github.com/OneBusAway/onebusaway/wiki,USA,non-profit
-dalesteam,https://github.com/dalesteam,,Netherlands,academia
-forc-db,https://github.com/forc-db,https://forc-db.github.io/,USA,academia
-SmartTensors,https://github.com/SmartTensors,http://EnviTrace.com,USA,community
-earthlab,https://github.com/earthlab,https://www.earthdatascience.org/,USA,academia
-cyclosm,https://github.com/cyclosm,https://www.cyclosm.org/,Global,community
-PecanProject,https://github.com/PecanProject,http://pecanproject.org,USA,community
-AguaClara,https://github.com/AguaClara,http://aguaclara.cornell.edu/,USA,academia
-hubblo-org,https://github.com/hubblo-org,https://hubblo.org,France,community
-volkszaehler,https://github.com/volkszaehler,https://volkszaehler.org,Germany,community
-pism,https://github.com/pism,https://www.pism.io/,USA,academia
-IEAWindTask37,https://github.com/IEAWindTask37,https://iea-wind.org/task37/,Global,government agency
-intelligent-environments-lab,https://github.com/intelligent-environments-lab,http://nagy.caee.utexas.edu,USA,academia
-WordPress,https://github.com/WordPress,https://wordpress.org/,,
-ECSHackWeek,https://github.com/ECSHackWeek,,Global,community
-kube-green,https://github.com/kube-green,https://kube-green.dev/,Global,community
-treflehq,https://github.com/treflehq,https://trefle.io,France,community
-waiwera,https://github.com/waiwera,https://waiwera.github.io/,New Zealand,academia
-energy-modelling-toolkit,https://github.com/energy-modelling-toolkit,,Global,community
-openplantpathology,https://github.com/openplantpathology,https://www.openplantpathology.org/,Global,non-profit
-MATPOWER,https://github.com/MATPOWER,https://matpower.org/,Global,community
-pybamm-team,https://github.com/pybamm-team,https://www.pybamm.org/,USA,community
-singularity-energy,https://github.com/singularity-energy,https://singularity.energy,USA,for-profit
-datadesk,https://github.com/datadesk,https://www.latimes.com,,
-OpenEVSE,https://github.com/OpenEVSE,http://www.openevse.com,USA,for-profit
-wpgp,https://github.com/wpgp,https://www.worldpop.org,UK,academia
-power-grid-lib,https://github.com/power-grid-lib,https://power-grid-lib.github.io/,Global,community
-CSHS-CWRA,https://github.com/CSHS-CWRA,https://cwra.org/en/branches/affiliates/cshs-a,Canada,academia
-owid,https://github.com/owid,https://ourworldindata.org,UK,non-profit
-pinskylab,https://github.com/pinskylab,http://pinsky.marine.rutgers.edu,USA,academia
-HPSCTerrSys,https://github.com/HPSCTerrSys,http://www.hpsc-terrsys.de,,
-climateinteractive,https://github.com/climateinteractive,https://climateinteractive.org/,,
-magpiemodel,https://github.com/magpiemodel,https://magpiemodel.github.io/,Germany,government agency
-evcc-io,https://github.com/evcc-io,https://evcc.io,Germany,community
-sharppy,https://github.com/sharppy,,,
-OpenFLUID,https://github.com/OpenFLUID,http://www.openfluid-project.org,France,collaboration
-capytaine,https://github.com/capytaine,,Global,community
-IEA-Task-43,https://github.com/IEA-Task-43,http://www.ieawindtask43.org,Global,collaboration
-Helmholtz-AI-Energy,https://github.com/Helmholtz-AI-Energy,https://www.helmholtz.ai/,Germany,government agency
-ss3sim,https://github.com/ss3sim,https://ss3sim.github.io/ss3sim/,USA,government agency
-eradiate,https://github.com/eradiate,https://www.eradiate.eu/,Belgium,for-profit
-bionomia,https://github.com/bionomia,https://bionomia.net,,
-open-data-rescue,https://github.com/open-data-rescue,https://citsci.geog.mcgill.ca/,Canada,community
-PoisotLab,https://github.com/PoisotLab,http://poisotlab.io,Canada,academia
-Mohid-Water-Modelling-System,https://github.com/Mohid-Water-Modelling-System,http://www.mohid.com,Portugal,academia
-gem,https://github.com/gem,http://www.globalquakemodel.org,Italy,non-profit
-modflowpy,https://github.com/modflowpy,,USA,government agency
-LiteFarmOrg,https://github.com/LiteFarmOrg,https://www.litefarm.org/,Canada,community
-emoncms,https://github.com/emoncms,http://emoncms.org,UK,community
-ESMValGroup,https://github.com/ESMValGroup,https://www.esmvaltool.org,Germany,government agency
-greensoftwarelab,https://github.com/greensoftwarelab,http://greenlab.di.uminho.pt/,Portugal,academia
-emlab-ucsb,https://github.com/emlab-ucsb,http://emlab.ucsb.edu,,
-wavespectra,https://github.com/wavespectra,https://wavespectra.readthedocs.io/en/latest/,Global,community
-gotm-model,https://github.com/gotm-model,https://gotm.net,Germany,government agency
-DPIRD-FSI,https://github.com/DPIRD-FSI,https://dpird.wa.gov.au/,Australia,government agency
-parflow,https://github.com/parflow,https://www.parflow.org,Global,community
-thegridelectric,https://github.com/thegridelectric,,,
-sensebox,https://github.com/sensebox,https://www.sensebox.de,Germany,academia
-qpv-research-group,https://github.com/qpv-research-group,https://www.qpvgroup.org,Australia,academia
-Growstuff,https://github.com/Growstuff,http://growstuff.org/,Global,community
-dos-group,https://github.com/dos-group,https://tu.berlin/en/dos,Germany,academia
-openchargemap,https://github.com/openchargemap,http://openchargemap.org,Global,community
-ubilabs,https://github.com/ubilabs,https://ubilabs.com,Germany,for-profit
-MetOffice,https://github.com/MetOffice,http://www.metoffice.gov.uk,UK,government agency
-cloud-carbon-footprint,https://github.com/cloud-carbon-footprint,https://cloudcarbonfootprint.org,USA,community
-stcorp,https://github.com/stcorp,http://stcorp.nl/,,
-cncf-tags,https://github.com/cncf-tags,,,
-mobilityhouse,https://github.com/mobilityhouse,https://mobilityhouse.com/,Germany,for-profit
-orbisgis,https://github.com/orbisgis,http://www.orbisgis.org,France,academia
-mlco2,https://github.com/mlco2,https://dataforgood.fr/,Global,community
-streetmix,https://github.com/streetmix,https://streetmix.net/,Global,community
-ec-jrc,https://github.com/ec-jrc,https://ec.europa.eu/jrc/,EU,government agency
-GMLC-TDC,https://github.com/GMLC-TDC,https://helics.org,USA,government agency
-FarmBot,https://github.com/FarmBot,https://farm.bot,USA,for-profit
-GeospatialResearch,https://github.com/GeospatialResearch,https://geospatial.ac.nz,,
-openghg,https://github.com/openghg,https://www.openghg.org,UK,community
-OceanParcels,https://github.com/OceanParcels,http://oceanparcels.org,Global,community
-OpenSTEF,https://github.com/OpenSTEF,https://wiki.lfenergy.org/display/HOME/OpenSTEF,Netherlands,for-profit
-IIT-EnergySystemModels,https://github.com/IIT-EnergySystemModels,https://www.iit.comillas.edu/research-area/sadse,Spain,academia
-NGEET,https://github.com/NGEET,http://ngee-tropics.lbl.gov/,USA,government agency
-nilmtk,https://github.com/nilmtk,https://nilmtk.github.io/,Global,community
-NEONScience,https://github.com/NEONScience,http://www.neonscience.org/,USA,government agency
-openearth,https://github.com/openearth,http://publicwiki.deltares.nl/display/OET,Global,collaboration
-PlanktonTeam,https://github.com/PlanktonTeam,,,
-EnvironmentOntology,https://github.com/EnvironmentOntology,http://www.environmentontology.org,Global,academia
-badlands-model,https://github.com/badlands-model,http://www.earthcolab.org,Australia,academia
-spine-tools,https://github.com/spine-tools,http://www.spine-model.org/,Finland,collaboration
-cyclestreets,https://github.com/cyclestreets,https://www.cyclestreets.org/,UK,non-profit
-r4ss,https://github.com/r4ss,https://www.fisheries.noaa.gov/,USA,government agency
-intake,https://github.com/intake,https://intake.readthedocs.io/en/latest/,USA,for-profit
-MAAP-Project,https://github.com/MAAP-Project,https://maap-project.org/,Global,government agency
-natcap,https://github.com/natcap,http://naturalcapitalproject.stanford.edu,USA,academia
-Breakthrough-Energy,https://github.com/Breakthrough-Energy,https://breakthrough-energy.github.io/docs/,USA,for-profit
-GridTools,https://github.com/GridTools,,Switzerland,academia
-LBNL-ETA,https://github.com/LBNL-ETA,http://eta.lbl.gov,USA,government agency
-aqualinkorg,https://github.com/aqualinkorg,http://aqualink.org,USA,community
-StormSurgeLive,https://github.com/StormSurgeLive,https://www.stormsurge.live,Global,community
-OpenTreeMap,https://github.com/OpenTreeMap,http://www.opentreemap.org,USA,for-profit
-open-ideas,https://github.com/open-ideas,,Global,community
-CCI-Tools,https://github.com/CCI-Tools,https://climate.esa.int/en/explore/analyse-climate-data/,UK,government agency
-aodn,https://github.com/aodn,https://portal.aodn.org.au/,,
-NorESMhub,https://github.com/NorESMhub,https://NorESM-docs.readthedocs.io/en/latest,Norway ,collaboration
-usds,https://github.com/usds,https://www.usds.gov,USA,government agency
-MODFLOW-USGS,https://github.com/MODFLOW-USGS,https://www.usgs.gov/mission-areas/water-resources/science/modflow-and-related-programs,USA,government agency
-VIAME,https://github.com/VIAME,http://www.viametoolkit.org/,Global,collaboration
-PCMDI,https://github.com/PCMDI,http://pcmdi.llnl.gov,USA,government agency
-NOAA-FIMS,https://github.com/NOAA-FIMS,,,
-Cloud-Drift,https://github.com/Cloud-Drift,https://cloud-drift.github.io/clouddrift/,USA,community
-OpenWaterAnalytics,https://github.com/OpenWaterAnalytics,http://wateranalytics.org,Global,community
-solectrus,https://github.com/solectrus,https://solectrus.de,Germany,for-profit
-rl-institut,https://github.com/rl-institut,http://www.reiner-lemoine-institut.de,Germany,non-profit
-hainegroup,https://github.com/hainegroup,https://sites.krieger.jhu.edu/haine/,UK,academia
-ARPA-SIMC,https://github.com/ARPA-SIMC,https://www.arpae.it/it/temi-ambientali/meteo/cosa-fa-arpae-meteo,Italy,for-profit
-TulipaEnergy,https://github.com/TulipaEnergy,,,
-open-AIMS,https://github.com/open-AIMS,https://www.aims.gov.au/,Australia,government agency
-pywr,https://github.com/pywr,,USA,academia
-patch-technology,https://github.com/patch-technology,https://patch.io,USA,for-profit
-SalishSeaCast,https://github.com/SalishSeaCast,https://salishsea.eos.ubc.ca/,,
-pySTEPS,https://github.com/pySTEPS,https://pysteps.github.io/,Switzerland,academia
-Greater-Wellington-Regional-Council,https://github.com/Greater-Wellington-Regional-Council,https://www.gw.govt.nz/,,
-diowa,https://github.com/diowa,http://diowa.com,Italy,for-profit
-cemsbv,https://github.com/cemsbv,https://cemsbv.nl,Netherlands,for-profit
-cryotools,https://github.com/cryotools,https://cryo-tools.org,Global,community
-energyPATHWAYS,https://github.com/energyPATHWAYS,https://www.evolved.energy/,USA,for-profit
-pastas,https://github.com/pastas,https://pastas.readthedocs.io/en/latest/,Global,academia
-CICE-Consortium,https://github.com/CICE-Consortium,,Global,collaboration
-FraunhoferIWES,https://github.com/FraunhoferIWES,,,
-SolarArbiter,https://github.com/SolarArbiter,https://forecastarbiter.epri.com,USA,government agency
-HoareLea,https://github.com/HoareLea,http://www.hoarelea.com,,
-h5netcdf,https://github.com/h5netcdf,https://h5netcdf.org/,Global,community
-retrofitcoop,https://gitlab.com/retrofitcoop,,,
-orcasound,https://github.com/orcasound,http://live.orcasound.net,,
-mosaik,https://gitlab.com/mosaik,,,
-lanl,https://github.com/lanl,https://www.lanl.gov/,USA,government agency
-rubisco-sfa,https://github.com/rubisco-sfa,https://www.bgc-feedbacks.org/,USA,collaboration
-emissions-api,https://github.com/emissions-api,https://emissions-api.org,Germany,community
-SPF-OST,https://github.com/SPF-OST,http://www.spf.ch,,
-pcraster,https://github.com/pcraster,http://www.pcraster.eu,Netherlands,academia
-CLOVER-energy,https://github.com/CLOVER-energy,,Global,community
-sinnwerkstatt,https://github.com/sinnwerkstatt,http://sinnwerkstatt.com/,Germany,for-profit
-LabSid-USP,https://github.com/LabSid-USP,http://www.labsid.eng.br,Brazil,academia
-tsdataclinic,https://github.com/tsdataclinic,https://dataclinic.twosigma.com/,USA,for-profit
-BelgianBiodiversityPlatform,https://github.com/BelgianBiodiversityPlatform,http://www.biodiversity.be,Belgium,government agency
-bigladder,https://github.com/bigladder,https://bigladdersoftware.com,USA,for-profit
-csdms,https://github.com/csdms,http://csdms.colorado.edu,USA,academia
-localdevices,https://github.com/localdevices,,,
-meom-group,https://github.com/meom-group,http://meom-group.github.io/,France,collaboration
-transportenergy,https://github.com/transportenergy,https://transportenergy.org,Global,community
-santiago-sanitation-systems,https://github.com/santiago-sanitation-systems,https://github.com/santiago-sanitation-systems/Santiago.jl,Switzerland,collaboration
-pygsflow,https://github.com/pygsflow,https://pygsflow.github.io/pygsflowdocs/,USA,government agency
-EnAccess,https://github.com/EnAccess,https://enaccess.org,,
-HotMaps,https://github.com/HotMaps,https://www.hotmaps-project.eu/,Global,community
-meteostat,https://github.com/meteostat,https://meteostat.net,Canada,community
-ihesp,https://github.com/ihesp,https://ihesp.github.io/ihesp_web/,USA,academia
-SAP,https://github.com/SAP,https://opensource.sap.com,Germany,for-profit
-AssessingSolar,https://github.com/AssessingSolar,http://assessingsolar.org,Global,community
-upb-lea,https://github.com/upb-lea,https://ei.uni-paderborn.de/en/lea/,Germany,academia
-igfuw,https://github.com/igfuw,http://foss.igf.fuw.edu.pl/,,
-PREP-NexT,https://github.com/PREP-NexT,https://prep-next.github.io/PREP-SHOT/,Singapore,academia
-climate-cooperative,https://github.com/climate-cooperative,https://climate-cooperative.org,,
-ABbiodiversity,https://github.com/ABbiodiversity,http://www.abmi.ca,,
-mit-jp,https://github.com/mit-jp,http://globalchange.mit.edu,USA,academia
-r-earthengine,https://github.com/r-earthengine,,,
-openCEMorg,https://github.com/openCEMorg,,Australia,academia
-openmethane,https://github.com/openmethane,https://openmethane.org,,
-ncsuSEAL,https://github.com/ncsuSEAL,https://ncsu-seal.netlify.app/,,
-awebox,https://github.com/awebox,,Germany,for-profit
-CriticalAssetManagement,https://github.com/CriticalAssetManagement,https://climateresilient.world/,USA,collaboration
-teams,https://invent.kde.org/teams,https://merlijn.sebrechts.be,,
-ODINN-SciML,https://github.com/ODINN-SciML,,Global,community
-fineprint-global,https://github.com/fineprint-global,http://www.fineprint.global/,Austria,academia
-CMLPlatform,https://github.com/CMLPlatform,https://www.universiteitleiden.nl/en/science/environmental-sciences/research,Netherlands,academia
-NRAP,https://gitlab.com/NRAP,,,
-TNO,https://github.com/TNO,http://www.tno.nl,Netherlands,government agency
-AquaticEcoDynamics,https://github.com/AquaticEcoDynamics,http://aquatic.science.uwa.edu.au,Australia,government agency
-umr-amap,https://github.com/umr-amap,http://amap.cirad.fr,France,academia
-nansencenter,https://github.com/nansencenter,http://www.nersc.no,Norway ,non-profit
-passaH2O,https://github.com/passaH2O,https://sites.google.com/site/passalacquagroup/home,USA,academia
-omegalpes,https://gricad-gitlab.univ-grenoble-alpes.fr/omegalpes,,,
-brazil-data-cube,https://github.com/brazil-data-cube,http://brazildatacube.org,Brazil,government agency
-HIT2GAP-EU-PROJECT,https://github.com/HIT2GAP-EU-PROJECT,http://www.hit2gap.eu/,France,for-profit
-EURAC-EEBgroup,https://github.com/EURAC-EEBgroup,http://www.eurac.edu/en/research/technologies/renewableenergy/researchfields/Pages/Energy-management-in-buildings.aspx,,
-BreakingBytes,https://github.com/BreakingBytes,http://breakingbytes.github.io/,USA,for-profit
-then-try-this,https://gitlab.com/then-try-this,,,
-PSUmodeling,https://github.com/PSUmodeling,https://psumodeling.github.io/,USA,academia
-dorie,https://gitlab.dune-project.org/dorie,,,
-ARCCSS-extremes,https://github.com/ARCCSS-extremes,https://climateextremes.org.au/,Australia,government agency
-RAMP-project,https://github.com/RAMP-project,,Global,community
-isric,https://git.wur.nl/isric,,,
-CryoGrid,https://github.com/CryoGrid,,Global,community
-PerovskiteSCModelling,https://github.com/PerovskiteSCModelling,,Global,academia
-KnowFlow,https://github.com/KnowFlow,https://publiclab.org/wiki/knowflow,China,community
-epri-dev,https://github.com/epri-dev,http://www.epri.com,USA,for-profit
-IWUGERMANY,https://github.com/IWUGERMANY,https://www.iwu.de,,
-GralDispersionModel,https://github.com/GralDispersionModel,,Global,community
-surfriderfoundationeurope,https://github.com/surfriderfoundationeurope,https://surfrider.eu/,France,non-profit
-InverseTampere,https://github.com/InverseTampere,https://webpages.tuni.fi/inverse/,Finland,academia
-cloudtostreet,https://github.com/cloudtostreet,https://boards.greenhouse.io/floodbase/,USA,for-profit
-batterysim,https://github.com/batterysim,https://vibe.ornl.gov/,USA,government agency
-PV-Lab,https://github.com/PV-Lab,http://pv.mit.edu,USA,academia
-AustralianAntarcticDivision,https://github.com/AustralianAntarcticDivision,https://www.antarctica.gov.au/,Australia,government agency
-LBNL-JCI-ICF,https://github.com/LBNL-JCI-ICF,,USA,collaboration
-VUB-HYDR,https://github.com/VUB-HYDR,http://www.hydr.vub.ac.be/,Belgium,academia
-genesysmod,https://git.tu-berlin.de/genesysmod,,,
-wgms,https://gitlab.com/wgms,,,
-arctic-risk,https://github.com/arctic-risk,https://arcticrisk.org,Global,academia
-mathworks,https://github.com/mathworks,https://mathworks.github.io,Global,for-profit
-energywebfoundation,https://github.com/energywebfoundation,http://energyweb.org/,Switzerland,for-profit
-BlinkTagInc,https://github.com/BlinkTagInc,https://blinktag.com,USA,for-profit
-globalbioticinteractions,https://github.com/globalbioticinteractions,http://globalbioticinteractions.org,Global,academia
-Open-Earth-Foundation,https://github.com/Open-Earth-Foundation,https://openearth.org/,USA,non-profit
-d-fine,https://github.com/d-fine,https://www.d-fine.com/,Germany,for-profit
-undpindia,https://github.com/undpindia,https://www.in.undp.org/,India,government agency
-sertit,https://github.com/sertit,https://sertit.unistra.fr/,,
-SESMG,https://github.com/SESMG,http://www.fh.ms/esym,Germany,academia
-earth-system-radiation,https://github.com/earth-system-radiation,https://earth-system-radiation.github.io/rte-rrtmgp/,Global,community
-poseidon-fisheries,https://github.com/poseidon-fisheries,https://oceanconservancy.org/sustainable-fisheries/poseidon/,USA,non-profit
-biomodhub,https://github.com/biomodhub,,,
-idaholab,https://github.com/idaholab,https://inl.gov,USA,government agency
-global-healthy-liveable-cities,https://github.com/global-healthy-liveable-cities,,,
-Geodels,https://github.com/Geodels,http://www.earthcolab.org,Australia,academia
-euroargodev,https://github.com/euroargodev,https://www.euro-argo.eu,EU,academia
-gwmod,https://github.com/gwmod,,,
-Planteome,https://github.com/Planteome,http://www.planteome.org/,,
-IndEcol,https://github.com/IndEcol,http://www.is4ie.org,Global,non-profit
-EDIorg,https://github.com/EDIorg,https://edirepository.org/,,
-BattMoTeam,https://github.com/BattMoTeam,http://www.batterymodel.com,Norway,community
-IPCC-WG1,https://github.com/IPCC-WG1,https://github.com/IPCC-WG1,Global,government agency
-EnergyInnovation,https://github.com/EnergyInnovation,https://energyinnovation.org,USA,academia
-seapath,https://github.com/seapath,,,
-coopcycle,https://github.com/coopcycle,https://coopcycle.org,France,community
-OSGP,https://github.com/OSGP,https://www.lfenergy.org/projects/gxf/,Netherlands,collaboration
-respec,https://github.com/respec,http://www.respec.com,,
-senbox-org,https://github.com/senbox-org,http://step.esa.int/main/toolboxes/snap/,,
-JRCSTU,https://github.com/JRCSTU,https://ec.europa.eu/jrc/en/about/institutes-and-directorates/jrc-iet,Italy,government agency
-marmelab,https://github.com/marmelab,http://marmelab.com,France,for-profit
-WFP-VAM,https://github.com/WFP-VAM,http://vam.wfp.org,Global,government agency
-actris-cloudnet,https://github.com/actris-cloudnet,https://cloudnet.fmi.fi/,,
-dbca-wa,https://github.com/dbca-wa,https://www.dbca.wa.gov.au/,,
-3DFin,https://github.com/3DFin,,,
-arras-energy,https://github.com/arras-energy,https://arras.energy,USA,collaboration
-GEOS-DEV,https://github.com/GEOS-DEV,https://geosx-geosx.readthedocs-hosted.com/en/latest/index.html,Global,community
-specify,https://github.com/specify,https://specifysoftware.org/,USA,academia
-NOAA-EMC,https://github.com/NOAA-EMC,http://www.emc.ncep.noaa.gov/,USA,government agency
-regen-network,https://github.com/regen-network,https://www.regen.network,USA,for-profit
-BASIN-3D,https://github.com/BASIN-3D,https://basin3d.readthedocs.io/en/stable/,Global,community
-FLARE-forecast,https://github.com/FLARE-forecast,https://flare-forecast.org/,Global,collaboration
-AntaresSimulatorTeam,https://github.com/AntaresSimulatorTeam,https://antares-simulator.org/,France,for-profit
-pydap,https://github.com/pydap,,,
-Plant-Root-Soil-Interactions-Modelling,https://github.com/Plant-Root-Soil-Interactions-Modelling,https://plant-root-soil-interactions-modelling.github.io/CRootBox/,Global,government agency
-PIK-LPJmL,https://github.com/PIK-LPJmL,,,
-frontendnetwork,https://github.com/frontendnetwork,https://frontendnet.work,Germany,for-profit
-CLIMADA-project,https://github.com/CLIMADA-project,http://www.wcr.ethz.ch,Switzerland,academia
-a-b-street,https://github.com/a-b-street,http://abstreet.org,USA,community
-nasaharvest,https://github.com/nasaharvest,https://nasaharvest.org/,USA,government agency
-mitrefireline,https://github.com/mitrefireline,http://fireline.mitre.org,,
-Klimatbyran,https://github.com/Klimatbyran,,,
-cityflow-project,https://github.com/cityflow-project,,Global,community
-STS-Rosario,https://github.com/STS-Rosario,http://www.stsrosario.org.ar/index.html,Argentina,community
-watertap-org,https://github.com/watertap-org,https://watertap-org.github.io/,,
-earthobservations,https://github.com/earthobservations,,Germany,community
-esmf-org,https://github.com/esmf-org,,Global,collaboration
-MPAS-Dev,https://github.com/MPAS-Dev,https://ncar.ucar.edu/what-we-offer/models/model-prediction-across-scales-mpas,USA,government agency
-the-clothing-loop,https://github.com/the-clothing-loop,https://www.clothingloop.org/,,
-Exawind,https://github.com/Exawind,https://nalu-wind.readthedocs.io/en/latest/,Global,community
-C4IROcean,https://github.com/C4IROcean,https://www.oceandata.earth/,,
-NMF-earth,https://github.com/NMF-earth,http://nmf.earth,Global,community
-OpenLitterMap,https://github.com/OpenLitterMap,https://openlittermap.com,Ireland,for-profit
-Ecotrust,https://github.com/Ecotrust,https://ecotrust.org,USA,non-profit
-OGGM,https://github.com/OGGM,http://www.oggm.org,Germany,non-profit
-geopm,https://github.com/geopm,https://geopm.github.io,,
-Greenstand,https://github.com/Greenstand,https://app.gitbook.com/@greenstand/s/engineering/,Global,non-profit
-ITSLeeds,https://github.com/ITSLeeds,https://environment.leeds.ac.uk/transport,UK,academia
-radis,https://github.com/radis,https://radis.github.io/,Global,community
-GridOPTICS,https://github.com/GridOPTICS,https://www.battelle.org/,USA,non-profit
-blue-marble,https://github.com/blue-marble,https://www.bluemarble.run,USA,for-profit
-FESOM,https://github.com/FESOM,https://fesom.de/,Germany,government agency
-ClimateGlobalChange,https://github.com/ClimateGlobalChange,https://climate.ucdavis.edu/tempestextremes.php,USA,academia
-TrashMob-eco,https://github.com/TrashMob-eco,http://www.trashmob.eco,USA,non-profit
-aquacropos,https://github.com/aquacropos,https://aquacropos.github.io/aquacrop/,Global,community
-sentinelsat,https://github.com/sentinelsat,,Global,community
-Open-EO,https://github.com/Open-EO,http://openeo.org/,Germany,community
-OSOceanAcoustics,https://github.com/OSOceanAcoustics,https://oalib-acoustics.org/,USA,academia
-cf-convention,https://github.com/cf-convention,http://cf-convention.github.io,Global,community
-bopen,https://github.com/bopen,https://bopen.eu,,
-metoppv,https://github.com/metoppv,,,
-Energy-Sparks,https://github.com/Energy-Sparks,https://energysparks.uk/,UK,non-profit
-airqo-platform,https://github.com/airqo-platform,http://www.airqo.net,,
-xgcm,https://github.com/xgcm,,Global,community
-amanzi,https://github.com/amanzi,http://amanzi.github.io,,
-Deltares-research,https://github.com/Deltares-research,https://www.deltares.nl/en/,,
-OpenLEADR,https://github.com/OpenLEADR,https://openleadr.org,,
-equinor,https://github.com/equinor,http://www.equinor.com,Norway,for-profit
-icesat2py,https://github.com/icesat2py,https://icepyx.readthedocs.io/en/latest/,Global,community
-sovereign-nature,https://github.com/sovereign-nature,https://sovereignnature.com,,
-neuralhydrology,https://github.com/neuralhydrology,https://neuralhydrology.github.io/,Germany,academia
-CS-SI,https://github.com/CS-SI,http://www.csgroup.eu,,
-LinkedEarth,https://github.com/LinkedEarth,http://linked.earth,USA,community
-macroenergy,https://github.com/macroenergy,https://energy.mit.edu/,USA,academia
-DOV-Vlaanderen,https://github.com/DOV-Vlaanderen,https://www.dov.vlaanderen.be,Belgium,government agency
-biocro,https://github.com/biocro,,,
-ai2cm,https://github.com/ai2cm,https://allenai.org/climate-modeling,USA,non-profit
-SpeedyWeather,https://github.com/SpeedyWeather,,,
-COSIMA,https://github.com/COSIMA,http://cosima.org.au,Australia,collaboration
-openego,https://github.com/openego,https://openegoproject.wordpress.com/,Germany,community
-RBGKew,https://github.com/RBGKew,https://www.kew.org/science/who-we-are-and-what-we-do/departments/biodiversity-informatics-and-spatial-analysis,UK,government agency
-moja-global,https://github.com/moja-global,http://moja.global,Global,collaboration
-radical-collaboration,https://github.com/radical-collaboration,,USA,academia
-USGCRP,https://github.com/USGCRP,http://www.globalchange.gov,,
-BioSTEAMDevelopmentGroup,https://github.com/BioSTEAMDevelopmentGroup,https://biosteam.readthedocs.io/en/latest/index.html,Global,community
-assume-framework,https://github.com/assume-framework,https://assume-project.de/,Germany,community
-Clay-foundation,https://github.com/Clay-foundation,,,
-r-spatialecology,https://github.com/r-spatialecology,,Global,community
-arup-group,https://github.com/arup-group,https://www.arup.com/,,
-mapme-initiative,https://github.com/mapme-initiative,https://mapme-initiative.org/,Germany,for-profit
-OceanBioME,https://github.com/OceanBioME,https://oceanbiome.github.io/OceanBioME.jl,UK,community
-brightwind-dev,https://github.com/brightwind-dev,https://www.brightwindanalysis.com/,Ireland,for-profit
-MESMER-group,https://github.com/MESMER-group,https://mesmer-emulator.readthedocs.io/en/latest/,Switzerland,academia
-dataforgoodfr,https://github.com/dataforgoodfr,http://www.dataforgood.fr,France,community
-tenstream,https://github.com/tenstream,,Germany,community
-Aalto-Electric-Drives,https://github.com/Aalto-Electric-Drives,,,
-Ozon3Org,https://github.com/Ozon3Org,,Global,community
-consbio,https://github.com/consbio,http://consbio.org,,
-riparias,https://github.com/riparias,https://riparias.be,Belgium,government agency
-natural-solutions,https://gitlab.com/natural-solutions,,,
-kW-Labs,https://github.com/kW-Labs,https://www.kw-engineering.com/,,
-OceanNetworksCanada,https://github.com/OceanNetworksCanada,http://www.oceannetworks.ca/,,
-HiDef-Aerial-Surveying,https://github.com/HiDef-Aerial-Surveying,http://hidef.bioconsult-sh.de/,UK,for-profit
-cnumr,https://github.com/cnumr,https://collectif.greenit.fr,France,non-profit
-joular,https://github.com/joular,https://www.noureddine.org/research/joular,France,academia
-switch-model,https://github.com/switch-model,http://switch-model.org,USA,community
-openEDI,https://github.com/openEDI,https://openei.org/wiki/Open_Energy_Data_Initiative_(OEDI),,
-w3c,https://github.com/w3c,https://www.w3.org/,,
-GEUS-SICE,https://github.com/GEUS-SICE,http://snow.geus.dk/,,
-permamodel,https://github.com/permamodel,https://permamodel.github.io/,USA,academia
-nmfs-fish-tools,https://github.com/nmfs-fish-tools,,,
-NCPP,https://github.com/NCPP,http://earthsystemcog.org/projects/ncpp/,Global,community
-WMD-group,https://github.com/WMD-group,https://wmd-group.github.io,UK,academia
-GlobalFishingWatch,https://github.com/GlobalFishingWatch,http://globalfishingwatch.org,USA,non-profit
-usa-npn,https://github.com/usa-npn,https://www.usanpn.org,USA,collaboration
-macroecology,https://github.com/macroecology,,,
-ECCO-GROUP,https://github.com/ECCO-GROUP,,Global,community
-BirdLifeInternational,https://github.com/BirdLifeInternational,http://www.birdlife.org,,
-responsibleproblemsolving,https://github.com/responsibleproblemsolving,,Global,community
-geodynamics,https://github.com/geodynamics,https://www.geodynamics.org/,Global,collaboration
-developmentseed,https://github.com/developmentseed,http://developmentseed.org,USA,for-profit
-acs,https://git.rwth-aachen.de/acs,,,
-epiverse-trace,https://github.com/epiverse-trace,https://epiverse.org,,
-lter,https://github.com/lter,http://www.lternet.edu,,
-rebipp,https://github.com/rebipp,https://www.rebipp.org.br,,
-AfricaBirdData,https://github.com/AfricaBirdData,,,
-iobis,https://github.com/iobis,https://obis.org,Belgium,collaboration
-Permian-Global-Research,https://github.com/Permian-Global-Research,https://permianglobal.com/,,
-sei-international,https://github.com/sei-international,http://www.sei.org/,Sweden,non-profit
-Agri-Hub,https://github.com/Agri-Hub,,Greece,academia
-sosy-lab,https://github.com/sosy-lab,https://www.sosy-lab.org,Germany,academia
-hsbay,https://github.com/hsbay,http://www.autofracture.com/opencarbon,USA,for-profit
-bioeconomy,https://gitlab.com/bioeconomy,,,
-ebird,https://github.com/ebird,https://science.ebird.org/en/status-and-trends,USA,academia
-MazamaScience,https://github.com/MazamaScience,http://mazamascience.com,,
-diw-evu,https://gitlab.com/diw-evu,,,
-isea,https://git.rwth-aachen.de/isea,,,
-SHUD-System,https://github.com/SHUD-System,https://www.shud.xyz/en/,,
-GlobalHydrologyLab,https://github.com/GlobalHydrologyLab,http://uncglobalhydrology.org,USA,academia
-IDEMSInternational,https://github.com/IDEMSInternational,https://www.idems.international/,USA,non-profit
-eco-hydro,https://github.com/eco-hydro,http://www.phenofit.top/,China,community
-us191,https://forge.ird.fr/us191,,,
-EPGOxford,https://github.com/EPGOxford,https://epg.eng.ox.ac.uk/,UK,academia
-hydro-python,https://github.com/hydro-python,,,
-Call-for-Code,https://github.com/Call-for-Code,https://developer.ibm.com/callforcode/,Global,collaboration
-hotmaps,https://gitlab.com/hotmaps,,,
-SonyCSL,https://github.com/SonyCSL,https://www.sonycsl.co.jp/,Japan,for-profit
-jrc-ldv,https://code.europa.eu/jrc-ldv,,,
-washingtonpost,https://github.com/washingtonpost,https://washpost.engineering/,USA,for-profit
-allfed,https://github.com/allfed,http://allfed.info/,,
-awst-austria,https://github.com/awst-austria,https://www.awst.at/,Austria,for-profit
-nismod,https://github.com/nismod,http://www.itrc.org.uk,,
-centrefornetzero,https://github.com/centrefornetzero,https://www.centrefornetzero.org/,,
-CIMM-ORG,https://github.com/CIMM-ORG,http://www.cimm.org,USA,non-profit
-MotusWTS,https://github.com/MotusWTS,http://www.motus.org,,
-thinkingmachines,https://github.com/thinkingmachines,https://thinkingmachin.es,,
-palma-ice,https://github.com/palma-ice,http://www.palma-ucm.es/palma-ice,Spain,community
-BETALAB-team,https://github.com/BETALAB-team,https://research.dii.unipd.it/betalab/,Italy,academia
-BIO-RSG,https://github.com/BIO-RSG,https://bio-rsg.github.io/,Canada,government agency
-TAMU-AML,https://github.com/TAMU-AML,http://aml.engr.tamu.edu,,
-ClarkCGA,https://github.com/ClarkCGA,,,
-ausocean,https://github.com/ausocean,https://www.ausocean.org,,
-Traace-co,https://github.com/Traace-co,https://traace.co,France,for-profit
-HSG-AIML,https://github.com/HSG-AIML,http://www.hsg.ai,Switzerland,academia
-NASA-DEVELOP,https://github.com/NASA-DEVELOP,https://appliedsciences.nasa.gov/nasadevelop,USA,government agency
-EarthSystemDiagnostics,https://github.com/EarthSystemDiagnostics,https://www.awi.de/en/science/geosciences/polar-terrestrial-environmental-systems/research-foci/earth-system-diagnostics.html,Germany,academia
-Etive-Mor,https://github.com/Etive-Mor,https://www.etive-mor.com/,,
-dlr-pa,https://github.com/dlr-pa,https://www.dlr.de/pa,Germany,government agency
-UI-Research,https://github.com/UI-Research,,,
-socialincome-san,https://github.com/socialincome-san,https://socialincome.org,,
-LiUSemWeb,https://github.com/LiUSemWeb,https://www.ida.liu.se/research/semanticweb/,,
-Dark-Matter-Labs,https://github.com/Dark-Matter-Labs,https://darkmatterlabs.org,,
-Imageomics,https://github.com/Imageomics,https://imageomics.osu.edu,,
-fingreen-ai,https://github.com/fingreen-ai,https://fingreen.ai,,
-AgRoMeteorologiaINTA,https://github.com/AgRoMeteorologiaINTA,,,
-VU-IVM,https://github.com/VU-IVM,https://www.ivm.vu.nl/en/index.aspx,,
+organization_user_name,organization_namespace_url,organization_website,location_country,form_of_organization,last_checked
+NOAA-GFDL,https://github.com/NOAA-GFDL,http://www.gfdl.noaa.gov,USA,government agency,
+openforis,https://github.com/openforis,http://www.openforis.org,Italy,collaboration,
+pastas,https://github.com/pastas,https://pastas.readthedocs.io/en/latest/,Global,academia,
+ropensci,https://github.com/ropensci,https://ropensci.org/,USA,non-profit,
+CliMA,https://github.com/CliMA,https://clima.caltech.edu,USA,academia,
+USEPA,https://github.com/USEPA,https://www.epa.gov,USA,government agency,
+birdnet-team,https://github.com/birdnet-team,https://www.birds.cornell.edu/home,Germany,community,2025-10-25
+carbonplan,https://github.com/carbonplan,http://carbonplan.org,Global,non-profit,
+Energy-Sparks,https://github.com/Energy-Sparks,https://energysparks.uk/,UK,non-profit,
+umr-amap,https://github.com/umr-amap,http://amap.cirad.fr,France,academia,
+mapbiomas,https://github.com/mapbiomas,http://mapbiomas.org,Brazil,collaboration,
+DOI-USGS,https://github.com/DOI-USGS,https://www.usgs.gov/,USA,government agency,
+voltbras,https://github.com/voltbras,https://voltbras.com.br/,Brazil,for-profit,
+Accenture,https://github.com/Accenture,https://accenture.github.io,Ireland,for-profit,
+LCA-ActivityBrowser,https://github.com/LCA-ActivityBrowser,https://lca-activitybrowser.github.io/activity-browser/beta.html,Netherlands,community,2025-10-25
+transportenergy,https://github.com/transportenergy,https://transportenergy.org,Global,community,
+EcoJulia,https://github.com/EcoJulia,https://ecojulia.org/,Global,community,
+datacarpentry,https://github.com/datacarpentry,https://datacarpentry.org/,USA,non-profit,
+eds-book,https://github.com/eds-book,https://edsbook.org,UK,community,
+kausaltech,https://github.com/kausaltech,https://kausal.tech,Finland,for-profit,
+BerkeleySandProject,https://github.com/BerkeleySandProject,http://www.globalpolicy.science,USA,academia,
+HabitatMap,https://github.com/HabitatMap,http://www.habitatmap.org,USA,non-profit,
+Geodels,https://github.com/Geodels,http://www.earthcolab.org,Australia,academia,
+protontypes,https://github.com/protontypes,https://protontypes.eu,Germany,community,
+aemon-j,https://github.com/aemon-j,https://aquaticdatasciopensci.github.io,Global,community,
+BirdsCanada,https://github.com/BirdsCanada,https://www.birdscanada.org,Canada,non-profit,
+xarray-contrib,https://github.com/xarray-contrib,https://xarray.dev,Global,community,
+retrofitcoop,https://gitlab.com/retrofitcoop,https://retrofit.coop,UK,community,2025-10-25
+IWUGERMANY,https://github.com/IWUGERMANY,https://www.iwu.de,Germany,government agency,
+AquaticEcoDynamics,https://github.com/AquaticEcoDynamics,http://aquatic.science.uwa.edu.au,Australia,government agency,
+ladybug-tools,https://github.com/ladybug-tools,http://ladybug.tools,Global,for-profit,
+pangeo-data,https://github.com/pangeo-data,http://pangeo.io,Global,community,
+ecmwf-projects,https://github.com/ecmwf-projects,http://www.ecmwf.int,UK,government agency,
+MTES-MCT,https://github.com/MTES-MCT,https://ecologie.gouv.fr/,France,government agency,
+TrashMob-eco,https://github.com/TrashMob-eco,http://www.trashmob.eco,USA,non-profit,
+opengeos,https://github.com/opengeos,https://opengeos.github.io,Global,community,
+os-climate,https://github.com/os-climate,http://os-climate.org,Global,collaboration,
+LibreSolar,https://github.com/LibreSolar,https://libre.solar,Germany,community,
+AdamWilsonLab,https://github.com/AdamWilsonLab,http://github.com/adamwilsonlab,USA,academia,
+atmoschem,https://github.com/atmoschem,https://atmoschem.github.io/,Global,community,
+ECSHackWeek,https://github.com/ECSHackWeek,https://www.electrochem.org/233/hack-week,Global,community,2025-10-25
+hafs-community,https://github.com/hafs-community,https://wpo.noaa.gov/the-hurricane-analysis-and-forecast-system-hafs/,USA,community,2025-10-25
+EnMAP,https://git.gfz-potsdam.de/EnMAP,https://www.enmap.org/,Germany,government agency,2025-10-25
+equinor,https://github.com/equinor,http://www.equinor.com,Norway,for-profit,
+actris-cloudnet,https://github.com/actris-cloudnet,https://cloudnet.fmi.fi/,Finland,government agency,
+blue-marble,https://github.com/blue-marble,https://www.bluemarble.run,USA,for-profit,
+shootismoke,https://github.com/shootismoke,https://shootismoke.app,Global,community,
+hydpy-dev,https://github.com/hydpy-dev,https://hydpy-dev.github.io/hydpy/,Germany,academia,
+nismod,https://github.com/nismod,http://www.itrc.org.uk,UK,academia,
+openenergymonitor,https://github.com/openenergymonitor,https://openenergymonitor.org,UK,community,
+oemof,https://github.com/oemof,https://oemof.org,Germany,non-profit,
+map,https://code.usgs.gov/map,,USA,government agency,2025-10-25
+IMMM-SFA,https://github.com/IMMM-SFA,https://im3.pnnl.gov/,USA,government agency,
+FRBCesab,https://github.com/FRBCesab,https://www.fondationbiodiversite.fr/en/about-the-foundation/le-cesab/,France,academia,
+Open-Source-Spatial-Clean-Cooking-Tool,https://github.com/Open-Source-Spatial-Clean-Cooking-Tool,https://onstove-documentation.readthedocs.io/en/latest/,Sweden,academia,2025-10-25
+Virtual-FCS,https://github.com/Virtual-FCS,http://virtual-fcs.eu,Global,collaboration,
+ncx-co,https://github.com/ncx-co,https://www.ncx.com,USA,for-profit,
+mysociety,https://github.com/mysociety,https://www.mysociety.org/,UK,non-profit,
+ideas-lab-nus,https://github.com/ideas-lab-nus,https://ideaslab.io,Singapore,academia,
+WikiWatershed,https://github.com/WikiWatershed,http://wikiwatershed.org,USA,for-profit,
+mathworks,https://github.com/mathworks,https://mathworks.github.io,Global,for-profit,
+les-enovateurs,https://github.com/les-enovateurs,https://les-enovateurs.com/,France,for-profit,
+trenchproject,https://github.com/trenchproject,https://trenchproject.com,Global,community,
+upb-lea,https://github.com/upb-lea,https://ei.uni-paderborn.de/en/lea/,Germany,academia,
+sandialabs,https://github.com/sandialabs,https://software.sandia.gov,USA,government agency,
+NREL,https://github.com/NREL,http://www.nrel.gov,USA,government agency,
+macroecology,https://github.com/macroecology,N/A,Global,community,2025-10-25
+UU-Hydro,https://github.com/UU-Hydro,http://www.globalhydrology.nl/,Netherlands,academia,
+gbif,https://github.com/gbif,https://www.gbif.org,Global,collaboration,
+badlands-model,https://github.com/badlands-model,http://www.earthcolab.org,Australia,academia,
+bcgov,https://github.com/bcgov,https://github.com/bcgov/BC-Policy-Framework-For-GitHub,Canada,government agency,
+PyPSA,https://github.com/PyPSA,http://www.pypsa.org,Global,community,
+MET-OM,https://github.com/MET-OM,https://www.met.no/,Norway,academia,
+IdahoLabResearch,https://github.com/IdahoLabResearch,https://inl.gov/,USA,government agency,
+worldbank,https://github.com/worldbank,https://www.worldbank.org/ext/en/home,Global,government agency,2025-10-25
+Gromopo,https://github.com/Gromopo,,Australia,community,2025-10-25
+bird-house,https://github.com/bird-house,http://bird-house.github.io/,Global,collaboration,
+iiasa,https://github.com/iiasa,https://www.iiasa.ac.at,Austria,academia,
+CCSI-Toolset,https://github.com/CCSI-Toolset,https://www.acceleratecarboncapture.org/,Global,collaboration,
+sesit,https://gitlab.com/sesit,https://sesit.cive.uvic.ca/,Canada,academia,2025-10-25
+ml-energy,https://github.com/ml-energy,https://ml.energy,USA,academia,
+brightway-lca,https://github.com/brightway-lca,https://docs.brightway.dev/,Global,community,
+cnumr,https://github.com/cnumr,https://collectif.greenit.fr,France,non-profit,
+IQuOD,https://github.com/IQuOD,https://www.iquod.org/,Global,collaboration,
+slacgismo,https://github.com/slacgismo,https://gismo.slac.stanford.edu/,USA,academia,
+rOpenGov,https://github.com/rOpenGov,http://ropengov.org,Global,community,
+ecmwf-ifs,https://github.com/ecmwf-ifs,https://www.ecmwf.int,Europe,government agency,
+GFDRR,https://github.com/GFDRR,https://www.gfdrr.org/en,Global,government agency,
+CMLPlatform,https://github.com/CMLPlatform,https://www.universiteitleiden.nl/en/science/environmental-sciences/research,Netherlands,academia,
+forestgeo,https://github.com/forestgeo,http://www.forestgeo.si.edu/,Panama,academia,
+dataforgoodfr,https://github.com/dataforgoodfr,http://www.dataforgood.fr,France,community,
+ARPA-SIMC,https://github.com/ARPA-SIMC,https://www.arpae.it/it/temi-ambientali/meteo/cosa-fa-arpae-meteo,Italy,for-profit,
+EcoForecast,https://github.com/EcoForecast,ecoforecast.org,Global,community,
+ecmwf-training,https://github.com/ecmwf-training,ecmwf.int,Europe,government agency,
+MeteoSwiss,https://github.com/MeteoSwiss,https://www.meteoswiss.ch,Switzerland,government agency,
+KTH-dESA,https://github.com/KTH-dESA,https://www.energy.kth.se/research/energy-systems,Sweden,academia,
+EnergieID,https://github.com/EnergieID,http://www.energieid.be,Belgium,collaboration,
+OpenDrift,https://github.com/OpenDrift,https://opendrift.github.io/,Global,community,
+ConservationInternational,https://github.com/ConservationInternational,https://www.conservation.org/,Global,non-profit,
+softwareunderground,https://github.com/softwareunderground,https://softwareunderground.org,Canada,non-profit,
+nsidc,https://github.com/nsidc,http://www.nsidc.org/,USA,government agency,
+carbon-intensity,https://github.com/carbon-intensity,http://carbonintensity.org.uk/,UK,collaboration,
+zae-bayern,https://github.com/zae-bayern,https://www.zae-bayern.de,Germany,non-profit,
+NREL-Sienna,https://github.com/NREL-Sienna,https://www.nrel.gov/analysis/sienna.html,USA,government agency,
+NumericalMathematics,https://github.com/NumericalMathematics,,Germany,academia,
+UMEP-dev,https://github.com/UMEP-dev,https://umep-docs.readthedocs.io/en/latest/,Global,community,
+e-sensing,https://github.com/e-sensing,http://www.esensing.org,Brazil,academia,
+KIT-HYD,https://github.com/KIT-HYD,https://hyd.iwg.kit.edu/english/index.php,Germany,academia,
+GEUS-Glaciology-and-Climate,https://github.com/GEUS-Glaciology-and-Climate,https://eng.geus.dk/about/organisation/departments/glaciology-and-climate,Denmark,academia,
+open-energy-transition,https://github.com/open-energy-transition,openenergytransition.org,Berlin,non-profit,
+ECMWFCode4Earth,https://github.com/ECMWFCode4Earth,https://codeforearth.ecmwf.int,Global,government agency,
+coralnet,https://github.com/coralnet,https://coralnet.ucsd.edu/,USA,academia,
+OnSSET,https://github.com/OnSSET,http://www.onsset.org,Sweden,academia,
+gridfm,https://github.com/gridfm,gridfm.org,,community,
+PREP-NexT,https://github.com/PREP-NexT,https://prep-next.github.io/PREP-SHOT/,Singapore,academia,
+OpenLitterMap,https://github.com/OpenLitterMap,https://openlittermap.com,Ireland,for-profit,
+sustainlab-group,https://github.com/sustainlab-group,https://sustain.stanford.edu/,USA,academia,
+isric,https://git.wur.nl/isric,isric.org,Netherlands,academia,
+team-ocean,https://github.com/team-ocean,https://www.nbi.ku.dk/english/research/pice/oceanography/,Denmark,academia,
+Energinet-DataHub,https://github.com/Energinet-DataHub,https://energinet.dk/,Denmark,government agency,
+chihacknight,https://github.com/chihacknight,http://chihacknight.org/,USA,non-profit,
+VolpeUSDOT,https://github.com/VolpeUSDOT,https://www.volpe.dot.gov/,USA,government agency,
+GoogleCloudPlatform,https://github.com/GoogleCloudPlatform,https://cloud.google.com,USA,for-profit,
+climatepolicyradar,https://github.com/climatepolicyradar,http://climatepolicyradar.org,UK,non-profit,
+Azure,https://github.com/Azure,https://docs.microsoft.com/en-us/azure/,USA,for-profit,
+EnviroDIY,https://github.com/EnviroDIY,http://envirodiy.org/,USA,non-profit,
+EURAC-EEBgroup,https://github.com/EURAC-EEBgroup,http://www.eurac.edu/en/research/technologies/renewableenergy/researchfields/Pages/Energy-management-in-buildings.aspx,Italy,for-profit,
+Deltares,https://github.com/Deltares,https://www.deltares.nl/en/,Netherlands,academia,
+bluegreen-labs,https://github.com/bluegreen-labs,http://bluegreenlabs.org,Belgium,academia,
+FoodOntology,https://github.com/FoodOntology,http://foodon.org,Global,community,
+powsybl,https://github.com/powsybl,https://www.powsybl.org,Global,collaboration,
+ACCESS-NRI,https://github.com/ACCESS-NRI,https://www.access-nri.org.au/,Australia,collaboration,
+weecology,https://github.com/weecology,http://weecology.org,USA,academia,
+h5netcdf,https://github.com/h5netcdf,https://h5netcdf.org/,Global,community,
+UMR-CNRM,https://github.com/UMR-CNRM,http://www.umr-cnrm.fr,France,government agency,
+WildEyeConservation,https://github.com/WildEyeConservation,https://wildeyeconservation.org/,South Africa,community,
+openoakland,https://github.com/openoakland,http://openoakland.org,USA,non-profit,
+gfbio,https://github.com/gfbio,https://www.gfbio.org/,German,collaboration,
+SchmidtDSE,https://github.com/SchmidtDSE,https://dse.berkeley.edu/,USA,academia,
+OpenSimHub,https://github.com/OpenSimHub,https://opensimhub.org,Norway,academia,
+landlab,https://github.com/landlab,http://landlab.github.io,USA,academia,
+google-research,https://github.com/google-research,https://research.google,USA,for-profit,
+permamodel,https://github.com/permamodel,https://permamodel.github.io/,USA,academia,
+SwolfPy-Project,https://github.com/SwolfPy-Project,http://swolfpy-project.github.io/,USA,academia,
+openscm,https://github.com/openscm,https://www.climate-resource.com/,Global,community,
+incubateur-ademe,https://github.com/incubateur-ademe,http://incubateur-ademe.beta.gouv.fr,Frace,government agency,
+codeforboston,https://github.com/codeforboston,https://www.codeforboston.org,USA,non-profit,
+dsmrreader,https://github.com/dsmrreader,https://dsmr-reader.readthedocs.io,Netherlands,community,
+ichthyop,https://github.com/ichthyop,http://www.ichthyop.org/,Global,community,
+ie3-institute,https://github.com/ie3-institute,https://ie3.etit.tu-dortmund.de/,Germany,academia,
+watertap-org,https://github.com/watertap-org,https://watertap-org.github.io/,USA,government agency,
+PV-Tutorials,https://github.com/PV-Tutorials,http://pv-tutorials.github.io,USA,community,
+matplotlib,https://github.com/matplotlib,https://matplotlib.org,Global,community,
+MobilityData,https://github.com/MobilityData,https://mobilitydata.org/,Global,collaboration,
+ECCC-ASTD-MRD,https://github.com/ECCC-ASTD-MRD,http://collaboration.cmc.ec.gc.ca/science/si/,Canada,academia,
+openENTRANCE,https://github.com/openENTRANCE,https://openentrance.eu,Global,collaboration,
+opentaps,https://github.com/opentaps,https://www.opensourcestrategies.com/,USA,for-profit,
+metoppv,https://github.com/metoppv,https://improver.readthedocs.io/en/latest/,UK,collaboration,
+ss3sim,https://github.com/ss3sim,https://ss3sim.github.io/ss3sim/,USA,government agency,
+Unidata,https://github.com/Unidata,https://www.unidata.ucar.edu/,USA,academia,
+CEA-Liten,https://github.com/CEA-Liten,https://liten.cea.fr/cea-tech/liten/english/Pages/Welcome.aspx,France,government agency,
+ncss-tech,https://github.com/ncss-tech,http://ncss-tech.github.io/AQP/,USA,collaboration,
+sunpeek,https://gitlab.com/sunpeek,sunpeek.org,Austria,for-profit,
+DigitalPebble,https://github.com/DigitalPebble,http://www.digitalpebble.com,UK,non-profit,
+Ingenjorsarbete-For-Klimatet,https://github.com/Ingenjorsarbete-For-Klimatet,https://www.ingenjorsarbeteforklimatet.se,Sweden,community,
+Orion-AI-Lab,https://github.com/Orion-AI-Lab,http://orionlab.space.noa.gr/,Greece,government agency,
+CU-ESIIL,https://github.com/CU-ESIIL,http://esiil.org,USA,government agency,
+moiexpositoalonsolab,https://github.com/moiexpositoalonsolab,http://www.moisesexpositoalonso.org/team,USA,academia,
+gmdsi,https://github.com/gmdsi,gmdsi.org,South Australia,academia,
+pik-copan,https://github.com/pik-copan,https://www.pik-potsdam.de/copan,Germany,non-profit,
+sinnwerkstatt,https://github.com/sinnwerkstatt,http://sinnwerkstatt.com/,Germany,for-profit,
+CLIMADA-project,https://github.com/CLIMADA-project,http://www.wcr.ethz.ch,Switzerland,academia,
+nansencenter,https://github.com/nansencenter,http://www.nersc.no,Norway,non-profit,
+lbl-srg,https://github.com/lbl-srg,https://buildings.lbl.gov/modeling-simulation,USA,government agency,
+mosaik,https://gitlab.com/mosaik,mosaik.offis.de,Germany,non-profit,
+Power-Systems-Optimization-Course,https://github.com/Power-Systems-Optimization-Course,N/A,USA,government agency,
+coecms,https://github.com/coecms,http://climate-cms.unsw.wikispaces.net,Australia,government agency,
+data-mermaid,https://github.com/data-mermaid,https://datamermaid.org,Global,collaboration,
+OpenTreeOfLife,https://github.com/OpenTreeOfLife,http://opentreeoflife.github.io/,USA,academia,
+waiwera,https://github.com/waiwera,https://waiwera.github.io/,New Zealand,academia,
+thinkingmachines,https://github.com/thinkingmachines,https://thinkingmachin.es,Singapore,for-profit,
+podaac,https://github.com/podaac,http://podaac.jpl.nasa.gov,USA,government agency,
+openmeteo,https://github.com/openmeteo,open-meteo.com,Global,academia,
+spine-tools,https://github.com/spine-tools,http://www.spine-model.org/,Finland,collaboration,
+Green-Software-Foundation,https://github.com/Green-Software-Foundation,https://greensoftware.foundation,USA,non-profit,
+Imageomics,https://github.com/Imageomics,https://imageomics.osu.edu,USA,academia,
+OceanNetworksCanada,https://github.com/OceanNetworksCanada,http://www.oceannetworks.ca/,Canada,collaboration,
+holoviz-topics,https://github.com/holoviz-topics,http://holoviz.org,Global,community,
+OceanographyforEveryone,https://github.com/OceanographyforEveryone,oceanographyforeveryone.com,Global,community,
+wildflowai,https://github.com/wildflowai,https://wildflow.ai,Global,community,
+Etive-Mor,https://github.com/Etive-Mor,https://www.etive-mor.com/,UK,for-profit,
+thermotools,https://github.com/thermotools,,Norway,for-profit,
+EMRG-SFU,https://github.com/EMRG-SFU,N/A,Canada,academia,
+centre-for-ai-and-climate,https://github.com/centre-for-ai-and-climate,https://www.c-ai-c.org/,London,for-profit,
+nasaharvest,https://github.com/nasaharvest,https://nasaharvest.org/,USA,government agency,
+eMapR,https://github.com/eMapR,http://emapr.ceoas.oregonstate.edu/,USA,academia,
+undpindia,https://github.com/undpindia,https://www.in.undp.org/,India,government agency,
+brightbandtech,https://github.com/brightbandtech,http://brightband.com,,for-profit,
+UI-Research,https://github.com/UI-Research,urban.org,USA,academia,
+ibpsa,https://github.com/ibpsa,http://www.ibpsa.org,Global,collaboration,
+csiro-hydroinformatics,https://github.com/csiro-hydroinformatics,https://csiro-hydroinformatics.github.io/streamflow-forecasting-tools-onboard/,USA,community,
+offgridai-us,https://github.com/offgridai-us,https://www.offgridai.us,USA,community,
+FZJ-IEK3-VSA,https://github.com/FZJ-IEK3-VSA,https://www.fz-juelich.de/iek/iek-3/EN/Home/home_node.html,Germany,government agency,
+SciTools,https://github.com/SciTools,https://scitools.org.uk/,UK,government agency,
+HFAiLab,https://github.com/HFAiLab,https://www.high-flyer.cn/,China,for-profit,
+Servir-Mekong,https://github.com/Servir-Mekong,http://servir.adpc.net,Thailand,collaboration,
+IEC-61400-15,https://github.com/IEC-61400-15,N/A,Global,community,
+palma-ice,https://github.com/palma-ice,http://www.palma-ucm.es/palma-ice,Spain,community,
+earth-mover,https://github.com/earth-mover,https://earthmover.io/,USA,for-profit,
+lheea,https://gitlab.com/lheea,lheea.ec-nantes.fr,France,academia,
+FloatingArrayDesign,https://github.com/FloatingArrayDesign,N/A,USA,government agency,
+CityRiverSpaces,https://github.com/CityRiverSpaces,N/A,Global,community,
+NOAA-OWP,https://github.com/NOAA-OWP,https://water.noaa.gov/,USA,government agency,
+transitland,https://github.com/transitland,https://www.transit.land,USA,for-profit,
+bioenergy-research-centers,https://github.com/bioenergy-research-centers,bioenergy.org,Global,academia,
+kW-Labs,https://github.com/kW-Labs,https://www.kw-engineering.com/,USA,for-profit,
+mlco2,https://github.com/mlco2,https://codecarbon.io,Global,community,
+pvlib,https://github.com/pvlib,https://pvlib-python.readthedocs.io/en/stable/,Global,community,
+Model-for-Analysis-of-Energy-Demand,https://github.com/Model-for-Analysis-of-Energy-Demand,N/A,Global,community,
+Climdyn,https://github.com/Climdyn,http://climdyn.meteo.be,Belgium,government agency,
+foodsharing-dev,https://gitlab.com/foodsharing-dev,foodsharing.de,Global,community,
+WAM2layers,https://github.com/WAM2layers,wam2layers.readthedocs.io,Global,collaboration,
+GreenDelta,https://github.com/GreenDelta,https://www.greendelta.com/,Germany,for-profit,
+NOAA-EMC,https://github.com/NOAA-EMC,http://www.emc.ncep.noaa.gov/,USA,government agency,
+e-mission,https://github.com/e-mission,https://nrel.gov/openpath,USA,government agency,
+USGS-CMG,https://github.com/USGS-CMG,http://marine.usgs.gov,USA,government agency,
+wallaceEcoMod,https://github.com/wallaceEcoMod,http://wallaceecomod.github.io,Global,community,
+powerapi-ng,https://github.com/powerapi-ng,http://powerapi.org,France,academia,
+pmlmodelling,https://github.com/pmlmodelling,https://pml.ac.uk/science/Marine-Systems-Modelling,UK,non-profit,
+hubblo-org,https://github.com/hubblo-org,https://hubblo.org,France,community,
+CliDyn,https://github.com/CliDyn,https://www.awi.de/en/science/climate-sciences/climate-dynamics.html,Germany,government agency,
+RWTH-EBC,https://github.com/RWTH-EBC,http://www.ebc.eonerc.rwth-aachen.de/,Germany,academia,
+acs,https://git.rwth-aachen.de/acs,acs.org,Germany,academia,
+ccew-unibw,https://github.com/ccew-unibw,https://www.unibw.de/ciss-en/ccew,Germany,academia,
+energyPATHWAYS,https://github.com/energyPATHWAYS,https://www.evolved.energy/,USA,for-profit,
+OpenWaterAnalytics,https://github.com/OpenWaterAnalytics,http://wateranalytics.org,Global,community,
+eWaterCycle,https://github.com/eWaterCycle,http://www.ewatercycle.org,Netherlands,academia,
+lf-energy,https://github.com/lf-energy,https://lfenergy.org,Global,collaboration,
+conservationtechlab,https://github.com/conservationtechlab,https://science.sandiegozoo.org/,USA,non-profit,
+NorESMhub,https://github.com/NorESMhub,https://NorESM-docs.readthedocs.io/en/latest,Norway,collaboration,
+climlab,https://github.com/climlab,https://climlab.readthedocs.io/en/latest/intro.html,USA,academia,
+lanl,https://github.com/lanl,https://www.lanl.gov/,USA,government agency,
+RemoteSensingTools,https://github.com/RemoteSensingTools,https://remotesensingtools.github.io/vSmartMOM.jl/,Global,community,
+SERVIR,https://github.com/SERVIR,https://www.servirglobal.net/,Global,collaboration,
+TEOS-10,https://github.com/TEOS-10,http://www.TEOS-10.org,Global,academia,
+SERVIR-WA,https://github.com/SERVIR-WA,servir.icrisat.org,Mali,collaboration,
+PCMDI,https://github.com/PCMDI,http://pcmdi.llnl.gov,USA,government agency,
+3dgeo-heidelberg,https://github.com/3dgeo-heidelberg,https://uni-heidelberg.de/3dgeo,Germany,academia,
+JuliaClimate,https://github.com/JuliaClimate,https://juliaclimate.org/,Global,community,
+MITgcm,https://github.com/MITgcm,http://mitgcm.org/,USA,academia,
+edgi-govdata-archiving,https://github.com/edgi-govdata-archiving,http://www.envirodatagov.org,USA,non-profit,
+HSG-AIML,https://github.com/HSG-AIML,http://www.hsg.ai,Switzerland,academia,
+datadesk,https://github.com/datadesk,https://www.latimes.com,USA,for-profit,
+specify,https://github.com/specify,https://specifysoftware.org/,USA,academia,
+tbep-tech,https://github.com/tbep-tech,https://tbep-tech.github.io/,USA,government agency,
+VILLASframework,https://github.com/VILLASframework,https://fein-aachen.org/projects/villas-framework/,Germany,academia,
+volkszaehler,https://github.com/volkszaehler,https://volkszaehler.org,Germany,community,
+protect-earth,https://github.com/protect-earth,https://protect.earth,UK,non-profit,
+TAMU-AML,https://github.com/TAMU-AML,http://aml.engr.tamu.edu,USA,academia,
+IndEcol,https://github.com/IndEcol,http://www.is4ie.org,Global,non-profit,
+RMI-PACTA,https://github.com/RMI-PACTA,https://pacta.rmi.org/,Germany,non-profit,
+geocompx,https://github.com/geocompx,https://geocompx.org/,Global,community,
+smart-data-models,https://github.com/smart-data-models,https://smartdatamodels.org,Global,collaboration,
+com-pas,https://github.com/com-pas,https://www.lfenergy.org/all-projects/compas/,Global,collaboration,
+solectrus,https://github.com/solectrus,https://solectrus.de,Germany,for-profit,
+EnvironmentOntology,https://github.com/EnvironmentOntology,http://www.environmentontology.org,Global,academia,
+sede-open,https://github.com/sede-open,https://www.shell.com/about-us/contact-us.html,UK,for-profit,
+fishR-Core-Team,https://github.com/fishR-Core-Team,https://fishr-core-team.github.io/RFishBC/,USA,academia,
+ReflectiveEarth,https://github.com/ReflectiveEarth,https://reflectiveearth.org,Global,non-profit,
+MfN-Berlin,https://github.com/MfN-Berlin,https://www.naturkundemuseum.berlin,Germany,academia,
+CCI-Tools,https://github.com/CCI-Tools,https://climate.esa.int/en/explore/analyse-climate-data/,UK,government agency,
+openaq,https://github.com/openaq,https://openaq.org,Global,non-profit,
+arctic-risk,https://github.com/arctic-risk,https://arcticrisk.org,Global,academia,
+senbox-org,https://github.com/senbox-org,http://step.esa.int/main/toolboxes/snap/,EU,government agency,
+NOAA-PMEL,https://github.com/NOAA-PMEL,http://www.pmel.noaa.gov,USA,academia,
+ucam-eo,https://github.com/ucam-eo,https://eo.conservation.cam.ac.uk,UK,academia,
+WHOIGit,https://github.com/WHOIGit,http://www.whoi.edu,USA,non-profit,
+buds-lab,https://github.com/buds-lab,http://www.budslab.org,Singapore,academia,
+transition-zero,https://github.com/transition-zero,https://www.transitionzero.org/,UK,non-profit,
+SWOT-community,https://github.com/SWOT-community,N/A,USA,government agency,
+NRCan,https://github.com/NRCan,https://natural-resources.canada.ca/,Canada,government agency,
+earthlab,https://github.com/earthlab,https://www.earthdatascience.org/,USA,academia,
+google,https://github.com/google,https://opensource.google/,USA,for-profit,
+OpenEMS,https://github.com/OpenEMS,http://openems.io,Germany,non-profit,
+ClimateMARGO,https://github.com/ClimateMARGO,climatemargo.github.io/ClimateMARGO.jl/dev/,Global,academia,
+ICOS-Carbon-Portal,https://github.com/ICOS-Carbon-Portal,https://www.icos-cp.eu,Sweden,government agency,
+pledge4future,https://github.com/pledge4future,pledge4future.org,Germany,community,
+WISDEM,https://github.com/WISDEM,https://www.nrel.gov/wind/systems-engineering.html,USA,government agency,
+wavespectra,https://github.com/wavespectra,https://wavespectra.readthedocs.io/en/latest/,Global,community,
+cerfacs-globc,https://github.com/cerfacs-globc,https://www.cerfacs.fr/,France,collaboration,
+NGEET,https://github.com/NGEET,http://ngee-tropics.lbl.gov/,USA,government agency,
+open-data-rescue,https://github.com/open-data-rescue,https://citsci.geog.mcgill.ca/,Canada,community,
+SlideRuleEarth,https://github.com/SlideRuleEarth,https://slideruleearth.io/,USA,collaboration,
+tum-ens,https://github.com/tum-ens,http://www.ens.ei.tum.de,Germany,academia,
+pism,https://github.com/pism,https://www.pism.io/,USA,academia,
+WEC-Sim,https://github.com/WEC-Sim,http://wec-sim.github.io/WEC-Sim/,USA,government agency,
+NINAnor,https://github.com/NINAnor,http://www.nina.no,Norway,non-profit,
+Plant-for-the-Planet-org,https://github.com/Plant-for-the-Planet-org,https://www.plant-for-the-planet.org,Germany,non-profit,
+AI4S2S,https://github.com/AI4S2S,N/A,Global,community,
+gem,https://github.com/gem,http://www.globalquakemodel.org,Italy,non-profit,
+mit-jp,https://github.com/mit-jp,http://globalchange.mit.edu,USA,academia,
+cedadev,https://github.com/cedadev,http://www.ceda.ac.uk,UK,academia,
+wimlds-trojmiasto,https://github.com/wimlds-trojmiasto,wimlds.org,Global,for-profit,
+germinateplatform,https://github.com/germinateplatform,https://ics.hutton.ac.uk/get-germinate,UK,non-profit,
+xoceanmodel,https://github.com/xoceanmodel,https://xroms.readthedocs.io/en/latest/,Global,community,
+Smithsonian,https://github.com/Smithsonian,https://si.edu/,USA,government agency,
+IUCNN,https://github.com/IUCNN,iucn.org,Global,community,
+ESCOMP,https://github.com/ESCOMP,https://escomp.github.io/,Global,collaboration,
+PV-Lab,https://github.com/PV-Lab,http://pv.mit.edu,USA,academia,
+CliMT,https://github.com/CliMT,https://climt.readthedocs.io/en/latest/,Global,community,
+atmoswing,https://github.com/atmoswing,http://www.atmoswing.org,Switzerland,community,
+cozy,https://github.com/cozy,https://cozy.io,France,for-profit,
+HIT2GAP-EU-PROJECT,https://github.com/HIT2GAP-EU-PROJECT,http://www.hit2gap.eu/,France,for-profit,
+BattMoTeam,https://github.com/BattMoTeam,http://www.batterymodel.com,Norway,community,
+pyronear,https://github.com/pyronear,https://pyronear.org/,France,non-profit,
+meirim-org,https://github.com/meirim-org,http://www.meirim.org,Israel,community,
+lanl-ansi,https://github.com/lanl-ansi,https://lanl-ansi.github.io/,USA,government agency,
+NCC-CNC,https://github.com/NCC-CNC,natureconservancy.ca,Canada,non-profit,
+tetratech,https://github.com/tetratech,tetratech.com,USA,for-profit,
+OHI-Science,https://github.com/OHI-Science,http://ohi-science.org/,USA,collaboration,
+ESMG,https://github.com/ESMG,https://www.myroms.org/,Canada,academia,
+RAMP-project,https://github.com/RAMP-project,https://rampdemand.org/,Global,community,
+OpenSTEF,https://github.com/OpenSTEF,https://wiki.lfenergy.org/display/HOME/OpenSTEF,Netherlands,for-profit,
+USDA-VS,https://github.com/USDA-VS,usda.gov,USA,government agency,
+kLabUM,https://github.com/kLabUM,N/A,USA,collaboration,
+opendsm,https://github.com/opendsm,https://lfenergy.org/projects/opendsm/,Global,collaboration,
+gridsingularity,https://github.com/gridsingularity,https://gridsingularity.com/,Germany,for-profit,
+ait-energy,https://github.com/ait-energy,https://ait.ac.at,Germany,for-profit,
+dbca-wa,https://github.com/dbca-wa,https://www.dbca.wa.gov.au/,Australia,government agency,
+smrt-model,https://github.com/smrt-model,https://www.smrt-model.science/,Global,community,
+PlanktonTeam,https://github.com/PlanktonTeam,N/A,Australia,collaboration,
+Greenstand,https://github.com/Greenstand,https://app.gitbook.com/@greenstand/s/engineering/,Global,non-profit,
+PnX-SI,https://github.com/PnX-SI,https://www.parcsnationaux.fr/fr,France,government agency,
+CornellLabofOrnithology,https://github.com/CornellLabofOrnithology,http://www.birds.cornell.edu,USA,academia,
+cyclestreets,https://github.com/cyclestreets,https://www.cyclestreets.org/,UK,non-profit,
+Critical-Infrastructure-Systems-Lab,https://github.com/Critical-Infrastructure-Systems-Lab,https://people.sutd.edu.sg/~stefano_galelli/,USA,academia,
+mom-ocean,https://github.com/mom-ocean,https://mom-ocean.github.io,Global,community,
+SonyCSL,https://github.com/SonyCSL,https://www.sonycsl.co.jp/,Japan,for-profit,
+OpenEnergyDashboard,https://github.com/OpenEnergyDashboard,https://openenergydashboard.github.io/,Global,community,
+AtlasOfLivingAustralia,https://github.com/AtlasOfLivingAustralia,https://www.ala.org.au,Australia,government agency,
+nasa,https://github.com/nasa,https://github.com/nasa/nasa.github.io/blob/master/docs/INSTRUCTIONS.md,USA,government agency,
+climate-service-center,https://github.com/climate-service-center,http://www.gerics.de,Germany,academia,
+traitecoevo,https://github.com/traitecoevo,https://traitecoevo.github.io/plant/,Australia,community,
+Open-Power-System-Data,https://github.com/Open-Power-System-Data,http://open-power-system-data.org/,Global,collaboration,
+red-list-ecosystem,https://github.com/red-list-ecosystem,http://iucnrle.org/,Australia,non-profit,
+Ouranosinc,https://github.com/Ouranosinc,http://www.ouranos.ca,Canada,non-profit,
+AgroCares,https://github.com/AgroCares,https://grasplan.nl/,Netherlands,community,
+OpenFAST,https://github.com/OpenFAST,https://openfast.readthedocs.io,USA,government agency,
+Envirometrix,https://github.com/Envirometrix,http://envirometrix.net,Netherlands,for-profit,
+openmethane,https://github.com/openmethane,https://openmethane.org,Australia,for-profit,
+metno,https://github.com/metno,https://www.met.no,Norway,government agency,
+IEA-Task-43,https://github.com/IEA-Task-43,http://www.ieawindtask43.org,Global,collaboration,
+EDF-Lab,https://github.com/EDF-Lab,https://www.edf.fr/en/the-edf-group/inventing-the-future-of-energy/r-d-global-expertise,France,for-profit,
+RMI,https://github.com/RMI,https://rmi.org/,USA,non-profit,
+ScienceBasedTargets,https://github.com/ScienceBasedTargets,https://sciencebasedtargets.org/,Global,collaboration,
+wgms,https://gitlab.com/wgms,wgms.ch,Switzerland,collaboration,
+coopcycle,https://github.com/coopcycle,https://coopcycle.org,France,community,
+Sen2Agri,https://github.com/Sen2Agri,http://www.esa-sen2agri.org/,Global,collaboration,
+geoschem,https://github.com/geoschem,http://www.geos-chem.org,Global,academia,
+ausocean,https://github.com/ausocean,https://www.ausocean.org,Australia,collaboration,
+geco-bern,https://github.com/geco-bern,http://geco-group.org,Switzerland,academia,
+spatialmodel,https://github.com/spatialmodel,https://inmap.run/,Global,community,
+pybamm-team,https://github.com/pybamm-team,https://www.pybamm.org/,USA,community,
+AssessingSolar,https://github.com/AssessingSolar,http://assessingsolar.org,Global,community,
+DataBytes-Organisation,https://github.com/DataBytes-Organisation,deakin.edu.au,Australia,academia,
+VUB-HYDR,https://github.com/VUB-HYDR,http://www.hydr.vub.ac.be/,Belgium,academia,
+primap-community,https://github.com/primap-community,primap.org,Germany,collaboration,
+usa-npn,https://github.com/usa-npn,https://www.usanpn.org,USA,collaboration,
+openCEMorg,https://github.com/openCEMorg,N/A,Australia,academia,
+noaa-oar-arl,https://github.com/noaa-oar-arl,https://www.arl.noaa.gov,USA,government agency,
+WildlifeDatasets,https://github.com/WildlifeDatasets,https://wildlifedatasets.github.io/wildlife-datasets/,Global,community,
+MotusWTS,https://github.com/MotusWTS,http://www.motus.org,Canada,non-profit,
+usds,https://github.com/usds,https://www.usds.gov,USA,government agency,
+modflowpy,https://github.com/modflowpy,https://flopy.readthedocs.io/en/stable/,USA,government agency,
+bopen,https://github.com/bopen,https://bopen.eu,Italy,for-profit,
+space-physics,https://github.com/space-physics,N/A,Global,community,
+geocryology,https://github.com/geocryology,http://www.carleton.ca/permafrost,Canada,academia,
+ESMValGroup,https://github.com/ESMValGroup,https://www.esmvaltool.org,Germany,government agency,
+Ecotrust,https://github.com/Ecotrust,https://ecotrust.org,USA,non-profit,
+rte-antares-rpackage,https://github.com/rte-antares-rpackage,https://rte-antares-rpackage.github.io/rPackagesRte/,Global,community,
+TheOceanCleanupAlgorithms,https://github.com/TheOceanCleanupAlgorithms,https://theoceancleanup.com,Netherlands,non-profit,
+instrat-pl,https://github.com/instrat-pl,http://www.instrat.pl,Poland,for-profit,
+roocs,https://github.com/roocs,https://www.ukri.org/councils/stfc/,UK,academia,
+kitzeslab,https://github.com/kitzeslab,kitzeslab.org,USA,academia,
+PredictiveEcology,https://github.com/PredictiveEcology,https://PredictiveEcology.org,Canada,community,
+e2nIEE,https://github.com/e2nIEE,http://www.pandapower.org/,Germany,academia,
+ugr-sail,https://github.com/ugr-sail,http://sail.ugr.es,Spain,academia,
+r-earthengine,https://github.com/r-earthengine,N/A,Global,community,
+WAVI-ice-sheet-model,https://github.com/WAVI-ice-sheet-model,https://wavi-ice-sheet-model.github.io/WAVI-website/,UK,community,
+hydro-python,https://github.com/hydro-python,https://pypi.org/project/Hydro/,Global,community,
+sentinel-hub,https://github.com/sentinel-hub,https://www.sentinel-hub.com,Slovenia,for-profit,
+cloudtostreet,https://github.com/cloudtostreet,https://boards.greenhouse.io/floodbase/,USA,for-profit,
+calliope-project,https://github.com/calliope-project,https://www.callio.pe/,Global,community,
+openclimatefix-archives,https://github.com/openclimatefix-archives,https://openclimatefix.org,UK,non-profit,
+AgriculturalModelExchangeInitiative,https://github.com/AgriculturalModelExchangeInitiative,https://crop2ml.org/AMEI/Vision,Global,collaboration,
+IPCC-WG1,https://github.com/IPCC-WG1,https://github.com/IPCC-WG1,Global,government agency,
+icon,https://gitlab.dkrz.de/icon,https://www.dkrz.de/,Germany,for-profit,
+steve-community,https://github.com/steve-community,N/A,Germany,community,
+FluvialGeomorph,https://github.com/FluvialGeomorph,N/A,USA,community,
+OpenSourceFellows,https://github.com/OpenSourceFellows,https://www.programequity.com,USA,non-profit,
+thegreenwebfoundation,https://github.com/thegreenwebfoundation,https://www.thegreenwebfoundation.org,Netherlands,non-profit,
+SalishSeaCast,https://github.com/SalishSeaCast,https://salishsea.eos.ubc.ca/,Canada,academia,
+gnames,https://github.com/gnames,https://finder.globalnames.org/,Global,community,
+environmental-modeling-workflows,https://github.com/environmental-modeling-workflows,https://environmental-modeling-workflows.github.io/watershed-workflow/stable/intro.html,USA,non-profit,
+emf-creaf,https://github.com/emf-creaf,https://emf.creaf.cat/,Spain,academia,
+usetania,https://github.com/usetania,https://usetania.org,Global,community,
+systragroup,https://github.com/systragroup,https://www.systra.com,Global,for-profit,
+poissonconsulting,https://github.com/poissonconsulting,http://www.poissonconsulting.ca,Canada,for-profit,
+KIOS-Research,https://github.com/KIOS-Research,http://www.kios.ucy.ac.cy,Cyprus,academia,
+LBL-EESA,https://github.com/LBL-EESA,http://eesa.lbl.gov/,USA,government agency,
+OSUKED,https://github.com/OSUKED,https://osuked.com/,UK,community,
+LBNL-UCB-STI,https://github.com/LBNL-UCB-STI,https://transportation.lbl.gov/,USA,government agency,
+terraware,https://github.com/terraware,https://terraformation.com,USA,for-profit,
+ropensci-archive,https://github.com/ropensci-archive,http://ropensci.org,Global,community,
+GEOS-DEV,https://github.com/GEOS-DEV,https://geosx-geosx.readthedocs-hosted.com/en/latest/index.html,Global,community,
+UNSW-CEEM,https://github.com/UNSW-CEEM,http://ceem.unsw.edu.au/,Australia,academia,
+enviroCar,https://github.com/enviroCar,https://envirocar.org/,Germany,collaboration,
+OpenEnergyPlatform,https://github.com/OpenEnergyPlatform,https://github.com/OpenEnergyPlatform/organisation/blob/master/README.md,Germany,collaboration,
+UrbanAnalyst,https://github.com/UrbanAnalyst,https://UrbanAnalyst.city,Germany,community,
+joular,https://github.com/joular,https://www.noureddine.org/research/joular,France,academia,
+opentripplanner,https://github.com/opentripplanner,http://opentripplanner.org,Global,community,
+neuralgcm,https://github.com/neuralgcm,,Global,community,
+openair-project,https://github.com/openair-project,N/A,UK,community,
+hashgraph,https://github.com/hashgraph,https://hedera.com,USA,for-profit,
+cyclosm,https://github.com/cyclosm,https://www.cyclosm.org/,Global,community,
+NCAS-CMS,https://github.com/NCAS-CMS,http://cms.ncas.ac.uk/,UK,government agency,
+C4IROcean-archive,https://github.com/C4IROcean-archive,,,,
+SPF-OST,https://github.com/SPF-OST,http://www.spf.ch,Switzerland,academia,
+OSeMOSYS,https://github.com/OSeMOSYS,http://www.osemosys.org/,Global,community,
+hyriver,https://github.com/hyriver,https://docs.hyriver.io,USA,community,
+dhis2-chap,https://github.com/dhis2-chap,dhis2.org,Global,collaboration,
+EPGOxford,https://github.com/EPGOxford,https://epg.eng.ox.ac.uk/,UK,academia,
+quintel,https://github.com/quintel,http://quintel.com,Netherlands,for-profit,
+CLIMAAX,https://github.com/CLIMAAX,climaax.eu,EU,community,
+9505-PNNL,https://github.com/9505-PNNL,N/A,Global,community,
+MarineScotlandScience,https://github.com/MarineScotlandScience,http://www.gov.scot/Topics/marine/science,UK,government agency,
+Mohid-Water-Modelling-System,https://github.com/Mohid-Water-Modelling-System,http://www.mohid.com,Portugal,academia,
+GeoscienceAustralia,https://github.com/GeoscienceAustralia,http://www.ga.gov.au/,Australia,government agency,
+openmodels,https://github.com/openmodels,N/A,Global,community,
+Call-for-Code,https://github.com/Call-for-Code,https://developer.ibm.com/callforcode/,Global,collaboration,
+cemsbv,https://github.com/cemsbv,https://cemsbv.nl,Netherlands,for-profit,
+CenterForTheBuiltEnvironment,https://github.com/CenterForTheBuiltEnvironment,http://cbe.berkeley.edu,USA,academia,
+OneBusAway,https://github.com/OneBusAway,https://github.com/OneBusAway/onebusaway/wiki,USA,non-profit,
+pfmc-assessments,https://github.com/pfmc-assessments,https://www.fisheries.noaa.gov/about/northwest-fisheries-science-center,USA,government agency,
+hotosm,https://github.com/hotosm,http://www.hotosm.org,Global,non-profit,
+meom-group,https://github.com/meom-group,http://meom-group.github.io/,France,collaboration,
+cat-cfs,https://github.com/cat-cfs,N/A,Global,community,
+sharppy,https://github.com/sharppy,N/A,USA,,
+LiUSemWeb,https://github.com/LiUSemWeb,https://www.ida.liu.se/research/semanticweb/,Sweden,academia,
+datazoompuc,https://github.com/datazoompuc,http://www.econ.puc-rio.br/datazoom/english/index.html,Brazil,academia,
+OasisLMF,https://github.com/OasisLMF,http://oasislmf.github.io,UK,for-profit,
+NIEHS,https://github.com/NIEHS,https://www.niehs.nih.gov/,USA,government agency,
+OpenEVSE,https://github.com/OpenEVSE,http://www.openevse.com,USA,for-profit,
+opendata-stuttgart,https://github.com/opendata-stuttgart,http://codefor.de/stuttgart/,Germany,non-profit,
+BelgianBiodiversityPlatform,https://github.com/BelgianBiodiversityPlatform,http://www.biodiversity.be,Belgium,government agency,
+microsoft,https://github.com/microsoft,https://opensource.microsoft.com,USA,for-profit,
+openclimatedata,https://github.com/openclimatedata,https://openclimatedata.net,Germany,community,
+vocalpy,https://github.com/vocalpy,https://forum.vocalpy.org/,Global,community,
+pydata,https://github.com/pydata,http://groups.google.com/forum/?fromgroups#!forum/pydata,Global,community,
+github,https://github.com/github,https://github.com/about,USA,for-profit,
+woudc,https://github.com/woudc,https://woudc.org,Global,government agency,
+ONEARMY,https://github.com/ONEARMY,https://www.onearmy.earth/,Global,community,
+r-spatial,https://github.com/r-spatial,https://github.com/r-spatial,Global,community,
+Dark-Matter-Labs,https://github.com/Dark-Matter-Labs,https://darkmatterlabs.org,Netherlands,for-profit,
+CURENT,https://github.com/CURENT,https://ltb.curent.org,USA,academia,
+OpenModelica,https://github.com/OpenModelica,https://openmodelica.org,Sweden,non-profit,
+ProjectDrawdown,https://github.com/ProjectDrawdown,https://drawdown.org/,USA,non-profit,
+EMODnet,https://github.com/EMODnet,https://emodnet.ec.europa.eu,EU,government agency,
+pybop-team,https://github.com/pybop-team,N/A,Global,community,
+MetOffice,https://github.com/MetOffice,http://www.metoffice.gov.uk,UK,government agency,
+Parcels-code,https://github.com/Parcels-code,http://parcels-code.org,Global,community,
+dos-group,https://github.com/dos-group,https://tu.berlin/en/dos,Germany,academia,
+eurec4a,https://github.com/eurec4a,eurec4a.eu,EU,government agency,
+localdevices,https://github.com/localdevices,localdevices.org,Global,community,
+earthobservations,https://github.com/earthobservations,http://wetterdienst.eobs.org,Germany,community,
+maasglobal,https://github.com/maasglobal,https://maas.global,Finland,for-profit,
+danforthcenter,https://github.com/danforthcenter,https://danforthcenter.org,USA,non-profit,
+SantanderMetGroup,https://github.com/SantanderMetGroup,http://www.meteo.unican.es,Spain,academia,
+evcc-io,https://github.com/evcc-io,https://evcc.io,Germany,community,
+NCAR,https://github.com/NCAR,http://ncar.ucar.edu,USA,government agency,
+NMF-earth,https://github.com/NMF-earth,http://nmf.earth,Global,community,
+vocol,https://github.com/vocol,https://github.com/vocol/vocol,Germany,academia,
+WildMeOrg,https://github.com/WildMeOrg,https://wildme.org,USA,non-profit,
+weatherlayers,https://github.com/weatherlayers,https://weatherlayers.com,Czech Republic,for-profit,
+qpv-research-group,https://github.com/qpv-research-group,https://www.qpvgroup.org,Australia,academia,
+openfoodfoundation,https://github.com/openfoodfoundation,http://openfoodfoundation.org/,Australia,non-profit,
+alan-turing-institute,https://github.com/alan-turing-institute,https://turing.ac.uk,UK,government agency,
+nasa-jpl,https://github.com/nasa-jpl,https://www.jpl.nasa.gov,USA,government agency,
+EnergyInnovation,https://github.com/EnergyInnovation,https://energyinnovation.org,USA,academia,
+sentinelsat,https://github.com/sentinelsat,sentinelsat.readthedocs.io,Global,community,
+NASA-Openscapes,https://github.com/NASA-Openscapes,nasa-openscapes.github.io,USA,government agency,
+wrf-model,https://github.com/wrf-model,http://www2.mmm.ucar.edu/wrf/users/,USA,academia,
+surfriderfoundationeurope,https://github.com/surfriderfoundationeurope,https://surfrider.eu/,France,non-profit,
+amazon-science,https://github.com/amazon-science,https://amazon.science,Global,for-profit,
+awebox,https://github.com/awebox,Permanently closed,Germany,for-profit,
+uataq,https://github.com/uataq,https://air.utah.edu,USA,academia,
+BioDT,https://github.com/BioDT,https://biodt.eu,EU,collaboration,
+bionomia,https://github.com/bionomia,https://bionomia.net,Global,academia,
+HYCOM,https://github.com/HYCOM,https://hycom.org/hycom/overview,USA,academia,
+digitalearthafrica,https://github.com/digitalearthafrica,https://digitalearthafrica.org,Global,collaboration,
+LBNL-JCI-ICF,https://github.com/LBNL-JCI-ICF,N/A,USA,collaboration,
+pinskylab,https://github.com/pinskylab,http://pinsky.marine.rutgers.edu,USA,academia,
+EnergySystemsModellingLab,https://github.com/EnergySystemsModellingLab,https://energysystemsmodellinglab.github.io/MUSE2/introduction.html,UK,academia,
+PecanProject,https://github.com/PecanProject,http://pecanproject.org,USA,community,
+Safecast,https://github.com/Safecast,http://safecast.org,Japan,non-profit,
+GridTools,https://github.com/GridTools,gridtools.github.io,Switzerland,academia,
+Growstuff,https://github.com/Growstuff,http://growstuff.org/,Global,community,
+ICTP,https://github.com/ICTP,http://www.ictp.it,Italy,for-profit,
+slcs-jsc,https://github.com/slcs-jsc,http://www.fz-juelich.de/ias/jsc/slcs,Germany,government agency,
+open-AIMS,https://github.com/open-AIMS,https://www.aims.gov.au/,Australia,government agency,
+earthtoolsmaker,https://github.com/earthtoolsmaker,earthtoolsmaker.org,USA,community,
+capytaine,https://github.com/capytaine,https://capytaine.org/stable/,Global,community,
+csdms-contrib,https://github.com/csdms-contrib,http://csdms.colorado.edu,USA,academia,
+isea,https://git.rwth-aachen.de/isea,https://www.cce.rwth-aachen.de/cms/cce/das-center/institute-und-lehrstuehle/~piclc/institut-fuer-stromrichtertechnik-und-el/,Germany,academia,
+greensoftwarelab,https://github.com/greensoftwarelab,http://greenlab.di.uminho.pt/,Portugal,academia,
+DOI-BOR,https://github.com/DOI-BOR,https://www.usbr.gov/,USA,government agency,
+Hydrology-IFH,https://github.com/Hydrology-IFH,http://www.hydro.uni-freiburg.de/,Germany,academia,
+WordPress,https://github.com/WordPress,https://wordpress.org/,Global,for-profit,
+HydrologyFrankfurt,https://github.com/HydrologyFrankfurt,http://www.uni-frankfurt.de/45217668/AG_Hydrologie__Hydrology_Group,Germany,academia,
+openfoodfacts,https://github.com/openfoodfacts,https://world.openfoodfacts.org/,France,non-profit,
+ornldaac,https://github.com/ornldaac,https://daac.ornl.gov,USA,government agency,
+E3SM-Project,https://github.com/E3SM-Project,http://e3sm.org,USA,government agency,
+APSIMInitiative,https://github.com/APSIMInitiative,https://apsiminitiative.github.io/ApsimX/,Australia,government agency,
+forc-db,https://github.com/forc-db,https://forc-db.github.io/,USA,academia,
+DrylandEcology,https://github.com/DrylandEcology,,USA,community,
+scope3data,https://github.com/scope3data,https://scope3.com,USA,for-profit,
+moja-global,https://github.com/moja-global,http://moja.global,Global,collaboration,
+AguaClara-Reach,https://github.com/AguaClara-Reach,aguaclarareach.org,USA,non-profit,
+Project-AgML,https://github.com/Project-AgML,agml.org,Global,collaboration,
+pyTMD,https://github.com/pyTMD,pytmd.readthedocs.io,Global,community,
+Open-Earth-Foundation,https://github.com/Open-Earth-Foundation,https://openearth.org/,USA,non-profit,
+Zoological-Society-of-London,https://github.com/Zoological-Society-of-London,http://www.zsl.org,UK,non-profit,
+teams,https://invent.kde.org/teams,https://merlijn.sebrechts.be,USA,non-profit,
+aodn,https://github.com/aodn,https://portal.aodn.org.au/,Australia,collaboration,
+ARM-DOE,https://github.com/ARM-DOE,https://www.arm.gov/,USA,government agency,
+contrailcirrus,https://github.com/contrailcirrus,https://contrails.org,Global,collaboration,
+allenai,https://github.com/allenai,http://www.allenai.org,USA,non-profit,
+flr,https://github.com/flr,https://flrproject.org/,Global,community,
+3DStreet,https://github.com/3DStreet,http://3dstreet.com,USA,for-profit,
+r4wrds,https://github.com/r4wrds,https://www.r4wrds.com,USA,community,
+fingreen-ai,https://github.com/fingreen-ai,https://fingreen.ai,France,for-profit,
+project-gen3sis,https://github.com/project-gen3sis,https://project-gen3sis.github.io/R-package/,Global,community,
+mmb-carb,https://github.com/mmb-carb,https://www.arb.ca.gov/homepage.htm,USA,government agency,
+IEAWindSystems,https://github.com/IEAWindSystems,iea-wind.org,Global,Collaboration,
+openkfw,https://github.com/openkfw,https://www.kfw.de/kfw.de.html,Germany,government agency,
+pyinat,https://github.com/pyinat,https://pyinaturalist.readthedocs.io,Global,community,
+TRI-AMDD,https://github.com/TRI-AMDD,https://www.tri.global/our-work/material-design/,Global,for-profit,
+pySTEPS,https://github.com/pySTEPS,https://pysteps.github.io/,Switzerland,academia,
+COSIMA,https://github.com/COSIMA,http://cosima.org.au,Australia,collaboration,
+google-deepmind,https://github.com/google-deepmind,https://www.deepmind.com/,USA,for-profit,
+openclimatefix,https://github.com/openclimatefix,http://openclimatefix.org,UK,non-profit,
+BIG-MAP,https://github.com/BIG-MAP,https://www.big-map.eu/,EU,collaboration,
+geodynamics,https://github.com/geodynamics,https://www.geodynamics.org/,Global,collaboration,
+pnnl,https://github.com/pnnl,http://www.pnnl.gov/,USA,government agency,
+acoupi,https://github.com/acoupi,acoupi.github.io/acoupi/,Global,community,
+allometric,https://github.com/allometric,https://allometric.github.io/allometric/,Global,community,
+poseidon-fisheries,https://github.com/poseidon-fisheries,https://oceanconservancy.org/sustainable-fisheries/poseidon/,USA,non-profit,
+TUW-GEO,https://github.com/TUW-GEO,http://geo.tuwien.ac.at,Austria,academia,
+ScottLogic,https://github.com/ScottLogic,https://www.scottlogic.com/our-commitment-open-source,UK,for-profit,
+Open-ET,https://github.com/Open-ET,https://etdata.org/,USA,non-profit,
+GENeSYS-MOD,https://github.com/GENeSYS-MOD,genesysmod.readthedocs.io,Germany,community,
+Planteome,https://github.com/Planteome,http://www.planteome.org/,Global,community,
+NCPP,https://github.com/NCPP,http://earthsystemcog.org/projects/ncpp/,Global,community,
+CS-SI,https://github.com/CS-SI,http://www.csgroup.eu,France,for-profit,
+JRCSTU,https://github.com/JRCSTU,https://ec.europa.eu/jrc/en/about/institutes-and-directorates/jrc-iet,Italy,government agency,
+bioeconomy,https://gitlab.com/bioeconomy,N/A,Global,collaboration,
+HVDC-WISE,https://github.com/HVDC-WISE,hvdc-wise.eu,Global,collaboration,
+OpenChargingCloud,https://github.com/OpenChargingCloud,https://open.charging.cloud,Germany,community,
+GlobalHydrologyLab,https://github.com/GlobalHydrologyLab,http://uncglobalhydrology.org,USA,academia,
+energywebfoundation,https://github.com/energywebfoundation,http://energyweb.org/,Switzerland,for-profit,
+JuliaOcean,https://github.com/JuliaOcean,https://github.com/JuliaOcean,Global,community,
+sei-international,https://github.com/sei-international,http://www.sei.org/,Sweden,non-profit,
+MODFLOW-ORG,https://github.com/MODFLOW-ORG,https://www.usgs.gov/mission-areas/water-resources/science/modflow-and-related-programs,USA,government agency,
+ESIPFed,https://github.com/ESIPFed,http://esipfed.org,USA,collaboration,
+ubilabs,https://github.com/ubilabs,https://ubilabs.com,Germany,for-profit,
+climate-cooperative,https://github.com/climate-cooperative,https://climate-cooperative.org,USA,community,
+naturalsolutions,https://github.com/naturalsolutions,https://natural-solutions.world,Global,for-profit,
+hsbay,https://github.com/hsbay,http://www.autofracture.com/opencarbon,USA,for-profit,
+dsgrid,https://github.com/dsgrid,https://www.nrel.gov/analysis/dsgrid,USA,government agency,
+prioritizr,https://github.com/prioritizr,https://prioritizr.net/,Global,community,
+ita-social-projects,https://github.com/ita-social-projects,https://career.softserveinc.com/en-us/learning-and-certification/formats-3,USA,for-profit,
+naturalis,https://github.com/naturalis,https://www.naturalis.nl,Netherlands,academia,
+mila-iqia,https://github.com/mila-iqia,https://mila.quebec/,Canada,non-profit,
+ARCCSS-extremes,https://github.com/ARCCSS-extremes,https://climateextremes.org.au/,Australia,government agency,
+PowerGridModel,https://github.com/PowerGridModel,alliander.com/nl/,Netherlands,community,
+tdcosim,https://github.com/tdcosim,https://www.anl.gov/aet/article/cutting-edge-software-will-clarify-impact-of-distributed-energy-resources,USA,government agency,
+nmfs-ost,https://github.com/nmfs-ost,https://www.fisheries.noaa.gov/about/office-science-and-technology,USA,government agency,
+UCL-EO,https://github.com/UCL-EO,http://www2.geog.ucl.ac.uk/~plewis/,UK,academia,
+Open-Acidification,https://github.com/Open-Acidification,https://open-acidification.github.io/,USA,community,
+US-GHG-Center,https://github.com/US-GHG-Center,https://earth.gov/ghgcenter/,Global,government agency,
+power-grid-lib,https://github.com/power-grid-lib,https://power-grid-lib.github.io/,Global,community,
+ncsu-landscape-dynamics,https://github.com/ncsu-landscape-dynamics,http://geospatial.ncsu.edu/landscapedynamics/,USA,academia,
+mllam,https://github.com/mllam,https://ml-lam.slack.com/join/shared_invite/zt-2t112zvm8-Vt6aBvhX7nYa6Kbj_LkCBQ#/shared-invite/email,Global,collaboration,
+eco-hydro,https://github.com/eco-hydro,http://www.phenofit.top/,China,community,
+SAP,https://github.com/SAP,https://opensource.sap.com,Germany,for-profit,
+wri,https://github.com/wri,https://wri.org,USA,non-profit,
+BIO-RSG,https://github.com/BIO-RSG,https://bio-rsg.github.io/,Canada,government agency,
+inbo,https://github.com/inbo,http://www.inbo.be/en,Belgium,government agency,
+pommes-public,https://github.com/pommes-public,N/A,Germany,community,
+dlr-ve,https://gitlab.com/dlr-ve,,Germany,collaboration,
+e3-,https://github.com/e3-,https://ethree.com/,USA,for-profit,
+Breakthrough-Energy,https://github.com/Breakthrough-Energy,https://breakthrough-energy.github.io/docs/,USA,for-profit,
+erf-model,https://github.com/erf-model,https://erf.readthedocs.io/en/latest/,USA,academia,
+ECSIM,https://github.com/ECSIM,https://ecsim.ir,Iran,academia,
+ipeaGIT,https://github.com/ipeaGIT,https://portalantigo.ipea.gov.br/portal/,Brazil,government agency,
+tRIBS-Model,https://github.com/tRIBS-Model,https://tribshms.readthedocs.io/en/latest/,USA,academia,
+RolnickLab,https://github.com/RolnickLab,davidrolnick.com,Canada,academia,
+AntaresSimulatorTeam,https://github.com/AntaresSimulatorTeam,https://antares-simulator.org/,France,for-profit,
+CryoInTheCloud,https://github.com/CryoInTheCloud,cryointhecloud.com,Netherlands,academia,
+sensebox,https://github.com/sensebox,https://www.sensebox.de,Germany,academia,
+censusdis,https://github.com/censusdis,censusdis.readthedocs.io,USA,community,
+ncu-cryosensing,https://github.com/ncu-cryosensing,https://ncu-cryosensing.org/,Taiwan,government agency,
+Open-EO,https://github.com/Open-EO,http://openeo.org/,Germany,community,
+ClimateImpactLab,https://github.com/ClimateImpactLab,https://impactlab.org,USA,non-profit,
+sb-ai-lab,https://github.com/sb-ai-lab,https://t.me/sb_ai_lab,Global,community,
+FESOM,https://github.com/FESOM,https://fesom.de/,Germany,government agency,
+AI4SoilHealth,https://github.com/AI4SoilHealth,https://ai4soilhealth.eu,EU,collaboration,
+NVIDIA,https://github.com/NVIDIA,https://nvidia.com,USA,for-profit,
+GreenswayAB,https://github.com/GreenswayAB,https://greensway.se/,Sweden,non-profit,
+owid,https://github.com/owid,https://ourworldindata.org,UK,non-profit,
+euroargodev,https://github.com/euroargodev,https://www.euro-argo.eu,EU,academia,
+energyandcleanair,https://github.com/energyandcleanair,https://energyandcleanair.org/,Finland,non-profit,
+usask-arg,https://github.com/usask-arg,N/A,Global,community,
+bikeindex,https://github.com/bikeindex,https://bikeindex.org,USA,non-profit,
+GEUS-SICE,https://github.com/GEUS-SICE,http://snow.geus.dk/,Denmark,collaboration,
+radical-collaboration,https://github.com/radical-collaboration,https://radical.rutgers.edu/,USA,academia,
+mesmo-dev,https://github.com/mesmo-dev,https://www.tum-create.edu.sg/research/project/mesmo-multi-energy-system-modelling-optimisation,Germany,academia,
+diw-evu,https://gitlab.com/diw-evu,,German,collaboration,
+pygsflow,https://github.com/pygsflow,https://pygsflow.github.io/pygsflowdocs/,USA,government agency,
+BEMRosetta,https://github.com/BEMRosetta,N/A,Global,community,
+ai2cm,https://github.com/ai2cm,https://allenai.org/climate-modeling,USA,non-profit,
+pik-piam,https://github.com/pik-piam,https://www.pik-potsdam.de/,Germany,non-profit,
+ECCO-GROUP,https://github.com/ECCO-GROUP,https://ecco-group.org/,Global,community,
+APA-Technology-Division,https://github.com/APA-Technology-Division,https://tech.planning.org/,USA,for-profit,
+pytroll,https://github.com/pytroll,http://pytroll.org/,Global,community,
+OGGM,https://github.com/OGGM,http://www.oggm.org,Germany,non-profit,
+architecture-building-systems,https://github.com/architecture-building-systems,http://systems.arch.ethz.ch,Switzerland,academia,
+OMS-NetZero,https://github.com/OMS-NetZero,https://fair.readthedocs.io/en/latest/,Global,community,
+arras-energy,https://github.com/arras-energy,https://arras.energy,USA,collaboration,
+kube-green,https://github.com/kube-green,https://kube-green.dev/,Global,community,
+byrd-polar,https://github.com/byrd-polar,https://byrd.osu.edu/,USA,academia,
+UdK-VPT,https://github.com/UdK-VPT,http://www.arch.udk-berlin.de/vpt,Germany,academia,
+carboniferio,https://github.com/carboniferio,https://carbonifer.io/,France,for-profit,
+washingtonpost,https://github.com/washingtonpost,https://washpost.engineering/,USA,for-profit,
+LabSid-USP,https://github.com/LabSid-USP,http://www.labsid.eng.br,Brazil,academia,
+r-lidar,https://github.com/r-lidar,https://github.com/r-lidar,Global,community,
+sustainable-computing-io,https://github.com/sustainable-computing-io,http://www.sustainable-computing.io,USA,community,
+capstone-coal,https://github.com/capstone-coal,https://capstone-coal.github.io,Global,community,
+Huracan-project,https://github.com/Huracan-project,N/A,Global,community,
+riparias,https://github.com/riparias,https://riparias.be,Belgium,government agency,
+GEOS-ESM,https://github.com/GEOS-ESM,https://gmao.gsfc.nasa.gov/index.php,USA,government agency,
+HiveGuard-AI,https://github.com/HiveGuard-AI,http://gooddatahub.co,USA,for-profit,
+opendcs,https://github.com/opendcs,N/A,Global,community,
+rl-institut,https://github.com/rl-institut,http://www.reiner-lemoine-institut.de,Germany,non-profit,
+ROVI-org,https://github.com/ROVI-org,https://rovi-org.github.io/,Global,community,
+iodepo,https://github.com/iodepo,http://www.iode.org,Global,government agency,
+shom-fr,https://github.com/shom-fr,https://www.shom.fr/,France,government agency,
+quantifyearth,https://github.com/quantifyearth,https://quantify.earth,UK,academia,
+fsspec,https://github.com/fsspec,https://filesystem-spec.readthedocs.io/en/latest/,Global,community,
+HotMaps,https://github.com/HotMaps,https://www.hotmaps-project.eu/,Global,community,
+MaREI-EPMG,https://github.com/MaREI-EPMG,https://www.marei.ie/energy-policy-modelling/,Ireland,academia,
+SpeciesFileGroup,https://github.com/SpeciesFileGroup,http://speciesfilegroup.org,USA,academia,
+cont-limno,https://github.com/cont-limno,https://lagoslakes.org,USA,academia,
+forefireAPI,https://github.com/forefireAPI,forefire.univ-corse.fr,Global,academia,
+us191,https://forge.ird.fr/us191,us191.com,Global,collaboration,
+aiddata,https://github.com/aiddata,http://aiddata.org,USA,non-profit,
+earthrise-media,https://github.com/earthrise-media,https://earthrise.media,USA,non-profit,
+socialincome-san,https://github.com/socialincome-san,https://socialincome.org,Global,community,
+Helmholtz-AI-Energy,https://github.com/Helmholtz-AI-Energy,https://www.helmholtz.ai/,Germany,government agency,
+cryotools,https://github.com/cryotools,https://cryo-tools.org,Global,community,
+ECCC-CCCS,https://github.com/ECCC-CCCS,https://canada.ca/climate-services,Canada,government agency,
+Vizzuality,https://github.com/Vizzuality,http://www.vizzuality.com,Spain,for-profit,
+xCDAT,https://github.com/xCDAT,https://xcdat.readthedocs.org,Global,community,
+SkyTruth,https://github.com/SkyTruth,https://skytruth.org,USA,non-profit,
+IDAES,https://github.com/IDAES,https://idaes.org,USA,government agency,
+EVNotify,https://github.com/EVNotify,https://evnotify.com/,Global,community,
+GeospatialResearch,https://github.com/GeospatialResearch,https://geospatial.ac.nz,New Zealand,academia,
+geopm,https://github.com/geopm,https://geopm.github.io,Global,community,
+PalmStudio,https://github.com/PalmStudio,https://palmstudio.github.io/,Global,community,
+orcasound,https://github.com/orcasound,http://live.orcasound.net,Canada,community,
+hydroframe,https://github.com/hydroframe,https://www.hydroframe.org/,USA,community,
+NETL-RIC,https://github.com/NETL-RIC,netl.doe.gov,USA,government agency,
+CMU-CREATE-Lab,https://github.com/CMU-CREATE-Lab,http://cmucreatelab.org,USA,academia,
+etsap-TIMES,https://github.com/etsap-TIMES,https://iea-etsap.org/,Global,collaboration,
+WMD-group,https://github.com/WMD-group,https://wmd-group.github.io,UK,academia,
+rubisco-sfa,https://github.com/rubisco-sfa,https://www.bgc-feedbacks.org/,USA,collaboration,
+openchargemap,https://github.com/openchargemap,http://openchargemap.org,Global,community,
+catalyst-cooperative,https://github.com/catalyst-cooperative,https://catalyst.coop,USA,for-profit,
+neuralhydrology,https://github.com/neuralhydrology,https://neuralhydrology.github.io/,Germany,academia,
+SunPower,https://github.com/SunPower,https://sunpower.github.io/,USA,for-profit,
+pbs-assess,https://github.com/pbs-assess,N/A,Canada,community,
+PlantSimulationLab,https://github.com/PlantSimulationLab,N/A,USA,academia,
+dida-do,https://github.com/dida-do,http://www.dida.do,Germany,for-profit,
+r4ss,https://github.com/r4ss,https://www.fisheries.noaa.gov/,USA,government agency,
+RentadroneCL,https://github.com/RentadroneCL,https://simplemap.io,Chile,community,
+r-spatialecology,https://github.com/r-spatialecology,N/A,Global,community,
+floods,https://code.europa.eu/floods,N/A,EU,government agency,
+a-b-street,https://github.com/a-b-street,http://abstreet.org,USA,community,
+sunpy,https://github.com/sunpy,https://www.sunpy.org,Global,community,
+CriticalAssetManagement,https://github.com/CriticalAssetManagement,https://climateresilient.world/,USA,collaboration,
+nco,https://github.com/nco,https://nco.sourceforge.net/,Global,community,
+open-forest-observatory,https://github.com/open-forest-observatory,http://openforestobservatory.org,,,
+M3Works,https://github.com/M3Works,http://m3works.io,,,
+Open-MSS,https://github.com/Open-MSS,https://open-mss.github.io/,Germany,community,
+DataONEorg,https://github.com/DataONEorg,https://dataone.org,USA,community,
+hyex-research,https://github.com/hyex-research,https://aquafetch.readthedocs.io/en/latest/,,,
+tsdataclinic,https://github.com/tsdataclinic,https://dataclinic.twosigma.com/,USA,for-profit,
+thetisproject,https://github.com/thetisproject,https://thetisproject.org/,Global,collaboration,
+ONEcampaign,https://github.com/ONEcampaign,https://www.one.org,,,
+OpenTreeMap,https://github.com/OpenTreeMap,http://www.opentreemap.org,USA,for-profit,
+Circuitscape,https://github.com/Circuitscape,https://circuitscape.org/,,,
+dalesteam,https://github.com/dalesteam,,Netherlands,academia,
+EvolEcolGroup,https://github.com/EvolEcolGroup,http://www.eeg.zoo.cam.ac.uk/,UK,academia,
+allfed,https://github.com/allfed,http://allfed.info/,,,
+AER-RC,https://github.com/AER-RC,https://www.aer.com/science-research/atmosphere/radiative-transfer/,USA,for-profit,
+sosy-lab,https://github.com/sosy-lab,https://www.sosy-lab.org,Germany,academia,
+aquacropos,https://github.com/aquacropos,https://aquacropos.github.io/aquacrop/,Global,community,
+BreakingBytes,https://github.com/BreakingBytes,http://breakingbytes.github.io/,USA,for-profit,
+seapath,https://github.com/seapath,N/A,,,
+Orbio-Earth,https://github.com/Orbio-Earth,https://orbio.earth,,,
+PowerGenome,https://github.com/PowerGenome,https://groups.io/g/powergenome,USA,community,
+atmtools,https://github.com/atmtools,https://www.radiativetransfer.org/,Global,academia,
+marmelab,https://github.com/marmelab,http://marmelab.com,France,for-profit,
+w3c,https://github.com/w3c,https://www.w3.org/,,,
+polca,https://github.com/polca,N/A,Global,community,
+juaAI,https://github.com/juaAI,http://jua.ai,,,
+Bureau-du-Forestier-en-chef,https://github.com/Bureau-du-Forestier-en-chef,https://forestierenchef.gouv.qc.ca/,,,
+opfab,https://github.com/opfab,https://opfab.github.io/,Global,collaboration,
+MPAS-Dev,https://github.com/MPAS-Dev,https://ncar.ucar.edu/what-we-offer/models/model-prediction-across-scales-mpas,USA,government agency,
+bc3LC,https://github.com/bc3LC,https://www.bc3research.org/bc3/objectives/objective_2_support_decision_making_in_the_transition_to_a_low_carbon_society.html,,,
+mitrefireline,https://github.com/mitrefireline,http://fireline.mitre.org,,,
+cp-PYFOREST,https://github.com/cp-PYFOREST,https://bren.ucsb.edu/projects/informing-forest-conservation-regulations-paraguay,USA,academia,
+earth-system-radiation,https://github.com/earth-system-radiation,https://earth-system-radiation.github.io/rte-rrtmgp/,Global,community,
+3DFin,https://github.com/3DFin,N/A,,,
+USGCRP,https://github.com/USGCRP,http://www.globalchange.gov,,,
+bigladder,https://github.com/bigladder,https://bigladdersoftware.com,USA,for-profit,
+hydrologie,https://github.com/hydrologie,https://xhydro.readthedocs.io/en/latest/,,,
+Laboratory-for-Energy-Systems-Analysis,https://github.com/Laboratory-for-Energy-Systems-Analysis,https://www.psi.ch/en/lea,,,
+responsibleproblemsolving,https://github.com/responsibleproblemsolving,responsibleproblemsolving.github.io,Global,community,
+kleis-technology,https://github.com/kleis-technology,https://kleis.ch,,,
+openEDI,https://github.com/openEDI,https://openei.org/wiki/Open_Energy_Data_Initiative_(OEDI),,,
+FraunhoferIWES,https://github.com/FraunhoferIWES,iwes.fraunhofer.de,Global,collaboration,
+Ozon3Org,https://github.com/Ozon3Org,ozon3.io,Global,community,
+FarmBot,https://github.com/FarmBot,https://farm.bot,USA,for-profit,
+WorldCereal,https://github.com/WorldCereal,https://esa-worldcereal.org/,,,
+bioscan-ml,https://github.com/bioscan-ml,https://biodiversitygenomics.net/research/bioscan/,,,
+pywr,https://github.com/pywr,,USA,academia,
+ecoverseR,https://github.com/ecoverseR,,,,
+GlobalFishingWatch,https://github.com/GlobalFishingWatch,http://globalfishingwatch.org,USA,non-profit,
+SHUD-System,https://github.com/SHUD-System,https://www.shud.xyz/en/,,,
+singularity-energy,https://github.com/singularity-energy,https://singularity.energy,USA,for-profit,
+open-meteo,https://github.com/open-meteo,https://open-meteo.com,Switzerland,community,
+gwmod,https://github.com/gwmod,https://nlmod.readthedocs.io/en/stable/,,,
+IBM,https://github.com/IBM,https://www.ibm.com/opensource/,USA,for-profit,
+meteostat,https://github.com/meteostat,https://meteostat.net,Canada,community,
+pydap,https://github.com/pydap,https://pydap.github.io/pydap/en/intro.html,,,
+UCSB-VRL,https://github.com/UCSB-VRL,http://vision.ece.ucsb.edu,USA,academia,
+undp,https://github.com/undp,https://www.undp.org,Global,government agency,
+dtcenter,https://github.com/dtcenter,https://dtcenter.org,USA,collaboration,
+omegalpes,https://gricad-gitlab.univ-grenoble-alpes.fr/omegalpes,omegalpes.readthedocs.io,,,
+pypsa-meets-earth,https://github.com/pypsa-meets-earth,https://pypsa-meets-earth.github.io/,Global,community,
+SolarNetwork,https://github.com/SolarNetwork,https://solarnetwork.net/,,,
+hundredrabbits,https://github.com/hundredrabbits,http://100r.co,Global,for-profit,
+ReMobidyc,https://github.com/ReMobidyc,N/A,Japan,community,
+wildmountainfarms,https://github.com/wildmountainfarms,,Global,community,
+inaturalist,https://github.com/inaturalist,http://www.inaturalist.org,USA,collaboration,
+ufs-community,https://github.com/ufs-community,https://ufscommunity.org/,USA,community,
+firelab,https://github.com/firelab,http://firelab.org,,,
+radiantearth,https://github.com/radiantearth,https://www.radiant.earth,USA,non-profit,
+SEED-platform,https://github.com/SEED-platform,http://energy.gov/eere/buildings/standard-energy-efficiency-data-platform,USA,government agency,
+Permian-Global-Research,https://github.com/Permian-Global-Research,https://permianglobal.com/,,,
+openghg,https://github.com/openghg,https://www.openghg.org,UK,community,
+renewables-ninja,https://github.com/renewables-ninja,https://www.renewables.ninja/,Germany,academia,
+BaskarGroup,https://github.com/BaskarGroup,,,,
+ORNL-AMO,https://github.com/ORNL-AMO,https://ornl-amo.github.io/,USA,government agency,
+d-fine,https://github.com/d-fine,https://www.d-fine.com/,Germany,for-profit,
+JuliaDataCubes,https://github.com/JuliaDataCubes,https://juliadatacubes.github.io/EarthDataLab.jl/latest/,Global,community,
+nreca-bts,https://github.com/nreca-bts,,,,
+BioPAL,https://github.com/BioPAL,https://biopal.org/,Global,community,
+fernlab,https://git.gfz-potsdam.de/fernlab,,,,
+adeverse,https://github.com/adeverse,,,,
+rebipp,https://github.com/rebipp,https://www.rebipp.org.br,,,
+projecthorus,https://github.com/projecthorus,http://projecthorus.org/,Australia,community,
+intake,https://github.com/intake,https://intake.readthedocs.io/en/latest/,USA,for-profit,
+Klimatbyran,https://github.com/Klimatbyran,,,,
+ImperialCollegeLondon,https://github.com/ImperialCollegeLondon,https://www.imperial.ac.uk/,UK,academia,
+openstudiocoalition,https://github.com/openstudiocoalition,http://openstudiocoalition.org,,,
+OSGP,https://github.com/OSGP,https://www.lfenergy.org/projects/gxf/,Netherlands,collaboration,
+Restor-Foundation,https://github.com/Restor-Foundation,https://restor.eco,,,
+arup-group,https://github.com/arup-group,https://www.arup.com/,,,
+nci,https://github.com/nci,http://nci.org.au/,,,
+MHKiT-Software,https://github.com/MHKiT-Software,https://mhkit-software.github.io/MHKiT/,USA,government agency,
+remindmodel,https://github.com/remindmodel,https://www.pik-potsdam.de/research/transformation-pathways/models/remind,Germany,academia,
+OceanBioME,https://github.com/OceanBioME,https://oceanbiome.github.io/OceanBioME.jl,UK,community,
+FREVA-CLINT,https://github.com/FREVA-CLINT,,Germany,community,
+VIAME,https://github.com/VIAME,http://www.viametoolkit.org/,Global,collaboration,
+Exawind,https://github.com/Exawind,https://nalu-wind.readthedocs.io/en/latest/,Global,community,
+ices-tools-dev,https://github.com/ices-tools-dev,https://www.ices.dk/data/tools/Pages/Software.aspx,,,
+amanzi,https://github.com/amanzi,http://amanzi.github.io,,,
+NASA-IMPACT,https://github.com/NASA-IMPACT,https://earthdata.nasa.gov/esds/impact,USA,government agency,
+galv-team,https://github.com/galv-team,,,,
+gotm-model,https://github.com/gotm-model,https://gotm.net,Germany,government agency,
+dynawo,https://github.com/dynawo,https://www.rte-france.com/,France,,
+breezy-weather,https://github.com/breezy-weather,,,,
+CICE-Consortium,https://github.com/CICE-Consortium,cice-consortium-cice.readthedocs.io,Global,collaboration,
+OpenLEADR,https://github.com/OpenLEADR,https://openleadr.org,,,
+AWF-GAUG,https://github.com/AWF-GAUG,http://www.uni-goettingen.de/en/67094.html,,,
+sovereign-nature,https://github.com/sovereign-nature,https://sovereignnature.com,,,
+oceanmodeling,https://github.com/oceanmodeling,N/A,Global,collaboration,
+fund-model,https://github.com/fund-model,http://www.fund-model.org,Global,community,
+greenpill-dev-guild,https://github.com/greenpill-dev-guild,https://app.charmverse.io/greenpill-dev-guild/home-089855607278293,Global,community,
+dorie,https://gitlab.dune-project.org/dorie,N/A,,,
+natcap,https://github.com/natcap,http://naturalcapitalproject.stanford.edu,USA,academia,
+Clay-foundation,https://github.com/Clay-foundation,https://clay-foundation.github.io/model/,Global,community,
+esmf-org,https://github.com/esmf-org,earthsystemmodeling.org,Global,collaboration,
+AustralianAntarcticDivision,https://github.com/AustralianAntarcticDivision,https://www.antarctica.gov.au/,Australia,government agency,
+hydroshare,https://github.com/hydroshare,http://hydroshare.cuahsi.org/,USA,academia,
+WCRP-CMIP,https://github.com/WCRP-CMIP,https://www.wcrp-climate.org/wgcm-cmip,Global,collaboration,
+OpenOlitor,https://github.com/OpenOlitor,http://www.openolitor.org,Global,community,
+cf-convention,https://github.com/cf-convention,http://cf-convention.github.io,Global,community,
+UMN-Hydro,https://github.com/UMN-Hydro,,USA,government agency,
+openearth,https://github.com/openearth,http://publicwiki.deltares.nl/display/OET,Global,collaboration,
+ISRICWorldSoil,https://github.com/ISRICWorldSoil,http://isric.org,Netherlands,non-profit,
+hainegroup,https://github.com/hainegroup,https://sites.krieger.jhu.edu/haine/,UK,academia,
+C2SM-RCM,https://github.com/C2SM-RCM,c2sm.ethz.ch,,community,
+NOAA-EDAB,https://github.com/NOAA-EDAB,https://www.nefsc.noaa.gov/ecosys/,USA,government agency,
+developmentseed,https://github.com/developmentseed,http://developmentseed.org,USA,for-profit,
+Boavizta,https://github.com/Boavizta,https://boavizta.org/en,France,community,
+JGCRI,https://github.com/JGCRI,https://www.pnnl.gov/projects/jgcri,USA,academia,
+AIWattch,https://github.com/AIWattch,aniwatchtv.to,,academia,
+WWF-Deutschland,https://github.com/WWF-Deutschland,https://www.wwf.de,Germany,non-profit,
+CIMM-ORG,https://github.com/CIMM-ORG,http://www.cimm.org,USA,non-profit,
+Universite-Gustave-Eiffel,https://github.com/Universite-Gustave-Eiffel,https://www.univ-gustave-eiffel.fr/,France,academia,
+openinframap,https://github.com/openinframap,https://openinframap.org,,,
+ODINN-SciML,https://github.com/ODINN-SciML,N/A,Global,community,
+Battery-Intelligence-Lab,https://github.com/Battery-Intelligence-Lab,https://howey.eng.ox.ac.uk,UK,academia,
+bbsBayes,https://github.com/bbsBayes,N/A,,,
+pythongroundwaterbook,https://github.com/pythongroundwaterbook,N/A,,,
+LBNL-ETA,https://github.com/LBNL-ETA,http://eta.lbl.gov,USA,government agency,
+Ribbit-Network,https://github.com/Ribbit-Network,https://ribbitnetwork.org/,Global,community,
+NASA-EarthRISE,https://github.com/NASA-EarthRISE,https://www.nasa.gov/image-article/earthrise-3/,USA,government agency,
+pcraster,https://github.com/pcraster,http://www.pcraster.eu,Netherlands,academia,
+sshaerosol,https://github.com/sshaerosol,sshaerosol.wordpress.com,,,
+cisco-open,https://github.com/cisco-open,https://opensource.cisco.com,,,
+zarr-developers,https://github.com/zarr-developers,https://zarr.dev,,,
+osmose-model,https://github.com/osmose-model,http://www.osmose-model.org,Global,community,
+energy-modelling-toolkit,https://github.com/energy-modelling-toolkit,energymodellinglab.com,Global,community,
+wikirate,https://github.com/wikirate,https://wikirate.org/,Germany,non-profit,
+brightwind-dev,https://github.com/brightwind-dev,https://www.brightwindanalysis.com/,Ireland,for-profit,
+wateraccounting,https://github.com/wateraccounting,http://wateraccounting.un-ihe.org/,,,
+awesome-spectral-indices,https://github.com/awesome-spectral-indices,https://awesome-ee-spectral-indices.readthedocs.io/en/latest/,Global,community,
+bonsamurais,https://gitlab.com/bonsamurais,N/A,,,
+JuliaEnergy,https://github.com/JuliaEnergy,,Global,community,
+radis,https://github.com/radis,https://radis.github.io/,Global,community,
+WA-Department-of-Agriculture,https://github.com/WA-Department-of-Agriculture,http://agr.wa.gov/AgScience,,,
+CSHS-CWRA,https://github.com/CSHS-CWRA,https://cwra.org/en/branches/affiliates/cshs-a,Canada,academia,
+WSWUP,https://github.com/WSWUP,https://www.dri.edu/western-states-water-use-program,USA,government agency,
+publicissapient-france,https://github.com/publicissapient-france,https://blog.engineering.publicissapient.fr,,,
+soilwater,https://github.com/soilwater,soilwater.com,,,
+grid-parity-exchange,https://github.com/grid-parity-exchange,N/A,Global,academia,
+WaterFutures,https://github.com/WaterFutures,http://www.waterfutures.eu,,,
+pacificclimate,https://github.com/pacificclimate,http://www.pacificclimate.org/,Canada,academia,
+aqualinkorg,https://github.com/aqualinkorg,http://aqualink.org,USA,community,
+Giswater,https://github.com/Giswater,http://www.giswater.org,Spain,non-profit,
+ISSMteam,https://github.com/ISSMteam,https://issm.jpl.nasa.gov,,,
+earth-env-data-science,https://github.com/earth-env-data-science,https://earth-env-data-science.github.io,,,
+YaleOpenLab,https://github.com/YaleOpenLab,http://www.openlab.yale.edu,USA,academia,
+afsc-gap-products,https://github.com/afsc-gap-products,https://www.fisheries.noaa.gov/contact/groundfish-assessment-program,USA,government agency,
+NASA-DEVELOP,https://github.com/NASA-DEVELOP,https://appliedsciences.nasa.gov/nasadevelop,USA,government agency,
+genai-impact,https://github.com/genai-impact,genai-impact.org,,,
+Open-Sustainability-Index,https://github.com/Open-Sustainability-Index,http://opensustainabilityindex.org,,,
+tum-esm,https://github.com/tum-esm,https://www.ei.tum.de/esm,Germany,academia,
+tobac-project,https://github.com/tobac-project,tobac.readthedocs.io,,,
+MATPOWER,https://github.com/MATPOWER,https://matpower.org/,Global,community,
+DSSAT,https://github.com/DSSAT,http://dssat.net/,USA,for-profit,
+CLOVER-energy,https://github.com/CLOVER-energy,,Global,community,
+parflow,https://github.com/parflow,https://www.parflow.org,Global,community,
+ExeClim,https://github.com/ExeClim,https://execlim.github.io/IscaWebsite/,UK,academia,
+USDA-ARS-NWRC,https://github.com/USDA-ARS-NWRC,https://www.ars.usda.gov/pacific-west-area/boise-id/northwest-watershed-research-center/,USA,government agency,
+respec,https://github.com/respec,http://www.respec.com,,,
+oie-mines-paristech,https://github.com/oie-mines-paristech,http://www.oie.mines-paristech.fr/,France,academia,
+envite-consulting,https://github.com/envite-consulting,https://envite.de,Germany,for-profit,
+leap-stc,https://github.com/leap-stc,https://leap.columbia.edu/,USA,academia,
+open-pv,https://github.com/open-pv,http://www.openpv.de,,,
+gmlc-dispatches,https://github.com/gmlc-dispatches,N/A,,,
+PraCTES,https://github.com/PraCTES,N/A,,,
+worlddynamics,https://github.com/worlddynamics,N/A,Global,community,
+NCEAS,https://github.com/NCEAS,https://www.nceas.ucsb.edu,USA,academia,
+ClimateMind,https://github.com/ClimateMind,https://climatemind.org,Global,community,
+sertit,https://github.com/sertit,https://sertit.unistra.fr/,,,
+Aalto-Electric-Drives,https://github.com/Aalto-Electric-Drives,https://aalto-electric-drives.github.io/motulator/,Finland,academic,
+freva-org,https://github.com/freva-org,http://www.freva.dkrz.de,,,
+birdflow-science,https://github.com/birdflow-science,birdflow-science.github.io,Global,collaboration,
+ProjectPythia,https://github.com/ProjectPythia,http://projectpythia.org,,,
+StormSurgeLive,https://github.com/StormSurgeLive,https://www.stormsurge.live,Global,community,
+global-healthy-liveable-cities,https://github.com/global-healthy-liveable-cities,N/A,,,
+BlinkTagInc,https://github.com/BlinkTagInc,https://blinktag.com,USA,for-profit,
+IIT-EnergySystemModels,https://github.com/IIT-EnergySystemModels,https://www.iit.comillas.edu/research-area/sadse,Spain,academia,
+sitkatech,https://github.com/sitkatech,https://www.esassoc.com,,,
+QGEP,https://github.com/QGEP,https://qgep.github.io/docs/,Switzerland,community,
+fieldsoftheworld,https://github.com/fieldsoftheworld,https://fieldsoftheworld.github.io/,,,
+DuraMAT,https://github.com/DuraMAT,https://duramat.github.io/pv-terms/,Global,community,
+rfcx,https://github.com/rfcx,https://rfcx.org/,,,
+tdwg,https://github.com/tdwg,http://www.tdwg.org,Global,collaboration,
+fiboa,https://github.com/fiboa,fiboa.org,,,
+ECCC-MSC,https://github.com/ECCC-MSC,https://www.ec.gc.ca/meteo-weather,,,
+icra,https://github.com/icra,https://www.icra.cat/,Spain,academia,
+MoBiodiv,https://github.com/MoBiodiv,https://www.idiv.de/en,Germany,academia,
+Akkudoktor-EOS,https://github.com/Akkudoktor-EOS,akkudoktor-eos.readthedocs.io,Global,community,
+mdolab,https://github.com/mdolab,http://mdolab.engin.umich.edu,USA,academia,
+MIT-LAE,https://github.com/MIT-LAE,https://lae.mit.edu,,,
+FINPLAN-Model,https://github.com/FINPLAN-Model,N/A,,,
+project-pareto,https://github.com/project-pareto,project-pareto.org,,,
+icesat2py,https://github.com/icesat2py,https://icepyx.readthedocs.io/en/latest/,Global,community,
+byuflowlab,https://github.com/byuflowlab,http://flow.byu.edu,USA,academia,
+fluctuo,https://github.com/fluctuo,https://fluctuo.com,,,
+airqo-platform,https://github.com/airqo-platform,http://www.airqo.net,,,
+AgrDataSci,https://github.com/AgrDataSci,cgiar.org,France,collaboration,
+python-windrose,https://github.com/python-windrose,https://python-windrose.github.io/windrose/,Global,community,
+UW-Hydro,https://github.com/UW-Hydro,https://uw-hydro.github.io/,USA,academia,
+jrc-ldv,https://code.europa.eu/jrc-ldv,N/A,,,
+EnAccess,https://github.com/EnAccess,https://enaccess.org,,,
+LiteFarmOrg,https://github.com/LiteFarmOrg,https://www.litefarm.org/,Canada,community,
+Big-Life-Lab,https://github.com/Big-Life-Lab,http://www.ohri.ca,,,
+LandSciTech,https://github.com/LandSciTech,N/A,,,
+CEMPD,https://github.com/CEMPD,http://www.ie.unc.edu/cempd/,USA,academia,
+quant-aq,https://github.com/quant-aq,https://www.quant-aq.com,,,
+MazamaScience,https://github.com/MazamaScience,http://mazamascience.com,,,
+Moore-Institute-4-Plastic-Pollution-Res,https://github.com/Moore-Institute-4-Plastic-Pollution-Res,http://mooreplasticresearch.org,,,
+jump-dev,https://github.com/jump-dev,https://jump.dev/,,,
+cityssm,https://github.com/cityssm,https://cityssm.github.io,,,
+PIK-LPJmL,https://github.com/PIK-LPJmL,,,,
+AfricaBirdData,https://github.com/AfricaBirdData,birdmap.africa,,community,
+adcirc,https://github.com/adcirc,http://www.adcirc.org,,,
+santiago-sanitation-systems,https://github.com/santiago-sanitation-systems,https://github.com/santiago-sanitation-systems/Santiago.jl,Switzerland,collaboration,
+treflehq,https://github.com/treflehq,https://trefle.io,France,community,
+DBD-research-group,https://github.com/DBD-research-group,N/A,,,
+forestdatapartnership,https://github.com/forestdatapartnership,http://www.forestdatapartnership.org,,,
+pyswmm,https://github.com/pyswmm,http://www.pyswmm.org,USA,community,
+nwfsc-cb,https://github.com/nwfsc-cb,https://www.fisheries.noaa.gov/about/northwest-fisheries-science-center,USA,government agency,
+hotmaps,https://gitlab.com/hotmaps,hotmaps-project.eu,Global,collaboration,
+NordicESMhub,https://github.com/NordicESMhub,http://nordicesmhub.github.io,,,
+opendata-apps,https://github.com/opendata-apps,https://gottesanbeterin-gesucht.de,,,
+cncf-tags,https://github.com/cncf-tags,cncf.io,Global,community,
+ebird,https://github.com/ebird,https://science.ebird.org/en/status-and-trends,USA,academia,
+mobilityhouse,https://github.com/mobilityhouse,https://mobilityhouse.com/,Germany,for-profit,
+VeinsOfTheEarth,https://github.com/VeinsOfTheEarth,https://veinsoftheearth.github.io/RivGraph/,Global,community,
+openvironment,https://github.com/openvironment,https://www.astridproject.com/,,,
+Plant-Root-Soil-Interactions-Modelling,https://github.com/Plant-Root-Soil-Interactions-Modelling,https://plant-root-soil-interactions-modelling.github.io/CRootBox/,Global,government agency,
+ICESAT-2HackWeek,https://github.com/ICESAT-2HackWeek,https://icesat-2.hackweek.io/,,,
+emlab-ucsb,https://github.com/emlab-ucsb,http://emlab.ucsb.edu,,,
+EcologyR,https://github.com/EcologyR,https://ecologyr.github.io/workshop/,Spain,academia,
+kartevonmorgen,https://github.com/kartevonmorgen,https://kartevonmorgen.org,,,
+WFP-VAM,https://github.com/WFP-VAM,http://vam.wfp.org,Global,government agency,
+icepack,https://github.com/icepack,N/A,,,
+correctiv,https://github.com/correctiv,https://correctiv.org/,,,
+awslabs,https://github.com/awslabs,http://amazon.com/aws/,,,
+alumet-dev,https://github.com/alumet-dev,https://alumet.dev,,,
+neuromatch,https://github.com/neuromatch,http://neuromatch.io,,,
+OpenDroneMap,https://github.com/OpenDroneMap,https://opendronemap.org,Global,community,
+Greater-Wellington-Regional-Council,https://github.com/Greater-Wellington-Regional-Council,https://www.gw.govt.nz/,,,
+teikei,https://github.com/teikei,http://ernte-teilen.org,,,
+resource-watch,https://github.com/resource-watch,https://resourcewatch.org/,USA,non-profit,
+facebookresearch,https://github.com/facebookresearch,https://opensource.fb.com,,,
+ihesp,https://github.com/ihesp,https://ihesp.github.io/ihesp_web/,USA,academia,
+RoseauTechnologies,https://github.com/RoseauTechnologies,https://www.roseautechnologies.com,,,
+igfuw,https://github.com/igfuw,http://foss.igf.fuw.edu.pl/,,,
+ices-tools-prod,https://github.com/ices-tools-prod,https://www.ices.dk/data/tools/Pages/Software.aspx,Denmark,academia,
+kike-canaries,https://github.com/kike-canaries,http://canair.io,,,
+epiverse-trace,https://github.com/epiverse-trace,https://epiverse.org,,,
+GridOPTICS,https://github.com/GridOPTICS,https://www.battelle.org/,USA,non-profit,
+IAMconsortium,https://github.com/IAMconsortium,https://www.iamconsortium.org,Global,collaboration,
+ClimateWatch-Vizzuality,https://github.com/ClimateWatch-Vizzuality,https://www.climatewatchdata.org/,USA,non-profit,
+climate-tech-handbook,https://github.com/climate-tech-handbook,https://www.climatetechhandbook.com/,Global,community,
+GridMod,https://github.com/GridMod,https://www.nrel.gov/grid/reliability-test-system.html,USA,government agency,
+magpiemodel,https://github.com/magpiemodel,https://magpiemodel.github.io/,Germany,government agency,
+ec-jrc,https://github.com/ec-jrc,https://ec.europa.eu/jrc/,EU,government agency,
+cropbox,https://github.com/cropbox,,,,
+switch-model,https://github.com/switch-model,http://switch-model.org,USA,community,
+inrae,https://github.com/inrae,https://www.inrae.fr/en,,,
+umd-cgs,https://github.com/umd-cgs,cgs.umd.edu,USA,academia,
+InverseTampere,https://github.com/InverseTampere,https://webpages.tuni.fi/inverse/,Finland,academia,
+Agri-Hub,https://github.com/Agri-Hub,,Greece,academia,
+macroenergy,https://github.com/macroenergy,https://energy.mit.edu/,USA,academia,
+emissions-api,https://github.com/emissions-api,https://emissions-api.org,Germany,community,
+PlanktoScope,https://github.com/PlanktoScope,https://www.planktoscope.org,Global,community,
+DPGAlliance,https://github.com/DPGAlliance,http://digitalpublicgoods.net,Global,collaboration,
+FLARE-forecast,https://github.com/FLARE-forecast,https://flare-forecast.org/,Global,collaboration,
+ioos,https://github.com/ioos,http://ioos.github.io,,,
+sykefi,https://github.com/sykefi,http://www.syke.fi,,,
+p2irc,https://github.com/p2irc,http://p2irc.usask.ca,Canada,academia,
+SESMG,https://github.com/SESMG,http://www.fh.ms/esym,Germany,academia,
+ecoinvent,https://github.com/ecoinvent,https://www.ecoinvent.org,,,
+UW-SASWE,https://github.com/UW-SASWE,https://saswe.net/,,,
+biomodhub,https://github.com/biomodhub,N/A,,,
+iobis,https://github.com/iobis,https://obis.org,Belgium,collaboration,
+batterysim,https://github.com/batterysim,https://vibe.ornl.gov/,USA,government agency,
+techmatters,https://github.com/techmatters,https://techmatters.org/,USA,non-profit,
+inasafe,https://github.com/inasafe,http://inasafe.org,Global,collaboration,
+STS-Rosario,https://github.com/STS-Rosario,http://www.stsrosario.org.ar/index.html,Argentina,community,
+uDALES,https://github.com/uDALES,https://udales.github.io/u-dales/,Netherlands,community,
+iat-cener,https://github.com/iat-cener,https://www.cener.com,Spain,government agency,
+OpenFLUID,https://github.com/OpenFLUID,http://www.openfluid-project.org,France,collaboration,
+global-hydrodynamics,https://github.com/global-hydrodynamics,https://global-hydrodynamics.github.io/,Japan,academia,
+ESGF,https://github.com/ESGF,http://esgf.llnl.gov,USA,government agency,
+nesp-tsr3-1,https://github.com/nesp-tsr3-1,nespthreatenedspecies.edu.au,Global,academia,
+LinkedEarth,https://github.com/LinkedEarth,http://linked.earth,USA,community,
+precision-sustainable-ag,https://github.com/precision-sustainable-ag,http://www.precisionsustainableag.org,,,
+fathomnet,https://github.com/fathomnet,http://www.fathomnet.org,,,
+IDEMSInternational,https://github.com/IDEMSInternational,https://www.idems.international/,USA,non-profit,
+awst-austria,https://github.com/awst-austria,https://www.awst.at/,Austria,for-profit,
+RBGKew,https://github.com/RBGKew,https://www.kew.org/science/who-we-are-and-what-we-do/departments/biodiversity-informatics-and-spatial-analysis,UK,government agency,
+iClimate,https://github.com/iClimate,https://ghgpy.iclimate.io.vn/,,,
+spatial-ews,https://github.com/spatial-ews,N/A,,,
+compdyn,https://github.com/compdyn,https://lagrange.mechse.illinois.edu/partmc/,Global,community,
+orbisgis,https://github.com/orbisgis,http://www.orbisgis.org,France,academia,
+storm-fsv-cvut,https://github.com/storm-fsv-cvut,http://storm.fsv.cvut.cz/?lang=en,,,
+SmartTensors,https://github.com/SmartTensors,http://EnviTrace.com,USA,community,
+SAP-samples,https://github.com/SAP-samples,https://developers.sap.com/,Germany,for-profit,
+USDA-ARS-ACSL,https://github.com/USDA-ARS-ACSL,https://www.ars.usda.gov/nea/barc/acsl,,,
+LIVVkit,https://github.com/LIVVkit,https://climatemodeling.science.energy.gov/technical-highlights/land-ice-verification-and-validation-toolkit-livvkit,USA,government agency,
+moregeo-it,https://github.com/moregeo-it,moregeo.it,Global,community,
+uncscode,https://github.com/uncscode,N/A,,,
+biocro,https://github.com/biocro,N/A,,,
+cityflow-project,https://github.com/cityflow-project,cityflow-project.github.io,Global,community,
+OpenSenseAction,https://github.com/OpenSenseAction,opensenseaction.eu,Global,collaboration,
+energy-data,https://github.com/energy-data,energydata.info,,,
+reegis,https://github.com/reegis,https://deflex.readthedocs.io/en/latest/,Global,community,
+EcohydrologyTeam,https://github.com/EcohydrologyTeam,N/A,,,
+sogno-platform,https://github.com/sogno-platform,https://sogno.energy/,Global,community,
+frontendnetwork,https://github.com/frontendnetwork,https://frontendnet.work,Germany,for-profit,
+ToxPi,https://github.com/ToxPi,https://toxpi.org,,,
+dailyerosion,https://github.com/dailyerosion,https://dailyerosion.org,,,
+mapme-initiative,https://github.com/mapme-initiative,https://mapme-initiative.org/,Germany,for-profit,
+openego,https://github.com/openego,https://openegoproject.wordpress.com/,Germany,community,
+open-atmos,https://github.com/open-atmos,N/A,Global,community,
+myroms,https://github.com/myroms,https://www.myroms.org/wiki,Global,community,
+ITSLeeds,https://github.com/ITSLeeds,https://environment.leeds.ac.uk/transport,UK,academia,
+elenia1,https://gitlab.com/elenia1,N/A,,,
+cloud-carbon-footprint,https://github.com/cloud-carbon-footprint,https://cloudcarbonfootprint.org,USA,community,
+sintel-dev,https://github.com/sintel-dev,https://dai.lids.mit.edu/,USA,academia,
+the-clothing-loop,https://github.com/the-clothing-loop,https://www.clothingloop.org/,,,
+rollthecloudinc,https://github.com/rollthecloudinc,https://rollthecloud.com,USA,non-profit,
+osmcode,https://github.com/osmcode,https://osmcode.org/,,,
+MicroGridsPy,https://github.com/MicroGridsPy,N/A,,,
+eradiate,https://github.com/eradiate,https://www.eradiate.eu/,Belgium,for-profit,
+spaceml-org,https://github.com/spaceml-org,http://spaceml.org,Global,collaboration,
+gicait,https://github.com/gicait,http://geoinfo.ait.ac.th/,Thailand,academia,
+MESMER-group,https://github.com/MESMER-group,https://mesmer-emulator.readthedocs.io/en/latest/,Switzerland,academia,
+it-is-me-mario,https://github.com/it-is-me-mario,https://mario-suite.readthedocs.io/en/latest/index.html,,,
+DOV-Vlaanderen,https://github.com/DOV-Vlaanderen,https://www.dov.vlaanderen.be,Belgium,government agency,
+BioSTEAMDevelopmentGroup,https://github.com/BioSTEAMDevelopmentGroup,https://biosteam.readthedocs.io/en/latest/index.html,Global,community,
+streetmix,https://github.com/streetmix,https://streetmix.net/,Global,community,
+FlexMeasures,https://github.com/FlexMeasures,https://flexmeasures.io,Global,collaboration,
+openmobilityfoundation,https://github.com/openmobilityfoundation,http://www.openmobilityfoundation.org/,USA,non-profit,
+ltrr-arizona-edu,https://github.com/ltrr-arizona-edu,http://ltrr.arizona.edu/,USA,academia,
+ClimateCompatibleGrowth,https://github.com/ClimateCompatibleGrowth,http://www.climatecompatiblegrowth.com,,,
+EarthSystemDiagnostics,https://github.com/EarthSystemDiagnostics,https://www.awi.de/en/science/geosciences/polar-terrestrial-environmental-systems/research-foci/earth-system-diagnostics.html,Germany,academia,
+BASIN-3D,https://github.com/BASIN-3D,https://basin3d.readthedocs.io/en/stable/,Global,community,
+Deltares-research,https://github.com/Deltares-research,https://www.deltares.nl/en/,,,
+eea,https://github.com/eea,https://www.eea.europa.eu,Denmark,government agency,
+greco-project,https://github.com/greco-project,https://www.greco-project.eu/,EU,collaboration,
+CADWRDeltaModeling,https://github.com/CADWRDeltaModeling,https://cadwrdeltamodeling.github.io/html/index.html,,,
+DFO-Ocean-Navigator,https://github.com/DFO-Ocean-Navigator,http://navigator.oceansdata.ca,Canada,academia,
+ocean-data-factory-sweden,https://github.com/ocean-data-factory-sweden,https://www.gu.se/,Sweden,academia,
+EDIorg,https://github.com/EDIorg,https://edirepository.org/,,,
+mobility-team,https://github.com/mobility-team,https://mobility-team.github.io/,France,community,
+ProjectBabbler,https://github.com/ProjectBabbler,,,,
+intelligent-environments-lab,https://github.com/intelligent-environments-lab,http://nagy.caee.utexas.edu,USA,academia,
+cal-adapt,https://github.com/cal-adapt,https://cal-adapt.org,,,
+uaf-arctic-eco-modeling,https://github.com/uaf-arctic-eco-modeling,https://uaf-arctic-eco-modeling.github.io/dvm-dos-tem/,Global,community,
+diowa,https://github.com/diowa,http://diowa.com,Italy,for-profit,
+GEB-model,https://github.com/GEB-model,N/A,,,
+consbio,https://github.com/consbio,http://consbio.org,,,
+turbinesFoam,https://github.com/turbinesFoam,https://www.openfoam.com/,Global,academia,
+opennem,https://github.com/opennem,https://opennem.org.au,Australia,community,
+patch-technology,https://github.com/patch-technology,https://patch.io,USA,for-profit,
+SwitchEV,https://github.com/SwitchEV,https://www.switch-ev.com,UK,for-profit,
+uncefact,https://github.com/uncefact,https://www.unece.org/cefact/,,,
+openplantpathology,https://github.com/openplantpathology,https://www.openplantpathology.org/,Global,non-profit,
+onaci,https://github.com/onaci,https://www.csiro.au/en/about/people/business-units/Oceans-and-Atmosphere,Australia,government agency,
+ABbiodiversity,https://github.com/ABbiodiversity,http://www.abmi.ca,,,
+ClarkCGA,https://github.com/ClarkCGA,clarku.edu,USA,academia,
+ECCO-Hackweek,https://github.com/ECCO-Hackweek,ecco-group.org,USA,community,
+GSA,https://github.com/GSA,https://open.gsa.gov,USA,government agency,
+EVerest,https://github.com/EVerest,https://www.lfenergy.org/projects/everest/,Germany,for-profit,
+VUKOZ-OEL,https://github.com/VUKOZ-OEL,http://www.naturalforests.cz,Czech Republic,government agency,
+dlr-pa,https://github.com/dlr-pa,https://www.dlr.de/pa,Germany,government agency,
+CryoGrid,https://github.com/CryoGrid,N/A,Global,community,
+ternaustralia,https://github.com/ternaustralia,http://www.tern.org.au,,,
+tenstream,https://github.com/tenstream,N/A,Germany,community,
+CABLE-LSM,https://github.com/CABLE-LSM,https://cable.readthedocs.io/en/latest/,,,
+Open-Agriculture,https://github.com/Open-Agriculture,,Global,academia,
+osdg-ai,https://github.com/osdg-ai,https://osdg.ai,Global,academia,
+fishglob,https://github.com/fishglob,http://fishglob.sites.ucsc.edu,,,
+ev-map,https://github.com/ev-map,https://ev-map.app/,Germany,community,
+KnowFlow,https://github.com/KnowFlow,https://publiclab.org/wiki/knowflow,China,community,
+xgcm,https://github.com/xgcm,xgcm.readthedocs.io,Global,community,
+OSOceanAcoustics,https://github.com/OSOceanAcoustics,https://oalib-acoustics.org/,USA,academia,
+Traace-co,https://github.com/Traace-co,https://traace.co,France,for-profit,
+eurodatacube,https://github.com/eurodatacube,https://eurodatacube.com,,,
+open-ideas,https://github.com/open-ideas,,Global,community,
+PerovskiteSCModelling,https://github.com/PerovskiteSCModelling,N/A,Global,academia,
+meteoinfo,https://github.com/meteoinfo,http://www.meteothink.org/,China,academia,
+enbility,https://github.com/enbility,https://enbility.net,,,
+open-sdg,https://github.com/open-sdg,https://open-sdg.org/,Global,government agency,
+OpenSynth-energy,https://github.com/OpenSynth-energy,https://opensynth.energy,,,
+GMLC-TDC,https://github.com/GMLC-TDC,https://helics.org,USA,government agency,
+International-Soil-Radiocarbon-Database,https://github.com/International-Soil-Radiocarbon-Database,https://soilradiocarbon.org/,USA,academia,
+NRAP,https://gitlab.com/NRAP,,,,
+climopy-dev,https://github.com/climopy-dev,https://climopy.readthedocs.io,Global,community,
+permafrostnet,https://gitlab.com/permafrostnet,permafrostnet.ca,Canada,,
+HPSCTerrSys,https://github.com/HPSCTerrSys,http://www.hpsc-terrsys.de,,,
+USDAForestService,https://github.com/USDAForestService,https://www.fs.usda.gov/,USA,government agency,
+PoisotLab,https://github.com/PoisotLab,http://poisotlab.io,Canada,academia,
+QSD-Group,https://github.com/QSD-Group,N/A,Global,academia,
+emoncms,https://github.com/emoncms,http://emoncms.org,UK,community,
+Big-Biodiversity-Collaborative,https://github.com/Big-Biodiversity-Collaborative,https://www.gbif.org/,Global,collaboration,
+UXARRAY,https://github.com/UXARRAY,https://geocat.ucar.edu/,USA,collaboration,
+centrefornetzero,https://github.com/centrefornetzero,https://www.centrefornetzero.org/,,,
+TNO,https://github.com/TNO,http://www.tno.nl,Netherlands,government agency,
+nychealth,https://github.com/nychealth,http://www.nyc.gov/health,,,
+stripe,https://github.com/stripe,https://stripe.com,USA,for-profit,
+zalf-rpm,https://github.com/zalf-rpm,http://www.zalf.de/en/struktur/fds/Pages/default.aspx,Germany,non-profit,
+lter,https://github.com/lter,http://www.lternet.edu,,,
+SoilBGC-Datashare,https://github.com/SoilBGC-Datashare,https://soilbgc-datashare.github.io/sidb/,Germany,academia,
+passaH2O,https://github.com/passaH2O,https://sites.google.com/site/passalacquagroup/home,USA,academia,
+wildlife-dynamics,https://github.com/wildlife-dynamics,https://www.wildlifedynamics.com/,,,25 Oct 2025
+mhm,https://git.ufz.de/mhm,N/A,,,
+nilmtk,https://github.com/nilmtk,https://nilmtk.github.io/,Global,community,
+TulipaEnergy,https://github.com/TulipaEnergy,https://www.tno.nl/en/,Netherlands,for-profit,
+BirdLifeInternational,https://github.com/BirdLifeInternational,http://www.birdlife.org,,,
+Ecohackerfarm,https://github.com/Ecohackerfarm,https://wiki.ecohackerfarm.org,Germany,community,
+ClimateGlobalChange,https://github.com/ClimateGlobalChange,https://climate.ucdavis.edu/tempestextremes.php,USA,academia,
+wpgp,https://github.com/wpgp,https://www.worldpop.org,UK,academia,
+csdms,https://github.com/csdms,http://csdms.colorado.edu,USA,academia,
+epri-dev,https://github.com/epri-dev,http://www.epri.com,USA,for-profit,
+dl4sits,https://github.com/dl4sits,N/A,Global,community,
+idaholab,https://github.com/idaholab,https://inl.gov,USA,government agency,
+we3lab,https://github.com/we3lab,we3lab.stanford.edu,USA,collaboration,
+climateinteractive,https://github.com/climateinteractive,https://climateinteractive.org/,,,
+BETALAB-team,https://github.com/BETALAB-team,https://research.dii.unipd.it/betalab/,Italy,academia,
+brazil-data-cube,https://github.com/brazil-data-cube,http://brazildatacube.org,Brazil,government agency,
+CARDAMOM-framework,https://github.com/CARDAMOM-framework,N/A,,,
+openfarmcc,https://github.com/openfarmcc,http://www.openfarm.cc,Global,community,
+firetools,https://github.com/firetools,firetools.org,Italy,community,
+salmonwatersheds,https://github.com/salmonwatersheds,https://salmonwatersheds.ca/,,,
+BoldingBruggeman,https://github.com/BoldingBruggeman,http://www.bolding-bruggeman.com,Italy,for-profit,
+VU-IVM,https://github.com/VU-IVM,https://www.ivm.vu.nl/en/index.aspx,,,
+balmorelcommunity,https://github.com/balmorelcommunity,balmorel.com,USA,community,
+environmentalinformatics-marburg,https://github.com/environmentalinformatics-marburg,http://www.environmentalinformatics-marburg.de,,,
+globalbioticinteractions,https://github.com/globalbioticinteractions,http://globalbioticinteractions.org,Global,academia,
+NASA-LIS,https://github.com/NASA-LIS,https://lis.gsfc.nasa.gov/,USA,government agency,
+GIS4WRF,https://github.com/GIS4WRF,https://gis4wrf.github.io,Global,community,
+OpenTopography,https://github.com/OpenTopography,http://www.opentopography.org,USA,academia,
+ncsuSEAL,https://github.com/ncsuSEAL,https://ncsu-seal.netlify.app/,,,
+GralDispersionModel,https://github.com/GralDispersionModel,https://gral.tugraz.at/,Global,community,
+SpeedyWeather,https://github.com/SpeedyWeather,speedyweather.github.io,,community,
+sisl,https://github.com/sisl,http://sisl.stanford.edu,,,
+secondlaw-ai,https://github.com/secondlaw-ai,secondlaw.com,Global,academia,
+regen-network,https://github.com/regen-network,https://www.regen.network,USA,for-profit,
+OPERA-Cal-Val,https://github.com/OPERA-Cal-Val,https://www.jpl.nasa.gov/go/opera/products/,,,
+OpenIPSL,https://github.com/OpenIPSL,http://openipsl.org,USA,for-profit,
+GreenScheduler,https://github.com/GreenScheduler,https://www.jpl.nasa.gov/go/opera/products/,,,
+EnergyTransition,https://github.com/EnergyTransition,https://www.tno.nl/nl/aandachtsgebieden/informatie-communicatie-technologie/expertisegroepen/monitoring-control-services/grip-op-de-energietransitie-met-esdl/,Netherlands,academia,
+csa-admin-org,https://github.com/csa-admin-org,https://csa-admin.org,,,
+HoareLea,https://github.com/HoareLea,http://www.hoarelea.com,,,
+funecology,https://github.com/funecology,https://funecology.github.io/fundiversity/,,,
+assume-framework,https://github.com/assume-framework,https://assume-project.de/,Germany,community,
+SolarArbiter,https://github.com/SolarArbiter,https://forecastarbiter.epri.com,USA,government agency,
+prommis,https://github.com/prommis,netl.doe.gov/prommis,Global,community,
+karrot-dev,https://github.com/karrot-dev,https://karrot.world,Global,community,
+Cloud-Drift,https://github.com/Cloud-Drift,https://cloud-drift.github.io/clouddrift/,USA,community,
+pyet-org,https://github.com/pyet-org,https://github.com/phydrus/pyet,Global,community,
+then-try-this,https://gitlab.com/then-try-this,thentrythis.org,UK,non-profit organisation,
+PSUmodeling,https://github.com/PSUmodeling,https://psumodeling.github.io/,USA,academia,
+rOpenSpain,https://github.com/rOpenSpain,http://ropenspain.es,Spain,community,
+IrishMarineInstitute,https://github.com/IrishMarineInstitute,https://www.marine.ie/,Ireland,government agency,
+stcorp,https://github.com/stcorp,http://stcorp.nl/,,,
+fineprint-global,https://github.com/fineprint-global,http://www.fineprint.global/,Austria,academia,
+Aalto-QuML,https://github.com/Aalto-QuML,quml.aalto.fi,,collaboration,
+technologiestiftung,https://github.com/technologiestiftung,https://www.technologiestiftung-berlin.de,Germany,non-profit,
+DPIRD-FSI,https://github.com/DPIRD-FSI,https://dpird.wa.gov.au/,Australia,government agency,
+sizespectrum,https://github.com/sizespectrum,https://sizespectrum.org/mizer/,UK,academia,
+NOAA-ORR-ERD,https://github.com/NOAA-ORR-ERD,http://response.restoration.noaa.gov,USA,government agency,
+NEONScience,https://github.com/NEONScience,http://www.neonscience.org/,USA,government agency,
+MAAP-Project,https://github.com/MAAP-Project,https://maap-project.org/,Global,government agency,
+ciceroOslo,https://github.com/ciceroOslo,https://cicero.oslo.no,,,
+cpmodel,https://github.com/cpmodel,N/A,,,
+ETCE-LAB,https://github.com/ETCE-LAB,http://www.etce-lab.com,,,
+BrickSchema,https://github.com/BrickSchema,https://brickschema.org/,Global,collaboration,
+NOAA-FIMS,https://github.com/NOAA-FIMS,https://noaa-fims.github.io/,Global,collaboration,
