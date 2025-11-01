@@ -105,7 +105,8 @@ def change_file_and_create_pull_request(
     try:
         repository.create_git_ref(ref=f"refs/heads/{target_branch_name}", sha=base_sha)
     except:
-        pass  # Skip issues where branch already exist
+        print(f"Ignoring {target_branch_name} as the branch already exists")
+        return
 
     # Get the base file
     base_file_contents = repository.get_contents(file, ref=base_sha)
