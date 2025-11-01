@@ -42,8 +42,11 @@ if github_token is None:
 N_MAXIMUM_CHANGES_PER_ITERATION: int | None = os.environ.get(
     "N_MAXIMUM_CHANGES_PER_ITERATION"
 )
-if N_MAXIMUM_CHANGES_PER_ITERATION is None:
+if N_MAXIMUM_CHANGES_PER_ITERATION in [None, ""]:
     N_MAXIMUM_CHANGES_PER_ITERATION = 10
+    print(
+        f"Forcing N_MAXIMUM_CHANGES_PER_ITERATION to {N_MAXIMUM_CHANGES_PER_ITERATION}"
+    )
 else:
     N_MAXIMUM_CHANGES_PER_ITERATION = int(N_MAXIMUM_CHANGES_PER_ITERATION)
 
@@ -102,7 +105,8 @@ def change_file_and_create_pull_request(
     try:
         repository.create_git_ref(ref=f"refs/heads/{target_branch_name}", sha=base_sha)
     except:
-        pass  # Skip issues where branch already exist
+        print(f"Ignoring {target_branch_name} as the branch already exists")
+        return
 
     # Get the base file
     base_file_contents = repository.get_contents(file, ref=base_sha)
@@ -201,7 +205,7 @@ def _cached_session_get(s: requests.Session, url: str) -> tuple[int | None, str 
         timeout=TIMEOUT_DEFAULT,
     )
     status_code = r.status_code
-    if (status_code // 100) == 3:
+    if (status_code is not None) and (status_code // 100) == 3:
         next_url = r.next.url
     else:
         next_url = None
@@ -241,7 +245,9 @@ try:
             status_code, next_url = _cached_session_get(SESSION, url_i)
         except requests.exceptions.ConnectionError:
             status_code = None
-        if (status_code // 100) == 2:
+        if status_code is None:
+            pass
+        elif (status_code // 100) == 2:
             pass  # Nothing to declare
         else:
             if status_code is None:
