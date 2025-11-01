@@ -204,7 +204,7 @@ def _cached_session_get(s: requests.Session, url: str) -> tuple[int | None, str 
         timeout=TIMEOUT_DEFAULT,
     )
     status_code = r.status_code
-    if (status_code // 100) == 3:
+    if (status_code is not None) and (status_code // 100) == 3:
         next_url = r.next.url
     else:
         next_url = None
@@ -244,7 +244,9 @@ try:
             status_code, next_url = _cached_session_get(SESSION, url_i)
         except requests.exceptions.ConnectionError:
             status_code = None
-        if (status_code // 100) == 2:
+        if status_code is None:
+            pass
+        elif (status_code // 100) == 2:
             pass  # Nothing to declare
         else:
             if status_code is None:
