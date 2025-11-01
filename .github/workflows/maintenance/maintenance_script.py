@@ -1,17 +1,52 @@
+# /// script
+# requires-python = ">=3.13"
+# dependencies = [
+#   'requests>=2.32.5',
+#   'tqdm>=4.67.1',
+#   'urllib3>=2.5.0',
+#   'diskcache>=5.6.3',
+#   'PyGithub==2.8.1',
+#   'python-dotenv',
+# ]
+# ///
 """
 This python script screens resources linked to, and ensures that they're still alive
+
+Environment variables to set:
+- GITHUB_API_TOKEN
+- N_MAXIMUM_CHANGES_PER_ITERATION
+
+Note: the header contains all dependencies to easily run with UV
 """
 
 import logging
 import os
 import re
 from dataclasses import dataclass
+from typing import Callable
 
 import diskcache
 import requests
+from dotenv import load_dotenv
+from github import Auth, Github, Repository
 from requests.adapters import HTTPAdapter
 from tqdm import tqdm
 from urllib3.util import Retry
+
+load_dotenv()
+github_token = Auth.Token(os.environ.get("GITHUB_API_TOKEN"))
+if github_token is None:
+    raise EnvironmentError(
+        "Missing Github token in environment (please initialise GITHUB_API_TOKEN)"
+    )
+N_MAXIMUM_CHANGES_PER_ITERATION: int | None = os.environ.get(
+    "N_MAXIMUM_CHANGES_PER_ITERATION"
+)
+if N_MAXIMUM_CHANGES_PER_ITERATION is None:
+    N_MAXIMUM_CHANGES_PER_ITERATION = 12
+else:
+    N_MAXIMUM_CHANGES_PER_ITERATION = int(N_MAXIMUM_CHANGES_PER_ITERATION)
+
 
 # Parameters to adjust
 IGNORE_URL_PREFIXES = [
@@ -19,7 +54,7 @@ IGNORE_URL_PREFIXES = [
 ]
 TIMEOUT_DEFAULT = 5
 ALLOWED_RETRIES = 4
-N_MAXIMUM_CHANGES_PER_ITERATION: int | None = 5  # None ignores the feature
+
 CACHE_LIFETIME_SECONDS = 3600 * 24 * 28  # 28 days of cache lifetime
 
 
@@ -44,6 +79,57 @@ _cache_folder = "maintenance-diskcache/"
 os.makedirs(_cache_folder, exist_ok=True)
 CACHE = diskcache.Cache(_cache_folder)
 
+GITHUB_CLIENT = Github(auth=github_token)
+
+# ------------------------------------------------------------------------------------
+# Connects to Github
+# ------------------------------------------------------------------------------------
+
+
+def change_file_and_create_pull_request(
+    repository: Repository,
+    base_branch: str,
+    file: str,
+    f_change_apply: Callable,
+    target_branch_name: str,
+    commit_message: str,
+    pr_name: str,
+    pr_body: str,
+) -> None:
+    # Get the default branch
+    base_branch_for_checkout = repository.get_branch(base_branch)
+    base_sha = base_branch_for_checkout.commit.sha
+    try:
+        repository.create_git_ref(ref=f"refs/heads/{target_branch_name}", sha=base_sha)
+    except:
+        pass  # Skip issues where branch already exist
+
+    # Get the base file
+    base_file_contents = repository.get_contents(file, ref=base_sha)
+
+    # Update the file content
+    new_file_contents = f_change_apply(
+        base_file_contents.decoded_content.decode("utf-8")
+    )
+
+    repository.update_file(
+        path=base_file_contents.path,
+        message=commit_message,
+        content=new_file_contents,
+        sha=base_file_contents.sha,
+        branch=target_branch_name,
+    )
+
+    # Create a pull request
+    pr = repository.create_pull(
+        title=pr_name,
+        body=pr_body,
+        head=target_branch_name,
+        base=base_branch,
+    )
+    print(f"Created PR #{pr.number}: {pr.title}")
+
+
 markdown_file = "README.md"
 
 # ------------------------------------------------------------------------------------
@@ -53,6 +139,8 @@ if os.path.exists(markdown_file):
     file_io_path = markdown_file
 elif os.path.exists(f"../{markdown_file}"):
     file_io_path = f"../{markdown_file}"
+elif os.path.exists(f"open-sustainable-technology/{markdown_file}"):
+    file_io_path = f"open-sustainable-technology/{markdown_file}"
 else:
     raise FileNotFoundError("Unable to find readme file")
 
@@ -185,17 +273,115 @@ CACHE.close()
 # ------------------------------------------------------------------------------------
 # Writing updates in file
 # ------------------------------------------------------------------------------------
-logging.info("Replacing links")
-for i in ltm.invalid_urls:
-    md_content = md_content.replace(i, "DEAD_URL")
-for i in ltm.error_urls:
-    md_content = md_content.replace(i, "ERROR_URL")
-for old_url, new_url in ltm.redirected_urls.items():
-    md_content = md_content.replace(old_url, new_url)
-# and do nothing about the forbidden ones
 
-logging.info(f"Exporting updated file: {file_io_path}")
-with open(file_io_path, "w") as f:
-    f.write(md_content)
+# Creating PRs for issues detected
+
+common_kwargs = dict(
+    repository=GITHUB_CLIENT.get_user("protontypes").get_repo(
+        "open-sustainable-technology"
+    ),
+    base_branch="main",
+    file="README.md",
+)
+
+
+# First, fix the redirections
+open_prs = common_kwargs.get("repository").get_pulls(state="open", head="main")
+
+
+def _f_repo_id(url: str) -> str:
+    x = url.split("/")
+    return f"{x[-2]}/{x[-1]}"
+
+
+def chunk_dict(x: dict[str, str], chunk_size: int = 3) -> list[dict[str, str]]:
+    out = []
+    x_keys = list(x.keys())
+    for i in range(0, len(x_keys), chunk_size):
+        out.append({i: x[i] for i in x_keys[i : i + chunk_size]})
+    return out
+
+
+_relevant_prs_titles = [i.title for i in open_prs]
+
+
+def _hasnt_yet_been_processed(url: str) -> bool:
+    id_short = _f_repo_id(url)
+    for i in _relevant_prs_titles:
+        if id_short in i:
+            return False
+    return True
+
+
+unprocessed_urls = {
+    i: v for i, v in ltm.redirected_urls.items() if _hasnt_yet_been_processed(i)
+}
+if len(unprocessed_urls) < 1:
+    print("No REDIRECT updates to carry out")
+for redirects in chunk_dict(unprocessed_urls, chunk_size=3):
+
+    def f_fix_redirect(md_content: str) -> str:
+        logging.info("Replacing links")
+        for old_url, new_url in redirects.items():
+            md_content = md_content.replace(old_url, new_url)
+        return md_content
+
+    print(redirects)
+    sources = list(redirects.keys())
+    targets = list(redirects.values())
+    branch_name = f"fix-redirects{'-'.join([_f_repo_id(i) for i in sources])}"
+    pr_name = f"Redirect {', '.join([_f_repo_id(i) for i in sources])}"
+    pr_body = "This PR carries out redirection of the following links:\n" + "\n".join(
+        [f"- [{k}]({k}) to [{v}]({v})" for k, v in redirects.items()]
+    )
+    change_file_and_create_pull_request(
+        **common_kwargs,
+        f_change_apply=f_fix_redirect,
+        target_branch_name=branch_name,
+        commit_message="Fixing targets",
+        pr_name=pr_name,
+        pr_body=pr_body,
+    )
+
+
+# Second: removing the lines with URL issues
+def remove_lines_containing(markdown_str, url):
+    lines = markdown_str.splitlines()
+    filtered_lines = [line for line in lines if url not in line]
+    return "\n".join(filtered_lines)
+
+
+def chunk_list(x: list[str], chunk_size: int = 3) -> list[list[str]]:
+    return [x[i : i + chunk_size] for i in range(0, len(x), chunk_size)]
+
+
+unprocessed_urls = [
+    i for i in ltm.error_urls + ltm.invalid_urls if _hasnt_yet_been_processed(i)
+]
+if len(unprocessed_urls) < 1:
+    print("No ISSUES updates to carry out")
+for urls_issues in chunk_list(unprocessed_urls, chunk_size=1):
+
+    def f_remove_issues(md_content: str) -> str:
+        logging.info("Removing links")
+        for i in urls_issues:
+            md_content = remove_lines_containing(md_content, i)
+        return md_content
+
+    print(urls_issues)
+    sources = urls_issues
+    branch_name = f"remove-issues-{'-'.join([_f_repo_id(i) for i in sources])}"
+    pr_name = f"Removing {', '.join([_f_repo_id(i) for i in sources])}"
+    pr_body = "This PR deletes the links with issues:\n" + "\n".join(
+        [f"- [{k}]({k})" for k in sources]
+    )
+    change_file_and_create_pull_request(
+        **common_kwargs,
+        f_change_apply=f_remove_issues,
+        target_branch_name=branch_name,
+        commit_message="Fixing targets",
+        pr_name=pr_name,
+        pr_body=pr_body,
+    )
 
 logging.info("Completed")
