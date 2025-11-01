@@ -488,6 +488,7 @@ energy system designs and analysis of interactions between technologies.
 - [TIMES_model](https://github.com/etsap-TIMES/TIMES_model) - A bottom-up optimization model used for the exploration of possible energy futures based on contrasted scenarios.
 - [xl2times](https://github.com/etsap-TIMES/xl2times) - An open source tool to convert TIMES models specified in Excel to a format ready for processing by GAMS.
 - [MUSE_OS](https://github.com/EnergySystemsModellingLab/MUSE_OS) - A open source agent-based modelling environment that can be used to simulate change in an energy system over time.
+- [MUSE2](https://github.com/EnergySystemsModellingLab/MUSE2) - Atool for running simulations of energy systems. It is written in Rust and its purpose is to provide users with a framework to simulate pathways of energy system transition. These transitions are usually in the context of climate change mitigation.
 - [Energy Transition Engine](https://github.com/quintel/etengine) - Calculation engine for the Energy Transition Model.
 - [enflow](https://github.com/rebase-energy/enflow) - An open-source Python framework that enables energy data scientists and modellers to write modular and reproducible energy models that solves sequential decision problems.
 - [Energy System Simulation and Optimization](https://github.com/Akkudoktor-EOS/EOS) - An open-source energy optimization system that integrates renewable energy sources, such as photovoltaic (PV) systems, battery storage, and smart load management solutions.
