@@ -16,11 +16,12 @@ on:
         - info
         - warning
         - debug
-    numberOfUpdates:
-      description: 'Number of URL fixes to identify (all categories consider). USe this to limit the PR review work'
-      required: true
-      type: integer
-      default: 10
+    inputs:
+      numberOfUpdates:
+        description: 'Number of URL fixes to identify (all categories consider). USe this to limit the PR review work'
+        required: true
+        type: number
+        default: 10
   #schedule:
   #  - cron: '25 5 * * WED'
 
