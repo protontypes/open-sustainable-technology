@@ -1724,6 +1724,7 @@ parameter values.
 - [TropFishR](https://github.com/tokami/TropFishR) - A collection of fisheries models based on the FAO Manual 'Introduction to tropical fish stock assessment'.
 - [FLCore](https://github.com/flr/FLCore) - Contains the core classes and methods for FLR, a framework for fisheries modelling and management strategy simulation in R.
 - [nmfspalette](https://github.com/nmfs-ost/nmfspalette) - R color palette for NOAA Fisheries official colors.
+- [forcis](https://github.com/ropensci/forcis) - Provide an interface to the FORCIS database that includes data on living planktonic foraminifera diversity and distribution in the global oceans from 1910 until 2018 collected using plankton tows, continuous plankton recorder, sediment traps and plankton pump from the global ocean.
 
 
 ### Plants and Vegetation
@@ -2343,6 +2344,8 @@ parameter values.
 - [pyrad](https://github.com/MeteoSwiss/pyrad) - A Python-based, open-source framework for real-time and offline processing and visualization of weather radar data from diverse radar networks and formats, developed by MeteoSwiss and MeteoFrance.
 - [reformatters](https://github.com/dynamical-org/reformatters) - Reformat weather datasets into Zarr.
 - [Breezy Weather](https://github.com/breezy-weather/breezy-weather) - A feature-rich weather app with good visualizations and more than 50 sources.
+- [MetObs-toolkit](https://github.com/vergauwenthomas/MetObs_toolkit) - Provides a comprehensive framework for scientists to process, quality control, and analyze raw meteorological data.
+- [Verif](https://github.com/WFRT/verif) - A command-line tool that lets you verify the quality of weather forecasts for point locations.
 
 ### Radiative Transfer
 
@@ -2442,6 +2445,8 @@ parameter values.
 - [ChaosBench](https://github.com/leap-stc/ChaosBench) - A benchmark project to improve and extend the predictability range of deep weather emulators to the subseasonal-to-seasonal (S2S) scale.
 - [CIMS](https://github.com/EMRG-SFU/cims/) - The Python implementation of the CIMS economic climate model.
 - [sunpy](https://github.com/sunpy/sunpy) -  A Python software package that provides fundamental tools for accessing, loading and interacting with solar physics data in Python.
+- [cGENIE.muffin](https://github.com/derpycode/cgenie.muffin) - Carbon Turnover in Ocean, Atmosphere, Sediment, and Terrestrial Exchangeable Reservoirs model.
+- [cgenie](https://github.com/genie-model/cgenie) - GENIE family of Earth system models.
 
 ### Climate Data Standards 
 
@@ -2486,6 +2491,7 @@ parameter values.
 - [PRISM](https://github.com/ropensci/prism) - Download data from the Oregon PRISM climate data project.
 - [climaemet](https://github.com/rOpenSpain/climaemet) - An interface to download the climatic data of the Spanish Meteorological Agency directly from R using their API and create scientific graphs.
 - [Climate Data Store Toolbox](https://cds.climate.copernicus.eu/toolbox/doc/index.html) - Dive into this wealth of information about the Earth's past, present and future climate.
+- [Climsight https://helmholtz.software/software/climsight] - Researcher created multimodal LLM that makes local recommendations based on a mix of climate data and a RAG augmented LLM.
 - [chirps](https://github.com/ropensci/chirps) - A quasi-global high-resolution rainfall data set, which incorporates satellite imagery and in-situ station data to create gridded rainfall time series for trend analysis and seasonal drought monitoring.
 - [ClimateSERVpy](https://github.com/SERVIR/ClimateSERVpy) - Enables access to the ClimateSERV API where many types of climate data can be subset by area of interest, and time range, then either downloaded as tif, or NetCDf files, or the data can be statistically processed to render json values or csv.
 - [ecmwfr](https://github.com/bluegreen-labs/ecmwfr) - Provides easy access to the European Centre for Medium-Range Weather Forecasts web API services and Copernicus Climate Data Store from within R, matching and expanding upon the ECMWF Python tools.
@@ -2598,6 +2604,7 @@ parameter values.
 - [earthkit](https://github.com/ecmwf/earthkit) - A project led by ECMWF, providing powerful tools for speeding up weather and climate science workflows by simplifying data access, processing, analysis, visualisation and much more.
 - [ccvi-data](https://github.com/ccew-unibw/ccvi-data) - Establish a scientifically informed tool that enables policymakers and researchers to assess and map current global risks to human security arising from climate and conflict hazards, their intersections and the potential for harmful interactions.
 - [Meteobike](https://github.com/achristen/Meteobike) - Environmental Meteorology to measure temperature and humidity on bikes and tag measurements with GPS.
+- [Cylc](https://github.com/cylc/cylc-flow) - A general purpose workflow engine that also manages cycling systems very efficiently, used in production weather, climate, and environmental forecasting on HPC, but is not specialized to those domains.
 - [cgeniepy](https://github.com/ruiying-ocean/cgeniepy) - A Python package to analyse the output of cGENIE Earth System Model.
 
 ### Climate Downscaling
@@ -2859,6 +2866,7 @@ parameter values.
 - [EPyT-Flow](https://github.com/WaterFutures/EPyT-Flow) - Provides easy access to water distribution network simulations with a high level interface for generation of hydraulic and water quality scenario data.
 - [LibreWater](https://codeberg.org/LibreWater/Acraea-Prototype) - A Small Scale Desalination and Water Purification Prototype that is powered by electric heating for scientific purpose and prototyping ahead according to the Libre Water Mission.
 - [SWMManywhere](https://github.com/ImperialCollegeLondon/SWMManywhere) - A tool to synthesise urban drainage network models using publicly available data such as street network, DEM, and building footprints, across the globe.
+- [ESAT](https://github.com/quanted/esat) - An open-source software package that provides API and CLI functionality to create source apportionment workflows specifically targeting environmental datasets.
 
 ### Soil and Land
 
