@@ -1214,7 +1214,6 @@ energy system designs and analysis of interactions between technologies.
 - [Integrated Methane Inversion](https://github.com/geoschem/integrated_methane_inversion) - Contains the source code for setting up and running the Integrated Methane Inversion with GEOS-Chem.
 - [eCalc](https://github.com/equinor/ecalc) - A software tool for calculation of energy demand and greenhouse gas emissions from oil and gas production and processing.
 - [forest-offsets](https://github.com/carbonplan/forest-offsets) - Includes our libraries and scripts for analyzing California's compliance forest carbon offsets program.
-- [Fossil Shipment Tracker](https://github.com/energyandcleanair/fossil_shipment_tracker) - A data platform that provides decision-makers, journalists and campaigning organizations with information that helps identify fossil fuel shipments from Russia.
 - [UNFCCC DI API](https://github.com/pik-primap/unfccc_di_api) - Data access to the total greenhouse gas emissions by country reported to the United Nations Framework Convention on Climate Change (UNFCCC).
 - [STARCOP](https://github.com/spaceml-org/STARCOP) - Semantic Segmentation of Methane Plumes with Hyperspectral Machine Learning models.
 - [Clean Air Markets API Portal](https://github.com/USEPA/cam-api-portal) - A suite of API's that EPA's Clean Air Markets Division provides to access the data collected to run programs designed to reduce air pollution from power plants.
@@ -3265,4 +3264,3 @@ The artwork included in this repository are shared under a Creative Commons Attr
 This work and all contributions to it are released into terms of the Creative Commons Attribution 4.0 International if not otherwise noted.
 
 [![CC-BY-4.0 license](https://licensebuttons.net/l/by-sa/4.0/88x31.png)](https://creativecommons.org/licenses/by-sa/4.0/)
-
