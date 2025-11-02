@@ -557,7 +557,7 @@ energy system designs and analysis of interactions between technologies.
 - [ESIOS](https://github.com/SanPen/ESIOS) - Comprehensive library to access the Spanish electricity market entity in Python.
 - [energy-data](https://github.com/owid/energy-data) - Data on global energy consumption (primary energy, per capita, and growth rates), energy mix, electricity mix and other relevant metrics.
 - [EnergyData.Info](https://energydata.info/) - An open data platform from the World Bank Group providing access to datasets and data analytics that are relevant to the energy sector.
-- [The FfE Open Data Portal](http://opendata.ffe.de/) - Offers an overview of free datasets for modelling energy demand and generation.
+- [The FfE Open Data Portal](https://opendata.ffe.de/) - Offers an overview of free datasets for modelling energy demand and generation.
 - [open-MaStR](https://github.com/OpenEnergyPlatform/open-MaStR) - Download and process German energy data from BNetzA database Marktstammdatenregister.
 - [Energy System Technology Data](https://github.com/PyPSA/technology-data) - Compilation of assumptions about energy system technologies such as cost, efficiency and lifetime that can be read by energy system modelling software.
 - [GEEST](https://github.com/worldbank/GEEST) - Aims to propose a novel methodology and generate a geospatial open-source tool for mapping the enabling environments for women in a country that can inform new energy projects to support the advancement of women's economic empowerment in small island developing states while contributing to closing gender gaps in employment in the renewable energy sector.
@@ -574,7 +574,7 @@ energy system designs and analysis of interactions between technologies.
 - [Weave](https://github.com/centre-for-ai-and-climate/weave) - Provides aggregated half-hourly domestic electricity consumption data from UK smart meters.
 - [elexonpy](https://github.com/openclimatefix/Elexonpy) - A Python package that provides a convenient interface to the ELEXON API suite, which provides data published by the UK energy data provider as received.
 - [Awesome Grid Model Data](https://github.com/open-energy-transition/Awesome-Electricity-Demand) - A curated collection of links to hourly or sub-hourly electricity demand data, designed to improve the accessibility and discoverability of datasets for energy system modelers and planners, while enhancing global open data coverage to support a sustainable energy transition.
-- [Energy Access Explorer](https://github.com/energyaccessexplorer/website) - The World’s First Digital Public Good to deliver Climate-compatible Energy Transitions for Everyone.
+- [Energy Access Explorer](https://github.com/energyaccessexplorer/eae-website) - The World’s First Digital Public Good to deliver Climate-compatible Energy Transitions for Everyone.
 - [eGRID](https://github.com/USEPA/egrid) - A comprehensive source of data from EPA's Clean Air and Power Division (CAPD) on the environmental characteristics of almost all electric power generated in the United State.
 
 ### Energy Policy
@@ -613,7 +613,7 @@ energy system designs and analysis of interactions between technologies.
 - [PowerModelsAnnex.jl](https://github.com/lanl-ansi/PowerModelsAnnex.jl) - An extension of PowerModels.jl that provides a home for open source sharing of preliminary and/or exploratory methods in power system optimization.
 - [Power Grid Lib](https://github.com/power-grid-lib/pglib-opf) - This benchmark library is curated and maintained by the IEEE PES Task Force on Benchmarks for Validation of Emerging Power System Algorithms and is designed to evaluate a well established version of the AC Optimal Power Flow problem.
 - [pypownet](https://github.com/MarvinLer/pypownet) - A power network simulator with a Reinforcement Learning-focused usage.
-- [Grid2Op](https://github.com/rte-france/Grid2Op) - A testbed platform to model sequential decision making in power systems.
+- [Grid2Op](https://github.com/Grid2op/grid2op) - A testbed platform to model sequential decision making in power systems.
 - [RTS-GMLC](https://github.com/GridMod/RTS-GMLC) - Reliability Test System of the Grid Modernization Lab Consortium.
 - [OpenDSS](https://sourceforge.net/projects/electricdss/) - An electric power Distribution System Simulator for supporting distributed resource integration and grid modernization efforts.
 - [PowerDynamics.jl](https://github.com/JuliaEnergy/PowerDynamics.jl) - Provides all the tools you need to create a dynamic power grid model and analyze it.
