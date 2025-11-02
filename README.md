@@ -807,7 +807,7 @@ energy system designs and analysis of interactions between technologies.
 - [pyBuildingEnergy](https://github.com/EURAC-EEBgroup/pyBuildingEnergy) - Provides an assessment of building performance through a methodology that must take into account various aspects such as the thermal characteristics of the building, the use of renewable energy sources, building automation and control systems.
 - [Dynamic ISO Building Simulator](https://github.com/IWUGERMANY/DIBS---Dynamic-ISO-Building-Simulator) - A simulation program for calculating the space heating, occupancy hot water, cooling and electricity demand of German non-residential buildings.
 - [Home Energy Assessment Database](https://github.com/climate-cooperative/home-energy-assessment-database) - Documentation, conversions, and data supporting Climate Cooperative's home energy audit and calculation tools.
-- [GridWorks SpaceHeat SCADA](https://github.com/thegridelectric/gw-scada-spaceheat-python) - Intended for running a heat pump thermal storage space heating system in a house, and doing this transactively.
+- [GridWorks SpaceHeat SCADA](https://github.com/thegridelectric/gridworks-scada) - Intended for running a heat pump thermal storage space heating system in a house, and doing this transactively.
 - [ComStock](https://github.com/NREL/ComStock) - National scale modeling of the U.S. commercial building stock supported by U.S. DOE, LADWP, and others and maintained by NREL.
 - [HeatPro](https://github.com/CEA-Liten/HeatPro) - Finds its roots in the need of using representative heating load curve for the simulation and optimization of various District Heating Network (DHN) production plant.
 - [Home Energy Analysis Tool](https://github.com/codeforboston/home-energy-analysis-tool) - Provide an app that helps residential energy coaches or advocates, and some homeowners, estimate a home's heating requirements (heat load) and assess whether proposed heat pumps have sufficient heating capacity for the home.
@@ -865,7 +865,7 @@ energy system designs and analysis of interactions between technologies.
 - [openv2g](https://openv2g.sourceforge.net/) - The objective to start this project is primarily to support the ISO and IEC standardization process to specify the so called 'Vehicle 2 Grid Communication Interface' (V2G CI) which became the ISO IEC 15118 specification by now.
 - [RAMP-mobility](https://github.com/RAMP-project/RAMP-mobility) - A novel application of the RAMP main engine for generating bottom-up stochastic electric vehicles load profiles.
 - [PCT](https://github.com/ITSLeeds/pct/) - The goal is to increase the accessibility and reproducibility of the data produced by the Propensity to Cycle Tool (PCT).
-- [goat](https://github.com/goat-community/goat) - A tool capable of modeling walking and cycling accessibility.
+- [goat](https://github.com/plan4better/goat) - A tool capable of modeling walking and cycling accessibility.
 - [gtfs-router](https://github.com/UrbanAnalyst/gtfsrouter) - An R package for routing with GTFS (General Transit Feed Specification) data.
 - [CityFlow](https://github.com/cityflow-project/CityFlow/) - A Multi-Agent Reinforcement Learning Environment for Large Scale City Traffic Scenario.
 - [Complete_Street_Rule](https://github.com/d-wasserman/Complete_Street_Rule) - An ArcGIS CityEngine scenario oriented design tool intended to enable users to quickly create procedural generated multimodal streets.
@@ -899,7 +899,7 @@ energy system designs and analysis of interactions between technologies.
 - [EV-EcoSim](https://github.com/ebalogun01/EV-EcoSim) - A grid-aware co-simulation platform for the design and optimization of EV Charging Infrastructure.
 - [e-mission](https://github.com/e-mission/e-mission-docs) - Enables people to track their travel modes—by car, bus, bike or walking and measure their associated energy use and carbon footprint.
 - [CoachCO2](https://github.com/cozy/coachCO2) - Aims to raise user awareness about their carbon footprint, notably based on their transport data.
-- [Radverkehrsatlas](https://github.com/FixMyBerlin/atlas-app) - Provides access to bicycle infrastructure data from OpenStreetMap for administrative staff.
+- [Tilda](https://github.com/FixMyBerlin/tilda-geo) - Provides access to bicycle infrastructure data from OpenStreetMap for administrative staff.
 - [EV2Gym](https://github.com/StavrosOrf/EV2Gym) - A V2G Simulation Environment for large scale EV charging optimization.
 - [Tools for the iTEM databases](https://github.com/transportenergy/database) - Contains tools for two databases maintained by iTEM, the International Transport Energy Modeling consortium.
 - [Cartes](https://github.com/laem/cartes) - A French alternative to Google Maps that aims to focus on climate-friendly transports mode.
