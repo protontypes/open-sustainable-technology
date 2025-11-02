@@ -931,7 +931,7 @@ energy system designs and analysis of interactions between technologies.
 > __How?__ These tools help estimate and monitor the energy and water consumption and carbon emissions of software and digital infrastructure; optimize where and when to run computing jobs to minimize energy usage and carbon intensity; and facilitate more sustainable developer and operations workflows on local and cloud platforms.
 
 - [Eco-CI](https://github.com/green-coding-solutions/eco-ci-energy-estimation) - Estimating the energy consumption of CI / CD pipelines on GitHub and GitLab.
-- [Green Metrics Tool](https://github.com/green-coding-berlin/green-metrics-tool) - An open source suite to measure, display and compare software energy and CO2 consumption for containerized software. External power meters as well as RAPL and also ML-estimation models are supported.
+- [Green Metrics Tool](https://github.com/green-coding-solutions/green-metrics-tool) - An open source suite to measure, display and compare software energy and CO2 consumption for containerized software. External power meters as well as RAPL and also ML-estimation models are supported.
 - [Scaphandre](https://github.com/hubblo-org/scaphandre) - An open source software agent to track energy consumption of ICT services from the servers.
 - [Tracarbon](https://github.com/fvaleye/tracarbon) - Tracarbon tracks your device's energy consumption and calculates your carbon emissions using your location.
 - [H2020 CATALYST](https://gitlab.com/project-catalyst) - Converting data centres in energy flexibility ecosystems.
@@ -961,10 +961,10 @@ energy system designs and analysis of interactions between technologies.
 - [experiment-impact-tracker](https://github.com/Breakend/experiment-impact-tracker) - Meant to be a simple drop-in method to track energy usage, carbon emissions, and compute utilization of your system.
 - [Environmental Footprint Data](https://github.com/Boavizta/environmental-footprint-data) - Aims to reference as much data as possible to help organizations to evaluate the environmental footprint of their information systems, applications and digital services.
 - [Carbonalyser](https://github.com/carbonalyser/Carbonalyser) - Allows to visualize the electricity consumption and greenhouse gases emissions that your Internet browsing leads to.
-- [carbontracker](https://github.com/lfwa/carbontracker) - Track and predict the energy consumption and carbon footprint of training deep learning models.
+- [carbontracker](https://github.com/saintslab/carbontracker) - Track and predict the energy consumption and carbon footprint of training deep learning models.
 - [green-ai](https://github.com/daviddao/green-ai) - The Green AI Standard aims to develop a standard and raise awareness for best environmental practices in AI research and development.
 - [Carbon Aware SDK](https://github.com/Green-Software-Foundation/carbon-aware-sdk/) - Helps you build the carbon aware software solutions with the intelligence to use the greenest energy sources.
-- [ecoCode](https://github.com/green-code-initiative/ecoCode) - Reduce the environmental footprint of your programs with this cutting-edge SonarQube plugin.
+- [ecoCode](https://github.com/green-code-initiative/creedengo-rules-specifications) - Reduce the environmental footprint of your programs with this cutting-edge SonarQube plugin.
 - [PowerJoular](https://github.com/joular/powerjoular) - Allows monitoring power consumption of multiple platforms and processes.
 - [Green Algorithms](https://github.com/GreenAlgorithms/green-algorithms-tool) - Aims at promoting more environmentally sustainable computational science.
 - [Camunda Carbon Reductor](https://github.com/envite-consulting/camunda-carbon-reductor) - Allows you to time shift your processes' carbon emissions when energy is clean while still fulfilling the requested service level agreement.
