@@ -1219,10 +1219,10 @@ energy system designs and analysis of interactions between technologies.
 - [STARCOP](https://github.com/spaceml-org/STARCOP) - Semantic Segmentation of Methane Plumes with Hyperspectral Machine Learning models.
 - [Clean Air Markets API Portal](https://github.com/USEPA/cam-api-portal) - A suite of API's that EPA's Clean Air Markets Division provides to access the data collected to run programs designed to reduce air pollution from power plants.
 - [goFlux](https://github.com/Qepanna/goFlux) -  A user-friendly way to calculate greenhouse gas fluxes in soil yourself, regardless of user experience.
-- [Klimatkollen](https://github.com/Klimatbyran/klimatkollen) - A web application that displays emissions within municipalities in Sweden, along with a machine learning data pipeline under development, which will find, extract, and list emissions from companies.
+- [Klimatkollen](https://github.com/Klimatbyran/klimatkollen-deprecated) - A web application that displays emissions within municipalities in Sweden, along with a machine learning data pipeline under development, which will find, extract, and list emissions from companies.
 - [bonsai_ipcc](https://gitlab.com/bonsamurais/bonsai/util/ipcc) - Enables users to calculate national greenhouse gas (GHG) inventories based on the guidelines provided by the International Panel on Climate Change.
 - [OpenMethane](https://github.com/openmethane/openmethane-prior) - Method to calculate a gridded, prior emissions estimate for methane across Australia.
-- [National Climate Transparency Tool](https://github.com/undp/climate-transparency) - Your gateway to ensure robust Measurement, Reporting and Verification (MRV) toward the Enhanced Transparency Framework (ETF) and to accelerate implementation of the Nationally Determined Contribution (NDC).
+- [National Climate Transparency Tool](https://github.com/undp/National-Climate-Transparency-Platform) - Your gateway to ensure robust Measurement, Reporting and Verification (MRV) toward the Enhanced Transparency Framework (ETF) and to accelerate implementation of the Nationally Determined Contribution (NDC).
 - [FLINT](https://github.com/moja-global/FLINT) - A modular system to estimate greenhouse gas emissions and removals by the land sector.
 - [CARDAMOM](https://github.com/CARDAMOM-framework/CARDAMOM) - A Bayesian inference approach for using terrestrial ecosystem observations to optimize terrestrial carbon cycle model states and processes parameters.
 - [BlueCarbon](https://github.com/EcologyR/BlueCarbon) - Facilitate the estimation of organic carbon stocks and fluxes from soil/sediment cores from blue carbon ecosystems.
@@ -1248,7 +1248,7 @@ energy system designs and analysis of interactions between technologies.
 - [Brightway2 data management](https://github.com/brightway-lca/brightway2-data) - This package provides tools for the management of inventory databases and impact assessment methods.
 - [Activity Browser](https://github.com/LCA-ActivityBrowser/activity-browser) - An open source and free software for Life Cycle Assessment extending the brightway2 framework.
 - [EOS-AYCE](https://gitlab.com/eaternity/eos) - Eaternity's software platform serving as an open-source environmental operating system (EOS) for all you can eat (AYCE) for climate.
-- [carculator](https://github.com/romainsacchi/carculator) - Prospective environmental and economic life cycle assessment of vehicles made blazing fast.
+- [carculator](https://github.com/Laboratory-for-Energy-Systems-Analysis/carculator) - Prospective environmental and economic life cycle assessment of vehicles made blazing fast.
 - [Electricity Life Cycle Inventory](https://github.com/USEPA/ElectricityLCI) - A Python package that uses standardized facility release and generation data to create regionalized life cycle inventory (LCI) models for the generation, mix of generation, mix of consumption, and distribution of electricity to end users for the US, with embedded system processes of upstream fuel production and infrastructure.
 - [uslci-content](https://github.com/uslci-admin/uslci-content) - Supplementary content for the U.S. Life Cycle Inventory Database.
 - [OpenLCA](https://github.com/GreenDelta/olca-app) - An open source and free software for Sustainability and Life Cycle Assessment.
