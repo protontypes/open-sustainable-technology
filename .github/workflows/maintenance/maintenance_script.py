@@ -179,14 +179,14 @@ external_links = [
 # ------------------------------------------------------------------------------------
 @dataclass
 class LinksToMaintain:
-    invalid_urls = []
+    dead_urls = []
     redirected_urls = {}
     forbidden_urls = []
     error_urls = []
 
     def __len__(self) -> int:
         return (
-            len(self.invalid_urls)
+            len(self.dead_urls)
             + len(self.redirected_urls)
             + len(self.forbidden_urls)
             + len(self.error_urls)
@@ -253,8 +253,8 @@ try:
             if status_code is None:
                 ltm.error_urls.append(url_i)
             elif status_code == 404:
-                ltm.invalid_urls.append(url_i)
-                logging.warning(f"Invalid URL: {url_i}")
+                ltm.dead_urls.append(url_i)
+                logging.warning(f"Dead URL: {url_i}")
             elif (status_code // 100) == 3:
                 ltm.redirected_urls[url_i] = next_url
                 logging.warning(f"Redirecting {url_i} to {next_url}")
@@ -362,8 +362,8 @@ def chunk_list(x: list[str], chunk_size: int = 3) -> list[list[str]]:
 
 
 unprocessed_urls = [
-    i for i in ltm.error_urls + ltm.invalid_urls if _hasnt_yet_been_processed(i)
-]
+    i for i in ltm.dead_urls if _hasnt_yet_been_processed(i)
+]  # TODO: add processing of ltm.error_urls
 if len(unprocessed_urls) < 1:
     print("No ISSUES updates to carry out")
 for urls_issues in chunk_list(unprocessed_urls, chunk_size=1):
@@ -376,16 +376,17 @@ for urls_issues in chunk_list(unprocessed_urls, chunk_size=1):
 
     print(urls_issues)
     sources = urls_issues
-    branch_name = f"remove-issues-{'-'.join([_f_repo_id(i) for i in sources])}"
-    pr_name = f"Removing {', '.join([_f_repo_id(i) for i in sources])}"
-    pr_body = "This PR deletes the links with issues:\n" + "\n".join(
-        [f"- [{k}]({k})" for k in sources]
+    branch_name = f"remove-dead-{'-'.join([_f_repo_id(i) for i in sources])}"
+    pr_name = f"Removing dead {', '.join([_f_repo_id(i) for i in sources])}"
+    pr_body = (
+        "This PR deletes the links where the target is dead (HTTP 404):\n"
+        + "\n".join([f"- [{k}]({k})" for k in sources])
     )
     change_file_and_create_pull_request(
         **common_kwargs,
         f_change_apply=f_remove_issues,
         target_branch_name=branch_name,
-        commit_message="Fixing targets",
+        commit_message="Removing dead target",
         pr_name=pr_name,
         pr_body=pr_body,
     )
