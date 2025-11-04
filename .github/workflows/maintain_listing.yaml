@@ -69,6 +69,9 @@ jobs:
           path: maintenance-diskcache/
           key: ${{ steps.cache-restore.outputs.cache-primary-key }}
 
+      # Run awesome lint (make sure to coordinate with "main.yml" action)
+      - run: npx awesome-lint@2.1.2
+
       - name: Defining Git identity 
         run: | 
           git config user.name github_actions
