@@ -524,6 +524,7 @@ energy system designs and analysis of interactions between technologies.
 - [pommesdispatch](https://github.com/pommes-public/pommesdispatch) - A bottom-up fundamental power market model for the German electricity sector.
 - [openCEM](https://github.com/openCEMorg/openCEM) - Capacity Expansion Model and Optimiser for the Australian National Energy Market.
 - [NEMO](https://github.com/bje-/NEMO) - The National Electricity Market Optimizer is a chronological dispatch model for testing and optimizing different portfolios of conventional and renewable electricity generation technologies.
+- [HAMLET](https://github.com/tum-ens/HAMLET) - A modular and extendable open-source toolbox for the development and testing of market designs with a focus on local interactions at the distribution level.
 
 ### Energy Data Accessibility and Integration
 
