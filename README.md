@@ -2529,6 +2529,7 @@ parameter values.
 - [HadCRUT5](https://github.com/madrisan/HadCRUT5) - Visualize the HadCRUT5 temperature, a gridded dataset of global historical surface temperature anomalies relative to a 1961-1990 reference period.
 - [Climate Foresight](https://github.com/CliDyn/climsight) - A chatbot that answers questions about climate change impacts on planned human activities.
 - [urban-heat](https://github.com/damienallen/urban-heat) - Interactive urban heat island effect visualizations for European cities.
+- [CMIP7 Data Request Software](https://github.com/CMIP-Data-Request/CMIP7_DReq_Software) - Quick user guide for python software to interact with the CMIP7 data request.
 
 ### Climate Data Processing and Analysis
 
