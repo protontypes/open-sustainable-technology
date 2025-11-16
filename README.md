@@ -701,6 +701,8 @@ energy system designs and analysis of interactions between technologies.
 - [PyPSA-Wal](https://github.com/open-energy-transition/pypsa-wal) - A Sector-Coupled Open Optimisation Model of the Belgian Energy System with Emphasis on the Wallonia Region.
 - [PyPSA-China](https://github.com/pik-piam/PyPSA-China-PIK) - A open-source model of the Chinese energy system covering electricity and heat that co-optimizes dispatch and investments under user-set constraints, such as limits to environmental impacts, to minimize costs.
 - [PyPSA-Spain](https://github.com/cristobal-GC/pypsa-spain) - An extension of PyPSA-Eur to model the Spanish Energy System.
+- [24/7 Carbon Free Energy](https://github.com/transition-zero/tza-google-cfe) - The purpose of this project is to study the feasibility, costs, and impacts of 24/7 CFE in the commercial and industrial (C&I) sector in five distinct geographies in Asia.
+
 
 ### Renewable Energy Integration
 
