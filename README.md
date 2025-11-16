@@ -538,7 +538,6 @@ energy system designs and analysis of interactions between technologies.
 - [Open Data Access Tools](https://github.com/openEDI/open-data-access-tools) - Aims to improve and automate access to high-value energy datasets across the U.S. Department of Energy's programs, offices, and national laboratories, and help researchers and industry to accelerate analysis and advance innovation.
 - [Power Station Dictionary](https://github.com/OSUKED/Power-Station-Dictionary) - A power station dictionary that enables mapping between various naming conventions and associated plant metadata.
 - [powerplantmatching](https://github.com/PyPSA/powerplantmatching) - A toolset for cleaning, standardizing and combining multiple power plant databases.
-- [TransitionZero Python Client](https://github.com/transition-zero/tz-client) - This Python Client gives programmatic access to all the functionality of TransitionZero, a not-for-profit set to decarbonise energy systems by supporting global businesses and emerging market governments with open, granular and accessible data.
 - [entsoe-py](https://github.com/EnergieID/entsoe-py) - A Python client for the ENTSO-E API (European Network of Transmission System Operators for Electricity).
 - [pyEIA](https://github.com/thomastu/pyEIA) - An Energy Information Administration API Python client for researchers who need data.
 - [EIA](https://github.com/ropensci/eia) - An R package wrapping the US Energy Information Administration open data API.
@@ -3268,4 +3267,3 @@ The artwork included in this repository are shared under a Creative Commons Attr
 This work and all contributions to it are released into terms of the Creative Commons Attribution 4.0 International if not otherwise noted.
 
 [![CC-BY-4.0 license](https://licensebuttons.net/l/by-sa/4.0/88x31.png)](https://creativecommons.org/licenses/by-sa/4.0/)
-
