@@ -1277,6 +1277,7 @@ energy system designs and analysis of interactions between technologies.
 - [ecoinvent_interface](https://github.com/brightway-lca/ecoinvent_interface) - This is an unofficial and unsupported Python library to get ecoinvent data, a life cycle inventory database for fuels, energy, chemicals and plastics, batteries, building and construction, waste, agriculture, forestry and wood, pulp and paper, metals, and transport.
 - [LCIA](https://github.com/ecoinvent/lcia) - Contains important files from the ecoinvent Life Cycle Impact Assessment method implementation procedure for ecoinvent.
 - [CELAVI](https://github.com/NREL/celavi) - The Circular Economy Lifecycle Assessment and VIsualization framework allows stakeholders to quantify and visualize potential regional and sectoral transfers of impacts that could result from transitioning to a circular economy, with particular focus on energy material.
+- [flodym](https://github.com/pik-piam/flodym) - The Flexibe Open Dynamic Material Systems Model library provides key functionality for building material flow analysis models.
 
 ### Input Output Model
 
