@@ -912,6 +912,10 @@ energy system designs and analysis of interactions between technologies.
 - [venco.py](https://gitlab.com/dlr-ve/esy/vencopy/vencopy) - A data processing tool offering demand and flexibility profiles for future electric vehicle fleets in an aggregated manner.
 - [nammayatri](https://github.com/nammayatri/nammayatri) - A Direct-to-Driver open mobility platform powering the next-generation of mobility applications in India.
 - [biclaR](https://github.com/U-Shift/biclar) - A tool for the design and assessment of different scenarios of the cycling network models in the Lisbon metropolitan area.
+- [sDNA](https://github.com/fiftysevendegreesofrad/sdna_plus) - Spatial network analysis tool used to plan walking and cycling networks
+- [BayesianDrape](https://github.com/fiftysevendegreesofrad/BayesianDrape) - fix elevation errors that arise when modelling cycling networks with open data
+- [TrafRed](https://github.com/fiftysevendegreesofrad/TrafRed) - high level interactive economic model of road traffic reduction policies in the UK
+- [UKRailFlows](https://github.com/fiftysevendegreesofrad/UKRailFlows) - interactive maps of UK rail flows
 
 ### Production and Industry
 
