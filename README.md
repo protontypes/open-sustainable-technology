@@ -2018,6 +2018,7 @@ parameter values.
 - [LakeEnsemblR](https://github.com/aemon-j/LakeEnsemblR) - An R package that facilitates multi-model ensembles for lake thermodynamics.
 - [DHALSIM](https://github.com/Critical-Infrastructure-Systems-Lab/DHALSIM) - Uses the WNTR EPANET wrapper to simulate the behaviour of water distribution systems.
 - [AHGestimation](https://github.com/mikejohnson51/AHGestimation) - Estimating robust, mass conserving AHG (at-a-station hydraulic geometry) relationships.
+- [ArchPy](https://github.com/randlab/ArchPy) - A tool to create, manipulate and vizualize 3D geological and petro-physical models of the subsurface like groundwater.
 
 ### Ocean Models
 
