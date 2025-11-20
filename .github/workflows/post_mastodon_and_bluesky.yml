@@ -6,6 +6,8 @@ on:
       - main
 jobs:
   toot:
+    # Preventing runs after changes made by Github actions
+    if: "!startsWith(github.event.head_commit.author.name, 'github-actions')"
     runs-on: ubuntu-latest
     steps:
       - name: Checkout code
