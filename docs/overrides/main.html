@@ -9,11 +9,18 @@
 
 {% block announce %}
 <a href="https://discord.gg/BTYjRSvUBB">
-  <div style="color:#009485">
-    <strong> <font color="#f77700">Join our Community </font> </strong>
-    <span class="twemoji seedling" style="color:#009485">
-      {% include ".icons/fontawesome/solid/seedling.svg" %}
+  <div style="display:inline-flex; align-items:center; color:#ffffff">
+    <strong> Join our community chat </strong> &nbsp
+     <span class="twemoji seedling" style="color:#00e6a7">
+    {% include ".icons/fontawesome/brands/discord.svg" %}
     </span>
   </div>
-</a>
+    <div style="display:inline-flex; align-items:center; color:#ffffff">
+      <strong> and chat with open project in climate and sustainabiliby &nbsp </strong>
+      <span class="twemoji seedling" style="color:#00e6a7">
+      {% include ".icons/fontawesome/solid/seedling.svg" %}
+      </span>
+    </div>
+  </a>
+
 {% endblock %}
