@@ -2199,7 +2199,7 @@ parameter values.
 - [typhon](https://github.com/atmtools/typhon) - A collection of tools for atmospheric research with Python 3.
 - [Pace](https://github.com/ai2cm/pace) - A implementation of the FV3GFS / SHiELD atmospheric model developed by NOAA/GFDL using the GT4Py domain-specific language in Python.
 - [Project Horus](https://github.com/projecthorus/radiosonde_auto_rx) - A Amateur Radio High Altitude Ballooning project.
-- [ANEMOI](https://github.com/moulin1024/ANEMOI) - Large-eddy simulation code written in CUDA Fortran for simulating atmospheric boundary layer flows.
+- [ANEMOI](https://github.com/ecmwf/anemoi) - An open-source, Python-based framework developed collaboratively by ECMWF and several European national meteorological services. It is designed to facilitate the development, training, and deployment of machine learning (ML) models for weather forecasting. As an 'end to end' framework, it provides a comprehensive toolkit that spans data preparation, model training, and inference, enabling meteorological organizations to leverage their own data for ML-based weather prediction.
 - [CIS](https://github.com/cedadev/cis) - An open source command-line tool for easy collocation, visualization, analysis, and comparison of diverse gridded and ungridded datasets used in the atmospheric science.
 - [EMC²](https://github.com/columncolab/EMC2) - An open source framework for atmospheric model and observational column comparison.
 - [Unidata Science Gateway](https://github.com/Unidata/science-gateway) - Provide the academic and research community an environment they can employ to access, analyze and visualize real-time and case study Earth system science data.
