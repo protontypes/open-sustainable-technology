@@ -577,6 +577,7 @@ energy system designs and analysis of interactions between technologies.
 - [Awesome Grid Model Data](https://github.com/open-energy-transition/Awesome-Electricity-Demand) - A curated collection of links to hourly or sub-hourly electricity demand data, designed to improve the accessibility and discoverability of datasets for energy system modelers and planners, while enhancing global open data coverage to support a sustainable energy transition.
 - [Energy Access Explorer](https://github.com/energyaccessexplorer/eae-website) - The World’s First Digital Public Good to deliver Climate-compatible Energy Transitions for Everyone.
 - [eGRID](https://github.com/USEPA/egrid) - A comprehensive source of data from EPA's Clean Air and Power Division (CAPD) on the environmental characteristics of almost all electric power generated in the United State.
+- [Global Renewables Watch](https://github.com/microsoft/global-renewables-watch) - A comprehensive global temporal dataset of commercial solar photovoltaic (PV) farms and onshore wind turbines, derived from high-resolution satellite imagery analyzed quarterly from the fourth quarter of 2017 to the second quarter of 2024.
 
 ### Energy Policy
 
