@@ -22,7 +22,7 @@ The [ost_keywords.txt](https://raw.githubusercontent.com/protontypes/osta/refs/h
 
 **Search Platforms:**
 
-*   **GitHub:** Utilize advanced search filters to combine keywords with programming languages (e.g., `python`, `R`, `Java`) and repository characteristics (e.g., `stars:>5`, `updated:>2023-01-01`). To search the projects READMEs, use the search terms such as this: 'stars> 5 in:readme climate'. Find more here about [GitHub's advanced search](https://github.com/search/advanced). 
+*   **GitHub:** Utilize advanced search filters to combine keywords with programming languages (e.g., `python`, `R`, `Java`) and repository characteristics (e.g., `stars:>5`, `updated:>2023-01-01`). To search the projects READMEs, use the search terms such as this: `stars> 5 in:readme climate`. Find more here about [GitHub's advanced search](https://github.com/search/advanced). 
 *   **GitLab, Bitbucket, [Zenodo](https://zenodo.org/):** Extend searches to these platforms using similar keyword-based approaches.
 *   **Academic Search Engines (e.g., Google Scholar, Semantic Scholar):** Search for research papers that mention open-source tools or datasets related to sustainability. Look for terms like "open-source software," "open data," "GitHub repository," in conjunction with sustainability keywords.
 *   **Specialized Search Engines/Indexes:** Explore platforms like [Libraries.io](https://libraries.io/), [PyPi](https://pypi.org/), [rdrr.io](https://rdrr.io/) for package-level discovery.
