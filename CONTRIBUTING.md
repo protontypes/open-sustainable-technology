@@ -5,6 +5,8 @@
 ## Fast Lane
 If you just want to give a hint about a missing project, [open an issue here](https://github.com/protontypes/open-sustainable-technology/issues/new) and just mention it. However, we would be pleased to add you to the list of official contributors via a pull request.
 
+You can also ask about any potential projects or additions on [our Discord](https://discord.gg/BTYjRSvUBB).
+
 ## Guideline
 > _It is a miracle that our planet has developed a unique and stable environment for life in an otherwise indifferent and hostile cosmos. Life has taken billions of years to build up the natural resources we depend on, such as a protective atmosphere, fertile soil, stable weather, and clean drinking water. As a movement to democratize technological development and knowledge creation, open source has the potential to play a central part in preserving this stability. Open Sustainable Technology's mission is to find, list, and share projects that preserve or analyze natural ecosystems through open technology, methods, data, intelligence, knowledge or tools._
 
