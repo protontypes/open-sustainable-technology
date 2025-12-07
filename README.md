@@ -1592,6 +1592,7 @@ parameter values.
 - [fellingdater](https://github.com/hanecakr/fellingdater) - A suite of functions designed to assist dendrochronologists in inferring estimates for felling dates, derived from dated tree-ring series.
 - [ITSMe](https://github.com/lmterryn/ITSMe) - Provide easy to use functions to quickly obtain structural metrics from individual tree point clouds and their respective quantitative structure models.
 - [Bristlecone](https://github.com/AndrewIOM/bristlecone) - An F# library for model-fitting model-selection (MFMS) of ecological models to observational data. The library was developed for tree ring analysis, but can be used for other time-series modelling problems.
+- [iLand](https://github.com/edfm-tum/iland-model) - A forest landscape model and simulates how individual trees grow, compete, die, and regenerate under various climate, disturbance, and management scenarios.
 
 
 ### Forest Observation and Management
