@@ -1235,6 +1235,8 @@ energy system designs and analysis of interactions between technologies.
 - [reemission](https://github.com/tomjanus/reemission) - A Python library and a command line interface tool for estimating CO2, CH4 and N2O emissions from water reservoirs.
 - [Private Jet Flights](https://github.com/jorgecardleitao/private-jets) - Track and quantify emissions of private jets.
 - [Emiproc](https://github.com/C2SM-RCM/emiproc) - A Python package for generating emission input files from diverse inventories and grids, adaptable to various atmospheric transport models, including COSMO-ART and ICON-ART.
+- [OpenAirClim](https://github.com/dlr-pa/oac) - A model for simplified evaluation of the approximate chemistry-climate impact of air traffic emissions.
+
 
 ## Industrial Ecology
 
