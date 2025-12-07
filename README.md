@@ -3044,6 +3044,7 @@ parameter values.
 - [DEEP](https://github.com/sovereign-nature/deep) - Our goal is to reconfigure the economics of ecology by finding ways to fund and expand projects that sustain life on our planet.
 - [Greenlang](https://github.com/fingreen-ai/greenlang) - The first open-source component promoting transparency, interoperability, and collaboration in the ESG reporting domain.
 - [FINPLAN](https://github.com/FINPLAN-Model/FINPLAN-UI) - Tool that evaluates the financial performance of power plant projects over their lifetime by comparing the cost components with available financing sources.
+- [ClimateEconomics](https://github.com/os-climate/witness-core) - A Python package to evaluate the effect of energy way of production on climate change and macro-economy.
 
 ### Knowledge Platforms
 
