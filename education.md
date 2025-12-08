@@ -75,6 +75,7 @@
 - [CMIP6 Cookbook](https://github.com/ProjectPythia/cmip6-cookbook) - This Project Pythia Cookbook covers examples of analysis of Google Cloud CMIP6 data using Pangeo tools.
 - [PO.DAAC Tutorials](https://github.com/podaac/tutorials) - Make NASA’s ocean, climate, and surface water data universally accessible and meaningful.
 - [Harnessing the Power of Pangeo](https://github.com/pangeo-data/egu-2025-course) - Harnessing the Power of Pangeo: Enhancing Your Scientific Data Analysis Workflow with scalable open source tools.
+- [Energy and Climate Policy](https://github.com/drganghe/energy-climate-policy) - This graduate-level course provides a systems approach to understanding the essential policy questions and analytic tools necessary to achieve the energy transition required to address climate change.
 
 ## Earth Observation 
 - [Radiant MLHub Tutorials](https://github.com/radiantearth/mlhub-tutorials) - Tutorials to access Radiant MLHub Training Datasets.
