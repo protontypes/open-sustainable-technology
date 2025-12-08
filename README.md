@@ -1279,6 +1279,7 @@ energy system designs and analysis of interactions between technologies.
 - [LCIA](https://github.com/ecoinvent/lcia) - Contains important files from the ecoinvent Life Cycle Impact Assessment method implementation procedure for ecoinvent.
 - [CELAVI](https://github.com/NREL/celavi) - The Circular Economy Lifecycle Assessment and VIsualization framework allows stakeholders to quantify and visualize potential regional and sectoral transfers of impacts that could result from transitioning to a circular economy, with particular focus on energy material.
 - [flodym](https://github.com/pik-piam/flodym) - The Flexibe Open Dynamic Material Systems Model library provides key functionality for building material flow analysis models.
+- [LiAISON](https://github.com/NREL/LiAISON) - A Python framework for performing automated, scalable life cycle assessment with support for prospective analysis using integrated assessment model scenarios.
 
 ### Input Output Model
 
