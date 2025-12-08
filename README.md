@@ -2540,6 +2540,7 @@ parameter values.
 - [Climate Foresight](https://github.com/CliDyn/climsight) - A chatbot that answers questions about climate change impacts on planned human activities.
 - [urban-heat](https://github.com/damienallen/urban-heat) - Interactive urban heat island effect visualizations for European cities.
 - [CMIP7 Data Request Software](https://github.com/CMIP-Data-Request/CMIP7_DReq_Software) - Quick user guide for python software to interact with the CMIP7 data request.
+- [LogoClim](https://github.com/sustentarea/logoclim) - Allows researchers to integrate high-resolution climate data into agent-based models, supporting reproducible research in ecology, agriculture, environmental sciences, and other fields that rely on climate data.
 
 ### Climate Data Processing and Analysis
 
