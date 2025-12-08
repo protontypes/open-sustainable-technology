@@ -1377,6 +1377,7 @@ energy system designs and analysis of interactions between technologies.
 - [acoupi](https://github.com/acoupi/acoupi) - A Python package that streamlines bioacoustic classifier deployment on edge devices like the Raspberry Pi.
 - [BatDetect2](https://github.com/macaodha/batdetect2) -  Code for detecting and classifying bat echolocation calls in high frequency audio recordings.
 - [BirdNET-Go](https://github.com/tphakala/birdnet-go) - Realtime BirdNET soundscape analyzer.
+- [Perch](https://github.com/google-research/perch) - A bioacoustics research project that produces a bird species classifier, trained on over 10k species.
 
 ### Biomass
 
