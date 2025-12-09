@@ -1235,6 +1235,8 @@ energy system designs and analysis of interactions between technologies.
 - [reemission](https://github.com/tomjanus/reemission) - A Python library and a command line interface tool for estimating CO2, CH4 and N2O emissions from water reservoirs.
 - [Private Jet Flights](https://github.com/jorgecardleitao/private-jets) - Track and quantify emissions of private jets.
 - [Emiproc](https://github.com/C2SM-RCM/emiproc) - A Python package for generating emission input files from diverse inventories and grids, adaptable to various atmospheric transport models, including COSMO-ART and ICON-ART.
+- [OpenAirClim](https://github.com/dlr-pa/oac) - A model for simplified evaluation of the approximate chemistry-climate impact of air traffic emissions.
+
 
 ## Industrial Ecology
 
@@ -1279,6 +1281,7 @@ energy system designs and analysis of interactions between technologies.
 - [LCIA](https://github.com/ecoinvent/lcia) - Contains important files from the ecoinvent Life Cycle Impact Assessment method implementation procedure for ecoinvent.
 - [CELAVI](https://github.com/NREL/celavi) - The Circular Economy Lifecycle Assessment and VIsualization framework allows stakeholders to quantify and visualize potential regional and sectoral transfers of impacts that could result from transitioning to a circular economy, with particular focus on energy material.
 - [flodym](https://github.com/pik-piam/flodym) - The Flexibe Open Dynamic Material Systems Model library provides key functionality for building material flow analysis models.
+- [LiAISON](https://github.com/NREL/LiAISON) - A Python framework for performing automated, scalable life cycle assessment with support for prospective analysis using integrated assessment model scenarios.
 
 ### Input Output Model
 
@@ -1377,6 +1380,7 @@ energy system designs and analysis of interactions between technologies.
 - [acoupi](https://github.com/acoupi/acoupi) - A Python package that streamlines bioacoustic classifier deployment on edge devices like the Raspberry Pi.
 - [BatDetect2](https://github.com/macaodha/batdetect2) -  Code for detecting and classifying bat echolocation calls in high frequency audio recordings.
 - [BirdNET-Go](https://github.com/tphakala/birdnet-go) - Realtime BirdNET soundscape analyzer.
+- [Perch](https://github.com/google-research/perch) - A bioacoustics research project that produces a bird species classifier, trained on over 10k species.
 
 ### Biomass
 
@@ -1497,6 +1501,7 @@ energy system designs and analysis of interactions between technologies.
 - [SMBD](https://github.com/ioos/bio_data_guide) - Facilitate a community of practice for aligning marine biological data to Darwin Core for sharing to Ocean Biodiversity Information System (OBIS).
 - [CoordinateCleaner](https://github.com/ropensci/CoordinateCleaner) - Automated flagging of common spatial and temporal errors in biological and palaeontological collection data, for the use in conservation, ecology and palaeontology.
 - [Bionomia](https://github.com/bionomia/bionomia) - Parse people names from biodiversity occurrence data, apply basic regular expressions and heuristics to disambiguate them, and to make these occurrence records as entities that can be claimed by people via ORCID.
+- [ABIS](https://github.com/AusBIGG/abis) - Australian Biodiversity Information Standard.
 
 ### Conservation and Restoration
 
@@ -1592,6 +1597,7 @@ parameter values.
 - [fellingdater](https://github.com/hanecakr/fellingdater) - A suite of functions designed to assist dendrochronologists in inferring estimates for felling dates, derived from dated tree-ring series.
 - [ITSMe](https://github.com/lmterryn/ITSMe) - Provide easy to use functions to quickly obtain structural metrics from individual tree point clouds and their respective quantitative structure models.
 - [Bristlecone](https://github.com/AndrewIOM/bristlecone) - An F# library for model-fitting model-selection (MFMS) of ecological models to observational data. The library was developed for tree ring analysis, but can be used for other time-series modelling problems.
+- [iLand](https://github.com/edfm-tum/iland-model) - A forest landscape model and simulates how individual trees grow, compete, die, and regenerate under various climate, disturbance, and management scenarios.
 
 
 ### Forest Observation and Management
@@ -2538,6 +2544,7 @@ parameter values.
 - [Climate Foresight](https://github.com/CliDyn/climsight) - A chatbot that answers questions about climate change impacts on planned human activities.
 - [urban-heat](https://github.com/damienallen/urban-heat) - Interactive urban heat island effect visualizations for European cities.
 - [CMIP7 Data Request Software](https://github.com/CMIP-Data-Request/CMIP7_DReq_Software) - Quick user guide for python software to interact with the CMIP7 data request.
+- [LogoClim](https://github.com/sustentarea/logoclim) - Allows researchers to integrate high-resolution climate data into agent-based models, supporting reproducible research in ecology, agriculture, environmental sciences, and other fields that rely on climate data.
 
 ### Climate Data Processing and Analysis
 
@@ -2618,6 +2625,7 @@ parameter values.
 - [Cylc](https://github.com/cylc/cylc-flow) - A general purpose workflow engine that also manages cycling systems very efficiently, used in production weather, climate, and environmental forecasting on HPC, but is not specialized to those domains.
 - [cgeniepy](https://github.com/ruiying-ocean/cgeniepy) - A Python package to analyse the output of cGENIE Earth System Model.
 - [Skyborn](https://github.com/QianyeSu/Skyborn) - A comprehensive Python package for climate data analysis, featuring advanced statistical methods, emergent constraint techniques, and data conversion utilities.
+- [Bluemath](https://github.com/GeoOcean/BlueMath_tk) - Provide a set of statistical tools tailored for climate data analysis, with a focus on statistical classification and prediction.
 
 ### Climate Downscaling
 
@@ -3045,6 +3053,7 @@ parameter values.
 - [DEEP](https://github.com/sovereign-nature/deep) - Our goal is to reconfigure the economics of ecology by finding ways to fund and expand projects that sustain life on our planet.
 - [Greenlang](https://github.com/fingreen-ai/greenlang) - The first open-source component promoting transparency, interoperability, and collaboration in the ESG reporting domain.
 - [FINPLAN](https://github.com/FINPLAN-Model/FINPLAN-UI) - Tool that evaluates the financial performance of power plant projects over their lifetime by comparing the cost components with available financing sources.
+- [ClimateEconomics](https://github.com/os-climate/witness-core) - A Python package to evaluate the effect of energy way of production on climate change and macro-economy.
 
 ### Knowledge Platforms
 
