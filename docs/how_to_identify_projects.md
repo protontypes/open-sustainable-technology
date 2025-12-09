@@ -14,7 +14,7 @@ Before beginning the search, it is crucial to understand the core principles and
 
 ## 2. Leveraging Keyword-Based Search
 
-The [ost_keywords.txt](https://raw.githubusercontent.com/protontypes/osta/refs/heads/main/ost_keywords.txt) file provides a valuable starting point with a list of terms frequently associated with open-source projects in this domain. These keywords can be used to formulate targeted search queries across various platforms.
+The [ost_keywords.txt](https://github.com/protontypes/open-sustainable-technology/blob/main/ost_keywords.txt) file provides a valuable starting point with a list of terms frequently associated with open-source projects in this domain. These keywords can be used to formulate targeted search queries across various platforms.
 
 **Example Keywords:**
 
