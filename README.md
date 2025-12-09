@@ -2624,6 +2624,7 @@ parameter values.
 - [Meteobike](https://github.com/achristen/Meteobike) - Environmental Meteorology to measure temperature and humidity on bikes and tag measurements with GPS.
 - [Cylc](https://github.com/cylc/cylc-flow) - A general purpose workflow engine that also manages cycling systems very efficiently, used in production weather, climate, and environmental forecasting on HPC, but is not specialized to those domains.
 - [cgeniepy](https://github.com/ruiying-ocean/cgeniepy) - A Python package to analyse the output of cGENIE Earth System Model.
+- [Skyborn](https://github.com/QianyeSu/Skyborn) - A comprehensive Python package for climate data analysis, featuring advanced statistical methods, emergent constraint techniques, and data conversion utilities.
 - [Bluemath](https://github.com/GeoOcean/BlueMath_tk) - Provide a set of statistical tools tailored for climate data analysis, with a focus on statistical classification and prediction.
 
 ### Climate Downscaling
