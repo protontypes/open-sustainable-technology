@@ -6,7 +6,7 @@ This document outlines a methodology for identifying relevant open-source projec
 
 Before beginning the search, it is crucial to understand the core principles and criteria for project inclusion as defined by OpenSustain.tech. Projects should:
 
-*   Align with the [Open Sustainability Principles](https://opensustain.tech/principles/).
+*   Align with the [Open Sustainability Principles](https://github.com/protontypes/open-sustainable-technology/blob/main/OpenSourceSustainabilityEcosystem_080423.pdf).
 *   Be instrumental in preserving/restoring natural ecosystems, supporting climate change mitigation/adaptation, or enabling environmental sustainability through open technology, methods, data, knowledge, intelligence, or tools.
 *   Be actively used or developed by others outside the core project or organization.
 *   Be structured and documented for maintenance, reuse, and extendability.
@@ -30,7 +30,7 @@ The [ost_keywords.txt](https://raw.githubusercontent.com/protontypes/osta/refs/h
 ## 3. Exploring Existing Networks and Communities
 
 *   **GitHub Namespace and Stars of strong GitHub users in Sustainability:** Searching GitHub Stars or the [namespaces of users](https://opensustain.tech/spreadsheet/) and organisations in sustainability and climate is an efficient and easy way to discover missing projects. Follow these people on various people to stay updated.
-*   **Using LLM prompts to discover missing projects:** Various prompts can help you to identify any missing projects on OpenSustain.tech. Although most LLMs are familiar with some of the projects listed on OpenSustain.tech, it is helpful to provide details of the existing projects. Could you please help me find further active open-source projects on GitHub and other open-source platforms that are missing from OpenSustain.tech? Here is a subsection of the existing projects: [raw markdown copy of OpenSustain.tech sub-section] 
+*   **Using LLM prompts to discover missing projects:** Various prompts can help you to identify any missing projects on OpenSustain.tech. Although most LLMs are familiar with some of the projects listed on OpenSustain.tech, it is helpful to provide details of the existing projects. Could you please help me find further active open-source projects on GitHub and other open-source platforms that are missing from OpenSustain.tech? Here is a subsection of the existing projects: [raw markdown copy of OpenSustain.tech sub-section](https://opensustain.tech/). 
 *   **Open Source Communities:** Engage with existing open-source communities focused on environmental science, climate change, or sustainable technology. Forums, mailing lists, and social media groups can be excellent sources for discovering new projects.
 *   **Conferences and Workshops:** Attend virtual or in-person conferences and workshops related to AI/ML for sustainability. Projects are often presented and discussed at these events.
 *   **[Journal of Open Source Software (JOSS)](https://joss.theoj.org/):** Regularly review publications in JOSS for newly published open-source research software relevant to the domain.
