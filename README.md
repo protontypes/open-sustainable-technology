@@ -2507,7 +2507,7 @@ parameter values.
 - [PRISM](https://github.com/ropensci/prism) - Download data from the Oregon PRISM climate data project.
 - [climaemet](https://github.com/rOpenSpain/climaemet) - An interface to download the climatic data of the Spanish Meteorological Agency directly from R using their API and create scientific graphs.
 - [Climate Data Store Toolbox](https://cds.climate.copernicus.eu/toolbox/doc/index.html) - Dive into this wealth of information about the Earth's past, present and future climate.
-- [Climsight https://helmholtz.software/software/climsight] - Researcher created multimodal LLM that makes local recommendations based on a mix of climate data and a RAG augmented LLM.
+- [Climsight](https://github.com/CliDyn/climsight) - A next-generation climate information system that uses large language models alongside high-resolution climate model data, scientific literature, and diverse databases to deliver accurate, localized, and context-aware climate assessments.
 - [chirps](https://github.com/ropensci/chirps) - A quasi-global high-resolution rainfall data set, which incorporates satellite imagery and in-situ station data to create gridded rainfall time series for trend analysis and seasonal drought monitoring.
 - [ClimateSERVpy](https://github.com/SERVIR/ClimateSERVpy) - Enables access to the ClimateSERV API where many types of climate data can be subset by area of interest, and time range, then either downloaded as tif, or NetCDf files, or the data can be statistically processed to render json values or csv.
 - [ecmwfr](https://github.com/bluegreen-labs/ecmwfr) - Provides easy access to the European Centre for Medium-Range Weather Forecasts web API services and Copernicus Climate Data Store from within R, matching and expanding upon the ECMWF Python tools.
@@ -2624,6 +2624,7 @@ parameter values.
 - [Meteobike](https://github.com/achristen/Meteobike) - Environmental Meteorology to measure temperature and humidity on bikes and tag measurements with GPS.
 - [Cylc](https://github.com/cylc/cylc-flow) - A general purpose workflow engine that also manages cycling systems very efficiently, used in production weather, climate, and environmental forecasting on HPC, but is not specialized to those domains.
 - [cgeniepy](https://github.com/ruiying-ocean/cgeniepy) - A Python package to analyse the output of cGENIE Earth System Model.
+- [Skyborn](https://github.com/QianyeSu/Skyborn) - A comprehensive Python package for climate data analysis, featuring advanced statistical methods, emergent constraint techniques, and data conversion utilities.
 - [Bluemath](https://github.com/GeoOcean/BlueMath_tk) - Provide a set of statistical tools tailored for climate data analysis, with a focus on statistical classification and prediction.
 
 ### Climate Downscaling
@@ -2971,6 +2972,7 @@ parameter values.
 - [Iowa Daily Erosion Project](https://github.com/dailyerosion/dep) - Estimates soil erosion and water runoff occurring on hill slopes in Iowa and surrounding states.
 - [SoilHealthDataCube](https://github.com/AI4SoilHealth/SoilHealthDataCube) - Soil Health Data Cube for Europe.
 - [GeoTessera](https://github.com/ucam-eo/geotessera) - A foundation model that can process time-series satellite imagery for applications such as land classification and canopy height prediction.
+- [wlts.py](https://github.com/brazil-data-cube/wlts.py) - Produce information on land use and coverage used by the Brazilian Government to make public policy decisions.
 
 ### Ecotoxicology
 
