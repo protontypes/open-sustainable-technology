@@ -1430,6 +1430,7 @@ energy system designs and analysis of interactions between technologies.
 - [LIFE](https://github.com/quantifyearth/LIFE) - Implementation of the methodology for the Eyres et al LIFE biodiversity metric.
 - [Living Planet Index](https://github.com/Zoological-Society-of-London/rlpi) - The diversity-weighted Living Planet Index: controlling for taxonomic bias in a global biodiversity indicator.
 - [BioTIMEr](https://github.com/bioTIMEHub/BioTIMEr) - Global database of assemblage time series for quantifying and understanding biodiversity change.
+- [dispRity](https://github.com/TGuillerme/dispRity) -  A R modular package for measuring disparity in multidimensional spaces.
 
 ### Biodiversity Citizen Science
 
