@@ -1236,6 +1236,7 @@ energy system designs and analysis of interactions between technologies.
 - [Private Jet Flights](https://github.com/jorgecardleitao/private-jets) - Track and quantify emissions of private jets.
 - [Emiproc](https://github.com/C2SM-RCM/emiproc) - A Python package for generating emission input files from diverse inventories and grids, adaptable to various atmospheric transport models, including COSMO-ART and ICON-ART.
 - [OpenAirClim](https://github.com/dlr-pa/oac) - A model for simplified evaluation of the approximate chemistry-climate impact of air traffic emissions.
+- [Climatoology](https://gitlab.heigit.org/climate-action/climatoology/) -  Offers high-resolution data and insights on key climate indicators, from heating emissions to walkability, helping you identify both strengths and areas for improvement in your city or region.
 
 
 ## Industrial Ecology
