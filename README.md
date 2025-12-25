@@ -512,6 +512,7 @@ energy system designs and analysis of interactions between technologies.
 - [FAME-Io](https://gitlab.com/fame-framework/fame-io) - The open Framework for distributed Agent-based Models of Energy systems.
 - [Electricity Planning Model](https://github.com/ESMAP-World-Bank-Group/EPM) - As power system planning is one of the key activities performed by energy ministries and utilities around the world, the ambition of this tool is to actively inform the operational work of the World Bank's staff and clients and to be an evolving and versatile decision-making tool.
 - [TZ-OSeMOSYS](https://github.com/transition-zero/tz-osemosys) - A TransitionZero implementation of the OSeMOSYS systems model.
+- [PyPSA-SPICE](https://github.com/agoenergy/pypsa-spice) - PyPSA-based Scenario Planning and Integrated Capacity Expansion Model Builder.
 
 ### Energy Markets
 
