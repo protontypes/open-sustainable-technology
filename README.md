@@ -529,6 +529,7 @@ energy system designs and analysis of interactions between technologies.
 - [openCEM](https://github.com/openCEMorg/openCEM) - Capacity Expansion Model and Optimiser for the Australian National Energy Market.
 - [NEMO](https://github.com/bje-/NEMO) - The National Electricity Market Optimizer is a chronological dispatch model for testing and optimizing different portfolios of conventional and renewable electricity generation technologies.
 - [HAMLET](https://github.com/tum-ens/HAMLET) - A modular and extendable open-source toolbox for the development and testing of market designs with a focus on local interactions at the distribution level.
+- [Econobis](https://github.com/Ecodenl/econobis?tab=License-1-ov-file#readme) - The CRM and administration system for energy cooperatives, municipalities and cooperatives.
 
 ### Energy Data Accessibility and Integration
 
