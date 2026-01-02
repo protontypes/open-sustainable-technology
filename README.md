@@ -1491,6 +1491,7 @@ energy system designs and analysis of interactions between technologies.
 - [gbif.range](https://github.com/8Ginette8/gbif.range) - An R package to generate species range maps based on ecoregions and a user-friendly GBIF wrapper.
 - [BioCube](https://github.com/BioDT/bfm-data) - Contains the code used to engineer BioCube: A Multimodal Dataset for Biodiversity Research.
 - [Biodiversity Heritage Library](https://github.com/gbhl/bhl-us) - Biodiversity Heritage Library's web site, databases, and supporting services.
+- [Biodiversity Around Me](https://github.com/PnX-SI/BAM-widget) - A web widget that retrieves and displays species observed within an area, based on the GBIF data API or alternative other biodiversity data sources.
 - [b3gbi](https://github.com/b-cubed-eu/b3gbi) - Analyze biodiversity trends and spatial patterns from GBIF data cubes, using flexible indicators like richness, evenness, and more.
 
 ### Biodiversity Data Cleaning and Standardization
