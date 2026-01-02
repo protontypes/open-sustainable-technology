@@ -529,6 +529,7 @@ energy system designs and analysis of interactions between technologies.
 - [openCEM](https://github.com/openCEMorg/openCEM) - Capacity Expansion Model and Optimiser for the Australian National Energy Market.
 - [NEMO](https://github.com/bje-/NEMO) - The National Electricity Market Optimizer is a chronological dispatch model for testing and optimizing different portfolios of conventional and renewable electricity generation technologies.
 - [HAMLET](https://github.com/tum-ens/HAMLET) - A modular and extendable open-source toolbox for the development and testing of market designs with a focus on local interactions at the distribution level.
+- [Econobis](https://github.com/Ecodenl/econobis?tab=License-1-ov-file#readme) - The CRM and administration system for energy cooperatives, municipalities and cooperatives.
 
 ### Energy Data Accessibility and Integration
 
@@ -1236,6 +1237,7 @@ energy system designs and analysis of interactions between technologies.
 - [Private Jet Flights](https://github.com/jorgecardleitao/private-jets) - Track and quantify emissions of private jets.
 - [Emiproc](https://github.com/C2SM-RCM/emiproc) - A Python package for generating emission input files from diverse inventories and grids, adaptable to various atmospheric transport models, including COSMO-ART and ICON-ART.
 - [OpenAirClim](https://github.com/dlr-pa/oac) - A model for simplified evaluation of the approximate chemistry-climate impact of air traffic emissions.
+- [Climatoology](https://gitlab.heigit.org/climate-action/climatoology/) -  Offers high-resolution data and insights on key climate indicators, from heating emissions to walkability, helping you identify both strengths and areas for improvement in your city or region.
 
 
 ## Industrial Ecology
@@ -1487,6 +1489,7 @@ energy system designs and analysis of interactions between technologies.
 - [BioCube](https://github.com/BioDT/bfm-data) - Contains the code used to engineer BioCube: A Multimodal Dataset for Biodiversity Research.
 - [Biodiversity Heritage Library](https://github.com/gbhl/bhl-us) - Biodiversity Heritage Library's web site, databases, and supporting services.
 - [Biodiversity Around Me](https://github.com/PnX-SI/BAM-widget) - A web widget that retrieves and displays species observed within an area, based on the GBIF data API or alternative other biodiversity data sources.
+- [b3gbi](https://github.com/b-cubed-eu/b3gbi) - Analyze biodiversity trends and spatial patterns from GBIF data cubes, using flexible indicators like richness, evenness, and more.
 
 ### Biodiversity Data Cleaning and Standardization
 
@@ -2486,6 +2489,7 @@ parameter values.
 - [kerchunk](https://github.com/fsspec/kerchunk) - A library that provides a unified way to represent a variety of chunked, compressed data formats (e.g. NetCDF, HDF5, GRIB), allowing efficient access to the data from traditional file systems or cloud object storage.
 - [Zarr](https://github.com/zarr-developers/zarr-python) -  Provides an efficient, scalable, and flexible way to store and access large, multi-dimensional arrays, the core data format used in climate models and observational datasets.
 - [NCDatasets.jl](https://github.com/JuliaGeo/NCDatasets.jl) - Allows one to read and create netCDF files, with data sets and attribute lists behaving like Julia dictionaries and variables like Julia arrays, and it implements the CommonDataModel.jl interface.
+- [pycmor](https://github.com/esm-tools/pycmor) - A Python package to simplify the standardization of output into the Climate Model Output Rewriter standard.
 
 
 ### Climate Data Access and Visualization
