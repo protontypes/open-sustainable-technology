@@ -9,6 +9,7 @@ hide:
 
 Open Sustainable Technology has participated in numerous conferences and other events to showcase the vital contribution of open source to environmental sustainability.
 
+- [Mapping the Open Source Ecosystem for Climate Science and Sustainable Technology](https://youtu.be/mVNHdsaEZCw?si=1BIVU-2z8GE8G3da) - OpenForum Europe - 2025 
 - [Disrupting the destruction of our natural world with openness](https://fosdem.org/2025/schedule/event/fosdem-2025-5972-disrupting-the-destruction-of-our-natural-world-with-openness/) - FOSDEM - 2025
 - [Hacking Earth from Space with Open Source](https://www.youtube.com/watch?v=8NP2iTaWIoc) - Major League Hacking - 2024
 - [How are open source projects creating climate impact?](https://www.youtube.com/watch?v=6aEFLPXT6l8) - Community Panel hosted by Open Climate Fix - 2024
