@@ -95,7 +95,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
   - [Climate Data Access and Visualization](#climate-data-access-and-visualization)
   - [Climate Data Processing and Analysis](#climate-data-processing-and-analysis)
   - [Climate Downscaling](#climate-downscaling)
-  - [Natural Hazard and Storm](#natural-hazard-and-storm)
+  - [Natural Hazard and Storms](#natural-hazard-and-storms)
   - [Integrated Assessment and Climate Policy](#integrated-assessment-and-climate-policy)
 - [Natural Resources](#natural-resources)
   - [Air Quality](#air-quality)
@@ -2657,7 +2657,7 @@ parameter values.
 - [DeepR](https://github.com/ECMWFCode4Earth/DeepR) - Global reanalysis downscaling to regional scales by means of deep learning techniques.
 - [climr](https://github.com/bcgov/climr) - An R package of downscaled climate data for North America.
 
-### Natural Hazard and Storm
+### Natural Hazard and Storms
 
 > __What?__ Naturally occurring environmental events that pose a potential threat to a community or society include storms, which are disturbed atmospheric states characterized by violent weather, including strong winds, heavy precipitation, thunder, and lightning.
 
