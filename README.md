@@ -478,8 +478,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 - [PREP-SHOT](https://github.com/PREP-NexT/PREP-SHOT) - A transparent, modular, and open-source Energy Capacity Expansion Model.
 - [HYBRID](https://github.com/idaholab/HYBRID) - A modeling toolset to assess the integration and economic viability of Integrated Energy Systems.
 - [FAME](https://gitlab.com/fame-framework/fame-core) - Its purpose is supporting the rapid development and fast execution of complex agent-based energy system simulations.
-- [REMix](https://gitlab.com/dlr-ve/esy/remix/framework) - The main focus is on the broad techno-economical assessment of possible future
-energy system designs and analysis of interactions between technologies.
+- [REMix](https://gitlab.com/dlr-ve/esy/remix/framework) - The main focus is on the broad techno-economical assessment of possible future energy system designs and analysis of interactions between technologies.
 - [OpenDER](https://github.com/epri-dev/OpenDER) - Aims to accurately represent steady-state and dynamic behaviors of inverter-based distributed energy resources.
 - [ETM Pro](https://github.com/quintel/etmodel) - Professional interface of the Energy Transition model.
 - [ETSource](https://github.com/quintel/etsource) - Contains the data used by Quintel energy transition modelling applications, allowing you to explore possible future energy systems for your country, region or municipality.
@@ -1532,8 +1531,7 @@ energy system designs and analysis of interactions between technologies.
 - [spatialwarnings](https://github.com/spatial-ews/spatialwarnings) - An R package to compute spatial early-warning signals of ecosystem degradation.
 - [projectfirma](https://github.com/sitkatech/projectfirma) - Tracks conservation and natural resource project performance and expenditures, and helps managers visualize results at the program level.
 - [Ground for Android](https://github.com/google/ground-android) - An map-first data collection platform built in collaboration with environmental non-profits and international organizations with the goal of driving sustainability impact at scale.
-- [geohabnet](https://github.com/GarrettLab/HabitatConnectivity) - Enable users to visualise a habitat connectivity risk index for agriculture using their own 
-parameter values.
+- [geohabnet](https://github.com/GarrettLab/HabitatConnectivity) - Enable users to visualise a habitat connectivity risk index for agriculture using their own parameter values.
 - [Where to Work](https://github.com/NCC-CNC/wheretowork) - A web-based application for solving complex conservation scenarios using concepts of systematic conservation planning.
 - [SkyTruth 30x30 Tracker](https://github.com/Vizzuality/skytruth-30x30) - A compelling online experience that builds momentum towards meeting global biodiversity targets by unlocking opportunities for protecting the marine environment and forging connections with the wider 30x30 community.
 
