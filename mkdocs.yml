@@ -82,5 +82,7 @@ extra:
       link: https://mastodon.social/@opensustaintech
     - icon: fontawesome/brands/linkedin
       link: https://linkedin.com/company/protontypes
+    - icon: fontawesome/brands/bluesky
+      link: https://bsky.app/profile/opensustaintech.bsky.social
   analytics:
     production_url: 'https://opensustain.tech'
