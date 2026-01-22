@@ -198,6 +198,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 - [SkyGPT](https://github.com/yuhao-nie/SkyGPT) - A physics-constrained stochastic sky video prediction model for probabilistic short-term solar forecasting.
 - [GMSEUS](https://github.com/stidjaco/GMSEUS) - A comprehensive ground-mounted solar energy dataset with sub-array design metadata in the United States.
 - [solposx](https://github.com/pvlib/solposx) - A Python package for calculating solar position angles and comparing solar position algorithms.
+- [Solar Consumer](https://github.com/openclimatefix/solar-consumer) - This code can be used to download solar forecasts and save them to a PostgreSQL database by retrieving solar generation estimates for embedded solar farms and preparing the data for analysis.
 
 ### Wind Energy
 
