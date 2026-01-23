@@ -960,6 +960,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 - [Principles of Green Software Engineering](https://github.com/jawache/principles-green) - Are a core set of competencies needed to define, build and run sustainable software applications.
 - [grid-intensity-go](https://github.com/thegreenwebfoundation/grid-intensity-go) - A tool written in go to help you factor carbon intensity into decisions about where and when to run computing jobs.
 - [Eco2AI](https://github.com/sb-ai-lab/Eco2AI) - A Python library which accumulates statistics about power consumption and CO2 emission during running code.
+- [EcoCompute AI](https://github.com/hongping-zh/ecocompute-ai) - A Green FinOps CI/CD gatekeeper that predicts PyTorch energy costs and carbon emissions before code merges, helping AI teams reduce GPU cloud spend.
 - [impact](https://github.com/mlco2/impact/) - Compute your ML model's emissions with our calculator and add the results to your paper with our generated LaTeX template.
 - [CodeCarbon](https://github.com/mlco2/codecarbon) - Track emissions from Compute and recommend ways to reduce their impact on the environment.
 - [experiment-impact-tracker](https://github.com/Breakend/experiment-impact-tracker) - Meant to be a simple drop-in method to track energy usage, carbon emissions, and compute utilization of your system.
