@@ -2473,6 +2473,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 - [sunpy](https://github.com/sunpy/sunpy) -  A Python software package that provides fundamental tools for accessing, loading and interacting with solar physics data in Python.
 - [cGENIE.muffin](https://github.com/derpycode/cgenie.muffin) - Carbon Turnover in Ocean, Atmosphere, Sediment, and Terrestrial Exchangeable Reservoirs model.
 - [cgenie](https://github.com/genie-model/cgenie) - GENIE family of Earth system models.
+- [XRO](https://github.com/senclimate/XRO) - An eXtended nonlinear Recharge Oscillator model for El Niño-Southern Oscillation (ENSO) and other modes of variability in the global ocean.
 
 ### Climate Data Standards 
 
