@@ -2092,6 +2092,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 - [eo-tides](https://github.com/GeoscienceAustralia/eo-tides) - Provides powerful parallelized tools for integrating satellite Earth observation data with tide modelling.
 - [EWDM](https://github.com/dspelaez/extended-wdm) - Python toolkit for estimating directional wave spectra of ocean waves based on wavelet transform.
 - [DispersiveShallowWater.jl](https://github.com/NumericalMathematics/DispersiveShallowWater.jl) - A Julia library of structure-preserving numerical methods for dispersive wave equations.
+- [Mantaray](https://github.com/mines-oceanography/mantaray) - A Rust Package for Ray Tracing Ocean Surface Gravity Waves.
 
 ### Ocean Carbon and Temperature
 
