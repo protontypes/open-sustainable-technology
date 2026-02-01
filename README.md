@@ -357,6 +357,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 - [Galv backend](https://github.com/galv-team/galv-backend) - An open-source platform for automated storage of battery data with advanced metadata support for battery scientists.
 - [PyProBE](https://github.com/ImperialCollegeLondon/PyProBE) - A Python package designed to simplify and accelerate the process of analysing data from battery cyclers.
 - [APIS](https://github.com/hyphae/APIS) - Autonomous Power Interchange System is an innovative open-source platform that enables Physical Peer-to-Peer (PP2P) energy sharing between distributed batteries in microgrids.
+- [Flow Battery Research Collective](https://codeberg.org/FBRC/RFB-dev-kit) - A benchtop flow battery development kit, extendable to other electrochemical systems with flow.
 
 ### Hydrogen
 
