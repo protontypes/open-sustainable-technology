@@ -2043,6 +2043,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 - [AHGestimation](https://github.com/mikejohnson51/AHGestimation) - Estimating robust, mass conserving AHG (at-a-station hydraulic geometry) relationships.
 - [ArchPy](https://github.com/randlab/ArchPy) - A tool to create, manipulate and vizualize 3D geological and petro-physical models of the subsurface like groundwater.
 - [pySWAP](https://github.com/zawadzkim/pySWAP) - Python Interface to SWAP (Soil, Water, Atmosphere and Plant) to simulates transport of water, solutes and heat in unsaturated/saturated soils.
+- [SWIM](https://github.com/sintefmath/SurfaceWaterIntegratedModeling.jl) - An open-source software package for static modeling and prediction of surface water and urban flooding based on analysis of terrain topography.
 
 ### Ocean Models
 
