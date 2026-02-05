@@ -23,6 +23,7 @@ import logging
 import os
 import re
 from dataclasses import dataclass
+from pathlib import Path
 from typing import Callable
 
 import diskcache
@@ -49,6 +50,16 @@ if N_MAXIMUM_CHANGES_PER_ITERATION in [None, ""]:
     )
 else:
     N_MAXIMUM_CHANGES_PER_ITERATION = int(N_MAXIMUM_CHANGES_PER_ITERATION)
+
+if os.environ.get("OPEN_PR") in ["", None, "0"]:
+    OPEN_PR = False
+else:
+    OPEN_PR = True
+
+if os.environ.get("ALLOW_CACHING") in ["", None, "0"]:
+    ALLOW_CACHING = False
+else:
+    ALLOW_CACHING = True
 
 
 # Parameters to adjust
@@ -134,19 +145,31 @@ def change_file_and_create_pull_request(
     print(f"Created PR #{pr.number}: {pr.title}")
 
 
+def change_file_locally(
+    f_change_apply: Callable,
+):
+    local_file = str(Path(__file__).parent.parent.parent.parent / "README.md")
+
+    with open(local_file, "r") as f:
+        base_file_contents = f.read()
+
+    # Update the file content
+    new_file_contents = f_change_apply(base_file_contents)
+
+    with open(local_file, "w") as f:
+        f.write(new_file_contents)
+
+    print(f"Updated local file {local_file}")
+
+
 markdown_file = "README.md"
 
 # ------------------------------------------------------------------------------------
 # Reads the file
 # ------------------------------------------------------------------------------------
-if os.path.exists(markdown_file):
-    file_io_path = markdown_file
-elif os.path.exists(f"../{markdown_file}"):
-    file_io_path = f"../{markdown_file}"
-elif os.path.exists(f"open-sustainable-technology/{markdown_file}"):
-    file_io_path = f"open-sustainable-technology/{markdown_file}"
-else:
-    raise FileNotFoundError("Unable to find readme file")
+
+
+file_io_path = str(Path(__file__).parent.parent.parent.parent / "README.md")
 
 logging.info(f"Reading file: {file_io_path}")
 with open(file_io_path, "r") as f:
@@ -193,11 +216,16 @@ class LinksToMaintain:
         )
 
 
-def _cached_session_get(s: requests.Session, url: str) -> tuple[int | None, str | None]:
+def _cached_session_get(
+    s: requests.Session,
+    url: str,
+    allow_caching: bool,
+) -> tuple[int | None, str | None]:
     key = f"url:{url}"
-    sc_cached = CACHE.get(key)
-    if sc_cached:
-        return sc_cached
+    if allow_caching:
+        sc_cached = CACHE.get(key)
+        if sc_cached:
+            return sc_cached
     r = s.get(
         url,
         allow_redirects=False,
@@ -209,7 +237,8 @@ def _cached_session_get(s: requests.Session, url: str) -> tuple[int | None, str 
         next_url = r.next.url
     else:
         next_url = None
-    CACHE.set(key=key, value=(status_code, next_url), expire=CACHE_LIFETIME_SECONDS)
+    if allow_caching:
+        CACHE.set(key=key, value=(status_code, next_url), expire=CACHE_LIFETIME_SECONDS)
     return status_code, next_url
 
 
@@ -242,7 +271,9 @@ try:
         try:
             if _ignore_url(url_i):
                 continue
-            status_code, next_url = _cached_session_get(SESSION, url_i)
+            status_code, next_url = _cached_session_get(
+                SESSION, url_i, allow_caching=ALLOW_CACHING
+            )
         except requests.exceptions.ConnectionError:
             status_code = None
         if status_code is None:
@@ -340,14 +371,19 @@ for redirects in chunk_dict(unprocessed_urls, chunk_size=3):
     pr_body = "This PR carries out redirection of the following links:\n" + "\n".join(
         [f"- [{k}]({k}) to [{v}]({v})" for k, v in redirects.items()]
     )
-    change_file_and_create_pull_request(
-        **common_kwargs,
-        f_change_apply=f_fix_redirect,
-        target_branch_name=branch_name,
-        commit_message="Fixing targets",
-        pr_name=pr_name,
-        pr_body=pr_body,
-    )
+    if OPEN_PR:
+        change_file_and_create_pull_request(
+            **common_kwargs,
+            f_change_apply=f_fix_redirect,
+            target_branch_name=branch_name,
+            commit_message="Fixing targets",
+            pr_name=pr_name,
+            pr_body=pr_body,
+        )
+    else:
+        change_file_locally(
+            f_change_apply=f_fix_redirect,
+        )
 
 
 # Second: removing the lines with URL issues
@@ -382,13 +418,18 @@ for urls_issues in chunk_list(unprocessed_urls, chunk_size=1):
         "This PR deletes the links where the target is dead (HTTP 404):\n"
         + "\n".join([f"- [{k}]({k})" for k in sources])
     )
-    change_file_and_create_pull_request(
-        **common_kwargs,
-        f_change_apply=f_remove_issues,
-        target_branch_name=branch_name,
-        commit_message="Removing dead target",
-        pr_name=pr_name,
-        pr_body=pr_body,
-    )
+    if OPEN_PR:
+        change_file_and_create_pull_request(
+            **common_kwargs,
+            f_change_apply=f_remove_issues,
+            target_branch_name=branch_name,
+            commit_message="Removing dead target",
+            pr_name=pr_name,
+            pr_body=pr_body,
+        )
+    else:
+        change_file_locally(
+            f_change_apply=f_fix_redirect,
+        )
 
 logging.info("Completed")

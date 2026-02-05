@@ -61,6 +61,8 @@ jobs:
         env:
           N_MAXIMUM_CHANGES_PER_ITERATION: ${{ inputs.numberOfUpdates }}
           GITHUB_API_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          OPEN_PR: 1
+          ALLOW_CACHING: 1
                 
       - name: Save cache
         id: cache-save
