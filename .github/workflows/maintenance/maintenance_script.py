@@ -7,14 +7,13 @@
 #   'diskcache>=5.6.3',
 #   'PyGithub==2.8.1',
 #   'python-dotenv',
+#   'pydantic-settings>=2.12.0'
 # ]
 # ///
 """
 This python script screens resources linked to, and ensures that they're still alive
 
-Environment variables to set:
-- GITHUB_API_TOKEN
-- N_MAXIMUM_CHANGES_PER_ITERATION
+Environment variables to set: see the _Settings() class below
 
 Note: the header contains all dependencies to easily run with UV
 """
@@ -30,36 +29,32 @@ import diskcache
 import requests
 from dotenv import load_dotenv
 from github import Auth, Github, Repository
+from pydantic_settings import BaseSettings
 from requests.adapters import HTTPAdapter
 from tqdm import tqdm
 from urllib3.util import Retry
 
+
+class _Settings(BaseSettings):
+    # Note: these environment default are set for local operation, appropriate defaults
+    #  for production are set in the Github actions file
+    GITHUB_API_TOKEN: str
+    N_MAXIMUM_CHANGES_PER_ITERATION: int = 10
+    ALLOW_CACHING: bool = True
+    OPEN_PR: bool = False
+
+
 load_dotenv()
-github_token = Auth.Token(os.environ.get("GITHUB_API_TOKEN"))
+SETTINGS = _Settings()
+
+github_token = Auth.Token(SETTINGS.GITHUB_API_TOKEN)
 if github_token is None:
     raise EnvironmentError(
         "Missing Github token in environment (please initialise GITHUB_API_TOKEN)"
     )
-N_MAXIMUM_CHANGES_PER_ITERATION: int | None = os.environ.get(
-    "N_MAXIMUM_CHANGES_PER_ITERATION"
-)
-if N_MAXIMUM_CHANGES_PER_ITERATION in [None, ""]:
-    N_MAXIMUM_CHANGES_PER_ITERATION = 10
-    print(
-        f"Forcing N_MAXIMUM_CHANGES_PER_ITERATION to {N_MAXIMUM_CHANGES_PER_ITERATION}"
-    )
-else:
-    N_MAXIMUM_CHANGES_PER_ITERATION = int(N_MAXIMUM_CHANGES_PER_ITERATION)
-
-if os.environ.get("OPEN_PR") in ["", None, "0"]:
-    OPEN_PR = False
-else:
-    OPEN_PR = True
-
-if os.environ.get("ALLOW_CACHING") in ["", None, "0"]:
-    ALLOW_CACHING = False
-else:
-    ALLOW_CACHING = True
+N_MAXIMUM_CHANGES_PER_ITERATION = SETTINGS.N_MAXIMUM_CHANGES_PER_ITERATION
+OPEN_PR = SETTINGS.OPEN_PR
+ALLOW_CACHING = SETTINGS.ALLOW_CACHING
 
 
 # Parameters to adjust
@@ -147,6 +142,8 @@ def change_file_and_create_pull_request(
 
 def change_file_locally(
     f_change_apply: Callable,
+    pr_name: str | None = None,
+    pr_body: str | None = None,
 ):
     local_file = str(Path(__file__).parent.parent.parent.parent / "README.md")
 
@@ -160,6 +157,30 @@ def change_file_locally(
         f.write(new_file_contents)
 
     print(f"Updated local file {local_file}")
+    if pr_name is not None:
+        print(
+            f"""
+
+A good PR name could be: 
+=======================================
+{pr_name}
+=======================================
+
+"""
+        )
+    if pr_body is not None:
+        print(
+            f"""
+
+A good PR description body could be:
+=======================================
+    
+{pr_body}
+
+=======================================
+
+"""
+        )
 
 
 markdown_file = "README.md"
@@ -272,7 +293,9 @@ try:
             if _ignore_url(url_i):
                 continue
             status_code, next_url = _cached_session_get(
-                SESSION, url_i, allow_caching=ALLOW_CACHING
+                SESSION,
+                url_i,
+                allow_caching=ALLOW_CACHING,
             )
         except requests.exceptions.ConnectionError:
             status_code = None
@@ -430,6 +453,8 @@ for urls_issues in chunk_list(unprocessed_urls, chunk_size=1):
     else:
         change_file_locally(
             f_change_apply=f_fix_redirect,
+            pr_name=pr_name,
+            pr_body=pr_body,
         )
 
 logging.info("Completed")
