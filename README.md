@@ -1678,6 +1678,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 - [pytreedb](https://github.com/3dgeo-heidelberg/pytreedb) - A Python software package providing an object-based library to provide a simple database interface and REST API of vegetation tree objects that were captured as 3D point clouds.
 - [Deadtrees.earth](https://github.com/Deadwood-ai/deadtrees) - An open database for accessing, contributing, analyzing, and visualizing remote sensing-based tree mortality data.
 - [PyForestScan](https://github.com/iosefa/PyForestScan) - A python package for calculating forest structural metrics from airborne point clouds.
+- [OlmoEarth](https://github.com/allenai/olmoearth_projects) - A collection of real-world Earth-observation model configurations, tutorials and tooling built on top of the open OlmoEarth foundation models to map ecosystems, forest loss, mangroves and more using satellite data.
 
 
 ### Marine Life and Fishery
