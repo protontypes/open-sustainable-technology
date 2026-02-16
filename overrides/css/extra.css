@@ -1,0 +1,21 @@
+.iframestyle {
+  position: fixed;
+  top: 7.0rem;
+  bottom: 100.0;
+  right: 0px;
+  width: 100%;
+  border: none;
+  margin: 0;
+  padding: 0;
+  overflow: visible;
+  height: 85%;
+}
+
+@media (max-width: 1219px) {
+  .iframestyle {
+    top: 5.0rem;
+    bottom : 5.0rem;
+    height: 85%;
+    overflow: visible;
+  }
+}
