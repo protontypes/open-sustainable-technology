@@ -1139,6 +1139,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 - [Project Eucalyptus](https://github.com/Orbio-Earth/Project-Eucalyptus) - Open-source pipelines for satellite-based methane detection that includes trained segmentation models, a synthetic plume generator, and benchmarking tools for Sentinel-2, Landsat 8/9, and EMIT.
 - [DSCIM](https://github.com/ClimateImpactLab/dscim) - Enables the calculation of sector-specific partial social cost of greenhouse gases combined across sectors using a variety of valuation methods and assumptions.
 - [GGIRCS](https://github.com/bcgov/cas-ggircs) - BC Climate Action Secretariat's Greenhouse Gas Industrial Reporting and Control System.
+- [GreenOps Carbon Scheduler](https://github.com/ramkdataeng-lab/greenops-carbon-scheduler) - A Python-based GreenOps tool that schedules batch jobs during windows of low carbon intensity (gCO2/kWh) and estimates the carbon footprint of Snowflake queries.
 
 
 ### Carbon Offsets and Trading 
