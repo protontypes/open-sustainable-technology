@@ -1173,6 +1173,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 - [GEOS](https://github.com/GEOS-DEV/GEOS) - A simulation framework for modeling coupled flow, transport, and geomechanics in the subsurface.
 - [ThermoPack](https://github.com/thermotools/thermopack) - A thermodynamic model library for fluid properties and pressure-volume-temperature property calculations.
 - [Mocca](https://github.com/sintefmath/Mocca.jl) - Provides a Julia based framework for the simulating pressure / temperature swing adsorption processes for CO2 capture.
+- [StrataTrapper](https://github.com/ImperialCollegeLondon/StrataTrapper) - Advanced modelling of CO2 migration and trapping. 
 
 ### Emission Observation and Modeling
 
