@@ -509,7 +509,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 - [Roseau Load Flow](https://github.com/RoseauTechnologies/Roseau_Load_Flow) - A powerful load flow solver and static analysis tool.
 - [ExerPy](https://github.com/oemof/exerpy) - A Python library designed to perform detailed exergy analysis of energy conversion systems.
 - [Open Energy Benchmark](https://github.com/open-energy-transition/solver-benchmark) - This repository contains code for benchmarking optimization solvers on problems from the energy planning domain, and an interactive website for analyzing the results.
-- [Open-TYNDP](https://github.com/open-energy-transition/open-tyndp) - Explore and consider the adoption of PyPSA in the Ten-Year Network Development Plan of European Network of Transmission System Operators for Electricity (ENTSO-E) by building a workflow based on PyPSA-Eur.
+- [Open-TYNDP](https://github.com/open-energy-transition/open-tyndp) - Explore and consider the adoption of PyPSA in the Ten-Year Network Development Plan of European Network of Transmission System Operators for Electricity (ENTSO-E) by building a workflow based on PyPSA-Eur.Tr
 - [FAME-Io](https://gitlab.com/fame-framework/fame-io) - The open Framework for distributed Agent-based Models of Energy systems.
 - [Electricity Planning Model](https://github.com/ESMAP-World-Bank-Group/EPM) - As power system planning is one of the key activities performed by energy ministries and utilities around the world, the ambition of this tool is to actively inform the operational work of the World Bank's staff and clients and to be an evolving and versatile decision-making tool.
 - [TZ-OSeMOSYS](https://github.com/transition-zero/tz-osemosys) - A TransitionZero implementation of the OSeMOSYS systems model.
@@ -919,6 +919,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 - [venco.py](https://gitlab.com/dlr-ve/esy/vencopy/vencopy) - A data processing tool offering demand and flexibility profiles for future electric vehicle fleets in an aggregated manner.
 - [nammayatri](https://github.com/nammayatri/nammayatri) - A Direct-to-Driver open mobility platform powering the next-generation of mobility applications in India.
 - [biclaR](https://github.com/U-Shift/biclar) - A tool for the design and assessment of different scenarios of the cycling network models in the Lisbon metropolitan area.
+- [ha-evcc](https://github.com/marq24/ha-evcc) - Home Assistant integration for evcc optimized charging of electric vehicles, connecting your EV charger with your PV system.
 
 ### Production and Industry
 
