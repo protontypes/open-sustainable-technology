@@ -3289,6 +3289,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 - [OpenForest](https://github.com/RolnickLab/OpenForest) - An initiative to centralize open access forest monitoring datasets.
 - [Awesome Green AI](https://github.com/samuelrince/awesome-green-ai) - A curated list of awesome Green AI resources and tools to reduce the environmental impacts of using and deploying AI.
 - [Awesome Electric Grid Mapping](https://github.com/open-energy-transition/Awesome-Electric-Grid-Mapping) - A curated list of resources in the field of electric grid mapping to improve global open data coverage, harmonization and quality for a sustainable energy transition.
+- [Awesome Electric Vehicle](https://github.com/juherr/awesome-ev-charging) - Contains a collection of specifications, tools, and resources related to electric vehicle charging protocols.
 
 
 ## Contributors
