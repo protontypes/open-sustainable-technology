@@ -1173,6 +1173,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 - [GEOS](https://github.com/GEOS-DEV/GEOS) - A simulation framework for modeling coupled flow, transport, and geomechanics in the subsurface.
 - [ThermoPack](https://github.com/thermotools/thermopack) - A thermodynamic model library for fluid properties and pressure-volume-temperature property calculations.
 - [Mocca](https://github.com/sintefmath/Mocca.jl) - Provides a Julia based framework for the simulating pressure / temperature swing adsorption processes for CO2 capture.
+- [AcidWatch](https://github.com/equinor/acidwatch) - Democratize and open up the discussion around CO2 impurities and provide a reliable resource for researchers, chemists, and industry professionals in the CCS domain.
 
 ### Emission Observation and Modeling
 
