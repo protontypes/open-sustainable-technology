@@ -978,7 +978,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 - [Green Algorithms](https://github.com/GreenAlgorithms/green-algorithms-tool) - Aims at promoting more environmentally sustainable computational science.
 - [Camunda Carbon Reductor](https://github.com/envite-consulting/camunda-carbon-reductor) - Allows you to time shift your processes' carbon emissions when energy is clean while still fulfilling the requested service level agreement.
 - [Quell](https://github.com/rollthecloudinc/quell) - The Content Management Software that combats climate change stopping web carbon production in its tracks.
-- [Ecoindex_cli](https://github.com/cnumr/ecoindex_cli) - This tool provides an easy way to analyze websites with Ecoindex from your local computer using multi-threading.
+- [Ecoindex browser plugin](https://github.com/cnumr/EcoIndex_browser-plugin) - This tool provides an easy way to analyze websites with Ecoindex from your local browser.
 - [Zeus](https://github.com/ml-energy/zeus) - A Framework for Deep Learning Energy Measurement and Optimization.
 - [perun](https://github.com/Helmholtz-AI-Energy/perun) - Calculates the energy consumption of Python scripts by sampling usage statistics from your hardware components.
 - [Web Sustainability Guidelines](https://github.com/w3c/sustyweb) - The draft specification for our Web Sustainability Guidelines and any supplementary documentation, including our introduction to Web Sustainability.
