@@ -2256,7 +2256,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 - [Aurora](https://github.com/microsoft/aurora) - An atmospheric foundation machine learning model initially trained on vast amounts of data to predict atmospheric variables like temperature, which can then be adapted to specialized atmospheric forecasting tasks with relatively little additional data.
 - [AtmoRep](https://github.com/clessig/atmorep) - A stochastic model of atmosphere dynamics using large scale representation learning.
 - [MWRpy](https://github.com/actris-cloudnet/mwrpy) - A Python software to process RPG Microwave Radiometer data and is developed at the University of Cologne, Germany as part of the Aerosol, Clouds and Trace Gases Research Infrastructure (ACTRIS).
-- [Breeze.jl](https://github.com/NumericalEarth/Breeze.jl) - Limited area LES-to-mesoscale atmosphere simulations based on Oceananigans
+- [Breeze.jl](https://github.com/NumericalEarth/Breeze.jl) - Limited area LES-to-mesoscale atmosphere simulations based on Oceananigans.
 
 ### Atmospheric Dispersion and Transport
 
