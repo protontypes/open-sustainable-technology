@@ -296,6 +296,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 - [Ground Heat Exchanger Design Tool](https://github.com/j-c-cook/ghedt) - A package with the novel capability of automatically selecting ground heat exchanger configurations based on polygonal land constraints.
 - [GEOPHIRES-X](https://github.com/NREL/GEOPHIRES-X) - Combines reservoir, wellbore, surface plant, and economic models to estimate the capital and operation and maintenance costs, instantaneous and lifetime energy production, and overall levelized cost of energy of a geothermal plant.
 - [ThermalNetwork](https://github.com/NREL/ThermalNetwork) - A library for sizing multiple ground heat exchangers distributed around a single-pipe thermal network.
+- [Fimbul.jl](https://github.com/sintefmath/Fimbul.jl) - Fast and flexible geothermal reservoir simulation in Julia.
 
 ### Bioenergy
 
