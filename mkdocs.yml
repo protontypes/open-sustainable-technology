@@ -13,6 +13,8 @@ nav:
   - Contribute: contributing.md
   - Presentations: "presentations.md"
   - Blog:
+      2026:
+        - "Introducing OpenSustain Analytics" : blog/introducing_openSustain_analytics.md
       2025:
         - "Scaling ClimateTriage Together" : blog/climatetriage-relaunch.md
       2024:
