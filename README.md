@@ -683,6 +683,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 - [dsgrid](https://github.com/dsgrid/dsgrid) - Enables the compilation of high-resolution load datasets suitable for forward-looking power system and other analyses.
 - [MAED](https://github.com/Model-for-Analysis-of-Energy-Demand/MAED-Code) - An open-source tool for forecasting annual useful and final energy demands, featuring a module for intra-annual modelling of hourly electricity load profiles.
 - [Electricity Demand Data](https://github.com/open-energy-transition/demandcast) - A Python-based project focused on collecting, processing, and forecasting hourly electricity demand data.
+- [EnTiSe](https://github.com/tum-ens/EnTiSe) - Provides a flexible, pipeline- and strategy-based approach to create time series for different applications including HVAC, domestic hot water, electricity, mobility, and occupancy patterns.
 
 ### Global and Regional Energy System Models
 
