@@ -1,0 +1,1974 @@
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+        <meta name="description" content="A directory and analysis of the open source ecosystem in the areas of climate change, sustainable energy, biodiversity and natural resources.">
+      
+      
+      
+        <link rel="canonical" href="https://opensustain.tech/blog/introducing_openSustain_analytics/">
+      
+      
+        <link rel="prev" href="../../presentations/">
+      
+      
+        <link rel="next" href="../climatetriage-relaunch/">
+      
+      
+        
+      
+      
+      <link rel="icon" href="../../favicon.png">
+      <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.7.3">
+    
+    
+      
+        <title>Introducing OpenSustain Analytics - Open Sustainable Technology</title>
+      
+    
+    
+      <link rel="stylesheet" href="../../assets/stylesheets/main.484c7ddc.min.css">
+      
+        
+        <link rel="stylesheet" href="../../assets/stylesheets/palette.ab4e12ef.min.css">
+      
+      
+
+
+    
+    
+      
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+      <link rel="stylesheet" href="../../css/extra.css">
+    
+    <script>__md_scope=new URL("../..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+  
+
+
+    
+    
+
+
+<script defer src="https://cloud.umami.is/script.js" data-website-id="6c3cf2c8-549d-4add-b7dc-5f25fd17c90b"></script>
+
+
+  </head>
+  
+  
+    
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="teal" data-md-color-accent="light">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#introducing-opensustain-analytics-now-we-can-finally-quantify-the-role-of-open-source-in-the-climate-movement" class="md-skip">
+          Skip to content
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+        <aside class="md-banner">
+          <div class="md-banner__inner md-grid md-typeset">
+            
+            
+<a href="https://discord.gg/BTYjRSvUBB">
+  <div style="display:inline-flex; align-items:center; color:#ffffff">
+    <strong> Join our community chat </strong> &nbsp
+     <span class="twemoji seedling" style="color:#00e6a7">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512"><!--! Font Awesome Free 7.1.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2025 Fonticons, Inc.--><path d="M492.5 69.8c-.2-.3-.4-.6-.8-.7-38.1-17.5-78.4-30-119.7-37.1-.4-.1-.8 0-1.1.1s-.6.4-.8.8c-5.5 9.9-10.5 20.2-14.9 30.6-44.6-6.8-89.9-6.8-134.4 0-4.5-10.5-9.5-20.7-15.1-30.6-.2-.3-.5-.6-.8-.8s-.7-.2-1.1-.2C162.5 39 122.2 51.5 84.1 69c-.3.1-.6.4-.8.7C7.1 183.5-13.8 294.6-3.6 404.2c0 .3.1.5.2.8s.3.4.5.6c44.4 32.9 94 58 146.8 74.2.4.1.8.1 1.1 0s.7-.4.9-.7c11.3-15.4 21.4-31.8 30-48.8.1-.2.2-.5.2-.8s0-.5-.1-.8-.2-.5-.4-.6-.4-.3-.7-.4c-15.8-6.1-31.2-13.4-45.9-21.9-.3-.2-.5-.4-.7-.6s-.3-.6-.3-.9 0-.6.2-.9.3-.5.6-.7c3.1-2.3 6.2-4.7 9.1-7.1.3-.2.6-.4.9-.4s.7 0 1 .1c96.2 43.9 200.4 43.9 295.5 0 .3-.1.7-.2 1-.2s.7.2.9.4c2.9 2.4 6 4.9 9.1 7.2.2.2.4.4.6.7s.2.6.2.9-.1.6-.3.9-.4.5-.6.6c-14.7 8.6-30 15.9-45.9 21.8-.2.1-.5.2-.7.4s-.3.4-.4.7-.1.5-.1.8.1.5.2.8c8.8 17 18.8 33.3 30 48.8.2.3.6.6.9.7s.8.1 1.1 0c52.9-16.2 102.6-41.3 147.1-74.2.2-.2.4-.4.5-.6s.2-.5.2-.8c12.3-126.8-20.5-236.9-86.9-334.5zm-302 267.7c-29 0-52.8-26.6-52.8-59.2s23.4-59.2 52.8-59.2c29.7 0 53.3 26.8 52.8 59.2 0 32.7-23.4 59.2-52.8 59.2m195.4 0c-29 0-52.8-26.6-52.8-59.2s23.4-59.2 52.8-59.2c29.7 0 53.3 26.8 52.8 59.2 0 32.7-23.2 59.2-52.8 59.2"/></svg>
+    </span>
+  </div>
+    <div style="display:inline-flex; align-items:center; color:#ffffff">
+      <strong> and learn about open source in climate and sustainabiliby &nbsp </strong>
+      <span class="twemoji seedling" style="color:#00e6a7">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Free 7.1.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2025 Fonticons, Inc.--><path d="M512 32c0 108.1-76.6 198.3-178.4 219.4-7.9-58.1-34-110.4-72.5-150.9C301.2 40 369.9 0 448 0h32c17.7 0 32 14.3 32 32M0 96c0-17.7 14.3-32 32-32h32c123.7 0 224 100.3 224 224v192c0 17.7-14.3 32-32 32s-32-14.3-32-32V320C100.3 320 0 219.7 0 96"/></svg>
+      </span>
+    </div>
+  </a>
+
+
+          </div>
+          
+        </aside>
+      
+    </div>
+    
+    
+      
+
+  
+
+<header class="md-header md-header--shadow md-header--lifted" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href="../.." title="Open Sustainable Technology" class="md-header__button md-logo" aria-label="Open Sustainable Technology" data-md-component="logo">
+      
+  <img src="../../logo.png" alt="logo">
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3zm0 5h18v2H3zm0 5h18v2H3z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            Open Sustainable Technology
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Introducing OpenSustain Analytics
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+      
+    
+    
+    
+    
+      
+      
+        <label class="md-header__button md-icon" for="__search">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        </label>
+        <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Search" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Search">
+        
+        <button type="reset" class="md-search__icon md-icon" title="Clear" aria-label="Clear" tabindex="-1">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"/></svg>
+        </button>
+      </nav>
+      
+        <div class="md-search__suggest" data-md-component="search-suggest"></div>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" tabindex="0" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initializing search
+          </div>
+          <ol class="md-search-result__list" role="presentation"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+      
+    
+    
+      <div class="md-header__source">
+        <a href="https://github.com/protontypes/open-sustainable-technology" title="Go to repository" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 7.1.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2025 Fonticons, Inc.--><path d="M439.6 236.1 244 40.5c-5.4-5.5-12.8-8.5-20.4-8.5s-15 3-20.4 8.4L162.5 81l51.5 51.5c27.1-9.1 52.7 16.8 43.4 43.7l49.7 49.7c34.2-11.8 61.2 31 35.5 56.7-26.5 26.5-70.2-2.9-56-37.3L240.3 199v121.9c25.3 12.5 22.3 41.8 9.1 55-6.4 6.4-15.2 10.1-24.3 10.1s-17.8-3.6-24.3-10.1c-17.6-17.6-11.1-46.9 11.2-56v-123c-20.8-8.5-24.6-30.7-18.6-45L142.6 101 8.5 235.1C3 240.6 0 247.9 0 255.5s3 15 8.5 20.4l195.6 195.7c5.4 5.4 12.7 8.4 20.4 8.4s15-3 20.4-8.4l194.7-194.7c5.4-5.4 8.4-12.8 8.4-20.4s-3-15-8.4-20.4"/></svg>
+  </div>
+  <div class="md-source__repository">
+    protontypes/open-sustainable-technology
+  </div>
+</a>
+      </div>
+    
+  </nav>
+  
+    
+      
+<nav class="md-tabs" aria-label="Tabs" data-md-component="tabs">
+  <div class="md-grid">
+    <ul class="md-tabs__list">
+      
+        
+  
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../.." class="md-tabs__link">
+        
+  
+  
+    
+  
+  Projects
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../../analytics/" class="md-tabs__link">
+        
+  
+  
+    
+  
+  Analytics
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../../spreadsheet/" class="md-tabs__link">
+        
+  
+  
+    
+  
+  Spreadsheet
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../../education/" class="md-tabs__link">
+        
+  
+  
+    
+  
+  Education
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../../contributing/" class="md-tabs__link">
+        
+  
+  
+    
+  
+  Contribute
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../../presentations/" class="md-tabs__link">
+        
+  
+  
+    
+  
+  Presentations
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+    
+  
+  
+    
+    
+      
+  
+  
+  
+    
+  
+  
+    
+    
+      <li class="md-tabs__item md-tabs__item--active">
+        <a href="./" class="md-tabs__link">
+          
+  
+  
+    
+  
+  Blog
+
+        </a>
+      </li>
+    
+  
+
+    
+  
+
+      
+        
+  
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="https://climatetriage.com/" class="md-tabs__link">
+        
+  
+  
+    
+  
+  ClimateTriage
+
+      </a>
+    </li>
+  
+
+      
+    </ul>
+  </div>
+</nav>
+    
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+  
+
+
+  
+
+<nav class="md-nav md-nav--primary md-nav--lifted md-nav--integrated" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="../.." title="Open Sustainable Technology" class="md-nav__button md-logo" aria-label="Open Sustainable Technology" data-md-component="logo">
+      
+  <img src="../../logo.png" alt="logo">
+
+    </a>
+    Open Sustainable Technology
+  </label>
+  
+    <div class="md-nav__source">
+      <a href="https://github.com/protontypes/open-sustainable-technology" title="Go to repository" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 7.1.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2025 Fonticons, Inc.--><path d="M439.6 236.1 244 40.5c-5.4-5.5-12.8-8.5-20.4-8.5s-15 3-20.4 8.4L162.5 81l51.5 51.5c27.1-9.1 52.7 16.8 43.4 43.7l49.7 49.7c34.2-11.8 61.2 31 35.5 56.7-26.5 26.5-70.2-2.9-56-37.3L240.3 199v121.9c25.3 12.5 22.3 41.8 9.1 55-6.4 6.4-15.2 10.1-24.3 10.1s-17.8-3.6-24.3-10.1c-17.6-17.6-11.1-46.9 11.2-56v-123c-20.8-8.5-24.6-30.7-18.6-45L142.6 101 8.5 235.1C3 240.6 0 247.9 0 255.5s3 15 8.5 20.4l195.6 195.7c5.4 5.4 12.7 8.4 20.4 8.4s15-3 20.4-8.4l194.7-194.7c5.4-5.4 8.4-12.8 8.4-20.4s-3-15-8.4-20.4"/></svg>
+  </div>
+  <div class="md-source__repository">
+    protontypes/open-sustainable-technology
+  </div>
+</a>
+    </div>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../.." class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Projects
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../analytics/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Analytics
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../spreadsheet/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Spreadsheet
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../education/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Education
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../contributing/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Contribute
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../presentations/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Presentations
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+    
+  
+  
+  
+    
+    
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+      
+        
+        
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--section md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_7" checked>
+        
+          
+          <label class="md-nav__link" for="__nav_7" id="__nav_7_label" tabindex="">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Blog
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_7_label" aria-expanded="true">
+          <label class="md-nav__title" for="__nav_7">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Blog
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+    
+  
+  
+  
+    
+    
+      
+        
+      
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_7_1" checked>
+        
+          
+          <label class="md-nav__link" for="__nav_7_1" id="__nav_7_1_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    2026
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_7_1_label" aria-expanded="true">
+          <label class="md-nav__title" for="__nav_7_1">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    2026
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+    
+  
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
+      
+      
+        
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Introducing OpenSustain Analytics
+  
+
+    
+  </span>
+  
+  
+
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Introducing OpenSustain Analytics
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#the-tool-opensustain-analytics" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        The Tool: OpenSustain-Analytics
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="The Tool: OpenSustain-Analytics">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#ranking-and-evaluation-methodology" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Ranking and Evaluation Methodology
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#components" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Components
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#core-insights-into-the-movement" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Core Insights into the Movement
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Core Insights into the Movement">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#are-most-open-source-projects-just-passion-projects-destined-to-fade" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Are most open source projects just passion projects destined to fade?
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#where-is-the-technical-gravity-pulling-us" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Where is the “Technical Gravity” pulling us?
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#who-are-the-real-quiet-giants-of-the-movement" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Who are the real “Quiet Giants” of the movement?
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#why-is-there-a-silent-barrier-for-new-developers" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Why is there a “Silent Barrier” for new developers?
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#is-this-a-global-effort-or-a-local-one" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Is this a global effort or a local one?
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#what-didnt-we-get-to" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        What didn’t we get to?
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#what-are-you-going-to-do-with-the-opensustain-analytics" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        What are you going to do with the OpenSustain Analytics?
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+      
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_7_2" >
+        
+          
+          <label class="md-nav__link" for="__nav_7_2" id="__nav_7_2_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    2025
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_7_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_7_2">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    2025
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../climatetriage-relaunch/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Scaling ClimateTriage Together
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_7_3" >
+        
+          
+          <label class="md-nav__link" for="__nav_7_3" id="__nav_7_3_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    2024
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_7_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_7_3">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    2024
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../openclimatefund/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Empowering Community-Driven Funding with OpenClimate.fund
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../closing-the-gap/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Closing the Gap: Accelerating environmental Open Source
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../sustain-open-source/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Sustain Open Source, Sustain the Planet: A new conversation
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+      
+        
+      
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_7_4" >
+        
+          
+          <label class="md-nav__link" for="__nav_7_4" id="__nav_7_4_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    2023
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_7_4_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_7_4">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    2023
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../launch_climate_triage/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Connect Developers with Impactful Sustainability Projects
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../the_open_source_sustainability_ecosystem/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    The Open Source Sustainability Ecosystem
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_7_5" >
+        
+          
+          <label class="md-nav__link" for="__nav_7_5" id="__nav_7_5_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    2022
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_7_5_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_7_5">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    2022
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../you_can_preserve_the_earth_s_livability_with_open_source/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    You can preserve the Earth's livability with open source
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../impact_and_potential_of_open_source_on_climate_technology/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Impact and potential of open source on climate technology
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../openness_as_a_key_indicator_for_sustainable_investment/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Openness as a key indicator for sustainable investment
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+      
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_7_6" >
+        
+          
+          <label class="md-nav__link" for="__nav_7_6" id="__nav_7_6_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    2021
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_7_6_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_7_6">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    2021
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../open_principles_for_a_sustainable_technology_transition/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Open Principles for a Sustainable Technology Transition
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+      
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_7_7" >
+        
+          
+          <label class="md-nav__link" for="__nav_7_7" id="__nav_7_7_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    2020
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_7_7_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_7_7">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    2020
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../gathering_open_sustainable_technology/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Gathering Open Sustainable Technology
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="https://climatetriage.com/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    ClimateTriage
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+
+
+<h1 id="introducing-opensustain-analytics-now-we-can-finally-quantify-the-role-of-open-source-in-the-climate-movement">Introducing OpenSustain Analytics:  Now We can Finally Quantify the role of Open Source in the Climate Movement<a class="headerlink" href="#introducing-opensustain-analytics-now-we-can-finally-quantify-the-role-of-open-source-in-the-climate-movement" title="Permanent link">&para;</a></h1>
+<p><strong>Abdul Salam Issahaku</strong>  <a href="https://www.linkedin.com/in/abdul-salam-issahaku-52ab4b228/"><span class="twemoji"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 7.1.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2025 Fonticons, Inc.--><path d="M416 32H31.9C14.3 32 0 46.5 0 64.3v383.4C0 465.5 14.3 480 31.9 480H416c17.6 0 32-14.5 32-32.3V64.3c0-17.8-14.4-32.3-32-32.3M135.4 416H69V202.2h66.5V416zM102.2 96a38.5 38.5 0 1 1 0 77 38.5 38.5 0 1 1 0-77m282.1 320h-66.4V312c0-24.8-.5-56.7-34.5-56.7-34.6 0-39.9 27-39.9 54.9V416h-66.4V202.2h63.7v29.2h.9c8.9-16.8 30.6-34.5 62.9-34.5 67.2 0 79.7 44.3 79.7 101.9z"/></svg></span></a> · <span class="twemoji"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M6.75 0a.75.75 0 0 1 .75.75V3h9V.75a.75.75 0 0 1 1.5 0V3h2.75c.966 0 1.75.784 1.75 1.75v16a1.75 1.75 0 0 1-1.75 1.75H3.25a1.75 1.75 0 0 1-1.75-1.75v-16C1.5 3.784 2.284 3 3.25 3H6V.75A.75.75 0 0 1 6.75 0M21 9.5H3v11.25c0 .138.112.25.25.25h17.5a.25.25 0 0 0 .25-.25Zm-17.75-5a.25.25 0 0 0-.25.25V8h18V4.75a.25.25 0 0 0-.25-.25Z"/></svg></span> February 26, 2026</p>
+<figure>
+  <img alt="" src="ost_analytics_sunburst.gif" />
+<br />
+<figcaption>  </figcaption>
+</figure>
+<p>I’ve always asked myself as a developer whether my code is actually contributing to sustainability or the other way round: running on dirty servers and advancing business interests that don’t align with the domain I am so enthusiastic about.</p>
+<p>The efforts towards sustainability felt to me like a vast, largely unexplored territory. I knew there were people building energy models, grid analysis tools, remote sensing tools, water sensors, carbon trackers, etc., but they were scattered across thousands of repositories. I had a sense that I could use my open-source developer time to address sustainability issues, but finding them was a bottleneck; understanding which projects might have an impact, as a non-scientist, was nearly impossible.</p>
+<p>Then I found Open Sustainable Technology (OST). The team of volunteers had built a directory that answered my user need: a repository of open-source projects in the area of environmental sustainability. At first, I thought I would just show up, use the directory, and contribute a few patches to the codebase, but I realized the team was building something much deeper: a global index and analytics engine designed to answer the very questions I’d been asking myself.</p>
+<p>The team has taken years of manually curated, high-fidelity data and turned it into a living lens. In this blog post, I want to share the insights I have gained from an incredible experience contributing to this tool.  I think that the tool, and its content can not only help individual developers find their way, but help organizations and governments understand the current landscape of the open-source movement in environmental sustainability.</p>
+<h2 id="the-tool-opensustain-analytics">The Tool: OpenSustain-Analytics<a class="headerlink" href="#the-tool-opensustain-analytics" title="Permanent link">&para;</a></h2>
+<p>When we think about climate action, typically we think of engineers and software developers building the models, packages, energy grid simulators, and biosphere monitors we need to survive this century (Why Software in Climate Matters, Withearth, 2024)​ <a href="https://withearth.substack.com/p/why-software-in-climate-matters">withearth.substack</a>. But underneath these tools, the open-source movement drives the hidden engine of climate technology.</p>
+<p>However, the community has not yet had the opportunity to thoroughly evaluate the reliability of that engine. The OST volunteers have gathered over 2500 open source projects used to support climate change mitigation, sustainable energy, biodiversity, and natural resources.</p>
+<figure>
+  <img alt="" src="ost_analytics_main_page.png" />
+<br />
+<figcaption>  </figcaption>
+</figure>
+<p>To make it easier for developers, potential funders or newcomers like me to figure out what is going on in Open Source in Climate, I joined a team building the OpenSustain Analytics dashboard.  Open Source for sustainability is like other open software ecosystems, where it's hard to prioritize volunteer time and investment across thousands of potential software projects.  The Dashboard can help build the empirical foundation required to direct resources effectively in the climate fight.</p>
+<p>The Dashboard uses the manually curated datasets of organizations and projects in the Open Sustain Tech ecosystem, to create an up-to-date and ready to explore framework for anyone to understand the dataset. The analytics tool provides users with a dynamic, collaborative workspace to quantify the health, impact, and growth of the open-source movement in climate change mitigation and sustainability.</p>
+<h3 id="ranking-and-evaluation-methodology">Ranking and Evaluation Methodology<a class="headerlink" href="#ranking-and-evaluation-methodology" title="Permanent link">&para;</a></h3>
+<p>The most novel feature of <a href="https://opensustain.tech/analytics/">OpenSustain Analytics</a> is a comprehensive metric, the Total Score, to evaluate and rank projects and organizations based on their activity and impact. This score is a composite indicator derived from the aggregation of multiple normalized (min-max scaled) quantitative signals.</p>
+<ul>
+<li>Number of contributors</li>
+<li>Total commits</li>
+<li>Github Stars</li>
+<li>Ecosyste.ms Score</li>
+<li>Total dependencies</li>
+<li>Citations</li>
+<li>Development distribution score</li>
+<li>Downloads</li>
+</ul>
+<p>This multi-factor approach offers a quick way to understand a project’s overall health and impact than relying solely on a single indicator like star count.</p>
+<h3 id="components">Components<a class="headerlink" href="#components" title="Permanent link">&para;</a></h3>
+<p>The dashboard is interactive and allows for deep dives into the data through various tabs, indicating the breadth of the underlying dataset.</p>
+<table>
+<thead>
+<tr>
+<th>Dashboard Tab</th>
+<th>Focus of Analysis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Overview</td>
+<td>Showcases the core metrics that confirm the scale and robust health of the movement, and a Sunburst chart provides a hierarchical view of the open-source sustainability ecosystem.</td>
+</tr>
+<tr>
+<td>Project Rankings</td>
+<td>Comparative performance of projects based on the Total Score and other metrics.</td>
+</tr>
+<tr>
+<td>Organisation Rankings</td>
+<td>Comparative performance of organizations, with filtering options by country and organization type.</td>
+</tr>
+<tr>
+<td>Projects over Time</td>
+<td>Trend analysis of project creation and activity, useful for tracking ecosystem growth.</td>
+</tr>
+<tr>
+<td>Organizations</td>
+<td>Ecosystem insights based on the attributes of an organization’s Git namespace. It includes insights like the total number of projects per country, top organizations by Number of projects, etc.</td>
+</tr>
+<tr>
+<td>Projects by Organization</td>
+<td>Sunburst showing larger organisations (≥2 projects) and their projects</td>
+</tr>
+<tr>
+<td>Organisations by Sub-Category</td>
+<td>Breakdown of organizational involvement across specific sustainability domains.</td>
+</tr>
+<tr>
+<td>Topics &amp; Keywords</td>
+<td>Identification of the most common and emerging themes within the projects.</td>
+</tr>
+<tr>
+<td>Projects Attributes</td>
+<td>Detailed analysis of technical and structural characteristics of the projects.</td>
+</tr>
+</tbody>
+</table>
+<h2 id="core-insights-into-the-movement">Core Insights into the Movement<a class="headerlink" href="#core-insights-into-the-movement" title="Permanent link">&para;</a></h2>
+<p>The true power of the OpenSustain Analytics dashboard gives us the empirical foundation to have a clear picture of the current state of the movement. Giving the community an opportunity to move from simple curiosity to a data-driven investigation, revealing critical insights that changed the view on open-source climate action.</p>
+<p>As a newcomer to the sustainability tech space, I was full of curiosity. Here are the questions the data helped answer and the realities they revealed:</p>
+<h3 id="are-most-open-source-projects-just-passion-projects-destined-to-fade">Are most open source  projects just passion projects destined to fade?<a class="headerlink" href="#are-most-open-source-projects-just-passion-projects-destined-to-fade" title="Permanent link">&para;</a></h3>
+<p>It’s easy to start a GitHub repository, but maintaining a complex climate model or energy grid simulator for years requires dedication, funding, and a robust community. I worried that many of these critical projects were just passion projects destined to fade after a few months. The “Ecosystem Overview” tab immediately put this fear to rest. The median project age is 6.2 years, and the “Projects Attributes” tab shows that 63% of the 2,539 indexed projects are active (with a commit in the last year). </p>
+<figure>
+  <img alt="" src="stats_overview.png" />
+<br />
+<figcaption>  </figcaption>
+</figure>
+<figure>
+  <img alt="" src="commits.png" />
+<br />
+<figcaption>  </figcaption>
+</figure>
+<p>The open-source sustainability ecosystem is not a collection of ephemeral experiments but a mature, actively maintained body of work built on years of sustained effort. This maturity is the foundation upon which investors, policymakers, and new contributors can confidently build.
+This makes me feel optimistic about the future of the movement and also appreciate the potential of our tool in deriving these kinds of analyses, knowing that there are like-minded individuals in other parts of the world who are eager to protect the environment through open-source technology. </p>
+<h3 id="where-is-the-technical-gravity-pulling-us">Where is the “Technical Gravity” pulling us?<a class="headerlink" href="#where-is-the-technical-gravity-pulling-us" title="Permanent link">&para;</a></h3>
+<p>Whenever someone proposes a new piece of technology to “solve climate," part of me wants to understand: “Are we just building what’s “cool,” or are we building what the planet needs?”</p>
+<p>By using our sunburst analysis, we can see the exact distribution of effort. The sunburst chart itself is an interactive, multi-layered interface that presents a hierarchical view of the open-source sustainability landscape. Users are not simply presented with static data; they can navigate across different major categories and drill down into their specific subcategories and projects, revealing the hidden structures and dependencies within the movement.</p>
+<p>An immediate observation from the sunburst's outermost layer reveals where the movement's focus currently lies. Two main categories, biosphere and climate change modeling, exert a massive "gravity," with more projects. This concentration of effort suggests that the community is prioritizing foundational work: understanding the planet's vital systems and developing sophisticated, open-source models to predict and simulate future climate scenarios.</p>
+<p>While celebrating this robust effort, the closer inspection offered by the sunburst analysis is perhaps most valuable for what it doesn't show. When navigating to the less-developed segments of the chart, clear and significant gaps become apparent. The data suggests an imbalance: while the open-source community excels at building the tools for understanding the problem (modeling, data analysis, core science), there is a notable lack of mature open-source tooling for several critical, action-oriented categories.</p>
+<p>This revelation is crucial for strategic planning. This sunburst tool effectively acts as a dynamic heatmap, illuminating the “white space” for the next generation of developers, researchers, and project maintainers. These identified gaps represent untapped opportunities where new, impactful projects are urgently needed. The quantification of this effort not only validates the work being done but, more importantly, provides a data-driven compass for directing future resources and collaboration toward the areas of greatest strategic necessity.</p>
+<figure>
+  <img alt="" src="sunburst.png" />
+<br />
+<figcaption>  </figcaption>
+</figure>
+<p>The current analysis confirms that the movement is fundamentally rooted in data and scientific modeling:</p>
+<p><strong>Topical Focus</strong>: Energy systems, climate change, and the biosphere dominate the distribution of projects, with keywords like “energy,” “climate,” and “water” being the most frequently extracted.</p>
+<figure>
+  <img alt="" src="keywords.png" />
+<br />
+<figcaption>  </figcaption>
+</figure>
+<p><strong>Ranking Validation</strong>: The platform’s composite ranking highlights projects that serve as scientific infrastructure. Top-ranked projects like xarray (the foundational Python library for multi-dimensional climate data) and OpenQuake (natural hazard risk assessment) demonstrate that high-impact open source in this space is defined by its utility in rigorous scientific workflows.</p>
+<h3 id="who-are-the-real-quiet-giants-of-the-movement">Who are the real “Quiet Giants” of the movement?<a class="headerlink" href="#who-are-the-real-quiet-giants-of-the-movement" title="Permanent link">&para;</a></h3>
+<p>We know the big tech names, but who is actually funding and hosting the code that climate scientists use?</p>
+<p>From our current citation data, the rankings surprised me. It’s not just “Big Tech.” The movement is fundamentally driven by entities focused on public benefit and scientific research.</p>
+<p>The ecosystem is led by non-commercial entities: community groups and academia are the primary organizational types, followed by strong participation from government agencies. For-profit organizations play a supportive but secondary role.</p>
+<p>The National Renewable Energy Laboratory (NREL), now the National Laboratory of the Rockies (NLR), and rOpenSci are absolute powerhouses, consistently outperforming private entities in both project volume and community health.</p>
+<p>This confirms the indispensable role of government and public research institutions in funding, developing, and hosting foundational open-source tools for renewable energy, grid modernization, and environmental science.</p>
+<figure>
+  <img alt="" src="top_organisations.png" />
+<br />
+<figcaption>  </figcaption>
+</figure>
+<p>If you want to contribute where it matters, look to the institutions that treat code as a public service.</p>
+<h3 id="why-is-there-a-silent-barrier-for-new-developers">Why is there a “Silent Barrier” for new developers?<a class="headerlink" href="#why-is-there-a-silent-barrier-for-new-developers" title="Permanent link">&para;</a></h3>
+<p>I wondered why it felt so hard to jump into some of these amazing projects. We analyzed the “Social Attributes” of 2,500+ projects and found a glaring issue.
+Based on our current citation data,
+* 2,032 projects have no code of conduct.
+* 1,675 projects lack a contributing guide.</p>
+<p>This is the bottleneck I felt. The majority of these projects are not well documented. Our tool highlights this “governance gap,” showing that professionalizing the social side of climate tech is just as important as writing the code itself.</p>
+<p>A lack of governance documentation threatens community inclusivity and developer retention. A project without a code of conduct is inherently less resilient, regardless of its code quality. This is an urgent call to action for the entire ecosystem, especially considering the spike in AI-aided coding.</p>
+<figure>
+  <img alt="" src="code_of_conduct.png" />
+<br />
+<figcaption>  </figcaption>
+</figure>
+<p>Funding efforts must prioritize social infrastructure and code of conduct adoption to secure the long-term viability of otherwise healthy projects.</p>
+<h3 id="is-this-a-global-effort-or-a-local-one">Is this a global effort or a local one?<a class="headerlink" href="#is-this-a-global-effort-or-a-local-one" title="Permanent link">&para;</a></h3>
+<p>Climate change is a global crisis. Is the software to fix it being built globally?
+This was the most sobering answer. The organizations are overwhelmingly concentrated in the USA and Europe. Representation from the Global South is critically low, with Asia and Africa having minimal organizational presence.</p>
+<figure>
+  <img alt="" src="introducing_openSustain_analytics/organizations_by_continent.png" />
+<br />
+<figcaption>  </figcaption>
+</figure>
+<h3 id="what-didnt-we-get-to">What didn’t we get to?<a class="headerlink" href="#what-didnt-we-get-to" title="Permanent link">&para;</a></h3>
+<p>Like every open-source project, we didn’t quite finish everything we wanted to do. Here are some ideas that I would love for future contributors to take up:</p>
+<ul>
+<li>UI improvement: So far we go very lean with the styling for the dashboard. Hence, contributions on improving the general theme of the tool are highly welcome, especially from someone with UX and data visualization experience.</li>
+<li>Extension of the citation data.</li>
+<li>Finding other bugs or features that would help other users!</li>
+<li>See the project’s open issues at: <a href="https://github.com/protontypes/opensustain.analytics/issues">Issues</a></li>
+</ul>
+<h3 id="what-are-you-going-to-do-with-the-opensustain-analytics">What are you going to do with the OpenSustain Analytics?<a class="headerlink" href="#what-are-you-going-to-do-with-the-opensustain-analytics" title="Permanent link">&para;</a></h3>
+<p>Contributing to this project changed how I see my role as a developer. I used to think I was just writing functions; now I realize I’m helping maintain a global ecosystem.</p>
+<p>I have come to realize that I don’t have to be a master in programming to contribute to the cause. A lot of developers are doing it already, and the analytics have shown it all.
+OpenSustain Analytics translates complex code metrics into clear, actionable insights.</p>
+<ul>
+<li>Through this tool, we can finally see the projects, the organizations, and the countries that are doing the work:</li>
+<li>Funders can use the rankings to direct capital toward resilient projects and prioritize funding for Code of Conduct adoption.</li>
+<li>Developers can identify high-leverage projects like contributions or use the Sunburst to spot underserved topical gaps.</li>
+<li>Policymakers can pinpoint thematic gaps or areas of strength in the digital public goods landscape.</li>
+<li>Journalists can easily quantify the scale and impact of the open-source climate movement, ensuring that critical technological efforts are visible and properly resourced.</li>
+</ul>
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+        </div>
+        
+          <button type="button" class="md-top md-icon" data-md-component="top" hidden>
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13 20h-2V8l-5.5 5.5-1.42-1.42L12 4.16l7.92 7.92-1.42 1.42L13 8z"/></svg>
+  Back to top
+</button>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+    <div class="md-copyright__highlight">
+      <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" rel="noopener noreferrer"> Creative Commons Attribution 4.0 International License   </a>  -  <a href="https://opensustain.tech/privacy-policy/"> Read our Privacy Policy</a>
+    </div>
+  
+  
+</div>
+      
+        
+<div class="md-social">
+  
+    
+    
+      
+    
+    
+    
+      
+      
+    
+    <a href="https://mastodon.social/@opensustaintech" target="_blank" rel="noopener me" title="mastodon.social" class="md-social__link">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 7.1.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2025 Fonticons, Inc.--><path d="M433 179.1c0-97.2-63.7-125.7-63.7-125.7-62.5-28.7-228.6-28.4-290.5 0 0 0-63.7 28.5-63.7 125.7 0 115.7-6.6 259.4 105.6 289.1 40.5 10.7 75.3 13 103.3 11.4 50.8-2.8 79.3-18.1 79.3-18.1l-1.7-36.9s-36.3 11.4-77.1 10.1c-40.4-1.4-83-4.4-89.6-54-.6-4.6-.9-9.3-.9-13.9 85.6 20.9 158.7 9.1 178.7 6.7 56.1-6.7 105-41.3 111.2-72.9 9.8-49.8 9-121.5 9-121.5zm-75.1 125.2h-46.6V190.1c0-49.7-64-51.6-64 6.9v62.5H201V197c0-58.5-64-56.6-64-6.9v114.2H90.3c0-122.1-5.2-147.9 18.4-175 25.9-28.9 79.8-30.8 103.8 6.1l11.6 19.5 11.6-19.5c24.1-37.1 78.1-34.8 103.8-6.1 23.7 27.3 18.4 53 18.4 175"/></svg>
+    </a>
+  
+    
+    
+    
+    
+      
+      
+    
+    <a href="https://linkedin.com/company/protontypes" target="_blank" rel="noopener" title="linkedin.com" class="md-social__link">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 7.1.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2025 Fonticons, Inc.--><path d="M416 32H31.9C14.3 32 0 46.5 0 64.3v383.4C0 465.5 14.3 480 31.9 480H416c17.6 0 32-14.5 32-32.3V64.3c0-17.8-14.4-32.3-32-32.3M135.4 416H69V202.2h66.5V416zM102.2 96a38.5 38.5 0 1 1 0 77 38.5 38.5 0 1 1 0-77m282.1 320h-66.4V312c0-24.8-.5-56.7-34.5-56.7-34.6 0-39.9 27-39.9 54.9V416h-66.4V202.2h63.7v29.2h.9c8.9-16.8 30.6-34.5 62.9-34.5 67.2 0 79.7 44.3 79.7 101.9z"/></svg>
+    </a>
+  
+    
+    
+    
+    
+      
+      
+    
+    <a href="https://bsky.app/profile/opensustaintech.bsky.social" target="_blank" rel="noopener" title="bsky.app" class="md-social__link">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512"><!--! Font Awesome Free 7.1.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2025 Fonticons, Inc.--><path d="M407.8 294.7c-3.3-.4-6.7-.8-10-1.3 3.4.4 6.7.9 10 1.3M288 227.1c-26.1-50.7-97.1-145.2-163.1-191.8C61.6-9.4 37.5-1.7 21.6 5.5 3.3 13.8 0 41.9 0 58.4S9.1 194 15 213.9c19.5 65.7 89.1 87.9 153.2 80.7 3.3-.5 6.6-.9 10-1.4-3.3.5-6.6 1-10 1.4-93.9 14-177.3 48.2-67.9 169.9C220.6 589.1 265.1 437.8 288 361.1c22.9 76.7 49.2 222.5 185.6 103.4 102.4-103.4 28.1-156-65.8-169.9-3.3-.4-6.7-.8-10-1.3 3.4.4 6.7.9 10 1.3 64.1 7.1 133.6-15.1 153.2-80.7C566.9 194 576 75 576 58.4s-3.3-44.7-21.6-52.9c-15.8-7.1-40-14.9-103.2 29.8C385.1 81.9 314.1 176.4 288 227.1"/></svg>
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    
+    
+      
+      
+      <script id="__config" type="application/json">{"annotate": null, "base": "../..", "features": ["navigation.tabs", "navigation.tabs.sticky", "navigation.expand", "navigation.indexes", "toc.integrate", "search.highlight", "search.suggest", "navigation.top"], "search": "../../assets/javascripts/workers/search.2c215733.min.js", "tags": null, "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}, "version": null}</script>
+    
+    
+      <script src="../../assets/javascripts/bundle.79ae519e.min.js"></script>
+      
+    
+  </body>
+</html>

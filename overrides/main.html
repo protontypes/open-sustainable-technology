@@ -1,0 +1,26 @@
+{% extends "base.html" %}
+
+{% block extrahead %}
+{{ super() }}
+{% if config.extra.analytics.production_url in config.site_url %}
+<script defer src="https://cloud.umami.is/script.js" data-website-id="6c3cf2c8-549d-4add-b7dc-5f25fd17c90b"></script>
+{% endif %}
+{% endblock %}
+
+{% block announce %}
+<a href="https://discord.gg/BTYjRSvUBB">
+  <div style="display:inline-flex; align-items:center; color:#ffffff">
+    <strong> Join our community chat </strong> &nbsp
+     <span class="twemoji seedling" style="color:#00e6a7">
+    {% include ".icons/fontawesome/brands/discord.svg" %}
+    </span>
+  </div>
+    <div style="display:inline-flex; align-items:center; color:#ffffff">
+      <strong> and learn about open source in climate and sustainabiliby &nbsp </strong>
+      <span class="twemoji seedling" style="color:#00e6a7">
+      {% include ".icons/fontawesome/solid/seedling.svg" %}
+      </span>
+    </div>
+  </a>
+
+{% endblock %}
