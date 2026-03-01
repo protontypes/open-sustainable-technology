@@ -1465,6 +1465,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 - [Gottesanbeterin Gesucht](https://github.com/opendata-apps/mantis) - An interactive web application to track Mantis Religiosa sightings in Brandenburg.
 - [Arena](https://github.com/openforis/arena) - A cloud-based platform that enables fast, flexible setup and data entry for various field surveys, including biophysical, socio-economic, and biodiversity inventories.
 - [Green Goods](https://github.com/greenpill-dev-guild/green-goods) - Measures, tracks, and rewards the impact on gardens with a simple Progressive Web App.
+- [Zooniverse](https://github.com/zooniverse/panoptes) - Backend platform for hosting large-scale citizen science projects, including wildlife monitoring, species classification, and ecological survey annotation with millions of volunteers worldwide.
 
 ### Biodiversity Data Access and Management
 
@@ -1506,6 +1507,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 - [Biodiversity Heritage Library](https://github.com/gbhl/bhl-us) - Biodiversity Heritage Library's web site, databases, and supporting services.
 - [Biodiversity Around Me](https://github.com/PnX-SI/BAM-widget) - A web widget that retrieves and displays species observed within an area, based on the GBIF data API or alternative other biodiversity data sources.
 - [b3gbi](https://github.com/b-cubed-eu/b3gbi) - Analyze biodiversity trends and spatial patterns from GBIF data cubes, using flexible indicators like richness, evenness, and more.
+- [Movebank API](https://github.com/movebank/movebank-api-doc) - Documentation and examples for the Movebank REST API, providing programmatic access to over 7 billion animal movement records from GPS and satellite telemetry studies worldwide.
 
 ### Biodiversity Data Cleaning and Standardization
 
