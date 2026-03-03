@@ -3005,7 +3005,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 - [SoilHealthDataCube](https://github.com/AI4SoilHealth/SoilHealthDataCube) - Soil Health Data Cube for Europe.
 - [GeoTessera](https://github.com/ucam-eo/geotessera) - A foundation model that can process time-series satellite imagery for applications such as land classification and canopy height prediction.
 - [wlts.py](https://github.com/brazil-data-cube/wlts.py) - Produce information on land use and coverage used by the Brazilian Government to make public policy decisions.
-- [Soil-DRaH](https://github.com/ktoddbrown/SoilDRaH) The Soil Data Rescue and Harmonization project is a collaborative effort to rescue, harmonize, and curate soil data from multiple sources.
+- [Soil-DRaH](https://github.com/ktoddbrown/SoilDRaH) - The Soil Data Rescue and Harmonization project is a collaborative effort to rescue, harmonize, and curate soil data from multiple sources.
 
 ### Ecotoxicology
 
