@@ -1009,6 +1009,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 - [Spruce](https://github.com/DigitalPebble/spruce) - Enrichment pipeline for CUR / FOCUS reports which adds energy and carbon data allowing to report and reduce the impact of the your cloud usage.
 - [wlc-scenario-explorer](https://github.com/mroeck/wlc-scenario-explorer) - A open source tool that enables selection, comparison, and analysis of various combinations of carbon reduction and/or removal strategies that could be applied across building stocks to affect whole life cycle impacts from buildings and construction.
 - [nf-co2footprint](https://github.com/nextflow-io/nf-co2footprint) - Estimates the energy consumption for each pipeline task based on the Nextflow resource usage metrics and information about the power consumption of the underlying compute system.
+- [EECO](https://github.com/we3lab/eeco) - A package for calculating electricity-related emissions and costs for optimization problem formulation and other computational analyses.
 
 ### Agriculture and Nutrition
 
