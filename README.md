@@ -1690,6 +1690,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 - [Deadtrees.earth](https://github.com/Deadwood-ai/deadtrees) - An open database for accessing, contributing, analyzing, and visualizing remote sensing-based tree mortality data.
 - [PyForestScan](https://github.com/iosefa/PyForestScan) - A python package for calculating forest structural metrics from airborne point clouds.
 - [OlmoEarth](https://github.com/allenai/olmoearth_projects) - A collection of real-world Earth-observation model configurations, tutorials and tooling built on top of the open OlmoEarth foundation models to map ecosystems, forest loss, mangroves and more using satellite data.
+- [FuelDeep3D](https://github.com/venkatasivanaga/FuelDeep3D) - Provides tools for processing, feature extraction, and classification of 3D forest point clouds for fuel assessment application.
 
 
 ### Marine Life and Fishery
