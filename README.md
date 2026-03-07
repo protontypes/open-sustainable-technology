@@ -1301,6 +1301,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 - [CELAVI](https://github.com/NREL/celavi) - The Circular Economy Lifecycle Assessment and VIsualization framework allows stakeholders to quantify and visualize potential regional and sectoral transfers of impacts that could result from transitioning to a circular economy, with particular focus on energy material.
 - [flodym](https://github.com/pik-piam/flodym) - The Flexibe Open Dynamic Material Systems Model library provides key functionality for building material flow analysis models.
 - [LiAISON](https://github.com/NREL/LiAISON) - A Python framework for performing automated, scalable life cycle assessment with support for prospective analysis using integrated assessment model scenarios.
+- [Wurst](https://github.com/polca/wurst) - A python package for linking and modifying industrial ecology models, with a focus on sparse matrices in life cycle assessment.
 
 ### Input Output Model
 
