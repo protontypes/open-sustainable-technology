@@ -1526,6 +1526,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 - [CoordinateCleaner](https://github.com/ropensci/CoordinateCleaner) - Automated flagging of common spatial and temporal errors in biological and palaeontological collection data, for the use in conservation, ecology and palaeontology.
 - [Bionomia](https://github.com/bionomia/bionomia) - Parse people names from biodiversity occurrence data, apply basic regular expressions and heuristics to disambiguate them, and to make these occurrence records as entities that can be claimed by people via ORCID.
 - [ABIS](https://github.com/AusBIGG/abis) - Australian Biodiversity Information Standard.
+- [BeeBDC](https://github.com/jbdorey/BeeBDC/) - Bee Biodiversity Data Cleaning.
 
 ### Conservation and Restoration
 
