@@ -586,6 +586,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 - [eGRID](https://github.com/USEPA/egrid) - A comprehensive source of data from EPA's Clean Air and Power Division (CAPD) on the environmental characteristics of almost all electric power generated in the United State.
 - [Global Renewables Watch](https://github.com/microsoft/global-renewables-watch) - A comprehensive global temporal dataset of commercial solar photovoltaic (PV) farms and onshore wind turbines, derived from high-resolution satellite imagery analyzed quarterly from the fourth quarter of 2017 to the second quarter of 2024.
 - [Rewiring America](https://github.com/rewiringamerica/api.rewiringamerica.org) - Contains structured data about home electrification incentives in the US, and an API server that calculates which incentives a user is eligible for.
+- [POSTED](https://github.com/PhilippVerpoort/posted) - A public database of techno-economic data on energy and climate-mitigation technologies and a framework for consistent handling of this database.
 
 ### Energy Policy
 
