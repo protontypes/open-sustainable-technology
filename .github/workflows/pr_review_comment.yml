@@ -1,0 +1,28 @@
+name: PR Project Review - Post Comment
+
+on:
+  workflow_run:
+    workflows: ["PR Project Review - Fetch Data"]
+    types: [completed]
+
+permissions:
+  pull-requests: write
+
+jobs:
+  comment:
+    runs-on: ubuntu-latest
+    if: github.event.workflow_run.conclusion == 'success'
+    steps:
+      - uses: actions/download-artifact@d3f86a106a0bac45b974a628896c90dbdf5c8093 # v4
+        with:
+          name: pr-review
+          run-id: ${{ github.event.workflow_run.id }}
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Post comment
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          PR_NUMBER=$(cat pr_number.txt)
+          COMMENT=$(cat comment.md)
+          gh pr comment "$PR_NUMBER" --body "$COMMENT"
