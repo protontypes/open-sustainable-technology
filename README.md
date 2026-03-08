@@ -2062,6 +2062,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 - [pySWAP](https://github.com/zawadzkim/pySWAP) - Python Interface to SWAP (Soil, Water, Atmosphere and Plant) to simulates transport of water, solutes and heat in unsaturated/saturated soils.
 - [SWIM](https://github.com/sintefmath/SurfaceWaterIntegratedModeling.jl) - An open-source software package for static modeling and prediction of surface water and urban flooding based on analysis of terrain topography.
 - [openLISEM](https://github.com/vjetten/openlisem) - A spatial model for simulation of the full waterbalance, overland flow, flooding and sediment erosion, transport and deposition in all flows.
+- [timflow](https://github.com/timflow-org/timflow) - A Python package for the modeling of multi-layer groundwater flow with analytic elements.
 
 ### Ocean Models
 
