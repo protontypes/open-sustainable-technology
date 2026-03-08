@@ -1147,6 +1147,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 - [DSCIM](https://github.com/ClimateImpactLab/dscim) - Enables the calculation of sector-specific partial social cost of greenhouse gases combined across sectors using a variety of valuation methods and assumptions.
 - [GGIRCS](https://github.com/bcgov/cas-ggircs) - BC Climate Action Secretariat's Greenhouse Gas Industrial Reporting and Control System.
 - [ddeq](https://gitlab.com/empa503/remote-sensing/ddeq) - A Python library for data-driven emission quantification of emission hot spots such as cities, power plants and industrial facilities.
+- [CPRG](https://github.com/Metropolitan-Council/ghg-cprg) - GHG Inventory using Climate Pollution Reduction Grant framework and funding.
 
 
 ### Carbon Offsets and Trading 
