@@ -1353,6 +1353,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 - [CircuLaw](https://github.com/Dark-Matter-Labs/circulaw) - A knowledge platform dedicated to enabling the transition to a circular economy by identifying opportunities in current law to support a circular future.
 - [plasticparcels](https://github.com/OceanParcels/plasticparcels) - A Python package for simulating the transport and dispersion of plastics in the ocean.
 - [Ecobricks](https://github.com/gea-ecobricks/ecobricks-org) - Ecobrick is a plastic bottle packed with used plastic to a set density, a way to take advantage of plastic's pros while protecting against its cons.
+- [open-dpp](https://github.com/open-dpp/open-dpp) - An open-source platform for managing digital product passports.
 
 ## Biosphere
 
