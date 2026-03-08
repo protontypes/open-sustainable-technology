@@ -59,7 +59,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
   - [Bioacoustics and Acoustic Data Analysis](#bioacoustics-and-acoustic-data-analysis)
   - [Biomass](#biomass)
   - [Biodiversity Analysis and Metrics](#biodiversity-analysis-and-metrics)
-  - [Biodiversity Citizen Science](#biodiversity-citizen-science)
+  - [Biodiversity Citizen Science](#biodiversity-citizen-science)GNparserBi
   - [Biodiversity Data Access and Management](#biodiversity-data-access-and-management)
   - [Biodiversity Data Cleaning and Standardization](#biodiversity-data-cleaning-and-standardization)
   - [Conservation and Restoration](#conservation-and-restoration)
@@ -1526,6 +1526,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 - [CoordinateCleaner](https://github.com/ropensci/CoordinateCleaner) - Automated flagging of common spatial and temporal errors in biological and palaeontological collection data, for the use in conservation, ecology and palaeontology.
 - [Bionomia](https://github.com/bionomia/bionomia) - Parse people names from biodiversity occurrence data, apply basic regular expressions and heuristics to disambiguate them, and to make these occurrence records as entities that can be claimed by people via ORCID.
 - [ABIS](https://github.com/AusBIGG/abis) - Australian Biodiversity Information Standard.
+- [GNparser](https://github.com/gnames/gnparser) - Normalises scientific names, as used in biodiversity, and extracts their semantic elements.
 
 ### Conservation and Restoration
 
