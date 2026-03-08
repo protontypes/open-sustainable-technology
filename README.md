@@ -2063,6 +2063,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 - [SWIM](https://github.com/sintefmath/SurfaceWaterIntegratedModeling.jl) - An open-source software package for static modeling and prediction of surface water and urban flooding based on analysis of terrain topography.
 - [openLISEM](https://github.com/vjetten/openlisem) - A spatial model for simulation of the full waterbalance, overland flow, flooding and sediment erosion, transport and deposition in all flows.
 - [SUMMA](https://github.com/CH-Earth/summa) - A hydrologic modeling framework that can be used for the systematic analysis of alternative model conceptualizations with respect to flux parameterizations, spatial configurations, and numerical solution techniques.
+- [cmf](https://github.com/philippkraft/cmf) - A programming library to create hydrological models, which are highly modular and connectible to other models developed using a multiple hypotheses background and is based on the finite volume method.
 
 ### Ocean Models
 
