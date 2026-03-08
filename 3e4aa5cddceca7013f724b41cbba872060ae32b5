@@ -1,0 +1,23 @@
+.github/workflows/pr_review.yml
+  56ab1d72764fd6bf 14,17,19
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.1.8",
+  "base_commit_sha": "3e4aa5cddceca7013f724b41cbba872060ae32b5",
+  "prompts": {
+    "56ab1d72764fd6bf": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "d60edc93-edf5-47f9-88ac-fbbe38fde63d",
+        "model": "claude-opus-4-6"
+      },
+      "human_author": "Andrew Nesbitt <andrewnez@gmail.com>",
+      "messages": [],
+      "total_additions": 3,
+      "total_deletions": 2,
+      "accepted_lines": 3,
+      "overriden_lines": 0
+    }
+  }
+}
