@@ -1510,6 +1510,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 - [Biodiversity Around Me](https://github.com/PnX-SI/BAM-widget) - A web widget that retrieves and displays species observed within an area, based on the GBIF data API or alternative other biodiversity data sources.
 - [b3gbi](https://github.com/b-cubed-eu/b3gbi) - Analyze biodiversity trends and spatial patterns from GBIF data cubes, using flexible indicators like richness, evenness, and more.
 - [Protected Planet](https://github.com/unepwcmc/ProtectedPlanet) - The most up to date and complete source of data on protected areas and other effective area-based conservation measures (OECMs), updated monthly with submissions from governments, non-governmental organizations, landowners and communities.
+- [rinat](https://github.com/ropensci/rinat) - R wrapper for iNaturalist APIs for accessing the observations.
 
 ### Biodiversity Data Cleaning and Standardization
 
