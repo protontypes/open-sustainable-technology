@@ -23,13 +23,17 @@ KNOWN_OSS_LICENSES = {
 }
 
 
+IGNORED_HOSTS = ["opensustain.tech", "climatetriage.com", "mastodon.social", "bsky.app"]
+
+
 def extract_project_url(pr_body):
     if not pr_body or not pr_body.strip():
         return None
-    match = re.search(r"https?://\S+", pr_body)
-    if not match:
-        return None
-    return match.group(0).rstrip(").,;")
+    for match in re.finditer(r"https?://\S+", pr_body):
+        url = match.group(0).rstrip(").,;")
+        if not any(host in url for host in IGNORED_HOSTS):
+            return url
+    return None
 
 
 def fetch_json(url, params=None):
