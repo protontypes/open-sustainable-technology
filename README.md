@@ -409,6 +409,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 - [myenergi for Home Assistant](https://github.com/CJNE/ha-myenergi) - Home Assistant integration for MyEnergi renewable energy products and ev chargers.
 - [Sankey Chart Card](https://github.com/MindFreeze/ha-sankey-chart) - A Home Assistant lovelace card to display a sankey chart showing energy, power and water consumption.
 - [Modbus Schema Toolkit](https://github.com/nielsbasjes/modbus-schema) - A set of Kotlin/Java libraries and tools to turn meaningless binary Modbus values (from Electricity meters, Heatpumps, Solar Inverters (PV) and SunSpec based devices) into meaningful values, make the modbus queries efficient and expose the values to MQTT (Home Assistant), InfluxDB and GraphQL.
+- [Twin4Build](https://github.com/JBjoernskov/Twin4Build) - Dynamic simulation of buildings with differentiable data-driven models and integration with semantic models for developing Digital Twins for buildings.
 
 ### Energy System Modeling Frameworks
 
