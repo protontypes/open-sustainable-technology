@@ -23,13 +23,18 @@ KNOWN_OSS_LICENSES = {
 }
 
 
+REPO_HOSTS = ["github.com", "gitlab.com", "bitbucket.org", "codeberg.org"]
+
+
 def extract_project_url(pr_body):
     if not pr_body or not pr_body.strip():
         return None
-    match = re.search(r"https?://\S+", pr_body)
-    if not match:
-        return None
-    return match.group(0).rstrip(").,;")
+    for match in re.finditer(r"https?://\S+", pr_body):
+        url = match.group(0).rstrip(").,;")
+        if any(host in url for host in REPO_HOSTS):
+            if "opensustain" not in url and "climatetriage" not in url:
+                return url
+    return None
 
 
 def fetch_json(url, params=None):
