@@ -23,7 +23,7 @@ KNOWN_OSS_LICENSES = {
 }
 
 
-REPO_HOSTS = ["github.com", "gitlab.com", "bitbucket.org", "codeberg.org"]
+IGNORED_HOSTS = ["opensustain.tech", "climatetriage.com", "mastodon.social", "bsky.app"]
 
 
 def extract_project_url(pr_body):
@@ -31,9 +31,8 @@ def extract_project_url(pr_body):
         return None
     for match in re.finditer(r"https?://\S+", pr_body):
         url = match.group(0).rstrip(").,;")
-        if any(host in url for host in REPO_HOSTS):
-            if "opensustain" not in url and "climatetriage" not in url:
-                return url
+        if not any(host in url for host in IGNORED_HOSTS):
+            return url
     return None
 
 
