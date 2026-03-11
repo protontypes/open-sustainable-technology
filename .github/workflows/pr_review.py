@@ -326,6 +326,9 @@ def build_comment(project_url, repos, packages, commits, issues):
 def main():
     pr_body = os.environ.get("PR_BODY", "")
 
+    out = Path("pr-review")
+    out.mkdir(exist_ok=True)
+
     project_url = extract_project_url(pr_body)
     if not project_url:
         print("Could not extract a project URL from the PR body.")
@@ -345,8 +348,6 @@ def main():
     else:
         comment = build_comment(project_url, repos, packages, commits, issues)
 
-    out = Path("pr-review")
-    out.mkdir(exist_ok=True)
     (out / "comment.md").write_text(comment)
     print("Data written to pr-review/")
 
