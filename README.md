@@ -409,6 +409,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 - [myenergi for Home Assistant](https://github.com/CJNE/ha-myenergi) - Home Assistant integration for MyEnergi renewable energy products and ev chargers.
 - [Sankey Chart Card](https://github.com/MindFreeze/ha-sankey-chart) - A Home Assistant lovelace card to display a sankey chart showing energy, power and water consumption.
 - [Modbus Schema Toolkit](https://github.com/nielsbasjes/modbus-schema) - A set of Kotlin/Java libraries and tools to turn meaningless binary Modbus values (from Electricity meters, Heatpumps, Solar Inverters (PV) and SunSpec based devices) into meaningful values, make the modbus queries efficient and expose the values to MQTT (Home Assistant), InfluxDB and GraphQL.
+- [Twin4Build](https://github.com/JBjoernskov/Twin4Build) - Dynamic simulation of buildings with differentiable data-driven models and integration with semantic models for developing Digital Twins for buildings.
 
 ### Energy System Modeling Frameworks
 
@@ -1511,6 +1512,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 - [b3gbi](https://github.com/b-cubed-eu/b3gbi) - Analyze biodiversity trends and spatial patterns from GBIF data cubes, using flexible indicators like richness, evenness, and more.
 - [Protected Planet](https://github.com/unepwcmc/ProtectedPlanet) - The most up to date and complete source of data on protected areas and other effective area-based conservation measures (OECMs), updated monthly with submissions from governments, non-governmental organizations, landowners and communities.
 - [Symbiota](https://github.com/Symbiota/Symbiota) - A library of webtools to aid biologists in establishing specimen based virtual floras and faunas.
+- [pyobis](https://github.com/iobis/pyobis) - Fetch data from OBIS API which harvests occurrence records from thousands of datasets and makes them available as a single integrated dataset.
 
 ### Biodiversity Data Cleaning and Standardization
 
@@ -2063,6 +2065,8 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 - [pySWAP](https://github.com/zawadzkim/pySWAP) - Python Interface to SWAP (Soil, Water, Atmosphere and Plant) to simulates transport of water, solutes and heat in unsaturated/saturated soils.
 - [SWIM](https://github.com/sintefmath/SurfaceWaterIntegratedModeling.jl) - An open-source software package for static modeling and prediction of surface water and urban flooding based on analysis of terrain topography.
 - [openLISEM](https://github.com/vjetten/openlisem) - A spatial model for simulation of the full waterbalance, overland flow, flooding and sediment erosion, transport and deposition in all flows.
+- [SUMMA](https://github.com/CH-Earth/summa) - A hydrologic modeling framework that can be used for the systematic analysis of alternative model conceptualizations with respect to flux parameterizations, spatial configurations, and numerical solution techniques.
+- [cmf](https://github.com/philippkraft/cmf) - A programming library to create hydrological models, which are highly modular and connectible to other models developed using a multiple hypotheses background and is based on the finite volume method.
 
 ### Ocean Models
 
@@ -2863,6 +2867,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 - [EPyT](https://github.com/OpenWaterAnalytics/EPyT) - A Common programming framework for research and development in the growing field of smart water networks.
 - [pyswmm](https://github.com/pyswmm/pyswmm) - Python Wrapper for Stormwater Management Model.
 - [SWMM5plus](https://github.com/CIMM-ORG/SWMM5plus) - Prototype Fortran 2008 engine for the EPA Storm Water Management Model.
+- [swmmio](https://github.com/pyswmm/swmmio) - Python tools for interacting with, editing, and visualizing EPA SWMM5 models.
 - [pystorms](https://github.com/kLabUM/pystorms) - Simulation Sandbox for the Design and Evaluation of Stormwater Control Algorithms.
 - [SELEN](https://github.com/geodynamics/selen) - An open source Fortran code for the numerical solution of the Sea Level Equation for a spherical, layered, rotating earth with viscoelastic rheology.
 - [rivamap](https://github.com/isikdogan/rivamap) - An Automated River Analysis and Mapping Engine.
