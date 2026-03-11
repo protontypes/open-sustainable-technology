@@ -3,6 +3,8 @@ name: PR Project Review - Fetch Data
 on:
   pull_request:
     types: [opened]
+    paths:
+      - 'README.md'
 
 permissions: {}
 

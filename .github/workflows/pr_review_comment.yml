@@ -23,6 +23,10 @@ jobs:
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
+          if [ ! -f comment.md ] || [ ! -s comment.md ]; then
+            echo "No comment to post"
+            exit 0
+          fi
           PR_NUMBER=$(cat pr_number.txt)
           COMMENT=$(cat comment.md)
           gh pr comment "$PR_NUMBER" --repo "${{ github.repository }}" --body "$COMMENT"
