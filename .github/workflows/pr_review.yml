@@ -1,0 +1,30 @@
+name: PR Project Review - Fetch Data
+
+on:
+  pull_request:
+    types: [opened]
+
+permissions: {}
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@de0fac2e4500dabe0009e67214ff5f5447ce83dd # v6.0.2
+        with:
+          persist-credentials: false
+
+      - uses: astral-sh/setup-uv@6ee6290f1cbc4156c0bdd66691b2c144ef8df19a # v7.4.0
+
+      - name: Fetch project data
+        env:
+          PR_BODY: ${{ github.event.pull_request.body }}
+        run: uv run .github/workflows/pr_review.py
+
+      - name: Save PR number
+        run: echo "${{ github.event.pull_request.number }}" > pr-review/pr_number.txt
+
+      - uses: actions/upload-artifact@bbbca2ddaa5d8feaa63e36b76fdaad77386f024f # v7.0.0
+        with:
+          name: pr-review
+          path: pr-review/
