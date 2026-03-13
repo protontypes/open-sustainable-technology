@@ -3273,6 +3273,8 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 - [BuildingMOTIF](https://github.com/NREL/BuildingMOTIF) - Enabling the semantic interoperability of advanced building technologies needed to fully decarbonise buildings.
 - [CEON](https://github.com/LiUSemWeb/CEON) - The Circular Economy Ontology Network provides a shared vocabulary in the form of a network of ontologies to support efficient decentralized sharing of industry data in circular economies.
 - [modisfast](https://github.com/ptaconet/modisfast) - An R package designed for easy and fast downloads of MODIS Land products, VIIRS Land products, and GPM (Global Precipitation Measurement Mission) Earth Observation data.
+- [Climate and Energy Policy Ontology](https://github.com/OpenEnergyPlatform/ClimateEnergyPolicyOntology) - A common ontology to record and structure climate and energy policy data.
+
 
 ### Curated Lists
 
