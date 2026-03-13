@@ -2783,6 +2783,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 - [Open Source Empirical Macro Model](https://github.com/moritzpschwarz/osem) - Study Climate Policies and the wider Macro-economy that can easily be applied to all EU countries.
 - [MEDUSA](https://github.com/bc3LC/medusa) - Modelling Equity and DistribUtional impacts for Socioeconomic Analysis.
 - [MimiGIVE.jl](https://github.com/rffscghg/MimiGIVE.jl) - This package holds the scripts to run the GIVE integrated assessment model.
+- [JUSTICE](https://github.com/pollockDeVis/JUSTICE) - An open-source Integrated Assessment Modelling Framework allowing exploration of modelling assumptions on Climate Policies.
 
 
 ## Natural Resources
