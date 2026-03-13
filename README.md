@@ -279,6 +279,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 - [fairchem](https://github.com/facebookresearch/fairchem) - Use AI to model and discover new catalysts for use in renewable energy storage to help in addressing climate change.
 - [wmpy-power](https://github.com/9505-PNNL/wmpy_power) - A hydropower simulation model developed to support long-term planning and climate impacts studies.
 - [HydroGenerate](https://github.com/IdahoLabResearch/HydroGenerate) - An open-source Python library that has the capability of estimating hydropower generation based on flow rate either provided by the user or received from United States Geological Survey water data services.
+- [pyH2A](https://github.com/jschneidewind/pyH2A) - An extensible Python framework for the analysis of hydrogen production cost.
 
 ### Geothermal Energy
 
