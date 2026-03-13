@@ -2069,6 +2069,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 - [openLISEM](https://github.com/vjetten/openlisem) - A spatial model for simulation of the full waterbalance, overland flow, flooding and sediment erosion, transport and deposition in all flows.
 - [SUMMA](https://github.com/CH-Earth/summa) - A hydrologic modeling framework that can be used for the systematic analysis of alternative model conceptualizations with respect to flux parameterizations, spatial configurations, and numerical solution techniques.
 - [cmf](https://github.com/philippkraft/cmf) - A programming library to create hydrological models, which are highly modular and connectible to other models developed using a multiple hypotheses background and is based on the finite volume method.
+- [hyswap](https://github.com/DOI-USGS/hyswap) - A Python package which provides a set of functions for manipulating and visualizing USGS water data.
 
 ### Ocean Models
 
