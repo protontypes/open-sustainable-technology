@@ -2506,6 +2506,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 - [cGENIE.muffin](https://github.com/derpycode/cgenie.muffin) - Carbon Turnover in Ocean, Atmosphere, Sediment, and Terrestrial Exchangeable Reservoirs model.
 - [cgenie](https://github.com/genie-model/cgenie) - GENIE family of Earth system models.
 - [XRO](https://github.com/senclimate/XRO) - An eXtended nonlinear Recharge Oscillator model for El Niño-Southern Oscillation (ENSO) and other modes of variability in the global ocean.
+- [Ai2 Climate Emulator](https://github.com/ai2cm/ace) - A fast machine learning model that simulates global atmospheric variability in a changing climate over time scales ranging from hours to centuries.
 
 ### Climate Data Standards 
 
