@@ -1321,6 +1321,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 - [RaMa-Scene](https://github.com/CMLPlatform/ramascene) - RaMa-Scene a web-platform to analyse Environmentally Extended Input-Output data and generate scenarios.
 - [pycirk](https://github.com/CMLPlatform/pycirk) - Model Circular Economy policy and technological interventions in Environmentally Extended Input-Output Analysis.
 - [FABIO](https://github.com/fineprint-global/fabio) - Forestry and Agriculture Biomass Input-Output Tables.
+- [OpenIO-Canada](https://github.com/CIRAIG/OpenIO-Canada) - Module to create symmetric Environmentally Extended Input-Output tables for Canada.
 
 ### Circular Economy and Waste
 
