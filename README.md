@@ -1404,6 +1404,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 - [BatDetect2](https://github.com/macaodha/batdetect2) -  Code for detecting and classifying bat echolocation calls in high frequency audio recordings.
 - [BirdNET-Go](https://github.com/tphakala/birdnet-go) - Realtime BirdNET soundscape analyzer.
 - [Perch](https://github.com/google-research/perch) - A bioacoustics research project that produces a bird species classifier, trained on over 10k species.
+- [bioacoustics](https://github.com/WavX/bioacoustics) - Contains all the necessary functions to read audio recordings of various formats, filter noisy files, display audio signals, detect and extract automatically acoustic features for further analysis such as species identification based on classification of animal vocalization.
 
 ### Biomass
 
