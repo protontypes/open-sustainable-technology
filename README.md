@@ -2430,6 +2430,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 - [WOUDC Data Registry](https://github.com/woudc/woudc-data-registry) - A platform that manages Ozone and Ultraviolet Radiation data in support of the World Ozone and Ultraviolet Radiation Data Centre (WOUDC), one of six World Data Centres as part of the Global Atmosphere Watch programme of the WMO.
 - [SASKTRAN2](https://github.com/usask-arg/sasktran2) -  A user-friendly atmospheric radiative transfer model from the University of Saskatchewan, redesigned for efficient hyperspectral calculations and full weighting function support.
 - [konrad](https://github.com/atmtools/konrad) - A one-dimensional radiative-convective equilibrium model.
+- [PAMTRA](https://github.com/igmk/pamtra) - Solve the passive and active microwave radiative transfer in a plan parallel horizontally homogeneous atmosphere with hydrometeors.
 
 ## Climate Change
 
