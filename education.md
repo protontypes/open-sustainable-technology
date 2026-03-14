@@ -41,6 +41,7 @@
 
 ## Green Software 
 -  [Sustainable Software Engineering](https://github.com/luiscruz/course_sustainableSE) - A course that covers techniques for measuring and improving environmental, social, and individual sustainability at every stage of the software lifecycle.
+-  [Green software use on HPC](https://github.com/carpentries-incubator/green-software-hpc) - This course introduces environmental sustainability principles in the context of high performance computing systems.
 
 ## Climate and Earth Science 
 
