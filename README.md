@@ -2322,6 +2322,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 - [Particula](https://github.com/uncscode/particula) - An Python-based aerosol simulator. Particula captures gas-particle interactions, transformations, and dynamics to power predictive aerosol science.
 - [SSH-aerosol](https://github.com/sshaerosol/ssh-aerosol) - This model represents the physico chemical transformation undergone by aerosols in the troposphere.
 - [ACTRIS Cloudnet data portal](https://github.com/actris-cloudnet/dataportal) - Provides a data processing and curation service for ground-based cloud remote sensing measurements.
+- [CloudMicrophysics.jl](https://github.com/CliMA/CloudMicrophysics.jl) - Provides a library of cloud microphysics and aerosol parameterizations for the CliMA Earth System Model.
 
 ### Meteorological Observation and Forecast
 
