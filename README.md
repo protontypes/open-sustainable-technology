@@ -1583,6 +1583,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 - [MapBiomas](https://github.com/mapbiomas/user-toolkit) - A comprehensive set of scripts and tools for downloading land use and cover data across various biomes in South America and Indonesia.
 - [Whisp](https://github.com/forestdatapartnership/whisp-app) - Geospatial Analysis Tool for Zero-Deforestation Claims.
 - [se.plan](https://github.com/sepal-contrib/se.plan) - This mapping tool combines ecological data on forest restoration with data on restoration’s benefits, costs, and risks.
+- [Planting Optimisation Tool](https://github.com/Chameleon-company/Planting-Optimisation-Tool) - A data-driven recommendation system designed to support sustainable reforestation and agroforestry planning in Timor-Leste.
 
 ### Ecological and Environmental Modeling
 
