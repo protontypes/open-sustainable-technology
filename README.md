@@ -2290,6 +2290,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 - [CloudDrift](https://github.com/Cloud-Drift/clouddrift) - Accelerates the use of Lagrangian data for atmospheric, oceanic, and climate sciences.
 - [IPART](https://github.com/ihesp/IPART) - A Python package for automated Atmospheric River (AR) detection, axis finding and AR tracking from gridded Integrated Vapor Transport data.
 - [WAM2layers](https://github.com/WAM2layers/WAM2layers) - Used to determine where precipitation originally evaporated (backtracking), or where evaporated moisture eventually ends up (forward tracking).
+- [Flexpart](https://gitlab.phaidra.org/flexpart/flexpart) - A Lagrangian transport and dispersion model suitable for the simulation of a large range of atmospheric transport processes.
 
 ### Atmospheric Chemistry and Aerosol
 
