@@ -2404,6 +2404,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 - [MetObs-toolkit](https://github.com/vergauwenthomas/MetObs_toolkit) - Provides a comprehensive framework for scientists to process, quality control, and analyze raw meteorological data.
 - [Verif](https://github.com/WFRT/verif) - A command-line tool that lets you verify the quality of weather forecasts for point locations.
 - [ClimWeb](https://github.com/wmo-raf/climweb) - Wagtail based Open Source Content Management System for National Meteorological and Hydrological Services in Africa.
+- [wradlib](https://github.com/wradlib/wradlib) - Designed to assist you in the most important steps of processing weather radar data.
 
 ### Radiative Transfer
 
