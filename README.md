@@ -279,6 +279,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 - [fairchem](https://github.com/facebookresearch/fairchem) - Use AI to model and discover new catalysts for use in renewable energy storage to help in addressing climate change.
 - [wmpy-power](https://github.com/9505-PNNL/wmpy_power) - A hydropower simulation model developed to support long-term planning and climate impacts studies.
 - [HydroGenerate](https://github.com/IdahoLabResearch/HydroGenerate) - An open-source Python library that has the capability of estimating hydropower generation based on flow rate either provided by the user or received from United States Geological Survey water data services.
+- [pyH2A](https://github.com/jschneidewind/pyH2A) - An extensible Python framework for the analysis of hydrogen production cost.
 
 ### Geothermal Energy
 
@@ -361,6 +362,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 - [Galv backend](https://github.com/galv-team/galv-backend) - An open-source platform for automated storage of battery data with advanced metadata support for battery scientists.
 - [PyProBE](https://github.com/ImperialCollegeLondon/PyProBE) - A Python package designed to simplify and accelerate the process of analysing data from battery cyclers.
 - [APIS](https://github.com/hyphae/APIS) - Autonomous Power Interchange System is an innovative open-source platform that enables Physical Peer-to-Peer (PP2P) energy sharing between distributed batteries in microgrids.
+- [BatteryLife](https://github.com/Ruifeng-Tan/BatteryLife) - A Comprehensive Dataset and Benchmark for Battery Life Prediction.
 
 ### Hydrogen
 
@@ -424,6 +426,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 - [PyPSA](https://github.com/PyPSA/PyPSA) - A free software toolbox for simulating and optimizing modern power systems that include features such as conventional generators with unit commitment, variable wind and solar generation, storage units, coupling to other energy sectors, and mixed alternating and direct current networks.
 - [whobs-server](https://github.com/PyPSA/whobs-server) - This is the code for the online optimization of zero-direct-emission electricity systems with wind, solar and storage (using batteries and electrolysed hydrogen gas) to provide a baseload electricity demand, using the cost and other assumptions of your choice.
 - [System Advisor Model](https://github.com/NREL/SAM) - A simulation program for electricity generation projects. It has models for different kinds of renewable energy systems and financial models for residential, commercial, and utility-scale projects.
+- [PySAM](https://github.com/NatLabRockies/pysam) - A Python package for the National Renewable Energy Laboratory’s System Advisor Model.
 - [openTEPES](https://github.com/IIT-EnergySystemModels/openTEPES) - Determines the investment plans of new facilities (generators, ESS and lines) for supplying the forecasted demand at minimum cost.
 - [REopt_API](https://github.com/NREL/REopt_API) - Offers a subset of features from NREL's more comprehensive REopt model. Both models provide concurrent, multiple technology integration and optimization capabilities to help organizations meet their cost savings and energy performance goals.
 - [pandapower](https://github.com/e2nIEE/pandapower) - An easy to use open source tool for power system modeling, analysis and optimization with a high degree of automation.
@@ -1013,6 +1016,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 - [wlc-scenario-explorer](https://github.com/mroeck/wlc-scenario-explorer) - A open source tool that enables selection, comparison, and analysis of various combinations of carbon reduction and/or removal strategies that could be applied across building stocks to affect whole life cycle impacts from buildings and construction.
 - [nf-co2footprint](https://github.com/nextflow-io/nf-co2footprint) - Estimates the energy consumption for each pipeline task based on the Nextflow resource usage metrics and information about the power consumption of the underlying compute system.
 - [EECO](https://github.com/we3lab/eeco) - A package for calculating electricity-related emissions and costs for optimization problem formulation and other computational analyses.
+- [Cloud Assess](https://github.com/kleis-technology/cloud-assess) - An open-source tool to automate the assessment of the environmental impacts of cloud services.
 
 ### Agriculture and Nutrition
 
@@ -1321,6 +1325,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 - [RaMa-Scene](https://github.com/CMLPlatform/ramascene) - RaMa-Scene a web-platform to analyse Environmentally Extended Input-Output data and generate scenarios.
 - [pycirk](https://github.com/CMLPlatform/pycirk) - Model Circular Economy policy and technological interventions in Environmentally Extended Input-Output Analysis.
 - [FABIO](https://github.com/fineprint-global/fabio) - Forestry and Agriculture Biomass Input-Output Tables.
+- [OpenIO-Canada](https://github.com/CIRAIG/OpenIO-Canada) - Module to create symmetric Environmentally Extended Input-Output tables for Canada.
 
 ### Circular Economy and Waste
 
@@ -1405,6 +1410,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 - [BirdNET-Go](https://github.com/tphakala/birdnet-go) - Realtime BirdNET soundscape analyzer.
 - [Perch](https://github.com/google-research/perch) - A bioacoustics research project that produces a bird species classifier, trained on over 10k species.
 - [bioacoustics](https://github.com/WavX/bioacoustics) - Contains all the necessary functions to read audio recordings of various formats, filter noisy files, display audio signals, detect and extract automatically acoustic features for further analysis such as species identification based on classification of animal vocalization.
+- [Whombat](https://github.com/mbsantiago/whombat) - Web-based audio annotation tool designed to streamline audio data labeling and annotation, with a particular focus on supporting machine learning model development in bioacoustics.
 
 ### Biomass
 
@@ -1603,6 +1609,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 - [moveHMM](https://github.com/TheoMichelot/moveHMM) - R package which implements hidden Markov models and associated tools (state decoding, model selection, model checking, etc.) tailored to animal movement modelling.
 - [BioDT](https://github.com/BioDT/biodt-shiny) - Prototype Digital Twins to help protect and restore biodiversity.
 - [gen3sis](https://github.com/project-gen3sis/R-package) - A spatially-explicit eco-evolutionary mechanistic model with a modular implementation that allows exploring the consequences of ecological and macroevolutionary processes across realistic or theoretical spatio-temporal landscapes.
+- [mvgam](https://github.com/nicholasjclark/mvgam) - Dynamic generalised additive models for forecasting discrete ecological time series.
 
 ### Forest Modeling and Analysis
 
@@ -2277,6 +2284,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 - [MWRpy](https://github.com/actris-cloudnet/mwrpy) - A Python software to process RPG Microwave Radiometer data and is developed at the University of Cologne, Germany as part of the Aerosol, Clouds and Trace Gases Research Infrastructure (ACTRIS).
 - [Breeze.jl](https://github.com/NumericalEarth/Breeze.jl) - Limited area LES-to-mesoscale atmosphere simulations based on Oceananigans.
 - [giverny](https://github.com/sciserver/giverny) - Library for querying the Johns Hopkins Turbulence Database.
+- [MicroHH](https://github.com/microhh/microhh) - A computational fluid dynamics code designed to simulate turbulent flows in the atmosphere using the Direct Numerical Simulation and Large-Eddy Simulation techniques.
 
 ### Atmospheric Dispersion and Transport
 
