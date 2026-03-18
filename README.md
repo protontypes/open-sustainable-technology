@@ -59,7 +59,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
   - [Bioacoustics and Acoustic Data Analysis](#bioacoustics-and-acoustic-data-analysis)
   - [Biomass](#biomass)
   - [Biodiversity Analysis and Metrics](#biodiversity-analysis-and-metrics)
-  - [Biodiversity Citizen Science](#biodiversity-citizen-science)GNparserBi
+  - [Biodiversity Citizen Science](#biodiversity-citizen-science)
   - [Biodiversity Data Access and Management](#biodiversity-data-access-and-management)
   - [Biodiversity Data Cleaning and Standardization](#biodiversity-data-cleaning-and-standardization)
   - [Conservation and Restoration](#conservation-and-restoration)
