@@ -540,6 +540,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 - [NEMO](https://github.com/bje-/NEMO) - The National Electricity Market Optimizer is a chronological dispatch model for testing and optimizing different portfolios of conventional and renewable electricity generation technologies.
 - [HAMLET](https://github.com/tum-ens/HAMLET) - A modular and extendable open-source toolbox for the development and testing of market designs with a focus on local interactions at the distribution level.
 - [Econobis](https://github.com/Ecodenl/econobis?tab=License-1-ov-file#readme) - The CRM and administration system for energy cooperatives, municipalities and cooperatives.
+- [Power TAC](https://github.com/powertac/powertac-server) - Competitive simulation designed to support the study of retail electric power markets, especially as they relate to managing distributed renewable power sources.
 
 ### Energy Data Accessibility and Integration
 
