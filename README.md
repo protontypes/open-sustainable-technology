@@ -2281,6 +2281,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 - [MWRpy](https://github.com/actris-cloudnet/mwrpy) - A Python software to process RPG Microwave Radiometer data and is developed at the University of Cologne, Germany as part of the Aerosol, Clouds and Trace Gases Research Infrastructure (ACTRIS).
 - [Breeze.jl](https://github.com/NumericalEarth/Breeze.jl) - Limited area LES-to-mesoscale atmosphere simulations based on Oceananigans.
 - [giverny](https://github.com/sciserver/giverny) - Library for querying the Johns Hopkins Turbulence Database.
+- [MicroHH](https://github.com/microhh/microhh) - A computational fluid dynamics code designed to simulate turbulent flows in the atmosphere using the Direct Numerical Simulation and Large-Eddy Simulation techniques.
 
 ### Atmospheric Dispersion and Transport
 
