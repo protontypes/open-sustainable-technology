@@ -1608,6 +1608,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 - [moveHMM](https://github.com/TheoMichelot/moveHMM) - R package which implements hidden Markov models and associated tools (state decoding, model selection, model checking, etc.) tailored to animal movement modelling.
 - [BioDT](https://github.com/BioDT/biodt-shiny) - Prototype Digital Twins to help protect and restore biodiversity.
 - [gen3sis](https://github.com/project-gen3sis/R-package) - A spatially-explicit eco-evolutionary mechanistic model with a modular implementation that allows exploring the consequences of ecological and macroevolutionary processes across realistic or theoretical spatio-temporal landscapes.
+- [mvgam](https://github.com/nicholasjclark/mvgam) - Dynamic generalised additive models for forecasting discrete ecological time series.
 
 ### Forest Modeling and Analysis
 
