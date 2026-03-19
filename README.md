@@ -1535,6 +1535,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 - [rinat](https://github.com/ropensci/rinat) - R wrapper for iNaturalist APIs for accessing the observations.
 - [Symbiota](https://github.com/Symbiota/Symbiota) - A library of webtools to aid biologists in establishing specimen based virtual floras and faunas.
 - [pyobis](https://github.com/iobis/pyobis) - Fetch data from OBIS API which harvests occurrence records from thousands of datasets and makes them available as a single integrated dataset.
+- [CafriplotsR](https://github.com/umr-amap/cafriplotsR) - Provides tools for querying a PostgreSQL database containing forest inventories data from Tropical Africa.
 
 ### Biodiversity Data Cleaning and Standardization
 
