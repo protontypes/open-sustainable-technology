@@ -300,6 +300,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 - [GEOPHIRES-X](https://github.com/NREL/GEOPHIRES-X) - Combines reservoir, wellbore, surface plant, and economic models to estimate the capital and operation and maintenance costs, instantaneous and lifetime energy production, and overall levelized cost of energy of a geothermal plant.
 - [ThermalNetwork](https://github.com/NREL/ThermalNetwork) - A library for sizing multiple ground heat exchangers distributed around a single-pipe thermal network.
 - [Fimbul.jl](https://github.com/sintefmath/Fimbul.jl) - Fast and flexible geothermal reservoir simulation in Julia.
+- [GHEDesigner](https://github.com/BETSRG/GHEDesigner) - A Flexible and Automatic Ground Heat Exchanger Design Tool.
 - [GeoCLUSTER](https://github.com/pnnl/GeoCLUSTER) - A Python-based web application that provides a collection of interactive methods for streamlining the visualization of the technical and economic modeling of closed-loop geothermal systems.
 
 ### Bioenergy
