@@ -1465,6 +1465,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 - [Living Planet Index](https://github.com/Zoological-Society-of-London/rlpi) - The diversity-weighted Living Planet Index: controlling for taxonomic bias in a global biodiversity indicator.
 - [BioTIMEr](https://github.com/bioTIMEHub/BioTIMEr) - Global database of assemblage time series for quantifying and understanding biodiversity change.
 - [dispRity](https://github.com/TGuillerme/dispRity) -  An open, modular R toolkit for flexible and reproducible analysis of diversity and occupancy in multidimensional ecological and evolutionary data.
+- [TaxonoPy](https://github.com/Imageomics/TaxonoPy) - A Python package for efficiently aligning organismal taxonomic hierarchies using the Global Names Verifier.
 
 ### Biodiversity Citizen Science
 
