@@ -541,6 +541,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 - [NEMO](https://github.com/bje-/NEMO) - The National Electricity Market Optimizer is a chronological dispatch model for testing and optimizing different portfolios of conventional and renewable electricity generation technologies.
 - [HAMLET](https://github.com/tum-ens/HAMLET) - A modular and extendable open-source toolbox for the development and testing of market designs with a focus on local interactions at the distribution level.
 - [Econobis](https://github.com/Ecodenl/econobis?tab=License-1-ov-file#readme) - The CRM and administration system for energy cooperatives, municipalities and cooperatives.
+- [JulES](https://github.com/NVE/JulES) - A fundamental energy market simulation model for operational planning, that uses TuLiPa as building blocks.
 - [Power TAC](https://github.com/powertac/powertac-server) - Competitive simulation designed to support the study of retail electric power markets, especially as they relate to managing distributed renewable power sources.
 
 ### Energy Data Accessibility and Integration
@@ -2339,6 +2340,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 - [SSH-aerosol](https://github.com/sshaerosol/ssh-aerosol) - This model represents the physico chemical transformation undergone by aerosols in the troposphere.
 - [ACTRIS Cloudnet data portal](https://github.com/actris-cloudnet/dataportal) - Provides a data processing and curation service for ground-based cloud remote sensing measurements.
 - [MELODIES MONET](https://github.com/NCAR/MELODIES-MONET) - A modular framework that integrates existing and future diverse atmospheric chemistry observational datasets with chemistry model results for the evaluation of air quality and atmospheric composition.
+- [MUSICA](https://github.com/NCAR/musica) - A collection of modeling software, tools, and grids, that allow for robust modeling of chemistry in Earth's atmosphere.
 - [CloudMicrophysics.jl](https://github.com/CliMA/CloudMicrophysics.jl) - Provides a library of cloud microphysics and aerosol parameterizations for the CliMA Earth System Model.
 
 ### Meteorological Observation and Forecast
