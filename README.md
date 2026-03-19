@@ -1827,6 +1827,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 - [Germinate](https://github.com/germinateplatform/germinate-vue) - An open source plant database infrastructure and application programming platform on which complex data from genetic resource collections can be stored, queried and visualized.
 - [greenR](https://github.com/sachit27/greenR) - An R package that enables the quantification, analysis, and visualization of urban greenness within city networks.
 - [Helios](https://github.com/PlantSimulationLab/Helios) - Generate and manipulate plant and other geometric objects, which can feed into biophysical model plug-ins such as radiation transfer, photosynthesis, and evapotranspiration.
+- [L-Py](https://github.com/openalea/lpy) - L-systems were conceived as a mathematical framework for modeling growth of plants.
 
 ### Species Distribution Modeling
 
