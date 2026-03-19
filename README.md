@@ -724,6 +724,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 - [PyPSA-China](https://github.com/pik-piam/PyPSA-China-PIK) - A open-source model of the Chinese energy system covering electricity and heat that co-optimizes dispatch and investments under user-set constraints, such as limits to environmental impacts, to minimize costs.
 - [PyPSA-Spain](https://github.com/cristobal-GC/pypsa-spain) - An extension of PyPSA-Eur to model the Spanish Energy System.
 - [24/7 Carbon Free Energy](https://github.com/transition-zero/tza-google-cfe) - The purpose of this project is to study the feasibility, costs, and impacts of 24/7 CFE in the commercial and industrial (C&I) sector in five distinct geographies in Asia.
+- [PyPSA-ASEAN](https://github.com/pypsa-meets-earth/pypsa-asean) - The first open-source ASEAN-wide cross-sectoral energy system model with high spatial and temporal resolution.
 
 
 ### Renewable Energy Integration
