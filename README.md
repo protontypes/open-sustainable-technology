@@ -2977,6 +2977,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 - [SWMManywhere](https://github.com/ImperialCollegeLondon/SWMManywhere) - A tool to synthesise urban drainage network models using publicly available data such as street network, DEM, and building footprints, across the globe.
 - [ESAT](https://github.com/quanted/esat) - An open-source software package that provides API and CLI functionality to create source apportionment workflows specifically targeting environmental datasets.
 - [Wastewater Infrastructure Map](https://github.com/VERSO-UVM/Wastewater-Infrastructure-Mapping) - A comprehensive assessment of wastewater infrastructure across towns in the state of Vermont.
+- [HydroPol2D](https://github.com/marcusnobrega-eng/HydroPol2D) - An open-source, high-resolution 2D model built in MATLAB for simulating overland flow, infiltration, groundwater-surface water interactions, and pollutant transport.
 - [EPyT-Control](https://github.com/WaterFutures/EPyT-Control) - A Python package for implementing and evaluating control algorithms & strategies in smart water networks.
 
 ### Soil and Land
