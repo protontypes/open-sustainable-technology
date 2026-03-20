@@ -1295,6 +1295,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 - [Electricity Life Cycle Inventory](https://github.com/NETL-RIC/ElectricityLCI) - A Python package that uses standardized facility release and generation data to create regionalized life cycle inventory (LCI) models for the generation, mix of generation, mix of consumption, and distribution of electricity to end users for the US, with embedded system processes of upstream fuel production and infrastructure.
 - [uslci-content](https://github.com/uslci-admin/uslci-content) - Supplementary content for the U.S. Life Cycle Inventory Database.
 - [OpenLCA](https://github.com/GreenDelta/olca-app) - An open source and free software for Sustainability and Life Cycle Assessment.
+- [openLCA modules](https://github.com/GreenDelta/olca-modules) - This project provides the core functionality of openLCA as a set of Maven modules.
 - [openlca-python-tutorial](https://github.com/GreenDelta/openlca-python-tutorial) - Explains the usage of the openLCA API from Python.
 - [Global LCA Data Access Network](https://www.globallcadataaccess.org/) - Gathers life cycle dataset providers and other stakeholders who share the goal of improving sustainability-related decisions through enhanced, interoperable and global access to LCA datasets.
 - [BioSTEAM_LCA](https://github.com/scyjth/biosteam_lca) - An agile life cycle assessment platform that enables a fast and flexible evaluation of the life cycle environmental impacts of biorefineries under uncertainty.
@@ -1556,6 +1557,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 - [Bionomia](https://github.com/bionomia/bionomia) - Parse people names from biodiversity occurrence data, apply basic regular expressions and heuristics to disambiguate them, and to make these occurrence records as entities that can be claimed by people via ORCID.
 - [ABIS](https://github.com/AusBIGG/abis) - Australian Biodiversity Information Standard.
 - [GNparser](https://github.com/gnames/gnparser) - Normalises scientific names, as used in biodiversity, and extracts their semantic elements.
+- [GBIF Name Parser](https://github.com/gbif/name-parser) - The core GBIF scientific name parser library.
 - [BeeBDC](https://github.com/jbdorey/BeeBDC/) - Bee Biodiversity Data Cleaning.
 
 ### Conservation and Restoration
@@ -2100,6 +2102,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 - [timflow](https://github.com/timflow-org/timflow) - A Python package for the modeling of multi-layer groundwater flow with analytic elements.
 - [SUMMA](https://github.com/CH-Earth/summa) - A hydrologic modeling framework that can be used for the systematic analysis of alternative model conceptualizations with respect to flux parameterizations, spatial configurations, and numerical solution techniques.
 - [cmf](https://github.com/philippkraft/cmf) - A programming library to create hydrological models, which are highly modular and connectible to other models developed using a multiple hypotheses background and is based on the finite volume method.
+- [hyswap](https://github.com/DOI-USGS/hyswap) - A Python package which provides a set of functions for manipulating and visualizing USGS water data.
 - [HYDROLIB-core](https://github.com/Deltares/HYDROLIB-core) - Serves as the basis for various pre- and postprocessing tools for a modelling workflow of hydrodynamic simulations.
 - [RRMPG](https://github.com/kratzert/RRMPG) - Model the response of a catchment to meteorological input data and to forecast the river discharge.
 
@@ -2359,6 +2362,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 - [Particula](https://github.com/uncscode/particula) - An Python-based aerosol simulator. Particula captures gas-particle interactions, transformations, and dynamics to power predictive aerosol science.
 - [SSH-aerosol](https://github.com/sshaerosol/ssh-aerosol) - This model represents the physico chemical transformation undergone by aerosols in the troposphere.
 - [ACTRIS Cloudnet data portal](https://github.com/actris-cloudnet/dataportal) - Provides a data processing and curation service for ground-based cloud remote sensing measurements.
+- [PyFLEXTRKR](https://github.com/FlexTRKR/PyFLEXTRKR) - A Flexible Feature Tracking Python Software for Convective Cloud Analysis.
 - [AtChem2](https://github.com/AtChem/AtChem2) - Primarily designed to use the Master Chemical Mechanism, a near-explicit chemical mechanism which describes the gas-phase oxidation of volatile organic compounds in the lower atmosphere.
 - [MELODIES MONET](https://github.com/NCAR/MELODIES-MONET) - A modular framework that integrates existing and future diverse atmospheric chemistry observational datasets with chemistry model results for the evaluation of air quality and atmospheric composition.
 - [MUSICA](https://github.com/NCAR/musica) - A collection of modeling software, tools, and grids, that allow for robust modeling of chemistry in Earth's atmosphere.
@@ -3324,6 +3328,8 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 - [BuildingMOTIF](https://github.com/NREL/BuildingMOTIF) - Enabling the semantic interoperability of advanced building technologies needed to fully decarbonise buildings.
 - [CEON](https://github.com/LiUSemWeb/CEON) - The Circular Economy Ontology Network provides a shared vocabulary in the form of a network of ontologies to support efficient decentralized sharing of industry data in circular economies.
 - [modisfast](https://github.com/ptaconet/modisfast) - An R package designed for easy and fast downloads of MODIS Land products, VIIRS Land products, and GPM (Global Precipitation Measurement Mission) Earth Observation data.
+- [Climate and Energy Policy Ontology](https://github.com/OpenEnergyPlatform/ClimateEnergyPolicyOntology) - A common ontology to record and structure climate and energy policy data.
+
 
 ### Curated Lists
 
