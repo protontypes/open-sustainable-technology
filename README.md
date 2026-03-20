@@ -200,6 +200,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 - [GMSEUS](https://github.com/stidjaco/GMSEUS) - A comprehensive ground-mounted solar energy dataset with sub-array design metadata in the United States.
 - [solposx](https://github.com/pvlib/solposx) - A Python package for calculating solar position angles and comparing solar position algorithms.
 - [Solar Consumer](https://github.com/openclimatefix/solar-consumer) - This code can be used to download solar forecasts and save them to a PostgreSQL database by retrieving solar generation estimates for embedded solar farms and preparing the data for analysis.
+- [Sunalyzer](https://github.com/BorisBrock/Sunalyzer) - A free, open source and vendor independent solar monitoring system. It collects relevant data from your inverter/smart meter and stores them safely in a data base.
 - [PVForecast](https://github.com/StefaE/PVForecast) - Forecasts to optimize electricity consumption for rooftop PV installations.
 - [forecast-solar](https://github.com/home-assistant-libs/forecast_solar) - Asynchronous Python client for getting solarpanels forecast information.
 - [Anker Solix Integration for Home Assistant](https://github.com/thomluther/ha-anker-solix) - Home Assistant integration for Anker Solix Power devices.
