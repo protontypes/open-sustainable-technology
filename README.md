@@ -200,6 +200,9 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 - [GMSEUS](https://github.com/stidjaco/GMSEUS) - A comprehensive ground-mounted solar energy dataset with sub-array design metadata in the United States.
 - [solposx](https://github.com/pvlib/solposx) - A Python package for calculating solar position angles and comparing solar position algorithms.
 - [Solar Consumer](https://github.com/openclimatefix/solar-consumer) - This code can be used to download solar forecasts and save them to a PostgreSQL database by retrieving solar generation estimates for embedded solar farms and preparing the data for analysis.
+- [Sunalyzer](https://github.com/BorisBrock/Sunalyzer) - A free, open source and vendor independent solar monitoring system. It collects relevant data from your inverter/smart meter and stores them safely in a data base.
+- [PVForecast](https://github.com/StefaE/PVForecast) - Forecasts to optimize electricity consumption for rooftop PV installations.
+- [forecast-solar](https://github.com/home-assistant-libs/forecast_solar) - Asynchronous Python client for getting solarpanels forecast information.
 - [Anker Solix Integration for Home Assistant](https://github.com/thomluther/ha-anker-solix) - Home Assistant integration for Anker Solix Power devices.
 - [PVCracks](https://github.com/sandialabs/pvcracks) - Investigates the effects of cracks on power loss in photovoltaic (PV) solar cells and tracks crack progression over time.
 
@@ -258,6 +261,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 - [Open Wind Energy](https://github.com/open-wind/openwindenergy) - Builds and displays onshore wind turbine site constraints in a fully automated way - avoiding the need for manually downloading and processing multiple GIS datasets by hand.
 - [IEC 61400-15-2 EYA DEF](https://github.com/IEC-61400-15/eya_def) - Defines a complementary format for energy yield assessment reporting to the main written report, aimed at facilitating automated solutions for data exchange.
 - [WAVES](https://github.com/NREL/WAVES) - Wind Asset Value Estimation System is a tool for estimating the lifecycle costs of offshore wind projects using NREL's flagship techno economic models.
+- [wind-up](https://github.com/resgroup/wind-up) - A tool to assess yield uplift of wind turbines.
 
 ### Hydro Energy
 
@@ -300,6 +304,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 - [GEOPHIRES-X](https://github.com/NREL/GEOPHIRES-X) - Combines reservoir, wellbore, surface plant, and economic models to estimate the capital and operation and maintenance costs, instantaneous and lifetime energy production, and overall levelized cost of energy of a geothermal plant.
 - [ThermalNetwork](https://github.com/NREL/ThermalNetwork) - A library for sizing multiple ground heat exchangers distributed around a single-pipe thermal network.
 - [Fimbul.jl](https://github.com/sintefmath/Fimbul.jl) - Fast and flexible geothermal reservoir simulation in Julia.
+- [FALCON](https://github.com/idaholab/falcon) - A true fully-coupled THMC simulator, using a finite-element approach to solve highly nonlinear coupled subsurface dynamics for problems such as carbon sequestration, reactive transport, geothermal energy, etc.
 - [GHEDesigner](https://github.com/BETSRG/GHEDesigner) - A Flexible and Automatic Ground Heat Exchanger Design Tool.
 - [GeoCLUSTER](https://github.com/pnnl/GeoCLUSTER) - A Python-based web application that provides a collection of interactive methods for streamlining the visualization of the technical and economic modeling of closed-loop geothermal systems.
 
@@ -723,6 +728,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 - [PyPSA-China](https://github.com/pik-piam/PyPSA-China-PIK) - A open-source model of the Chinese energy system covering electricity and heat that co-optimizes dispatch and investments under user-set constraints, such as limits to environmental impacts, to minimize costs.
 - [PyPSA-Spain](https://github.com/cristobal-GC/pypsa-spain) - An extension of PyPSA-Eur to model the Spanish Energy System.
 - [24/7 Carbon Free Energy](https://github.com/transition-zero/tza-google-cfe) - The purpose of this project is to study the feasibility, costs, and impacts of 24/7 CFE in the commercial and industrial (C&I) sector in five distinct geographies in Asia.
+- [PyPSA-ASEAN](https://github.com/pypsa-meets-earth/pypsa-asean) - The first open-source ASEAN-wide cross-sectoral energy system model with high spatial and temporal resolution.
 
 
 ### Renewable Energy Integration
@@ -1367,6 +1373,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 - [CircuLaw](https://github.com/Dark-Matter-Labs/circulaw) - A knowledge platform dedicated to enabling the transition to a circular economy by identifying opportunities in current law to support a circular future.
 - [plasticparcels](https://github.com/OceanParcels/plasticparcels) - A Python package for simulating the transport and dispersion of plastics in the ocean.
 - [Ecobricks](https://github.com/gea-ecobricks/ecobricks-org) - Ecobrick is a plastic bottle packed with used plastic to a set density, a way to take advantage of plastic's pros while protecting against its cons.
+- [open-dpp](https://github.com/open-dpp/open-dpp) - An open-source platform for managing digital product passports.
 - [Open Repair Data](https://github.com/openrepair/data) - Source of the Open Repair Alliance downloadable datasets.
 
 ## Biosphere
@@ -1528,8 +1535,10 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 - [Biodiversity Around Me](https://github.com/PnX-SI/BAM-widget) - A web widget that retrieves and displays species observed within an area, based on the GBIF data API or alternative other biodiversity data sources.
 - [b3gbi](https://github.com/b-cubed-eu/b3gbi) - Analyze biodiversity trends and spatial patterns from GBIF data cubes, using flexible indicators like richness, evenness, and more.
 - [Protected Planet](https://github.com/unepwcmc/ProtectedPlanet) - The most up to date and complete source of data on protected areas and other effective area-based conservation measures (OECMs), updated monthly with submissions from governments, non-governmental organizations, landowners and communities.
+- [rinat](https://github.com/ropensci/rinat) - R wrapper for iNaturalist APIs for accessing the observations.
 - [Symbiota](https://github.com/Symbiota/Symbiota) - A library of webtools to aid biologists in establishing specimen based virtual floras and faunas.
 - [pyobis](https://github.com/iobis/pyobis) - Fetch data from OBIS API which harvests occurrence records from thousands of datasets and makes them available as a single integrated dataset.
+- [CafriplotsR](https://github.com/umr-amap/cafriplotsR) - Provides tools for querying a PostgreSQL database containing forest inventories data from Tropical Africa.
 
 ### Biodiversity Data Cleaning and Standardization
 
@@ -1599,6 +1608,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 - [MapBiomas](https://github.com/mapbiomas/user-toolkit) - A comprehensive set of scripts and tools for downloading land use and cover data across various biomes in South America and Indonesia.
 - [Whisp](https://github.com/forestdatapartnership/whisp-app) - Geospatial Analysis Tool for Zero-Deforestation Claims.
 - [se.plan](https://github.com/sepal-contrib/se.plan) - This mapping tool combines ecological data on forest restoration with data on restoration’s benefits, costs, and risks.
+- [Planting Optimisation Tool](https://github.com/Chameleon-company/Planting-Optimisation-Tool) - A data-driven recommendation system designed to support sustainable reforestation and agroforestry planning in Timor-Leste.
 
 ### Ecological and Environmental Modeling
 
@@ -1618,6 +1628,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 - [moveHMM](https://github.com/TheoMichelot/moveHMM) - R package which implements hidden Markov models and associated tools (state decoding, model selection, model checking, etc.) tailored to animal movement modelling.
 - [BioDT](https://github.com/BioDT/biodt-shiny) - Prototype Digital Twins to help protect and restore biodiversity.
 - [gen3sis](https://github.com/project-gen3sis/R-package) - A spatially-explicit eco-evolutionary mechanistic model with a modular implementation that allows exploring the consequences of ecological and macroevolutionary processes across realistic or theoretical spatio-temporal landscapes.
+- [RangeShiftR](https://github.com/RangeShifter/RangeShiftR-pkg) - A state-of-the-art eco-evolutionary modelling platform that is becoming increasingly used worldwide for both theoretical and applied purposes.
 - [mvgam](https://github.com/nicholasjclark/mvgam) - Dynamic generalised additive models for forecasting discrete ecological time series.
 
 ### Forest Modeling and Analysis
@@ -1821,6 +1832,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 - [Germinate](https://github.com/germinateplatform/germinate-vue) - An open source plant database infrastructure and application programming platform on which complex data from genetic resource collections can be stored, queried and visualized.
 - [greenR](https://github.com/sachit27/greenR) - An R package that enables the quantification, analysis, and visualization of urban greenness within city networks.
 - [Helios](https://github.com/PlantSimulationLab/Helios) - Generate and manipulate plant and other geometric objects, which can feed into biophysical model plug-ins such as radiation transfer, photosynthesis, and evapotranspiration.
+- [L-Py](https://github.com/openalea/lpy) - L-systems were conceived as a mathematical framework for modeling growth of plants.
 
 ### Species Distribution Modeling
 
@@ -2086,6 +2098,8 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 - [openLISEM](https://github.com/vjetten/openlisem) - A spatial model for simulation of the full waterbalance, overland flow, flooding and sediment erosion, transport and deposition in all flows.
 - [SUMMA](https://github.com/CH-Earth/summa) - A hydrologic modeling framework that can be used for the systematic analysis of alternative model conceptualizations with respect to flux parameterizations, spatial configurations, and numerical solution techniques.
 - [cmf](https://github.com/philippkraft/cmf) - A programming library to create hydrological models, which are highly modular and connectible to other models developed using a multiple hypotheses background and is based on the finite volume method.
+- [HYDROLIB-core](https://github.com/Deltares/HYDROLIB-core) - Serves as the basis for various pre- and postprocessing tools for a modelling workflow of hydrodynamic simulations.
+- [RRMPG](https://github.com/kratzert/RRMPG) - Model the response of a catchment to meteorological input data and to forecast the river discharge.
 
 ### Ocean Models
 
@@ -2293,6 +2307,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 - [MWRpy](https://github.com/actris-cloudnet/mwrpy) - A Python software to process RPG Microwave Radiometer data and is developed at the University of Cologne, Germany as part of the Aerosol, Clouds and Trace Gases Research Infrastructure (ACTRIS).
 - [Breeze.jl](https://github.com/NumericalEarth/Breeze.jl) - Limited area LES-to-mesoscale atmosphere simulations based on Oceananigans.
 - [giverny](https://github.com/sciserver/giverny) - Library for querying the Johns Hopkins Turbulence Database.
+- [FastEddy](https://github.com/NCAR/FastEddy-model) - Leverage fast, energy-efficient GPU computing to expand LES use in research and enable microscale and multiscale turbulence-resolving boundary-layer modeling for local weather prediction and practical science and engineering applications.
 - [LFRic](https://github.com/MetOffice/lfric_apps) - Home to the LFRic-based science applications and libraries such as the Momentum® Atmosphere model application and the GungHo dynamical core.
 - [MicroHH](https://github.com/microhh/microhh) - A computational fluid dynamics code designed to simulate turbulent flows in the atmosphere using the Direct Numerical Simulation and Large-Eddy Simulation techniques.
 
@@ -2342,6 +2357,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 - [Particula](https://github.com/uncscode/particula) - An Python-based aerosol simulator. Particula captures gas-particle interactions, transformations, and dynamics to power predictive aerosol science.
 - [SSH-aerosol](https://github.com/sshaerosol/ssh-aerosol) - This model represents the physico chemical transformation undergone by aerosols in the troposphere.
 - [ACTRIS Cloudnet data portal](https://github.com/actris-cloudnet/dataportal) - Provides a data processing and curation service for ground-based cloud remote sensing measurements.
+- [AtChem2](https://github.com/AtChem/AtChem2) - Primarily designed to use the Master Chemical Mechanism, a near-explicit chemical mechanism which describes the gas-phase oxidation of volatile organic compounds in the lower atmosphere.
 - [MELODIES MONET](https://github.com/NCAR/MELODIES-MONET) - A modular framework that integrates existing and future diverse atmospheric chemistry observational datasets with chemistry model results for the evaluation of air quality and atmospheric composition.
 - [MUSICA](https://github.com/NCAR/musica) - A collection of modeling software, tools, and grids, that allow for robust modeling of chemistry in Earth's atmosphere.
 - [CloudMicrophysics.jl](https://github.com/CliMA/CloudMicrophysics.jl) - Provides a library of cloud microphysics and aerosol parameterizations for the CliMA Earth System Model.
@@ -2778,6 +2794,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 - [pyTCR](https://github.com/levuvietphong/pyTCR) - A physics-based model developed in Python to estimate rainfall induced by tropical cyclones.
 - [HuracanPy](https://github.com/Huracan-project/huracanpy) - Provide a unified tool for working with cyclone track data.
 - [snail](https://github.com/nismod/snail) - A Python package to help with analysis of the potential impacts of climate hazards and other perils on infrastructure networks.
+- [PEACH](https://github.com/Ouranosinc/peach) - Computes climate indicators over hundreds of different Earth System Model simulations, then combine the results into a single probability density function, accounting for model performance and the relative likelihood of greenhouse gas emission scenario.
 
 ### Integrated Assessment and Climate Policy
 
@@ -2807,7 +2824,9 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 - [GCAM-China](https://github.com/umd-cgs/gcam-china) - The Global Change Analysis Model with China provincial-level details.
 - [Open Source Empirical Macro Model](https://github.com/moritzpschwarz/osem) - Study Climate Policies and the wider Macro-economy that can easily be applied to all EU countries.
 - [MEDUSA](https://github.com/bc3LC/medusa) - Modelling Equity and DistribUtional impacts for Socioeconomic Analysis.
+- [RICE50xmodel](https://github.com/witch-team/RICE50xmode) - A calibrated multi-regional Integrated Assessment Model with 50+ regions, calibrated abatement cost curves, a modular and phase structure of the code, and additional optional modules.
 - [MimiGIVE.jl](https://github.com/rffscghg/MimiGIVE.jl) - This package holds the scripts to run the GIVE integrated assessment model.
+- [JUSTICE](https://github.com/pollockDeVis/JUSTICE) - An open-source Integrated Assessment Modelling Framework allowing exploration of modelling assumptions on Climate Policies.
 
 
 ## Natural Resources
@@ -2959,6 +2978,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 - [ESAT](https://github.com/quanted/esat) - An open-source software package that provides API and CLI functionality to create source apportionment workflows specifically targeting environmental datasets.
 - [Wastewater Infrastructure Map](https://github.com/VERSO-UVM/Wastewater-Infrastructure-Mapping) - A comprehensive assessment of wastewater infrastructure across towns in the state of Vermont.
 - [tidywater](https://github.com/BrownandCaldwell-Public/tidywater) - Incorporates published water chemistry and empirical models in a standard format to build custom, comprehensive drinking water treatment processes.
+- [HydroPol2D](https://github.com/marcusnobrega-eng/HydroPol2D) - An open-source, high-resolution 2D model built in MATLAB for simulating overland flow, infiltration, groundwater-surface water interactions, and pollutant transport.
 - [EPyT-Control](https://github.com/WaterFutures/EPyT-Control) - A Python package for implementing and evaluating control algorithms & strategies in smart water networks.
 
 ### Soil and Land
