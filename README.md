@@ -1556,6 +1556,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 - [CoordinateCleaner](https://github.com/ropensci/CoordinateCleaner) - Automated flagging of common spatial and temporal errors in biological and palaeontological collection data, for the use in conservation, ecology and palaeontology.
 - [Bionomia](https://github.com/bionomia/bionomia) - Parse people names from biodiversity occurrence data, apply basic regular expressions and heuristics to disambiguate them, and to make these occurrence records as entities that can be claimed by people via ORCID.
 - [ABIS](https://github.com/AusBIGG/abis) - Australian Biodiversity Information Standard.
+- [GBIF Name Parser](https://github.com/gbif/name-parser) - The core GBIF scientific name parser library.
 - [BeeBDC](https://github.com/jbdorey/BeeBDC/) - Bee Biodiversity Data Cleaning.
 
 ### Conservation and Restoration
@@ -2361,6 +2362,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 - [SSH-aerosol](https://github.com/sshaerosol/ssh-aerosol) - This model represents the physico chemical transformation undergone by aerosols in the troposphere.
 - [ACTRIS Cloudnet data portal](https://github.com/actris-cloudnet/dataportal) - Provides a data processing and curation service for ground-based cloud remote sensing measurements.
 - [F0AM](https://github.com/AirChem/F0AM) - Framework for 0-D Atmospheric Modeling.
+- [PyFLEXTRKR](https://github.com/FlexTRKR/PyFLEXTRKR) - A Flexible Feature Tracking Python Software for Convective Cloud Analysis.
 - [AtChem2](https://github.com/AtChem/AtChem2) - Primarily designed to use the Master Chemical Mechanism, a near-explicit chemical mechanism which describes the gas-phase oxidation of volatile organic compounds in the lower atmosphere.
 - [MELODIES MONET](https://github.com/NCAR/MELODIES-MONET) - A modular framework that integrates existing and future diverse atmospheric chemistry observational datasets with chemistry model results for the evaluation of air quality and atmospheric composition.
 - [MUSICA](https://github.com/NCAR/musica) - A collection of modeling software, tools, and grids, that allow for robust modeling of chemistry in Earth's atmosphere.
