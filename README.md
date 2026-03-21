@@ -284,7 +284,6 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 - [wmpy-power](https://github.com/9505-PNNL/wmpy_power) - A hydropower simulation model developed to support long-term planning and climate impacts studies.
 - [HydroGenerate](https://github.com/IdahoLabResearch/HydroGenerate) - An open-source Python library that has the capability of estimating hydropower generation based on flow rate either provided by the user or received from United States Geological Survey water data services.
 - [pyH2A](https://github.com/jschneidewind/pyH2A) - An extensible Python framework for the analysis of hydrogen production cost.
-- [HydroChrono](https://github.com/Project-SEA-Stack/HydroChrono) - Enabling simulations of wave energy converters and other ocean systems.
 
 ### Geothermal Energy
 
@@ -530,9 +529,6 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 - [TZ-OSeMOSYS](https://github.com/transition-zero/tz-osemosys) - A TransitionZero implementation of the OSeMOSYS systems model.
 - [PyPSA-SPICE](https://github.com/agoenergy/pypsa-spice) - PyPSA-based Scenario Planning and Integrated Capacity Expansion Model Builder.
 - [Rumi](https://github.com/prayas-energy/Rumi) - A generic, open-source energy systems modelling platform developed by Prayas (Energy Group) to aid policy-relevant analysis.
-- [mescal](https://github.com/matthieu-str/mescal) - Coupling Energy System Models with Life Cycle Assessment.
-- [fluxopt](https://github.com/FBumann/fluxopt) - Energy system optimization with linopy — detailed dispatch, scaled to multi period planning.
-- [CairnOpen](https://github.com/CEA-Liten/CairnOpen) - Simulation and optimization software for energy and environmental systems.
 
 ### Energy Markets
 
@@ -705,7 +701,6 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 - [MAED](https://github.com/Model-for-Analysis-of-Energy-Demand/MAED-Code) - An open-source tool for forecasting annual useful and final energy demands, featuring a module for intra-annual modelling of hourly electricity load profiles.
 - [Electricity Demand Data](https://github.com/open-energy-transition/demandcast) - A Python-based project focused on collecting, processing, and forecasting hourly electricity demand data.
 - [EnTiSe](https://github.com/tum-ens/EnTiSe) - Provides a flexible, pipeline- and strategy-based approach to create time series for different applications including HVAC, domestic hot water, electricity, mobility, and occupancy patterns.
-- [Probabilistic Resource Adequacy Suite](https://github.com/NatLabRockies/PRAS) - The Probabilistic Resource Adequacy Suite (PRAS) is a collection of tools for bulk power system resource adequacy analysis and capacity credit calculation.
 
 ### Global and Regional Energy System Models
 
@@ -734,7 +729,6 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 - [PyPSA-Spain](https://github.com/cristobal-GC/pypsa-spain) - An extension of PyPSA-Eur to model the Spanish Energy System.
 - [24/7 Carbon Free Energy](https://github.com/transition-zero/tza-google-cfe) - The purpose of this project is to study the feasibility, costs, and impacts of 24/7 CFE in the commercial and industrial (C&I) sector in five distinct geographies in Asia.
 - [PyPSA-ASEAN](https://github.com/pypsa-meets-earth/pypsa-asean) - The first open-source ASEAN-wide cross-sectoral energy system model with high spatial and temporal resolution.
-- [PyPSA-AT](https://github.com/AGGM-AG/pypsa-at) - High resolution, sector-coupled model of the Austrian Energy System.
 
 
 ### Renewable Energy Integration
@@ -852,7 +846,6 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 - [OCHRE](https://github.com/NREL/OCHRE) - Building energy modeling (BEM) tool designed to model flexible loads in residential buildings.
 - [ConStrain](https://github.com/pnnl/ConStrain) - A data-driven knowledge-integrated framework that automatically verifies that building system controls function as intended.
 - [DistrictGenerator](https://github.com/RWTH-EBC/districtgenerator) - An open-source, Python-based tool that provides urban planners, energy suppliers, and related professionals with essential insights into energy demands, enabling effective neighborhood energy system design and supply harmonization.
-- [MyEMS](https://github.com/MyEMS/myems) - Suitable for collecting, analyzing, and reporting energy and carbon emissions such as electricity, water, gas, cooling, and heating in buildings.
 
 ### Mobility and Transportation
 
@@ -1869,7 +1862,6 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 - [ssdtools](https://github.com/bcgov/ssdtools) - An R package to fit and plot Species Sensitivity Distributions, cumulative probability distributions which are fitted to toxicity concentrations for different species.
 - [EcoNicheS](https://github.com/armandosunny/EcoNicheS) - Enhancing ecological niche modeling, niche overlap and connectivity analysis using shiny dashboard and R Package.
 - [deepbiosphere](https://github.com/moiexpositoalonsolab/deepbiosphere) - Open-source implementation for plant species distribution mapping using citizen science, remote sensing, and deep convolutional neural networks.
-- [kuenm2](https://github.com/marlonecobos/kuenm2) - Make the process of ecological niche modeling easier, faster, and more reproducible, and at the same time more robust.
 
 ### Terrestrial Wildlife
 
@@ -1926,7 +1918,6 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 - [PyroRL](https://github.com/sisl/PyroRL) - Simulates evacuating populated areas through paths from a grid world containing wildfires.
 - [rlandfire](https://github.com/bcknr/rlandfire) - Provides access to a diverse suite of spatial data layers via the LANDFIRE Product Services (LFPS) API.
 - [NFDRS4](https://github.com/firelab/NFDRS4) - The US National Fire Danger Rating System Version 4.0.
-- [Pyregence](https://github.com/pyregence/pyregence) - A web portal for displaying near-term fire forecast results for the state of California.
 
 ## Cryosphere
 
@@ -2145,7 +2136,6 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 - [MagicBathyNet](https://github.com/pagraf/MagicBathyNet) - A Multimodal Remote Sensing Dataset for Benchmarking Learning-based Bathymetry and Pixel-based Classification in Shallow Waters.
 - [xoa](https://github.com/shom-fr/xoa) - Intended to help reading and manipulating observed and simulated ocean data.
 - [Samudra](https://github.com/suryadheeshjith/Samudra) - Efficiently emulates the ocean component of a state-of-the-art climate model, accurately reproducing key ocean variables including sea surface height, horizontal velocities, temperature, and salinity, across their full depth.
-- [Clawpack](https://github.com/clawpack/geoclaw) - 2d depth-averaged shallow water equations for flow over varying topography.
 
 ### Waves and Currents
 
@@ -2811,7 +2801,6 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 - [HuracanPy](https://github.com/Huracan-project/huracanpy) - Provide a unified tool for working with cyclone track data.
 - [snail](https://github.com/nismod/snail) - A Python package to help with analysis of the potential impacts of climate hazards and other perils on infrastructure networks.
 - [PEACH](https://github.com/Ouranosinc/peach) - Computes climate indicators over hundreds of different Earth System Model simulations, then combine the results into a single probability density function, accounting for model performance and the relative likelihood of greenhouse gas emission scenario.
-- [HydroUQ](https://github.com/NHERI-SimCenter/HydroUQ) - Predict the response of communities subjected to water-borne hazard events like tsunami and storm surge.
 
 ### Integrated Assessment and Climate Policy
 
@@ -2997,8 +2986,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 - [tidywater](https://github.com/BrownandCaldwell-Public/tidywater) - Incorporates published water chemistry and empirical models in a standard format to build custom, comprehensive drinking water treatment processes.
 - [HydroPol2D](https://github.com/marcusnobrega-eng/HydroPol2D) - An open-source, high-resolution 2D model built in MATLAB for simulating overland flow, infiltration, groundwater-surface water interactions, and pollutant transport.
 - [EPyT-Control](https://github.com/WaterFutures/EPyT-Control) - A Python package for implementing and evaluating control algorithms & strategies in smart water networks.
-- [POOPy](https://github.com/AlexLipp/POOPy) - Object Oriented Python package for interfacing with English Water Companies Event Duration Monitoring data.
-- [Top Of The Poops](https://github.com/top-poop/top-of-the-poops) - Analysing Sewage Information from the UK Environment Agency.
+- [UK Sewage Map](https://github.com/JonnyDawe/UK-Sewage-Map) - A real-time visualization tool showing river sections affected by sewage discharges from combined sewer overflows across the UK.
 
 ### Soil and Land
 
