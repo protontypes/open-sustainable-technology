@@ -3016,6 +3016,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 - [EPyT-Control](https://github.com/WaterFutures/EPyT-Control) - A Python package for implementing and evaluating control algorithms & strategies in smart water networks.
 - [POOPy](https://github.com/AlexLipp/POOPy) - Object Oriented Python package for interfacing with English Water Companies Event Duration Monitoring data.
 - [Top Of The Poops](https://github.com/top-poop/top-of-the-poops) - Analysing Sewage Information from the UK Environment Agency.
+- [UK Sewage Map](https://github.com/JonnyDawe/UK-Sewage-Map) - A real-time visualization tool showing river sections affected by sewage discharges from combined sewer overflows across the UK.
 
 ### Soil and Land
 
