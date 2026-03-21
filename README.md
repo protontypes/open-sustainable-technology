@@ -2136,6 +2136,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 - [MagicBathyNet](https://github.com/pagraf/MagicBathyNet) - A Multimodal Remote Sensing Dataset for Benchmarking Learning-based Bathymetry and Pixel-based Classification in Shallow Waters.
 - [xoa](https://github.com/shom-fr/xoa) - Intended to help reading and manipulating observed and simulated ocean data.
 - [Samudra](https://github.com/suryadheeshjith/Samudra) - Efficiently emulates the ocean component of a state-of-the-art climate model, accurately reproducing key ocean variables including sea surface height, horizontal velocities, temperature, and salinity, across their full depth.
+- [Clawpack](https://github.com/clawpack/geoclaw) - 2d depth-averaged shallow water equations for flow over varying topography.
 
 ### Waves and Currents
 
