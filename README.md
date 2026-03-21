@@ -1889,6 +1889,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 - [bbousuite](https://github.com/poissonconsulting/bbousuite) - A set of R packages to facilitate simulation and analysis of boreal caribou survival and recruitment data to estimate population growth.
 - [Circuitscape](https://github.com/Circuitscape/Circuitscape.jl) - Modeling movement and gene flow of plants and animals, as well as identifying areas important for connectivity conservation.
 - [animl-py](https://github.com/conservationtechlab/animl-py) - Includes a set of functions to classify subjects within camera trap field data and can handle both images and videos.
+- [PAMGuard](https://github.com/PAMGuard/PAMGuard) - World leading software for the Detection, Classification, and Localisation of marine mammal and other animal sounds.
  
 ### Wildfire
 
