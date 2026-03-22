@@ -2276,6 +2276,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 - [AquaFetch](https://github.com/hyex-research/AquaFetch) - A Python package designed for the automated downloading, parsing, cleaning, and harmonization of freely available water resource datasets related to rainfall-runoff processes, surface water quality, and wastewater treatment.
 - [hydrographr](https://github.com/glowabio/hydrographr) - Provides a collection of R function wrappers for GDAL and GRASS-GIS functions to efficiently work with Hydrography90m and spatial biodiversity data.
 - [ERDDAP](https://github.com/ERDDAP/erddap) - Makes ocean and hydrology data easy to find, subset, visualize, and download.
+- [Copernicus Marine Service Toolbox](https://github.com/mercator-ocean/copernicus-marine-toolbox) - A CLI and Python package for discovering, filtering, and downloading Copernicus Marine datasets and metadata with support for subsetting, multiple output formats, and direct Marine Data Store access.
 
 ## Atmosphere
 
