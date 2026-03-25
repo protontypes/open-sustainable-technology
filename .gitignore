@@ -36,3 +36,6 @@ ab-*
 
 # Caches
 maintenance-diskcache/
+
+.idea/
+.DS_Store
