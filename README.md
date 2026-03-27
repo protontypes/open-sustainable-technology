@@ -702,6 +702,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 - [MAED](https://github.com/Model-for-Analysis-of-Energy-Demand/MAED-Code) - An open-source tool for forecasting annual useful and final energy demands, featuring a module for intra-annual modelling of hourly electricity load profiles.
 - [Electricity Demand Data](https://github.com/open-energy-transition/demandcast) - A Python-based project focused on collecting, processing, and forecasting hourly electricity demand data.
 - [EnTiSe](https://github.com/tum-ens/EnTiSe) - Provides a flexible, pipeline- and strategy-based approach to create time series for different applications including HVAC, domestic hot water, electricity, mobility, and occupancy patterns.
+- [Probabilistic Resource Adequacy Suite](https://github.com/NatLabRockies/PRAS) - The Probabilistic Resource Adequacy Suite (PRAS) is a collection of tools for bulk power system resource adequacy analysis and capacity credit calculation.
 
 ### Global and Regional Energy System Models
 
