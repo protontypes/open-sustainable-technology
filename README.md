@@ -1863,6 +1863,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 - [ssdtools](https://github.com/bcgov/ssdtools) - An R package to fit and plot Species Sensitivity Distributions, cumulative probability distributions which are fitted to toxicity concentrations for different species.
 - [EcoNicheS](https://github.com/armandosunny/EcoNicheS) - Enhancing ecological niche modeling, niche overlap and connectivity analysis using shiny dashboard and R Package.
 - [deepbiosphere](https://github.com/moiexpositoalonsolab/deepbiosphere) - Open-source implementation for plant species distribution mapping using citizen science, remote sensing, and deep convolutional neural networks.
+- [kuenm2](https://github.com/marlonecobos/kuenm2) - Make the process of ecological niche modeling easier, faster, and more reproducible, and at the same time more robust.
 
 ### Terrestrial Wildlife
 
