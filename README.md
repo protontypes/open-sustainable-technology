@@ -2802,6 +2802,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 - [HuracanPy](https://github.com/Huracan-project/huracanpy) - Provide a unified tool for working with cyclone track data.
 - [snail](https://github.com/nismod/snail) - A Python package to help with analysis of the potential impacts of climate hazards and other perils on infrastructure networks.
 - [PEACH](https://github.com/Ouranosinc/peach) - Computes climate indicators over hundreds of different Earth System Model simulations, then combine the results into a single probability density function, accounting for model performance and the relative likelihood of greenhouse gas emission scenario.
+- [HydroUQ](https://github.com/NHERI-SimCenter/HydroUQ) - Predict the response of communities subjected to water-borne hazard events like tsunami and storm surge.
 
 ### Integrated Assessment and Climate Policy
 
