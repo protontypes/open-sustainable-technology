@@ -2832,6 +2832,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 - [GCAM-China](https://github.com/umd-cgs/gcam-china) - The Global Change Analysis Model with China provincial-level details.
 - [Open Source Empirical Macro Model](https://github.com/moritzpschwarz/osem) - Study Climate Policies and the wider Macro-economy that can easily be applied to all EU countries.
 - [MEDUSA](https://github.com/bc3LC/medusa) - Modelling Equity and DistribUtional impacts for Socioeconomic Analysis.
+- [nomenclature](https://github.com/IAMconsortium/nomenclature) - Allows managing definitions of data structures for model comparison projects and scenario analysis studies using the data format developed by the Integrated Assessment Modeling Consortium.
 - [RICE50xmodel](https://github.com/witch-team/RICE50xmode) - A calibrated multi-regional Integrated Assessment Model with 50+ regions, calibrated abatement cost curves, a modular and phase structure of the code, and additional optional modules.
 - [MimiGIVE.jl](https://github.com/rffscghg/MimiGIVE.jl) - This package holds the scripts to run the GIVE integrated assessment model.
 - [JUSTICE](https://github.com/pollockDeVis/JUSTICE) - An open-source Integrated Assessment Modelling Framework allowing exploration of modelling assumptions on Climate Policies.
