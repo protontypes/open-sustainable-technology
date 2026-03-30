@@ -21,7 +21,7 @@ jobs:
         run: |
               URL_git="$(git diff HEAD^ HEAD -- README.md | grep '^+' | grep -v '^+++' | grep -o 'https://[a-zA-Z0-9./?=_-]\+' || true)"
               echo $URL_git
-              URL_git_combine=$default_message"$URL_git"
+              URL_git_combine="$URL_git $default_message"
               echo "URL_git=$URL_git" >> $GITHUB_ENV
               echo "URL_git_combine=$URL_git_combine" >> $GITHUB_ENV
               if [ -z "$URL_git" ]; then
