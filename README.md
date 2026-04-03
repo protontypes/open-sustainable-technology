@@ -1921,6 +1921,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 - [PyroRL](https://github.com/sisl/PyroRL) - Simulates evacuating populated areas through paths from a grid world containing wildfires.
 - [rlandfire](https://github.com/bcknr/rlandfire) - Provides access to a diverse suite of spatial data layers via the LANDFIRE Product Services (LFPS) API.
 - [NFDRS4](https://github.com/firelab/NFDRS4) - The US National Fire Danger Rating System Version 4.0.
+- [Pyregence](https://github.com/pyregence/pyregence) - A web portal for displaying near-term fire forecast results for the state of California.
 
 ## Cryosphere
 
