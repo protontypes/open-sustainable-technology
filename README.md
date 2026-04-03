@@ -1945,6 +1945,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 - [SOmap](https://github.com/AustralianAntarcticDivision/SOmap) - The goal of this package is to make publication quality round Southern Ocean maps in polar projections with little effort.
 - [Icebergs](https://github.com/NOAA-GFDL/icebergs) - Model large tabular icebergs submerged in the ocean known as Kinematic Iceberg Dynamics.
 - [ClimaSeaIce.jl](https://github.com/CliMA/ClimaSeaIce.jl) - A library that empowers users to configure and run simulations of sea ice freezing, melting, and horizontal motion on the large time and spatial scales appropriate for climate modeling.
+- [NeXtSIM](https://github.com/nansencenter/nextsim) - A sea ice model used in the Copernicus Marine Service's Arctic sea ice forecast and reanalysis.
 
 ### Glacier and Ice Sheets
 
