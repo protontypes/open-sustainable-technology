@@ -1804,6 +1804,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 - [FLCore](https://github.com/flr/FLCore) - Contains the core classes and methods for FLR, a framework for fisheries modelling and management strategy simulation in R.
 - [nmfspalette](https://github.com/nmfs-ost/nmfspalette) - R color palette for NOAA Fisheries official colors.
 - [forcis](https://github.com/ropensci/forcis) - Provide an interface to the FORCIS database that includes data on living planktonic foraminifera diversity and distribution in the global oceans from 1910 until 2018 collected using plankton tows, continuous plankton recorder, sediment traps and plankton pump from the global ocean.
+- [WHAM](https://github.com/timjmiller/wham) - The Woods Hole Assessment Model is a general age-structured stock assessment framework that can be configured to estimate assessment models that range in complexity from statistical catch-at-age model with annual recruitments as fixed effects, to state-space, multi-stock, multi-region, age-structured models.
 
 
 ### Plants and Vegetation
