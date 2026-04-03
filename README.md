@@ -531,6 +531,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 - [Rumi](https://github.com/prayas-energy/Rumi) - A generic, open-source energy systems modelling platform developed by Prayas (Energy Group) to aid policy-relevant analysis.
 - [mescal](https://github.com/matthieu-str/mescal) - Coupling Energy System Models with Life Cycle Assessment.
 - [fluxopt](https://github.com/FBumann/fluxopt) - Energy system optimization with linopy — detailed dispatch, scaled to multi period planning.
+- [CairnOpen](https://github.com/CEA-Liten/CairnOpen) - Simulation and optimization software for energy and environmental systems.
 
 ### Energy Markets
 
