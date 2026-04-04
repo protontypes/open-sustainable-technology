@@ -605,6 +605,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 - [Global Renewables Watch](https://github.com/microsoft/global-renewables-watch) - A comprehensive global temporal dataset of commercial solar photovoltaic (PV) farms and onshore wind turbines, derived from high-resolution satellite imagery analyzed quarterly from the fourth quarter of 2017 to the second quarter of 2024.
 - [Rewiring America](https://github.com/rewiringamerica/api.rewiringamerica.org) - Contains structured data about home electrification incentives in the US, and an API server that calculates which incentives a user is eligible for.
 - [POSTED](https://github.com/PhilippVerpoort/posted) - A public database of techno-economic data on energy and climate-mitigation technologies and a framework for consistent handling of this database.
+- [Prospect Energy](https://gitlab.com/prospect-energy/prospect-server) - An open source data platform for the energy access sector that allows you to customize data flows coming from ongrid, minigrid and offgrid sources.
 
 ### Energy Policy
 
