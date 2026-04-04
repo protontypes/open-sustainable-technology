@@ -5,6 +5,7 @@
 - [Geocomputation with Python](https://github.com/geocompx/geocompy/) - An open source book and online resource for getting started in this space with Python.
 - [Geocomputation with R](https://github.com/geocompx/geocompr) - A book on geographic data analysis, visualization and modeling with R.
 - [Intro to R for Geospatial data](https://github.com/datacarpentry/r-intro-geospatial) - Provides an introduction to R for learners working with geospatial data.
+- [Introduction to GIS Programming](https://github.com/giswqs/intro-gispro) - Introduction to GIS Programming: A Practical Python Guide to Open Source Geospatial Tool.
 
 ## Renewable Energy
 
