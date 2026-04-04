@@ -30,6 +30,7 @@
 - [oemof Workshop on Modeling Heat Pumps](https://github.com/oemof/heat-pump-tutorial) - Learn how to use and apply oemof libraries in the context of modeling heat pumps in energy system analysis.
 - [Control and protection of HVDC/AC electrical grids](https://github.com/control-protection-grids-tudelft/Control-and-protection-of-HVDC-AC-electrical-grids-IEEE-IES-MOOC/) - Tutorials and material for lectures, practicums and assignments.
 - [Open-TYNDP Workshops](https://github.com/open-energy-transition/open-tyndp-workshops) - Accompany the development of an open-source energy modeling tool for the Ten-Year Network Development Plan.
+- [PowSyBl Tutorials](https://github.com/powsybl/powsybl-tutorials) - Tutorials forPowSyBl, an open source framework written in Java that makes it easy to write complex software for power systems’ simulations and analysis.
 
 
 ## Consumption of Energy and Resources 
