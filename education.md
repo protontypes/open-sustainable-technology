@@ -128,6 +128,7 @@
 - [Ecological forecasting with R](https://github.com/nicholasjclark/physalia-forecasting-course) - In this course you will learn how to wrangle, visualize and explore ecological time series.
 - [An introduction to Systematic conservation planning with prioritzr](https://github.com/iiasa/eccb2024) - Learn about the basic concepts of systematic conservation planning (SCP) and more specifically algorithmic solutions identifying planning outcomes.
 - [OpenRefine-ecology](https://github.com/datacarpentry/OpenRefine-ecology-lesson) - Data Cleaning with OpenRefine for Ecologists.
+- [IOER Jupyter-Book NFDI4Biodiversity Training Materials](https://github.com/ioer-dresden/jupyter-book-nfdi4biodiversity) - Combining expertise in spatial data analysis and biodiversity research. It reflects our shared commitment to open science, collaboration, and providing researchers with practical tools for ecological and biodiversity studies.
 
 ### Hydrosphere
 - [MarineEcosystemsJuliaCon2021.jl](https://github.com/JuliaOcean/MarineEcosystemsJuliaCon2021.jl) - Modeling Marine Ecosystems At Multiple Scales Using Julia.
