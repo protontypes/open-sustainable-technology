@@ -138,6 +138,7 @@
 - [Coastal Dynamics Open Codebook](https://github.com/floriscalkoen/CoastalCodeBook) - Discusses the interrelation between physical wave, flow, and sediment transport phenomena and the resulting morphodynamics of a wide variety of coastal systems.
 - [ECCO Hackweek 2024 Website](https://github.com/ECCO-Hackweek/ecco-2024) - Explore NASA’s ECCO Ocean State Estimate, using Python, Julia, and cloud-based resources to work on oceanographic and climate data projects.
 - [Argo Online School](https://github.com/euroargodev/argoonlineschool) - Teach the basic foundations to use and understand the Argo data, an international program that collects information from inside the ocean using a fleet of approximately 4,000 floats that drift with the ocean currents.
+- [iNUX](https://github.com/gw-inux/Jupyter-Notebooks) - This repository provides interactive apps like Python code for Streamlit Apps and Jupyter Notebooks for learning and teaching groundwater hydrology and hydrogeology.
 
 
 ## Natural Resources 
