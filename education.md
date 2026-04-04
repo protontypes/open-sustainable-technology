@@ -91,6 +91,7 @@
 - [Landsat ML Cookbook](https://github.com/ProjectPythia/landsat-ml-cookbook) - Covers the essential materials for working with Landsat data in the context of machine learning workflows.
 - [SERVIR Applied Deep Learning Book](https://github.com/SERVIR/SERVIR-Applied-Deep-Learning-Book) - Use satellite data and geospatial technology to address critical challenges in weather & climate resilience, agriculture and food security, ecosystem and carbon management, water security, disasters, as well as air quality and health
 - [HYR-SENSE](https://github.com/CU-ESIIL/HYR-SENSE) - Hyperspectral and Thermal Remote Sensing for Environmental Justice" program. Participants will gain hands-on experience with hyperspectral and thermal imaging remote sensing technology and its applications for environmental justice issues.
+- [Earth Observation Data Science Cookbook](https://github.com/ProjectPythia/eo-datascience-cookbook) - This Project Pythia Cookbook covers a range of Earth observation examples employing the Pangeo philosophy. The examples represent the main research lines and BSc/MSc courses at the Department of Geodesy and Geoinformation at the TU Wien.
 
 ## Earth Systems 
 ### Atmosphere 
