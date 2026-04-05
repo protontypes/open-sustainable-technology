@@ -739,6 +739,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 - [24/7 Carbon Free Energy](https://github.com/transition-zero/tza-google-cfe) - The purpose of this project is to study the feasibility, costs, and impacts of 24/7 CFE in the commercial and industrial (C&I) sector in five distinct geographies in Asia.
 - [PyPSA-ASEAN](https://github.com/pypsa-meets-earth/pypsa-asean) - The first open-source ASEAN-wide cross-sectoral energy system model with high spatial and temporal resolution.
 - [PyPSA-AT](https://github.com/AGGM-AG/pypsa-at) - High resolution, sector-coupled model of the Austrian Energy System.
+- [GENeSYSMOD.jl](https://github.com/GENeSYS-MOD/GENeSYSMOD.jl) - An open source cross-sectoral energy system model aimed at long-term developments of the energy system.
 
 
 ### Renewable Energy Integration
