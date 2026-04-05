@@ -2990,6 +2990,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 - [tidywater](https://github.com/BrownandCaldwell-Public/tidywater) - Incorporates published water chemistry and empirical models in a standard format to build custom, comprehensive drinking water treatment processes.
 - [HydroPol2D](https://github.com/marcusnobrega-eng/HydroPol2D) - An open-source, high-resolution 2D model built in MATLAB for simulating overland flow, infiltration, groundwater-surface water interactions, and pollutant transport.
 - [EPyT-Control](https://github.com/WaterFutures/EPyT-Control) - A Python package for implementing and evaluating control algorithms & strategies in smart water networks.
+- [ZipCheckup](https://github.com/artakulov/us-water-quality-data) - A free platform providing ZIP-level environmental safety data for 42,000+ US ZIP codes across 17 safety verticals (water quality, air quality, radon, PFAS, lead, flood, wildfire, and more), aggregating 50+ federal datasets from EPA, CDC, USGS, and FEMA with a public API and open data under CC BY 4.0.
 
 ### Soil and Land
 
