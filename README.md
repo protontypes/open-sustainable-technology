@@ -205,6 +205,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 - [forecast-solar](https://github.com/home-assistant-libs/forecast_solar) - Asynchronous Python client for getting solarpanels forecast information.
 - [Anker Solix Integration for Home Assistant](https://github.com/thomluther/ha-anker-solix) - Home Assistant integration for Anker Solix Power devices.
 - [PVCracks](https://github.com/sandialabs/pvcracks) - Investigates the effects of cracks on power loss in photovoltaic (PV) solar cells and tracks crack progression over time.
+- [PVNet](https://github.com/openclimatefix/PVNe) - A multi-modal late-fusion model for predicting renewable energy generation from weather data.
 
 ### Wind Energy
 
