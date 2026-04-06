@@ -945,6 +945,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 - [nammayatri](https://github.com/nammayatri/nammayatri) - A Direct-to-Driver open mobility platform powering the next-generation of mobility applications in India.
 - [biclaR](https://github.com/U-Shift/biclar) - A tool for the design and assessment of different scenarios of the cycling network models in the Lisbon metropolitan area.
 - [ha-evcc](https://github.com/marq24/ha-evcc) - Home Assistant integration for evcc optimized charging of electric vehicles, connecting your EV charger with your PV system.
+- [SpiceEV](https://github.com/rl-institut/spice_ev) - Simulate different charging strategies for a defined set of vehicles and corresponding trips to and from charging stations.
 
 ### Production and Industry
 
