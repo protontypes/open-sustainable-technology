@@ -1326,6 +1326,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 - [flodym](https://github.com/pik-piam/flodym) - The Flexibe Open Dynamic Material Systems Model library provides key functionality for building material flow analysis models.
 - [LiAISON](https://github.com/NREL/LiAISON) - A Python framework for performing automated, scalable life cycle assessment with support for prospective analysis using integrated assessment model scenarios.
 - [Wurst](https://github.com/polca/wurst) - A python package for linking and modifying industrial ecology models, with a focus on sparse matrices in life cycle assessment.
+- [IfcLCA](https://github.com/IfcLCA/IfcLCA) - provides access to environmental impact material data sourced from open data published by Koordinationskonferenz der Bau- und Liegenschaftsorgane der öffentlichen Bauherren.
 
 ### Input Output Model
 
