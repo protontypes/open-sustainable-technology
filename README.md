@@ -850,6 +850,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 - [OCHRE](https://github.com/NREL/OCHRE) - Building energy modeling (BEM) tool designed to model flexible loads in residential buildings.
 - [ConStrain](https://github.com/pnnl/ConStrain) - A data-driven knowledge-integrated framework that automatically verifies that building system controls function as intended.
 - [DistrictGenerator](https://github.com/RWTH-EBC/districtgenerator) - An open-source, Python-based tool that provides urban planners, energy suppliers, and related professionals with essential insights into energy demands, enabling effective neighborhood energy system design and supply harmonization.
+- [URBANopt CLI](https://github.com/urbanopt/urbanopt-cli) - An EnergyPlus- and OpenStudio-based simulation platform for district, campus, and neighborhood-scale energy modeling, including thermal and electrical analysis.
 
 ### Mobility and Transportation
 
