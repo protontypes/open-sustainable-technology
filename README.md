@@ -775,6 +775,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 - [MTRESS](https://github.com/mtress/mtress) - Facilitates the creation of energy system optimisation models for individual residential and commercial buildings, as well as for neighbourhoods and entire industrial properties.
 - [OnStove](https://github.com/Open-Source-Spatial-Clean-Cooking-Tool/OnStove) - Calculates the net-benefits of different stove options in a given geography and compares all stoves to one another with regards to their net-benefit.
 - [LAVA](https://github.com/DEA-GE/LAVA) - A tool to calculate the available area in a user defined study region for building renewable energy generators like utility-scale ground-mounted solar PV and wind onshore.
+- [MESSpy](https://github.com/pielube/MESSpy) - Has been developed to perform techno-economic assesment of Renewable Energy Communities, but can also be used to study single-standing buildings and hydrogen-integrated energy systems.
 
 ## Consumption
 
