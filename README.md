@@ -1380,6 +1380,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 - [Ecobricks](https://github.com/gea-ecobricks/ecobricks-org) - Ecobrick is a plastic bottle packed with used plastic to a set density, a way to take advantage of plastic's pros while protecting against its cons.
 - [open-dpp](https://github.com/open-dpp/open-dpp) - An open-source platform for managing digital product passports.
 - [Open Repair Data](https://github.com/openrepair/data) - Source of the Open Repair Alliance downloadable datasets.
+- [restarters.net](https://github.com/TheRestartProject/restarters.net) - A suite of software for the repair community.
 
 ## Biosphere
 
