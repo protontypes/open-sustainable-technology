@@ -264,6 +264,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 - [IEC 61400-15-2 EYA DEF](https://github.com/IEC-61400-15/eya_def) - Defines a complementary format for energy yield assessment reporting to the main written report, aimed at facilitating automated solutions for data exchange.
 - [WAVES](https://github.com/NREL/WAVES) - Wind Asset Value Estimation System is a tool for estimating the lifecycle costs of offshore wind projects using NREL's flagship techno economic models.
 - [wind-up](https://github.com/resgroup/wind-up) - A tool to assess yield uplift of wind turbines.
+- [WindGym](https://gitlab.windenergy.dtu.dk/sys/windgym) - Provides a dynamic wind farm environment for developing and evaluating reinforcement learning agents for wind farm control.
 
 ### Hydro Energy
 
