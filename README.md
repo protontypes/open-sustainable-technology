@@ -2108,6 +2108,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 - [hyswap](https://github.com/DOI-USGS/hyswap) - A Python package which provides a set of functions for manipulating and visualizing USGS water data.
 - [HYDROLIB-core](https://github.com/Deltares/HYDROLIB-core) - Serves as the basis for various pre- and postprocessing tools for a modelling workflow of hydrodynamic simulations.
 - [RRMPG](https://github.com/kratzert/RRMPG) - Model the response of a catchment to meteorological input data and to forecast the river discharge.
+- [Pywr-DRB](https://github.com/Pywr-DRB/Pywr-DRB) - An open-source Python model for exploring the role of reservoir operations, transbasin diversions, minimum flow targets, and other regulatory rules on water availability and drought risk in the Delaware River Basin.
 
 ### Ocean Models
 
