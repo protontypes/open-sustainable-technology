@@ -3377,6 +3377,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 - [CEON](https://github.com/LiUSemWeb/CEON) - The Circular Economy Ontology Network provides a shared vocabulary in the form of a network of ontologies to support efficient decentralized sharing of industry data in circular economies.
 - [modisfast](https://github.com/ptaconet/modisfast) - An R package designed for easy and fast downloads of MODIS Land products, VIIRS Land products, and GPM (Global Precipitation Measurement Mission) Earth Observation data.
 - [Climate and Energy Policy Ontology](https://github.com/OpenEnergyPlatform/ClimateEnergyPolicyOntology) - A common ontology to record and structure climate and energy policy data.
+- [taxizedb](https://github.com/ropensci/taxizedb) - Automatically converts supported taxonomic databases into SQLite for unified querying, with support for the National Center for Biotechnology Information Taxonomy, the Integrated Taxonomic Information System, World Flora Online, the Catalogue of Life, the Global Biodiversity Information Facility, and Wikidata.
 
 
 ### Curated Lists
