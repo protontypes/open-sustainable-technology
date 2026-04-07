@@ -2887,6 +2887,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 - [Air Quality Forecast](https://github.com/atodorov284/air-quality-forecast) - This end-to-end machine learning collaboration project is used to predict ozone and nitrogen dioxide levels in Utrecht as a form of timeseries regression.
 - [FHWA's DANA Tool](https://github.com/VolpeUSDOT/FHWA-DANATool) - The Database for Air Quality and Noise Analysis (DANA) Tool provides traffic-related inputs to the Motor Vehicle Emission Simulator (MOVES) vehicle emissions model and the Traffic Noise Model (TNM).
 - [CREAHIA](https://github.com/energyandcleanair/creahia) - An R package dedicated to health impact assessment (HIA) of air pollution.
+- [ECHO-AIR](https://github.com/echo-air-model/echo-air) - A repository of scripts used for converting emissions to concentrations and health impacts using the InMAP Source-Receptor Matrix.
 
 
 ### Water Supply and Quality
