@@ -1223,7 +1223,8 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 - [ThermoPack](https://github.com/thermotools/thermopack) - A thermodynamic model library for fluid properties and pressure-volume-temperature property calculations.
 - [Mocca](https://github.com/sintefmath/Mocca.jl) - Provides a Julia based framework for the simulating pressure / temperature swing adsorption processes for CO2 capture.
 - [AcidWatch](https://github.com/equinor/acidwatch) - Democratize and open up the discussion around CO2 impurities and provide a reliable resource for researchers, chemists, and industry professionals in the CCS domain.
-- [StrataTrapper](https://github.com/ImperialCollegeLondon/StrataTrapper) - Advanced modelling of CO2 migration and trapping. 
+- [StrataTrapper](https://github.com/ImperialCollegeLondon/StrataTrapper) - Advanced modelling of CO2 migration and trapping.
+- [C-Star](https://github.com/CWorthy-ocean/C-Star) - A python package for setting up and running ocean model simulations, with a particular focus on marine carbon dioxide removal applications.
 
 ### Emission Observation and Modeling
 
