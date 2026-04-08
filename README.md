@@ -2212,6 +2212,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 - [IOOS Cloud Sandbox](https://github.com/ioos/Cloud-Sandbox) - A collaborative platform to develop regional coastal models.
 - [COAWST](https://github.com/DOI-USGS/COAWST) - Combines many sophisticated systems that each provide relative earth-system components necessary to investigate the dynamics of coastal storm impacts.
 - [OSMCoastline](https://github.com/osmcode/osmcoastline) - Extracts the coastline data from an OSM planet file and assembles all the pieces into polygons for use in map renderers.
+- [CoastalME](https://github.com/CoastalModellingEnvironment/coastalme) - A Free and Open Source software for geospatial modelling to simulate decadal and longer coastal morphological changes.
 
 
 ### Ocean and Hydrology Data Access
