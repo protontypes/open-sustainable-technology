@@ -38,6 +38,7 @@
 - [GreenCity](https://github.com/ita-social-projects/GreenCity) - Teach people in a playful and challenging way to have an eco-friendly lifestyle.
 - [Advanced Urban Analytics](https://github.com/gboeing/ppd599) - This course series takes a computational social science approach to working with urban data.
 - [Emerging Technologies for the Circular Economy](https://github.com/ETCE-LAB/teaching-material) - Teaching emerging technologies for the circular economy and the limits to growth.
+- [Scope 3 Challenge](https://github.com/inevolin/Scope3-Challenge) - A structured knowledge base on corporate Scope 3 GHG accounting: all 15 emission categories explained with worked examples, root-cause analysis of why supply-chain accounting fails in practice, deep-dive industry case studies (automotive, apparel, banking, food & agriculture), full regulatory landscape (CSRD, SBTi, PCAF, ISSB S2), and empirical benchmarks derived from 1,391 company disclosures. Includes critical analysis of the inset credit model as emerging market infrastructure for supplier decarbonisation.
 
 ## Green Software 
 -  [Sustainable Software Engineering](https://github.com/luiscruz/course_sustainableSE) - A course that covers techniques for measuring and improving environmental, social, and individual sustainability at every stage of the software lifecycle.
