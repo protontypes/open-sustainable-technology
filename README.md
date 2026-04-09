@@ -2582,6 +2582,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 - [Zarr](https://github.com/zarr-developers/zarr-python) -  Provides an efficient, scalable, and flexible way to store and access large, multi-dimensional arrays, the core data format used in climate models and observational datasets.
 - [NCDatasets.jl](https://github.com/JuliaGeo/NCDatasets.jl) - Allows one to read and create netCDF files, with data sets and attribute lists behaving like Julia dictionaries and variables like Julia arrays, and it implements the CommonDataModel.jl interface.
 - [pycmor](https://github.com/esm-tools/pycmor) - A Python package to simplify the standardization of output into the Climate Model Output Rewriter standard.
+- [IOOS Compliance Checker](https://github.com/ioos/compliance-checker) - A python based tool for data providers to check for completeness and community standard compliance of local or remote netCDF files against CF and ACDD file standards.
 
 
 ### Climate Data Access and Visualization
