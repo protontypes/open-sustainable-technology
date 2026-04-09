@@ -2991,6 +2991,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 - [tidywater](https://github.com/BrownandCaldwell-Public/tidywater) - Incorporates published water chemistry and empirical models in a standard format to build custom, comprehensive drinking water treatment processes.
 - [HydroPol2D](https://github.com/marcusnobrega-eng/HydroPol2D) - An open-source, high-resolution 2D model built in MATLAB for simulating overland flow, infiltration, groundwater-surface water interactions, and pollutant transport.
 - [EPyT-Control](https://github.com/WaterFutures/EPyT-Control) - A Python package for implementing and evaluating control algorithms & strategies in smart water networks.
+- [Wastewater Catchment Areas in Great Britain](https://github.com/tillahoffmann/wastewater-catchment-areas) - This repository provides code to consolidate wastewater catchment areas in Great Britain and evaluate their spatial overlap with statistical reporting units, such as Lower Layer Super Output Areas.
 
 ### Soil and Land
 
