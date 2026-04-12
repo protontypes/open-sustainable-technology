@@ -530,6 +530,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 - [TZ-OSeMOSYS](https://github.com/transition-zero/tz-osemosys) - A TransitionZero implementation of the OSeMOSYS systems model.
 - [PyPSA-SPICE](https://github.com/agoenergy/pypsa-spice) - PyPSA-based Scenario Planning and Integrated Capacity Expansion Model Builder.
 - [Rumi](https://github.com/prayas-energy/Rumi) - A generic, open-source energy systems modelling platform developed by Prayas (Energy Group) to aid policy-relevant analysis.
+- [gridforge](https://git.persee.minesparis.psl.eu/energy-alternatives/gridforge) - A Python library for modeling and analyzing electrical power networks. It provides tools for power flow analysis, cost modeling, and optimization of grid operations and planning.
 
 ### Energy Markets
 
