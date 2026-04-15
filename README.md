@@ -2128,6 +2128,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 - [HYDROLIB-core](https://github.com/Deltares/HYDROLIB-core) - Serves as the basis for various pre- and postprocessing tools for a modelling workflow of hydrodynamic simulations.
 - [RRMPG](https://github.com/kratzert/RRMPG) - Model the response of a catchment to meteorological input data and to forecast the river discharge.
 - [mizuRoute](https://github.com/ESCOMP/mizuRoute) - A tool that takes runoff data from a hydrologic or land surface model to compute streamflow in a user-defined catchment-based river network.
+- [MF-OWHM](https://code.usgs.gov/modflow/mf-owhm) - A MODFLOW-2005 based integrated hydrologic model designed for the analysis of conjunctive-use management.
 
 ### Ocean Models
 
