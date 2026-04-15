@@ -1598,6 +1598,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 - [geohabnet](https://github.com/GarrettLab/HabitatConnectivity) - Enable users to visualise a habitat connectivity risk index for agriculture using their own parameter values.
 - [Where to Work](https://github.com/NCC-CNC/wheretowork) - A web-based application for solving complex conservation scenarios using concepts of systematic conservation planning.
 - [SkyTruth 30x30 Tracker](https://github.com/Vizzuality/skytruth-30x30) - A compelling online experience that builds momentum towards meeting global biodiversity targets by unlocking opportunities for protecting the marine environment and forging connections with the wider 30x30 community.
+- [Makurhini](https://github.com/connectscape/Makurhini) - An R package for comprehensive analysis of landscape fragmentation and connectivity
 
 ### Deforestation and Reforestation
 
