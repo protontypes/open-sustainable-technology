@@ -1040,6 +1040,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 - [nf-co2footprint](https://github.com/nextflow-io/nf-co2footprint) - Estimates the energy consumption for each pipeline task based on the Nextflow resource usage metrics and information about the power consumption of the underlying compute system.
 - [EECO](https://github.com/we3lab/eeco) - A package for calculating electricity-related emissions and costs for optimization problem formulation and other computational analyses.
 - [Cloud Assess](https://github.com/kleis-technology/cloud-assess) - An open-source tool to automate the assessment of the environmental impacts of cloud services.
+- [DCWatch](https://gitlab.com/hubblo/datacenter-watch) - A collaborative research project, aiming to permit societies to better understand the dynamics of datacenters expansion and their past, current and future footprint on both society and the environment.
 
 ### Agriculture and Nutrition
 
