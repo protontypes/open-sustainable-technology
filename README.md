@@ -858,6 +858,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 - [ConStrain](https://github.com/pnnl/ConStrain) - A data-driven knowledge-integrated framework that automatically verifies that building system controls function as intended.
 - [DistrictGenerator](https://github.com/RWTH-EBC/districtgenerator) - An open-source, Python-based tool that provides urban planners, energy suppliers, and related professionals with essential insights into energy demands, enabling effective neighborhood energy system design and supply harmonization.
 - [MyEMS](https://github.com/MyEMS/myems) - Suitable for collecting, analyzing, and reporting energy and carbon emissions such as electricity, water, gas, cooling, and heating in buildings.
+- [BOxCrete](https://github.com/facebookresearch/SustainableConcrete) - An open-source Bayesian optimization framework for probabilistic strength curve prediction and sustainable mix design of concrete.
 
 ### Mobility and Transportation
 
