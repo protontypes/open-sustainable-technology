@@ -2748,6 +2748,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 - [Skyborn](https://github.com/QianyeSu/Skyborn) - A comprehensive Python package for climate data analysis, featuring advanced statistical methods, emergent constraint techniques, and data conversion utilities.
 - [Bluemath](https://github.com/GeoOcean/BlueMath_tk) - Provide a set of statistical tools tailored for climate data analysis, with a focus on statistical classification and prediction.
 - [ESMValCore](https://github.com/ESMValGroup/ESMValCore) - Core functionalities for the ESMValTool, a community diagnostic and performance metrics tool for routine evaluation of Earth System Models in the Climate Model Intercomparison Project.
+- [pyicon](https://gitlab.dkrz.de/m300602/pyicon) - A python post-processing and visualization toolbox for ICON with a focus on ocean data.
 
 ### Climate Downscaling
 
