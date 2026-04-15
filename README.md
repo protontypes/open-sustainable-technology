@@ -1882,6 +1882,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 - [EcoNicheS](https://github.com/armandosunny/EcoNicheS) - Enhancing ecological niche modeling, niche overlap and connectivity analysis using shiny dashboard and R Package.
 - [deepbiosphere](https://github.com/moiexpositoalonsolab/deepbiosphere) - Open-source implementation for plant species distribution mapping using citizen science, remote sensing, and deep convolutional neural networks.
 - [kuenm2](https://github.com/marlonecobos/kuenm2) - Make the process of ecological niche modeling easier, faster, and more reproducible, and at the same time more robust.
+- [enaR](https://github.com/SEELab/enaR) - Provides a set of high-level functions for conducting ecological network analysis.
 
 ### Terrestrial Wildlife
 
