@@ -1912,7 +1912,6 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 - [Circuitscape](https://github.com/Circuitscape/Circuitscape.jl) - Modeling movement and gene flow of plants and animals, as well as identifying areas important for connectivity conservation.
 - [animl-py](https://github.com/conservationtechlab/animl-py) - Includes a set of functions to classify subjects within camera trap field data and can handle both images and videos.
 - [SpeciesNet](https://github.com/google/cameratrapai) - AI models trained to classify species in images from motion-triggered wildlife cameras.
-
 - [PAMGuard](https://github.com/PAMGuard/PAMGuard) - World leading software for the Detection, Classification, and Localisation of marine mammal and other animal sounds.
 - [camtrapdp](https://github.com/inbo/camtrapdp) - R package to read and manipulate Camera Trap Data Packages.
  
@@ -1971,6 +1970,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 - [pysiral](https://github.com/pysiral/pysiral) - Python package for scientific computing satellite radar altimetry over ice-covered ocean.
 - [NeXtSIM](https://github.com/nansencenter/nextsim) - A sea ice model used in the Copernicus Marine Service's Arctic sea ice forecast and reanalysis.
 - [ClimaOcean.jl](https://github.com/CliMA/ClimaOcean.jl) - A framework for realistic ocean-only and coupled ocean + sea-ice simulations driven by prescribed atmospheres and based on Oceananigans and ClimaSeaIce.
+- [openAMUNDSEN](https://github.com/openamundsen/openamundsen) - A fully distributed model, designed primarily for resolving the mass and energy balance of snow and ice covered surfaces in mountain regions.
 
 ### Glacier and Ice Sheets
 
@@ -2173,7 +2173,6 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 - [Samudra](https://github.com/suryadheeshjith/Samudra) - Efficiently emulates the ocean component of a state-of-the-art climate model, accurately reproducing key ocean variables including sea surface height, horizontal velocities, temperature, and salinity, across their full depth.
 - [Clawpack](https://github.com/clawpack/geoclaw) - 2d depth-averaged shallow water equations for flow over varying topography.
 - [CROCO](https://gitlab.inria.fr/croco-ocean/croco) -  Oceanic modeling system resolving very fine scales (especially in the coastal area), and their interactions with larger scales.
-  
 ### Waves and Currents
 
 > __What?__ Waves are disturbances that transmit energy across the ocean's surface, while currents are continuous and directed movements of seawater driven by forces like wind, tides, differences in water density, and the Earth's rotation.
