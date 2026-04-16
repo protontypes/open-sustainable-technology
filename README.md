@@ -2133,6 +2133,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 - [mizuRoute](https://github.com/ESCOMP/mizuRoute) - A tool that takes runoff data from a hydrologic or land surface model to compute streamflow in a user-defined catchment-based river network.
 - [MF-OWHM](https://code.usgs.gov/modflow/mf-owhm) - A MODFLOW-2005 based integrated hydrologic model designed for the analysis of conjunctive-use management.
 - [hydromodel](https://github.com/OuyangWenyu/hydromodel) - A Python implementation of conceptual hydrological models, with a focus on the XinAnJiang (XAJ) model, one of the most widely-used rainfall-runoff models, especially in China and Asian regions.
+- [hydrobricks](https://github.com/hydrobricks/hydrobricks) - A flexible hydrological modelling framework.
 
 ### Ocean Models
 
