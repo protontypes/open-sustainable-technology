@@ -2173,6 +2173,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 - [Samudra](https://github.com/suryadheeshjith/Samudra) - Efficiently emulates the ocean component of a state-of-the-art climate model, accurately reproducing key ocean variables including sea surface height, horizontal velocities, temperature, and salinity, across their full depth.
 - [Clawpack](https://github.com/clawpack/geoclaw) - 2d depth-averaged shallow water equations for flow over varying topography.
 - [CROCO](https://gitlab.inria.fr/croco-ocean/croco) -  Oceanic modeling system resolving very fine scales (especially in the coastal area), and their interactions with larger scales.
+
 ### Waves and Currents
 
 > __What?__ Waves are disturbances that transmit energy across the ocean's surface, while currents are continuous and directed movements of seawater driven by forces like wind, tides, differences in water density, and the Earth's rotation.
@@ -2843,6 +2844,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 - [snail](https://github.com/nismod/snail) - A Python package to help with analysis of the potential impacts of climate hazards and other perils on infrastructure networks.
 - [PEACH](https://github.com/Ouranosinc/peach) - Computes climate indicators over hundreds of different Earth System Model simulations, then combine the results into a single probability density function, accounting for model performance and the relative likelihood of greenhouse gas emission scenario.
 - [HydroUQ](https://github.com/NHERI-SimCenter/HydroUQ) - Predict the response of communities subjected to water-borne hazard events like tsunami and storm surge.
+- [Itzï](https://github.com/ItziModel/itzi) - A powerful, open-source hydrologic and hydraulic modeling platform that makes flood simulation accessible to everyone.
 
 ### Integrated Assessment and Climate Policy
 
