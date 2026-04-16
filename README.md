@@ -1883,6 +1883,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 - [deepbiosphere](https://github.com/moiexpositoalonsolab/deepbiosphere) - Open-source implementation for plant species distribution mapping using citizen science, remote sensing, and deep convolutional neural networks.
 - [kuenm2](https://github.com/marlonecobos/kuenm2) - Make the process of ecological niche modeling easier, faster, and more reproducible, and at the same time more robust.
 - [enaR](https://github.com/SEELab/enaR) - Provides a set of high-level functions for conducting ecological network analysis.
+- [s-jSDM](https://github.com/TheoreticalEcology/s-jSDM) - A scalable and fast method for estimating joint Species Distribution Models (jSDMs) for big community data, including eDNA data.
 
 ### Terrestrial Wildlife
 
