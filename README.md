@@ -2845,6 +2845,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 - [PEACH](https://github.com/Ouranosinc/peach) - Computes climate indicators over hundreds of different Earth System Model simulations, then combine the results into a single probability density function, accounting for model performance and the relative likelihood of greenhouse gas emission scenario.
 - [HydroUQ](https://github.com/NHERI-SimCenter/HydroUQ) - Predict the response of communities subjected to water-borne hazard events like tsunami and storm surge.
 - [Itzï](https://github.com/ItziModel/itzi) - A powerful, open-source hydrologic and hydraulic modeling platform that makes flood simulation accessible to everyone.
+- [pelicun](https://github.com/NHERI-SimCenter/pelicun) - Probabilistic Estimation of Losses, Injuries, and Community resilience Under Natural hazard events.
 
 ### Integrated Assessment and Climate Policy
 
