@@ -859,6 +859,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 - [DistrictGenerator](https://github.com/RWTH-EBC/districtgenerator) - An open-source, Python-based tool that provides urban planners, energy suppliers, and related professionals with essential insights into energy demands, enabling effective neighborhood energy system design and supply harmonization.
 - [MyEMS](https://github.com/MyEMS/myems) - Suitable for collecting, analyzing, and reporting energy and carbon emissions such as electricity, water, gas, cooling, and heating in buildings.
 - [BOxCrete](https://github.com/facebookresearch/SustainableConcrete) - An open-source Bayesian optimization framework for probabilistic strength curve prediction and sustainable mix design of concrete.
+- [URBANopt CLI](https://github.com/urbanopt/urbanopt-cli) - An EnergyPlus- and OpenStudio-based simulation platform for district, campus, and neighborhood-scale energy modeling, including thermal and electrical analysis.
 
 ### Mobility and Transportation
 
