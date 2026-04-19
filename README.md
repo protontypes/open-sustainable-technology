@@ -1860,6 +1860,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 - [greenR](https://github.com/sachit27/greenR) - An R package that enables the quantification, analysis, and visualization of urban greenness within city networks.
 - [Helios](https://github.com/PlantSimulationLab/Helios) - Generate and manipulate plant and other geometric objects, which can feed into biophysical model plug-ins such as radiation transfer, photosynthesis, and evapotranspiration.
 - [L-Py](https://github.com/openalea/lpy) - L-systems were conceived as a mathematical framework for modeling growth of plants.
+- [plantR](https://github.com/LimaRAF/plantR) - An R Package for Managing Species Records from Biological Collections.
 
 ### Species Distribution Modeling
 
