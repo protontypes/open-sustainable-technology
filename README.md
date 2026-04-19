@@ -539,6 +539,8 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 - [fluxopt](https://github.com/FBumann/fluxopt) - Energy system optimization with linopy — detailed dispatch, scaled to multi period planning.
 - [CairnOpen](https://github.com/CEA-Liten/CairnOpen) - Simulation and optimization software for energy and environmental systems.
 - [osier](https://github.com/arfc/osier) - Justice oriented energy system optimization framework.
+- [STEPS](https://gitee.com/lichgang/steps/) - An open source power system simulator designed for balanced large-scale AC-DC hybrid power system analysis.
+
 
 ### Energy Markets
 
