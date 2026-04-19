@@ -1758,6 +1758,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 - [OlmoEarth](https://github.com/allenai/olmoearth_projects) - A collection of real-world Earth-observation model configurations, tutorials and tooling built on top of the open OlmoEarth foundation models to map ecosystems, forest loss, mangroves and more using satellite data.
 - [FuelDeep3D](https://github.com/venkatasivanaga/FuelDeep3D) - Provides tools for processing, feature extraction, and classification of 3D forest point clouds for fuel assessment application.
 - [Open-Canopy](https://github.com/fajwel/Open-Canopy) - Canopy Height Estimation at very High Resolution.
+- [Restor Foundation Tree Crown Delineation Pipeline](https://github.com/Restor-Foundation/tcd) - Restor's ML pipeline for tree crown mapping in aerial images.
 
 
 ### Marine Life and Fishery
