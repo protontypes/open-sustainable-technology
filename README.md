@@ -1139,6 +1139,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 - [Lychen](https://github.com/lychen-lab/lychen) - An environmental and agricultural symbiosis platform aiming to connect diverse actors across the local territory.
 - [QBMS](https://github.com/icarda/QBMS) - This R package assists breeders in linking data systems with their analytic pipelines, a crucial step in digitizing breeding processes.
 - [Brinjel](https://framagit.org/brinjel/brinjel) - Crop planning and recordkeeping software for and by market gardeners.
+- [Holos](https://github.com/holos-aafc/holos) - A whole-farm model and software program that estimates greenhouse gas emissions based on information entered for individual farms.
 
 ## Emissions
 
