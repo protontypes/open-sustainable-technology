@@ -3059,6 +3059,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 - [POOPy](https://github.com/AlexLipp/POOPy) - Object Oriented Python package for interfacing with English Water Companies Event Duration Monitoring data.
 - [Top Of The Poops](https://github.com/top-poop/top-of-the-poops) - Analysing Sewage Information from the UK Environment Agency.
 - [UK Sewage Map](https://github.com/JonnyDawe/UK-Sewage-Map) - A real-time visualization tool showing river sections affected by sewage discharges from combined sewer overflows across the UK.
+- [Wastewater Catchment Areas in Great Britain](https://github.com/tillahoffmann/wastewater-catchment-areas) - This repository provides code to consolidate wastewater catchment areas in Great Britain and evaluate their spatial overlap with statistical reporting units, such as Lower Layer Super Output Areas.
 
 ### Soil and Land
 
