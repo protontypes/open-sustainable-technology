@@ -2854,6 +2854,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 - [HydroUQ](https://github.com/NHERI-SimCenter/HydroUQ) - Predict the response of communities subjected to water-borne hazard events like tsunami and storm surge.
 - [Itzï](https://github.com/ItziModel/itzi) - A powerful, open-source hydrologic and hydraulic modeling platform that makes flood simulation accessible to everyone.
 - [pelicun](https://github.com/NHERI-SimCenter/pelicun) - Probabilistic Estimation of Losses, Injuries, and Community resilience Under Natural hazard events.
+- [ANUGA](https://github.com/GeoscienceAustralia/anuga_core) - Simulation of the shallow water equation, in particular it can be used to model tsunamis and floods.
 
 ### Integrated Assessment and Climate Policy
 
