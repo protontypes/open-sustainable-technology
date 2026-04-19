@@ -2319,6 +2319,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 - [hydrographr](https://github.com/glowabio/hydrographr) - Provides a collection of R function wrappers for GDAL and GRASS-GIS functions to efficiently work with Hydrography90m and spatial biodiversity data.
 - [ERDDAP](https://github.com/ERDDAP/erddap) - Makes ocean and hydrology data easy to find, subset, visualize, and download.
 - [Copernicus Marine Service Toolbox](https://github.com/mercator-ocean/copernicus-marine-toolbox) - A CLI and Python package for discovering, filtering, and downloading Copernicus Marine datasets and metadata with support for subsetting, multiple output formats, and direct Marine Data Store access.
+- [IOOS QC](https://github.com/ioos/ioos_qc) - Collection of utilities, scripts and tests to assist in automated quality assurance and quality control for oceanographic datasets and observing systems.
 
 ## Atmosphere
 
