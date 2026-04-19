@@ -1874,6 +1874,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 - [GSTI](https://github.com/plantphys/gsti) - A project focused on the development of generalized spectra-trait models for the prediction of leaf photosynthetic capacity. This includes models focused on the prediction of Vcmax, Jmax and dark respiration as well as leaf nitrogen, leaf mass per area, leaf water content.
 
 
+- [plantR](https://github.com/LimaRAF/plantR) - An R Package for Managing Species Records from Biological Collections.
 
 ### Species Distribution Modeling
 
