@@ -1449,6 +1449,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 - [bioacoustics](https://github.com/WavX/bioacoustics) - Contains all the necessary functions to read audio recordings of various formats, filter noisy files, display audio signals, detect and extract automatically acoustic features for further analysis such as species identification based on classification of animal vocalization.
 - [Whombat](https://github.com/mbsantiago/whombat) - Web-based audio annotation tool designed to streamline audio data labeling and annotation, with a particular focus on supporting machine learning model development in bioacoustics.
 - [PyPAM](https://github.com/lifewatch/pypam) - Allow easy reading and processing of acoustic underwater data.
+- [AVEX](https://github.com/earthspecies/avex) - An API for model loading and inference, and a Python-based system for training and evaluating bioacoustics representation learning models.
 
 ### Biomass
 
