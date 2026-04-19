@@ -374,6 +374,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 - [APIS](https://github.com/hyphae/APIS) - Autonomous Power Interchange System is an innovative open-source platform that enables Physical Peer-to-Peer (PP2P) energy sharing between distributed batteries in microgrids.
 - [BatteryLife](https://github.com/Ruifeng-Tan/BatteryLife) - A Comprehensive Dataset and Benchmark for Battery Life Prediction.
 - [Battery Pass Data Model](https://github.com/batterypass/BatteryPassDataModel) - Standardizing and streamlining the exchange of battery-related information across the value chain to allow informed stakeholder decisions for sustainable circular economy.
+- [Battery Data Format](https://github.com/battery-data-alliance/battery-data-format) - Provides a standard structure for data generated in battery labs.
 
 ### Hydrogen
 
