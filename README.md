@@ -1860,6 +1860,9 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 - [greenR](https://github.com/sachit27/greenR) - An R package that enables the quantification, analysis, and visualization of urban greenness within city networks.
 - [Helios](https://github.com/PlantSimulationLab/Helios) - Generate and manipulate plant and other geometric objects, which can feed into biophysical model plug-ins such as radiation transfer, photosynthesis, and evapotranspiration.
 - [L-Py](https://github.com/openalea/lpy) - L-systems were conceived as a mathematical framework for modeling growth of plants.
+- [GSTI](https://github.com/plantphys/gsti) - A project focused on the development of generalized spectra-trait models for the prediction of leaf photosynthetic capacity. This includes models focused on the prediction of Vcmax, Jmax and dark respiration as well as leaf nitrogen, leaf mass per area, leaf water content.
+
+
 
 ### Species Distribution Modeling
 
