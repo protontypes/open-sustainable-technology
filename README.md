@@ -2329,6 +2329,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 - [Copernicus Marine Service Toolbox](https://github.com/mercator-ocean/copernicus-marine-toolbox) - A CLI and Python package for discovering, filtering, and downloading Copernicus Marine datasets and metadata with support for subsetting, multiple output formats, and direct Marine Data Store access.
 - [IOOS QC](https://github.com/ioos/ioos_qc) - Collection of utilities, scripts and tests to assist in automated quality assurance and quality control for oceanographic datasets and observing systems.
 - [PING-Mapper](https://github.com/CameronBodine/PINGMapper) - Open-source interface for processing recreation-grade side scan sonar datasets and reproducibly mapping benthic habitat.
+- [hydrodownloadR](https://github.com/bafg-bund/hydrodownloadR) - Unified access to hydrological station catalogs and daily time series from public national/regional APIs, including stations and timeseries via a provider registry with licensing metadata and reproducible workflows.
 
 ## Atmosphere
 
