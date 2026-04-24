@@ -1299,6 +1299,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 - [OpenAirClim](https://github.com/dlr-pa/oac) - A model for simplified evaluation of the approximate chemistry-climate impact of air traffic emissions.
 - [Climatoology](https://gitlab.heigit.org/climate-action/climatoology/) -  Offers high-resolution data and insights on key climate indicators, from heating emissions to walkability, helping you identify both strengths and areas for improvement in your city or region.
 - [OpenGHG Inversions](https://github.com/openghg/openghg_inversions) - A Python package that is being developed as part of the OpenGHG project with the aim of merging the data-processing and simulation modelling capabilities of OpenGHG with the atmospheric Bayesian inverse models developed by the Atmospheric Chemistry Research Group at the University of Bristol.
+- [CHEEREIO](https://github.com/drewpendergrass/CHEEREIO) - The CHEmistry and Emissions REanalysis Interface with Observations is a set of Python and shell scripts that support data assimilation and emissions inversions for arbitrary runs of the GEOS-Chem chemical transport model via an ensemble approach.
 
 
 ## Industrial Ecology
