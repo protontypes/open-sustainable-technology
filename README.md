@@ -1873,6 +1873,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 - [L-Py](https://github.com/openalea/lpy) - L-systems were conceived as a mathematical framework for modeling growth of plants.
 - [GSTI](https://github.com/plantphys/gsti) - A project focused on the development of generalized spectra-trait models for the prediction of leaf photosynthetic capacity. This includes models focused on the prediction of Vcmax, Jmax and dark respiration as well as leaf nitrogen, leaf mass per area, leaf water content.
 - [plantR](https://github.com/LimaRAF/plantR) - An R Package for Managing Species Records from Biological Collections.
+- [LeafMachine2](https://github.com/Gene-Weaver/LeafMachine2) -  A modular suite of computer vision and machine learning algorithms that enables efficient identification, location, and measurement of vegetative, reproductive, and archival components from digital plant datasets.
 
 ### Species Distribution Modeling
 
