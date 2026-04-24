@@ -1836,6 +1836,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 - [forcis](https://github.com/ropensci/forcis) - Provide an interface to the FORCIS database that includes data on living planktonic foraminifera diversity and distribution in the global oceans from 1910 until 2018 collected using plankton tows, continuous plankton recorder, sediment traps and plankton pump from the global ocean.
 - [WHAM](https://github.com/timjmiller/wham) - The Woods Hole Assessment Model is a general age-structured stock assessment framework that can be configured to estimate assessment models that range in complexity from statistical catch-at-age model with annual recruitments as fixed effects, to state-space, multi-stock, multi-region, age-structured models.
 - [TagLab](https://github.com/cnr-isti-vclab/TagLab) - A CNN based image segmentation tool oriented to marine data analysis.
+- [Soundbay](https://github.com/deep-voice/soundbay) - An intuitive and comprehensive Python-based framework for training deep learning models and apply them in bioacoustic research.
 
 
 ### Plants and Vegetation
