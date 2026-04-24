@@ -2055,6 +2055,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 - [From Snow to Flow](https://github.com/DOI-USGS/snow-to-flow) - Describe important dynamics that determine how snow turns into flow, and the charts show the connection between snowpack (measured as snow water equivalent) and streamflow (measured as discharge).
 - [Snowtools](https://github.com/UMR-CNRM/snowtools) - A Python package for pre- and post-processing of SURFEX-Crocus snow model simulations.
 - [SatRbedo](https://github.com/pabl1t0x/SatRbedo) - Tools for retrieving snow and ice albedo from optical satellite imagery.
+- [deep-snow](https://github.com/geo-smart/deep-snow) - An open-source package that provides models and workflows to estimate snow depth from Sentinel-1, Sentinel-2, SNODAS, terrain, and forest-cover inputs.
 
 ## Hydrosphere
 
