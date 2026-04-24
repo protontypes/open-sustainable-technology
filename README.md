@@ -2035,6 +2035,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 - [icepack](https://github.com/icepack/icepack) - A library for modeling the flow of ice sheets and glaciers using the finite element method.
 - [GrIML](https://github.com/GEUS-Glaciology-and-Climate/GrIML) -  Investigating Greenland's ice-marginal lakes under a changing climate.
 - [pDEMtools](https://github.com/trchudley/pdemtools) - pDEMtools provides a convenient set of functions to explore, download, and preprocess high-resolution DEMs of the polar regions from the ArcticDEM and Reference Elevation Model of Antarctica products, courtesy of the Polar Geospatial Center (PGC).
+- [IGM](https://github.com/instructed-glacier-model/igm) - Instructed Glacier Model-
 
 ### Snow and Permafrost
 
