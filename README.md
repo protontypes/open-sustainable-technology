@@ -1299,6 +1299,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 - [OpenAirClim](https://github.com/dlr-pa/oac) - A model for simplified evaluation of the approximate chemistry-climate impact of air traffic emissions.
 - [Climatoology](https://gitlab.heigit.org/climate-action/climatoology/) -  Offers high-resolution data and insights on key climate indicators, from heating emissions to walkability, helping you identify both strengths and areas for improvement in your city or region.
 - [OpenGHG Inversions](https://github.com/openghg/openghg_inversions) - A Python package that is being developed as part of the OpenGHG project with the aim of merging the data-processing and simulation modelling capabilities of OpenGHG with the atmospheric Bayesian inverse models developed by the Atmospheric Chemistry Research Group at the University of Bristol.
+- [HyperGas](https://github.com/SRON-ESG/HyperGas) - Retrieving trace gases enhancements from hyperspectral satellite data and writing it to different formats, including generating plume masks and calculating gas emission rates.
 
 
 ## Industrial Ecology
