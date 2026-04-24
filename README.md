@@ -1665,6 +1665,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 - [RangeShiftR](https://github.com/RangeShifter/RangeShiftR-pkg) - A state-of-the-art eco-evolutionary modelling platform that is becoming increasingly used worldwide for both theoretical and applied purposes.
 - [mvgam](https://github.com/nicholasjclark/mvgam) - Dynamic generalised additive models for forecasting discrete ecological time series.
 - [vegan](https://github.com/vegandevs/vegan) - Ordination methods, diversity analysis and other functions for community and vegetation ecologists.
+- [ctmm](https://github.com/ctmm-initiative/ctmm) - Continuous-Time Movement Modeling functions for identifying, fitting, and applying continuous-space, continuous-time stochastic movement models to animal tracking data.
 
 ### Forest Modeling and Analysis
 
