@@ -1429,6 +1429,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 - [birdnet](https://github.com/birdnet-team/birdnet) - The library is geared towards providing a robust workflow for ecological data analysis in bioacoustic projects.
 - [Nighthawk](https://github.com/bmvandoren/Nighthawk) - A machine learning model for acoustic monitoring of nocturnal bird migration.
 - [GenoFLU](https://github.com/USDA-VS/GenoFLU) - Bird influenza data pipeline to automate genotyping assignment.
+- [nestwatchR](https://github.com/engagement-center/nestwatchR) - Provide a collection of functions to aid in accessing and analyzing the wealth of nesting data contained in the NestWatch database.
 
 ### Bioacoustics and Acoustic Data Analysis
 
