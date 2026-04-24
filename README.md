@@ -1933,6 +1933,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 - [SpeciesNet](https://github.com/google/cameratrapai) - AI models trained to classify species in images from motion-triggered wildlife cameras.
 - [PAMGuard](https://github.com/PAMGuard/PAMGuard) - World leading software for the Detection, Classification, and Localisation of marine mammal and other animal sounds.
 - [camtrapdp](https://github.com/inbo/camtrapdp) - R package to read and manipulate Camera Trap Data Packages.
+- [TRAPPER](https://gitlab.com/trapper-project/trapper) - Designed to manage camera trapping projects, an essential tool in ecological research.
  
 ### Wildfire
 
