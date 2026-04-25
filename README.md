@@ -2618,6 +2618,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 - [cgenie](https://github.com/genie-model/cgenie) - GENIE family of Earth system models.
 - [XRO](https://github.com/senclimate/XRO) - An eXtended nonlinear Recharge Oscillator model for El Niño-Southern Oscillation (ENSO) and other modes of variability in the global ocean.
 - [ClimKern](https://github.com/tyfolino/climkern) - This kernels refer to datasets containing the radiative sensitivities of TOA (or surface) radiation to changes in fields such as temperature, specific humidity, and surface albedo.
+- [ClimaCore](https://github.com/CliMA/ClimaCore) - Constitutes the dynamical core of the CliMA atmosphere and land models, providing discretization tools to solve the governing equations of the earth system model components.
 
 ### Climate Data Standards 
 
