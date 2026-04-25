@@ -2514,6 +2514,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 - [Verif](https://github.com/WFRT/verif) - A command-line tool that lets you verify the quality of weather forecasts for point locations.
 - [ClimWeb](https://github.com/wmo-raf/climweb) - Wagtail based Open Source Content Management System for National Meteorological and Hydrological Services in Africa.
 - [wradlib](https://github.com/wradlib/wradlib) - Designed to assist you in the most important steps of processing weather radar data.
+- [xradar](https://github.com/openradar/xradar) - A tool to work in weather radar data in xarray.
 
 ### Radiative Transfer
 
