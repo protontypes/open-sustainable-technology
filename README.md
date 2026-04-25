@@ -2055,6 +2055,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 - [From Snow to Flow](https://github.com/DOI-USGS/snow-to-flow) - Describe important dynamics that determine how snow turns into flow, and the charts show the connection between snowpack (measured as snow water equivalent) and streamflow (measured as discharge).
 - [Snowtools](https://github.com/UMR-CNRM/snowtools) - A Python package for pre- and post-processing of SURFEX-Crocus snow model simulations.
 - [SatRbedo](https://github.com/pabl1t0x/SatRbedo) - Tools for retrieving snow and ice albedo from optical satellite imagery.
+- [Snow17](https://github.com/NOAA-OWP/snow17) - A snow accumulation and melt model that has been used by the National Weather Service since the late 1970s for operational streamflow forecasting.
 
 ## Hydrosphere
 
