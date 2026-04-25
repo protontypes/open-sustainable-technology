@@ -1523,6 +1523,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 - [Gottesanbeterin Gesucht](https://github.com/opendata-apps/mantis) - An interactive web application to track Mantis Religiosa sightings in Brandenburg.
 - [Arena](https://github.com/openforis/arena) - A cloud-based platform that enables fast, flexible setup and data entry for various field surveys, including biophysical, socio-economic, and biodiversity inventories.
 - [Green Goods](https://github.com/greenpill-dev-guild/green-goods) - Measures, tracks, and rewards the impact on gardens with a simple Progressive Web App.
+- [Panoptes](https://github.com/zooniverse/Panoptes) - Zooniverse API to support user defined volunteer research projects.
 
 ### Biodiversity Data Access and Management
 
