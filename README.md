@@ -1523,6 +1523,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 - [Gottesanbeterin Gesucht](https://github.com/opendata-apps/mantis) - An interactive web application to track Mantis Religiosa sightings in Brandenburg.
 - [Arena](https://github.com/openforis/arena) - A cloud-based platform that enables fast, flexible setup and data entry for various field surveys, including biophysical, socio-economic, and biodiversity inventories.
 - [Green Goods](https://github.com/greenpill-dev-guild/green-goods) - Measures, tracks, and rewards the impact on gardens with a simple Progressive Web App.
+- [biocollect](https://github.com/AtlasOfLivingAustralia/biocollect) - an advanced, but simple-to-use data collection tool for biodiversity science.
 
 ### Biodiversity Data Access and Management
 
