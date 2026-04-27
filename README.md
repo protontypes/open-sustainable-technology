@@ -2213,6 +2213,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 - [EWDM](https://github.com/dspelaez/extended-wdm) - Python toolkit for estimating directional wave spectra of ocean waves based on wavelet transform.
 - [DispersiveShallowWater.jl](https://github.com/NumericalMathematics/DispersiveShallowWater.jl) - A Julia library of structure-preserving numerical methods for dispersive wave equations.
 - [Mantaray](https://github.com/mines-oceanography/mantaray) - A Rust Package for Ray Tracing Ocean Surface Gravity Waves.
+- [PyFES](https://github.com/CNES/aviso-fes) - The prediction of tides is based on the principle of harmonic analysis, a method developed into a practical application by Sir William Thomson (Lord Kelvin) around 1867.
 
 ### Ocean Carbon and Temperature
 
