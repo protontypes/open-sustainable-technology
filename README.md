@@ -1719,6 +1719,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 - [FMT](https://github.com/Bureau-du-Forestier-en-chef/FMT) - An open source forest management library that makes forest planning easier.
 - [knfi](https://github.com/SYOUNG9836/knfi) - An R package was developed to efficiently manage and analyze large-scale National Forest Inventory (NFI) data in South Korea, streamlining the process of monitoring forest ecosystem changes using extensive nationwide survey data.
 - [Castor](https://github.com/bcgov/castor) - A spatial, large-scale analytical model for simulating forest harvest and it's potential influence on other forest values (e.g., wildlife habitat).
+- [pyFIA](https://github.com/mihiarc/pyfia) - Provides a programmatic API for working with Forest Inventory and Analysis data, leveraing modern Python data science tools like Polars and DuckDB for efficient processing of large-scale national forest inventory datasets while maintaining exact statistical compatibility.
 
 ### Forest Remote Sensing 
 
