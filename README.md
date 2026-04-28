@@ -3154,6 +3154,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 - [wlts.py](https://github.com/brazil-data-cube/wlts.py) - Produce information on land use and coverage used by the Brazilian Government to make public policy decisions.
 - [Soil-DRaH](https://github.com/ktoddbrown/SoilDRaH) - The Soil Data Rescue and Harmonization project is a collaborative effort to rescue, harmonize, and curate soil data from multiple sources.
 - [Collect Earth Online](https://github.com/openforis/collect-earth-online) - Crowdsourced visual interpretation of on-demand satellite imagery for land use assessment.
+- [Landbruget.dk](https://github.com/Klimabevaegelsen/landbruget.dk) - Open data project to make agricultural data from Denmark accessible.
 
 ### Ecotoxicology
 
