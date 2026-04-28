@@ -1506,6 +1506,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 - [BioTIMEr](https://github.com/bioTIMEHub/BioTIMEr) - Global database of assemblage time series for quantifying and understanding biodiversity change.
 - [dispRity](https://github.com/TGuillerme/dispRity) -  An open, modular R toolkit for flexible and reproducible analysis of diversity and occupancy in multidimensional ecological and evolutionary data.
 - [TaxonoPy](https://github.com/Imageomics/TaxonoPy) - A Python package for efficiently aligning organismal taxonomic hierarchies using the Global Names Verifier.
+- [unmarked](https://github.com/ecoverseR/unmarked) - An R package for analyzing ecological data arising from several popular sampling techniques. The sampling methods include point counts, occurrence sampling, distance sampling, removal, double observer, and many others.
 
 ### Biodiversity Citizen Science
 
