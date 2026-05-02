@@ -2536,6 +2536,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 - [ClimWeb](https://github.com/wmo-raf/climweb) - Wagtail based Open Source Content Management System for National Meteorological and Hydrological Services in Africa.
 - [wradlib](https://github.com/wradlib/wradlib) - Designed to assist you in the most important steps of processing weather radar data.
 - [xradar](https://github.com/openradar/xradar) - A tool to work in weather radar data in xarray.
+- [PyDDA](https://github.com/openradar/PyDDA) - Designed to retrieve wind kinematics in precipitation storm systems from one or more Doppler weather radars using three dimensional data assimilation.
 
 ### Radiative Transfer
 
