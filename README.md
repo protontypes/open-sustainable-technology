@@ -2935,6 +2935,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 - [JUSTICE](https://github.com/pollockDeVis/JUSTICE) - An open-source Integrated Assessment Modelling Framework allowing exploration of modelling assumptions on Climate Policies.
 - [AeroMAPS](https://github.com/AeroMAPS/AeroMAPS) - A simplified sectoral Integrated Assessment Model (IAM) focusing on air transport transition, aiming at assessing the sustainability of air transport transition scenarios on multiple criteria.
 - [ixmp](https://github.com/iiasa/ixmp) - A data warehouse for high-powered scenario analysis, with interfaces to Python and R for efficient scientific workflows and effective data pre- and post-processing, and a structured database backend for version-controlled data management.
+- [MESSAGEix-GLOBIOM](https://github.com/iiasa/message-ix-models) - Integrated assessment modelling for long-term climate and energy transition scenarios.
 
 ## Natural Resources
 
