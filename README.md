@@ -2217,6 +2217,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 - [Clawpack](https://github.com/clawpack/geoclaw) - 2d depth-averaged shallow water equations for flow over varying topography.
 - [CROCO](https://gitlab.inria.fr/croco-ocean/croco) -  Oceanic modeling system resolving very fine scales (especially in the coastal area), and their interactions with larger scales.
 
+
 ### Waves and Currents
 
 > __What?__ Waves are disturbances that transmit energy across the ocean's surface, while currents are continuous and directed movements of seawater driven by forces like wind, tides, differences in water density, and the Earth's rotation.
@@ -2352,6 +2353,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 - [Copernicus Marine Service Toolbox](https://github.com/mercator-ocean/copernicus-marine-toolbox) - A CLI and Python package for discovering, filtering, and downloading Copernicus Marine datasets and metadata with support for subsetting, multiple output formats, and direct Marine Data Store access.
 - [IOOS QC](https://github.com/ioos/ioos_qc) - Collection of utilities, scripts and tests to assist in automated quality assurance and quality control for oceanographic datasets and observing systems.
 - [PING-Mapper](https://github.com/CameronBodine/PINGMapper) - Open-source interface for processing recreation-grade side scan sonar datasets and reproducibly mapping benthic habitat.
+- [AMOCatlas](https://github.com/AMOCcommunity/amocatlas) - Provides a unified system to access and process data from major Atlantic Meridional Overturning Circulation (AMOC) observing arrays.
 
 ## Atmosphere
 
