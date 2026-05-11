@@ -1192,6 +1192,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 - [GGIRCS](https://github.com/bcgov/cas-ggircs) - BC Climate Action Secretariat's Greenhouse Gas Industrial Reporting and Control System.
 - [ddeq](https://gitlab.com/empa503/remote-sensing/ddeq) - A Python library for data-driven emission quantification of emission hot spots such as cities, power plants and industrial facilities.
 - [CPRG](https://github.com/Metropolitan-Council/ghg-cprg) - GHG Inventory using Climate Pollution Reduction Grant framework and funding.
+- [emit-ghg](https://github.com/emit-sds/emit-ghg) - Mapping of greenhouse gases with EMIT.
 
 
 ### Carbon Offsets and Trading 
