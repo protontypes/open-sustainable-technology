@@ -3196,6 +3196,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 - [toxpiR](https://github.com/ToxPi/toxpiR) - R package for the Toxicological Priority Index (ToxPi) prioritization algorithm.
 - [GeoTox](https://github.com/NIEHS/GeoTox) -  Characterizing the risk of perturbing molecular targets involved in adverse human health outcomes based on exposure to spatially-referenced stressor mixtures.
 - [httk](https://github.com/USEPA/CompTox-ExpoCast-httk) - An open source R package from US EPA for high throughput toxicokinetics and reverse dosimetry, enabling chemical exposure and risk prediction for environmental health applications.
+- [CLASSIC](https://gitlab.com/cccma/classic) - The Canadian Land Surface Scheme Including Biogeochemical Cycles is the land surface component of the CanESM.
 
 
 ## Sustainable Development
