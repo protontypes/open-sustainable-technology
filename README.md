@@ -393,6 +393,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 - [Vehicle with Fuel Cell Powertrain](https://github.com/mathworks/Fuel-Cell-Vehicle-Model-Simscape) - Fuel cell electric vehicle with battery model and cooling system.
 - [VirtualFCS](https://github.com/Virtual-FCS/VirtualFCS) - A Modelica library for hybrid hydrogen fuel cell and battery power systems.
 - [GEOH2](https://github.com/ClimateCompatibleGrowth/GeoH2) - Calculates the locational cost of green hydrogen production, storage, transport, and conversion to meet demand in a specified location.
+- [Electrolyzer](https://github.com/NatLabRockies/electrolyze) - Simulates multi-stack electrolyzer operation, supports PEM and alkaline cell models, tracks degradation, and includes levelized cost of hydrogen analysis utilities.
 
 ## Energy Systems
 
