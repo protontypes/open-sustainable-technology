@@ -1849,6 +1849,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 - [TagLab](https://github.com/cnr-isti-vclab/TagLab) - A CNN based image segmentation tool oriented to marine data analysis.
 - [DAS4Whales](https://github.com/DAS4Whales/DAS4Whales) - Python library to analyze Distributed Acoustic Sensing data for marine bioacoustics.
 - [Soundbay](https://github.com/deep-voice/soundbay) - An intuitive and comprehensive Python-based framework for training deep learning models and apply them in bioacoustic research.
+- [CoralNet-Toolbox](https://github.com/Jordan-Pierce/CoralNet-Toolbox) - Tools for panoptic segmentation and developing machine learning models for benthic imagery.
 
 
 ### Plants and Vegetation
