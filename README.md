@@ -1305,6 +1305,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 - [OpenGHG Inversions](https://github.com/openghg/openghg_inversions) - A Python package that is being developed as part of the OpenGHG project with the aim of merging the data-processing and simulation modelling capabilities of OpenGHG with the atmospheric Bayesian inverse models developed by the Atmospheric Chemistry Research Group at the University of Bristol.
 - [HyperGas](https://github.com/SRON-ESG/HyperGas) - Retrieving trace gases enhancements from hyperspectral satellite data and writing it to different formats, including generating plume masks and calculating gas emission rates.
 - [CHEEREIO](https://github.com/drewpendergrass/CHEEREIO) - The CHEmistry and Emissions REanalysis Interface with Observations is a set of Python and shell scripts that support data assimilation and emissions inversions for arbitrary runs of the GEOS-Chem chemical transport model via an ensemble approach.
+- [SINDBAD](https://github.com/LandEcosystems/Sindbad.jl) - A model data integration framework that encompasses the biogeochemical cycles of water and carbon, allowing for extensive and flexible integration of parsimonious models with a diverse set of observational data streams.
 
 
 ## Industrial Ecology
