@@ -1371,6 +1371,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 - [pycirk](https://github.com/CMLPlatform/pycirk) - Model Circular Economy policy and technological interventions in Environmentally Extended Input-Output Analysis.
 - [FABIO](https://github.com/fineprint-global/fabio) - Forestry and Agriculture Biomass Input-Output Tables.
 - [OpenIO-Canada](https://github.com/CIRAIG/OpenIO-Canada) - Module to create symmetric Environmentally Extended Input-Output tables for Canada.
+- [BoARIO](https://github.com/spjuhel/BoARIO) - Give an accessible and inter-operable implementation of Adaptative Regional Input Output, as well as tools to visualize and analyze simulation outputs and to evaluate the effects of many parameters of the model.
 
 ### Circular Economy and Waste
 
