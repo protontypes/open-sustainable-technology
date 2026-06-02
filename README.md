@@ -1676,7 +1676,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 - [mvgam](https://github.com/nicholasjclark/mvgam) - Dynamic generalised additive models for forecasting discrete ecological time series.
 - [vegan](https://github.com/vegandevs/vegan) - Ordination methods, diversity analysis and other functions for community and vegetation ecologists.
 - [ctmm](https://github.com/ctmm-initiative/ctmm) - Continuous-Time Movement Modeling functions for identifying, fitting, and applying continuous-space, continuous-time stochastic movement models to animal tracking data.
-- [Rpath](https://github.com/NOAA-EDAB/Rpath - An implementation of the Ecopath (mass-balance) and Ecosim (dynamic simulation) methods for the modeling of food webs.
+- [Rpath](https://github.com/NOAA-EDAB/Rpath) - An implementation of the Ecopath (mass-balance) and Ecosim (dynamic simulation) methods for the modeling of food webs.
 
 ### Forest Modeling and Analysis
 
