@@ -1143,6 +1143,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 - [Brinjel](https://framagit.org/brinjel/brinjel) - Crop planning and recordkeeping software for and by market gardeners.
 - [Holos](https://github.com/holos-aafc/holos) - A whole-farm model and software program that estimates greenhouse gas emissions based on information entered for individual farms.
 - [Landbruget.dk](https://github.com/Klimabevaegelsen/landbruget.dk) - Organizes data from 18+ Danish government sources into a single, queryable platform to collect, clean, and publish agricultural, environmental, and regulatory data so that journalists, researchers, and citizens can hold the industry accountable.
+- [Open Traceability](https://github.com/ift-gftc/opentraceability) - Open source Seafood traceability libraries.
 
 ## Emissions
 
