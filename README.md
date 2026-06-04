@@ -564,6 +564,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 - [JulES](https://github.com/NVE/JulES) - A fundamental energy market simulation model for operational planning, that uses TuLiPa as building blocks.
 - [Power TAC](https://github.com/powertac/powertac-server) - Competitive simulation designed to support the study of retail electric power markets, especially as they relate to managing distributed renewable power sources.
 - [Shyft](https://gitlab.com/shyft-os/shyft) - A cross-platform framework built around high-performancetime-series storage and analysis, providing the computational foundation for hydrological forecasting and energy-market modelling.
+- [EpexPredictor](https://github.com/b3nn0/EpexPredictor) - Predicts day-ahead electricity prices for various countries in Europe.
 
 ### Energy Data Accessibility and Integration
 
