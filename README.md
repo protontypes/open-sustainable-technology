@@ -1331,6 +1331,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 - [OpenLCA](https://github.com/GreenDelta/olca-app) - An open source and free software for Sustainability and Life Cycle Assessment.
 - [openLCA modules](https://github.com/GreenDelta/olca-modules) - This project provides the core functionality of openLCA as a set of Maven modules.
 - [openlca-python-tutorial](https://github.com/GreenDelta/openlca-python-tutorial) - Explains the usage of the openLCA API from Python.
+- [Volca](https://github.com/ccomb/volca) - An open-source toolkit for inspecting and working with life-cycle inventory databases through CLI, desktop, API/server, Python, and MCP interfaces.
 - [Global LCA Data Access Network](https://www.globallcadataaccess.org/) - Gathers life cycle dataset providers and other stakeholders who share the goal of improving sustainability-related decisions through enhanced, interoperable and global access to LCA datasets.
 - [BioSTEAM_LCA](https://github.com/scyjth/biosteam_lca) - An agile life cycle assessment platform that enables a fast and flexible evaluation of the life cycle environmental impacts of biorefineries under uncertainty.
 - [Federal LCA Commons](https://www.lcacommons.gov/) - A central point of access to a collection of data repositories for use in Life Cycle Assessment.
