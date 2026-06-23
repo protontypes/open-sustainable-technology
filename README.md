@@ -3390,6 +3390,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 - [oss4climate](https://github.com/Pierre-VF/oss4climate) - A scraping tool for open-source code (GitLab & GitHub) and associated search engine implementation to facilitate discovery of open-source code to address climate challenges.
 - [EMODnetWCS](https://github.com/EMODnet/EMODnetWCS) - Access Marine Data via the EMODnet Web Coverage Service data through R.
 - [etl](https://github.com/owid/etl) - A compute graph for loading and transforming Our World in Data's data.
+- [wbdata](https://github.com/OliverSherouse/wbdata) - A simple python interface to find and request information from the World Bank's various databases, either as a dictionary containing full metadata or as a Pandas DataFrame.
 
 ### Environmental Satellites
 
