@@ -1195,6 +1195,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 - [ddeq](https://gitlab.com/empa503/remote-sensing/ddeq) - A Python library for data-driven emission quantification of emission hot spots such as cities, power plants and industrial facilities.
 - [CPRG](https://github.com/Metropolitan-Council/ghg-cprg) - GHG Inventory using Climate Pollution Reduction Grant framework and funding.
 - [emit-ghg](https://github.com/emit-sds/emit-ghg) - Mapping of greenhouse gases with EMIT.
+- [GreenCalculus](https://github.com/greencalculus/greencalculus-calculator-demo) - Zero-dependency, GHG-Protocol-aligned carbon calculators (Scope 1/2/3, SBTi, PCAF, CBAM) from [greencalculus.com](https://greencalculus.com), each a single self-contained HTML file.
 
 
 ### Carbon Offsets and Trading 
