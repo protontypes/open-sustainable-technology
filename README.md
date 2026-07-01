@@ -543,6 +543,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 - [E4ST](https://github.com/e4st-dev/E4ST.jl) - A modeling and optimization framework for integrated energy systems.
 - [Macro](ps://github.com/macroenergy/MacroEnergy.jl) - Allows you to optimize the design and operations of large multi-sector energy systems.
 - [STRE³AM](https://github.com/ANL-CEEESA/STREAM) - The Strategic Technology Roadmapping and Energy, Environmental, and Economic Analysis Model is an optimization-based modeling tool and analysis framework to assist with strategic planning and technology investments of the industrial sector.
+- [ASSETRA](https://github.com/ijbd/assetra) - The ASSET Lab Resource adequacy package is a light-weight, open-source energy system resource adequacy project.
 
 ### Energy Markets
 
