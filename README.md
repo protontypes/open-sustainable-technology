@@ -672,6 +672,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 - [Open Modeling Framework](https://github.com/nreca-bts/omf) - A set of Python libraries for simulating power systems behavior with an emphasis on cost-benefit analysis of emerging technologies: distributed generation, storage, networked controls, etc.
 - [GridFM](https://github.com/gridfm/gridfm-graphkit) - Train, finetune and interact with a foundation model for the electric power grid.
 - [ERAD](https://github.com/NREL-Distribution-Suites/erad) - Graph based Python library for computing resilience metrics for power distribution systems.
+- [ToOp](https://github.com/eliagroup/ToOp) - Propose new topology strategies to the operators with the goal to lower redispatch costs and carbon emissions.
 
 ### Grid Management and Microgrid
 
