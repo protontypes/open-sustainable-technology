@@ -15,7 +15,7 @@ All listed projects on [OpenSustain.tech](https://opensustain.tech/) will be sup
 1. Issues labeled as **Good First Issue** will be visible on [ClimateTriage.com](https://climatetriage.com/). This is a great way to welcome new community members to your project.
 2. All new projects listed will be posted on our [Mastodon](https://mastodon.social/@opensustaintech) and [Bluesky](https://bsky.app/profile/opensustaintech.bsky.social) channel. 
 
-- [ ] A human being reviewed this Pull Request before it was opened.
+- [ ] This pull request contains a significant amount of AI-generated content. The human author of the PR has reviewed this content.  
 
 Any pull requests for adding a new project that do not reuse our PR template will be closed. 
 
