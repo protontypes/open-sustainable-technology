@@ -207,6 +207,8 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 - [PVCracks](https://github.com/sandialabs/pvcracks) - Investigates the effects of cracks on power loss in photovoltaic (PV) solar cells and tracks crack progression over time.
 - [PASE](https://gitlab.uliege.be/deal-public/pase) - Simulate an agrivoltaic system, calculating both photovoltaic and agricultural output.
 - [PVNet](https://github.com/openclimatefix/PVNet) - A multi-modal late-fusion model for predicting renewable energy generation from weather data.
+- [PV_ELM_pred](https://github.com/cyrilvoyant/PV_ELM_pred) - Benchmarks persistence, cyclic blending, autoregressive and extreme learning machine models for photovoltaic power forecasting, scored against a persistence baseline on several sites.
+- [pv-dimensionality-reduction](https://github.com/cyrilvoyant/pv-dimensionality-reduction) - Forecasts photovoltaic power from the plant own past production alone, comparing seven dimensionality-reduction methods on an explicit accuracy versus model-size trade-off.
 
 ### Wind Energy
 
