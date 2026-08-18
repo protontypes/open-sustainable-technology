@@ -1541,6 +1541,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 - [Green Goods](https://github.com/greenpill-dev-guild/green-goods) - Measures, tracks, and rewards the impact on gardens with a simple Progressive Web App.
 - [Panoptes](https://github.com/zooniverse/Panoptes) - Zooniverse API to support user defined volunteer research projects.
 - [biocollect](https://github.com/AtlasOfLivingAustralia/biocollect) - An advanced, but simple-to-use data collection tool for biodiversity science.
+- [OpenFlexure Microscope](https://gitlab.com/openflexure/openflexure-microscope) - A 3D printable microscope, including a precise mechanical stage to move the sample and focus the optics.  There are many different options for the optics, ranging from a webcam lens to a 100x, oil immersion objective.
 
 ### Biodiversity Data Access and Management
 
