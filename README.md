@@ -3326,6 +3326,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 - [NRPTI](https://github.com/bcgov/NRPTI) - On this site you'll find records, documents and details of compliance and enforcement activities undertaken by British Columbia natural resource agencies such as administrative sanctions, administrative penalties, court convictions, inspections, orders, violation tickets and community environmental justice forums.
 - [QuotaClimat](https://github.com/dataforgoodfr/quotaclimat) - The aim of this work is to deliver a tool to a consortium around QuotaClimat, Climat Medias allowing them to quantify the media coverage of the climate crisis.
 - [Gold Mine Detector](https://github.com/earthrise-media/mining-detector) - Automated detection of artisanal gold mines in Sentinel-2 satellite imagery, with links to related journalism.
+- [CommunityFix](https://github.com/mathix420/communityfix) - An open knowledge platform where communities connect environmental and civic problems to proposed solutions and structured case studies with outcomes, costs, metrics, and sources.
 
 ### Data Catalogs and Interfaces
 
