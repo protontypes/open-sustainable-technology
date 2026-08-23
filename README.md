@@ -1055,6 +1055,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 - [nf-co2footprint](https://github.com/nextflow-io/nf-co2footprint) - Estimates the energy consumption for each pipeline task based on the Nextflow resource usage metrics and information about the power consumption of the underlying compute system.
 - [EECO](https://github.com/we3lab/eeco) - A package for calculating electricity-related emissions and costs for optimization problem formulation and other computational analyses.
 - [Cloud Assess](https://github.com/kleis-technology/cloud-assess) - An open-source tool to automate the assessment of the environmental impacts of cloud services.
+- [claude-carbon](https://github.com/gwittebolle/claude-carbon) - Tracks the carbon footprint of Claude Code agent sessions with a live CO2 status line, per-model reports and shareable report cards.
 
 ### Agriculture and Nutrition
 
