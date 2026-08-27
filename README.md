@@ -389,7 +389,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 - [pandapipes](https://github.com/e2nIEE/pandapipes) - A pipeflow calculation tool that complements pandapower in the simulation of multi energy grids, in particular heat and gas networks.
 - [The Hydrogen Risk Assessment Models](https://github.com/sandialabs/hyram) - The first-ever software toolkit that integrates deterministic and probabilistic models for quantifying accident scenarios, predicting physical effects, and characterizing hydrogen hazards impact on people and structures.
 - [GasModels.jl](https://github.com/lanl-ansi/GasModels.jl) - A Julia/JuMP Package for Gas Network Optimization.
-- [SciGRID_gas](https://www.gas.scigrid.de/) - Methods to create an automated network model of the European gas transportation network.
+- [SciGRID_gas](https://www.dlr.de/en/ve/research-and-transfer/projects/project-scigrid_gas) - Methods to create an automated network model of the European gas transportation network.
 - [Vehicle with Fuel Cell Powertrain](https://github.com/mathworks/Fuel-Cell-Vehicle-Model-Simscape) - Fuel cell electric vehicle with battery model and cooling system.
 - [VirtualFCS](https://github.com/Virtual-FCS/VirtualFCS) - A Modelica library for hybrid hydrogen fuel cell and battery power systems.
 - [GEOH2](https://github.com/ClimateCompatibleGrowth/GeoH2) - Calculates the locational cost of green hydrogen production, storage, transport, and conversion to meet demand in a specified location.
@@ -686,7 +686,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 - [openleadr](https://github.com/OpenLEADR/openleadr-python) - Open Automated Demand Response (OpenADR) is an open and interoperable information exchange model and emerging smart grid standard.
 - [SEAPATH](https://github.com/seapath/meta-seapath) - Aims at developing a reference design and industrial grade open source real-time platform that can run virtualized automation and protection applications for the power grid industry.
 - [InfrastructureSystems.jl](https://github.com/NREL-Sienna/InfrastructureSystems.jl) - Provides utilities to support data models for infrastructure modeling in NREL-SIIP.
-- [SciGRID](https://power.scigrid.de/) - Its intention is to develop methods for the automated generation of models (i.e. maps) of existing electricity grids for research and other purposes.
+- [SciGRID](https://www.dlr.de/en/ve/research-and-transfer/projects/project-scigrid) - Its intention is to develop methods for the automated generation of models (i.e. maps) of existing electricity grids for research and other purposes.
 - [GreenForce](https://github.com/Energinet-DataHub/greenforce-frontend) - National energy transmission system operator data hub developing to support change toward decarbonised economies.
 - [OperatorFabric](https://github.com/opfab/operatorfabric-core) - A modular, extensible, industrial-strength and field-tested platform for use in electricity, water and other utility operations.
 - [energy-sparks](https://github.com/Energy-Sparks/energy-sparks) - An open source application that is designed to help schools improve their energy efficiency.
@@ -765,7 +765,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 - [optihood](https://github.com/SPF-OST/optihood) -  A Python-based framework to optimize the investment in alternative energy technologies as well as the operation of available energy resources for decentralized energy networks on a neighbourhood-scale.
 - [HOPP](https://github.com/NREL/HOPP) - Assesses optimal designs for the deployment of utility-scale hybrid energy plants, particularly considering wind, solar and storage.
 - [REISE.jl](https://github.com/Breakthrough-Energy/REISE.jl) - Renewable Energy Integration Simulation Engine.
-- [PowerGAMA](https://bitbucket.org/harald_g_svendsen/powergama/wiki/Home) - A lightweight simulation tool for high level analyses of renewable energy integration in large power systems.
+- [PowerGAMA](https://github.com/powergama/powergama) - A lightweight simulation tool for high level analyses of renewable energy integration in large power systems.
 - [reV](https://github.com/NREL/reV) - Enables the efficient and scalable computation of renewable energy generation, levelized cost of energy, application of geospatial exclusion layers, and generation of renewable energy supply curves.
 - [pyGRETA](https://github.com/tum-ens/pyGRETA) - Python Generator of REnewable Time series and mAps: a tool that generates high-resolution potential maps and time series for user-defined regions within the globe.
 - [RESKit](https://github.com/FZJ-IEK3-VSA/RESKit) - A toolkit to help generate renewable energy generation time series for energy systems analysis.
@@ -2133,7 +2133,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 - [RUBEM](https://github.com/LabSid-USP/RUBEM) - A distributed hydrological model to calculate monthly flows with changes in land use over time.
 - [pywatershed](https://github.com/EC-USGS/pywatershed) - A sustainable integrated, hydrologic modeling framework for the U.S. Geological Survey.
 - [pyMETRIC](https://github.com/WSWUP/pymetric) - A set of Python based tools developed for estimating and mapping evapotranspiration for large areas, utilizing the Landsat image archive.
-- [SWAT](https://bitbucket.org/blacklandgrasslandmodels/swat_development/src/master/) - The Soil & Water Assessment Tool is a small watershed to river basin-scale model used to simulate the quality and quantity of surface and ground water and predict the environmental impact of land use, land management practices, and climate change.
+- [SWAT](https://swat.tamu.edu/) - The Soil & Water Assessment Tool is a small watershed to river basin-scale model used to simulate the quality and quantity of surface and ground water and predict the environmental impact of land use, land management practices, and climate change.
 - [SWATrunR](https://github.com/chrisschuerz/SWATrunR) -  Allows the user to control the essential parameters of a SWAT simulation run, such as model parameter changes, simulation time periods, or time intervals for printing output used for global soil and water assessment.
 - [SWAT+](https://github.com/swat-model/swatplus) - A small watershed to river basin-scale model to simulate the quality and quantity of surface and ground water and predict the environmental impact of land use, land management practices, and climate change.
 - [SWATprepR](https://github.com/biopsichas/SWATprepR) - Developed to re-use water and nutrients in small agricultural catchments across different soil-climatic regions in Europe. 
@@ -2705,7 +2705,6 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 - [cdsapi](https://github.com/ecmwf/cdsapi) - Python API to access the Copernicus Climate Data Store.
 - [PRISM](https://github.com/ropensci/prism) - Download data from the Oregon PRISM climate data project.
 - [climaemet](https://github.com/rOpenSpain/climaemet) - An interface to download the climatic data of the Spanish Meteorological Agency directly from R using their API and create scientific graphs.
-- [Climate Data Store Toolbox](https://cds.climate.copernicus.eu/toolbox/doc/index.html) - Dive into this wealth of information about the Earth's past, present and future climate.
 - [Climsight](https://github.com/CliDyn/climsight) - A next-generation climate information system that uses large language models alongside high-resolution climate model data, scientific literature, and diverse databases to deliver accurate, localized, and context-aware climate assessments.
 - [chirps](https://github.com/ropensci/chirps) - A quasi-global high-resolution rainfall data set, which incorporates satellite imagery and in-situ station data to create gridded rainfall time series for trend analysis and seasonal drought monitoring.
 - [ClimateSERVpy](https://github.com/SERVIR/ClimateSERVpy) - Enables access to the ClimateSERV API where many types of climate data can be subset by area of interest, and time range, then either downloaded as tif, or NetCDf files, or the data can be statistically processed to render json values or csv.
@@ -3343,7 +3342,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 - [The Subak Data Catalogue](https://data.subak.org/) - Exists to make climate data more discoverable, more trusted and more connected.
 - [EEA geospatial data catalogue](https://github.com/eea/geonetwork-eea) - Discover and access easily the geospatial data catalogue of the European Environment Agency.
 - [Radiant MLHub Python Client](https://github.com/radiantearth/radiant-mlhub) - Open community commons for geospatial training data, machine learning models, and standards to encourage collaboration and share information.
-- [Global Environmental Database](https://db.cger.nies.go.jp/portal/geds/index) - Providing long-term monitoring data, data analysis results, output of models.
+- [Global Environmental Database](https://db.cger.nies.go.jp/ged/en/) - Providing long-term monitoring data, data analysis results, output of models.
 - [Resource Watch](https://github.com/resource-watch/resource-watch) - Features hundreds of data sets all in one place on the state of the planet's resources and citizens.
 - [EarthData](https://www.earthdata.nasa.gov/) - Our vision is to make NASA's free and open Earth science data interactive, interoperable, and accessible for research and societal benefit both today and tomorrow.
 - [owidR](https://github.com/piersyork/owidR) - An R Package for Interacting with Data from Our World in Data.
