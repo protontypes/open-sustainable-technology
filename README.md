@@ -2110,6 +2110,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 - [HydroShare](https://github.com/hydroshare/hydroshare) - A collaborative website for better access to data and models in the hydrologic sciences.
 - [SOILWAT2](https://github.com/DrylandEcology/SOILWAT2) - An ecosystem water balance simulation model.
 - [RivGraph](https://github.com/VeinsOfTheEarth/RivGraph) - Extracting and quantifying graphical representations of river and delta channel networks from binary masks.
+- [GroundwaterCast](https://github.com/dominicm2023/groundwatercast-uk) - Daily probabilistic groundwater-level forecasts for every monitored borehole in England, built entirely on open data.
 - [WaterDetect](https://github.com/cordmaur/WaterDetect) - End-to-end algorithm to generate open water cover mask, specially conceived for L2A Sentinel 2 imagery from MAJA1 processor, without any a priori knowledge on the scene.
 - [FLAREr](https://github.com/FLARE-forecast/FLAREr) - Flexible, scalable, robust, and near-real time iterative ecological forecasts in lakes and reservoirs.
 - [Wflow](https://github.com/Deltares/Wflow.jl) - A Julia package that provides a hydrological modeling framework, as well as several different vertical and lateral concepts that can be used to run hydrological simulations.
