@@ -545,6 +545,9 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 - [STRE³AM](https://github.com/ANL-CEEESA/STREAM) - The Strategic Technology Roadmapping and Energy, Environmental, and Economic Analysis Model is an optimization-based modeling tool and analysis framework to assist with strategic planning and technology investments of the industrial sector.
 - [ASSETRA](https://github.com/ijbd/assetra) - The ASSET Lab Resource adequacy package is a light-weight, open-source energy system resource adequacy project.
 
+
+- [MUIOGO](https://github.com/EAPD-DRB/MUIOGO) - The integration project to bring the purely Python-based OG-Core model into MUIO, the GUI for OSeMOSYS (CLEWS).
+
 ### Energy Markets
 
 > __What?__ A type of commodity marketplace where electricity, heat, and fuel products are bought and sold.
