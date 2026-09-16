@@ -625,6 +625,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 - [POSTED](https://github.com/PhilippVerpoort/posted) - A public database of techno-economic data on energy and climate-mitigation technologies and a framework for consistent handling of this database.
 - [Prospect Energy](https://gitlab.com/prospect-energy/prospect-server) - An open source data platform for the energy access sector that allows you to customize data flows coming from ongrid, minigrid and offgrid sources.
 - [PowerIO](https://github.com/eigenergy/powerio) - Parses power system case files into a typed Network, converts between formats, and builds sparse matrices and graph representations for solver and analysis code.
+- [AirLink](https://github.com/EnAccess/AirLink-Server) - Relays PAYGO asset data via Bluetooth gateways to extend connectivity coverage for off-grid solar devices in remote communities.
 
 ### Energy Policy
 
