@@ -570,6 +570,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 - [Power TAC](https://github.com/powertac/powertac-server) - Competitive simulation designed to support the study of retail electric power markets, especially as they relate to managing distributed renewable power sources.
 - [Shyft](https://gitlab.com/shyft-os/shyft) - A cross-platform framework built around high-performancetime-series storage and analysis, providing the computational foundation for hydrological forecasting and energy-market modelling.
 - [EpexPredictor](https://github.com/b3nn0/EpexPredictor) - Predicts day-ahead electricity prices for various countries in Europe.
+- [OpenPAYGO-HW](https://github.com/EnAccess/OpenPAYGO-HW) - Open hardware reference designs for making solar home systems and appliances PAYGO-compatible.
 
 ### Energy Data Accessibility and Integration
 
