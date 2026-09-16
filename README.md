@@ -679,6 +679,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 - [GridFM](https://github.com/gridfm/gridfm-graphkit) - Train, finetune and interact with a foundation model for the electric power grid.
 - [ERAD](https://github.com/NREL-Distribution-Suites/erad) - Graph based Python library for computing resilience metrics for power distribution systems.
 - [ToOp](https://github.com/eliagroup/ToOp) - Propose new topology strategies to the operators with the goal to lower redispatch costs and carbon emissions.
+- [NXT GIS](https://github.com/EnAccess/nxt-gis) - A geospatial analysis backend for electrification infrastructure planning of mini-grid service territories.
 
 ### Grid Management and Microgrid
 
