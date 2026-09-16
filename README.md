@@ -706,6 +706,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 - [Vessim](https://github.com/dos-group/vessim) - A co-simulation testbed for energy-aware and carbon-aware applications and systems, based on Mosaik.
 - [VILLASnode](https://github.com/VILLASframework/node) - Used in distributed- and co-simulation scenarios and developed for the field of power grid simulation at the EON Energy Research Center in Aachen.
 - [eELib](https://gitlab.com/elenia1/elenia-energy-library) - A Python-based framework for simulating future power systems for prosumer households, focusing on operating strategies for energy management systems.
+- [PyEPlan](https://github.com/SPS-L/pyeplan) - A Python library for the investment and operation planning of resilient mini-grids in developing countries.
 
 
 ### Load and Demand Forecasting
