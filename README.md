@@ -1156,6 +1156,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 - [Holos](https://github.com/holos-aafc/holos) - A whole-farm model and software program that estimates greenhouse gas emissions based on information entered for individual farms.
 - [Landbruget.dk](https://github.com/Klimabevaegelsen/landbruget.dk) - Organizes data from 18+ Danish government sources into a single, queryable platform to collect, clean, and publish agricultural, environmental, and regulatory data so that journalists, researchers, and citizens can hold the industry accountable.
 - [Open Traceability](https://github.com/ift-gftc/opentraceability) - Open source Seafood traceability libraries.
+- [gleam](https://github.com/un-fao/GLEAM) - R package implementing the FAO GLEAM model to simulate livestock systems and estimate emissions based on herd, feed, and energy flows.
 
 ## Emissions
 
