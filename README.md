@@ -709,6 +709,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 - [VILLASnode](https://github.com/VILLASframework/node) - Used in distributed- and co-simulation scenarios and developed for the field of power grid simulation at the EON Energy Research Center in Aachen.
 - [eELib](https://gitlab.com/elenia1/elenia-energy-library) - A Python-based framework for simulating future power systems for prosumer households, focusing on operating strategies for energy management systems.
 - [MicroPowerManager](https://github.com/EnAccess/micropowermanager) - An open source management tool for decentralised utilities covering customer registration, metering, tariffs, billing and pay-as-you-go revenue collection for mini-grids and solar home systems.
+- [GridSuite](https://github.com/gridsuite/gridexplore-app) - An open-source suite of web applications designed to operate, visualize, analyse, and design electrical grids.
 
 
 ### Load and Demand Forecasting
