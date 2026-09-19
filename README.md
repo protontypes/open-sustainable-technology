@@ -1204,6 +1204,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 - [ddeq](https://gitlab.com/empa503/remote-sensing/ddeq) - A Python library for data-driven emission quantification of emission hot spots such as cities, power plants and industrial facilities.
 - [CPRG](https://github.com/Metropolitan-Council/ghg-cprg) - GHG Inventory using Climate Pollution Reduction Grant framework and funding.
 - [emit-ghg](https://github.com/emit-sds/emit-ghg) - Mapping of greenhouse gases with EMIT.
+- [vsme-sustainability-framework](https://github.com/bemehrbani/vsme-sustainability-framework) - Open-source voluntary ESG reporting and carbon accounting framework implementing the EFRAG VS (VSME) standard and GHG Protocol Scope 1, 2, and 3 calculations.
 
 
 ### Carbon Offsets and Trading 
