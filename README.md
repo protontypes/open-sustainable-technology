@@ -2921,6 +2921,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 - [Itzï](https://github.com/ItziModel/itzi) - A powerful, open-source hydrologic and hydraulic modeling platform that makes flood simulation accessible to everyone.
 - [pelicun](https://github.com/NHERI-SimCenter/pelicun) - Probabilistic Estimation of Losses, Injuries, and Community resilience Under Natural hazard events.
 - [ANUGA](https://github.com/GeoscienceAustralia/anuga_core) - Simulation of the shallow water equation, in particular it can be used to model tsunamis and floods.
+- [OpenHydroNet](https://github.com/google-research/flood-forecasting) - A global flood-forecasting models with the aim to foster transparency, enable in-house integration in production systems, and accelerate academic research.
 
 ### Integrated Assessment and Climate Policy
 
