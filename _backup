@@ -1,0 +1,12 @@
+{% extends "base.html" %}
+
+{% block announce %}
+  <a href="https://report.opensustain.tech/">
+    <div style="color:#009485">
+      <strong> Read our latest study <i>Open Source in Environmental Sustainability</i>, analysing all the projects listed. </strong>
+      <span class="twemoji seedling" style="color:#009485":
+      {% include ".icons/fontawesome/solid/seedling.svg" %}
+    </span>
+    </div>
+  </a>
+{% endblock %}
