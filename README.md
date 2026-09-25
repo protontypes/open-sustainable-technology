@@ -207,6 +207,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 - [PVCracks](https://github.com/sandialabs/pvcracks) - Investigates the effects of cracks on power loss in photovoltaic (PV) solar cells and tracks crack progression over time.
 - [PASE](https://gitlab.uliege.be/deal-public/pase) - Simulate an agrivoltaic system, calculating both photovoltaic and agricultural output.
 - [PVNet](https://github.com/openclimatefix/PVNet) - A multi-modal late-fusion model for predicting renewable energy generation from weather data.
+- [PowerLab](https://powelab.org) - Client-side deterministic modeling and sizing framework for solar PV, battery storage (BESS), and inverter systems under NEC 2023 and IEEE 1547. ([Source Code](https://github.com/miadsaadidi/powerlab))
 
 ### Wind Energy
 
