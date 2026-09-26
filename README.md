@@ -34,7 +34,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
   - [Energy Markets](#energy-markets)
   - [Energy Data Accessibility and Integration](#energy-data-accessibility-and-integration)
   - [Energy Policy](#energy-policy)
-   [Grid Analysis and Planning](#grid-analysis-and-planning)
+   - [Grid Analysis and Planning](#grid-analysis-and-planning)
   - [Grid Management and Microgrid](#grid-management-and-microgrid)
   - [Load and Demand Forecasting](#load-and-demand-forecasting)
   - [Global and Regional Energy System Models](#global-and-regional-energy-system-models)
@@ -49,7 +49,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
   - [Carbon Intensity and Accounting](#carbon-intensity-and-accounting)
   - [Carbon Offsets and Trading](#carbon-offsets-and-trading)
   - [Carbon Capture](#carbon-capture)
-  - [Emission Observation and Modeling](#emission-observation-and-modeling)> 
+  - [Emission Observation and Modeling](#emission-observation-and-modeling) 
 - [Industrial Ecology](#industrial-ecology)
   - [Life Cycle Assessment](#life-cycle-assessment)
   - [Input Output Model](#input-output-model)
