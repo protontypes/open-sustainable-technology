@@ -683,9 +683,11 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 - [ERAD](https://github.com/NREL-Distribution-Suites/erad) - Graph based Python library for computing resilience metrics for power distribution systems.
 - [ToOp](https://github.com/eliagroup/ToOp) - Propose new topology strategies to the operators with the goal to lower redispatch costs and carbon emissions.
 
-### Grid Management and Microgrid
+- [GERT](https://github.com/DresdenGman/Grid-Extreme-Risk-Toolkit-GERT-) - Open-source grid extreme-risk teaching toolkit; Historical Lab reproduces a grid-risk calculation from 216 hours of public ERCOT data with checksummed, independently verifiable results.
 
+### Grid Management and Microgrid
 > __What?__ The control and coordination of electricity distribution networks, including smaller local systems called microgrids that can operate independently or alongside the primary grid.
+
 
 > __How?__ These tools help simulate and optimize grid operation and management; coordinate large numbers of microgrids; balance demand and supply; and facilitate secure energy transactions between actors.
 
