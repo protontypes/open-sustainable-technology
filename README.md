@@ -2314,6 +2314,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 - [OSMCoastline](https://github.com/osmcode/osmcoastline) - Extracts the coastline data from an OSM planet file and assembles all the pieces into polygons for use in map renderers.
 - [CoastSeg](https://github.com/SatelliteShorelines/CoastSeg) - An interactive browser-based program that aims to broaden the adoption of satellite-derived shoreline detection and coastal landcover mapping workflows among coastal scientists and coastal resource management practitioners.
 - [CoastalME](https://github.com/CoastalModellingEnvironment/coastalme) - A Free and Open Source software for geospatial modelling to simulate decadal and longer coastal morphological changes.
+- [marola](https://github.com/marola-dev/marola) - A citizen-science ocean guide that combines open sea, weather and tide forecasts with official bathing-water quality bulletins to rank Brazilian beaches, with a deterministic safety veto and locally run LLM explanations.
 
 
 ### Ocean and Hydrology Data Access
