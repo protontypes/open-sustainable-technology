@@ -3338,6 +3338,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 - [QuotaClimat](https://github.com/dataforgoodfr/quotaclimat) - The aim of this work is to deliver a tool to a consortium around QuotaClimat, Climat Medias allowing them to quantify the media coverage of the climate crisis.
 - [Gold Mine Detector](https://github.com/earthrise-media/mining-detector) - Automated detection of artisanal gold mines in Sentinel-2 satellite imagery, with links to related journalism.
 - [Story Seed Library](https://codeberg.org/alxd/storyseedlibrary) - An openly licensed and community translated library of Solarpunk art and story prompts, helping writers and educators picture concrete futures in which humanity lives sustainably on Earth.
+- [Energy Icons](https://github.com/Sam-r-passmore/energy-icons) - An MIT licensed icon library of 1,279 icons for the energy transition, from generation, grid and storage to heat, transport and climate, drawn on 20 and 48 px optical masters so energy and climate tools can show their systems clearly in dashboards, reports and diagrams.
 
 ### Data Catalogs and Interfaces
 
