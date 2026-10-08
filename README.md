@@ -1672,6 +1672,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 - [Whisp](https://github.com/forestdatapartnership/whisp-app) - Geospatial Analysis Tool for Zero-Deforestation Claims.
 - [se.plan](https://github.com/sepal-contrib/se.plan) - This mapping tool combines ecological data on forest restoration with data on restoration’s benefits, costs, and risks.
 - [Planting Optimisation Tool](https://github.com/Chameleon-company/Planting-Optimisation-Tool) - A data-driven recommendation system designed to support sustainable reforestation and agroforestry planning in Timor-Leste.
+- [treetracker-web-map-client](https://github.com/Greenstand/treetracker-web-map-client) - Displays location and details of all trees that have been tracked in Greenstand.
 
 ### Ecological and Environmental Modeling
 
