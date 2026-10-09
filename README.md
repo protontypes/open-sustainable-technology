@@ -2752,6 +2752,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 - [urban-heat](https://github.com/damienallen/urban-heat) - Interactive urban heat island effect visualizations for European cities.
 - [CMIP7 Data Request Software](https://github.com/CMIP-Data-Request/CMIP7_DReq_Software) - Quick user guide for python software to interact with the CMIP7 data request.
 - [LogoClim](https://github.com/sustentarea/logoclim) - Allows researchers to integrate high-resolution climate data into agent-based models, supporting reproducible research in ecology, agriculture, environmental sciences, and other fields that rely on climate data.
+- [ClimaScope](https://github.com/naomi197/climascope) - Android and browser observatory for live climate parameters at any point on Earth, including greenhouse gases, air quality, GloFAS river discharge, and a HighResMIP outlook.
 
 ### Climate Data Processing and Analysis
 
