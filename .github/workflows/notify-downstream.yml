@@ -1,0 +1,42 @@
+name: Notify downstream repos of README changes
+
+# When a merged PR changes README.md on main, tell the two repos built from it
+# to refresh:
+#   - opensustain.analytics rebuilds data/*.csv from ecosyste.ms
+#     (release_dataset.py --csv-only) and republishes its payloads, which in
+#     turn triggers an opensustain.tech rebuild with the new metrics.
+#   - opensustain.tech rebuilds straight away, so the new project shows up in
+#     its directory before the analytics refresh finishes.
+#
+# Needs a secret named OST_TECH_DISPATCH_TOKEN: a fine-grained PAT owned by
+# protontypes with access to opensustain.tech and opensustain.analytics and
+# "Contents: read and write" (repository_dispatch needs write access on the
+# target repo; the default GITHUB_TOKEN cannot reach another repository).
+# Without it this workflow does nothing.
+on:
+  push:
+    branches: [main]
+    paths:
+      - "README.md"
+  workflow_dispatch:
+
+jobs:
+  notify:
+    runs-on: ubuntu-latest
+    # Job-level so the step's `if` can see it: secrets can't be used in `if`
+    # directly, and a step's own `env` isn't reliably visible to that step's `if`.
+    env:
+      DISPATCH_TOKEN: ${{ secrets.OST_TECH_DISPATCH_TOKEN }}
+    strategy:
+      fail-fast: false
+      matrix:
+        repo: [opensustain.analytics, opensustain.tech]
+    steps:
+      - name: Dispatch ost-readme-updated to ${{ matrix.repo }}
+        if: ${{ env.DISPATCH_TOKEN != '' }}
+        run: |
+          curl -sS -f -X POST \
+            -H "Authorization: token $DISPATCH_TOKEN" \
+            -H "Accept: application/vnd.github.v3+json" \
+            https://api.github.com/repos/protontypes/${{ matrix.repo }}/dispatches \
+            -d '{"event_type":"ost-readme-updated"}'

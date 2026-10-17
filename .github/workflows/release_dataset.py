@@ -6,6 +6,7 @@ from io import StringIO
 from urllib.parse import urlparse
 import argparse
 import logging
+import sys
 
 # Set up logging
 logging.basicConfig(
@@ -21,9 +22,19 @@ parser = argparse.ArgumentParser(description="Push metadata from ecosyste.ms to 
 parser.add_argument(
     '-k', '--key',            # Argument name (short and long form)
     type=str,                 # Datatype of the argument 
-    required=True,            # Makes this argument mandatory
     help='Grist API Key'      # Help text for this argument
 )
+
+parser.add_argument(
+    '--csv-only',
+    action='store_true',
+    help='Only write projects.csv and organizations.csv, skip the Grist upload. '
+         'Used by opensustain.analytics to refresh its data after README changes.'
+)
+
+args = parser.parse_args()
+if not args.csv_only and not args.key:
+    parser.error('--key is required unless --csv-only is set')
 
 ## defines all Grist types that are not text by default.
 ## does not work so far. Types need to set in the Grist frontend.
@@ -45,7 +56,7 @@ column_types = {
 logger.info("Starting script execution")
 
 # Replace these with your values
-API_KEY = parser.parse_args().key
+API_KEY = args.key
 DOC_ID = "gSscJkc5Rb1Rw45gh1o1Yc" # The grist document ID
 MAX_BYTES = 700_000
 
@@ -330,6 +341,10 @@ logger.info("Save processed CSV files to disk for release")
 # Store csv file of projects
 df_grist_projects.to_csv("projects.csv", index=False)
 df_grist_organization.to_csv("organizations.csv", index=False)
+
+if args.csv_only:
+    logger.info("--csv-only set, skipping the Grist upload")
+    sys.exit(0)
    
 
 logger.info("Creating funding dataframe")
