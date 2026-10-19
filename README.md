@@ -193,6 +193,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 - [InSPIRE](https://github.com/NREL/InSPIRE) - Here we will collect scripts, trainings, studies, and any other open-source material that can help further the understanding and research of agrivoltaics.
 - [twoaxistracking](https://github.com/pvlib/twoaxistracking) - A Python package for simulating two-axis tracking solar collectors, particularly self-shading.
 - [huawei_solar](https://github.com/wlcrs/huawei_solar) - This integration exposes the information and functions made available by Huawei Solar inverters directly via one of its Modbus interfaces in Home Assistant.
+- [Helio](https://github.com/byrishi/helio) - A self-hosted dashboard for rooftop solar systems with Eybond WiFi dataloggers that reads exact daily generation from the inverter counter via ShineMonitor, with live power, history and savings.
 - [Sunsynk-Power-Flow-Card](https://github.com/slipx06/sunsynk-power-flow-card) - A customizable Home Assistant card to emulate the Sunsynk System flow that's displayed on the Inverter screen.
 - [Solarman integration](https://github.com/StephanJoubert/home_assistant_solarman) - Home Assistant component for interacting with Solarman data collectors used with a variety of inverters.
 - [SunPeek](https://gitlab.com/sunpeek/sunpeek) - Implements a dynamic, in situ test methodology for large solar thermal plants.
