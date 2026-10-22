@@ -1645,6 +1645,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 - [SkyTruth 30x30 Tracker](https://github.com/Vizzuality/skytruth-30x30) - A compelling online experience that builds momentum towards meeting global biodiversity targets by unlocking opportunities for protecting the marine environment and forging connections with the wider 30x30 community.
 - [Marxan Cloud platform](https://github.com/Vizzuality/marxan-cloud) - Supports collaboration and decision-making for biodiversity conservation and socio-economic objectives for land, freshwater and ocean systems.
 - [Makurhini](https://github.com/connectscape/Makurhini) - An R package for comprehensive analysis of landscape fragmentation and connectivity.
+- [BioRegional OS](https://github.com/Greenfire-solutions/Bioregional-OS) - A local-first operating system for community watershed and ecoregion stewardship that compiles open soil, hydrology and biodiversity data per region and enforces consent and ecological assessment gates in code.
 
 ### Deforestation and Reforestation
 
