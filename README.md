@@ -3012,6 +3012,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 - [CREAHIA](https://github.com/energyandcleanair/creahia) - An R package dedicated to health impact assessment (HIA) of air pollution.
 - [ECHO-AIR](https://github.com/echo-air-model/echo-air) - A repository of scripts used for converting emissions to concentrations and health impacts using the InMAP Source-Receptor Matrix.
 - [Smart Citizen Data](https://github.com/fablabbcn/smartcitizen-data) - A python package for analyzing environmental sensor's data.
+- [EnviroQC](https://github.com/LiuxinBlade/EnviroQC) - Local, offline data-quality screening for environmental monitoring tables with traceable, source-row-level findings.
 
 
 ### Water Supply and Quality
