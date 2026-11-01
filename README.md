@@ -711,6 +711,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 - [VILLASnode](https://github.com/VILLASframework/node) - Used in distributed- and co-simulation scenarios and developed for the field of power grid simulation at the EON Energy Research Center in Aachen.
 - [eELib](https://gitlab.com/elenia1/elenia-energy-library) - A Python-based framework for simulating future power systems for prosumer households, focusing on operating strategies for energy management systems.
 - [MicroPowerManager](https://github.com/EnAccess/micropowermanager) - An open source management tool for decentralised utilities covering customer registration, metering, tariffs, billing and pay-as-you-go revenue collection for mini-grids and solar home systems.
+- [generator-ats-sizing-calculator](https://github.com/romangrid/generator-ats-sizing-calculator) - Algorithmic calculation toolkit for sizing industrial generator sets, ATS automation panels, and hybrid microgrid balance with commercial solar PV and LiFePO4 BESS.
 
 
 ### Load and Demand Forecasting
