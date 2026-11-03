@@ -7,7 +7,7 @@ The project is:
 - [ ] Licensed with an open source license
 - [ ] Shows usage from external parties
 - [ ] Directly targets environmental sustainability
-- [ ] This pull request contains a significant amount of AI-generated content. The human author of the PR has reviewed this content.  
+- [ ] Contains a significant amount of AI-generated content. This content has been reviewed and validated by a human developer. 
 
 Find more details in the [Contribution Guide](https://opensustain.tech/contributing/).
 
