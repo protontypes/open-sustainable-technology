@@ -7,7 +7,7 @@ The project is:
 - [ ] Licensed with an open source license
 - [ ] Shows usage from external parties
 - [ ] Directly targets environmental sustainability
-- [ ] Contains a significant amount of AI-generated content. This content has been reviewed and validated by a human developer. 
+- [ ] Contains a significant amount of LLM-generated content. This content has been reviewed and validated by a human developer. 
 
 Find more details in the [Contribution Guide](https://opensustain.tech/contributing/).
 
