@@ -702,6 +702,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 - [openmodelica-microgrid-gym](https://github.com/upb-lea/openmodelica-microgrid-gym) - An OpenAI Gym Environment for Microgrids.
 - [APIS](https://github.com/SonyCSL/APIS) - Build a microgrid that utilizes variable renewable energy as the main power source and enhances the resilience of the power system.
 - [python-microgrid](https://github.com/ahalev/python-microgrid) - A Python library to generate and simulate a large number of microgrids.
+- [PESLite](https://github.com/lonaparte/PESLite) - A lightweight Python simulator for power-electronic converters and converter-based power systems, supporting switching and averaged models, multirate time integration, and grid-following and grid-forming control.
 - [CLOVER](https://github.com/CLOVER-energy/CLOVER) - A minigrid simulation and optimisation for supporting rural electrification in developing countries.
 - [Gym-ANM](https://github.com/robinhenry/gym-anm) - Design Reinforcement Learning environments that model Active Network Management tasks in electricity distribution networks.
 - [PowerModelsACDC.jl](https://github.com/Electa-Git/PowerModelsACDC.jl) - A a Julia/JuMP/PowerModels package with models for DC lines, meshed DC networks, and AC DC converters.
