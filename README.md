@@ -989,6 +989,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 - [Industry Energy Tool](https://github.com/NREL/Industry-Energy-Tool) - A calculator developed by NREL for projecting energy efficiency and fuel switching scenarios for the U.S. industrial sector energy use and emissions at the Census Region and county-level.
 - [CalTRACK](https://github.com/opendsm/caltrack) - Methods are developed in an open and transparent stakeholder process that uses empirical testing to define replicable methods for calculating normalized metered energy consumption using either monthly or interval data from an existing conditions baseline.
 - [OpenModelica](https://github.com/OpenModelica/OpenModelica) - An open source Modelica-based modeling and simulation environment intended for industrial and academic usage.
+- [FORECAST-Sites](https://github.com/fraunhofer-isi/forecast-sites) - A technology diffusion model to simulate industry transformation scenarios with high spatial resolution for energy-intensive industry branches, including the first part of the Fraunhofer ISI IndustrialSiteDatabase for European primary steel, HVC, ammonia, and methanol.
 
 ### Computation and Communication
 
