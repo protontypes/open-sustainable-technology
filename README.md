@@ -2933,6 +2933,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 > __How?__ These tools help perform integrated assessment models and scenario analysis; collect, study, and forecast the effects of climate policies; and model broader societal behaviors related to the interactions between society and the environment.
 
 - [PRIMAP2](https://github.com/pik-primap/primap2) - The next generation climate policy analysis suite.
+- [Climate Insights Directory API and MCP](https://github.com/Climate-Insights-Directory/climate-insights-directory-mcp) - API and MCP access for a corpus of Climate communications documents from Civil society. Best fit for evaluating risk and policy conditions on climate topics.
 - [Climate Policy Radar Methodology](https://github.com/climatepolicyradar/methodology) - Climate Policy Radar and Climate Change Laws of the World methodology documents.
 - [MESSAGEix](https://github.com/iiasa/message_ix) - A versatile, dynamic systems-optimization modeling framework developed by the IIASA Energy, Climate, and Environment (ECE) Program since the 1980s.
 - [DICE.jl](https://github.com/Libbum/DICE.jl) - The Dynamic Integrated model of Climate and the Economy model family are a popular and capable type of simple Integrated Assessment Model of climate change economics pioneered by William Nordhaus.
