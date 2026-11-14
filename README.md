@@ -1066,6 +1066,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 - [EECO](https://github.com/we3lab/eeco) - A package for calculating electricity-related emissions and costs for optimization problem formulation and other computational analyses.
 - [Cloud Assess](https://github.com/kleis-technology/cloud-assess) - An open-source tool to automate the assessment of the environmental impacts of cloud services.
 - [claude-carbon](https://github.com/gwittebolle/claude-carbon) - Tracks the carbon footprint of Claude Code agent sessions with a live CO2 status line, per-model reports and shareable report cards.
+- [SAEF](https://github.com/guillermollopis/soma-ai-emission-factors) - Open CC BY 4.0 carbon and water emission factors for estimating the footprint of AI inference by model class and cloud region, with a Python package.
 
 ### Agriculture and Nutrition
 
