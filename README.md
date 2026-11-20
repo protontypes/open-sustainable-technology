@@ -977,6 +977,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 - [nammayatri](https://github.com/nammayatri/nammayatri) - A Direct-to-Driver open mobility platform powering the next-generation of mobility applications in India.
 - [biclaR](https://github.com/U-Shift/biclar) - A tool for the design and assessment of different scenarios of the cycling network models in the Lisbon metropolitan area.
 - [ha-evcc](https://github.com/marq24/ha-evcc) - Home Assistant integration for evcc optimized charging of electric vehicles, connecting your EV charger with your PV system.
+- [carbon-cost](https://github.com/majidkabir/carbon-cost) - Prices the road tolls and carbon charges of a truck trip in Europe per country and per charge, showing the CO2 part separately, with every rate fetched by script from the law that sets it.
 
 ### Production and Industry
 
