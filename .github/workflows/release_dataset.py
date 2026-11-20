@@ -95,8 +95,14 @@ logger.info("Fetching data from ecosyste.ms API")
 ECOSYSTEM_URL = "https://ost.ecosyste.ms/api/v1/projects?reviewed=true&per_page=3000"
 FILE_TO_SAVE_AS = "ecosystems_repository_downloads.json" # the name you want to save file as
 
-resp = requests.get(ECOSYSTEM_URL,timeout=120) # making requests to server. For running in GitHub long timeouts are needed. 
+# ecosyste.ms blocks the default python-requests User-Agent (429), so identify the project
+ECOSYSTEM_HEADERS = {
+    'User-Agent': 'open-sustainable-technology (https://github.com/protontypes/open-sustainable-technology)'
+}
+
+resp = requests.get(ECOSYSTEM_URL,headers=ECOSYSTEM_HEADERS,timeout=120) # making requests to server. For running in GitHub long timeouts are needed.
 logger.info(f"Received response from ecosyste.ms API with status code: {resp.status_code}")
+resp.raise_for_status() # fail here instead of parsing an error body as project data
 
 with open(FILE_TO_SAVE_AS, "wb") as f: # opening a file handler to create new file 
     f.write(resp.content) # writing content to file
@@ -116,10 +122,11 @@ ECOSYSTEM_URL_IMAGES = "https://ost.ecosyste.ms/api/v1/projects/images"
 FILE_TO_SAVE_AS_IMAGES = "ecosystems_images.json" # the name you want to save file as
 
 
-resp_images = requests.get(ECOSYSTEM_URL_IMAGES,timeout=30) # making requests to server
+resp_images = requests.get(ECOSYSTEM_URL_IMAGES,headers=ECOSYSTEM_HEADERS,timeout=30) # making requests to server
 logger.info(f"Received image data with status code: {resp_images.status_code}")
+resp_images.raise_for_status()
 
-with open(FILE_TO_SAVE_AS, "wb") as f: # opening a file handler to create new file 
+with open(FILE_TO_SAVE_AS_IMAGES, "wb") as f: # opening a file handler to create new file
     f.write(resp_images.content) # writing content to file
 df_ecosystems_images = pd.read_json(StringIO(resp_images.content.decode()))
 logger.info(f"Loaded {len(df_ecosystems_images)} image records")
