@@ -13,6 +13,10 @@ from pathlib import Path
 import requests
 
 ECOSYSTEMS_TIMEOUT = 30
+# ecosyste.ms blocks the default python-requests User-Agent (429), so identify the project
+ECOSYSTEMS_HEADERS = {
+    "User-Agent": "open-sustainable-technology (https://github.com/protontypes/open-sustainable-technology)"
+}
 
 KNOWN_OSS_LICENSES = {
     "MIT", "Apache-2.0", "GPL-2.0", "GPL-3.0", "LGPL-2.1", "LGPL-3.0",
@@ -38,7 +42,13 @@ def extract_project_url(pr_body):
 
 def fetch_json(url, params=None):
     try:
-        resp = requests.get(url, params=params, timeout=ECOSYSTEMS_TIMEOUT, allow_redirects=True)
+        resp = requests.get(
+            url,
+            params=params,
+            headers=ECOSYSTEMS_HEADERS,
+            timeout=ECOSYSTEMS_TIMEOUT,
+            allow_redirects=True,
+        )
         if resp.status_code != 200:
             return None
         return resp.json()
@@ -78,6 +88,7 @@ def trigger_ost_sync(url):
         requests.get(
             "https://ost.ecosyste.ms/api/v1/projects/lookup",
             params={"url": url},
+            headers=ECOSYSTEMS_HEADERS,
             timeout=10,
         )
     except Exception:
